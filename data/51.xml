@@ -1,0 +1,10 @@
+<div type="fragment" corresp="adams:35" ana="#anatomie">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:6.49.2">
+        <w lemma="nec(-)">Nec</w> 
+        <w lemma="qui(nominatif féminin singulier)|qui(nominatif féminin pluriel)|qui(nominatif neutre pluriel)|qui(accusatif neutre pluriel)|quis(nominatif féminin singulier)|quis(nominatif féminin pluriel)|quis(nominatif neutre pluriel)|quis(accusatif neutre pluriel)">quae</w> 
+        <w lemma="sto(3ème singulier indicatif présent actif)">stat</w> 
+        <w lemma="rigido(2ème singulier impératif présent actif)|rigidus(nominatif féminin singulier)|rigidus(vocatif féminin singulier)|rigidus(ablatif féminin singulier)|rigidus(nominatif neutre pluriel)|rigidus(vocatif neutre pluriel)|rigidus(accusatif neutre pluriel)">rigida</w> 
+        <w lemma="supino(2ème singulier impératif présent actif)|supinus(nominatif féminin singulier)|supinus(vocatif féminin singulier)|supinus(ablatif féminin singulier)|supinus(nominatif neutre pluriel)|supinus(vocatif neutre pluriel)|supinus(accusatif neutre pluriel)">supina</w> 
+        <w lemma="uena(nominatif singulier)|uena(vocatif singulier)|uena(ablatif singulier)|venum(nominatif pluriel)|venum(vocatif pluriel)|venum(accusatif pluriel)|ueno(2ème singulier impératif présent actif)">vena</w>    
+    </quote>
+ </div>

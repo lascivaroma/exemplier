@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:38" ana="#anatomie">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001:6.1-7.1">
+        <w lemma="dico(datif masculin singulier participe parfait passif)|dico(ablatif masculin singulier participe parfait passif)|dico(datif neutre singulier participe parfait passif)|dico(ablatif neutre singulier participe parfait passif)|dicto(1ère singulier indicatif présent actif)|dictum(datif singulier)|dictum(ablatif singulier)|dictus(datif masculin singulier)|dictus(ablatif masculin singulier)|dictus(datif neutre singulier)|dictus(ablatif neutre singulier)">dicto</w> 
+        <w lemma="cite(comparatif)|cito(comparatif)|citus(nominatif neutre singulier comparatif)|citus(vocatif neutre singulier comparatif)|citus(accusatif neutre singulier comparatif)|Citius(nominatif singulier)">citius</w> 
+        <w lemma="nervus(génitif singulier)|nervus(nominatif pluriel)|nervus(vocatif pluriel)|Nervii(nominatif pluriel)|Nervii(vocatif pluriel)|Nervius(génitif masculin singulier)|Nervius(nominatif masculin pluriel)|Nervius(vocatif masculin pluriel)|Nervius(génitif neutre singulier)">nervi</w> 
+        <w lemma="pareo(3ème pluriel indicatif parfait actif)">paruerunt</w> 
+        <w lemma="imperium(datif singulier)|imperium(ablatif singulier)">imperio</w>
+
+        <w lemma="manus(nominatif masculin singulier)|manus(nominatif singulier)|manus(vocatif singulier)|manus(génitif singulier)|manus(nominatif pluriel)|manus(vocatif pluriel)|manus(accusatif pluriel)|manos(nominatif singulier)">manusque</w> 
+        <w lemma="anicula(génitif singulier)|anicula(datif singulier)|anicula(nominatif pluriel)|anicula(vocatif pluriel)">aniculae</w> 
+        <w lemma="ingens(datif masculin singulier)|ingens(ablatif masculin singulier)|ingens(datif féminin singulier)|ingens(ablatif féminin singulier)|ingens(datif neutre singulier)|ingens(ablatif neutre singulier)">ingenti</w> 
+        <w lemma="motus(ablatif singulier)|moueo(supin en -u)">motu</w> 
+        <w lemma="repleo(3ème pluriel indicatif parfait actif)">repleverunt</w>    
+    </quote>
+ </div>

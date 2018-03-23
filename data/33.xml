@@ -1,0 +1,31 @@
+<div type="fragment" corresp="adams:31" ana="#personnification">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0097.phi001:69-72">
+        <w lemma="nunc(-)">nunc</w> 
+        <w lemma="in(-)">in</w> 
+        <w lemma="nome(accusatif singulier)|nomen(accusatif singulier)|nomen(nominatif singulier)|nomen(vocatif singulier)">nomen</w> 
+        <w lemma="Ia(accusatif singulier)|jam(-)">iam</w>, 
+        <w lemma="qui(nominatif féminin singulier)|qui(nominatif féminin pluriel)|qui(nominatif neutre pluriel)|qui(accusatif neutre pluriel)|quis(nominatif féminin singulier)|quis(nominatif féminin pluriel)|quis(nominatif neutre pluriel)|quis(accusatif neutre pluriel)">quae</w> 
+        <w lemma="ex(-)">ex</w> 
+        <w lemma="testis(datif pluriel)|testis(ablatif pluriel)|testis(datif pluriel)|testis(ablatif pluriel)">testibus</w> 
+        <w lemma="ipse(nominatif masculin singulier)">ipse</w> 
+        <w lemma="rogo(gérondif datif)|rogo(gérondif ablatif)|rogo(datif masculin singulier adjectif verbal)|rogo(ablatif masculin singulier adjectif verbal)|rogo(datif neutre singulier adjectif verbal)|rogo(ablatif neutre singulier adjectif verbal)">rogando</w> 	
+
+        <w lemma="exsculpo(1ère singulier indicatif présent actif)">exculpo</w>, 
+        <w lemma="hic(nominatif féminin singulier)|hic(nominatif neutre pluriel)|hic(accusatif neutre pluriel)">haec</w> 
+        <w lemma="dica(accusatif singulier)|dico(1ère singulier indicatif futur actif)|dico(1ère singulier subjonctif présent actif)|Dice(accusatif singulier)">dicam</w>
+
+        <w lemma="">chirodytoe</w> 
+        <w lemma="auratus(génitif masculin singulier)|auratus(nominatif masculin pluriel)|auratus(vocatif masculin pluriel)|auratus(génitif neutre singulier)|auro(génitif masculin singulier participe parfait passif)|auro(nominatif masculin pluriel participe parfait passif)|auro(vocatif masculin pluriel participe parfait passif)|auro(génitif neutre singulier participe parfait passif)">aurati</w>, 
+        <w lemma="rica(génitif singulier)|rica(datif singulier)|rica(nominatif pluriel)|rica(vocatif pluriel)">ricae</w>, 
+        <w lemma="">toracia</w>, 
+        <w lemma="mitra(génitif singulier)|mitra(datif singulier)|mitra(nominatif pluriel)|mitra(vocatif pluriel)">mitrae</w> 	
+
+        <w lemma="sion(génitif singulier)|si(-)">si</w> 
+        <w lemma="nates(datif pluriel)|nates(ablatif pluriel)|natis(datif pluriel)|natis(ablatif pluriel)|natus(datif pluriel)|natus(ablatif pluriel)">natibus</w> 
+        <w lemma="natrix(accusatif singulier)">natricem</w> 
+        <w lemma="imprimo(3ème singulier indicatif parfait actif)">inpressit</w> 
+        <w lemma="crassus(accusatif féminin singulier)">crassam</w> 
+        <w lemma="et(-)">et</w> 
+        <w lemma="capitatus(accusatif féminin singulier)">capitatam</w>     
+    </quote>
+ </div>

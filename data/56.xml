@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:35" ana="#anatomie">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.33">
+        <w lemma="nes(accusatif singulier)|nam(-)">nam</w> 
+        <w lemma="simul(-)">simul</w> 
+        <w lemma="ac(-)">ac</w> 
+        <w lemma="uena(accusatif pluriel)|ueno(2ème singulier indicatif présent actif)">venas</w> 
+        <w lemma="inflo(3ème singulier indicatif parfait actif)">inflavit</w> 
+        <w lemma="taeter(nominatif féminin singulier)|taeter(vocatif féminin singulier)|taeter(ablatif féminin singulier)|taeter(nominatif neutre pluriel)|taeter(vocatif neutre pluriel)|taeter(accusatif neutre pluriel)|taetro(2ème singulier impératif présent actif)|taetrum(nominatif pluriel)|taetrum(vocatif pluriel)|taetrum(accusatif pluriel)|taetrus(nominatif féminin singulier)|taetrus(vocatif féminin singulier)|taetrus(ablatif féminin singulier)|taetrus(nominatif neutre pluriel)|taetrus(vocatif neutre pluriel)|taetrus(accusatif neutre pluriel)">taetra</w> 
+        <w lemma="libido(nominatif singulier)|libido(vocatif singulier)">libido</w>,     
+    </quote>
+ </div>

@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:42" ana="#contenant">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat1:24.7">
+        <w lemma="mox(-)">mox</w> 
+        <w lemma="manus(accusatif masculin singulier)|manus(nominatif neutre singulier)|manus(vocatif neutre singulier)|manus(accusatif neutre singulier)|manus(accusatif singulier)|manon(nominatif singulier)|manon(vocatif singulier)|manon(accusatif singulier)|manos(accusatif singulier)">manum</w> 
+        <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiam</w> 
+
+        <w lemma="demitto(3ème singulier indicatif parfait actif)">demisit</w> 
+        <w lemma="in(-)">in</w> 
+        <w lemma="sinus(accusatif singulier)|sinum(nominatif singulier)|sinum(vocatif singulier)|sinum(accusatif singulier)|sinus(accusatif singulier)">sinum</w> 
+        <w lemma="et(-)">et</w> 
+        <w lemma="pertracto(2ème singulier impératif futur actif)|pertracto(3ème singulier impératif futur actif)|pertracto(datif masculin singulier participe parfait passif)|pertracto(ablatif masculin singulier participe parfait passif)|pertracto(datif neutre singulier participe parfait passif)|pertracto(ablatif neutre singulier participe parfait passif)|pertractatus(datif masculin singulier)|pertractatus(ablatif masculin singulier)|pertractatus(datif neutre singulier)|pertractatus(ablatif neutre singulier)">pertractato</w> 
+        <w lemma="vasculum(datif singulier)|vasculum(ablatif singulier)">vasculo</w> 
+        <w lemma="tam(-)|tam(positif)">tam</w> 
+        <w lemma="rudis(datif masculin singulier)|rudis(ablatif masculin singulier)|rudis(datif féminin singulier)|rudis(ablatif féminin singulier)|rudis(datif neutre singulier)|rudis(ablatif neutre singulier)|rudis(datif singulier)|rudo(infinitif présent passif)">rudi</w>    
+    </quote>
+ </div>

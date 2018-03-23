@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:30" ana="#personnification">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:83.4-83.5">
+        <w lemma="nec(-)">nec</w> 
+        <w lemma="uiriliter(positif)">viriliter</w> 
+        <w lemma="iners(nominatif neutre singulier)|iners(vocatif neutre singulier)|iners(accusatif neutre singulier)|iners(nominatif masculin singulier)|iners(vocatif masculin singulier)|iners(nominatif féminin singulier)|iners(vocatif féminin singulier)">iners</w> 
+        <w lemma="senilis(nominatif neutre singulier)|senilis(vocatif neutre singulier)|senilis(accusatif neutre singulier)">senile</w> 
+        <w lemma="penis(accusatif pluriel)|penis(génitif singulier)|penus(datif pluriel)|penus(ablatif pluriel)|penum(datif pluriel)|penum(ablatif pluriel)|Penius(datif pluriel)|Penius(ablatif pluriel)|penis(nominatif singulier)|penis(vocatif singulier)">penis</w> 
+        <w lemma="ecfero(3ème singulier indicatif parfait actif)|effero(3ème singulier indicatif parfait actif)|extollo(3ème singulier indicatif parfait actif)">extulit</w> 
+        <w lemma="caput(accusatif singulier)|caput(nominatif singulier)|caput(vocatif singulier)">caput</w>    
+    </quote>
+ </div>

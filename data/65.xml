@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:37" ana="#anatomie">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:9.43-9.44">
+        <w lemma="an(-)">an</w> 
+        <w lemma="facile(positif)|facilis(nominatif neutre singulier)|facilis(vocatif neutre singulier)|facilis(accusatif neutre singulier)">facile</w> 
+        <w lemma="et(-)">et</w> 
+        <w lemma="pronus(accusatif masculin singulier)|pronus(nominatif neutre singulier)|pronus(vocatif neutre singulier)|pronus(accusatif neutre singulier)">pronum</w> 
+        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
+        <w lemma="ago(infinitif présent actif)|ago(2ème singulier indicatif présent passif)|ago(2ème singulier indicatif futur passif)|ago(2ème singulier impératif présent passif)">agere</w> 
+        <w lemma="intro(2ème singulier impératif présent actif)|intra(-)">intra</w> 
+        <w lemma="viscus(nominatif pluriel)|viscus(vocatif pluriel)|viscus(accusatif pluriel)|viscera(nominatif pluriel)|viscera(vocatif pluriel)|viscera(accusatif pluriel)|viscera(accusatif singulier)|viscera(nominatif singulier)|viscera(vocatif singulier)">uiscera</w> 
+        <w lemma="penis(accusatif singulier)">penem</w> 	
+
+        <w lemma="legitimus(accusatif masculin singulier)|legitimus(nominatif neutre singulier)|legitimus(vocatif neutre singulier)|legitimus(accusatif neutre singulier)">legitimum</w> 
+        <w lemma="atque(-)|at(-)">atque</w> 
+        <w lemma="illic(-)">illic</w> 
+        <w lemma="hesternus(génitif féminin singulier)|hesternus(datif féminin singulier)|hesternus(nominatif féminin pluriel)|hesternus(vocatif féminin pluriel)">hesternae</w> 
+        <w lemma="occurro(3ème pluriel indicatif parfait actif)|occurro(infinitif présent actif)|occurro(2ème singulier indicatif présent passif)|occurro(2ème singulier indicatif futur passif)|occurro(2ème singulier impératif présent passif)">occurrere</w> 
+        <w lemma="cena(génitif singulier)|cena(datif singulier)|cena(nominatif pluriel)|cena(vocatif pluriel)">cenae</w>?     
+    </quote>
+ </div>
