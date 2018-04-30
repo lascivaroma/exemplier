@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:47" ana="#euphemisms #voisinage">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo016.perseus-lat2:29">
+        <w lemma="qui(ablatif masculin singulier)|qui(ablatif neutre singulier)|quis(ablatif masculin singulier)|quis(ablatif neutre singulier)|quo(-)">quo</w> 
+        <w lemma="fera(génitif singulier)|fera(datif singulier)|fera(nominatif pluriel)|fera(vocatif pluriel)|ferus(génitif féminin singulier)|ferus(datif féminin singulier)|ferus(nominatif féminin pluriel)|ferus(vocatif féminin pluriel)">ferae</w> 
+        <w lemma="pellis(ablatif singulier)|pello(2ème singulier impératif présent actif)|Pelle(nominatif singulier)|Pelle(vocatif singulier)|Pelle(ablatif singulier)">pelle</w> 
+        <w lemma="contego(nominatif masculin singulier participe parfait passif)|contectus(nominatif masculin singulier)">contectus</w> 
+        <w lemma="emitto(3ème singulier subjonctif imparfait passif)">emitteretur</w> 
+        <w lemma="Megisto(ablatif singulier)|e(-)">e</w> 
+        <w lemma="cauea(nominatif singulier)|cauea(vocatif singulier)|cauea(ablatif singulier)">cauea</w> 
+        <w lemma="uir(génitif pluriel)|uiror(génitif pluriel)">uirorumque</w> 
+        <w lemma="ac(-)">ac</w> 
+        <w lemma="femina(génitif pluriel)">feminarum</w> 
+        <w lemma="ad(-)">ad</w> 
+        <w lemma="stipes(accusatif singulier)">stipitem</w>
+
+        <w lemma="deligo(génitif masculin pluriel participe parfait passif)|deligo(génitif neutre pluriel participe parfait passif)|deligatus(génitif masculin pluriel)|deligatus(génitif neutre pluriel)">deligatorum</w> 
+        <w lemma="inguen(nominatif pluriel)|inguen(vocatif pluriel)|inguen(accusatif pluriel)|inguina(nominatif singulier)|inguina(vocatif singulier)|inguina(ablatif singulier)">inguina</w> 
+        <w lemma="invado(3ème singulier subjonctif imparfait actif)">inuaderet</w>    
+    </quote>
+ </div>
