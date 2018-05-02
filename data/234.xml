@@ -1,0 +1,41 @@
+<div type="fragment" corresp="adams:53" ana="#euphemisms #aidoion">
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:179">
+        <w lemma="is(génitif masculin singulier)|is(génitif féminin singulier)|is(génitif neutre singulier)|Eus(nominatif neutre singulier comparatif)|Eus(vocatif neutre singulier comparatif)|Eus(accusatif neutre singulier comparatif)">eius</w> 
+        <w lemma="memor(nominatif neutre singulier)|memor(vocatif neutre singulier)|memor(accusatif neutre singulier)|memor(nominatif masculin singulier)|memor(vocatif masculin singulier)|memor(nominatif féminin singulier)|memor(vocatif féminin singulier)|Memor(nominatif singulier)|Memor(vocatif singulier)">memor</w> 
+        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
+        <w lemma="in(-)">in</w> 
+        <w lemma="liber(datif singulier)|liber(ablatif singulier)|libro(1ère singulier indicatif présent actif)|librum(datif singulier)|librum(ablatif singulier)">libro</w> 
+        <w lemma="signum(génitif pluriel)">Signorum</w> 
+        <w lemma="Demetrius(nominatif singulier)">Demetrius</w> 
+        <w lemma="Apameus(nominatif masculin singulier)">Apameus</w> 
+        <w lemma="dico(nominatif masculin singulier participe présent actif)|dico(vocatif masculin singulier participe présent actif)|dico(nominatif féminin singulier participe présent actif)|dico(vocatif féminin singulier participe présent actif)|dico(nominatif neutre singulier participe présent actif)|dico(vocatif neutre singulier participe présent actif)|dico(accusatif neutre singulier participe présent actif)">dicens</w>, 
+        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
+        <w lemma="hic(ablatif masculin singulier)|hic(nominatif neutre singulier)|hic(accusatif neutre singulier)|hic(ablatif neutre singulier)|hoc(-)">hoc</w> 
+        <w lemma="in(-)">in</w> 
+        <w lemma="quidam(ablatif masculin singulier)|quidam(ablatif neutre singulier)">quodam</w> 
+        <w lemma="uideo(3ème singulier indicatif futur antérieur actif)|uideo(3ème singulier subjonctif parfait actif)">uiderit</w> 
+        <w lemma="seneo(2ème singulier impératif présent actif)|senex(ablatif masculin singulier)|senex(ablatif féminin singulier)|senex(ablatif neutre singulier)|senex(ablatif singulier)|senus(vocatif masculin singulier)|se(accusatif masculin singulier)|se(ablatif masculin singulier)|se(accusatif masculin pluriel)|se(ablatif masculin pluriel)|se(accusatif féminin singulier)|se(ablatif féminin singulier)|se(accusatif féminin pluriel)|se(ablatif féminin pluriel)|se(accusatif neutre singulier)|se(ablatif neutre singulier)|se(accusatif neutre pluriel)|se(ablatif neutre pluriel)|se(-)">sene</w> 
+        <w lemma="atque(-)|at(-)">atque</w> 
+        <w lemma="in(-)">in</w> 
+        <w lemma="se(accusatif masculin singulier)|se(ablatif masculin singulier)|se(accusatif masculin pluriel)|se(ablatif masculin pluriel)|se(accusatif féminin singulier)|se(ablatif féminin singulier)|se(accusatif féminin pluriel)|se(ablatif féminin pluriel)|se(accusatif neutre singulier)|se(ablatif neutre singulier)|se(accusatif neutre pluriel)|se(ablatif neutre pluriel)|se(-)">se</w> 
+        <w lemma="ipse(nominatif neutre singulier)|ipse(accusatif neutre singulier)|ipse(accusatif masculin singulier)">ipsum</w> 
+        <w lemma="manus(ablatif singulier)">manu</w> 
+        <w lemma="operor(ablatif masculin singulier participe présent actif)|operor(ablatif féminin singulier participe présent actif)|operor(ablatif neutre singulier participe présent actif)|opero(ablatif masculin singulier participe présent actif)|opero(ablatif féminin singulier participe présent actif)|opero(ablatif neutre singulier participe présent actif)|operans(nominatif neutre singulier)|operans(vocatif neutre singulier)|operans(accusatif neutre singulier)">operante</w> 
+        <w lemma="nec(-)">nec</w> 
+        <w lemma="quicquam(nominatif masculin singulier)|quicquam(nominatif neutre singulier)|quicquam(accusatif neutre singulier)">quicquam</w> 
+        <w lemma="tamen(-)">tamen</w> 
+        <w lemma="possum(infinitif parfait actif)">potuisse</w> 
+        <w lemma="perago(infinitif présent actif)|perago(2ème singulier indicatif présent passif)|perago(2ème singulier indicatif futur passif)|perago(2ème singulier impératif présent passif)">peragere</w>, 
+        <w lemma="tensio(accusatif singulier)">tensionem</w> 
+        <w lemma="autem(-)">autem</w> 
+        <w lemma="sum(infinitif parfait actif)">fuisse</w> 
+        <w lemma="ueretrum(génitif singulier)">ueretri</w> 
+        <w lemma="nimius(accusatif féminin singulier)">nimiam</w> 
+        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
+        <w lemma="parvum(datif singulier)|parvum(ablatif singulier)|parvus(datif masculin singulier)|parvus(ablatif masculin singulier)|parvus(datif neutre singulier)|parvus(ablatif neutre singulier)|paruus(datif masculin singulier)|paruus(ablatif masculin singulier)|paruus(datif neutre singulier)|paruus(ablatif neutre singulier)">paruo</w> 
+        <w lemma="dolor(ablatif singulier)">dolore</w>, 
+        <w lemma="ut(-)">ut</w> 
+        <w lemma="cornu(nominatif singulier)|cornu(vocatif singulier)|cornu(accusatif singulier)|cornu(ablatif singulier)|cornus(ablatif singulier)|cornus(ablatif singulier)">cornu</w> 
+        <w lemma="puto(3ème singulier subjonctif imparfait passif)">putaretur</w>    
+    </quote>
+ </div>
