@@ -1,0 +1,9 @@
+<div type="fragment" corresp="adams:69" ana="#testicle">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0975.phi001.perseus-lat2:3.11.3">
+        <w lemma="damnum(nominatif singulier)|damnum(vocatif singulier)|damnum(accusatif singulier)">Damnum</w> 
+        <w lemma="insecto(nominatif masculin singulier participe parfait passif)|insector(nominatif masculin singulier participe parfait actif)|insectatus(nominatif masculin singulier)">insectatus</w> 
+        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
+        <w lemma="amitto(génitif masculin singulier participe parfait passif)|amitto(nominatif masculin pluriel participe parfait passif)|amitto(vocatif masculin pluriel participe parfait passif)|amitto(génitif neutre singulier participe parfait passif)|Amissis(datif singulier)|amissum(génitif singulier)|amissus(génitif masculin singulier)|amissus(nominatif masculin pluriel)|amissus(vocatif masculin pluriel)|amissus(génitif neutre singulier)">amissi</w> 
+        <w ana="#testicules" lemma="corpus(génitif singulier)">corporis</w>.     
+    </quote>
+ </div>

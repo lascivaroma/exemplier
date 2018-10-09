@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:66" ana="#testicle">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.83.2-12.83.4">
+        <w lemma="omnis(nominatif masculin pluriel)|omnis(vocatif masculin pluriel)|omnis(accusatif masculin pluriel)|omnis(nominatif féminin pluriel)|omnis(vocatif féminin pluriel)|omnis(accusatif féminin pluriel)">Omnes</w> 
+        <w lemma="qui(accusatif masculin singulier)|quis(accusatif masculin singulier)|quem(positif)">quem</w> 
+        <w lemma="modus(datif singulier)|modus(ablatif singulier)|modo(-)">modo</w> 
+        <w lemma="coleus(nominatif pluriel)|coleus(vocatif pluriel)|coleus(génitif singulier)" ana="#testicules">colei</w> 
+        <w lemma="timeo(3ème pluriel indicatif imparfait actif)">timebant</w>  
+        <w lemma="dico(accusatif masculin singulier participe présent actif)|dico(accusatif féminin singulier participe présent actif)">Dicentem</w> 
+        <w lemma="tumidus(accusatif féminin pluriel)|tumido(2ème singulier indicatif présent actif)">tumidas</w> 
+        <w lemma="in(-)">in</w> 
+        <w lemma="hydrocele(accusatif pluriel)">hydrocelas</w>,  
+        <w lemma="quantus(accusatif masculin singulier)|quantus(nominatif neutre singulier)|quantus(vocatif neutre singulier)|quantus(accusatif neutre singulier)|quantum(nominatif singulier)|quantum(vocatif singulier)|quantum(accusatif singulier)|quantum(-)|quantum(-)">Quantum</w> 
+        <w lemma="nec(-)">nec</w> 
+        <w lemma="duo(nominatif masculin pluriel)|duo(nominatif neutre pluriel)|duo(accusatif neutre pluriel)">duo</w> 
+        <w lemma="dico(3ème pluriel subjonctif imparfait actif)">dicerent</w> 
+        <w lemma="Catullus(génitif singulier)|Catullus(nominatif pluriel)|Catullus(vocatif pluriel)">Catulli</w>,     
+    </quote>
+ </div>

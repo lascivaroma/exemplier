@@ -1,0 +1,9 @@
+<div type="fragment" corresp="adams:67" ana="#testicle">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi008.perseus-lat2:31">
+        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
+        <w lemma="amo(2ème singulier indicatif présent actif)|ama(accusatif pluriel)">amas</w> 
+        <w lemma="amo(2ème singulier impératif futur actif)|amo(3ème singulier impératif futur actif)|amo(datif masculin singulier participe parfait passif)|amo(ablatif masculin singulier participe parfait passif)|amo(datif neutre singulier participe parfait passif)|amo(ablatif neutre singulier participe parfait passif)|amatus(datif singulier)|amatus(ablatif singulier)">amato</w> 
+        <w lemma="testis(datif pluriel)|testis(ablatif pluriel)|testis(datif pluriel)|testis(ablatif pluriel)" ana="#testicules">testibus</w> 
+        <w lemma="praesum(datif masculin pluriel participe présent actif)|praesum(ablatif masculin pluriel participe présent actif)|praesum(datif féminin pluriel participe présent actif)|praesum(ablatif féminin pluriel participe présent actif)|praesum(datif neutre pluriel participe présent actif)|praesum(ablatif neutre pluriel participe présent actif)|praesens(datif masculin pluriel)|praesens(ablatif masculin pluriel)|praesens(datif féminin pluriel)|praesens(ablatif féminin pluriel)|praesens(datif neutre pluriel)|praesens(ablatif neutre pluriel)|praesentia(datif pluriel)|praesentia(ablatif pluriel)|Praesens(datif pluriel)|Praesens(ablatif pluriel)">praesentibus</w>.    
+    </quote>
+ </div>

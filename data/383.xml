@@ -1,0 +1,9 @@
+<div type="fragment" corresp="adams:69" ana="#testicle">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.43">
+        <w lemma="dedo(3ème singulier indicatif présent actif)|do(3ème singulier indicatif parfait actif)">dedit</w> 
+        <w lemma="hic(nominatif masculin singulier)|hic(-)">hic</w> 
+        <w lemma="pro(-)|pro(-)">pro</w> 
+        <w ana="#testicules" lemma="corpus(ablatif singulier)">corpore</w> 
+        <w lemma="nummus(accusatif pluriel)">nummos</w>,     
+    </quote>
+ </div>

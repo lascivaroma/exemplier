@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:68" ana="#testicle">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:12.34-12.36">
+        <w lemma="imitor(nominatif masculin singulier participe parfait actif)|imitatus(nominatif masculin singulier)|imitatus(nominatif singulier)|imitatus(vocatif singulier)|imitatus(génitif singulier)|imitatus(nominatif pluriel)|imitatus(vocatif pluriel)|imitatus(accusatif pluriel)|imito(nominatif masculin singulier participe parfait passif)">imitatus</w> 
+        <w lemma="">castora</w>, 
+        <w lemma="qui(nominatif masculin singulier)|qui(nominatif masculin pluriel)|quis(nominatif masculin pluriel)|queo(2ème singulier impératif présent actif)|queo(1ère singulier indicatif parfait actif)|qui(-)">qui</w> 
+        <w lemma="se(accusatif masculin singulier)|se(ablatif masculin singulier)|se(accusatif masculin pluriel)|se(ablatif masculin pluriel)|se(accusatif féminin singulier)|se(ablatif féminin singulier)|se(accusatif féminin pluriel)|se(ablatif féminin pluriel)|se(accusatif neutre singulier)|se(ablatif neutre singulier)|se(accusatif neutre pluriel)|se(ablatif neutre pluriel)|se(-)">se</w> 
+        <w lemma="eunuchus(accusatif singulier)">eunuchum</w> 
+        <w lemma="ipse(nominatif masculin singulier)">ipse</w> 
+        <w lemma="facio(3ème singulier indicatif présent actif)">facit</w> 
+        <w lemma="cupio(nominatif masculin singulier participe présent actif)|cupio(vocatif masculin singulier participe présent actif)|cupio(nominatif féminin singulier participe présent actif)|cupio(vocatif féminin singulier participe présent actif)|cupio(nominatif neutre singulier participe présent actif)|cupio(vocatif neutre singulier participe présent actif)|cupio(accusatif neutre singulier participe présent actif)|cupiens(nominatif masculin singulier)|cupiens(vocatif masculin singulier)|cupiens(nominatif féminin singulier)|cupiens(vocatif féminin singulier)">cupiens</w> 
+        <w lemma="euado(infinitif présent actif)|euado(2ème singulier indicatif présent passif)|euado(2ème singulier indicatif futur passif)|euado(2ème singulier impératif présent passif)">evadere</w> 
+        <w lemma="damno(1ère singulier indicatif présent actif)|damnum(datif singulier)|damnum(ablatif singulier)">damno</w> 
+        <w lemma="testiculus(génitif singulier)|testiculus(nominatif pluriel)|testiculus(vocatif pluriel)"  ana="#testicules">testiculi</w>;    
+    </quote>
+ </div>

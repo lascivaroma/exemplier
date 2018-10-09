@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:69" ana="#testicle">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:7.23">
+        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
+        <w lemma="alioquin(-)">alioquin</w> 
+        <w lemma="exseco(datif masculin pluriel participe parfait passif)|exseco(ablatif masculin pluriel participe parfait passif)|exseco(datif féminin pluriel participe parfait passif)|exseco(ablatif féminin pluriel participe parfait passif)|exseco(datif neutre pluriel participe parfait passif)|exseco(ablatif neutre pluriel participe parfait passif)">exsectis</w> 
+        <w ana="#testicules" lemma="genitale(datif pluriel)|genitale(ablatif pluriel)|Genitalis(datif pluriel)|Genitalis(ablatif pluriel)|genitalis(datif masculin pluriel)|genitalis(ablatif masculin pluriel)|genitalis(datif féminin pluriel)|genitalis(ablatif féminin pluriel)|genitalis(datif neutre pluriel)|genitalis(ablatif neutre pluriel)">genitalibus</w> 
+        <w lemma="possum(3ème singulier subjonctif présent actif)">possit</w> 
+        <w lemma="neque(-)|neo(2ème singulier impératif présent actif)|nes(vocatif singulier)|nes(ablatif singulier)|ne(-)|ne(-)|ne(positif)">neque</w> 
+        <w lemma="in(-)">in</w> 
+        <w lemma="uenero(1ère singulier subjonctif présent actif)|Uenus(accusatif singulier)|uenus(accusatif singulier)">Venerem</w> 
+        <w lemma="ullus(ablatif masculin singulier)|ullus(ablatif neutre singulier)">ullo</w> 
+        <w lemma="modus(datif singulier)|modus(ablatif singulier)|modo(-)">modo</w> 
+        <w lemma="surgo(infinitif présent actif)|surgo(2ème singulier indicatif présent passif)|surgo(2ème singulier indicatif futur passif)|surgo(2ème singulier impératif présent passif)">surgere</w> 
+        <w lemma="vos(nominatif masculin pluriel)|vos(accusatif masculin pluriel)|vos(nominatif féminin pluriel)|vos(accusatif féminin pluriel)">vosque</w> 
+        <w lemma="omne(ablatif singulier)|omne(datif singulier)|omnis(datif masculin singulier)|omnis(ablatif masculin singulier)|omnis(datif féminin singulier)|omnis(ablatif féminin singulier)|omnis(datif neutre singulier)|omnis(ablatif neutre singulier)">omni</w> 
+        <w lemma="Metus(ablatif singulier)|metus(ablatif singulier)">metu</w> 
+        <w lemma="periculum(génitif singulier)">periculi</w> 
+        <w lemma="libero(infinitif présent actif)|libero(2ème singulier indicatif présent passif)|libero(2ème singulier impératif présent passif)">liberare</w>    
+    </quote>
+ </div>

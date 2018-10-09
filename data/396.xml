@@ -1,0 +1,10 @@
+<div type="fragment" corresp="adams:70" ana="#testicle">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:35.12">
+        <w lemma="uirilitas(accusatif singulier)" ana="#testicules">virilitatem</w> 
+        <w lemma="amputo(infinitif présent actif)|amputo(2ème singulier indicatif présent passif)|amputo(2ème singulier impératif présent passif)">amputare</w>  
+        <w lemma="nec(-)">nec</w> 
+        <w lemma="alito(1ère singulier subjonctif présent passif)|aliter(-)">aliter</w> 
+        <w lemma="citer(nominatif féminin singulier)|citer(vocatif féminin singulier)|citer(ablatif féminin singulier)|citer(nominatif neutre pluriel)|citer(vocatif neutre pluriel)|citer(accusatif neutre pluriel)|citrum(nominatif pluriel)|citrum(vocatif pluriel)|citrum(accusatif pluriel)|citra(-)">citra</w> 
+        <w lemma="pernicies(accusatif singulier)">perniciem</w>,    
+    </quote>
+ </div>

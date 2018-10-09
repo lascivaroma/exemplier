@@ -1,0 +1,10 @@
+<div type="fragment" corresp="adams:68" ana="#testicle">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.339">
+        <w ana="#testicules" lemma="testiculus(génitif singulier)|testiculus(nominatif pluriel)|testiculus(vocatif pluriel)">testiculi</w> 
+        <w lemma="se(datif masculin singulier)|se(datif masculin pluriel)|se(datif féminin singulier)|se(datif féminin pluriel)|se(datif neutre singulier)|se(datif neutre pluriel)|sibus(génitif masculin singulier)|sibus(nominatif masculin pluriel)|sibus(vocatif masculin pluriel)|sibus(génitif neutre singulier)|Sibi(-)">sibi</w> 
+        <w lemma="conscius(nominatif masculin singulier)|conscius(nominatif singulier)">conscius</w> 
+        <w lemma="unde(-)">unde</w> 
+        <w lemma="fugio(3ème singulier indicatif parfait actif)|fugio(3ème singulier indicatif présent actif)">fugit</w> 
+        <w lemma="Mus(nominatif singulier)|Mus(vocatif singulier)|mus(nominatif singulier)|mus(vocatif singulier)">mus</w>,    
+    </quote>
+ </div>

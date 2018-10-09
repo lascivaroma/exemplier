@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:68" ana="#testicle">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:11.156-11.157">
+        <w lemma="nec(-)">nec</w> 
+        <w lemma="pupillo(2ème singulier subjonctif imparfait actif)|pupillaris(nominatif masculin pluriel)|pupillaris(vocatif masculin pluriel)|pupillaris(accusatif masculin pluriel)|pupillaris(nominatif féminin pluriel)|pupillaris(vocatif féminin pluriel)|pupillaris(accusatif féminin pluriel)|pupillaris(accusatif pluriel)|pupillaris(nominatif pluriel)|pupillaris(vocatif pluriel)">pupillares</w> 
+        <w lemma="defero(3ème singulier indicatif présent actif)">defert</w> 
+        <w lemma="in(-)">in</w> 
+        <w lemma="balneum(nominatif pluriel)|balneum(vocatif pluriel)|balneum(accusatif pluriel)|balnea(nominatif pluriel)|balnea(vocatif pluriel)|balnea(accusatif pluriel)|balneo(2ème singulier impératif présent actif)">balnea</w> 
+        <w lemma="raucus(nominatif masculin singulier)">raucus</w> 
+        <w ana="#testicules" lemma="testiculus(accusatif pluriel)">testiculos</w>,     
+    </quote>
+ </div>

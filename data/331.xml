@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:62" ana="#res">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.43.11">
+        <w lemma="parce(positif)|parco(2ème singulier impératif présent actif)|parcus(vocatif masculin singulier)">Parce</w> 
+        <w lemma="tuus(datif masculin pluriel)|tuus(ablatif masculin pluriel)|tuus(datif féminin pluriel)|tuus(ablatif féminin pluriel)|tuus(datif neutre pluriel)|tuus(ablatif neutre pluriel)|tui(datif pluriel)|tui(ablatif pluriel)">tuis</w> 
+        <w lemma="igitur(-)">igitur</w> 
+        <w lemma="do(infinitif présent actif)|do(2ème singulier impératif présent passif)|do(infinitif présent actif)|do(2ème singulier indicatif présent passif)|do(2ème singulier impératif présent passif)">dare</w> 
+        <w lemma="masculus(nominatif féminin singulier)|masculus(vocatif féminin singulier)|masculus(ablatif féminin singulier)|masculus(nominatif neutre pluriel)|masculus(vocatif neutre pluriel)|masculus(accusatif neutre pluriel)|Mascula(nominatif singulier)|Mascula(vocatif singulier)|Mascula(ablatif singulier)">mascula</w> 
+        <w lemma="nomen(nominatif pluriel)|nomen(vocatif pluriel)|nomen(accusatif pluriel)|nomino(2ème singulier impératif présent actif)|nomina(nominatif pluriel)|nomina(vocatif pluriel)|nomina(accusatif pluriel)">nomina</w> 
+        <w lemma="res(datif pluriel)|res(ablatif pluriel)" ana="#culus">rebus</w>,     
+    </quote>
+ </div>

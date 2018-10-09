@@ -1,0 +1,10 @@
+ <div type="fragment" corresp="adams:62" ana="#misc">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0097.phi001:307">
+        <w lemma="at(-)">at</w> 
+        <w lemma="laeva(nominatif pluriel)|laeva(vocatif pluriel)|laeva(accusatif pluriel)|laeva(nominatif singulier)|laeva(vocatif singulier)|laeva(ablatif singulier)|laevo(2ème singulier impératif présent actif)|laevus(nominatif féminin singulier)|laevus(vocatif féminin singulier)|laevus(ablatif féminin singulier)|laevus(nominatif neutre pluriel)|laevus(vocatif neutre pluriel)|laevus(accusatif neutre pluriel)|laeva(-)">laeua</w> 
+        <w lemma="lacrima(accusatif pluriel)|lacrimo(2ème singulier indicatif présent actif)">lacrimas</w> 
+        <w lemma="mutto(datif singulier)" ana="#penis">muttoni</w> 
+        <w lemma="abstergeo(3ème singulier indicatif présent actif)">absterget</w> 
+        <w lemma="amica(nominatif singulier)|amica(vocatif singulier)|amica(ablatif singulier)|amicus(nominatif féminin singulier)|amicus(vocatif féminin singulier)|amicus(ablatif féminin singulier)|amicus(nominatif neutre pluriel)|amicus(vocatif neutre pluriel)|amicus(accusatif neutre pluriel)|amico(2ème singulier impératif présent actif)">amica</w>    
+    </quote>
+ </div>

@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:69" ana="#testicle">
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.37">
+        <w lemma="irascor(nominatif féminin singulier participe parfait actif)|irascor(vocatif féminin singulier participe parfait actif)|irascor(ablatif féminin singulier participe parfait actif)|irascor(nominatif neutre pluriel participe parfait actif)|irascor(vocatif neutre pluriel participe parfait actif)|irascor(accusatif neutre pluriel participe parfait actif)|iratus(nominatif féminin singulier)|iratus(vocatif féminin singulier)|iratus(ablatif féminin singulier)|iratus(nominatif neutre pluriel)|iratus(vocatif neutre pluriel)|iratus(accusatif neutre pluriel)">irata</w> 
+        <w lemma="cero(2ème singulier subjonctif présent actif)|Ceres(nominatif singulier)|Ceres(vocatif singulier)">Ceres</w> 
+        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
+        <w lemma="et(-)">et</w> 
+        <w lemma="exardeo(3ème singulier indicatif parfait actif)|exardesco(3ème singulier indicatif parfait actif)">exarsit</w> 
+        <w lemma="et(-)">et</w> 
+        <w lemma="aries(génitif singulier)">arietis</w> 
+            
+        <w ana="#testicules" lemma="proles(accusatif pluriel)|proles(nominatif pluriel)|proles(vocatif pluriel)|proles(nominatif singulier)|proles(vocatif singulier)">proles</w> 
+        <w lemma="pro(-)|pro(-)">pro</w> 
+        <w lemma="poena(nominatif singulier)|poena(vocatif singulier)|poena(ablatif singulier)|Poenus(nominatif féminin singulier)|Poenus(vocatif féminin singulier)|Poenus(ablatif féminin singulier)|Poenus(nominatif neutre pluriel)|Poenus(vocatif neutre pluriel)|Poenus(accusatif neutre pluriel)">poena</w> 
+        <w lemma="atque(-)|at(-)">atque</w> 
+        <w lemma="ultio(ablatif singulier)|ultio(nominatif singulier)|ultio(vocatif singulier)">ultione</w> 
+        <w lemma="suscipio(3ème singulier indicatif parfait actif)">suscepit</w>    
+    </quote>
+ </div>

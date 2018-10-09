@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:70" ana="#testicle">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:7.4">
+        <w lemma="mox(-)">mox</w> 
+        <w lemma="Barba(accusatif singulier)|barba(accusatif singulier)">barbam</w> 
+        <w lemma="et(-)">et</w> 
+        <w ana="#testicules" lemma="uirilitas(accusatif singulier)">virilitatem</w> 
+        <w lemma="prouenio(infinitif parfait actif)">provenisse</w> 
+        <w lemma="uxor(accusatif singulier)">uxoremque</w> 
+        <w lemma="duco(infinitif parfait actif)">duxisse</w>;    
+    </quote>
+ </div>

@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:69" ana="#testicle">
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0224.stoa004.alim-lat1:267.polimenta">
+        <w lemma="polimenta(nominatif pluriel)|polimenta(vocatif pluriel)|polimenta(accusatif pluriel)|polimentum(nominatif pluriel)|polimentum(vocatif pluriel)|polimentum(accusatif pluriel)" ana="#testicules" >polimenta</w>   
+        <w lemma="testiculus(génitif singulier)|testiculus(nominatif pluriel)|testiculus(vocatif pluriel)">testiculi</w> 
+        <w lemma="porcus(génitif pluriel)">porcorum</w> 
+        <w lemma="dico(3ème pluriel indicatif présent passif)">dicuntur</w>, 
+        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
+        <w lemma="castro(3ème pluriel indicatif présent passif)">castrantur</w>, 
+        <w lemma="a(-)|a(-)|a(-)">a</w> 
+        <w lemma="">politiorie</w>
+                                
+        <w lemma="vestimentum(génitif pluriel)">vestimentorum</w>, 
+        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
+        <w lemma="similiter(positif)">similiter</w>, 
+        <w lemma="ut(-)">ut</w> 
+        <w lemma="ille(nominatif féminin singulier)|ille(ablatif féminin singulier)|ille(nominatif neutre pluriel)|ille(accusatif neutre pluriel)|illa(-)">illa</w>, 
+        <w lemma="curo(3ème pluriel indicatif présent passif)">curantur</w>.     
+    </quote>
+ </div>

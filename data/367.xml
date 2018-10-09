@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:67" ana="#testicle">
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:7.24">
+        <w lemma="polimen(nominatif pluriel)|polimen(vocatif pluriel)|polimen(accusatif pluriel)|polimina(nominatif pluriel)|polimina(vocatif pluriel)|polimina(accusatif pluriel)|polimina(accusatif singulier)|polimina(nominatif singulier)|polimina(vocatif singulier)">polimina</w> 
+        <w lemma="porrum(datif singulier)|porrum(ablatif singulier)|porrus(datif singulier)|porrus(ablatif singulier)|porro(-)">porro</w> 
+        <w lemma="sum(3ème pluriel indicatif présent actif)">sunt</w> 
+        <w lemma="is(nominatif féminin singulier)|is(ablatif féminin singulier)|is(nominatif neutre pluriel)|is(accusatif neutre pluriel)|Eus(nominatif féminin singulier)|Eus(vocatif féminin singulier)|Eus(ablatif féminin singulier)|Eus(nominatif neutre pluriel)|Eus(vocatif neutre pluriel)|Eus(accusatif neutre pluriel)|ea(-)">ea</w> 
+        <w lemma="qui(nominatif féminin singulier)|qui(nominatif féminin pluriel)|qui(nominatif neutre pluriel)|qui(accusatif neutre pluriel)|quis(nominatif féminin singulier)|quis(nominatif féminin pluriel)|quis(nominatif neutre pluriel)|quis(accusatif neutre pluriel)">quae</w> 
+        <w lemma="nos(nominatif masculin pluriel)|nos(accusatif masculin pluriel)|nos(nominatif féminin pluriel)|nos(accusatif féminin pluriel)">nos</w> 
+        <w lemma="proles(accusatif pluriel)|proles(nominatif pluriel)|proles(vocatif pluriel)|proles(nominatif singulier)|proles(vocatif singulier)">proles</w>
+            
+        <w lemma="verecunde(comparatif)|verecundus(nominatif neutre singulier comparatif)|verecundus(vocatif neutre singulier comparatif)|verecundus(accusatif neutre singulier comparatif)">uerecundius</w> 
+        <w lemma="dico(1ère pluriel indicatif présent actif)">dicimus</w>, 
+        <w lemma="a(-)|a(-)|a(-)">a</w> 
+        <w lemma="vulgaris(datif masculin pluriel)|vulgaris(ablatif masculin pluriel)|vulgaris(datif féminin pluriel)|vulgaris(ablatif féminin pluriel)|vulgaris(datif neutre pluriel)|vulgaris(ablatif neutre pluriel)">uolgaribus</w> 
+        <w lemma="autem(-)">autem</w> 
+        <w lemma="adsoleo(3ème pluriel indicatif présent actif)|assolo(3ème pluriel subjonctif présent actif)">adsolent</w> 
+        <w lemma="cognomen(ablatif singulier)|cognominis(nominatif neutre singulier)|cognominis(vocatif neutre singulier)|cognominis(accusatif neutre singulier)">cognomine</w> 
+        <w  ana="#testicules" lemma="testis(génitif pluriel)|testis(génitif pluriel)">testium</w> 
+            
+        <w lemma="nuncupo(infinitif présent passif)">nuncupari</w>.     
+    </quote>
+ </div>

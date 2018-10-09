@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:58" ana="#descriptive-functional">
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:3.176">
+        <w lemma="sequor(3ème singulier indicatif présent actif)|sequo(3ème singulier indicatif présent passif)">Sequitur</w> 
+        <w lemma="autem(-)">autem</w>
+            
+        <w lemma="aegroto(nominatif masculin pluriel participe présent actif)|aegroto(vocatif masculin pluriel participe présent actif)|aegroto(accusatif masculin pluriel participe présent actif)|aegroto(nominatif féminin pluriel participe présent actif)|aegroto(vocatif féminin pluriel participe présent actif)|aegroto(accusatif féminin pluriel participe présent actif)">aegrotantes</w> 
+        <w lemma="vehemens(nominatif masculin singulier)|vehemens(vocatif masculin singulier)|vehemens(nominatif féminin singulier)|vehemens(vocatif féminin singulier)">uehemens</w> 
+        <w lemma="genitale(génitif pluriel)|Genitalis(génitif pluriel)|genitalis(génitif masculin pluriel)|genitalis(génitif féminin pluriel)|genitalis(génitif neutre pluriel)">genitalium</w> 
+        <w lemma="tentigo(nominatif singulier)|tentigo(vocatif singulier)">tentigo</w>    
+    </quote>
+ </div>

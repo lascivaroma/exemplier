@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:67" ana="#testicle">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:7.62.6">
+        <w lemma="ille(nominatif neutre singulier)|ille(accusatif neutre singulier)">Illud</w> 
+        <w lemma="saepe(positif)|saepes(ablatif singulier)|saepis(nominatif neutre singulier)|saepis(vocatif neutre singulier)|saepis(accusatif neutre singulier)">saepe</w> 
+        <w lemma="facio(3ème singulier indicatif présent actif)">facit</w>, 
+        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
+        <w lemma="Sinis(ablatif singulier)|sino(2ème singulier impératif présent actif)|sinus(vocatif singulier)|sine(-)|sion(génitif singulier)|si(-)">sine</w> 
+        <w lemma="testis(ablatif singulier)|testis(ablatif singulier)" ana="#testicules">teste</w> 
+        <w lemma="facio(3ème singulier indicatif présent actif)">facit</w>.     
+    </quote>
+ </div>
