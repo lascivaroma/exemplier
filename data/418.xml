@@ -1,0 +1,9 @@
+<div type="fragment" corresp="adams:72" ana="#glans">
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0196.stoa001.latinlibrary-lat1:5.98">
+        <w lemma="qui(ablatif masculin singulier)|qui(ablatif neutre singulier)|quis(ablatif masculin singulier)|quis(ablatif neutre singulier)|quo(-)">quo</w> 
+        <w lemma="tu(datif masculin singulier)|tu(datif féminin singulier)">tibi</w> 
+        <w lemma="cristatus(accusatif masculin singulier)|cristatus(nominatif neutre singulier)|cristatus(vocatif neutre singulier)|cristatus(accusatif neutre singulier)">cristatum</w> 
+        <w lemma="vulnificus(accusatif masculin singulier)|vulnificus(nominatif neutre singulier)|vulnificus(vocatif neutre singulier)|vulnificus(accusatif neutre singulier)">uulnificumque</w> 
+        <w lemma="caput(accusatif singulier)|caput(nominatif singulier)|caput(vocatif singulier)" ana="#glans" >caput</w>?    
+    </quote>
+ </div>

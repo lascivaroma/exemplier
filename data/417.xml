@@ -1,0 +1,12 @@
+<div type="fragment" corresp="adams:72" ana="#glans">
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:106-107">
+        <w lemma="sanguineus(datif masculin pluriel)|sanguineus(ablatif masculin pluriel)|sanguineus(datif féminin pluriel)|sanguineus(ablatif féminin pluriel)|sanguineus(datif neutre pluriel)|sanguineus(ablatif neutre pluriel)">sanguineis</w> 
+        <w lemma="ebulum(génitif singulier)|ebulus(génitif singulier)|ebulus(nominatif pluriel)|ebulus(vocatif pluriel)">ebuli</w> 
+        <w lemma="baca(datif pluriel)|baca(ablatif pluriel)|Baca(datif pluriel)|Baca(ablatif pluriel)|Bacis(accusatif pluriel)|Bacis(génitif singulier)|Bacis(nominatif singulier)|Bacis(vocatif singulier)|Bacis(nominatif singulier)|Bacis(vocatif singulier)">bacis</w> 
+        <w lemma="minium(datif singulier)|minium(ablatif singulier)|Minius(datif singulier)|Minius(ablatif singulier)|minio(1ère singulier indicatif présent actif)|minius(datif masculin singulier)|minius(ablatif masculin singulier)|minius(datif neutre singulier)|minius(ablatif neutre singulier)|Minio(nominatif singulier)|Minio(vocatif singulier)">minioque</w> 
+        <w lemma="rubeo(accusatif masculin singulier participe présent actif)|rubeo(accusatif féminin singulier participe présent actif)|rubens(accusatif masculin singulier)|rubens(accusatif féminin singulier)">rubentem</w> 
+        <w lemma="nudo(2ème singulier impératif futur actif)|nudo(3ème singulier impératif futur actif)|nudo(datif masculin singulier participe parfait passif)|nudo(ablatif masculin singulier participe parfait passif)|nudo(datif neutre singulier participe parfait passif)|nudo(ablatif neutre singulier participe parfait passif)|nudatus(datif masculin singulier)|nudatus(ablatif masculin singulier)|nudatus(datif neutre singulier)|nudatus(ablatif neutre singulier)">nudato</w> 
+        <w lemma="capio(2ème pluriel impératif présent actif)|caput(ablatif singulier)|capud(ablatif singulier)" ana="#glans" >capite</w>
+                   
+    </quote>
+ </div>
