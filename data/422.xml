@@ -1,0 +1,10 @@
+<div type="fragment" corresp="adams:73" ana="#foreskin">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.238">
+        <w lemma="">inpatiensque</w> 
+        <w lemma="mora(génitif singulier)|mora(datif singulier)|mora(nominatif pluriel)|mora(vocatif pluriel)|mora(génitif singulier)|mora(datif singulier)|mora(nominatif pluriel)|mora(vocatif pluriel)|morus(génitif féminin singulier)|morus(datif féminin singulier)|morus(nominatif féminin pluriel)|morus(vocatif féminin pluriel)">morae</w> 
+        <w lemma="sileo(3ème singulier indicatif présent actif)">silet</w> 
+        <w lemma="et(-)">et</w> 
+        <w lemma="praeputium(nominatif pluriel)|praeputium(vocatif pluriel)|praeputium(accusatif pluriel)|praeputio(2ème singulier impératif présent actif)" ana="#foreskin" >praeputia</w> 
+        <w lemma="duco(3ème singulier indicatif présent actif)">ducit</w>.    
+    </quote>
+ </div>
