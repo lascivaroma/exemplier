@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:41" ana="#medical">
+<div type="fragment" corresp="adams:41" corresp="adams:" ana="#male #medical">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi2305.___:3.182">
         <w lemma="necesse(-)">necesse</w> 
         <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 

@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:38" ana="#anatomie">
+<div type="fragment" corresp="adams:38" corresp="adams:" ana="#male #anatomie">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:3.9.33-3.9.34">
         <w lemma="qui(accusatif féminin pluriel)|quis(accusatif féminin pluriel)">quas</w> 
         <w lemma="sinus(nominatif singulier)|sinus(vocatif singulier)|sinus(génitif singulier)|sinus(nominatif pluriel)|sinus(vocatif pluriel)|sinus(accusatif pluriel)|sinus(nominatif singulier)">sinus</w> 

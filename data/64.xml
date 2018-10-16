@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:36" ana="#anatomie">
+<div type="fragment" corresp="adams:36" corresp="adams:" ana="#male #anatomie">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.336-6.341">
         <w lemma="sed(-)|sed(-)">sed</w> 
         <w lemma="omnis(nominatif masculin pluriel)|omnis(vocatif masculin pluriel)|omnis(accusatif masculin pluriel)|omnis(nominatif féminin pluriel)|omnis(vocatif féminin pluriel)|omnis(accusatif féminin pluriel)">omnes</w> 	

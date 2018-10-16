@@ -1,8 +1,8 @@
-<div type="fragment" corresp="adams:63" ana="#misc">
+<div type="fragment" corresp="adams:63" corresp="adams:" ana="#male #misc">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:28.3">
         <w lemma="tu(nominatif masculin singulier)|tu(nominatif féminin singulier)">Tu</w>] [...] 
         <w lemma="pedico(2ème singulier indicatif futur passif)">pedicabere</w> 
-        <w lemma="fascino(1ère singulier indicatif présent actif)|fascinum(datif singulier)|fascinum(ablatif singulier)|Fascinus(datif singulier)|Fascinus(ablatif singulier)|Fascinus(datif singulier)|Fascinus(ablatif singulier)" ana="#penis">fascino</w> 
+        <w lemma="fascino(1ère singulier indicatif présent actif)|fascinum(datif singulier)|fascinum(ablatif singulier)|Fascinus(datif singulier)|Fascinus(ablatif singulier)|Fascinus(datif singulier)|Fascinus(ablatif singulier)" corresp="adams:" ana="#male #penis">fascino</w> 
         <w lemma="pedale(ablatif singulier)|pedale(datif singulier)|pedalis(datif masculin singulier)|pedalis(ablatif masculin singulier)|pedalis(datif féminin singulier)|pedalis(ablatif féminin singulier)|pedalis(datif neutre singulier)|pedalis(ablatif neutre singulier)|pedalis(datif singulier)|Pedalion(génitif singulier)|Pedalium(génitif singulier)|pedalion(génitif singulier)">pedali</w>.    
     </quote>
  </div>

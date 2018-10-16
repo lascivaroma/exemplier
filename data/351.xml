@@ -1,11 +1,11 @@
-<div type="fragment" corresp="adams:64" ana="#misc">
+<div type="fragment" corresp="adams:64" corresp="adams:" ana="#male #misc">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:37.10">
         <w lemma="namque(-)|nes(accusatif singulier)|nam(-)">namque</w> 
         <w lemma="totus(génitif masculin singulier)|totus(génitif féminin singulier)|totus(génitif neutre singulier)|tote(comparatif)|totus(nominatif neutre singulier comparatif)|totus(vocatif neutre singulier comparatif)|totus(accusatif neutre singulier comparatif)">totius</w> 
         <w lemma="vos(datif masculin pluriel)|vos(ablatif masculin pluriel)|vos(datif féminin pluriel)|vos(ablatif féminin pluriel)">vobis</w> 
         <w lemma="frons(accusatif singulier)">frontem</w> 
         <w lemma="taberna(génitif singulier)|taberna(datif singulier)|taberna(nominatif pluriel)|taberna(vocatif pluriel)">tabernae</w> 
-        <w lemma="sopio(datif pluriel)|sopio(ablatif pluriel)" ana="#penis">sopionibus</w> 
+        <w lemma="sopio(datif pluriel)|sopio(ablatif pluriel)" corresp="adams:" ana="#male #penis">sopionibus</w> 
         <w lemma="scriba(accusatif singulier)|scribo(1ère singulier indicatif futur actif)|scribo(1ère singulier subjonctif présent actif)">scribam</w>.    
     </quote>
  </div>

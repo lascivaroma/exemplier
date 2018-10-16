@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:74" ana="#scrotum">
+<div type="fragment" corresp="adams:74" corresp="adams:" ana="#male #scrotum">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.21">
         <w lemma="aries(accusatif singulier)|arieto(1ère singulier subjonctif présent actif)">arietem</w> 
         <w lemma="nobilis(accusatif masculin singulier)|nobilis(accusatif féminin singulier)|Nobilis(accusatif singulier)">nobilem</w> 
@@ -16,7 +16,7 @@
             
         <w lemma="exuo(3ème singulier indicatif parfait actif)|exuo(3ème singulier indicatif présent actif)">exuit</w> 
         <w lemma="ex(-)">ex</w> 
-        <w ana="#scrotum"  lemma="folliculus(génitif singulier)|folliculus(nominatif pluriel)|folliculus(vocatif pluriel)">folliculi</w> 
+        <w corresp="adams:" ana="#male #scrotum"  lemma="folliculus(génitif singulier)|folliculus(nominatif pluriel)|folliculus(vocatif pluriel)">folliculi</w> 
         <w lemma="tegmen(ablatif singulier)">tegmine</w>.    
     </quote>
  </div>

@@ -1,6 +1,6 @@
-<div type="fragment" corresp="adams:70" ana="#testicle">
+<div type="fragment" corresp="adams:70" corresp="adams:" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:35.12">
-        <w lemma="uirilitas(accusatif singulier)" ana="#testicules">virilitatem</w> 
+        <w lemma="uirilitas(accusatif singulier)" corresp="adams:" ana="#male #testicules">virilitatem</w> 
         <w lemma="amputo(infinitif présent actif)|amputo(2ème singulier indicatif présent passif)|amputo(2ème singulier impératif présent passif)">amputare</w>  
         <w lemma="nec(-)">nec</w> 
         <w lemma="alito(1ère singulier subjonctif présent passif)|aliter(-)">aliter</w> 

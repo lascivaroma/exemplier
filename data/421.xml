@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:73" ana="#glans">
+<div type="fragment" corresp="adams:73" corresp="adams:" ana="#male #glans">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:7.25">
         <w lemma="eo(1ère singulier indicatif présent actif)|is(ablatif masculin singulier)|is(ablatif neutre singulier)|Eus(datif singulier)|Eus(ablatif singulier)|Eus(datif masculin singulier)|Eus(ablatif masculin singulier)|Eus(datif neutre singulier)|Eus(ablatif neutre singulier)|eo(-)">Eo</w> 
         <w lemma="factum(datif singulier)|factum(ablatif singulier)|fio(datif masculin singulier participe parfait passif)|fio(ablatif masculin singulier participe parfait passif)|fio(datif neutre singulier participe parfait passif)|fio(ablatif neutre singulier participe parfait passif)|facto(1ère singulier indicatif présent actif)|factus(datif masculin singulier)|factus(ablatif masculin singulier)|factus(datif neutre singulier)|factus(ablatif neutre singulier)">facto</w>, 
@@ -10,6 +10,6 @@
         <w lemma="Circa(nominatif singulier)|Circa(vocatif singulier)|Circa(ablatif singulier)|circo(2ème singulier impératif présent actif)|circa(-)">circa</w> 
         <w lemma="pubes(accusatif singulier)|pubis(accusatif singulier)">pubem</w> 
         <w lemma="uelut(-)">velut</w> 
-        <w  ana="#glans" lemma="circulus(nominatif singulier)">circulus</w>;    
+        <w  corresp="adams:" ana="#male #glans" lemma="circulus(nominatif singulier)">circulus</w>;    
     </quote>
  </div>

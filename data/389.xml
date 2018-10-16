@@ -1,9 +1,9 @@
-<div type="fragment" corresp="adams:69" ana="#testicle">
+<div type="fragment" corresp="adams:69" corresp="adams:" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:7.11.2">
         <w lemma="qui(nominatif féminin singulier)|qui(nominatif féminin pluriel)|qui(nominatif neutre pluriel)|qui(accusatif neutre pluriel)|quis(nominatif féminin singulier)|quis(nominatif féminin pluriel)|quis(nominatif neutre pluriel)|quis(accusatif neutre pluriel)">quae</w> 
         <w lemma="intervenio(3ème singulier indicatif parfait actif)|intervenio(3ème singulier indicatif présent actif)">intervenit</w> 
         <w lemma="duo(datif masculin pluriel)|duo(ablatif masculin pluriel)|duo(datif neutre pluriel)|duo(ablatif neutre pluriel)">duobus</w> 
         <w lemma="membrum(datif pluriel)|membrum(ablatif pluriel)">membris</w> 
-        <w ana="#testicules" lemma="genitale(datif pluriel)|genitale(ablatif pluriel)|Genitalis(datif pluriel)|Genitalis(ablatif pluriel)|genitalis(datif masculin pluriel)|genitalis(ablatif masculin pluriel)|genitalis(datif féminin pluriel)|genitalis(ablatif féminin pluriel)|genitalis(datif neutre pluriel)|genitalis(ablatif neutre pluriel)">genitalibus</w>    
+        <w corresp="adams:" ana="#male #testicules" lemma="genitale(datif pluriel)|genitale(ablatif pluriel)|Genitalis(datif pluriel)|Genitalis(ablatif pluriel)|genitalis(datif masculin pluriel)|genitalis(ablatif masculin pluriel)|genitalis(datif féminin pluriel)|genitalis(ablatif féminin pluriel)|genitalis(datif neutre pluriel)|genitalis(ablatif neutre pluriel)">genitalibus</w>    
     </quote>
  </div>

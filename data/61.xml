@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:36" ana="#anatomie">
+<div type="fragment" corresp="adams:36" corresp="adams:" ana="#male #anatomie">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0631.phi001.perseus-lat4:14.2">
         <w lemma="nes(accusatif singulier)|nam(-)">Nam</w> 
         <w lemma="quicumque(nominatif masculin singulier)|quicumque(nominatif masculin pluriel)|quicum(ablatif masculin singulier)|quicum(ablatif féminin singulier)|quicum(ablatif neutre singulier)">quicumque</w> 

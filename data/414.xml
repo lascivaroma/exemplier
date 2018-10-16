@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:72" ana="#glans">
+<div type="fragment" corresp="adams:72" corresp="adams:" ana="#male #glans">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:82.3-82.4">
         <w lemma="nec(-)">nec</w> 
         <w lemma="uiriliter(positif)">uiriliter</w> 
@@ -6,6 +6,6 @@
         <w lemma="senilis(nominatif neutre singulier)|senilis(vocatif neutre singulier)|senilis(accusatif neutre singulier)">senile</w> 
         <w lemma="penis(accusatif pluriel)|penis(génitif singulier)|penus(datif pluriel)|penus(ablatif pluriel)|penum(datif pluriel)|penum(ablatif pluriel)|Penius(datif pluriel)|Penius(ablatif pluriel)|penis(nominatif singulier)|penis(vocatif singulier)">penis</w> 
         <w lemma="ecfero(3ème singulier indicatif parfait actif)|effero(3ème singulier indicatif parfait actif)|extollo(3ème singulier indicatif parfait actif)">extulit</w> 
-        <w lemma="caput(accusatif singulier)|caput(nominatif singulier)|caput(vocatif singulier)" ana="#glans" >caput</w>    
+        <w lemma="caput(accusatif singulier)|caput(nominatif singulier)|caput(vocatif singulier)" corresp="adams:" ana="#male #glans" >caput</w>    
     </quote>
  </div>

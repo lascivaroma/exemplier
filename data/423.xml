@@ -1,11 +1,11 @@
-<div type="fragment" corresp="adams:73" ana="#foreskin">
+<div type="fragment" corresp="adams:73" corresp="adams:" ana="#male #foreskin">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:14.99">
         <w lemma="qui(ablatif féminin singulier)|quis(ablatif féminin singulier)|qua(-)">qua</w> 
         <w lemma="pater(nominatif singulier)|pater(vocatif singulier)">pater</w> 
         <w lemma="abstineo(3ème singulier indicatif parfait actif)">abstinuit</w>, 
         <w lemma="mox(-)">mox</w> 
         <w lemma="et(-)">et</w> 
-        <w lemma="praeputium(nominatif pluriel)|praeputium(vocatif pluriel)|praeputium(accusatif pluriel)|praeputio(2ème singulier impératif présent actif)" ana="#foreskin" >praeputia</w> 
+        <w lemma="praeputium(nominatif pluriel)|praeputium(vocatif pluriel)|praeputium(accusatif pluriel)|praeputio(2ème singulier impératif présent actif)" corresp="adams:" ana="#male #foreskin" >praeputia</w> 
         <w lemma="pono(3ème pluriel indicatif présent actif)">ponunt</w>;    
     </quote>
  </div>

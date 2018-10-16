@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:31" ana="#personnification">
+<div type="fragment" corresp="adams:31" corresp="adams:" ana="#male #personnification">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1236.phi001.opp-lat1:strutheum">
         <w lemma="strutheus(accusatif masculin singulier)|strutheus(nominatif neutre singulier)|strutheus(vocatif neutre singulier)|strutheus(accusatif neutre singulier)">Strutheum</w>  
         <w lemma="in(-)">in</w>  

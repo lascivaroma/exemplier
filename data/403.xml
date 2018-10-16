@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:70" ana="#testicle">
+<div type="fragment" corresp="adams:70" corresp="adams:" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:63.6">
         <w lemma="itaque(-)|ito(2ème singulier impératif présent actif)|ita(-)">itaque</w> 
         <w lemma="ut(-)">ut</w> 
@@ -7,6 +7,6 @@
         <w lemma="se(datif masculin singulier)|se(datif masculin pluriel)|se(datif féminin singulier)|se(datif féminin pluriel)|se(datif neutre singulier)|se(datif neutre pluriel)|sibus(génitif masculin singulier)|sibus(nominatif masculin pluriel)|sibus(vocatif masculin pluriel)|sibus(génitif neutre singulier)|Sibi(-)">sibi</w> 
         <w lemma="membrum(nominatif pluriel)|membrum(vocatif pluriel)|membrum(accusatif pluriel)|membro(2ème singulier impératif présent actif)">membra</w> 
         <w lemma="Sinis(ablatif singulier)|sino(2ème singulier impératif présent actif)|sinus(vocatif singulier)|sine(-)|sion(génitif singulier)|si(-)">sine</w> 
-        <w ana="#testicle"  lemma="uir(datif singulier)|uir(ablatif singulier)|uirus(datif singulier)|uirus(ablatif singulier)">viro</w>,    
+        <w corresp="adams:" ana="#male #testicle"  lemma="uir(datif singulier)|uir(ablatif singulier)|uirus(datif singulier)|uirus(ablatif singulier)">viro</w>,    
     </quote>
  </div>

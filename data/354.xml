@@ -1,9 +1,9 @@
-<div type="fragment" corresp="adams:66" ana="#testicle">
+<div type="fragment" corresp="adams:66" corresp="adams:" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.27.1">
         <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">Cum</w> 
         <w lemma="depilo(accusatif masculin pluriel participe parfait passif)|depilatus(accusatif masculin pluriel)|depilor(accusatif masculin pluriel participe parfait actif)">depilatos</w>, 
         <w lemma="Chrestus(vocatif singulier)">Chreste</w>, 
-        <w lemma="coleus(accusatif pluriel)" ana="#testicules">coleos</w> 
+        <w lemma="coleus(accusatif pluriel)" corresp="adams:" ana="#male #testicules">coleos</w> 
         <w lemma="porto(2ème singulier subjonctif présent actif)">portes</w>     
     </quote>
  </div>

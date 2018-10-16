@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:64" ana="#misc">
+<div type="fragment" corresp="adams:64" corresp="adams:" ana="#male #misc">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:4.7">
         <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiamne</w> 
         <w lemma="Tutunus(nominatif singulier)">Tutunus</w>, 
@@ -7,7 +7,7 @@
         <w lemma="pudeo(datif masculin pluriel adjectif verbal)|pudeo(ablatif masculin pluriel adjectif verbal)|pudeo(datif féminin pluriel adjectif verbal)|pudeo(ablatif féminin pluriel adjectif verbal)|pudeo(datif neutre pluriel adjectif verbal)|pudeo(ablatif neutre pluriel adjectif verbal)|pudenda(datif pluriel)|pudenda(ablatif pluriel)|pudendus(datif masculin pluriel)|pudendus(ablatif masculin pluriel)|pudendus(datif féminin pluriel)|pudendus(ablatif féminin pluriel)|pudendus(datif neutre pluriel)|pudendus(ablatif neutre pluriel)">pudendis</w> 
         <w lemma="horreo(datif masculin singulier participe présent actif)|horreo(datif féminin singulier participe présent actif)|horreo(datif neutre singulier participe présent actif)|horrens(datif masculin singulier)|horrens(ablatif masculin singulier)|horrens(datif féminin singulier)|horrens(ablatif féminin singulier)|horrens(datif neutre singulier)|horrens(ablatif neutre singulier)">horrentique</w> 
             
-        <w lemma="fascino(1ère singulier indicatif présent actif)|fascinum(datif singulier)|fascinum(ablatif singulier)|Fascinus(datif singulier)|Fascinus(ablatif singulier)|Fascinus(datif singulier)|Fascinus(ablatif singulier)" ana="#dildo">fascino</w> 
+        <w lemma="fascino(1ère singulier indicatif présent actif)|fascinum(datif singulier)|fascinum(ablatif singulier)|Fascinus(datif singulier)|Fascinus(ablatif singulier)|Fascinus(datif singulier)|Fascinus(ablatif singulier)" corresp="adams:" ana="#male #dildo">fascino</w> 
         <w lemma="vester(accusatif féminin pluriel)|vestras(nominatif singulier)|vestras(vocatif singulier)">uestras</w> 
         <w lemma="inequito(infinitif présent actif)|inequito(2ème singulier indicatif présent passif)|inequito(2ème singulier impératif présent passif)">inequitare</w> 
         <w lemma="matrona(accusatif pluriel)|Matrona(accusatif pluriel)|Matrona(accusatif pluriel)">matronas</w> 

@@ -1,6 +1,6 @@
-<div type="fragment" corresp="adams:68" ana="#testicle">
+<div type="fragment" corresp="adams:68" corresp="adams:" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0264.stoa001.digilibLT-lat1:13.2">
-        <w ana="#testicules" lemma="testiculus(génitif singulier)|testiculus(nominatif pluriel)|testiculus(vocatif pluriel)">testiculi</w> 
+        <w corresp="adams:" ana="#male #testicules" lemma="testiculus(génitif singulier)|testiculus(nominatif pluriel)|testiculus(vocatif pluriel)">testiculi</w> 
         <w lemma="is(génitif masculin singulier)|is(génitif féminin singulier)|is(génitif neutre singulier)|Eus(nominatif neutre singulier comparatif)|Eus(vocatif neutre singulier comparatif)|Eus(accusatif neutre singulier comparatif)">eius</w> 
         <w lemma="adpeto(3ème pluriel indicatif présent passif)">adpetuntur</w> 
         <w lemma="in(-)">in</w> 
@@ -15,7 +15,7 @@
         <w lemma="capio(nominatif masculin singulier participe parfait passif)|captus(nominatif singulier)|captus(vocatif singulier)|captus(génitif singulier)|captus(nominatif pluriel)|captus(vocatif pluriel)|captus(accusatif pluriel)|captus(nominatif masculin singulier)|captus(nominatif singulier)">captus</w> 
         <w lemma="prosum(3ème singulier subjonctif présent actif)">prosit</w>, 
         <w lemma="ipse(nominatif masculin singulier)">ipse</w> 
-        <w ana="#testicules" lemma="gemini(accusatif pluriel)|Geminus(accusatif pluriel)|geminus(accusatif masculin pluriel)">geminos</w> 
+        <w corresp="adams:" ana="#male #testicules" lemma="gemini(accusatif pluriel)|Geminus(accusatif pluriel)|geminus(accusatif masculin pluriel)">geminos</w> 
         <w lemma="suus(accusatif masculin pluriel)|sui(accusatif pluriel)">suos</w> 
         <w lemma="deuoro(2ème singulier impératif présent actif)">devora</w>    
     </quote>

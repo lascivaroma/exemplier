@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:36" ana="#anatomie">
+<div type="fragment" corresp="adams:36" corresp="adams:" ana="#male #anatomie">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0969.phi001:48">
         <w lemma="sion(génitif singulier)|si(-)">si</w> 
         <w lemma="facio(2ème singulier indicatif présent actif)|fax(génitif singulier)|faces(accusatif pluriel)|faces(génitif singulier)|facia(datif pluriel)|facia(ablatif pluriel)">facis</w> 

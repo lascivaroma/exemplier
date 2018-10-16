@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:36" ana="#anatomie">
+<div type="fragment" corresp="adams:36" corresp="adams:" ana="#male #anatomie">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.44-1.2.46">
         <w lemma="quin(-)">quin</w> 
         <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiam</w> 

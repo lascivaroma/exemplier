@@ -1,9 +1,9 @@
-<div type="fragment" corresp="adams:69" ana="#testicle">
+<div type="fragment" corresp="adams:69" corresp="adams:" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:7.23">
         <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
         <w lemma="alioquin(-)">alioquin</w> 
         <w lemma="exseco(datif masculin pluriel participe parfait passif)|exseco(ablatif masculin pluriel participe parfait passif)|exseco(datif féminin pluriel participe parfait passif)|exseco(ablatif féminin pluriel participe parfait passif)|exseco(datif neutre pluriel participe parfait passif)|exseco(ablatif neutre pluriel participe parfait passif)">exsectis</w> 
-        <w ana="#testicules" lemma="genitale(datif pluriel)|genitale(ablatif pluriel)|Genitalis(datif pluriel)|Genitalis(ablatif pluriel)|genitalis(datif masculin pluriel)|genitalis(ablatif masculin pluriel)|genitalis(datif féminin pluriel)|genitalis(ablatif féminin pluriel)|genitalis(datif neutre pluriel)|genitalis(ablatif neutre pluriel)">genitalibus</w> 
+        <w corresp="adams:" ana="#male #testicules" lemma="genitale(datif pluriel)|genitale(ablatif pluriel)|Genitalis(datif pluriel)|Genitalis(ablatif pluriel)|genitalis(datif masculin pluriel)|genitalis(ablatif masculin pluriel)|genitalis(datif féminin pluriel)|genitalis(ablatif féminin pluriel)|genitalis(datif neutre pluriel)|genitalis(ablatif neutre pluriel)">genitalibus</w> 
         <w lemma="possum(3ème singulier subjonctif présent actif)">possit</w> 
         <w lemma="neque(-)|neo(2ème singulier impératif présent actif)|nes(vocatif singulier)|nes(ablatif singulier)|ne(-)|ne(-)|ne(positif)">neque</w> 
         <w lemma="in(-)">in</w> 

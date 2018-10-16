@@ -1,11 +1,11 @@
-<div type="fragment" corresp="adams:74" ana="#foreskin">
+<div type="fragment" corresp="adams:74" corresp="adams:" ana="#male #foreskin">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:116-117">
         <w lemma="et(-)">et</w> 
         <w lemma="supo(1ère singulier subjonctif présent passif)|supo(1ère singulier subjonctif présent passif)|super(nominatif masculin singulier)|super(vocatif masculin singulier)|super(-)">super</w> 
         <w lemma="incumbo(nominatif masculin singulier participe présent actif)|incumbo(vocatif masculin singulier participe présent actif)|incumbo(nominatif féminin singulier participe présent actif)|incumbo(vocatif féminin singulier participe présent actif)|incumbo(nominatif neutre singulier participe présent actif)|incumbo(vocatif neutre singulier participe présent actif)|incumbo(accusatif neutre singulier participe présent actif)">incumbens</w>   
         <w lemma="nodus(datif pluriel)|nodus(ablatif pluriel)|nodia(datif pluriel)|nodia(ablatif pluriel)">nodis</w> 
         <w lemma="et(-)">et</w> 
-        <w  ana="#foreskin" lemma="cortex(ablatif singulier)">cortice</w> 
+        <w  corresp="adams:" ana="#male #foreskin" lemma="cortex(ablatif singulier)">cortice</w> 
         <w lemma="crudus(datif masculin singulier)|crudus(ablatif masculin singulier)|crudus(datif neutre singulier)|crudus(ablatif neutre singulier)">crudo</w> 
         <w lemma="intorqueo(3ème singulier indicatif présent actif)">intorquet</w> 
         <w lemma="summa(datif pluriel)|summa(ablatif pluriel)|summum(datif pluriel)|summum(ablatif pluriel)|summus(datif masculin pluriel)|summus(ablatif masculin pluriel)|summus(datif féminin pluriel)|summus(ablatif féminin pluriel)|summus(datif neutre pluriel)|summus(ablatif neutre pluriel)|summus(datif pluriel)|summus(ablatif pluriel)">summis</w> 

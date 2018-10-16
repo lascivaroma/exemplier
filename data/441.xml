@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:76" ana="#pubic_hair">
+<div type="fragment" corresp="adams:76" corresp="adams:" ana="#male #pubic_hair">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.369-6.370">
         <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
         <w lemma="Ia(accusatif singulier)|jam(-)">iam</w> 
@@ -9,7 +9,7 @@
         <w lemma="trado(3ème pluriel indicatif présent passif)">traduntur</w> 
         <w lemma="medica(datif pluriel)|medica(ablatif pluriel)|Medicus(datif masculin pluriel)|Medicus(ablatif masculin pluriel)|Medicus(datif féminin pluriel)|Medicus(ablatif féminin pluriel)|Medicus(datif neutre pluriel)|Medicus(ablatif neutre pluriel)|medicus(datif masculin pluriel)|medicus(ablatif masculin pluriel)|medicus(datif féminin pluriel)|medicus(ablatif féminin pluriel)|medicus(datif neutre pluriel)|medicus(ablatif neutre pluriel)|medicus(datif pluriel)|medicus(ablatif pluriel)|Medica(datif pluriel)|Medica(ablatif pluriel)|medica(datif pluriel)|medica(ablatif pluriel)|medix(génitif singulier)">medicis</w>, 
         <w lemma="Ia(accusatif singulier)|jam(-)">iam</w> 
-        <w  ana="#pubic_hair" lemma="pecten(ablatif singulier)|pecto(infinitif présent passif)">pectine</w> 
+        <w  corresp="adams:" ana="#male #pubic_hair" lemma="pecten(ablatif singulier)|pecto(infinitif présent passif)">pectine</w> 
         <w lemma="Niger(datif singulier)|Niger(ablatif singulier)|niger(datif masculin singulier)|niger(ablatif masculin singulier)|niger(datif neutre singulier)|niger(ablatif neutre singulier)|nigro(1ère singulier indicatif présent actif)|nigrum(datif singulier)|nigrum(ablatif singulier)">nigro</w>;    
     </quote>
  </div>

@@ -1,10 +1,10 @@
-<div type="fragment" corresp="adams:68" ana="#testicle">
+<div type="fragment" corresp="adams:68" corresp="adams:" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0023.stoa001.perseus-lat1:16.7.5">
         <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiam</w> 
         <w lemma="tum(-)">tum</w> 
         <w lemma="parvulus(nominatif masculin singulier)|parvulus(nominatif singulier)">parvulus</w>  
         <w lemma="abstraho(datif masculin pluriel participe parfait passif)|abstraho(ablatif masculin pluriel participe parfait passif)|abstraho(datif féminin pluriel participe parfait passif)|abstraho(ablatif féminin pluriel participe parfait passif)|abstraho(datif neutre pluriel participe parfait passif)|abstraho(ablatif neutre pluriel participe parfait passif)|abstractus(datif masculin pluriel)|abstractus(ablatif masculin pluriel)|abstractus(datif féminin pluriel)|abstractus(ablatif féminin pluriel)|abstractus(datif neutre pluriel)|abstractus(ablatif neutre pluriel)">abstractis</w> 
-        <w lemma="gemini(datif pluriel)|gemini(ablatif pluriel)|Geminus(datif pluriel)|Geminus(ablatif pluriel)|geminus(datif masculin pluriel)|geminus(ablatif masculin pluriel)|geminus(datif féminin pluriel)|geminus(ablatif féminin pluriel)|geminus(datif neutre pluriel)|geminus(ablatif neutre pluriel)|Geminius(datif pluriel)|Geminius(ablatif pluriel)" ana="#testicules">geminis</w> 
+        <w lemma="gemini(datif pluriel)|gemini(ablatif pluriel)|Geminus(datif pluriel)|Geminus(ablatif pluriel)|geminus(datif masculin pluriel)|geminus(ablatif masculin pluriel)|geminus(datif féminin pluriel)|geminus(ablatif féminin pluriel)|geminus(datif neutre pluriel)|geminus(ablatif neutre pluriel)|Geminius(datif pluriel)|Geminius(ablatif pluriel)" corresp="adams:" ana="#male #testicules">geminis</w> 
         <w lemma="Romani(datif pluriel)|Romani(ablatif pluriel)|Romanus(datif pluriel)|Romanus(ablatif pluriel)|Romanus(datif masculin pluriel)|Romanus(ablatif masculin pluriel)|Romanus(datif féminin pluriel)|Romanus(ablatif féminin pluriel)|Romanus(datif neutre pluriel)|Romanus(ablatif neutre pluriel)|Romana(datif pluriel)|Romana(ablatif pluriel)|Romania(datif pluriel)|Romania(ablatif pluriel)">Romanis</w> 
         <w lemma="mercator(datif pluriel)|mercator(ablatif pluriel)">mercatoribus</w> 
         <w lemma="venumdo(nominatif masculin singulier participe parfait passif)">venundatus</w>,    

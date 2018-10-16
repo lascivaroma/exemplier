@@ -1,11 +1,11 @@
-<div type="fragment" corresp="adams:69" ana="#testicle">
+<div type="fragment" corresp="adams:69" corresp="adams:" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0660.phi001.perseus-lat2:1.4.70">
         <w lemma="et(-)">Et</w> 
         <w lemma="seco(3ème singulier subjonctif présent actif)">secet</w> 
         <w lemma="ad(-)">ad</w> 
         <w lemma="Phrygii(accusatif pluriel)|Phrygius(accusatif masculin pluriel)">Phrygios</w> 
         <w lemma="vilis(nominatif neutre pluriel)|vilis(vocatif neutre pluriel)|vilis(accusatif neutre pluriel)">vilia</w> 
-        <w ana="#testicules" lemma="membrum(nominatif pluriel)|membrum(vocatif pluriel)|membrum(accusatif pluriel)|membro(2ème singulier impératif présent actif)">membra</w> 
+        <w corresp="adams:" ana="#male #testicules" lemma="membrum(nominatif pluriel)|membrum(vocatif pluriel)|membrum(accusatif pluriel)|membro(2ème singulier impératif présent actif)">membra</w> 
         <w lemma="modus(accusatif pluriel)">modos</w>.                  
     </quote>
  </div>

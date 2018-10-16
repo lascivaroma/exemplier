@@ -1,10 +1,10 @@
-<div type="fragment" corresp="adams:69" ana="#testicle">
+<div type="fragment" corresp="adams:69" corresp="adams:" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:6.26.2">
         <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
         <w lemma="ex(-)">ex</w> 
         <w lemma="ille(datif masculin pluriel)|ille(ablatif masculin pluriel)|ille(datif féminin pluriel)|ille(ablatif féminin pluriel)|ille(datif neutre pluriel)|ille(ablatif neutre pluriel)">illis</w> 
-        <w ana="#testicules" lemma="Genitalis(accusatif pluriel)|Genitalis(nominatif pluriel)|Genitalis(vocatif pluriel)|genitalis(nominatif masculin pluriel)|genitalis(vocatif masculin pluriel)|genitalis(accusatif masculin pluriel)|genitalis(nominatif féminin pluriel)|genitalis(vocatif féminin pluriel)|genitalis(accusatif féminin pluriel)">genitales</w> 
-        <w ana="#testicules" lemma="pars(accusatif pluriel)|pars(nominatif pluriel)|pars(vocatif pluriel)">partes</w> 
+        <w corresp="adams:" ana="#male #testicules" lemma="Genitalis(accusatif pluriel)|Genitalis(nominatif pluriel)|Genitalis(vocatif pluriel)|genitalis(nominatif masculin pluriel)|genitalis(vocatif masculin pluriel)|genitalis(accusatif masculin pluriel)|genitalis(nominatif féminin pluriel)|genitalis(vocatif féminin pluriel)|genitalis(accusatif féminin pluriel)">genitales</w> 
+        <w corresp="adams:" ana="#male #testicules" lemma="pars(accusatif pluriel)|pars(nominatif pluriel)|pars(vocatif pluriel)">partes</w> 
         <w lemma="dependo(3ème pluriel indicatif présent actif)">dependunt</w>.    
     </quote>
  </div>

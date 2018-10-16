@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:30" ana="#personnification">
+<div type="fragment" corresp="adams:30" corresp="adams:" ana="#male #personnification">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.68-1.2.69">
         <w lemma="hic(datif masculin singulier)|hic(datif féminin singulier)|hic(datif neutre singulier)">huic</w> 
         <w lemma="sion(génitif singulier)|si(-)">si</w> 

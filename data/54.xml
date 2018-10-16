@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:35" ana="#anatomie">
+<div type="fragment" corresp="adams:35" corresp="adams:" ana="#male #anatomie">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0969.phi001:6.72">
         <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
         <w lemma="morosus(nominatif féminin singulier)|morosus(vocatif féminin singulier)|morosus(ablatif féminin singulier)|morosus(nominatif neutre pluriel)|morosus(vocatif neutre pluriel)|morosus(accusatif neutre pluriel)|morosus(nominatif féminin singulier)|morosus(vocatif féminin singulier)|morosus(ablatif féminin singulier)|morosus(nominatif neutre pluriel)|morosus(vocatif neutre pluriel)|morosus(accusatif neutre pluriel)">morosa</w> 

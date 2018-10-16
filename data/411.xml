@@ -1,9 +1,9 @@
-<div type="fragment" corresp="adams:71" ana="#testicle">
+<div type="fragment" corresp="adams:71" corresp="adams:" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:92">
         <w lemma="habeo(3ème singulier indicatif imparfait actif)">Habebat</w> 
         <w lemma="enim(-)">enim</w> 
         <w lemma="inguen(génitif pluriel)">inguinum</w> 
-        <w  ana="#testicle" lemma="pondus(accusatif singulier)|pondus(nominatif singulier)|pondus(vocatif singulier)">pondus</w> 
+        <w  corresp="adams:" ana="#male #testicle" lemma="pondus(accusatif singulier)|pondus(nominatif singulier)|pondus(vocatif singulier)">pondus</w> 
         <w lemma="tam(-)|tam(positif)">tam</w> 
         <w lemma="grande(positif)|grandis(nominatif neutre singulier)|grandis(vocatif neutre singulier)|grandis(accusatif neutre singulier)">grande</w>, 
         <w lemma="ut(-)">ut</w> 

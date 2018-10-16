@@ -1,10 +1,10 @@
-<div type="fragment" corresp="adams:78" ana="#attitude">
+<div type="fragment" corresp="adams:78" corresp="adams:" ana="#male #attitude">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi007.perseus-lat2:10">
         <w lemma="habeo(3ème singulier indicatif parfait actif)">habuit</w> 
         <w lemma="et(-)">et</w> 
         <w lemma="homo(accusatif singulier)">hominem</w> 
-        <w ana="#attitude"  lemma="penis(ablatif singulier)|penus(vocatif singulier)|pene(positif)">pene</w> 
-        <w  ana="#attitude" lemma="promineo(ablatif masculin singulier participe présent actif)|promineo(ablatif féminin singulier participe présent actif)|promineo(ablatif neutre singulier participe présent actif)|prominens(nominatif neutre singulier)|prominens(vocatif neutre singulier)|prominens(accusatif neutre singulier)|prominens(ablatif singulier)">prominente</w> 
+        <w corresp="adams:" ana="#male #attitude"  lemma="penis(ablatif singulier)|penus(vocatif singulier)|pene(positif)">pene</w> 
+        <w  corresp="adams:" ana="#male #attitude" lemma="promineo(ablatif masculin singulier participe présent actif)|promineo(ablatif féminin singulier participe présent actif)|promineo(ablatif neutre singulier participe présent actif)|prominens(nominatif neutre singulier)|prominens(vocatif neutre singulier)|prominens(accusatif neutre singulier)|prominens(ablatif singulier)">prominente</w> 
         <w lemma="ultra(-)">ultra</w> 
         <w lemma="modus(accusatif singulier)">modum</w> 
         <w lemma="animal(génitif pluriel)|animalis(génitif masculin pluriel)|animalis(génitif féminin pluriel)|animalis(génitif neutre pluriel)">animalium</w>, 

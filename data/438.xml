@@ -1,10 +1,10 @@
-<div type="fragment" corresp="adams:76" ana="#pubic_hair">
+<div type="fragment" corresp="adams:76" corresp="adams:" ana="#male #pubic_hair">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0969.phi001.perseus-lat2:4.39-4.41">
         <w lemma="quinque(-)|quin(-)">quinque</w> 
         <w lemma="palaestrita(génitif singulier)|palaestrita(datif singulier)|palaestrita(nominatif pluriel)|palaestrita(vocatif pluriel)">palaestritae</w> 
         <w lemma="liceo(3ème singulier indicatif présent actif)|licet(3ème singulier indicatif présent actif)|licet(-)">licet</w> 
         <w lemma="hic(nominatif féminin singulier)|hic(nominatif neutre pluriel)|hic(accusatif neutre pluriel)">haec</w> 
-        <w  ana="#pubic_hair" lemma="plantaris(nominatif neutre pluriel)|plantaris(vocatif neutre pluriel)|plantaris(accusatif neutre pluriel)|plantaria(nominatif pluriel)|plantaria(vocatif pluriel)|plantaria(accusatif pluriel)|plantarium(nominatif pluriel)|plantarium(vocatif pluriel)|plantarium(accusatif pluriel)">plantaria</w> 
+        <w  corresp="adams:" ana="#male #pubic_hair" lemma="plantaris(nominatif neutre pluriel)|plantaris(vocatif neutre pluriel)|plantaris(accusatif neutre pluriel)|plantaria(nominatif pluriel)|plantaria(vocatif pluriel)|plantaria(accusatif pluriel)|plantarium(nominatif pluriel)|plantarium(vocatif pluriel)|plantarium(accusatif pluriel)">plantaria</w> 
         <w lemma="vello(3ème pluriel subjonctif présent actif)">vellant</w> 
         <w lemma="elixo(2ème singulier indicatif présent actif)|elixus(accusatif féminin pluriel)">elixasque</w> 
         <w lemma="nates(accusatif pluriel)|nates(nominatif pluriel)|nates(vocatif pluriel)|natis(accusatif pluriel)|natis(nominatif pluriel)|natis(vocatif pluriel)|nato(2ème singulier subjonctif présent actif)">nates</w> 
@@ -14,7 +14,7 @@
         <w lemma="non(-)">non</w> 
         <w lemma="tamen(-)">tamen</w> 
         <w lemma="iste(nominatif féminin singulier)|iste(ablatif féminin singulier)|iste(nominatif neutre pluriel)|iste(accusatif neutre pluriel)">ista</w> 
-        <w ana="#pubic_hair"  lemma="filix(nominatif singulier)|filix(vocatif singulier)">filix</w> 
+        <w corresp="adams:" ana="#male #pubic_hair"  lemma="filix(nominatif singulier)|filix(vocatif singulier)">filix</w> 
         <w lemma="ullus(ablatif masculin singulier)|ullus(ablatif neutre singulier)">ullo</w> 
         <w lemma="mansuesco(3ème singulier indicatif présent actif)">mansuescit</w> 
         <w lemma="aratrum(datif singulier)|aratrum(ablatif singulier)|arater(datif singulier)|arater(ablatif singulier)|aratro(1ère singulier indicatif présent actif)">aratro</w>.’    

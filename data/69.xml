@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:37" ana="#anatomie">
+<div type="fragment" corresp="adams:37" corresp="adams:" ana="#male #anatomie">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:72.3-72.4">
         <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">Quod</w> 
         <w lemma="moueo(1ère singulier subjonctif présent passif)">mouear</w>, 

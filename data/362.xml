@@ -1,7 +1,7 @@
-<div type="fragment" corresp="adams:67" ana="#testicle">
+<div type="fragment" corresp="adams:67" corresp="adams:" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi012.perseus-lat2:1420b-1421">
         <w lemma="salvos(datif masculin pluriel)|salvos(ablatif masculin pluriel)|salvos(datif féminin pluriel)|salvos(ablatif féminin pluriel)|salvos(datif neutre pluriel)|salvos(ablatif neutre pluriel)|Salvius(datif pluriel)|Salvius(ablatif pluriel)|Salvia(datif pluriel)|Salvia(ablatif pluriel)|salvia(datif pluriel)|salvia(ablatif pluriel)">Salvis</w> 
-        <w ana="#testicules" lemma="testis(datif pluriel)|testis(ablatif pluriel)|testis(datif pluriel)|testis(ablatif pluriel)">testibus</w> 
+        <w corresp="adams:" ana="#male #testicules" lemma="testis(datif pluriel)|testis(ablatif pluriel)|testis(datif pluriel)|testis(ablatif pluriel)">testibus</w> 
         <w lemma="ut(-)">ut</w> 
         <w lemma="tu(accusatif masculin singulier)|tu(ablatif masculin singulier)|tu(accusatif féminin singulier)|tu(ablatif féminin singulier)">te</w> 
         <w lemma="">hódie</w> 

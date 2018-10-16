@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:41" ana="#medical">
+<div type="fragment" corresp="adams:41" corresp="adams:" ana="#male #medical">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.71">
         <w lemma="hysterica(accusatif singulier)|hystericus(accusatif féminin singulier)">Hystericam</w> 
         <w lemma="uetulus(datif singulier)|uetulus(ablatif singulier)|uetulus(datif masculin singulier)|uetulus(ablatif masculin singulier)|uetulus(datif neutre singulier)|uetulus(ablatif neutre singulier)">vetulo</w> 

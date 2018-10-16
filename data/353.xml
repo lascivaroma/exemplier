@@ -1,8 +1,8 @@
-<div type="fragment" corresp="adams:66" ana="#testicle">
+<div type="fragment" corresp="adams:66" corresp="adams:" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi056.perseus-lat1:9.22.4">
         <w lemma="et(-)">et</w> 
         <w lemma="honestum(génitif singulier)|honestus(génitif masculin singulier)|honestus(nominatif masculin pluriel)|honestus(vocatif masculin pluriel)|honestus(génitif neutre singulier)">honesti</w> '
-        <w lemma="coleus(nominatif pluriel)|coleus(vocatif pluriel)|coleus(génitif singulier)" ana="#testicules">colei</w> 
+        <w lemma="coleus(nominatif pluriel)|coleus(vocatif pluriel)|coleus(génitif singulier)" corresp="adams:" ana="#male #testicules">colei</w> 
         <w lemma="Lanuuini(nominatif pluriel)|Lanuuini(vocatif pluriel)|Lanuuinus(génitif masculin singulier)|Lanuuinus(nominatif masculin pluriel)|Lanuuinus(vocatif masculin pluriel)|Lanuuinus(génitif neutre singulier)|Lanuuinum(génitif singulier)">Lanuvini</w>,' '
         <w lemma="Cliternini(nominatif pluriel)|Cliternini(vocatif pluriel)|Cliterninus(génitif masculin singulier)|Cliterninus(nominatif masculin pluriel)|Cliterninus(vocatif masculin pluriel)|Cliterninus(génitif neutre singulier)">Cliternini</w>' 
         <w lemma="non(-)">non</w> 

@@ -1,9 +1,9 @@
-<div type="fragment" corresp="adams:70" ana="#testicle">
+<div type="fragment" corresp="adams:70" corresp="adams:" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0224.stoa004.alim-lat1:84">
         <w lemma="ut(-)">ut</w> 
         <w lemma="se(accusatif masculin singulier)|se(ablatif masculin singulier)|se(accusatif masculin pluriel)|se(ablatif masculin pluriel)|se(accusatif féminin singulier)|se(ablatif féminin singulier)|se(accusatif féminin pluriel)|se(ablatif féminin pluriel)|se(accusatif neutre singulier)|se(ablatif neutre singulier)|se(accusatif neutre pluriel)|se(ablatif neutre pluriel)|se(-)">se</w> 
         <w lemma="priuo(3ème pluriel subjonctif présent actif)">privent</w> 
-        <w ana="#testicules" lemma="uirilitas(génitif singulier)">virilitatis</w> 
+        <w corresp="adams:" ana="#male #testicules" lemma="uirilitas(génitif singulier)">virilitatis</w> 
         <w lemma="pario(vocatif masculin singulier participe parfait passif)|pars(ablatif singulier)|partus(vocatif masculin singulier)">parte</w>.    
     </quote>
  </div>

@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:39" ana="#lettres">
+<div type="fragment" corresp="adams:39" corresp="adams:" ana="#male #lettres">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:85">
         <w lemma="Laius(datif pluriel)|Laius(ablatif pluriel)|Laius(datif pluriel)|Laius(ablatif pluriel)|Lais(nominatif singulier)|Lais(vocatif singulier)">LAIS</w> 
         <w lemma="erus(accusatif pluriel)|Eros(nominatif singulier)|Eros(vocatif singulier)">Eros</w> 

@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:42" ana="#contenants">
+<div type="fragment" corresp="adams:42" corresp="adams:" ana="#male #contenants">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:68.23-68.24">
         <w lemma="hic(nominatif masculin singulier)|hic(-)">hic</w> 
         <w lemma="lego(1ère pluriel indicatif parfait actif)|lego(1ère pluriel indicatif présent actif)">legimus</w> 

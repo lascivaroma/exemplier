@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:69" ana="#testicle">
+<div type="fragment" corresp="adams:69" corresp="adams:" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.23">
         <w lemma="tum(-)">tum</w> 
         <w lemma="deinde(-)">deinde</w> 
@@ -9,7 +9,7 @@
         <w lemma="">summotisque</w> 
         <w lemma="arbiter(datif pluriel)|arbiter(ablatif pluriel)|arbitra(datif pluriel)|arbitra(ablatif pluriel)|Arbiter(datif pluriel)|Arbiter(ablatif pluriel)|arbitrium(datif pluriel)|arbitrium(ablatif pluriel)">arbitris</w> 
         <w lemma="circumjicio(accusatif féminin pluriel participe parfait passif)|circumjectus(accusatif féminin pluriel)">circumiectas</w> 
-        <w  lemma="proles(datif pluriel)|proles(ablatif pluriel)" ana="#testicules">prolibus</w> 
+        <w  lemma="proles(datif pluriel)|proles(ablatif pluriel)" corresp="adams:" ana="#male #testicules">prolibus</w> 
         <w lemma="diripio(accusatif masculin singulier participe présent actif)|diripio(accusatif féminin singulier participe présent actif)">diripientem</w> 
         <w lemma="membranula(accusatif pluriel)">membranulas</w> 
         <w lemma="ferveo(datif masculin singulier participe présent actif)|ferveo(datif féminin singulier participe présent actif)|ferveo(datif neutre singulier participe présent actif)|fervo(datif masculin singulier participe présent actif)|fervo(datif féminin singulier participe présent actif)|fervo(datif neutre singulier participe présent actif)|fervens(datif masculin singulier)|fervens(ablatif masculin singulier)|fervens(datif féminin singulier)|fervens(ablatif féminin singulier)|fervens(datif neutre singulier)|fervens(ablatif neutre singulier)">feruentique</w> 

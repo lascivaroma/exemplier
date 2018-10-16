@@ -1,8 +1,8 @@
-<div type="fragment" corresp="adams:76" ana="#pubic_hair">
+<div type="fragment" corresp="adams:76" corresp="adams:" ana="#male #pubic_hair">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:7.19">
         <w lemma="is(nominatif neutre singulier)|is(accusatif neutre singulier)">idque</w> 
         <w lemma="Ia(accusatif singulier)|jam(-)">iam</w> 
-        <w ana="#pubic_hair"  lemma="pubes(ablatif singulier)|pubis(ablatif singulier)">pube</w> 
+        <w corresp="adams:" ana="#male #pubic_hair"  lemma="pubes(ablatif singulier)|pubis(ablatif singulier)">pube</w> 
         <w lemma="contego(3ème singulier indicatif présent passif)">contegitur</w>    
     </quote>
  </div>

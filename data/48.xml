@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:35" ana="#anatomie">
+<div type="fragment" corresp="adams:35" corresp="adams:" ana="#male #anatomie">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.14">
         <w lemma="barbatus(datif masculin singulier)|barbatus(ablatif masculin singulier)|barbatus(datif neutre singulier)|barbatus(ablatif neutre singulier)|Barbatus(datif singulier)|Barbatus(ablatif singulier)|barbatus(datif singulier)|barbatus(ablatif singulier)">barbato</w> 
         <w lemma="Macer(nominatif singulier)|Macer(vocatif singulier)|macer(nominatif masculin singulier)|macer(vocatif masculin singulier)">macer</w> 

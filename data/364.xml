@@ -1,7 +1,7 @@
-<div type="fragment" corresp="adams:67" ana="#testicle">
+<div type="fragment" corresp="adams:67" corresp="adams:" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0975.phi001.perseus-lat2:3.11.5">
         <w lemma="integritas(génitif singulier)">Integritatis</w> 
-        <w ana="#testicules" lemma="testis(accusatif pluriel)|testis(nominatif pluriel)|testis(vocatif pluriel)|testo(2ème singulier subjonctif présent actif)|testis(accusatif pluriel)|testis(nominatif pluriel)|testis(vocatif pluriel)">testes</w> 
+        <w corresp="adams:" ana="#male #testicules" lemma="testis(accusatif pluriel)|testis(nominatif pluriel)|testis(vocatif pluriel)|testo(2ème singulier subjonctif présent actif)|testis(accusatif pluriel)|testis(nominatif pluriel)|testis(vocatif pluriel)">testes</w> 
         <w lemma="quia(-)">quia</w> 
         <w lemma="desum(3ème pluriel indicatif présent actif)">desunt</w> 
         <w lemma="ego(datif masculin singulier)|ego(datif féminin singulier)">mihi</w>.     

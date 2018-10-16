@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:30" ana="#personnification">
+<div type="fragment" corresp="adams:30" corresp="adams:" ana="#male #personnification">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0196.stoa001:5.83">
         <w lemma="ast(-)|a(-)|a(-)|a(-)">Ast</w> 
         <w lemma="Ubii(nominatif pluriel)|Ubii(vocatif pluriel)|Ubius(génitif masculin singulier)|Ubius(nominatif masculin pluriel)|Ubius(vocatif masculin pluriel)|Ubius(génitif neutre singulier)|ubi(-)">ubi</w> 

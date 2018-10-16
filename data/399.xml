@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:70" ana="#testicle">
+<div type="fragment" corresp="adams:70" corresp="adams:" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:7.25">
         <w lemma="nec(-)">Nec</w> 
         <w lemma="invitus(nominatif masculin singulier)">invitus</w> 
@@ -8,7 +8,7 @@
         <w lemma="commodo(1ère singulier indicatif imparfait actif)">commodabam</w> 
         <w lemma="relinquo(nominatif masculin singulier participe présent actif)|relinquo(vocatif masculin singulier participe présent actif)|relinquo(nominatif féminin singulier participe présent actif)|relinquo(vocatif féminin singulier participe présent actif)|relinquo(nominatif neutre singulier participe présent actif)|relinquo(vocatif neutre singulier participe présent actif)|relinquo(accusatif neutre singulier participe présent actif)">relinquens</w> 
         <w lemma="atrox(accusatif féminin singulier superlatif)">atrocissimam</w> 
-        <w lemma="uirilitas(génitif singulier)" ana="#testicules">virilitatis</w> 
+        <w lemma="uirilitas(génitif singulier)" corresp="adams:" ana="#male #testicules">virilitatis</w> 
         <w lemma="laniena(accusatif singulier)|lanienus(accusatif féminin singulier)">lanienam</w>;    
     </quote>
  </div>

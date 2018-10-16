@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:38" ana="#anatomie">
+<div type="fragment" corresp="adams:38" corresp="adams:" ana="#male #anatomie">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0040.stoa003:6.2">
         <w lemma="idem(accusatif masculin pluriel)">eosdem</w> 
         <w lemma="tamen(-)">tamen</w> 

@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:38" ana="#anatomie">
+<div type="fragment" corresp="adams:38" corresp="adams:" ana="#male #anatomie">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi022:16.2">
         <w lemma="qui(nominatif masculin singulier)|qui(nominatif masculin pluriel)|quis(nominatif masculin pluriel)|queo(2ème singulier impératif présent actif)|queo(1ère singulier indicatif parfait actif)|qui(-)">Qui</w> 
         <w lemma="tribunus(nominatif singulier)">tribunus</w> 

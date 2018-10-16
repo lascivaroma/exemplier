@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:74" ana="#scrotum">
+<div type="fragment" corresp="adams:74" corresp="adams:" ana="#male #scrotum">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:7.18">
         <w lemma="commune(génitif singulier)|communio(2ème singulier indicatif présent actif)|communis(génitif masculin singulier)|communis(accusatif masculin pluriel)|communis(génitif féminin singulier)|communis(accusatif féminin pluriel)|communis(génitif neutre singulier)|communis(nominatif masculin singulier)|communis(vocatif masculin singulier)|communis(nominatif féminin singulier)|communis(vocatif féminin singulier)">communis</w> 
         <w lemma="deinde(-)">deinde</w> 
@@ -14,7 +14,7 @@
         <w lemma="nos(datif masculin pluriel)|nos(ablatif masculin pluriel)|nos(datif féminin pluriel)|nos(ablatif féminin pluriel)">nobis</w>: 
         <w lemma="">oscheon</w> 
         <w lemma="Graeci(nominatif pluriel)|Graeci(vocatif pluriel)|Graecus(génitif masculin singulier)|Graecus(nominatif masculin pluriel)|Graecus(vocatif masculin pluriel)|Graecus(génitif neutre singulier)|Graecum(génitif singulier)|Graecus(génitif singulier)|Graecus(nominatif pluriel)|Graecus(vocatif pluriel)">Graeci</w>, 
-        <w  ana="#scrotum" lemma="scrotum(nominatif singulier)|scrotum(vocatif singulier)|scrotum(accusatif singulier)">scrotum</w> 
+        <w  corresp="adams:" ana="#male #scrotum" lemma="scrotum(nominatif singulier)|scrotum(vocatif singulier)|scrotum(accusatif singulier)">scrotum</w> 
         <w lemma="noster(génitif masculin singulier)|noster(nominatif masculin pluriel)|noster(vocatif masculin pluriel)|noster(génitif neutre singulier)">nostri</w> 
         <w lemma="uoco(3ème pluriel indicatif présent actif)">vocant</w>;    
     </quote>

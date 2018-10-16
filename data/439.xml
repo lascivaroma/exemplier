@@ -1,10 +1,10 @@
-<div type="fragment" corresp="adams:76" ana="#pubic_hair">
+<div type="fragment" corresp="adams:76" corresp="adams:" ana="#male #pubic_hair">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:93.3-93.4">
         <w lemma="sed(-)|sed(-)">sed</w> 
         <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
         <w lemma="et(-)">et</w> 
         <w lemma="elixo(1ère singulier indicatif présent actif)|elixus(datif masculin singulier)|elixus(ablatif masculin singulier)|elixus(datif neutre singulier)|elixus(ablatif neutre singulier)">elixo</w> 
-        <w  ana="#pubic_hair" lemma="plantaris(nominatif neutre pluriel)|plantaris(vocatif neutre pluriel)|plantaris(accusatif neutre pluriel)|plantaria(nominatif pluriel)|plantaria(vocatif pluriel)|plantaria(accusatif pluriel)|plantarium(nominatif pluriel)|plantarium(vocatif pluriel)|plantarium(accusatif pluriel)">plantaria</w> 
+        <w  corresp="adams:" ana="#male #pubic_hair" lemma="plantaris(nominatif neutre pluriel)|plantaris(vocatif neutre pluriel)|plantaris(accusatif neutre pluriel)|plantaria(nominatif pluriel)|plantaria(vocatif pluriel)|plantaria(accusatif pluriel)|plantarium(nominatif pluriel)|plantarium(vocatif pluriel)|plantarium(accusatif pluriel)">plantaria</w> 
         <w lemma="podex(ablatif singulier)|podicus(vocatif masculin singulier)">podice</w> 
         <w lemma="vello(2ème singulier indicatif présent actif)|vella(datif pluriel)|vella(ablatif pluriel)|vellus(datif pluriel)|vellus(ablatif pluriel)">vellis</w> 
         <w lemma="et(-)">et</w> 

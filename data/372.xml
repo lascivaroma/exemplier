@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:68" ana="#testicle">
+<div type="fragment" corresp="adams:68" corresp="adams:" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:12.34-12.36">
         <w lemma="imitor(nominatif masculin singulier participe parfait actif)|imitatus(nominatif masculin singulier)|imitatus(nominatif singulier)|imitatus(vocatif singulier)|imitatus(génitif singulier)|imitatus(nominatif pluriel)|imitatus(vocatif pluriel)|imitatus(accusatif pluriel)|imito(nominatif masculin singulier participe parfait passif)">imitatus</w> 
         <w lemma="">castora</w>, 
@@ -10,6 +10,6 @@
         <w lemma="cupio(nominatif masculin singulier participe présent actif)|cupio(vocatif masculin singulier participe présent actif)|cupio(nominatif féminin singulier participe présent actif)|cupio(vocatif féminin singulier participe présent actif)|cupio(nominatif neutre singulier participe présent actif)|cupio(vocatif neutre singulier participe présent actif)|cupio(accusatif neutre singulier participe présent actif)|cupiens(nominatif masculin singulier)|cupiens(vocatif masculin singulier)|cupiens(nominatif féminin singulier)|cupiens(vocatif féminin singulier)">cupiens</w> 
         <w lemma="euado(infinitif présent actif)|euado(2ème singulier indicatif présent passif)|euado(2ème singulier indicatif futur passif)|euado(2ème singulier impératif présent passif)">evadere</w> 
         <w lemma="damno(1ère singulier indicatif présent actif)|damnum(datif singulier)|damnum(ablatif singulier)">damno</w> 
-        <w lemma="testiculus(génitif singulier)|testiculus(nominatif pluriel)|testiculus(vocatif pluriel)"  ana="#testicules">testiculi</w>;    
+        <w lemma="testiculus(génitif singulier)|testiculus(nominatif pluriel)|testiculus(vocatif pluriel)"  corresp="adams:" ana="#male #testicules">testiculi</w>;    
     </quote>
  </div>

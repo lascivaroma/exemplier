@@ -1,10 +1,10 @@
-<div type="fragment" corresp="adams:70" ana="#testicle">
+<div type="fragment" corresp="adams:70" corresp="adams:" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0917.phi001.perseus-lat2:10.133-10.134">
         <w lemma="ferrum(datif singulier)|ferrum(ablatif singulier)">ferro</w> 
         <w lemma="mollio(nominatif féminin singulier participe parfait passif)|mollio(vocatif féminin singulier participe parfait passif)|mollio(ablatif féminin singulier participe parfait passif)|mollio(nominatif neutre pluriel participe parfait passif)|mollio(vocatif neutre pluriel participe parfait passif)|mollio(accusatif neutre pluriel participe parfait passif)|mollitus(nominatif féminin singulier)|mollitus(vocatif féminin singulier)|mollitus(ablatif féminin singulier)|mollitus(nominatif neutre pluriel)|mollitus(vocatif neutre pluriel)|mollitus(accusatif neutre pluriel)">mollita</w> 
         <w lemma="Juventus(nominatif masculin singulier)|juventus(nominatif singulier)|juventus(vocatif singulier)">iuventus</w> 
         <w lemma="atque(-)|at(-)">Atque</w> 
         <w lemma="exseco(nominatif féminin singulier participe parfait passif)|exseco(vocatif féminin singulier participe parfait passif)|exseco(ablatif féminin singulier participe parfait passif)|exseco(nominatif neutre pluriel participe parfait passif)|exseco(vocatif neutre pluriel participe parfait passif)|exseco(accusatif neutre pluriel participe parfait passif)">exsecta</w> 
-        <w  ana="#testicle" lemma="uir(accusatif singulier)">virum</w>    
+        <w  corresp="adams:" ana="#male #testicle" lemma="uir(accusatif singulier)">virum</w>    
     </quote>
  </div>

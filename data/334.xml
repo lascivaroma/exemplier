@@ -1,9 +1,9 @@
-<div type="fragment" corresp="adams:62" ana="#res">
+<div type="fragment" corresp="adams:62" corresp="adams:" ana="#male #res">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:56.7">
         <w lemma="pro(-)|pro(-)">pro</w> 
         <w lemma="telum(datif singulier)|telum(ablatif singulier)|Telos(datif singulier)|Telos(ablatif singulier)|telo(nominatif singulier)|telo(vocatif singulier)">telo</w> 
         <w lemma="rigido(2ème singulier impératif présent actif)|rigidus(nominatif féminin singulier)|rigidus(vocatif féminin singulier)|rigidus(ablatif féminin singulier)|rigidus(nominatif neutre pluriel)|rigidus(vocatif neutre pluriel)|rigidus(accusatif neutre pluriel)">rigida</w> 
-        <w lemma="meo(2ème singulier impératif présent actif)|meum(nominatif pluriel)|meum(vocatif pluriel)|meum(accusatif pluriel)|meus(nominatif féminin singulier)|meus(vocatif féminin singulier)|meus(ablatif féminin singulier)|meus(nominatif neutre pluriel)|meus(vocatif neutre pluriel)|meus(accusatif neutre pluriel)|Meum(nominatif pluriel)|Meum(vocatif pluriel)|Meum(accusatif pluriel)|meum(nominatif pluriel)|meum(vocatif pluriel)|meum(accusatif pluriel)" ana="#penis">mea</w> 
+        <w lemma="meo(2ème singulier impératif présent actif)|meum(nominatif pluriel)|meum(vocatif pluriel)|meum(accusatif pluriel)|meus(nominatif féminin singulier)|meus(vocatif féminin singulier)|meus(ablatif féminin singulier)|meus(nominatif neutre pluriel)|meus(vocatif neutre pluriel)|meus(accusatif neutre pluriel)|Meum(nominatif pluriel)|Meum(vocatif pluriel)|Meum(accusatif pluriel)|meum(nominatif pluriel)|meum(vocatif pluriel)|meum(accusatif pluriel)" corresp="adams:" ana="#male #penis">mea</w> 
         <w lemma="cado(1ère singulier indicatif parfait actif)|caedo(1ère singulier indicatif parfait actif)">cecidi</w>.    
     </quote>
  </div>
