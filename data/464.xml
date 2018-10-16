@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:85" ana="#caves #female #cunnus #metaphore">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:83">
+        <w lemma="inter(-)">inter</w> 
+        <w ana="#caves"  lemma="ater(nominatif féminin singulier)|ater(vocatif féminin singulier)|ater(ablatif féminin singulier)|ater(nominatif neutre pluriel)|ater(vocatif neutre pluriel)|ater(accusatif neutre pluriel)">atra</w> 
+        <w lemma="qui(génitif masculin singulier)|qui(génitif féminin singulier)|qui(génitif neutre singulier)|quis(génitif masculin singulier)|quis(génitif féminin singulier)|quis(génitif neutre singulier)">cuius</w> 
+        <w lemma="inguen(nominatif pluriel)|inguen(vocatif pluriel)|inguen(accusatif pluriel)|inguina(nominatif singulier)|inguina(vocatif singulier)|inguina(ablatif singulier)">inguina</w> 
+        <w lemma="lateo(3ème singulier indicatif présent actif)">latet</w>
+
+        <w lemma="iaceo(ablatif masculin singulier participe présent actif)|iaceo(ablatif féminin singulier participe présent actif)|iaceo(ablatif neutre singulier participe présent actif)|iacens(nominatif neutre singulier)|iacens(vocatif neutre singulier)|iacens(accusatif neutre singulier)">iacente</w> 
+        <w lemma="pantex(ablatif singulier)">pantice</w> 
+        <w lemma="abditus(nominatif masculin singulier)|abdo(nominatif masculin singulier participe parfait passif)">abditus</w> 
+        <w lemma="specus(nominatif singulier)|specus(vocatif singulier)|specus(génitif singulier)|specus(nominatif pluriel)|specus(vocatif pluriel)|specus(accusatif pluriel)">specus</w>    
+    </quote>
+ </div>

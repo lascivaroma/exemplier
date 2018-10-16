@@ -1,0 +1,10 @@
+<div type="fragment" corresp="adams:80" ana="#cunnus #female">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:29.5">
+        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
+        <w  ana="#cunnus" lemma="cunnus(datif singulier)|cunnus(ablatif singulier)">cunno</w> 
+        <w lemma="ego(datif masculin singulier)|ego(datif féminin singulier)">mihi</w> 
+        <w lemma="mentula(nominatif singulier)|mentula(vocatif singulier)|mentula(ablatif singulier)">mentula</w> 
+        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
+        <w lemma="uoco(nominatif féminin singulier adjectif verbal)|uoco(vocatif féminin singulier adjectif verbal)|uoco(ablatif féminin singulier adjectif verbal)|uoco(nominatif neutre pluriel adjectif verbal)|uoco(vocatif neutre pluriel adjectif verbal)|uoco(accusatif neutre pluriel adjectif verbal)">uocanda</w>.    
+    </quote>
+ </div>
