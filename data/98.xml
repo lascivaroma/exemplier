@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:42" corresp="adams:" ana="#male #contenant">
+<div type="fragment" corresp="adams:42"  ana="#male #contenant">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0040.stoa003:14.23">
         <w lemma="ito(2ème singulier impératif présent actif)|ita(-)">Ita</w> 
         <w lemma="genitale(nominatif singulier)|genitale(vocatif singulier)|genitale(accusatif singulier)|Genitalis(ablatif singulier)|genitalis(nominatif neutre singulier)|genitalis(vocatif neutre singulier)|genitalis(accusatif neutre singulier)">genitale</w> 

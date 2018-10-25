@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:69" corresp="adams:" ana="#male #testicle">
+<div type="fragment" corresp="adams:69"  ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.37">
         <w lemma="irascor(nominatif féminin singulier participe parfait actif)|irascor(vocatif féminin singulier participe parfait actif)|irascor(ablatif féminin singulier participe parfait actif)|irascor(nominatif neutre pluriel participe parfait actif)|irascor(vocatif neutre pluriel participe parfait actif)|irascor(accusatif neutre pluriel participe parfait actif)|iratus(nominatif féminin singulier)|iratus(vocatif féminin singulier)|iratus(ablatif féminin singulier)|iratus(nominatif neutre pluriel)|iratus(vocatif neutre pluriel)|iratus(accusatif neutre pluriel)">irata</w> 
         <w lemma="cero(2ème singulier subjonctif présent actif)|Ceres(nominatif singulier)|Ceres(vocatif singulier)">Ceres</w> 
@@ -8,7 +8,7 @@
         <w lemma="et(-)">et</w> 
         <w lemma="aries(génitif singulier)">arietis</w> 
             
-        <w corresp="adams:" ana="#male #testicules" lemma="proles(accusatif pluriel)|proles(nominatif pluriel)|proles(vocatif pluriel)|proles(nominatif singulier)|proles(vocatif singulier)">proles</w> 
+        <w  ana="#male #testicules" lemma="proles(accusatif pluriel)|proles(nominatif pluriel)|proles(vocatif pluriel)|proles(nominatif singulier)|proles(vocatif singulier)">proles</w> 
         <w lemma="pro(-)|pro(-)">pro</w> 
         <w lemma="poena(nominatif singulier)|poena(vocatif singulier)|poena(ablatif singulier)|Poenus(nominatif féminin singulier)|Poenus(vocatif féminin singulier)|Poenus(ablatif féminin singulier)|Poenus(nominatif neutre pluriel)|Poenus(vocatif neutre pluriel)|Poenus(accusatif neutre pluriel)">poena</w> 
         <w lemma="atque(-)|at(-)">atque</w> 

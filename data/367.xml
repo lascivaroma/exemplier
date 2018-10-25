@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:67" corresp="adams:" ana="#male #testicle">
+<div type="fragment" corresp="adams:67"  ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:7.24">
         <w lemma="polimen(nominatif pluriel)|polimen(vocatif pluriel)|polimen(accusatif pluriel)|polimina(nominatif pluriel)|polimina(vocatif pluriel)|polimina(accusatif pluriel)|polimina(accusatif singulier)|polimina(nominatif singulier)|polimina(vocatif singulier)">polimina</w> 
         <w lemma="porrum(datif singulier)|porrum(ablatif singulier)|porrus(datif singulier)|porrus(ablatif singulier)|porro(-)">porro</w> 
@@ -15,7 +15,7 @@
         <w lemma="autem(-)">autem</w> 
         <w lemma="adsoleo(3ème pluriel indicatif présent actif)|assolo(3ème pluriel subjonctif présent actif)">adsolent</w> 
         <w lemma="cognomen(ablatif singulier)|cognominis(nominatif neutre singulier)|cognominis(vocatif neutre singulier)|cognominis(accusatif neutre singulier)">cognomine</w> 
-        <w  corresp="adams:" ana="#male #testicules" lemma="testis(génitif pluriel)|testis(génitif pluriel)">testium</w> 
+        <w   ana="#male #testicules" lemma="testis(génitif pluriel)|testis(génitif pluriel)">testium</w> 
             
         <w lemma="nuncupo(infinitif présent passif)">nuncupari</w>.     
     </quote>

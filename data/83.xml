@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:39" corresp="adams:" ana="#male #lettres">
+<div type="fragment" corresp="adams:39"  ana="#male #lettres">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:87.10-87.11">
         <w lemma="quis(nominatif neutre singulier)|quis(vocatif neutre singulier)|quis(accusatif neutre singulier)|quid(-)|quid(positif)">quid</w>, 
         <w lemma="imperite(positif)|imperitus(vocatif masculin singulier)">imperite</w>, 

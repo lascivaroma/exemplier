@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:66" corresp="adams:" ana="#male #testicle">
+<div type="fragment" corresp="adams:66"  ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:25.6-25.7">
         <w lemma="intro(2ème singulier impératif présent actif)|intra(-)">intra</w> 
         <w lemma="viscus(nominatif pluriel)|viscus(vocatif pluriel)|viscus(accusatif pluriel)|viscera(nominatif pluriel)|viscera(vocatif pluriel)|viscera(accusatif pluriel)|viscera(accusatif singulier)|viscera(nominatif singulier)|viscera(vocatif singulier)">uiscera</w> 
@@ -6,8 +6,8 @@
         <w lemma="eo(3ème singulier indicatif futur actif)">ibit</w> 
         <w lemma="usque(-)">usque</w> 
         <w lemma="ad(-)">ad</w> 
-        <w corresp="adams:" ana="#male #pubis" lemma="pubes(accusatif singulier)|pubis(accusatif singulier)">pubem</w> 
+        <w  ana="#male #pubis" lemma="pubes(accusatif singulier)|pubis(accusatif singulier)">pubem</w> 
         <w lemma="capulus(accusatif singulier)|capulum(nominatif singulier)|capulum(vocatif singulier)|capulum(accusatif singulier)">capulumque</w> 
-        <w corresp="adams:" ana="#male #testicules" lemma="coleus(génitif pluriel)">coleorum</w>.    
+        <w  ana="#male #testicules" lemma="coleus(génitif pluriel)">coleorum</w>.    
     </quote>
  </div>

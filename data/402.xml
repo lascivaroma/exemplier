@@ -1,7 +1,7 @@
-<div type="fragment" corresp="adams:70" corresp="adams:" ana="#male #testicle">
+<div type="fragment" corresp="adams:70"  ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:7.11.2">
         <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">Cum</w> 
-        <w corresp="adams:" ana="#male #testicules" lemma="virilis(accusatif masculin singulier)|virilis(accusatif féminin singulier)">virilem</w> 
+        <w  ana="#male #testicules" lemma="virilis(accusatif masculin singulier)|virilis(accusatif féminin singulier)">virilem</w> 
         <w lemma="pars(accusatif singulier)">partem</w> 
         <w lemma="unus(accusatif féminin singulier)">unam</w> 
         <w lemma="ferrum(datif singulier)|ferrum(ablatif singulier)">ferro</w> 

@@ -1,9 +1,9 @@
-<div type="fragment" corresp="adams:72" corresp="adams:" ana="#male #glans">
+<div type="fragment" corresp="adams:72"  ana="#male #glans">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.46.4">
         <w lemma="nec(-)">Nec</w> 
         <w lemma="leuo(3ème singulier indicatif présent actif)|leuo(3ème singulier indicatif présent actif)">levat</w> 
         <w lemma="extinguo(supin en -um)|extinguo(accusatif masculin singulier participe parfait passif)|extinguo(nominatif neutre singulier participe parfait passif)|extinguo(vocatif neutre singulier participe parfait passif)|extinguo(accusatif neutre singulier participe parfait passif)|exstinguo(supin en -um)|exstinguo(accusatif masculin singulier participe parfait passif)|exstinguo(nominatif neutre singulier participe parfait passif)|exstinguo(vocatif neutre singulier participe parfait passif)|exstinguo(accusatif neutre singulier participe parfait passif)|exstinctus(accusatif masculin singulier)|exstinctus(nominatif neutre singulier)|exstinctus(vocatif neutre singulier)|exstinctus(accusatif neutre singulier)|exstinctus(accusatif singulier)">extinctum</w> 
         <w lemma="sollicito(nominatif féminin singulier participe parfait passif)|sollicito(vocatif féminin singulier participe parfait passif)|sollicito(ablatif féminin singulier participe parfait passif)|sollicito(nominatif neutre pluriel participe parfait passif)|sollicito(vocatif neutre pluriel participe parfait passif)|sollicito(accusatif neutre pluriel participe parfait passif)|sollicitatus(nominatif féminin singulier)|sollicitatus(vocatif féminin singulier)|sollicitatus(ablatif féminin singulier)|sollicitatus(nominatif neutre pluriel)|sollicitatus(vocatif neutre pluriel)|sollicitatus(accusatif neutre pluriel)">sollicitata</w> 
-        <w  corresp="adams:" ana="#male #glans" lemma="caput(accusatif singulier)|caput(nominatif singulier)|caput(vocatif singulier)">caput</w>.     
+        <w   ana="#male #glans" lemma="caput(accusatif singulier)|caput(nominatif singulier)|caput(vocatif singulier)">caput</w>.     
     </quote>
  </div>

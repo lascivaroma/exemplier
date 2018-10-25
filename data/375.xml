@@ -1,9 +1,9 @@
-<div type="fragment" corresp="adams:68" corresp="adams:" ana="#male #testicle">
+<div type="fragment" corresp="adams:68"  ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:26.162">
         <w lemma="arsenogonon(génitif singulier)">arsenogoni</w> 
         <w lemma="autem(-)">autem</w> 
         <w lemma="semen(accusatif singulier)|semen(nominatif singulier)|semen(vocatif singulier)">semen</w> 
-        <w corresp="adams:" ana="#male #testicules" lemma="Geminus(accusatif singulier)|geminus(accusatif masculin singulier)|geminus(nominatif neutre singulier)|geminus(vocatif neutre singulier)|geminus(accusatif neutre singulier)">geminum</w>  
+        <w  ana="#male #testicules" lemma="Geminus(accusatif singulier)|geminus(accusatif masculin singulier)|geminus(nominatif neutre singulier)|geminus(vocatif neutre singulier)|geminus(accusatif neutre singulier)">geminum</w>  
         <w lemma="esse(infinitif présent actif)|sum(infinitif présent actif)">esse</w>
 
         <w lemma="testis(datif pluriel)|testis(ablatif pluriel)|testis(datif pluriel)|testis(ablatif pluriel)">testibus</w> 

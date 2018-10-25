@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:70" corresp="adams:" ana="#male #testicle">
+<div type="fragment" corresp="adams:70"  ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:1.41">
         <w lemma="nonnus(vocatif singulier)|nonne(-)|non(-)">nonne</w> 
         <w lemma="ille(accusatif masculin singulier)">illum</w> 
@@ -8,7 +8,7 @@
         <w lemma="et(-)">et</w> 
         <w lemma="spoliatus(accusatif masculin singulier)|spoliatus(nominatif neutre singulier)|spoliatus(vocatif neutre singulier)|spoliatus(accusatif neutre singulier)|spolio(supin en -um)|spolio(accusatif masculin singulier participe parfait passif)|spolio(nominatif neutre singulier participe parfait passif)|spolio(vocatif neutre singulier participe parfait passif)|spolio(accusatif neutre singulier participe parfait passif)">spoliatum</w>             
             
-        <w  corresp="adams:" ana="#male #testicle" lemma="uir(datif singulier)|uir(ablatif singulier)|uirus(datif singulier)|uirus(ablatif singulier)">uiro</w> 
+        <w   ana="#male #testicle" lemma="uir(datif singulier)|uir(ablatif singulier)|uirus(datif singulier)|uirus(ablatif singulier)">uiro</w> 
         <w lemma="magnus(génitif féminin singulier)|magnus(datif féminin singulier)|magnus(nominatif féminin pluriel)|magnus(vocatif féminin pluriel)">magnae</w> 
         <w lemma="mater(génitif singulier)|Matrae(datif pluriel)|Matrae(ablatif pluriel)">matris</w> 
         <w lemma="in(-)">in</w> 

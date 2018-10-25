@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:69" corresp="adams:" ana="#male #testicle">
+<div type="fragment" corresp="adams:69"  ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:1.9">
         <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
         <w lemma="is(nominatif féminin singulier)|is(ablatif féminin singulier)|is(nominatif neutre pluriel)|is(accusatif neutre pluriel)|Eus(nominatif féminin singulier)|Eus(vocatif féminin singulier)|Eus(ablatif féminin singulier)|Eus(nominatif neutre pluriel)|Eus(vocatif neutre pluriel)|Eus(accusatif neutre pluriel)|ea(-)">ea</w> 
@@ -9,7 +9,7 @@
         <w lemma="insequor(datif masculin pluriel participe présent actif)|insequor(ablatif masculin pluriel participe présent actif)|insequor(datif féminin pluriel participe présent actif)|insequor(ablatif féminin pluriel participe présent actif)|insequor(datif neutre pluriel participe présent actif)|insequor(ablatif neutre pluriel participe présent actif)|insequo(datif masculin pluriel participe présent actif)|insequo(ablatif masculin pluriel participe présent actif)|insequo(datif féminin pluriel participe présent actif)|insequo(ablatif féminin pluriel participe présent actif)|insequo(datif neutre pluriel participe présent actif)|insequo(ablatif neutre pluriel participe présent actif)|insequens(datif masculin pluriel)|insequens(ablatif masculin pluriel)|insequens(datif féminin pluriel)|insequens(ablatif féminin pluriel)|insequens(datif neutre pluriel)|insequens(ablatif neutre pluriel)">insequentibus</w> 
         <w lemma="se(accusatif masculin singulier)|se(ablatif masculin singulier)|se(accusatif masculin pluriel)|se(ablatif masculin pluriel)|se(accusatif féminin singulier)|se(ablatif féminin singulier)|se(accusatif féminin pluriel)|se(ablatif féminin pluriel)|se(accusatif neutre singulier)|se(ablatif neutre singulier)|se(accusatif neutre pluriel)|se(ablatif neutre pluriel)|se(-)">se</w> 
         <w lemma="praecisio(ablatif singulier)|praecisio(nominatif singulier)|praecisio(vocatif singulier)">praecisione</w> 
-        <w corresp="adams:" ana="#male #testicules" lemma="genitale(génitif pluriel)|Genitalis(génitif pluriel)|genitalis(génitif masculin pluriel)|genitalis(génitif féminin pluriel)|genitalis(génitif neutre pluriel)">genitalium</w> 
+        <w  ana="#male #testicules" lemma="genitale(génitif pluriel)|Genitalis(génitif pluriel)|genitalis(génitif masculin pluriel)|genitalis(génitif féminin pluriel)|genitalis(génitif neutre pluriel)">genitalium</w> 
         <w lemma="libero(3ème singulier indicatif présent actif)">liberat</w>    
     </quote>
  </div>

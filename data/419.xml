@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:72" corresp="adams:" ana="#male #glans">
+<div type="fragment" corresp="adams:72"  ana="#male #glans">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1:33.67">
         <w lemma="noceo(infinitif présent actif)|noceo(2ème singulier indicatif présent passif)|noceo(2ème singulier impératif présent passif)">Nocere</w> 
         <w lemma="possum(infinitif présent actif)|Possis(ablatif singulier)">posse</w> 
@@ -8,7 +8,7 @@
         <w lemma="quis(nominatif masculin singulier)|queo(2ème singulier indicatif présent actif)">quis</w> 
         <w lemma="membrana(accusatif singulier)|membranus(accusatif féminin singulier)">membranam</w> 
         <w lemma="ovis(datif singulier)|Ouius(vocatif singulier)|ovum(génitif singulier)|Ouius(génitif singulier)|Ouius(nominatif pluriel)|Ouius(vocatif pluriel)">oui</w> 
-        <w corresp="adams:" ana="#male #glans"  lemma="balanus(datif singulier)|balanus(ablatif singulier)">balano</w> 
+        <w  ana="#male #glans"  lemma="balanus(datif singulier)|balanus(ablatif singulier)">balano</w> 
         <w lemma="suo(1ère singulier indicatif présent actif)|suum(datif singulier)|suum(ablatif singulier)|suus(datif masculin singulier)|suus(ablatif masculin singulier)|suus(datif neutre singulier)|suus(ablatif neutre singulier)">suo</w> 
         <w lemma="ingero(3ème singulier subjonctif présent actif)">ingerat</w> 
         <w lemma="et(-)">et</w> 

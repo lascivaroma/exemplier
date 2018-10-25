@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:64" corresp="adams:" ana="#male #misc">
+<div type="fragment" corresp="adams:64"  ana="#male #misc">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0040.stoa003.opp-lat3:6.9">
         <w lemma="sed(-)|sed(-)">Sed</w> 
         <w lemma="quis(nominatif neutre singulier)|quis(vocatif neutre singulier)|quis(accusatif neutre singulier)|quid(-)|quid(positif)">quid</w> 
@@ -18,7 +18,7 @@
         <w lemma="immanis(accusatif masculin singulier superlatif)|immanis(nominatif neutre singulier superlatif)|immanis(vocatif neutre singulier superlatif)|immanis(accusatif neutre singulier superlatif)">inmanissimum</w> 
         <w lemma="et(-)">et</w> 
         <w lemma="turpis(accusatif masculin singulier superlatif)|turpis(nominatif neutre singulier superlatif)|turpis(vocatif neutre singulier superlatif)|turpis(accusatif neutre singulier superlatif)">turpissimum</w> 
-        <w corresp="adams:" ana="#male #dildo" lemma="fascinum(nominatif singulier)|fascinum(vocatif singulier)|fascinum(accusatif singulier)|Fascinus(accusatif singulier)|Fascinus(accusatif singulier)">fascinum</w>             
+        <w  ana="#male #dildo" lemma="fascinum(nominatif singulier)|fascinum(vocatif singulier)|fascinum(accusatif singulier)|Fascinus(accusatif singulier)|Fascinus(accusatif singulier)">fascinum</w>             
         <w lemma="sedeo(3ème pluriel indicatif parfait actif)|sedeo(infinitif présent actif)|sedeo(2ème singulier indicatif présent passif)|sedeo(2ème singulier impératif présent passif)|sedo(2ème singulier subjonctif présent passif)">sedere</w> 
         <w lemma="nouo(2ème singulier impératif présent actif)|nouus(nominatif féminin singulier)|nouus(vocatif féminin singulier)|nouus(ablatif féminin singulier)|nouus(nominatif neutre pluriel)|nouus(vocatif neutre pluriel)|nouus(accusatif neutre pluriel)|Noua(nominatif singulier)|Noua(vocatif singulier)|Noua(ablatif singulier)|Nouum(nominatif pluriel)|Nouum(vocatif pluriel)|Nouum(accusatif pluriel)|nouum(nominatif pluriel)|nouum(vocatif pluriel)|nouum(accusatif pluriel)">noua</w> 
         <w lemma="nubo(nominatif féminin singulier participe parfait passif)|nubo(vocatif féminin singulier participe parfait passif)|nubo(ablatif féminin singulier participe parfait passif)|nubo(nominatif neutre pluriel participe parfait passif)|nubo(vocatif neutre pluriel participe parfait passif)|nubo(accusatif neutre pluriel participe parfait passif)|nupta(nominatif singulier)|nupta(vocatif singulier)|nupta(ablatif singulier)|nupto(2ème singulier impératif présent actif)|nuptus(nominatif féminin singulier)|nuptus(vocatif féminin singulier)|nuptus(ablatif féminin singulier)|nuptus(nominatif neutre pluriel)|nuptus(vocatif neutre pluriel)|nuptus(accusatif neutre pluriel)">nupta</w> 

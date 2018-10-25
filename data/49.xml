@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:35" corresp="adams:" ana="#male #anatomie">
+<div type="fragment" corresp="adams:35"  ana="#male #anatomie">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0975.phi001:1.29.7-1.29.8">
         <w lemma="asinus(nominatif singulier)">Asinus</w> 
         <w lemma="demissus(datif masculin singulier)|demissus(ablatif masculin singulier)|demissus(datif neutre singulier)|demissus(ablatif neutre singulier)|demitto(datif masculin singulier participe parfait passif)|demitto(ablatif masculin singulier participe parfait passif)|demitto(datif neutre singulier participe parfait passif)|demitto(ablatif neutre singulier participe parfait passif)">demisso</w> 

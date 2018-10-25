@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:74" corresp="adams:" ana="#male #foreskin">
+<div type="fragment" corresp="adams:74"  ana="#male #foreskin">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:7.25">
         <w lemma="subter(-)">subter</w> 
         <w lemma="a(-)|a(-)|a(-)">a</w> 
@@ -10,6 +10,6 @@
         <w lemma="linea(nominatif singulier)|linea(vocatif singulier)|linea(ablatif singulier)|lineus(nominatif féminin singulier)|lineus(vocatif féminin singulier)|lineus(ablatif féminin singulier)|lineus(nominatif neutre pluriel)|lineus(vocatif neutre pluriel)|lineus(accusatif neutre pluriel)|lineo(2ème singulier impératif présent actif)">linea</w> 
         <w lemma="usque(-)">usque</w> 
         <w lemma="ad(-)">ad</w> 
-        <w lemma="frenum(nominatif singulier)|frenum(vocatif singulier)|frenum(accusatif singulier)|frenus(accusatif singulier)" corresp="adams:" ana="#male #foreskin" >frenum</w>    
+        <w lemma="frenum(nominatif singulier)|frenum(vocatif singulier)|frenum(accusatif singulier)|frenus(accusatif singulier)"  ana="#male #foreskin" >frenum</w>    
     </quote>
  </div>

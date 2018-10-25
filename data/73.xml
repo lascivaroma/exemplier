@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:38" corresp="adams:" ana="#male #anatomie">
+<div type="fragment" corresp="adams:38"  ana="#male #anatomie">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001:6.1-7.1">
         <w lemma="dico(datif masculin singulier participe parfait passif)|dico(ablatif masculin singulier participe parfait passif)|dico(datif neutre singulier participe parfait passif)|dico(ablatif neutre singulier participe parfait passif)|dicto(1ère singulier indicatif présent actif)|dictum(datif singulier)|dictum(ablatif singulier)|dictus(datif masculin singulier)|dictus(ablatif masculin singulier)|dictus(datif neutre singulier)|dictus(ablatif neutre singulier)">dicto</w> 
         <w lemma="cite(comparatif)|cito(comparatif)|citus(nominatif neutre singulier comparatif)|citus(vocatif neutre singulier comparatif)|citus(accusatif neutre singulier comparatif)|Citius(nominatif singulier)">citius</w> 

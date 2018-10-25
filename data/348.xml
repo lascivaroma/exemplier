@@ -1,8 +1,8 @@
-<div type="fragment" corresp="adams:64" corresp="adams:" ana="#male #misc">
+<div type="fragment" corresp="adams:64"  ana="#male #misc">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.39">
         <w lemma="phallus(génitif pluriel)">phallorum</w> 
         <w lemma="ille(nominatif féminin singulier)|ille(ablatif féminin singulier)|ille(nominatif neutre pluriel)|ille(accusatif neutre pluriel)|illa(-)">illa</w> 
-        <w corresp="adams:" ana="#male #dildo" lemma="fascinum(génitif pluriel)|Fascinus(génitif pluriel)|Fascinus(génitif pluriel)">fascinorumque</w> 
+        <w  ana="#male #dildo" lemma="fascinum(génitif pluriel)|Fascinus(génitif pluriel)|Fascinus(génitif pluriel)">fascinorumque</w> 
         <w lemma="subrectio(nominatif singulier)|subrectio(vocatif singulier)">subrectio</w>, 
         <w lemma="qui(accusatif masculin pluriel)|quis(accusatif masculin pluriel)">quos</w> 
         <w lemma="ritus(datif pluriel)|ritus(ablatif pluriel)">ritibus</w> 

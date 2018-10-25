@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:68" corresp="adams:" ana="#male #testicle">
+<div type="fragment" corresp="adams:68"  ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.370-6.373">
         <w lemma="ergo(1ère singulier indicatif présent actif)|ergo(-)|ergo(positif)">ergo</w> 
         <w lemma="expectatus(accusatif masculin pluriel)|exspecto(accusatif masculin pluriel participe parfait passif)">expectatos</w> 
@@ -6,7 +6,7 @@
         <w lemma="iubeo(accusatif masculin pluriel participe parfait passif)|jussus(accusatif masculin pluriel)">iussos</w> 
         <w lemma="cresco(infinitif présent actif)|cresco(2ème singulier indicatif présent passif)|cresco(2ème singulier indicatif futur passif)|cresco(2ème singulier impératif présent passif)">crescere</w> 
         <w lemma="Primus(accusatif singulier)|primus(accusatif masculin singulier)|primus(nominatif neutre singulier)|primus(vocatif neutre singulier)|primus(accusatif neutre singulier)|primum(-)">primum</w> 
-        <w corresp="adams:" ana="#male #testicules" lemma="testiculus(accusatif pluriel)">testiculos</w>, 
+        <w  ana="#male #testicules" lemma="testiculus(accusatif pluriel)">testiculos</w>, 
         <w lemma="postquam(-)">postquam</w> 
         <w lemma="coepio(3ème pluriel indicatif parfait actif)">coeperunt</w> 
         <w lemma="esse(infinitif présent actif)|sum(infinitif présent actif)">esse</w> 

@@ -1,10 +1,10 @@
-<div type="fragment" corresp="adams:71" corresp="adams:" ana="#male #testicle">
+<div type="fragment" corresp="adams:71"  ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:63.5">
         <w lemma="devolvo(3ème singulier indicatif parfait actif)|devolvo(3ème singulier indicatif présent actif)">devolvit</w> 
         <w lemma="Ilus(génitif singulier)|Ilus(nominatif pluriel)|Ilus(vocatif pluriel)|ile(ablatif singulier)|ile(datif singulier)|Ilii(nominatif pluriel)|Ilii(vocatif pluriel)|Ilios(génitif singulier)|Ilios(nominatif pluriel)|Ilios(vocatif pluriel)|Ilium(génitif singulier)|Ilius(génitif masculin singulier)|Ilius(nominatif masculin pluriel)|Ilius(vocatif masculin pluriel)|Ilius(génitif neutre singulier)|Ilion(génitif singulier)|ilium(génitif singulier)">ili</w> 
         <w lemma="acuo(datif masculin singulier participe parfait passif)|acuo(ablatif masculin singulier participe parfait passif)|acuo(datif neutre singulier participe parfait passif)|acuo(ablatif neutre singulier participe parfait passif)|acutus(datif masculin singulier)|acutus(ablatif masculin singulier)|acutus(datif neutre singulier)|acutus(ablatif neutre singulier)|acuto(1ère singulier indicatif présent actif)">acuto</w> 
         <w lemma="se(datif masculin singulier)|se(datif masculin pluriel)|se(datif féminin singulier)|se(datif féminin pluriel)|se(datif neutre singulier)|se(datif neutre pluriel)|sibus(génitif masculin singulier)|sibus(nominatif masculin pluriel)|sibus(vocatif masculin pluriel)|sibus(génitif neutre singulier)|Sibi(-)">sibi</w> 
-        <w  corresp="adams:" ana="#male #testicle" lemma="pondero(2ème singulier impératif présent actif)|pondus(nominatif pluriel)|pondus(vocatif pluriel)|pondus(accusatif pluriel)">pondera</w> 
+        <w   ana="#male #testicle" lemma="pondero(2ème singulier impératif présent actif)|pondus(nominatif pluriel)|pondus(vocatif pluriel)|pondus(accusatif pluriel)">pondera</w> 
         <w lemma="silex(ablatif singulier)">silice</w>.    
     </quote>
  </div>

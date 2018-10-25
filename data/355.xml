@@ -1,9 +1,9 @@
-<div type="fragment" corresp="adams:66" corresp="adams:" ana="#male #testicle">
+<div type="fragment" corresp="adams:66"  ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.83.2-12.83.4">
         <w lemma="omnis(nominatif masculin pluriel)|omnis(vocatif masculin pluriel)|omnis(accusatif masculin pluriel)|omnis(nominatif féminin pluriel)|omnis(vocatif féminin pluriel)|omnis(accusatif féminin pluriel)">Omnes</w> 
         <w lemma="qui(accusatif masculin singulier)|quis(accusatif masculin singulier)|quem(positif)">quem</w> 
         <w lemma="modus(datif singulier)|modus(ablatif singulier)|modo(-)">modo</w> 
-        <w lemma="coleus(nominatif pluriel)|coleus(vocatif pluriel)|coleus(génitif singulier)" corresp="adams:" ana="#male #testicules">colei</w> 
+        <w lemma="coleus(nominatif pluriel)|coleus(vocatif pluriel)|coleus(génitif singulier)"  ana="#male #testicules">colei</w> 
         <w lemma="timeo(3ème pluriel indicatif imparfait actif)">timebant</w>  
         <w lemma="dico(accusatif masculin singulier participe présent actif)|dico(accusatif féminin singulier participe présent actif)">Dicentem</w> 
         <w lemma="tumidus(accusatif féminin pluriel)|tumido(2ème singulier indicatif présent actif)">tumidas</w> 

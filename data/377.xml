@@ -1,9 +1,9 @@
-<div type="fragment" corresp="adams:68" corresp="adams:" ana="#male #testicle">
+<div type="fragment" corresp="adams:68"  ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:7.24">
         <w lemma="is(nominatif féminin singulier)|is(ablatif féminin singulier)|is(nominatif neutre pluriel)|is(accusatif neutre pluriel)|Eus(nominatif féminin singulier)|Eus(vocatif féminin singulier)|Eus(ablatif féminin singulier)|Eus(nominatif neutre pluriel)|Eus(vocatif neutre pluriel)|Eus(accusatif neutre pluriel)|ea(-)">ea</w> 
         <w lemma="qui(nominatif féminin singulier)|qui(nominatif féminin pluriel)|qui(nominatif neutre pluriel)|qui(accusatif neutre pluriel)|quis(nominatif féminin singulier)|quis(nominatif féminin pluriel)|quis(nominatif neutre pluriel)|quis(accusatif neutre pluriel)">quae</w> 
         <w lemma="nos(nominatif masculin pluriel)|nos(accusatif masculin pluriel)|nos(nominatif féminin pluriel)|nos(accusatif féminin pluriel)">nos</w> 
-        <w corresp="adams:" ana="#male #testicules" lemma="proles(accusatif pluriel)|proles(nominatif pluriel)|proles(vocatif pluriel)|proles(nominatif singulier)|proles(vocatif singulier)">proles</w> 
+        <w  ana="#male #testicules" lemma="proles(accusatif pluriel)|proles(nominatif pluriel)|proles(vocatif pluriel)|proles(nominatif singulier)|proles(vocatif singulier)">proles</w> 
         <w lemma="verecunde(comparatif)|verecundus(nominatif neutre singulier comparatif)|verecundus(vocatif neutre singulier comparatif)|verecundus(accusatif neutre singulier comparatif)">uerecundius</w> 
         <w lemma="dico(1ère pluriel indicatif présent actif)">dicimus</w>    
     </quote>

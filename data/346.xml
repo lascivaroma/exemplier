@@ -1,10 +1,10 @@
-<div type="fragment" corresp="adams:63" corresp="adams:" ana="#male #misc">
+<div type="fragment" corresp="adams:63"  ana="#male #misc">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:138">
         <w lemma="profero(3ème singulier indicatif présent actif)">Profert</w> 
         <w lemma="">Oenothea</w> 
         <w lemma="scorteus(accusatif masculin singulier)|scorteus(nominatif neutre singulier)|scorteus(vocatif neutre singulier)|scorteus(accusatif neutre singulier)">scorteum</w>
                         
-        <w lemma="fascinum(nominatif singulier)|fascinum(vocatif singulier)|fascinum(accusatif singulier)|Fascinus(accusatif singulier)|Fascinus(accusatif singulier)"  corresp="adams:" ana="#male #dildo">fascinum</w>, 
+        <w lemma="fascinum(nominatif singulier)|fascinum(vocatif singulier)|fascinum(accusatif singulier)|Fascinus(accusatif singulier)|Fascinus(accusatif singulier)"   ana="#male #dildo">fascinum</w>, 
         <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
         <w lemma="paulatim(-)">paulatim</w> 
         <w lemma="coepio(3ème singulier indicatif parfait actif)|coepio(3ème singulier indicatif présent actif)">coepit</w> 

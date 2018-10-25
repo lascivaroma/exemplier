@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:70" corresp="adams:" ana="#male #testicle">
+<div type="fragment" corresp="adams:70"  ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1002.phi001.perseus-lat2:5.12">
         <w lemma="qui(accusatif féminin singulier)|quis(accusatif féminin singulier)|quam(-)|quam(-)">quam</w> 
         <w lemma="qui(ablatif masculin singulier)|qui(ablatif neutre singulier)|quis(ablatif masculin singulier)|quis(ablatif neutre singulier)|quo(-)">quo</w> 
@@ -7,7 +7,7 @@
         <w lemma="negotiator(nominatif pluriel)|negotiator(vocatif pluriel)|negotiator(accusatif pluriel)">negotiatores</w> 
         <w lemma="forma(génitif singulier)|forma(datif singulier)|forma(nominatif pluriel)|forma(vocatif pluriel)|formus(génitif féminin singulier)|formus(datif féminin singulier)|formus(nominatif féminin pluriel)|formus(vocatif féminin pluriel)">formae</w> 
         <w lemma="puer(génitif pluriel)|puerus(génitif masculin pluriel)|puerus(génitif neutre pluriel)">puerorum</w> 
-        <w corresp="adams:" ana="#male #testicules" lemma="uirilitas(ablatif singulier)">virilitate</w> 
+        <w  ana="#male #testicules" lemma="uirilitas(ablatif singulier)">virilitate</w> 
         <w lemma="excido(nominatif féminin singulier participe parfait passif)|excido(vocatif féminin singulier participe parfait passif)|excido(ablatif féminin singulier participe parfait passif)|excido(nominatif neutre pluriel participe parfait passif)|excido(vocatif neutre pluriel participe parfait passif)|excido(accusatif neutre pluriel participe parfait passif)|Excisum(nominatif pluriel)|Excisum(vocatif pluriel)|Excisum(accusatif pluriel)|excisus(nominatif féminin singulier)|excisus(vocatif féminin singulier)|excisus(ablatif féminin singulier)|excisus(nominatif neutre pluriel)|excisus(vocatif neutre pluriel)|excisus(accusatif neutre pluriel)">excisa</w> 
         <w lemma="lenocinor(3ème pluriel indicatif présent actif)">lenocinantur</w>    
     </quote>

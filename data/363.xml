@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:67" corresp="adams:" ana="#male #testicle">
+<div type="fragment" corresp="adams:67"  ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi012.perseus-lat2:1426">
         <w lemma="sion(génitif singulier)|si(-)">Si</w> 
         <w lemma="posthac(-)">posthac</w> 
@@ -7,6 +7,6 @@
         <w lemma="tu(accusatif masculin singulier)|tu(ablatif masculin singulier)|tu(accusatif féminin singulier)|tu(ablatif féminin singulier)">te</w> 
         <w lemma="">híc</w>, 
         <w lemma="careo(2ème singulier indicatif futur actif)">carebis</w> 
-        <w corresp="adams:" ana="#male #testicules" lemma="testis(datif pluriel)|testis(ablatif pluriel)|testis(datif pluriel)|testis(ablatif pluriel)">testibus</w>.    
+        <w  ana="#male #testicules" lemma="testis(datif pluriel)|testis(ablatif pluriel)|testis(datif pluriel)|testis(ablatif pluriel)">testibus</w>.    
     </quote>
  </div>

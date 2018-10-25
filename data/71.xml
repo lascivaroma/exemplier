@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:38" corresp="adams:" ana="#male #anatomie">
+<div type="fragment" corresp="adams:38"  ana="#male #anatomie">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi003.perseus-lat2:12.18-12.20">
         <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
         <w lemma="ego(datif masculin singulier)|ego(datif féminin singulier)">mihi</w> 

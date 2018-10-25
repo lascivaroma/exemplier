@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:72" corresp="adams:" ana="#male #glans">
+<div type="fragment" corresp="adams:72"  ana="#male #glans">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:82.31-82.32">
         <w lemma="tu(datif masculin singulier)|tu(datif féminin singulier)">Tibi</w> 
         <w lemma="hic(nominatif féminin singulier)|hic(nominatif neutre pluriel)|hic(accusatif neutre pluriel)">haec</w> 
@@ -12,6 +12,6 @@
         <w lemma="profundum(nominatif pluriel)|profundum(vocatif pluriel)|profundum(accusatif pluriel)|profundus(nominatif féminin singulier)|profundus(vocatif féminin singulier)|profundus(ablatif féminin singulier)|profundus(nominatif neutre pluriel)|profundus(vocatif neutre pluriel)|profundus(accusatif neutre pluriel)">profunda</w> 
         <w lemma="fodio(nominatif féminin singulier participe parfait passif)|fodio(vocatif féminin singulier participe parfait passif)|fodio(ablatif féminin singulier participe parfait passif)|fodio(nominatif neutre pluriel participe parfait passif)|fodio(vocatif neutre pluriel participe parfait passif)|fodio(accusatif neutre pluriel participe parfait passif)|fossa(nominatif singulier)|fossa(vocatif singulier)|fossa(ablatif singulier)|Fossa(nominatif singulier)|Fossa(vocatif singulier)|Fossa(ablatif singulier)|fosso(2ème singulier impératif présent actif)|fossus(nominatif féminin singulier)|fossus(vocatif féminin singulier)|fossus(ablatif féminin singulier)|fossus(nominatif neutre pluriel)|fossus(vocatif neutre pluriel)|fossus(accusatif neutre pluriel)">fossa</w> 
         <w lemma="lubricum(nominatif singulier)|lubricum(vocatif singulier)|lubricum(accusatif singulier)|lubricus(accusatif masculin singulier)|lubricus(nominatif neutre singulier)|lubricus(vocatif neutre singulier)|lubricus(accusatif neutre singulier)">lubricum</w> 
-        <w corresp="adams:" ana="#male #glans"  lemma="caput(accusatif singulier)|caput(nominatif singulier)|caput(vocatif singulier)">caput</w>.    
+        <w  ana="#male #glans"  lemma="caput(accusatif singulier)|caput(nominatif singulier)|caput(vocatif singulier)">caput</w>.    
     </quote>
  </div>

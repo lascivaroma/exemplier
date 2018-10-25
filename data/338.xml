@@ -1,8 +1,8 @@
-<div type="fragment" corresp="adams:62" corresp="adams:" ana="#male #misc">
+<div type="fragment" corresp="adams:62"  ana="#male #misc">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.68">
         <w lemma="hic(datif masculin singulier)|hic(datif féminin singulier)|hic(datif neutre singulier)">huic</w> 
         <w lemma="sion(génitif singulier)|si(-)">si</w> 
-        <w lemma="mutto(génitif singulier)" corresp="adams:" ana="#male #penis">muttonis</w> 
+        <w lemma="mutto(génitif singulier)"  ana="#male #penis">muttonis</w> 
         <w lemma="verbum(datif pluriel)|verbum(ablatif pluriel)">verbis</w> 
         <w lemma="mala(nominatif singulier)|mala(vocatif singulier)|mala(ablatif singulier)|malum(nominatif pluriel)|malum(vocatif pluriel)|malum(accusatif pluriel)|malum(nominatif pluriel)|malum(vocatif pluriel)|malum(accusatif pluriel)|malus(nominatif féminin singulier)|malus(vocatif féminin singulier)|malus(ablatif féminin singulier)|malus(nominatif neutre pluriel)|malus(vocatif neutre pluriel)|malus(accusatif neutre pluriel)">mala</w> 
         <w lemma="tantus(nominatif féminin singulier)|tantus(vocatif féminin singulier)|tantus(ablatif féminin singulier)|tantus(nominatif neutre pluriel)|tantus(vocatif neutre pluriel)|tantus(accusatif neutre pluriel)|tantum(nominatif pluriel)|tantum(vocatif pluriel)|tantum(accusatif pluriel)">tanta</w> 

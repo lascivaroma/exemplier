@@ -1,8 +1,8 @@
-<div type="fragment" corresp="adams:70" corresp="adams:" ana="#male #testicle">
+<div type="fragment" corresp="adams:70"  ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:108">
         <w lemma="">Giton</w> 
         <w lemma="ad(-)">ad</w> 
-        <w corresp="adams:" ana="#male #testicules" lemma="uirilia(nominatif pluriel)|uirilia(vocatif pluriel)|uirilia(accusatif pluriel)|virilis(nominatif neutre pluriel)|virilis(vocatif neutre pluriel)|virilis(accusatif neutre pluriel)">virilia</w> 
+        <w  ana="#male #testicules" lemma="uirilia(nominatif pluriel)|uirilia(vocatif pluriel)|uirilia(accusatif pluriel)|virilis(nominatif neutre pluriel)|virilis(vocatif neutre pluriel)|virilis(accusatif neutre pluriel)">virilia</w> 
         <w lemma="suum(nominatif pluriel)|suum(vocatif pluriel)|suum(accusatif pluriel)|suus(nominatif féminin singulier)|suus(vocatif féminin singulier)|suus(ablatif féminin singulier)|suus(nominatif neutre pluriel)|suus(vocatif neutre pluriel)|suus(accusatif neutre pluriel)|Sue(nominatif singulier)|Sue(vocatif singulier)|Sue(ablatif singulier)">sua</w> 
         <w lemma="admoveo(3ème singulier indicatif parfait actif)">admovit</w> 
         <w lemma="nouacula(accusatif singulier)">novaculam</w> 

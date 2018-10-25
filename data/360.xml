@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:66" corresp="adams:" ana="#male #testicle">
+<div type="fragment" corresp="adams:66"  ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:39">
         <w lemma="in(-)">In</w>
                         
@@ -9,6 +9,6 @@
         <w lemma="et(-)">et</w> 
         <w lemma="bos(nominatif pluriel)|bos(vocatif pluriel)|bos(accusatif pluriel)|bouo(2ème singulier subjonctif présent actif)">boves</w> 
         <w lemma="et(-)">et</w> 
-        <w  corresp="adams:" ana="#male #testicules" lemma="coleus(nominatif pluriel)|coleus(vocatif pluriel)|coleus(génitif singulier)">colei</w>    
+        <w   ana="#male #testicules" lemma="coleus(nominatif pluriel)|coleus(vocatif pluriel)|coleus(génitif singulier)">colei</w>    
     </quote>
  </div>

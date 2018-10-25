@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:42" corresp="adams:" ana="#male #contenant">
+<div type="fragment" corresp="adams:42"  ana="#male #contenant">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat1:24.7">
         <w lemma="mox(-)">mox</w> 
         <w lemma="manus(accusatif masculin singulier)|manus(nominatif neutre singulier)|manus(vocatif neutre singulier)|manus(accusatif neutre singulier)|manus(accusatif singulier)|manon(nominatif singulier)|manon(vocatif singulier)|manon(accusatif singulier)|manos(accusatif singulier)">manum</w> 

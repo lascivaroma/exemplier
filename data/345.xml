@@ -1,9 +1,9 @@
-<div type="fragment" corresp="adams:63" corresp="adams:" ana="#male #misc">
+<div type="fragment" corresp="adams:63"  ana="#male #misc">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:78.1">
         <w lemma="Priapus(vocatif singulier)|Priapos(vocatif singulier)">Priape</w>, 
         <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
         <w lemma="sum(2ème singulier subjonctif présent actif)|sion(datif pluriel)|sion(ablatif pluriel)|sis(positif)">sis</w> 
-        <w lemma="fascino(1ère singulier indicatif présent actif)|fascinum(datif singulier)|fascinum(ablatif singulier)|Fascinus(datif singulier)|Fascinus(ablatif singulier)|Fascinus(datif singulier)|Fascinus(ablatif singulier)" corresp="adams:" ana="#male #penis">fascino</w> 
+        <w lemma="fascino(1ère singulier indicatif présent actif)|fascinum(datif singulier)|fascinum(ablatif singulier)|Fascinus(datif singulier)|Fascinus(ablatif singulier)|Fascinus(datif singulier)|Fascinus(ablatif singulier)"  ana="#male #penis">fascino</w> 
         <w lemma="gravis(génitif masculin singulier)|gravis(accusatif masculin pluriel)|gravis(génitif féminin singulier)|gravis(accusatif féminin pluriel)|gravis(génitif neutre singulier)|gravis(nominatif masculin singulier)|gravis(vocatif masculin singulier)|gravis(nominatif féminin singulier)|gravis(vocatif féminin singulier)">grauis</w> 
         <w lemma="tempto(1ère singulier indicatif présent actif)|tendo(datif masculin singulier participe parfait passif)|tendo(ablatif masculin singulier participe parfait passif)|tendo(datif neutre singulier participe parfait passif)|tendo(ablatif neutre singulier participe parfait passif)|teneo(datif masculin singulier participe parfait passif)|teneo(ablatif masculin singulier participe parfait passif)|teneo(datif neutre singulier participe parfait passif)|teneo(ablatif neutre singulier participe parfait passif)">tento</w>,    
     </quote>

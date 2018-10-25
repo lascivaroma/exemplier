@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:3" corresp="adams:" ana="#male #anatomie">
+<div type="fragment" corresp="adams:3"  ana="#male #anatomie">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0969.phi001:35-36">
         <w lemma="hic(nominatif masculin pluriel)">hi</w> 
         <w lemma="mos(nominatif pluriel)|mos(vocatif pluriel)|mos(accusatif pluriel)|mores(nominatif pluriel)|mores(vocatif pluriel)|mores(accusatif pluriel)|moro(2ème singulier subjonctif présent actif)">mores</w>! 

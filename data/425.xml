@@ -1,6 +1,6 @@
-<div type="fragment" corresp="adams:73" corresp="adams:" ana="#male #foreskin">
+<div type="fragment" corresp="adams:73"  ana="#male #foreskin">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:7.25">
-        <w corresp="adams:" ana="#male #foreskin"  lemma="cutis(accusatif pluriel)|cutis(génitif singulier)|Cutis(accusatif pluriel)|Cutis(génitif singulier)|cutio(2ème singulier indicatif présent actif)|Cutiae(datif pluriel)|Cutiae(ablatif pluriel)|cutis(nominatif singulier)|cutis(vocatif singulier)|Cutis(nominatif singulier)|Cutis(vocatif singulier)">Cutis</w> 
+        <w  ana="#male #foreskin"  lemma="cutis(accusatif pluriel)|cutis(génitif singulier)|Cutis(accusatif pluriel)|Cutis(génitif singulier)|cutio(2ème singulier indicatif présent actif)|Cutiae(datif pluriel)|Cutiae(ablatif pluriel)|cutis(nominatif singulier)|cutis(vocatif singulier)|Cutis(nominatif singulier)|Cutis(vocatif singulier)">Cutis</w> 
         <w lemma="Circa(nominatif singulier)|Circa(vocatif singulier)|Circa(ablatif singulier)|circo(2ème singulier impératif présent actif)|circa(-)">circa</w> 
         <w lemma="glans(accusatif singulier)">glandem</w> 
         <w lemma="prehendo(3ème singulier indicatif présent passif)">prehenditur</w> 

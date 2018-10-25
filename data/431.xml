@@ -1,6 +1,6 @@
-<div type="fragment" corresp="adams:74" corresp="adams:" ana="#male #foreskin">
+<div type="fragment" corresp="adams:74"  ana="#male #foreskin">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:58.5">
-        <w  corresp="adams:" ana="#male #foreskin #act" lemma="glubo(3ème singulier indicatif présent actif)">glubit</w> 
+        <w   ana="#male #foreskin #act" lemma="glubo(3ème singulier indicatif présent actif)">glubit</w> 
         <w lemma="magnanimus(génitif masculin singulier)|magnanimus(nominatif masculin pluriel)|magnanimus(vocatif masculin pluriel)|magnanimus(génitif neutre singulier)|magnanimis(datif masculin singulier)|magnanimis(ablatif masculin singulier)|magnanimis(datif féminin singulier)|magnanimis(ablatif féminin singulier)|magnanimis(datif neutre singulier)|magnanimis(ablatif neutre singulier)">magnanimi</w> 
         <w lemma="Remi(nominatif pluriel)|Remi(vocatif pluriel)|remus(génitif singulier)|remus(nominatif pluriel)|remus(vocatif pluriel)|Remus(génitif singulier)|Remus(nominatif pluriel)|Remus(vocatif pluriel)|Remus(génitif singulier)|Remus(nominatif pluriel)|Remus(vocatif pluriel)">Remi</w> 
         <w lemma="Nepos(nominatif pluriel)|Nepos(vocatif pluriel)|Nepos(accusatif pluriel)|nepos(nominatif pluriel)|nepos(vocatif pluriel)|nepos(accusatif pluriel)">nepotes</w>.    

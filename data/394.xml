@@ -1,10 +1,10 @@
-<div type="fragment" corresp="adams:70" corresp="adams:" ana="#male #testicle">
+<div type="fragment" corresp="adams:70"  ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.29.1-11.29.2">
         <w lemma="languidus(nominatif féminin singulier)|languidus(vocatif féminin singulier)|languidus(ablatif féminin singulier)|languidus(nominatif neutre pluriel)|languidus(vocatif neutre pluriel)|languidus(accusatif neutre pluriel)">Languida</w> 
         <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
         <w lemma="uetula(nominatif singulier)|uetula(vocatif singulier)|uetula(ablatif singulier)|uetulus(nominatif féminin singulier)|uetulus(vocatif féminin singulier)|uetulus(ablatif féminin singulier)|uetulus(nominatif neutre pluriel)|uetulus(vocatif neutre pluriel)|uetulus(accusatif neutre pluriel)">vetula</w> 
         <w lemma="tracto(infinitif présent actif)|tracto(2ème singulier indicatif présent passif)|tracto(2ème singulier impératif présent passif)">tractare</w> 
-        <w corresp="adams:" ana="#male #testicules" lemma="uirilia(nominatif pluriel)|uirilia(vocatif pluriel)|uirilia(accusatif pluriel)|virilis(nominatif neutre pluriel)|virilis(vocatif neutre pluriel)|virilis(accusatif neutre pluriel)">virilia</w> 
+        <w  ana="#male #testicules" lemma="uirilia(nominatif pluriel)|uirilia(vocatif pluriel)|uirilia(accusatif pluriel)|virilis(nominatif neutre pluriel)|virilis(vocatif neutre pluriel)|virilis(accusatif neutre pluriel)">virilia</w> 
         <w lemma="dexter(nominatif féminin singulier)|dexter(vocatif féminin singulier)|dexter(ablatif féminin singulier)|dexter(nominatif neutre pluriel)|dexter(vocatif neutre pluriel)|dexter(accusatif neutre pluriel)|dextra(nominatif singulier)|dextra(vocatif singulier)|dextra(ablatif singulier)|dextra(nominatif pluriel)|dextra(vocatif pluriel)|dextra(accusatif pluriel)|dextra(-)">dextra</w>  
         <w lemma="coepio(2ème singulier indicatif parfait actif)">Coepisti</w>, 
         <w lemma="iugulo(1ère singulier indicatif présent passif)">iugulor</w> 

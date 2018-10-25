@@ -1,6 +1,6 @@
-<div type="fragment" corresp="adams:69" corresp="adams:" ana="#male #testicle">
+<div type="fragment" corresp="adams:69"  ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0224.stoa004.alim-lat1:267.polimenta">
-        <w lemma="polimenta(nominatif pluriel)|polimenta(vocatif pluriel)|polimenta(accusatif pluriel)|polimentum(nominatif pluriel)|polimentum(vocatif pluriel)|polimentum(accusatif pluriel)" corresp="adams:" ana="#male #testicules" >polimenta</w>   
+        <w lemma="polimenta(nominatif pluriel)|polimenta(vocatif pluriel)|polimenta(accusatif pluriel)|polimentum(nominatif pluriel)|polimentum(vocatif pluriel)|polimentum(accusatif pluriel)"  ana="#male #testicules" >polimenta</w>   
         <w lemma="testiculus(génitif singulier)|testiculus(nominatif pluriel)|testiculus(vocatif pluriel)">testiculi</w> 
         <w lemma="porcus(génitif pluriel)">porcorum</w> 
         <w lemma="dico(3ème pluriel indicatif présent passif)">dicuntur</w>, 
