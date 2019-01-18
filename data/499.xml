@@ -1,0 +1,10 @@
+<div type="fragment" corresp="adams:90" ana="#euphemism #sinus #womb #vagina #female">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi007.perseus-lat2:5.256">
+        <w lemma="tango(3ème singulier indicatif présent passif)">tangitur</w> 
+        <w lemma="et(-)">et</w> 
+        <w lemma="tango(datif masculin singulier participe parfait passif)|tango(ablatif masculin singulier participe parfait passif)|tango(datif neutre singulier participe parfait passif)|tango(ablatif neutre singulier participe parfait passif)|tactus(datif masculin singulier)|tactus(ablatif masculin singulier)|tactus(datif neutre singulier)|tactus(ablatif neutre singulier)">tacto</w> 
+        <w lemma="concipio(3ème singulier indicatif présent actif)">concipit</w> 
+        <w lemma="ille(nominatif féminin singulier)|ille(ablatif féminin singulier)|ille(nominatif neutre pluriel)|ille(accusatif neutre pluriel)|illa(-)">illa</w> 
+        <w  ana="#euphemism #sinus #womb #vagina" lemma="sinus(ablatif singulier)">sinu</w>.    
+    </quote>
+ </div>

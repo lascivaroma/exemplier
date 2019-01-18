@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:91" ana="#sinus #euphemism #female #cunnus">
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.101">
+        <w lemma="omnis(nominatif masculin pluriel)|omnis(vocatif masculin pluriel)|omnis(accusatif masculin pluriel)|omnis(nominatif féminin pluriel)|omnis(vocatif féminin pluriel)|omnis(accusatif féminin pluriel)">omnes</w> 
+        <w lemma="ergo(1ère singulier indicatif présent actif)|ergo(-)|ergo(positif)">ergo</w> 
+        <w lemma="collectio(nominatif pluriel)|collectio(vocatif pluriel)|collectio(accusatif pluriel)">collectiones</w> 
+        <w lemma="Q(-)">que</w> 
+        <w lemma="in(-)">in</w> 
+        <w lemma="corpus(ablatif singulier)">corpore</w> 
+        <w lemma="emergo(3ème pluriel indicatif présent actif)">emergunt</w>, 
+        <w lemma="ito(2ème singulier impératif présent actif)|ita(-)">ita</w> 
+        <w lemma="ut(-)">ut</w> 
+        <w lemma="in(-)">in</w> 
+        <w lemma="pinnaculum(datif pluriel)|pinnaculum(ablatif pluriel)">pinnaculis</w> 
+        <w lemma="aut(-)">aut</w> 
+        <w lemma="in(-)">in</w> 
+        <w ana="#sinus #euphemism #composite"  lemma="sinus(ablatif singulier)">sinu</w> 
+        <w ana="#sinus #euphemism #composite"  lemma="muliebris(datif masculin singulier)|muliebris(ablatif masculin singulier)|muliebris(datif féminin singulier)|muliebris(ablatif féminin singulier)|muliebris(datif neutre singulier)|muliebris(ablatif neutre singulier)">muliebri</w> 
+        <w lemma="invenio(3ème pluriel indicatif présent passif)">inveniuntur</w>, 
+        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
+        <w lemma="mature(positif)|Maturus(vocatif singulier)|maturus(vocatif masculin singulier)">mature</w> 
+        <w lemma="sum(3ème pluriel indicatif futur antérieur actif)|sum(3ème pluriel subjonctif parfait actif)">fuerint</w>,    
+    </quote>
+ </div>

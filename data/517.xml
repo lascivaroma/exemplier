@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:91" ana="#sinus #euphemism #female #cunnus">
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.100">
+        <w lemma="is(nominatif neutre singulier)|is(accusatif neutre singulier)">id</w> 
+        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
+        <w lemma="in(-)">in</w> 
+        <w lemma="fundo(1ère singulier indicatif présent actif)|fundo(1ère singulier indicatif présent actif)|fundus(datif singulier)|fundus(ablatif singulier)">fundo</w>, 
+        <w lemma="matrix(génitif singulier)">matricis</w> 
+        <w lemma="seu(-)">seu</w> 
+        <w ana="#sinus #euphemism #composite"  lemma="sinus(ablatif singulier)">sinu</w> 
+        <w ana="#sinus #euphemism #composite"  lemma="muliebris(datif masculin singulier)|muliebris(ablatif masculin singulier)|muliebris(datif féminin singulier)|muliebris(ablatif féminin singulier)|muliebris(datif neutre singulier)|muliebris(ablatif neutre singulier)">muliebri</w> 
+        <w lemma="sum(3ème pluriel indicatif présent actif)">sunt</w> 
+        <w lemma="parvus(nominatif neutre singulier comparatif)|parvus(vocatif neutre singulier comparatif)|parvus(accusatif neutre singulier comparatif)|minus(nominatif masculin singulier)|paruus(nominatif neutre singulier comparatif)|paruus(vocatif neutre singulier comparatif)|paruus(accusatif neutre singulier comparatif)|minus(-)">minus</w> 
+        <w lemma="quidem(-)">quidem</w> 
+        <w lemma="dolor(nominatif pluriel)|dolor(vocatif pluriel)|dolor(accusatif pluriel)">dolores</w> 
+        <w lemma="habeo(3ème pluriel indicatif présent actif)">habent</w>
+    
+    </quote>
+ </div>
