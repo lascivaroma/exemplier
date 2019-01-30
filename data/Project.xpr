@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="19.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="Project.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="Project.xpr">
+        <folder path="."/>
+        <file name="Sans_titre.xsl"/>
+    </projectTree>
+</project>
