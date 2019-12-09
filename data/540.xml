@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:93" ana="#adjoining_parts #euphemism #female">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:7.28">
+        <w lemma="ardeo(accusatif masculin singulier participe présent actif)|ardeo(accusatif féminin singulier participe présent actif)|ardens(accusatif masculin singulier)|ardens(accusatif féminin singulier)">ardentemque</w> 
+        <w lemma="Titio(accusatif singulier)|titio(accusatif singulier)">titionem</w> 
+        <w lemma="gero(nominatif masculin singulier participe présent actif)|gero(vocatif masculin singulier participe présent actif)|gero(nominatif féminin singulier participe présent actif)|gero(vocatif féminin singulier participe présent actif)|gero(nominatif neutre singulier participe présent actif)|gero(vocatif neutre singulier participe présent actif)|gero(accusatif neutre singulier participe présent actif)">gerens</w> 
+        <w  ana="#adjoining_parts #euphemism #composite" lemma="medium(datif pluriel)|medium(ablatif pluriel)|medius(datif masculin pluriel)|medius(ablatif masculin pluriel)|medius(datif féminin pluriel)|medius(ablatif féminin pluriel)|medius(datif neutre pluriel)|medius(ablatif neutre pluriel)|Media(datif pluriel)|Media(ablatif pluriel)|Media(datif pluriel)|Media(ablatif pluriel)|medion(datif pluriel)|medion(ablatif pluriel)|medius(datif pluriel)|medius(ablatif pluriel)">mediis</w> 
+        <w ana="#adjoining_parts #euphemism #composite"  lemma="inguen(datif pluriel)|inguen(ablatif pluriel)">inguinibus</w> 
+        <w lemma="obtrudo(3ème singulier indicatif présent actif)|optrudo(3ème singulier indicatif présent actif)">obtrudit</w>
+    
+    </quote>
+ </div>

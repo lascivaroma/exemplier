@@ -1,0 +1,12 @@
+<div type="fragment" corresp="adams:93" ana="#adjoining_parts #euphemism #female">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:10.24">
+        <w lemma="Titio(ablatif singulier)|titio(ablatif singulier)|Titius(datif singulier)|Titius(ablatif singulier)|Titius(datif masculin singulier)|Titius(ablatif masculin singulier)|Titius(datif neutre singulier)|Titius(ablatif neutre singulier)|titio(1ère singulier indicatif présent actif)|Titio(nominatif singulier)|Titio(vocatif singulier)|titio(nominatif singulier)|titio(vocatif singulier)">titione</w> 
+        <w lemma="candeo(datif masculin singulier participe présent actif)|candeo(datif féminin singulier participe présent actif)|candeo(datif neutre singulier participe présent actif)|candens(datif masculin singulier)|candens(ablatif masculin singulier)|candens(datif féminin singulier)|candens(ablatif féminin singulier)|candens(datif neutre singulier)|candens(ablatif neutre singulier)">candenti</w> 
+        <w ana="#adjoining_parts #euphemism #composite"  lemma="inter(-)">inter</w> 
+        <w lemma="medium(nominatif pluriel)|medium(vocatif pluriel)|medium(accusatif pluriel)|medius(nominatif féminin singulier)|medius(vocatif féminin singulier)|medius(ablatif féminin singulier)|medius(nominatif neutre pluriel)|medius(vocatif neutre pluriel)|medius(accusatif neutre pluriel)|Media(nominatif singulier)|Media(vocatif singulier)|Media(ablatif singulier)|Media(nominatif singulier)|Media(vocatif singulier)|Media(ablatif singulier)|medio(2ème singulier impératif présent actif)|medion(nominatif pluriel)|medion(vocatif pluriel)|medion(accusatif pluriel)">media</w> 
+        <w ana="#adjoining_parts #euphemism #composite"  lemma="femen(nominatif pluriel)|femen(vocatif pluriel)|femen(accusatif pluriel)|femina(nominatif singulier)|femina(vocatif singulier)|femina(ablatif singulier)|femino(2ème singulier impératif présent actif)">femina</w> 
+        <w lemma="detrudo(datif masculin singulier participe parfait passif)|detrudo(ablatif masculin singulier participe parfait passif)|detrudo(datif neutre singulier participe parfait passif)|detrudo(ablatif neutre singulier participe parfait passif)|detrusus(datif masculin singulier)|detrusus(ablatif masculin singulier)|detrusus(datif neutre singulier)|detrusus(ablatif neutre singulier)">detruso</w> 
+        <w lemma="crudelis(vocatif masculin singulier superlatif)">crudelissime</w> 
+        <w lemma="neco(3ème singulier indicatif parfait actif)">necavit</w>.    
+    </quote>
+ </div>
