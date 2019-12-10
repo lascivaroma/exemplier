@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:93" ana="#pars #euphemism">
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:87.2-87.3">
+        <w lemma="opicus(nominatif masculin singulier)">opicus</w> 
+        <w lemma="magister(nominatif singulier)|magister(vocatif singulier)">magister</w> (
+        <w lemma="sic(-)">sic</w> 
+        <w lemma="is(accusatif masculin singulier)|Eus(accusatif singulier)|Eus(accusatif masculin singulier)|Eus(nominatif neutre singulier)|Eus(vocatif neutre singulier)|Eus(accusatif neutre singulier)">eum</w> 
+        <w lemma="doceo(3ème singulier indicatif présent actif)">docet</w> 
+        <w lemma="Phyllos(datif pluriel)|Phyllos(ablatif pluriel)|phyllon(datif pluriel)|phyllon(ablatif pluriel)|Phyllius(datif pluriel)|Phyllius(ablatif pluriel)|Phyllis(nominatif singulier)|Phyllis(vocatif singulier)">Phyllis</w>) 
+        <w  ana="#pars #euphemism #composite" lemma="muliebris(nominatif neutre singulier)|muliebris(vocatif neutre singulier)|muliebris(accusatif neutre singulier)">muliebre</w> 
+        <w ana="#pars #euphemism #composite"  lemma="membrum(nominatif singulier)|membrum(vocatif singulier)|membrum(accusatif singulier)">membrum</w> 
+        <w lemma="quadrangulum(nominatif singulier)|quadrangulum(vocatif singulier)|quadrangulum(accusatif singulier)|quadrangulus(accusatif masculin singulier)|quadrangulus(nominatif neutre singulier)|quadrangulus(vocatif neutre singulier)|quadrangulus(accusatif neutre singulier)">quadrangulum</w> 
+        <w lemma="cerno(3ème singulier indicatif présent actif)">cernit</w>:    
+    </quote>
+ </div>

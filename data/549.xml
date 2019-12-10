@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:94" ana="#pars #euphemism">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1672.phi002.digilibLT-lat1:1.8">
+        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">Quod</w> 
+        <w lemma="enim(-)">enim</w> 
+        <w lemma="signo(infinitif présent passif)|signarius(génitif masculin singulier)|signarius(nominatif masculin pluriel)|signarius(vocatif masculin pluriel)|signarius(génitif neutre singulier)">signari</w> 
+        <w lemma="uideo(2ème singulier indicatif parfait actif)">vidisti</w> 
+        <w ana="#pars #euphemism"  lemma="virginal(nominatif singulier)|virginal(vocatif singulier)|virginal(accusatif singulier)">virginal</w> 
+        <w lemma="femina(génitif singulier)|femina(datif singulier)|femina(nominatif pluriel)|femina(vocatif pluriel)">feminae</w>,
+              
+        <w lemma="fides(accusatif singulier)|fides(accusatif singulier)|fidis(accusatif singulier)">fidem</w> 
+        <w lemma="res(génitif singulier)|res(datif singulier)|reus(nominatif pluriel)|reus(vocatif pluriel)|reus(génitif singulier)|Reii(nominatif pluriel)|Reii(vocatif pluriel)">rei</w> 
+        <w lemma="uideo(génitif féminin singulier participe parfait passif)|uideo(datif féminin singulier participe parfait passif)|uideo(nominatif féminin pluriel participe parfait passif)|uideo(vocatif féminin pluriel participe parfait passif)|uiso(génitif féminin singulier participe parfait passif)|uiso(datif féminin singulier participe parfait passif)|uiso(nominatif féminin pluriel participe parfait passif)|uiso(vocatif féminin pluriel participe parfait passif)|videor(génitif féminin singulier participe parfait actif)|videor(datif féminin singulier participe parfait actif)|videor(nominatif féminin pluriel participe parfait actif)|videor(vocatif féminin pluriel participe parfait actif)|uisus(génitif féminin singulier)|uisus(datif féminin singulier)|uisus(nominatif féminin pluriel)|uisus(vocatif féminin pluriel)">visae</w> 
+        <w lemma="testor(3ème singulier indicatif présent actif)|testo(3ème singulier indicatif présent passif)">testatur</w>    
+    </quote>
+ </div>
