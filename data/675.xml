@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Silius Italicus, Tiberius Catius</author>, <title>Punica</title>, <biblScope>4.355-4.357</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1345.phi001.perseus-lat2:4.355-4.357" type="line">
+    <w ref="4.355" lemma="tergeminus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">Tergemini</w>
+    <w ref="4.355" lemma="primus" pos="ADJord" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Sup">primam</w>
+    <w ref="4.355" lemma="ante2" pos="PRE" msd="MORPH=empty">ante</w>
+    <w ref="4.355" lemma="acies" pos="NOMcom" msd="Case=Acc|Numb=Sing">aciem</w>
+    <w ref="4.355" lemma="ferus2" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">fera</w>
+    <w ref="4.355" lemma="proelium" pos="NOMcom" msd="Case=Acc|Numb=Plur">proelia</w>
+    <w ref="4.355" lemma="frater" pos="NOMcom" msd="Case=Nom|Numb=Plur">fratres</w>
+    <w ref="4.356" lemma="misceo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3">miscebant</w>
+    <w ref="4.356" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.356" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Masc">quos</w>
+    <w ref="4.356" lemma="ledaeus" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Deg=Pos">Ledaeo</w>
+    <w ref="4.356" lemma="sidonius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Sidonia</w>
+    <w ref="4.356" lemma="barce" pos="NOMcom" msd="Case=Abl|Numb=Sing">Barce</w>
+    <w ref="4.357" lemma="Ganthippus" pos="NOMpro" msd="Case=Abl|Numb=Sing">Xanthippo</w>
+    <w ref="4.357" lemma="felix" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">felix</w>
+    <w ana="#female #cunnus #womb" ref="4.357" lemma="uterus" pos="NOMcom" msd="Case=Dat|Numb=Sing">uteri</w>
+    <w ref="4.357" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="4.357" lemma="bellum" pos="NOMcom" msd="Case=Acc|Numb=Plur">bella</w>
+    <w ref="4.357" lemma="creo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">crearat</w>
+    <w ref="4.357" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

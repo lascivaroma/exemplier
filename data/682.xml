@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>7.29-7.29</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:7.29-7.29" type="chapter">
+    <w ref="7.29" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="7.29" lemma="ante2" pos="PRE" msd="MORPH=empty">ante</w>
+    <w ref="7.29" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Neut">omnia</w>
+    <w ana="#female #cunnus #womb" ref="7.29" lemma="uulua" pos="NOMcom" msd="Case=Gen|Numb=Sing">vulvae</w>
+    <w ref="7.29" lemma="natura" pos="NOMcom" msd="Case=Nom|Numb=Sing">natura</w>
+    <w ref="7.29" lemma="mirabilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">mirabilis</w>
+    <w ref="7.29" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="7.29" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="7.29" lemma="multus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">multis</w>
+    <w ref="7.29" lemma="alius" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">aliis</w>
+    <w ref="7.29" lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>
+    <w ref="7.29" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="7.29" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">hac</w>
+    <w ref="7.29" lemma="res" pos="NOMcom" msd="Case=Abl|Numb=Sing">re</w>
+    <w ref="7.29" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="7.29" lemma="facile" pos="ADV" msd="Deg=Pos">facile</w>
+    <w ref="7.29" lemma="cognosco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">cognoscitur</w>
+    <w ref="7.29" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

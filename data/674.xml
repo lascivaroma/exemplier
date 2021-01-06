@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Lucan</author>, <title>Civil War</title>, <biblScope>9.773-9.776</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0917.phi001.perseus-lat2:9.773-9.776" type="line">
+    <w ref="9.773" lemma="dissilio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Dissiluit</w>
+    <w ref="9.773" lemma="stringo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">stringens</w>
+    <w ana="#female #cunnus #womb" ref="9.773" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="9.773" lemma="membrana" pos="NOMcom" msd="Case=Nom|Numb=Plur">membrana</w>
+    <w ref="9.773" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.773" lemma="fluo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fluuntque</w>
+    <w ref="9.773" lemma="que" pos="CON" msd="MORPH=empty">{fluuntque}</w>
+    <w ref="9.774" lemma="uiscus2" pos="NOMcom" msd="Case=Acc|Numb=Plur">Viscera</w>
+    <w ref="9.774" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="9.774" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="9.774" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.774" lemma="quantum3" pos="ADVrel" msd="Case=Nom">quantum</w>
+    <w ref="9.774" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">toto</w>
+    <w ref="9.774" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="9.774" lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
+    <w ref="9.774" lemma="debeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">debet</w>
+    <w ref="9.774" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.775" lemma="effluo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Effluit</w>
+    <w ref="9.775" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="9.775" lemma="terra" pos="NOMcom" msd="Case=Acc|Numb=Plur">terras</w>
+    <w ref="9.775" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="9.775" lemma="saeuus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">saevum</w>
+    <w ref="9.775" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="9.775" lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
+    <w ref="9.775" lemma="uenenum" pos="NOMcom" msd="Case=Acc|Numb=Sing">venenum</w>
+    <w ref="9.776" lemma="decoquo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Decoquit</w>
+    <w ref="9.776" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="9.776" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="9.776" lemma="minimum1" pos="NOMcom" msd="Case=Acc|Numb=Sing">minimum</w>
+    <w ref="9.776" lemma="mox" pos="ADV" msd="Deg=Pos">mox</w>
+    <w ref="9.776" lemma="contraho" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">contrahit</w>
+    <w ref="9.776" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Neut">omnia</w>
+    <w ref="9.776" lemma="uirus" pos="NOMcom" msd="Case=Acc|Numb=Plur">virus</w>
+  </quote>
+</div>

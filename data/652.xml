@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Ovid</author>, <title>Metamorphoses</title>, <biblScope>8.131-8.133</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:8.131-8.133" type="line">
+    <w ref="8.131" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">Te</w>
+    <w ref="8.131" lemma="uere" pos="ADV" msd="Case=Abl|Deg=Pos">vere</w>
+    <w ref="8.131" lemma="coniux" pos="NOMcom" msd="Case=Abl|Numb=Sing">coniuge</w>
+    <w ref="8.131" lemma="dignus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">digna</w>
+    <w ref="8.131" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="8.131" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8.132" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="8.132" lemma="toruus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">torvum</w>
+    <w ref="8.132" lemma="lignum" pos="NOMcom" msd="Case=Abl|Numb=Sing">ligno</w>
+    <w ref="8.132" lemma="decipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">decepit</w>
+    <w ref="8.132" lemma="adultera" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">adultera</w>
+    <w ref="8.132" lemma="taurus" pos="NOMcom" msd="Case=Acc|Numb=Sing">taurum</w>
+    <w ref="8.133" lemma="discors" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">discordemque</w>
+    <w ref="8.133" lemma="que" pos="CON" msd="MORPH=empty">{discordemque}</w>
+    <w ana="#female #cunnus #womb" ref="8.133" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="8.133" lemma="fetus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">fetum</w>
+    <w ref="8.133" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tulit</w>
+    <w ref="8.133" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

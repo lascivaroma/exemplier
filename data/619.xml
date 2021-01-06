@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
+  <bibl><author>Plautus, Titus Maccius</author>, <title>Amphitruo</title>, <biblScope>1091b-1094</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi001.perseus-lat2:1091b-1094" type="line">
+    <w ref="1091b" lemma="postquam" pos="CONsub" msd="MORPH=empty">Postquam</w>
+    <w ref="1091b" lemma="parturio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">parturire</w>
+    <w ref="1091b" lemma="hodie" pos="ADV" msd="Deg=Pos">hodie</w>
+    <w ref="1091b" lemma="uxor" pos="NOMcom" msd="Case=Nom|Numb=Sing">uxor</w>
+    <w ref="1091b" lemma="occipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">occepit</w>
+    <w ref="1091b" lemma="tuus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">tua</w>
+    <w ref="1091b" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1092" lemma="ubi1" pos="ADVrel" msd="MORPH=empty">ubi</w>
+    <w ana="#female #cunnus #labia" ref="1092" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="1092" lemma="exorior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">exorti</w>
+    <w ref="1092" lemma="dolor" pos="NOMcom" msd="Case=Nom|Numb=Plur">dolores</w>
+    <w ref="1092" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1092" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="1092" lemma="soleo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3">solent</w>
+    <w ref="1092" lemma="puerpera" pos="NOMcom" msd="Case=Dat|Numb=Plur">puerperae</w>
+    <w ref="1093" lemma="inuoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">invocat</w>
+    <w ref="1093" lemma="deus" pos="NOMcom" msd="Case=Acc|Numb=Plur">deos</w>
+    <w ref="1093" lemma="immortalis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">immortales</w>
+    <w ref="1093" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1093" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="1093" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="1093" lemma="auxilium" pos="NOMcom" msd="Case=Acc|Numb=Sing">auxilium</w>
+    <w ref="1093" lemma="fero" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">ferant</w>
+    <w ref="1093" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1094" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">manibus</w>
+    <w ref="1094" lemma="purus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">puris</w>
+    <w ref="1094" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1094" lemma="caput" pos="NOMcom" msd="Case=Abl|Numb=Sing">capite</w>
+    <w ref="1094" lemma="operio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">operto</w>
+    <w ref="1094" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

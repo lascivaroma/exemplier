@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Phaedra</title>, <biblScope>171-172</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi005.perseus-lat2:171-172" type="line">
+    <w ref="171" lemma="misceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">miscere</w>
+    <w ref="171" lemma="thalamus" pos="NOMcom" msd="Case=Acc|Numb=Plur">thalamos</w>
+    <w ref="171" lemma="pater" pos="NOMcom" msd="Case=Gen|Numb=Sing">patris</w>
+    <w ref="171" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="171" lemma="natus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">gnati</w>
+    <w ref="171" lemma="apparo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">apparas</w>
+    <w ana="#female #cunnus #womb" ref="172" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uteroque</w>
+    <w ref="172" lemma="que" pos="CON" msd="MORPH=empty">{uteroque}</w>
+    <w ref="172" lemma="proles" pos="NOMcom" msd="Case=Acc|Numb=Sing">prolem</w>
+    <w ref="172" lemma="capio2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">capere</w>
+    <w ref="172" lemma="confundo2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">confusam</w>
+    <w ref="172" lemma="impius" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Deg=Pos">impio</w>
+    <w ref="172" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

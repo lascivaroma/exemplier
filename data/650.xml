@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Ovid</author>, <title>Metamorphoses</title>, <biblScope>3.344-3.346</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:3.344-3.346" type="line">
+    <w ref="3.344" lemma="enitor2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">Enixa</w>
+    <w ref="3.344" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ana="#female #cunnus #womb" ref="3.344" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="3.344" lemma="pulcher" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Sup">pulcherrima</w>
+    <w ref="3.344" lemma="plenus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">pleno</w>
+    <w ref="3.345" lemma="infans1" pos="NOMcom" msd="Case=Acc|Numb=Sing">infantem</w>
+    <w ref="3.345" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.345" lemma="nympha" pos="NOMcom" msd="Case=Abl|Numb=Plur">nymphis</w>
+    <w ref="3.345" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="3.345" lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
+    <w ref="3.345" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="3.345" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">posset</w>
+    <w ref="3.345" lemma="amarus" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">amari</w>
+    <w ref="3.345" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.346" lemma="narcissus" pos="NOMcom" msd="Case=Acc|Numb=Sing">Narcissumque</w>
+    <w ref="3.346" lemma="que" pos="CON" msd="MORPH=empty">{Narcissumque}</w>
+    <w ref="3.346" lemma="uoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vocat</w>
+    <w ref="3.346" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

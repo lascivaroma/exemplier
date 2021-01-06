@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
+  <bibl><author>Mustio</author>, <title>Gynaecia</title>, <biblScope>201-201</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:temp0001.temp001.bolton-lat1:201-201" type="None">
+    <w ref="201" lemma="asseuero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">adseveratur</w>
+    <w ref="201" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="201" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="201" lemma="frequens" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">frequenti</w>
+    <w ref="201" lemma="casus" pos="NOMcom" msd="Case=Abl|Numb=Sing">casu</w>
+    <w ref="201" lemma="uulnero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">vulnerata</w>
+    <w ref="201" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="201" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="201" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+    <w ref="201" lemma="muliebris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">muliebri</w>
+    <w ref="201" lemma="coerio" pos="VER" msd="Numb=Sing|Mood=Inf|Tense=Pres|Voice=Act|Person=2">coerere</w>
+    <w ref="201" lemma="soleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3">solet</w>
+    <w ref="201" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="201" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#female #cunnus #labia" ref="201" lemma="pinnacula" pos="NOMcom" msd="Case=Abl|Numb=Plur">pinnaculis</w>
+    <w ref="201" lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">ipsis</w>
+    <w ref="201" lemma="conglutino" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">conglutinare</w>
+    <w ref="201" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

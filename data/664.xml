@@ -1,0 +1,44 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Statius, P. Papinius (Publius Papinius)</author>, <title>Thebais</title>, <biblScope>2.613-2.618</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1020.phi001.perseus-lat2:2.613-2.618" type="line">
+    <w ref="2.613" lemma="ecce" pos="INJ" msd="MORPH=empty">Ecce</w>
+    <w ref="2.613" lemma="chromis" pos="NOMcom" msd="Case=Nom|Numb=Sing">Chromis</w>
+    <w ref="2.613" lemma="Tyrius" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Masc|Deg=Pos">Tyrii</w>
+    <w ref="2.613" lemma="demitto" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">demissus</w>
+    <w ref="2.613" lemma="origo" pos="NOMcom" msd="Case=Abl|Numb=Sing">origine</w>
+    <w ref="2.613" lemma="cado" pos="NOMcom" msd="Case=Gen|Numb=Sing">Cadmi</w>
+    <w ref="2.613" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+    <w ref="2.614" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">hunc</w>
+    <w ana="#female #cunnus #womb" ref="2.614" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="2.614" lemma="quondam" pos="ADV" msd="Deg=Pos">quondam</w>
+    <w ref="2.614" lemma="drympis" pos="NOMcom" msd="Case=Abl|Numb=Sing">Dryope</w>
+    <w ref="2.614" lemma="phoenissus" pos="ADJqua" msd="Case=Abl|Numb=Sing">Phoenissa</w>
+    <w ref="2.614" lemma="grauo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">gravato</w>
+    <w ref="2.615" lemma="rapio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">rapta</w>
+    <w ref="2.615" lemma="repente" pos="ADV" msd="Deg=Pos">repente</w>
+    <w ref="2.615" lemma="chorus" pos="NOMcom" msd="Case=Abl|Numb=Plur">choris</w>
+    <w ref="2.615" lemma="onus" pos="NOMcom" msd="Case=Gen|Numb=Sing">onerisque</w>
+    <w ref="2.615" lemma="que" pos="CON" msd="MORPH=empty">{onerisque}</w>
+    <w ref="2.615" lemma="oblino" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">oblita</w>
+    <w ref="2.615" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">ferebat</w>
+    <w ref="2.615" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.616" lemma="dum" pos="CONsub" msd="MORPH=empty">dumque</w>
+    <w ref="2.616" lemma="que" pos="CON" msd="MORPH=empty">{dumque}</w>
+    <w ref="2.616" lemma="traho" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">trahit</w>
+    <w ref="2.616" lemma="prehendo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">prensis</w>
+    <w ref="2.616" lemma="taurus" pos="NOMcom" msd="Case=Acc|Numb=Sing">taurum</w>
+    <w ref="2.616" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="2.616" lemma="cornu" pos="NOMcom" msd="Case=Abl|Numb=Plur">cornibus</w>
+    <w ref="2.616" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.616" lemma="euan" pos="NOMcom" msd="Case=Nom|Numb=Sing">Euhan</w>
+    <w ref="2.616" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.617" lemma="procido1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">procidit</w>
+    <w ref="2.617" lemma="impello" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">impulsus</w>
+    <w ref="2.617" lemma="nimius" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">nimiis</w>
+    <w ref="2.617" lemma="conatus" pos="NOMcom" msd="Case=Abl|Numb=Plur">conatibus</w>
+    <w ref="2.617" lemma="infans1" pos="NOMcom" msd="Case=Nom|Numb=Sing">infans</w>
+    <w ref="2.617" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+    <w ref="2.618" lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
+    <w ref="2.618" lemma="audax" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">audax</w>
+  </quote>
+</div>

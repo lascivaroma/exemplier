@@ -1,0 +1,32 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Ovid</author>, <title>Metamorphoses</title>, <biblScope>2.463-2.465</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:2.463-2.465" type="line">
+    <w ref="2.463" lemma="attonitus2" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Fem|Deg=Pos">Attonitae</w>
+    <w ref="2.463" lemma="manus" pos="NOMcom" msd="Case=Abl|Numb=Plur">manibusque</w>
+    <w ref="2.463" lemma="que" pos="CON" msd="MORPH=empty">{manibusque}</w>
+    <w ana="#female #cunnus #womb" ref="2.463" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="2.463" lemma="celo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">celare</w>
+    <w ref="2.463" lemma="uolo3" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">volenti</w>
+    <w ref="2.464" lemma="“" pos="PUNC" msd="MORPH=empty">“</w>
+    <w ref="2.464" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">i</w>
+    <w ref="2.464" lemma="procul" pos="ADV" msd="Deg=Pos">procul</w>
+    <w ref="2.464" lemma="hinc" pos="ADV" msd="Deg=Pos">hinc</w>
+    <w ref="2.464" lemma="”" pos="PUNC" msd="MORPH=empty">”</w>
+    <w ref="2.464" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">dixit</w>
+    <w ref="2.464" lemma="“" pos="PUNC" msd="MORPH=empty">“</w>
+    <w ref="2.464" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="2.464" lemma="sacer" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">sacros</w>
+    <w ref="2.464" lemma="polluo" pos="VER" msd="Numb=Sing|Person=2">pollue</w>
+    <w ref="2.464" lemma="fons" pos="NOMcom" msd="Case=Acc|Numb=Plur">fontes</w>
+    <w ref="2.464" lemma="”" pos="PUNC" msd="MORPH=empty">”</w>
+    <w ref="2.465" lemma="cynthia" pos="NOMcom" msd="Case=Nom|Numb=Sing">Cynthia</w>
+    <w ref="2.465" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.465" lemma="de" pos="PRE" msd="MORPH=empty">deque</w>
+    <w ref="2.465" lemma="que" pos="CON" msd="MORPH=empty">{deque}</w>
+    <w ref="2.465" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=MascNeut">suo</w>
+    <w ref="2.465" lemma="iubeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">iussit</w>
+    <w ref="2.465" lemma="secedo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">secedere</w>
+    <w ref="2.465" lemma="coetus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coetu</w>
+    <w ref="2.465" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

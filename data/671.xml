@@ -1,0 +1,58 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Statius, P. Papinius (Publius Papinius)</author>, <title>Silvae</title>, <biblScope>1.2.268-1.2.273</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1020.phi002.perseus-lat2:1.2.268-1.2.273" type="line">
+    <w ref="1.2.268" lemma="accelero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">acceleret</w>
+    <w ref="1.2.268" lemma="partus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">partu</w>
+    <w ref="1.2.268" lemma="decimus" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">decimum</w>
+    <w ref="1.2.268" lemma="bonus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">bona</w>
+    <w ref="1.2.268" lemma="cynthia" pos="NOMcom" msd="Case=Nom|Numb=Sing">Cynthia</w>
+    <w ref="1.2.268" lemma="mensis" pos="NOMcom" msd="Case=Acc|Numb=Sing">mensem</w>
+    <w ref="1.2.268" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.269" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="1.2.269" lemma="parco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">parcat</w>
+    <w ref="1.2.269" lemma="lucina" pos="NOMcom" msd="Case=Nom|Numb=Sing">Lucina</w>
+    <w ref="1.2.269" lemma="precor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">precor</w>
+    <w ref="1.2.269" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="1.2.269" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tuque</w>
+    <w ref="1.2.269" lemma="que" pos="CON" msd="MORPH=empty">{tuque}</w>
+    <w ref="1.2.269" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ref="1.2.269" lemma="parens1" pos="NOMcom" msd="Case=Dat|Numb=Sing">parenti</w>
+    <w ref="1.2.270" lemma="parco" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">parce</w>
+    <w ref="1.2.270" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.270" lemma="puer" pos="NOMcom" msd="Case=Voc|Numb=Sing">puer</w>
+    <w ref="1.2.270" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.270" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="1.2.270" lemma="mollis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">mollem</w>
+    <w ana="#female #cunnus #womb" ref="1.2.270" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="1.2.270" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.270" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="1.2.270" lemma="sto" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act">stantia</w>
+    <w ref="1.2.270" lemma="laedo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">laedas</w>
+    <w ref="1.2.271" lemma="pectus" pos="NOMcom" msd="Case=Acc|Numb=Plur">pectora</w>
+    <w ref="1.2.271" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="1.2.271" lemma="cum" pos="CONsub" msd="MORPH=empty">cumque</w>
+    <w ref="1.2.271" lemma="que" pos="CON" msd="MORPH=empty">{cumque}</w>
+    <w ref="1.2.271" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Masc">tuos</w>
+    <w ref="1.2.271" lemma="tacitus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">tacito</w>
+    <w ref="1.2.271" lemma="natura" pos="NOMcom" msd="Case=Abl|Numb=Sing">natura</w>
+    <w ref="1.2.271" lemma="recessus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">recessu</w>
+    <w ref="1.2.272" lemma="formo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">formarit</w>
+    <w ref="1.2.272" lemma="uultus" pos="NOMcom" msd="Case=Nom|Numb=Sing">vultus</w>
+    <w ref="1.2.272" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.272" lemma="multum2" pos="ADV" msd="Case=Acc|Deg=Pos">multum</w>
+    <w ref="1.2.272" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="1.2.272" lemma="pater" pos="NOMcom" msd="Case=Abl|Numb=Sing">patre</w>
+    <w ref="1.2.272" lemma="decorus" pos="NOMcom" msd="Case=Gen|Numb=Sing">decoris</w>
+    <w ref="1.2.272" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.273" lemma="multum?" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Comp">plus</w>
+    <w ref="1.2.273" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="1.2.273" lemma="mater" pos="NOMcom" msd="Case=Abl|Numb=Sing">matre</w>
+    <w ref="1.2.273" lemma="fero" pos="NOMcom" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">feras</w>
+    <w ref="1.2.273" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.273" lemma="at2" pos="CONcoo" msd="MORPH=empty">at</w>
+    <w ref="1.2.273" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+    <w ref="1.2.273" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.273" lemma="pulcher" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Sup">pulcherrima</w>
+    <w ref="1.2.273" lemma="forma" pos="NOMcom" msd="Case=Nom|Numb=Sing">forma</w>
+  </quote>
+</div>

@@ -1,0 +1,41 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Juvenal</author>, <title>Satires</title>, <biblScope>6.597-6.601</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.597-6.601" type="line">
+    <w ref="6.597" lemma="gaudeo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=SemDep|Person=2">gaude</w>
+    <w ref="6.597" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.597" lemma="infelix" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=Com|Deg=Pos">infelix</w>
+    <w ref="6.597" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.597" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="6.597" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ref="6.597" lemma="bibo2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">bibendum</w>
+    <w ref="6.598" lemma="porrigo2" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">porrige</w>
+    <w ref="6.598" lemma="quisquis1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quidquid</w>
+    <w ref="6.598" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
+    <w ref="6.598" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="6.598" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="6.598" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="6.598" lemma="distendo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">distendere</w>
+    <w ref="6.598" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">vellet</w>
+    <w ref="6.599" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.599" lemma="uexo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">vexare</w>
+    <w ana="#female #cunnus #womb" ref="6.599" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="6.599" lemma="puer" pos="NOMcom" msd="Case=Dat|Numb=Plur">pueris</w>
+    <w ref="6.599" lemma="salio2" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">salientibus</w>
+    <w ref="6.599" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.599" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2">esses</w>
+    <w ref="6.600" lemma="aethiops" pos="ADJqua" msd="Case=Gen|Numb=Sing|Deg=Pos">Aethiopis</w>
+    <w ref="6.600" lemma="fortasse" pos="ADV" msd="Deg=Pos">fortasse</w>
+    <w ref="6.600" lemma="pater" pos="NOMcom" msd="Case=Nom|Numb=Sing">pater</w>
+    <w ref="6.600" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.600" lemma="mox" pos="ADV" msd="Deg=Pos">mox</w>
+    <w ref="6.600" lemma="decolor" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">decolor</w>
+    <w ref="6.600" lemma="heres" pos="NOMcom" msd="Case=Nom|Numb=Sing">heres</w>
+    <w ref="6.601" lemma="impleo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">impleret</w>
+    <w ref="6.601" lemma="tabula" pos="NOMcom" msd="Case=Acc|Numb=Plur">tabulas</w>
+    <w ref="6.601" lemma="numquam" pos="ADVneg" msd="MORPH=empty">numquam</w>
+    <w ref="6.601" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="6.601" lemma="mane2" pos="ADV" msd="Deg=Pos">mane</w>
+    <w ref="6.601" lemma="uideo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Adj|Voice=Pass">videndus</w>
+    <w ref="6.601" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

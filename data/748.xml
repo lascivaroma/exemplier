@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Phoenissae</title>, <biblScope>245-247</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi003.perseus-lat2:245-247" type="line">
+    <w ref="245" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=1">videram</w>
+    <w ref="245" lemma="nondum" pos="ADVneg" msd="MORPH=empty">nondum</w>
+    <w ref="245" lemma="dies" pos="NOMcom" msd="Case=Acc|Numb=Sing">diem</w>
+    <w ana="#female #cunnus #womb" ref="246" lemma="uterus" pos="NOMcom" msd="Case=Dat|Numb=Sing">uterique</w>
+    <w ref="246" lemma="que" pos="CON" msd="MORPH=empty">{uterique}</w>
+    <w ref="246" lemma="nondum" pos="ADVneg" msd="MORPH=empty">nondum</w>
+    <w ref="246" lemma="soluo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=1">solveram</w>
+    <w ref="246" lemma="claudo1" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">clausi</w>
+    <w ref="246" lemma="mora" pos="NOMcom" msd="Case=Acc|Numb=Plur">moras</w>
+    <w ref="246" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="247" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="247" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="247" lemma="timeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Pass|Person=1">timebar</w>
+    <w ref="247" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

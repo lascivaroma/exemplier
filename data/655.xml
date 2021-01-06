@@ -1,0 +1,39 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Ovid</author>, <title>Metamorphoses</title>, <biblScope>9.285-9.289</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:9.285-9.289" type="line">
+    <w ref="9.285" lemma="namque" pos="CONcoo" msd="MORPH=empty">Namque</w>
+    <w ref="9.285" lemma="laborifer" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">laboriferi</w>
+    <w ref="9.285" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="9.285" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="9.285" lemma="natalis2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">natalis</w>
+    <w ref="9.285" lemma="assum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">adesset</w>
+    <w ref="9.286" lemma="hercules" pos="NOMcom" msd="Case=Gen|Numb=Sing">Herculis</w>
+    <w ref="9.286" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.286" lemma="decimus" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">decimum</w>
+    <w ref="9.286" lemma="premo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">premeretur</w>
+    <w ref="9.286" lemma="sidus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sidere</w>
+    <w ref="9.286" lemma="signum" pos="NOMcom" msd="Case=Acc|Numb=Sing">signum</w>
+    <w ref="9.286" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.287" lemma="tendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">tendebat</w>
+    <w ref="9.287" lemma="grauitas" pos="NOMcom" msd="Case=Nom|Numb=Sing">gravitas</w>
+    <w ana="#female #cunnus #womb" ref="9.287" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="9.287" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="9.287" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.287" lemma="qui" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quodque</w>
+    <w ref="9.287" lemma="que" pos="CON" msd="MORPH=empty">{quodque}</w>
+    <w ref="9.287" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=1">ferebam</w>
+    <w ref="9.287" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.288" lemma="tantum2" pos="ADV" msd="Gend=Neut|Deg=Pos">tantum</w>
+    <w ref="9.288" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
+    <w ref="9.288" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.288" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="9.288" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2">posses</w>
+    <w ref="9.288" lemma="auctor" pos="NOMcom" msd="Case=Acc|Numb=Sing">auctorem</w>
+    <w ref="9.288" lemma="dico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dicere</w>
+    <w ref="9.288" lemma="tectum" pos="NOMcom" msd="Case=Gen|Numb=Sing">tecti</w>
+    <w ref="9.289" lemma="pondus" pos="NOMcom" msd="Case=Gen|Numb=Sing">ponderis</w>
+    <w ref="9.289" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="9.289" lemma="iuppiter" pos="NOMcom" msd="Case=Acc|Numb=Sing">Iovem</w>
+    <w ref="9.289" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

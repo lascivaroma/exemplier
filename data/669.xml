@@ -1,0 +1,44 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Statius, P. Papinius (Publius Papinius)</author>, <title>Thebais</title>, <biblScope>11.407-11.411</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1020.phi001.perseus-lat2:11.407-11.411" type="line">
+    <w ref="11.407" lemma="sto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">stat</w>
+    <w ref="11.407" lemma="consanguineus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">consanguineum</w>
+    <w ref="11.407" lemma="campus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">campo</w>
+    <w ref="11.407" lemma="scelus" pos="NOMcom" msd="Case=Nom|Numb=Sing">scelus</w>
+    <w ref="11.407" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.407" lemma="unus" pos="ADJcar" msd="Case=Gen|Numb=Sing|Gend=Com">unius</w>
+    <w ref="11.407" lemma="ingens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">ingens</w>
+    <w ref="11.408" lemma="bellum" pos="NOMcom" msd="Case=Nom|Numb=Sing">bellum</w>
+    <w ana="#female #cunnus #womb" ref="11.408" lemma="uterus" pos="NOMcom" msd="Case=Nom|Numb=Sing">uteri</w>
+    <w ref="11.408" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.408" lemma="coeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">coeuntque</w>
+    <w ref="11.408" lemma="que" pos="CON" msd="MORPH=empty">{coeuntque}</w>
+    <w ref="11.408" lemma="par2" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">pares</w>
+    <w ref="11.408" lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+    <w ref="11.408" lemma="cassis1" pos="NOMcom" msd="Case=Abl|Numb=Sing">casside</w>
+    <w ref="11.408" lemma="uultus" pos="NOMcom" msd="Case=Nom|Numb=Plur">voltus</w>
+    <w ref="11.408" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.409" lemma="signum" pos="NOMcom" msd="Case=Nom|Numb=Plur">signa</w>
+    <w ref="11.409" lemma="paueo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pavent</w>
+    <w ref="11.409" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.409" lemma="sileo" pos="VER" msd="Numb=Plur|Mood=Inf|Tense=Pres|Voice=Act">siluere</w>
+    <w ref="11.409" lemma="tuba" pos="NOMcom" msd="Case=Nom|Numb=Plur">tubae</w>
+    <w ref="11.409" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.409" lemma="stupefacio" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">stupefactaque</w>
+    <w ref="11.409" lemma="que" pos="CON" msd="MORPH=empty">{stupefactaque}</w>
+    <w ref="11.409" lemma="mars" pos="NOMcom" msd="Case=Gen|Numb=Sing">Martis</w>
+    <w ref="11.410" lemma="cornu" pos="NOMcom" msd="Case=Acc|Numb=Plur">cornua</w>
+    <w ref="11.410" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="11.410" lemma="ter" pos="ADJadv.mul" msd="MORPH=empty">ter</w>
+    <w ref="11.410" lemma="niger" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">nigris</w>
+    <w ref="11.410" lemma="auidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">avidus</w>
+    <w ref="11.410" lemma="regnator" pos="NOMcom" msd="Case=Nom|Numb=Sing">regnator</w>
+    <w ref="11.410" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="11.410" lemma="ora" pos="NOMcom" msd="Case=Abl|Numb=Plur">oris</w>
+    <w ref="11.411" lemma="intono" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">intonuit</w>
+    <w ref="11.411" lemma="ter" pos="ADJadv.mul" msd="MORPH=empty">terque</w>
+    <w ref="11.411" lemma="que" pos="CON" msd="MORPH=empty">{terque}</w>
+    <w ref="11.411" lemma="inferus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Sup">ima</w>
+    <w ref="11.411" lemma="solum?" pos="PROind" msd="Case=Dat|Numb=Sing">soli</w>
+  </quote>
+</div>

@@ -1,0 +1,40 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Ovid</author>, <title>Metamorphoses</title>, <biblScope>14.63-14.67</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:14.63-14.67" type="line">
+    <w ref="14.63" lemma="fugio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fugit</w>
+    <w ref="14.63" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.63" lemma="attraho" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">attrahit</w>
+    <w ref="14.63" lemma="unus" pos="ADJcar" msd="Case=Nom">una</w>
+    <w ref="14.64" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="14.64" lemma="corpus" pos="NOMcom" msd="Case=Acc|Numb=Sing">corpus</w>
+    <w ref="14.64" lemma="quaero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">quaerens</w>
+    <w ref="14.64" lemma="femur" pos="NOMcom" msd="Case=Gen|Numb=Plur">femorum</w>
+    <w ref="14.64" lemma="crus" pos="NOMcom" msd="Case=Gen|Numb=Plur">crurumque</w>
+    <w ref="14.64" lemma="que" pos="CON" msd="MORPH=empty">{crurumque}</w>
+    <w ref="14.64" lemma="pes" pos="NOMcom" msd="Case=Gen|Numb=Plur">pedumque</w>
+    <w ref="14.64" lemma="que" pos="CON" msd="MORPH=empty">{pedumque}</w>
+    <w ref="14.64" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.65" lemma="cerbereus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">Cerbereos</w>
+    <w ref="14.65" lemma="rictus" pos="NOMcom" msd="Case=Acc|Numb=Plur">rictus</w>
+    <w ref="14.65" lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>
+    <w ref="14.65" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Plur">partibus</w>
+    <w ref="14.65" lemma="inuenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">invenit</w>
+    <w ref="14.65" lemma="ille" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">illis</w>
+    <w ref="14.65" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="14.66" lemma="sto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">statque</w>
+    <w ref="14.66" lemma="que" pos="CON" msd="MORPH=empty">{statque}</w>
+    <w ref="14.66" lemma="canis" pos="NOMcom" msd="Case=Gen|Numb=Plur">canum</w>
+    <w ref="14.66" lemma="rabies" pos="NOMcom" msd="Case=Abl|Numb=Sing">rabie</w>
+    <w ref="14.66" lemma="subicio" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">subiectaque</w>
+    <w ref="14.66" lemma="que" pos="CON" msd="MORPH=empty">{subiectaque}</w>
+    <w ref="14.66" lemma="tergum" pos="NOMcom" msd="Case=Acc|Numb=Plur">terga</w>
+    <w ref="14.66" lemma="fera" pos="NOMcom" msd="Case=Gen|Numb=Plur">ferarum</w>
+    <w ref="14.67" lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Plur">inguinibus</w>
+    <w ref="14.67" lemma="truncus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">truncis</w>
+    <w ana="#female #cunnus #womb" ref="14.67" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uteroque</w>
+    <w ref="14.67" lemma="que" pos="CON" msd="MORPH=empty">{uteroque}</w>
+    <w ref="14.67" lemma="exsto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">exstante</w>
+    <w ref="14.67" lemma="coerceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">coercet</w>
+    <w ref="14.67" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

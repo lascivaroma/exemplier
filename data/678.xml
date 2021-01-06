@@ -1,0 +1,33 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Valerius Flaccus, Gaius</author>, <title>Argonautica</title>, <biblScope>2.422-2.424</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1035.phi001.perseus-lat2:2.422-2.424" type="line">
+    <w ref="2.422" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">i</w>
+    <w ref="2.422" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.422" lemma="memor" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">memor</w>
+    <w ref="2.422" lemma="eo1" pos="VER" msd="Case=Voc|Numb=Sing|Gend=Masc|Mood=Imp|Tense=Pres|Voice=Act|Person=2">i</w>
+    <w ref="2.422" lemma="terra" pos="NOMcom" msd="Case=Gen|Numb=Sing">terrae</w>
+    <w ref="2.422" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.422" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Fem">quae</w>
+    <w ref="2.422" lemma="uos" pos="PROper" msd="Case=Nom|Numb=Plur">vos</w>
+    <w ref="2.422" lemma="amplector" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Dep">amplexa</w>
+    <w ref="2.422" lemma="quietus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">quieto</w>
+    <w ref="2.423" lemma="primus" pos="ADJord" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Sup">prima</w>
+    <w ref="2.423" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+    <w ref="2.423" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.423" lemma="refero" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">refer</w>
+    <w ref="2.423" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.423" lemma="domo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">domitis</w>
+    <w ref="2.423" lemma="ab" pos="INJ" msd="MORPH=empty">a</w>
+    <w ref="2.423" lemma="colchidus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc">Colchidos</w>
+    <w ref="2.423" lemma="ora" pos="NOMcom" msd="Case=Abl|Numb=Plur">oris</w>
+    <w ref="2.424" lemma="uelum" pos="NOMcom" msd="Case=Acc|Numb=Plur">vela</w>
+    <w ref="2.424" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="2.424" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">hunc</w>
+    <w ana="#female #cunnus #womb" ref="2.424" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="2.424" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+    <w ref="2.424" lemma="linquo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">linquis</w>
+    <w ref="2.424" lemma="iason" pos="NOMcom" msd="Case=Nom|Numb=Sing">Iasona</w>
+    <w ref="2.424" lemma="noster" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">nostro</w>
+    <w ref="2.424" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

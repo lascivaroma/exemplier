@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
+  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>I.102-I.102</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.102-I.102" type="part">
+    <w ref="I.102" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="I.102" lemma="sella" pos="NOMcom" msd="Case=Abl|Numb=Sing">sella</w>
+    <w ref="I.102" lemma="pario2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">paritura</w>
+    <w ref="I.102" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="I.102" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.102" lemma="obstetrix" pos="NOMcom" msd="Case=Nom|Numb=Sing">obstetrix</w>
+    <w ref="I.102" lemma="inferus" pos="ADV" msd="Case=Nom|Deg=Comp">inferius</w>
+    <w ref="I.102" lemma="sedeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sedeat</w>
+    <w ref="I.102" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="I.102" lemma="humilis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Comp">humiliori</w>
+    <w ref="I.102" lemma="sella" pos="NOMcom" msd="Case=Abl|Numb=Sing">sella</w>
+    <w ref="I.102" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.102" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="I.102" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possit</w>
+    <w ref="I.102" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="I.102" lemma="superus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp">superioribus</w>
+    <w ref="I.102" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Plur">partibus</w>
+    <w ref="I.102" lemma="facile" pos="ADV" msd="Deg=Pos">facile</w>
+    <w ref="I.102" lemma="infans1" pos="NOMcom" msd="Case=Acc|Numb=Sing">infantem</w>
+    <w ref="I.102" lemma="adduco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">adducere</w>
+    <w ref="I.102" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.102" lemma="immitto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">immissoque</w>
+    <w ref="I.102" lemma="que" pos="CON" msd="MORPH=empty">{immissoque}</w>
+    <w ref="I.102" lemma="digitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">digito</w>
+    <w ref="I.102" lemma="circulor" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">circulato</w>
+    <w ref="I.102" lemma="ductus" pos="NOMcom" msd="Case=Abl|Numb=Sing">ductu</w>
+    <w ref="I.102" lemma="os1" pos="NOMcom" msd="Case=Acc|Numb=Sing">os</w>
+    <w ref="I.102" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ref="I.102" lemma="aperio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">aperiat</w>
+    <w ref="I.102" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ana="#female #cunnus #labia" ref="I.102" lemma="fibra" pos="NOMcom" msd="Case=Acc|Numb=Plur">fibras</w>
+    <w ref="I.102" lemma="distendo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">distendat</w>
+    <w ref="I.102" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

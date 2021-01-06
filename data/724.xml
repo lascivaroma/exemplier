@@ -1,0 +1,28 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Apuleius</author>, <title>Apologia</title>, <biblScope>85-85</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi001.perseus-lat1:85-85" type="section">
+    <w ref="85" lemma="o" pos="INJ" msd="MORPH=empty">o</w>
+    <w ref="85" lemma="infelix" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=Com|Deg=Pos">infelix</w>
+    <w ana="#female #cunnus #womb" ref="85" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="85" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=MascNeut">tuum</w>
+    <w ref="85" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="85" lemma="pudentilla" pos="NOMcom" msd="Case=Nom|Numb=Sing">Pudentilla</w>
+    <w ref="85" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="85" lemma="o" pos="INJ" msd="MORPH=empty">o</w>
+    <w ref="85" lemma="sterilitas" pos="NOMcom" msd="Case=Voc|Numb=Sing">sterilitas</w>
+    <w ref="85" lemma="liberi" pos="NOMcom" msd="Case=Dat|Numb=Plur">liberis</w>
+    <w ref="85" lemma="potis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">potior</w>
+    <w ref="85" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="85" lemma="o" pos="INJ" msd="MORPH=empty">o</w>
+    <w ref="85" lemma="infaustus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">infausti</w>
+    <w ref="85" lemma="decem" pos="ADJcar" msd="Case=Ind">decem</w>
+    <w ref="85" lemma="mensis" pos="NOMcom" msd="Case=Nom|Numb=Plur">menses</w>
+    <w ref="85" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="85" lemma="o" pos="INJ" msd="MORPH=empty">o</w>
+    <w ref="85" lemma="ingratus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">ingrati</w>
+    <w ref="85" lemma="xienui" pos="NOMcom" msd="Case=Gen|Numb=Sing">XIIII</w>
+    <w ref="85" lemma="annus" pos="NOMcom" msd="Case=Gen|Numb=Sing">anni</w>
+    <w ref="85" lemma="uiduitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">uiduitatis</w>
+    <w ref="85" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

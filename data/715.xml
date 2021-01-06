@@ -1,0 +1,36 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Tacitus, Cornelius</author>, <title>Annales</title>, <biblScope>1.40-1.40</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1351.phi005.lascivaroma-lat1:1.40-1.40" type="chapter">
+    <w ref="1.40" lemma="diu" pos="ADV" msd="Deg=Pos">diu</w>
+    <w ref="1.40" lemma="cunctor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">cunctatus</w>
+    <w ref="1.40" lemma="aspernor" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">aspernantem</w>
+    <w ref="1.40" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
+    <w ref="1.40" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.40" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="1.40" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="1.40" lemma="diuus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut">divo</w>
+    <w ref="1.40" lemma="augustus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">Augusto</w>
+    <w ref="1.40" lemma="orior" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">ortam</w>
+    <w ref="1.40" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="1.40" lemma="degener" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">degenerem</w>
+    <w ref="1.40" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="1.40" lemma="periculum" pos="NOMcom" msd="Case=Acc|Numb=Plur">pericula</w>
+    <w ref="1.40" lemma="testor" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Dep|Person=3">testaretur</w>
+    <w ref="1.40" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.40" lemma="posterius" pos="ADV" msd="Deg=Sup">postremo</w>
+    <w ana="#female #cunnus #womb" ref="1.40" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="1.40" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="1.40" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.40" lemma="communis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">communem</w>
+    <w ref="1.40" lemma="filius" pos="NOMcom" msd="Case=Acc|Numb=Sing">filium</w>
+    <w ref="1.40" lemma="multus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">multo</w>
+    <w ref="1.40" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="1.40" lemma="fletus" pos="NOMcom" msd="Case=Abl|Numb=Sing">fletu</w>
+    <w ref="1.40" lemma="complector" pos="VER" msd="Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">complexus</w>
+    <w ref="1.40" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.40" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="1.40" lemma="abeo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">abiret</w>
+    <w ref="1.40" lemma="perpello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">perpulit</w>
+    <w ref="1.40" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

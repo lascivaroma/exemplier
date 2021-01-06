@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
+  <bibl><author>Mustio</author>, <title>Gynaecia</title>, <biblScope>203-203</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:temp0001.temp001.bolton-lat1:203-203" type="None">
+    <w ref="203" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="203" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
+    <w ana="#female #cunnus #labia" ref="203" lemma="pinnacula" pos="NOMcom" msd="Case=Dat|Numb=Plur">pinnaculis</w>
+    <w ref="203" lemma="pateo" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">patentibus</w>
+    <w ref="203" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="203" lemma="medium" pos="ADJqua" msd="Case=Abl|Numb=Sing">medio</w>
+    <w ref="203" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+    <w ref="203" lemma="muliebris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">muliebri</w>
+    <w ref="203" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">fuerit</w>
+    <w ref="203" lemma="claudo1" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Fut|Voice=Act">clusura</w>
+    <w ref="203" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="203" lemma="duo" pos="ADJcar" msd="Case=Nom|Numb=Plur|Gend=MascNeut">duo</w>
+    <w ref="203" lemma="officium" pos="NOMcom" msd="Case=Nom|Numb=Plur">officia</w>
+    <w ref="203" lemma="impedio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">inpediuntur</w>
+    <w ref="203" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="203" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="203" lemma="communicatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">communicationem</w>
+    <w ref="203" lemma="uir" pos="NOMcom" msd="Case=Gen|Numb=Plur">viri</w>
+    <w ref="203" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="203" lemma="ad1" pos="ADV" msd="MORPH=empty">ad</w>
+    <w ref="203" lemma="conceptus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">conceptum</w>
+    <w ref="203" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="203" lemma="siquidem" pos="CONsub" msd="MORPH=empty">siquidem</w>
+    <w ref="203" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="203" lemma="utcumque2" pos="ADV" msd="MORPH=empty">utcumque</w>
+    <w ref="203" lemma="menstrua" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">menstrua</w>
+    <w ref="203" lemma="liquor2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">liquari</w>
+    <w ref="203" lemma="possum1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possint</w>
+    <w ref="203" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="203" lemma="cauerna" pos="NOMcom" msd="Case=Acc|Numb=Sing">cavernam</w>
+    <w ref="203" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
+    <w ref="203" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="203" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+  </quote>
+</div>

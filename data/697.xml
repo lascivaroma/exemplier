@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>5.25-5.25</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:5.25-5.25" type="chapter">
+    <w ref="5.25" lemma="item" pos="ADV" msd="Deg=Pos">Item</w>
+    <w ref="5.25" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ana="#female #cunnus #womb" ref="5.25" lemma="uulua" pos="NOMcom" msd="Case=Nom|Numb=Sing">vulva</w>
+    <w ref="5.25" lemma="doleo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">dolens</w>
+    <w ref="5.25" lemma="somnus" pos="NOMcom" msd="Case=Acc|Numb=Sing">somnum</w>
+    <w ref="5.25" lemma="prohibeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">prohibet</w>
+    <w ref="5.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.25" lemma="crocus" pos="NOMcom" msd="Case=Dat|Numb=Sing">croci</w>
+    <w ref="5.25" lemma="pondo" pos="NOMcom" msd="Case=Gen|Numb=Sing">P.</w>
+    <w ref="5.25" lemma="=" pos="PUNC" msd="MORPH=empty">=</w>
+    <w ref="5.25" lemma="=" pos="PUNC" msd="MORPH=empty">=</w>
+    <w ref="5.25" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="5.25" lemma="anisus" pos="NOMcom" msd="Case=Gen|Numb=Sing">anesi</w>
+    <w ref="5.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.25" lemma="myrrha" pos="NOMcom" msd="Case=Gen|Numb=Sing">murrae</w>
+    <w ref="5.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.25" lemma="singulus" pos="ADJdis" msd="Case=Gen|Numb=Plur|Gend=MascNeut">singulorum</w>
+    <w ref="5.25" lemma="pes" pos="NOMcom" msd="Case=Gen|Numb=Plur">P.</w>
+    <w ref="5.25" lemma="1" pos="ADJcar" msd="MORPH=empty">1</w>
+    <w ref="5.25" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="5.25" lemma="papauer" pos="NOMcom" msd="Case=Gen|Numb=Sing">papaveris</w>
+    <w ref="5.25" lemma="lacrima" pos="NOMcom" msd="Case=Gen|Numb=Sing">lacrimae</w>
+    <w ref="5.25" lemma="pes" pos="NOMcom" msd="Case=Gen|Numb=Plur">P.</w>
+    <w ref="5.25" lemma="3" pos="ADJcar" msd="MORPH=empty">III</w>
+    <w ref="5.25" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="5.25" lemma="cicuta" pos="NOMcom" msd="Case=Gen|Numb=Plur">cicutae</w>
+    <w ref="5.25" lemma="semen1" pos="NOMcom" msd="Case=Gen|Numb=Sing">seminis</w>
+    <w ref="5.25" lemma="pes" pos="NOMcom" msd="Case=Gen|Numb=Sing">P.</w>
+    <w ref="5.25" lemma="zorpax" pos="NOMcom" msd="Case=Nom|Numb=Sing">zorkZZZ</w>
+    <w ref="5.25" lemma="8" pos="ADJcar" msd="MORPH=empty">VIII</w>
+    <w ref="5.25" lemma="misceo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">miscentur</w>
+    <w ref="5.25" lemma="excipio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">excipiunturque</w>
+    <w ref="5.25" lemma="que" pos="CON" msd="MORPH=empty">{excipiunturque}</w>
+  </quote>
+</div>

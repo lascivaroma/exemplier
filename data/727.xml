@@ -1,0 +1,56 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Apuleius</author>, <title>Metamorphoses</title>, <biblScope>1.14-1.14</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:1.14-1.14" type="chapter">
+    <w ref="1.14" lemma="at2" pos="CONcoo" msd="MORPH=empty">At</w>
+    <w ref="1.14" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="1.14" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="1.14" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=1">eram</w>
+    <w ref="1.14" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="1.14" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="1.14" lemma="humus" pos="NOMcom" msd="Case=Loc|Numb=Sing">humi</w>
+    <w ref="1.14" lemma="proicio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">proiectus</w>
+    <w ref="1.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.14" lemma="inanimus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">inanimis</w>
+    <w ref="1.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.14" lemma="nudus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">nudus</w>
+    <w ref="1.14" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.14" lemma="frigidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">frigidus</w>
+    <w ref="1.14" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.14" lemma="lotium" pos="NOMcom" msd="Case=Nom|Numb=Sing">lotio</w>
+    <w ref="1.14" lemma="perlitus" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">perlitus</w>
+    <w ref="1.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.14" lemma="quasi1" pos="ADVrel" msd="MORPH=empty">quasi</w>
+    <w ref="1.14" lemma="recens1" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">recens</w>
+    <w ana="#female #cunnus #womb" ref="1.14" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="1.14" lemma="mater" pos="NOMcom" msd="Case=Gen|Numb=Sing">matris</w>
+    <w ref="1.14" lemma="edo?" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">editus</w>
+    <w ref="1.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.14" lemma="immo" pos="ADV" msd="Deg=Pos">immo</w>
+    <w ref="1.14" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
+    <w ref="1.14" lemma="semimortuus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">semimortuus</w>
+    <w ref="1.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.14" lemma="uerum4" pos="CONcoo" msd="MORPH=empty">verum</w>
+    <w ref="1.14" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="1.14" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ref="1.14" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="1.14" lemma="superuins" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">supervivens</w>
+    <w ref="1.14" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.14" lemma="postus" pos="NOMcom" msd="Case=Nom|Numb=Sing">postumus</w>
+    <w ref="1.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.14" lemma="uel2" pos="CONcoo" msd="Deg=Pos">vel</w>
+    <w ref="1.14" lemma="certe" pos="ADV" msd="Deg=Pos">certe</w>
+    <w ref="1.14" lemma="destino" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">destinatae</w>
+    <w ref="1.14" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="1.14" lemma="crux" pos="NOMcom" msd="Case=Dat|Numb=Sing">cruci</w>
+    <w ref="1.14" lemma="candidatus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">candidatus</w>
+    <w ref="1.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.14" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Neut">Quid</w>
+    <w ref="1.14" lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">inquam</w>
+    <w ref="1.14" lemma="de" pos="PRE" msd="MORPH=empty">De</w>
+    <w ref="1.14" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">me</w>
+    <w ref="1.14" lemma="fio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">fiet</w>
+    <w ref="1.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.14" lemma="ubi2" pos="ADVint" msd="MORPH=empty">ubi</w>
+    <w ref="1.14" lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">iste</w>
+  </quote>
+</div>

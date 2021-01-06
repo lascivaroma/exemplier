@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>4.27-4.27</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:4.27-4.27" type="chapter">
+    <w ref="4.27" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="4.27" lemma="uero3" pos="ADV" msd="MORPH=empty">vero</w>
+    <w ana="#female #cunnus #womb" ref="4.27" lemma="uulua" pos="NOMcom" msd="Case=Nom|Numb=Sing">vulva</w>
+    <w ref="4.27" lemma="exulcero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">exulcerata</w>
+    <w ref="4.27" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="4.27" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.27" lemma="cero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut">ceratum</w>
+    <w ref="4.27" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="4.27" lemma="rosa" pos="NOMcom" msd="Case=Abl|Numb=Sing">rosa</w>
+    <w ref="4.27" lemma="fio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">fiet</w>
+    <w ref="4.27" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.27" lemma="is" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">ei</w>
+    <w ref="4.27" lemma="recens1" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">recens</w>
+    <w ref="4.27" lemma="suilla" pos="NOMcom" msd="Case=Nom|Numb=Sing">suilla</w>
+    <w ref="4.27" lemma="adeps" pos="NOMcom" msd="Case=Nom|Numb=Sing">adeps</w>
+    <w ref="4.27" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="4.27" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="4.27" lemma="ouum" pos="NOMcom" msd="Case=Abl|Numb=Plur">ovis</w>
+    <w ref="4.27" lemma="albus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">album</w>
+    <w ref="4.27" lemma="misceo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">misceatur</w>
+    <w ref="4.27" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.27" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">idque</w>
+    <w ref="4.27" lemma="que" pos="CON" msd="MORPH=empty">{idque}</w>
+    <w ref="4.27" lemma="appono" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">adponatur</w>
+    <w ref="4.27" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="4.27" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="4.27" lemma="albus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">album</w>
+    <w ref="4.27" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="4.27" lemma="ouum" pos="NOMcom" msd="Case=Abl|Numb=Sing">ovo</w>
+    <w ref="4.27" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="4.27" lemma="rosa" pos="NOMcom" msd="Case=Abl|Numb=Sing">rosa</w>
+    <w ref="4.27" lemma="misceo" pos="VER" msd="Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">mixtum</w>
+    <w ref="4.27" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

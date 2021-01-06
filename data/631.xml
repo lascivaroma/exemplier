@@ -1,0 +1,43 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #voisinage #womb">
+  <bibl><author>Cicero</author>, <title>De Divinatione</title>, <biblScope>1.39-1.39</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi053.perseus-lat1:1.39-1.39" type="section">
+    <w ref="1.39" lemma="dionysium" pos="NOMcom" msd="Case=Gen|Numb=Sing">Dionysii</w>
+    <w ref="1.39" lemma="mater" pos="NOMcom" msd="Case=Nom|Numb=Sing">mater</w>
+    <w ref="1.39" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.39" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="1.39" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="1.39" lemma="syracosus" pos="ADJqua" msd="Case=Gen|Numb=Plur">Syracosiorum</w>
+    <w ref="1.39" lemma="tyrannus" pos="NOMcom" msd="Case=Nom|Numb=Sing">tyrannus</w>
+    <w ref="1.39" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="1.39" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.39" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="1.39" lemma="scribo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">scriptum</w>
+    <w ref="1.39" lemma="apud" pos="PRE" msd="MORPH=empty">apud</w>
+    <w ref="1.39" lemma="philistus" pos="NOMcom" msd="Case=Acc|Numb=Sing">Philistum</w>
+    <w ref="1.39" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1.39" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.39" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.39" lemma="doctus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">doctum</w>
+    <w ref="1.39" lemma="homo" pos="NOMcom" msd="Case=Acc|Numb=Sing">hominem</w>
+    <w ref="1.39" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.39" lemma="diligens" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">diligentem</w>
+    <w ref="1.39" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.39" lemma="aequalis2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">aequalem</w>
+    <w ref="1.39" lemma="tempus1" pos="NOMcom" msd="Case=Gen|Numb=Plur">temporum</w>
+    <w ref="1.39" lemma="ille" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=MascNeut">illorum</w>
+    <w ref="1.39" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.39" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="1.39" lemma="praegnans" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">praegnans</w>
+    <w ref="1.39" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">hunc</w>
+    <w ref="1.39" lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=MascNeut">ipsum</w>
+    <w ref="1.39" lemma="dionysium" pos="NOMcom" msd="Case=Acc|Numb=Sing">Dionysium</w>
+    <w ana="#female #cunnus #voisinage #womb" ref="1.39" lemma="aluus" pos="NOMcom" msd="Case=Abl|Numb=Sing">alvo</w>
+    <w ref="1.39" lemma="contineo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">contineret</w>
+    <w ref="1.39" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.39" lemma="somnio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">somniavit</w>
+    <w ref="1.39" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="1.39" lemma="pario2" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">peperisse</w>
+    <w ref="1.39" lemma="satyrisca" pos="NOMcom" msd="Case=Abl|Numb=Plur">Satyriscum</w>
+    <w ref="1.39" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

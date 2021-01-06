@@ -1,0 +1,29 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Apuleius</author>, <title>Metamorphoses</title>, <biblScope>5.18-5.18</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:5.18-5.18" type="chapter">
+    <w ref="5.18" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ref="5.18" lemma="diu" pos="ADV" msd="Deg=Pos">diu</w>
+    <w ref="5.18" lemma="blandus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">blandis</w>
+    <w ref="5.18" lemma="alimonia" pos="NOMcom" msd="Case=Gen|Numb=Plur">alimoniarum</w>
+    <w ref="5.18" lemma="obsequium" pos="NOMcom" msd="Case=Abl|Numb=Plur">obsequiis</w>
+    <w ref="5.18" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="5.18" lemma="sagino" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Fut|Voice=Act">saginaturum</w>
+    <w ref="5.18" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=MascFem">omnes</w>
+    <w ref="5.18" lemma="affirmo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">affirmant</w>
+    <w ref="5.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.18" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="5.18" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="5.18" lemma="primum" pos="ADJadv.ord" msd="Deg=Sup">primum</w>
+    <w ref="5.18" lemma="praegnatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">praegnationem</w>
+    <w ref="5.18" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">tuam</w>
+    <w ref="5.18" lemma="plenus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">plenus</w>
+    <w ref="5.18" lemma="maturo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">maturaverit</w>
+    <w ana="#female #cunnus #womb" ref="5.18" lemma="uterus" pos="NOMcom" msd="Case=Nom|Numb=Sing">uterus</w>
+    <w ref="5.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.18" lemma="opimus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Comp">opimiore</w>
+    <w ref="5.18" lemma="fructus" pos="NOMcom" msd="Case=Abl|Numb=Sing">fructu</w>
+    <w ref="5.18" lemma="praeditus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">praeditam</w>
+    <w ref="5.18" lemma="deuoro" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Fut|Voice=Act">devoraturum</w>
+    <w ref="5.18" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

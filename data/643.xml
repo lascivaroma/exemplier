@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>P. Vergilius Maro</author>, <title>Aeneid</title>, <biblScope>7.496-7.499</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi003.perseus-lat2:7.496-7.499" type="line">
+    <w ref="7.496" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">Ipse</w>
+    <w ref="7.496" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="7.496" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.496" lemma="eximius" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">eximiae</w>
+    <w ref="7.496" lemma="laus" pos="NOMcom" msd="Case=Gen|Numb=Sing">laudis</w>
+    <w ref="7.496" lemma="succendo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">succensus</w>
+    <w ref="7.496" lemma="amor" pos="NOMcom" msd="Case=Abl|Numb=Sing">amore</w>
+    <w ref="7.496" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.497" lemma="ascaneus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Comp">Ascanius</w>
+    <w ref="7.497" lemma="curuus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">curvo</w>
+    <w ref="7.497" lemma="dirigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">direxit</w>
+    <w ref="7.497" lemma="spiculum" pos="NOMcom" msd="Case=Acc|Numb=Plur">spicula</w>
+    <w ref="7.497" lemma="cornu" pos="NOMcom" msd="Case=Abl|Numb=Sing">cornu</w>
+    <w ref="7.497" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="7.498" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="7.498" lemma="dexter" pos="NOMcom" msd="Case=Dat|Numb=Sing">dextrae</w>
+    <w ref="7.498" lemma="erro2" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">erranti</w>
+    <w ref="7.498" lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Sing">deus</w>
+    <w ref="7.498" lemma="absum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">afuit</w>
+    <w ref="7.498" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.498" lemma="ago" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">actaque</w>
+    <w ref="7.498" lemma="que" pos="CON" msd="MORPH=empty">{actaque}</w>
+    <w ref="7.498" lemma="multus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">multo</w>
+    <w ref="7.499" lemma="per" pos="PRE" msd="MORPH=empty">perque</w>
+    <w ref="7.499" lemma="que" pos="CON" msd="MORPH=empty">{perque}</w>
+    <w ana="#female #cunnus #womb" ref="7.499" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="7.499" lemma="sonitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sonitu</w>
+    <w ref="7.499" lemma="per" pos="PRE" msd="MORPH=empty">perque</w>
+    <w ref="7.499" lemma="que" pos="CON" msd="MORPH=empty">{perque}</w>
+    <w ref="7.499" lemma="ilia" pos="ADJqua" msd="Case=Acc|Numb=Plur">ilia</w>
+    <w ref="7.499" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">venit</w>
+    <w ref="7.499" lemma="arundo" pos="NOMcom" msd="Case=Nom|Numb=Sing">harundo</w>
+    <w ref="7.499" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

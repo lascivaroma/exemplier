@@ -1,0 +1,61 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>5.25-5.25</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:5.25-5.25" type="chapter">
+    <w ref="5.25" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="5.25" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="5.25" lemma="assumo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">adsumpta</w>
+    <w ref="5.25" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="5.25" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="5.25" lemma="aqua" pos="NOMcom" msd="Case=Abl|Numb=Sing">aqua</w>
+    <w ref="5.25" lemma="do" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">data</w>
+    <w ref="5.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.25" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.25" lemma="auris" pos="NOMcom" msd="Case=Gen|Numb=Plur">aurium</w>
+    <w ref="5.25" lemma="dolor" pos="NOMcom" msd="Case=Acc|Numb=Plur">dolores</w>
+    <w ref="5.25" lemma="leuo1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">levant</w>
+    <w ref="5.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.25" lemma="adicio" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">adiectis</w>
+    <w ref="5.25" lemma="exiguus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">exiguo</w>
+    <w ref="5.25" lemma="modus" pos="NOMcom" msd="Case=Abl|Numb=Sing">modo</w>
+    <w ref="5.25" lemma="ruta" pos="NOMcom" msd="Case=Nom|Numb=Plur">rutae</w>
+    <w ref="5.25" lemma="sucus" pos="NOMcom" msd="Case=Abl|Numb=Sing">suco</w>
+    <w ref="5.25" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="5.25" lemma="passus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">passo</w>
+    <w ref="5.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.25" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.25" lemma="tormina" pos="NOMcom" msd="Case=Acc|Numb=Plur">tormina</w>
+    <w ref="5.25" lemma="supprimo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">supprimunt</w>
+    <w ref="5.25" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="5.25" lemma="uinum" pos="NOMcom" msd="Case=Abl|Numb=Sing">vino</w>
+    <w ref="5.25" lemma="liquo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">liquata</w>
+    <w ref="5.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.25" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.25" lemma="inflammatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">inflammationem</w>
+    <w ana="#female #cunnus #womb" ref="5.25" lemma="uulua" pos="NOMcom" msd="Case=Gen|Numb=Plur">vulvae</w>
+    <w ref="5.25" lemma="coerceo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">coercent</w>
+    <w ref="5.25" lemma="misceo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">mixta</w>
+    <w ref="5.25" lemma="cero" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Imp|Tense=Fut|Voice=Act">cerato</w>
+    <w ref="5.25" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="5.25" lemma="rosa" pos="NOMcom" msd="Case=Abl|Numb=Sing">rosa</w>
+    <w ref="5.25" lemma="facio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">facto</w>
+    <w ref="5.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.25" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="5.25" lemma="paulum2" pos="ADV" msd="Deg=Pos">paulum</w>
+    <w ref="5.25" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">his</w>
+    <w ref="5.25" lemma="crocus" pos="NOMcom" msd="Case=Dat|Numb=Sing">croci</w>
+    <w ref="5.25" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="5.25" lemma="accedo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">accessit</w>
+    <w ref="5.25" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="5.25" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.25" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="5.25" lemma="aqua" pos="NOMcom" msd="Case=Abl|Numb=Sing">aqua</w>
+    <w ref="5.25" lemma="frons1" pos="NOMcom" msd="Case=Abl|Numb=Sing">fronti</w>
+    <w ref="5.25" lemma="induco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">inducta</w>
+    <w ref="5.25" lemma="pituita" pos="NOMcom" msd="Case=Acc|Numb=Sing">pituitam</w>
+    <w ref="5.25" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="5.25" lemma="oculus" pos="NOMcom" msd="Case=Acc|Numb=Plur">oculos</w>
+    <w ref="5.25" lemma="decurro" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">decurrentem</w>
+    <w ref="5.25" lemma="teneo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tenent</w>
+    <w ref="5.25" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

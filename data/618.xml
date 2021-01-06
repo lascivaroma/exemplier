@@ -1,0 +1,28 @@
+<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
+  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>II.126-II.126</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.126-II.126" type="part">
+    <w ref="II.126" lemma="quotiens2" pos="ADVint" msd="MORPH=empty">quotiens</w>
+    <w ref="II.126" lemma="ergo2" pos="CONcoo" msd="MORPH=empty">ergo</w>
+    <w ref="II.126" lemma="affor" pos="ADJqua" msd="Case=Gen|Numb=Sing">afforis</w>
+    <w ref="II.126" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="II.126" lemma="pinnaculum" pos="NOMcom" msd="Case=Abl|Numb=Plur">pinnaculis</w>
+    <w ana="#female #cunnus #labia" ref="II.126" lemma="fibra" pos="NOMcom" msd="Case=Gen|Numb=Plur">fibrarum</w>
+    <w ref="II.126" lemma="connaturatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">connaturatione</w>
+    <w ref="II.126" lemma="obstrusio" pos="NOMcom" msd="Case=Nom|Numb=Sing">obstrusio</w>
+    <w ref="II.126" lemma="facio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">facta</w>
+    <w ref="II.126" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">fuerit</w>
+    <w ref="II.126" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.126" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Plur">mulieres</w>
+    <w ref="II.126" lemma="impedio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">impediuntur</w>
+    <w ref="II.126" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="II.126" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ref="II.126" lemma="uir" pos="NOMcom" msd="Case=Gen|Numb=Plur">virorum</w>
+    <w ref="II.126" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="II.126" lemma="ad1" pos="ADV" msd="MORPH=empty">ad</w>
+    <w ref="II.126" lemma="purgatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">purgationem</w>
+    <w ref="II.126" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="II.126" lemma="ad1" pos="ADV" msd="MORPH=empty">ad</w>
+    <w ref="II.126" lemma="concipio" pos="NOMcom" msd="Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">conceptum</w>
+    <w ref="II.126" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

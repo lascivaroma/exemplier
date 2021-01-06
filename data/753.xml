@@ -1,0 +1,43 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Octavia</title>, <biblScope>368-375</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi010.perseus-lat2:368-375" type="line">
+    <w ref="368" lemma="caedes" pos="NOMcom" msd="Case=Gen|Numb=Sing">caedis</w>
+    <w ref="368" lemma="morior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">moriens</w>
+    <w ref="368" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="368" lemma="minister1" pos="NOMcom" msd="Case=Acc|Numb=Sing">ministrum</w>
+    <w ref="369" lemma="rogo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">rogat</w>
+    <w ref="369" lemma="infelix" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">infelix</w>
+    <w ref="369" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#female #cunnus #womb" ref="370" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="370" lemma="dirus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">dirum</w>
+    <w ref="370" lemma="condo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">condat</w>
+    <w ref="370" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="370" lemma="ensis" pos="NOMcom" msd="Case=Acc|Numb=Sing">ensem</w>
+    <w ref="370" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="371" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="371" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
+    <w ref="371" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="371" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="371" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
+    <w ref="371" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="371" lemma="fodio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Adj|Voice=Pass">fodiendus</w>
+    <w ref="371" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="371" lemma="aio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ait</w>
+    <w ref="372" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="372" lemma="ferrum" pos="NOMcom" msd="Case=Abl|Numb=Sing">ferro</w>
+    <w ref="372" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="372" lemma="monstrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">monstrum</w>
+    <w ref="372" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="372" lemma="talis" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">tale</w>
+    <w ref="372" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tulit</w>
+    <w ref="373" lemma="post2" pos="PRE" msd="MORPH=empty">post</w>
+    <w ref="373" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">hanc</w>
+    <w ref="373" lemma="uox" pos="NOMcom" msd="Case=Acc|Numb=Sing">vocem</w>
+    <w ref="374" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="374" lemma="superus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Sup">supremo</w>
+    <w ref="374" lemma="misceo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">mixtam</w>
+    <w ref="374" lemma="gemitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">gemitu</w>
+    <w ref="375" lemma="anima" pos="NOMcom" msd="Case=Acc|Numb=Sing">animam</w>
+    <w ref="375" lemma="tandem" pos="ADV" msd="Deg=Pos">tandem</w>
+  </quote>
+</div>

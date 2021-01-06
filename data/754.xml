@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Octavia</title>, <biblScope>590-591</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi010.perseus-lat2:590-591" type="line">
+    <w ref="590" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="590" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ref="590" lemma="populus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">populi</w>
+    <w ref="590" lemma="uotum" pos="NOMcom" msd="Case=Acc|Numb=Plur">vota</w>
+    <w ref="590" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="590" lemma="pridem" pos="ADV" msd="Deg=Pos">pridem</w>
+    <w ref="590" lemma="moror1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">moror</w>
+    <w ref="590" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="591" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="591" lemma="porto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">portet</w>
+    <w ana="#female #cunnus #womb" ref="591" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="591" lemma="pignus" pos="NOMcom" msd="Case=Acc|Numb=Sing">pignus</w>
+    <w ref="591" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="591" lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Sing">partem</w>
+    <w ref="591" lemma="meus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=Masc">mei</w>
+    <w ref="591" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

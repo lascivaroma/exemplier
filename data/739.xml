@@ -1,0 +1,31 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Hercules Oetaeus</title>, <biblScope>1667-1670</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi009.perseus-lat2:1667-1670" type="line">
+    <w ref="1667" lemma="ingemisco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">ingemuit</w>
+    <w ref="1667" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">omnis</w>
+    <w ref="1667" lemma="turba" pos="NOMcom" msd="Case=Nom|Numb=Sing">turba</w>
+    <w ref="1667" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="1667" lemma="lacrima" pos="NOMcom" msd="Case=Acc|Numb=Plur">lacrimas</w>
+    <w ref="1667" lemma="dolor" pos="NOMcom" msd="Case=Nom|Numb=Sing">dolor</w>
+    <w ref="1668" lemma="quisquam" pos="PROind" msd="Case=Dat|Numb=Sing|Gend=Com">cuiquam</w>
+    <w ref="1668" lemma="remitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">remisit</w>
+    <w ref="1668" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1668" lemma="mater" pos="NOMcom" msd="Case=Nom|Numb=Sing">mater</w>
+    <w ref="1668" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1668" lemma="luctus" pos="NOMcom" msd="Case=Acc|Numb=Sing">luctum</w>
+    <w ref="1668" lemma="furo" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">furens</w>
+    <w ref="1669" lemma="diduco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">diduxit</w>
+    <w ref="1669" lemma="auidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">avidum</w>
+    <w ref="1669" lemma="pectus" pos="NOMcom" msd="Case=Acc|Numb=Sing">pectus</w>
+    <w ref="1669" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ana="#female #cunnus #womb" ref="1669" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="1669" lemma="tenus2" pos="PRE" msd="MORPH=empty">tenus</w>
+    <w ref="1670" lemma="exsero2" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">exerta</w>
+    <w ref="1670" lemma="uastus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">vastos</w>
+    <w ref="1670" lemma="uber1" pos="NOMcom" msd="Case=Acc|Numb=Plur">ubera</w>
+    <w ref="1670" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1670" lemma="planctus" pos="NOMcom" msd="Case=Acc|Numb=Plur">planctus</w>
+    <w ref="1670" lemma="ferio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ferit</w>
+    <w ref="1670" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

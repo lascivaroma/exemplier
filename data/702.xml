@@ -1,0 +1,66 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>2.24-2.24</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:2.24-2.24" type="chapter">
+    <w ref="2.24" lemma="uterque" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">utraque</w>
+    <w ref="2.24" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="2.24" lemma="assus" pos="NOMcom" msd="Case=Nom|Numb=Sing">assa</w>
+    <w ref="2.24" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="2.24" lemma="elixus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">elixa</w>
+    <w ref="2.24" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.24" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="2.24" lemma="domesticus2" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">domesticis</w>
+    <w ref="2.24" lemma="animal" pos="NOMcom" msd="Case=Abl|Numb=Plur">animalibus</w>
+    <w ref="2.24" lemma="bubulus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">bubula</w>
+    <w ref="2.24" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.24" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="2.24" lemma="quis2" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="2.24" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="2.24" lemma="ceterus" pos="NOMcom" msd="Case=Abl|Numb=Plur">ceteris</w>
+    <w ref="2.24" lemma="sumo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">sumitur</w>
+    <w ref="2.24" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.24" lemma="macer" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">macrum</w>
+    <w ref="2.24" lemma="potius" pos="ADV" msd="Deg=Comp">potius</w>
+    <w ref="2.24" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="2.24" lemma="pinguis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">pingue</w>
+    <w ref="2.24" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.24" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="2.24" lemma="suus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sue</w>
+    <w ref="2.24" lemma="ungula" pos="NOMcom" msd="Case=Gen|Numb=Sing">ungulae</w>
+    <w ref="2.24" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.24" lemma="rostrum" pos="NOMcom" msd="Case=Nom|Numb=Plur">rostra</w>
+    <w ref="2.24" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.24" lemma="auris" pos="NOMcom" msd="Case=Nom|Numb=Plur">aures</w>
+    <w ref="2.24" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#female #cunnus #womb" ref="2.24" lemma="uolua" pos="NOMcom" msd="Case=Nom|Numb=Plur">volvae</w>
+    <w ref="2.24" lemma="sterilis" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">sterilesque</w>
+    <w ref="2.24" lemma="que" pos="CON" msd="MORPH=empty">{sterilesque}</w>
+    <w ref="2.24" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.24" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="2.24" lemma="olus" pos="NOMcom" msd="Case=Abl|Numb=Plur">holeribus</w>
+    <w ref="2.24" lemma="intus1" pos="ADV" msd="Deg=Pos">intubus</w>
+    <w ref="2.24" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.24" lemma="lactuca" pos="NOMcom" msd="Case=Nom|Numb=Sing">lactuca</w>
+    <w ref="2.24" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.24" lemma="pastinacus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">pastinaca</w>
+    <w ref="2.24" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.24" lemma="cucurbita" pos="NOMcom" msd="Case=Nom|Numb=Sing">cucurbita</w>
+    <w ref="2.24" lemma="elixus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem">elixa</w>
+    <w ref="2.24" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.24" lemma="siser" pos="ADJqua" msd="Case=Nom|Numb=Sing">siser</w>
+    <w ref="2.24" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.24" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="2.24" lemma="pomum" pos="NOMcom" msd="Case=Abl|Numb=Plur">pomis</w>
+    <w ref="2.24" lemma="cerasium" pos="NOMcom" msd="Case=Nom|Numb=Sing">cerasium</w>
+    <w ref="2.24" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.24" lemma="mos" pos="NOMcom" msd="Case=Gen|Numb=Plur">morum</w>
+    <w ref="2.24" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.24" lemma="sorbus" pos="NOMcom" msd="Case=Nom|Numb=Sing">sorbum</w>
+    <w ref="2.24" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.24" lemma="pirum" pos="NOMcom" msd="Case=Nom|Numb=Sing">pirum</w>
+    <w ref="2.24" lemma="fragilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">fragile</w>
+    <w ref="2.24" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.24" lemma="qualis1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quale</w>
+    <w ref="2.24" lemma="crustuminus" pos="NOMcom" msd="Case=Gen|Numb=Plur">Crustuminum</w>
+    <w ref="2.24" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+  </quote>
+</div>

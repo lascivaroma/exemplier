@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>5.21-5.21</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:5.21-5.21" type="chapter">
+    <w ref="5.21" lemma="ad2" pos="PRE" msd="MORPH=empty">Ad</w>
+    <w ana="#female #cunnus #womb" ref="5.21" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="5.21" lemma="mollio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">mollienda</w>
+    <w ref="5.21" lemma="ouum" pos="NOMcom" msd="Case=Gen|Numb=Sing">ovi</w>
+    <w ref="5.21" lemma="uitellus" pos="NOMcom" msd="Case=Nom|Numb=Sing">vitellus</w>
+    <w ref="5.21" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.21" lemma="foenus" pos="NOMcom" msd="Case=Acc|Numb=Sing">foenum</w>
+    <w ref="5.21" lemma="Graecus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">Graecum</w>
+    <w ref="5.21" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.21" lemma="rosa" pos="NOMcom" msd="Case=Nom|Numb=Sing">rosa</w>
+    <w ref="5.21" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.21" lemma="crocus" pos="NOMcom" msd="Case=Acc|Numb=Sing">crocum</w>
+    <w ref="5.21" lemma="tempero" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">temperantur</w>
+    <w ref="5.21" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

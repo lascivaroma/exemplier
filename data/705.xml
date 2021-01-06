@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>7.29-7.29</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:7.29-7.29" type="chapter">
+    <w ref="7.29" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Neut">omnia</w>
+    <w ref="7.29" lemma="resupina" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">resupinam</w>
+    <w ref="7.29" lemma="mulier" pos="NOMcom" msd="Case=Acc|Numb=Sing">mulierem</w>
+    <w ref="7.29" lemma="transuersus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">transverso</w>
+    <w ref="7.29" lemma="lectus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">lecto</w>
+    <w ref="7.29" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+    <w ref="7.29" lemma="colloco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">collocare</w>
+    <w ref="7.29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.29" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="7.29" lemma="femina" pos="NOMcom" msd="Case=Dat|Numb=Plur">feminibus</w>
+    <w ref="7.29" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="7.29" lemma="ipse" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">ipsius</w>
+    <w ref="7.29" lemma="ilia" pos="NOMcom" msd="Case=Nom|Numb=Plur">ilia</w>
+    <w ref="7.29" lemma="comprimo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">conprimantur</w>
+    <w ref="7.29" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="7.29" lemma="qui1" pos="PROrel" msd="Case=Abl">quo</w>
+    <w ref="7.29" lemma="fio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fit</w>
+    <w ref="7.29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.29" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="7.29" lemma="et1" pos="ADV" msd="MORPH=empty">et</w>
+    <w ref="7.29" lemma="inferus" pos="VER" msd="Case=Nom|Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1">imus</w>
+    <w ref="7.29" lemma="uenter" pos="NOMcom" msd="Case=Nom|Numb=Sing">venter</w>
+    <w ref="7.29" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="7.29" lemma="conspectus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">conspectu</w>
+    <w ref="7.29" lemma="medicus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">medici</w>
+    <w ref="7.29" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="7.29" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="7.29" lemma="infans1" pos="NOMcom" msd="Case=Nom|Numb=Sing">infans</w>
+    <w ref="7.29" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="7.29" lemma="os1" pos="NOMcom" msd="Case=Acc|Numb=Sing">os</w>
+    <w ana="#female #cunnus #womb" ref="7.29" lemma="uolua" pos="NOMcom" msd="Case=Gen|Numb=Sing">volvae</w>
+    <w ref="7.29" lemma="compello?" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">conpellatur</w>
+    <w ref="7.29" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

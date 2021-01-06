@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Tacitus, Cornelius</author>, <title>Annales</title>, <biblScope>15.23-15.23</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1351.phi005.lascivaroma-lat1:15.23-15.23" type="chapter">
+    <w ref="15.23" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="15.23" lemma="senatus" pos="NOMcom" msd="Case=Nom|Numb=Sing">senatus</w>
+    <w ana="#female #cunnus #womb" ref="15.23" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="15.23" lemma="poppaea" pos="NOMcom" msd="Case=Gen|Numb=Sing">Poppaeae</w>
+    <w ref="15.23" lemma="commendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">commendaverat</w>
+    <w ref="15.23" lemma="deus" pos="NOMcom" msd="Case=Dat|Numb=Plur">dis</w>
+    <w ref="15.23" lemma="uotum" pos="NOMcom" msd="Case=Acc|Numb=Plur">votaque</w>
+    <w ref="15.23" lemma="que" pos="CON" msd="MORPH=empty">{votaque}</w>
+    <w ref="15.23" lemma="publice" pos="ADV" msd="Deg=Pos">publice</w>
+    <w ref="15.23" lemma="suscipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">susceperat</w>
+    <w ref="15.23" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="15.23" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quae</w>
+    <w ref="15.23" lemma="multiplico" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">multiplicata</w>
+    <w ref="15.23" lemma="exsoluo" pos="VER" msd="Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">exolutaque</w>
+    <w ref="15.23" lemma="que" pos="CON" msd="MORPH=empty">{exolutaque}</w>
+    <w ref="15.23" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

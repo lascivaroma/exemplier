@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
+  <bibl><author>Mustio</author>, <title>Gynaecia</title>, <biblScope>203-203</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:temp0001.temp001.bolton-lat1:203-203" type="None">
+    <w ref="203" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="203" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="203" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="203" lemma="medium" pos="ADJqua" msd="Case=Abl|Numb=Sing">medio</w>
+    <w ref="203" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="203" lemma="pulpa" pos="NOMcom" msd="Case=Nom|Numb=Sing">pulpa</w>
+    <w ref="203" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="203" lemma="membranus" pos="NOMcom" msd="Case=Nom|Numb=Sing">membranum</w>
+    <w ref="203" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="203" lemma="post2" pos="PRE" msd="MORPH=empty">post</w>
+    <w ana="#female #cunnus #labia" ref="203" lemma="pinnacula" pos="NOMcom" msd="Case=Nom|Numb=Sing">pinnacula</w>
+    <w ref="203" lemma="immitto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">inmissus</w>
+    <w ref="203" lemma="digitus" pos="NOMcom" msd="Case=Nom|Numb=Sing">digitus</w>
+    <w ref="203" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="203" lemma="medium" pos="NOMcom" msd="Case=Abl|Numb=Sing">medio</w>
+    <w ref="203" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="203" lemma="admitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">admittitur</w>
+    <w ref="203" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

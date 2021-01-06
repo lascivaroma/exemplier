@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Statius, P. Papinius (Publius Papinius)</author>, <title>Thebais</title>, <biblScope>7.483-7.485</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1020.phi001.perseus-lat2:7.483-7.485" type="line">
+    <w ref="7.483" lemma="rogo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">rogat</w>
+    <w ref="7.483" lemma="impius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">impia</w>
+    <w ref="7.483" lemma="bellum" pos="NOMcom" msd="Case=Gen|Numb=Sing">belli</w>
+    <w ref="7.484" lemma="mater" pos="NOMcom" msd="Case=Nom|Numb=Sing">mater</w>
+    <w ref="7.484" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="7.484" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="7.484" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">his</w>
+    <w ref="7.484" lemma="aliquis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">aliquod</w>
+    <w ref="7.484" lemma="ius1" pos="NOMcom" msd="Case=Acc|Numb=Sing">ius</w>
+    <w ref="7.484" lemma="exsecrabilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">exsecrabile</w>
+    <w ref="7.484" lemma="castra2" pos="NOMcom" msd="Case=Dat|Numb=Plur">castris</w>
+    <w ref="7.485" lemma="hic1" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">huic</w>
+    <w ana="#female #cunnus #womb" ref="7.485" lemma="uterus" pos="NOMcom" msd="Case=Dat|Numb=Sing">utero</w>
+    <w ref="7.485" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.485" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

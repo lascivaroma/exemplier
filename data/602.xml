@@ -1,0 +1,39 @@
+<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
+  <bibl><author>Mustio</author>, <title>Gynaecia</title>, <biblScope>203-203</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:temp0001.temp001.bolton-lat1:203-203" type="None">
+    <w ref="203" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="203" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="203" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#female #cunnus #labia" ref="203" lemma="pinnacula" pos="NOMcom" msd="Case=Abl|Numb=Plur">pinnaculis</w>
+    <w ref="203" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ref="203" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="203" lemma="foris2" pos="ADV" msd="Case=Abl|Deg=Pos">foris</w>
+    <w ref="203" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="203" lemma="coero" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">coerentibus</w>
+    <w ref="203" lemma="claudo?" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">cluduntur</w>
+    <w ref="203" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="203" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="203" lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">ipsis</w>
+    <w ref="203" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ref="203" lemma="pateo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">patentibus</w>
+    <w ref="203" lemma="medius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">medio</w>
+    <w ref="203" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+    <w ref="203" lemma="muliebris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">muliebri</w>
+    <w ref="203" lemma="pulpa" pos="NOMcom" msd="Case=Nom|Numb=Sing">pulpa</w>
+    <w ref="203" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="203" lemma="membranum" pos="NOMcom" msd="Case=Nom|Numb=Sing">membranum</w>
+    <w ref="203" lemma="innascor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">innascitur</w>
+    <w ref="203" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="203" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="203" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="203" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="203" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+    <w ref="203" lemma="pateo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">patente</w>
+    <w ref="203" lemma="orificium" pos="NOMcom" msd="Case=Nom|Numb=Sing">orificium</w>
+    <w ref="203" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ref="203" lemma="claudo?" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">cluditur</w>
+    <w ref="203" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="203" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+    <w ref="203" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+  </quote>
+</div>

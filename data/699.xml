@@ -1,0 +1,33 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>5.26-5.26</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:5.26-5.26" type="chapter">
+    <w ref="5.26" lemma="at2" pos="CONcoo" msd="MORPH=empty">At</w>
+    <w ref="5.26" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ana="#female #cunnus #womb" ref="5.26" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
+    <w ref="5.26" lemma="percutio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">percussa</w>
+    <w ref="5.26" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="5.26" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.26" lemma="dolor" pos="NOMcom" msd="Case=Nom|Numb=Sing">dolor</w>
+    <w ref="5.26" lemma="inguen" pos="NOMcom" msd="Case=Dat|Numb=Plur">inguinibus</w>
+    <w ref="5.26" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.26" lemma="coxa" pos="NOMcom" msd="Case=Abl|Numb=Plur">coxis</w>
+    <w ref="5.26" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.26" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Plur">feminibus</w>
+    <w ref="5.26" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="5.26" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="5.26" lemma="sanguis" pos="NOMcom" msd="Case=Gen|Numb=Sing">sanguinis</w>
+    <w ref="5.26" lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing">pars</w>
+    <w ref="5.26" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="5.26" lemma="uulnus" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulnus</w>
+    <w ref="5.26" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.26" lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing">pars</w>
+    <w ref="5.26" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="5.26" lemma="naturalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">naturale</w>
+    <w ref="5.26" lemma="descendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">descendit</w>
+    <w ref="5.26" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="5.26" lemma="uomitus" pos="NOMcom" msd="Case=Nom|Numb=Sing">vomitus</w>
+    <w ref="5.26" lemma="bilis" pos="NOMcom" msd="Case=Nom|Numb=Sing">bilis</w>
+    <w ref="5.26" lemma="insequor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">insequitur</w>
+    <w ref="5.26" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

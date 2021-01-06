@@ -1,0 +1,40 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>5.21-5.21</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:5.21-5.21" type="chapter">
+    <w ref="5.21" lemma="bonus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Sup">Optuma</w>
+    <w ref="5.21" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="5.21" lemma="aduersus3" pos="PRE" msd="MORPH=empty">adversus</w>
+    <w ref="5.21" lemma="inflammatio" pos="NOMcom" msd="Case=Acc|Numb=Plur">inflammationes</w>
+    <w ana="#female #cunnus #womb" ref="5.21" lemma="uulua" pos="NOMcom" msd="Case=Gen|Numb=Sing">vulvae</w>
+    <w ref="5.21" lemma="numenia" pos="NOMcom" msd="Case=Gen|Numb=Sing">Numenii</w>
+    <w ref="5.21" lemma="compositio" pos="NOMcom" msd="Case=Nom|Numb=Sing">compositio</w>
+    <w ref="5.21" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="5.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.21" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="5.21" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habet</w>
+    <w ref="5.21" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="5.21" lemma="crocus" pos="NOMcom" msd="Case=Gen|Numb=Sing">croci</w>
+    <w ref="5.21" lemma="pondo" pos="NOMcom" msd="Case=Gen|Numb=Sing">P.</w>
+    <w ref="5.21" lemma="=" pos="PUNC" msd="MORPH=empty">=</w>
+    <w ref="5.21" lemma="-" pos="PUNC" msd="MORPH=empty">-</w>
+    <w ref="5.21" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="5.21" lemma="cera" pos="NOMcom" msd="Case=Gen|Numb=Sing">cerae</w>
+    <w ref="5.21" lemma="pondo" pos="NOMcom" msd="Case=Gen|Numb=Plur">P.</w>
+    <w ref="5.21" lemma="1" pos="ADJcar" msd="MORPH=empty">I</w>
+    <w ref="5.21" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="5.21" lemma="buturus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Masc|Deg=Pos">buturi</w>
+    <w ref="5.21" lemma="pes" pos="NOMcom" msd="Case=Gen|Numb=Plur">P.</w>
+    <w ref="5.21" lemma="8" pos="ADJcar" msd="MORPH=empty">VIII</w>
+    <w ref="5.21" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="5.21" lemma="adeps" pos="NOMcom" msd="Numb=Sing|Person=2">adipis</w>
+    <w ref="5.21" lemma="anser" pos="ADJqua" msd="Case=Gen|Numb=Sing|Deg=Pos">anserini</w>
+    <w ref="5.21" lemma="pes" pos="NOMcom" msd="Case=Acc|Numb=Plur">P.</w>
+    <w ref="5.21" lemma="12" pos="ADJcar" msd="MORPH=empty">XII</w>
+    <w ref="5.21" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="5.21" lemma="Uitellus" pos="NOMcom" msd="Case=Acc|Numb=Plur">vitellos</w>
+    <w ref="5.21" lemma="coquo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">coctos</w>
+    <w ref="5.21" lemma="duo" pos="ADJcar" msd="Case=Acc|Numb=Plur|Gend=Masc">duos</w>
+    <w ref="5.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.21" lemma="rosa" pos="NOMcom" msd="Case=Gen|Numb=Sing">rosae</w>
+  </quote>
+</div>

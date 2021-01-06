@@ -1,0 +1,32 @@
+<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
+  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>II.93-II.93</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.93-II.93" type="part">
+    <w ref="II.93" lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
+    <w ref="II.93" lemma="distentus?" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">distentis</w>
+    <w ana="#female #cunnus #labia" ref="II.93" lemma="fibra" pos="NOMcom" msd="Case=Abl|Numb=Plur">fibris</w>
+    <w ref="II.93" lemma="sinus" pos="NOMcom" msd="Case=Nom|Numb=Plur">sinus</w>
+    <w ref="II.93" lemma="femininus" pos="NOMcom" msd="Case=Gen|Numb=Sing">feminini</w>
+    <w ref="II.93" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="II.93" lemma="uterque" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">utraque</w>
+    <w ref="II.93" lemma="minister1" pos="NOMcom" msd="Case=Gen|Numb=Plur">ministrorum</w>
+    <w ref="II.93" lemma="officium" pos="NOMcom" msd="Case=Abl|Numb=Sing">officio</w>
+    <w ref="II.93" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.93" lemma="manus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">manus</w>
+    <w ref="II.93" lemma="sinister" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">sinistra</w>
+    <w ref="II.93" lemma="inhicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">inhiciatur</w>
+    <w ref="II.93" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="II.93" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="II.93" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="II.93" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="II.93" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">hoc</w>
+    <w ref="II.93" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ref="II.93" lemma="dextera" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">dextre</w>
+    <w ref="II.93" lemma="prepono" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">preponenda</w>
+    <w ref="II.93" lemma="facilitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">facilitatis</w>
+    <w ref="II.93" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="II.93" lemma="munde" pos="NOMcom" msd="Case=Abl|Numb=Sing">munde</w>
+    <w ref="II.93" lemma="operatio" pos="NOMcom" msd="Case=Gen|Numb=Sing">operationis</w>
+    <w ref="II.93" lemma="causa" pos="NOMcom" msd="Case=Abl|Numb=Sing">causa</w>
+    <w ref="II.93" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

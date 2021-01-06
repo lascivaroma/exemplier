@@ -1,0 +1,13 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Pliny, the Younger</author>, <title>Epistulae</title>, <biblScope>8.11.2-8.11.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1318.phi001.perseus-lat1:8.11.2-8.11.2" type="section">
+    <w ref="8.11.2" lemma="inde" pos="ADV" msd="Deg=Pos">Inde</w>
+    <w ref="8.11.2" lemma="abortus" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc">abortus</w>
+    <w ref="8.11.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="8.11.2" lemma="ignoro" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">ignorati</w>
+    <w ana="#female #cunnus #womb" ref="8.11.2" lemma="uterus" pos="NOMcom" msd="Case=Dat|Numb=Sing">uteri</w>
+    <w ref="8.11.2" lemma="tristis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">triste</w>
+    <w ref="8.11.2" lemma="experimentum" pos="NOMcom" msd="Case=Acc|Numb=Sing">experimentum</w>
+    <w ref="8.11.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

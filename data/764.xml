@@ -1,0 +1,58 @@
+<div type="fragment" corresp="adams:103" ana="#female #cunnus #clitoris">
+  <bibl><author>Juvenal</author>, <title>Satires</title>, <biblScope>6.124-6.132</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.124-6.132" type="line">
+    <w ref="6.124" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.125" lemma="excipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">excepit</w>
+    <w ref="6.125" lemma="blandus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">blanda</w>
+    <w ref="6.125" lemma="intro1" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">intrantis</w>
+    <w ref="6.125" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="6.125" lemma="aes" pos="NOMcom" msd="Case=Acc|Numb=Plur">aera</w>
+    <w ref="6.125" lemma="posco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">poposcit</w>
+    <w ref="6.125" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="6.127" lemma="mox" pos="ADV" msd="Deg=Pos">mox</w>
+    <w ref="6.127" lemma="leno1" pos="NOMcom" msd="Case=Abl|Numb=Sing">lenone</w>
+    <w ref="6.127" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Plur|Gend=Fem">suas</w>
+    <w ref="6.127" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="6.127" lemma="dimitto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">dimittente</w>
+    <w ref="6.127" lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Plur">puellas</w>
+    <w ref="6.128" lemma="tristis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">tristis</w>
+    <w ref="6.128" lemma="abeo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">abit</w>
+    <w ref="6.128" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.128" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.128" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="6.128" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">potuit</w>
+    <w ref="6.128" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="6.128" lemma="ultimus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">ultima</w>
+    <w ref="6.128" lemma="cella" pos="NOMcom" msd="Case=Acc|Numb=Sing">cellam</w>
+    <w ref="6.129" lemma="claudo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">clausit</w>
+    <w ref="6.129" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.129" lemma="adhuc" pos="ADV" msd="Deg=Pos">adhuc</w>
+    <w ref="6.129" lemma="ardeo" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos|Mood=Par|Tense=Pres|Voice=Act">ardens</w>
+    <w ref="6.129" lemma="rigidus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">rigidae</w>
+    <w ref="6.129" lemma="tentigo" pos="NOMcom" msd="Case=Abl|Numb=Sing">tentigine</w>
+    <w ref="6.129" lemma="ne2" pos="ADV" msd="MORPH=empty">{tentigine}</w>
+    <w ana="#female #cunnus #womb" ref="6.129" lemma="uolua" pos="NOMcom" msd="Case=Gen|Numb=Sing">volvae</w>
+    <w ref="6.129" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.130" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.130" lemma="lasso" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">lassata</w>
+    <w ref="6.130" lemma="uis" pos="NOMcom" msd="Case=Abl|Numb=Plur">viris</w>
+    <w ref="6.130" lemma="necdum2" pos="CONcoo" msd="MORPH=empty">necdum</w>
+    <w ref="6.130" lemma="satio2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">satiata</w>
+    <w ref="6.130" lemma="recedo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">recessit</w>
+    <w ref="6.130" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.131" lemma="obscurus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">obscurisque</w>
+    <w ref="6.131" lemma="que" pos="CON" msd="MORPH=empty">{obscurisque}</w>
+    <w ref="6.131" lemma="gena" pos="NOMcom" msd="Case=Abl|Numb=Plur">genis</w>
+    <w ref="6.131" lemma="turpis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">turpis</w>
+    <w ref="6.131" lemma="fumus" pos="NOMcom" msd="Case=Abl|Numb=Sing">fumoque</w>
+    <w ref="6.131" lemma="que" pos="CON" msd="MORPH=empty">{fumoque}</w>
+    <w ref="6.131" lemma="lucerna" pos="NOMcom" msd="Case=Gen|Numb=Sing">lucernae</w>
+    <w ref="6.132" lemma="foedus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">foeda</w>
+    <w ref="6.132" lemma="lupanar" pos="NOMcom" msd="Case=Gen|Numb=Sing">lupanaris</w>
+    <w ref="6.132" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tulit</w>
+    <w ref="6.132" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="6.132" lemma="puluinar" pos="NOMcom" msd="Case=Acc|Numb=Sing">pulvinar</w>
+    <w ref="6.132" lemma="odor" pos="NOMcom" msd="Case=Acc|Numb=Sing">odorem</w>
+    <w ref="6.132" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

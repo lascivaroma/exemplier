@@ -1,0 +1,27 @@
+<div type="fragment" corresp="adams:104" ana="#female #cunnus #vagina">
+  <bibl><author>Isidore de Séville</author>, <title>Étymologies</title>, <biblScope>11.1-11.1</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0159.stoa004.thayer-lat1:11.1-11.1" type="entry">
+    <w ana="#female #cunnus #vagina" ref="11.1" lemma="uulua" pos="NOMcom" msd="Case=Nom|Numb=Sing">Vulva</w>
+    <w ref="11.1" lemma="uoco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">vocata</w>
+    <w ref="11.1" lemma="quasi1" pos="ADVrel" msd="MORPH=empty">quasi</w>
+    <w ref="11.1" lemma="ualua" pos="NOMcom" msd="Case=Nom|Numb=Sing">valva</w>
+    <w ref="11.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.1" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="11.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="11.1" lemma="ianua" pos="NOMcom" msd="Case=Nom|Numb=Sing">ianua</w>
+    <w ref="11.1" lemma="uenter" pos="NOMcom" msd="Case=Gen|Numb=Sing">ventris</w>
+    <w ref="11.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.1" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="11.1" lemma="qui1" pos="CONsub" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="11.1" lemma="semen1" pos="NOMcom" msd="Case=Acc|Numb=Sing">semen</w>
+    <w ref="11.1" lemma="recipio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">recipiat</w>
+    <w ref="11.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.1" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="11.1" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="11.1" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="11.1" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">ea</w>
+    <w ref="11.1" lemma="foetus" pos="NOMcom" msd="Case=Nom|Numb=Sing">foetus</w>
+    <w ref="11.1" lemma="procedo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">procedat</w>
+    <w ref="11.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

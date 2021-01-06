@@ -1,0 +1,30 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Statius, P. Papinius (Publius Papinius)</author>, <title>Achilleis</title>, <biblScope>1.131-1.133</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1020.phi003.perseus-lat2:1.131-1.133" type="line">
+    <w ref="1.131" lemma="namque" pos="CONcoo" msd="MORPH=empty">namque</w>
+    <w ref="1.131" lemma="modo1" pos="ADV" msd="Deg=Pos">modo</w>
+    <w ref="1.131" lemma="infensus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">infensos</w>
+    <w ana="#female #cunnus #womb" ref="1.131" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="1.131" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="1.131" lemma="contuor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=1">contuor</w>
+    <w ref="1.131" lemma="ensis" pos="NOMcom" msd="Case=Acc|Numb=Plur">enses</w>
+    <w ref="1.131" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.132" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="1.132" lemma="planctus" pos="NOMcom" msd="Case=Abl|Numb=Sing">planctu</w>
+    <w ref="1.132" lemma="liueo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">livere</w>
+    <w ref="1.132" lemma="manus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">manus</w>
+    <w ref="1.132" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.132" lemma="modo1" pos="ADV" msd="Deg=Pos">modo</w>
+    <w ref="1.132" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.132" lemma="uber1" pos="NOMcom" msd="Case=Acc|Numb=Plur">ubera</w>
+    <w ref="1.132" lemma="saeuus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">saevas</w>
+    <w ref="1.133" lemma="eo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ire</w>
+    <w ref="1.133" lemma="fera" pos="VER" msd="Case=Acc|Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=2">feras</w>
+    <w ref="1.133" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="1.133" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
+    <w ref="1.133" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ref="1.133" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+    <w ref="1.133" lemma="nefas" pos="NOMcom" msd="Case=Ind">nefas</w>
+    <w ref="1.133" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

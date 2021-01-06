@@ -1,0 +1,33 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Tacitus, Cornelius</author>, <title>Annales</title>, <biblScope>1.59-1.59</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1351.phi005.lascivaroma-lat1:1.59-1.59" type="chapter">
+    <w ref="1.59" lemma="arminium" pos="NOMcom" msd="Case=Nom|Numb=Sing">Arminium</w>
+    <w ref="1.59" lemma="super2" pos="PRE" msd="MORPH=empty">super</w>
+    <w ref="1.59" lemma="insitus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">insitam</w>
+    <w ref="1.59" lemma="uiolentia" pos="NOMcom" msd="Case=Acc|Numb=Sing">violentiam</w>
+    <w ref="1.59" lemma="rapio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">rapta</w>
+    <w ref="1.59" lemma="uxor" pos="NOMcom" msd="Case=Nom|Numb=Sing">uxor</w>
+    <w ref="1.59" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.59" lemma="subiectus?" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">subiectus</w>
+    <w ref="1.59" lemma="seruitium" pos="NOMcom" msd="Case=Abl|Numb=Sing">servitio</w>
+    <w ref="1.59" lemma="uxor" pos="NOMcom" msd="Case=Gen|Numb=Sing">uxoris</w>
+    <w ana="#female #cunnus #womb" ref="1.59" lemma="uterus" pos="NOMcom" msd="Case=Nom|Numb=Sing">uterus</w>
+    <w ref="1.59" lemma="uecors" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">vaecordem</w>
+    <w ref="1.59" lemma="ago" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3">agebant</w>
+    <w ref="1.59" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.59" lemma="uolito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">volitabatque</w>
+    <w ref="1.59" lemma="que" pos="CON" msd="MORPH=empty">{volitabatque}</w>
+    <w ref="1.59" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="1.59" lemma="cheruscus" pos="NOMcom" msd="Case=Acc|Numb=Plur">Cheruscos</w>
+    <w ref="1.59" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.59" lemma="arma" pos="NOMcom" msd="Case=Acc|Numb=Plur">arma</w>
+    <w ref="1.59" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.59" lemma="segestes" pos="NOMcom" msd="Case=Acc|Numb=Sing">Segestem</w>
+    <w ref="1.59" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.59" lemma="arma" pos="NOMcom" msd="Case=Acc|Numb=Plur">arma</w>
+    <w ref="1.59" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.59" lemma="caesar" pos="NOMcom" msd="Case=Acc|Numb=Sing">Caesarem</w>
+    <w ref="1.59" lemma="posco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">poscens</w>
+    <w ref="1.59" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

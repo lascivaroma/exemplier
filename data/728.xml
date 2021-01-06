@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Apuleius</author>, <title>Metamorphoses</title>, <biblScope>4.21-4.21</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:4.21-4.21" type="chapter">
+    <w ref="4.21" lemma="lanius" pos="NOMcom" msd="Case=Nom|Numb=Sing">lanius</w>
+    <w ref="4.21" lemma="paulo" pos="ADV" msd="Deg=Pos">paulo</w>
+    <w ref="4.21" lemma="fidens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">fidentior</w>
+    <w ref="4.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#female #cunnus #womb" ref="4.21" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="4.21" lemma="bestia" pos="NOMcom" msd="Case=Gen|Numb=Sing">bestiae</w>
+    <w ref="4.21" lemma="reseco" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">resecto</w>
+    <w ref="4.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.21" lemma="ursa" pos="NOMcom" msd="Case=Gen|Numb=Sing">ursae</w>
+    <w ref="4.21" lemma="magnificus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">magnificum</w>
+    <w ref="4.21" lemma="despolio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">despoliavit</w>
+    <w ref="4.21" lemma="latro1" pos="NOMcom" msd="Case=Acc|Numb=Sing">latronem</w>
+    <w ref="4.21" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

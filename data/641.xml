@@ -1,0 +1,44 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>P. Vergilius Maro</author>, <title>Aeneid</title>, <biblScope>2.254-2.259</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi003.perseus-lat2:2.254-2.259" type="line">
+    <w ref="2.254" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.254" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="2.254" lemma="argiuus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Argiva</w>
+    <w ref="2.254" lemma="phalanx" pos="NOMcom" msd="Case=Nom|Numb=Sing">phalanx</w>
+    <w ref="2.254" lemma="instruo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">instructis</w>
+    <w ref="2.254" lemma="nauis" pos="NOMcom" msd="Case=Abl|Numb=Plur">navibus</w>
+    <w ref="2.254" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">ibat</w>
+    <w ref="2.255" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="2.255" lemma="tenedus" pos="NOMpro" msd="Case=Abl|Numb=Sing">Tenedo</w>
+    <w ref="2.255" lemma="tacitus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">tacitae</w>
+    <w ref="2.255" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="2.255" lemma="amica" pos="NOMcom" msd="Case=Acc|Numb=Plur">amica</w>
+    <w ref="2.255" lemma="silentium" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Neut">silentia</w>
+    <w ref="2.255" lemma="luna" pos="NOMcom" msd="Case=Gen|Numb=Sing">lunae</w>
+    <w ref="2.256" lemma="litus" pos="NOMcom" msd="Case=Acc|Numb=Plur">litora</w>
+    <w ref="2.256" lemma="notus2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">nota</w>
+    <w ref="2.256" lemma="peto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">petens</w>
+    <w ref="2.256" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.256" lemma="flamma" pos="NOMcom" msd="Case=Acc|Numb=Plur">flammas</w>
+    <w ref="2.256" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="2.256" lemma="regius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem">regia</w>
+    <w ref="2.256" lemma="puppis" pos="NOMcom" msd="Case=Nom|Numb=Sing">puppis</w>
+    <w ref="2.257" lemma="effero2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">extulerat</w>
+    <w ref="2.257" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.257" lemma="fatum" pos="NOMcom" msd="Case=Abl|Numb=Plur">fatisque</w>
+    <w ref="2.257" lemma="que" pos="CON" msd="MORPH=empty">{fatisque}</w>
+    <w ref="2.257" lemma="deus" pos="NOMcom" msd="Case=Gen|Numb=Plur">deum</w>
+    <w ref="2.257" lemma="defendo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">defensus</w>
+    <w ref="2.257" lemma="iniquus2" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">iniquis</w>
+    <w ref="2.258" lemma="includo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">inclusos</w>
+    <w ana="#female #cunnus #womb" ref="2.258" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="2.258" lemma="danaus" pos="NOMcom" msd="Case=Acc|Numb=Plur">Danaos</w>
+    <w ref="2.258" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.258" lemma="pineus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">pinea</w>
+    <w ref="2.258" lemma="furtim" pos="ADV" msd="Deg=Pos">furtim</w>
+    <w ref="2.259" lemma="laxo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">laxat</w>
+    <w ref="2.259" lemma="claustrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">claustra</w>
+    <w ref="2.259" lemma="sinon" pos="NOMcom" msd="Case=Acc|Numb=Sing">Sinon</w>
+    <w ref="2.259" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

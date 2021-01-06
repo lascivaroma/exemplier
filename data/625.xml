@@ -1,0 +1,36 @@
+<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
+  <bibl><author>Plautus, Titus Maccius</author>, <title>Stichus</title>, <biblScope>167-170</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi018.perseus-lat2:167-170" type="line">
+    <w ref="167" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="167" lemma="audito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">auditavi</w>
+    <w ref="167" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
+    <w ref="167" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="167" lemma="uulgo2" pos="ADV" msd="Deg=Pos">volgo</w>
+    <w ref="167" lemma="dico2" pos="VER" msd="Mood=Ind|Tense=Pres|Voice=Pass">dicier</w>
+    <w ref="167" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="168" lemma="soleo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=SemDep">solere</w>
+    <w ref="168" lemma="elephantus" pos="NOMcom" msd="Case=Acc|Numb=Sing">elephantum</w>
+    <w ref="168" lemma="grauidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">gravidam</w>
+    <w ref="168" lemma="perpetuus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">perpetuos</w>
+    <w ref="168" lemma="decem" pos="ADJcar" msd="Case=Ind">decem</w>
+    <w ref="169" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="169" lemma="annus" pos="NOMcom" msd="Case=Acc|Numb=Plur">annos</w>
+    <w ref="169" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="169" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="169" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="169" lemma="semen1" pos="NOMcom" msd="Case=Abl|Numb=Sing">sémine</w>
+    <w ref="169" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">haec</w>
+    <w ref="169" lemma="certus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">certost</w>
+    <w ref="169" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">{certost}</w>
+    <w ref="169" lemma="fames" pos="NOMcom" msd="Case=Nom|Numb=Sing">fames</w>
+    <w ref="169" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="170" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="170" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="170" lemma="complures2" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">complures</w>
+    <w ref="170" lemma="annus" pos="NOMcom" msd="Case=Acc|Numb=Plur">annos</w>
+    <w ana="#female #cunnus #labia" ref="170" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="170" lemma="haereo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">haeret</w>
+    <w ref="170" lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">meo</w>
+    <w ref="170" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

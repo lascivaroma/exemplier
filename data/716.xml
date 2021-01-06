@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Tacitus, Cornelius</author>, <title>Annales</title>, <biblScope>1.57-1.57</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1351.phi005.lascivaroma-lat1:1.57-1.57" type="chapter">
+    <w ref="1.57" lemma="nobilis2" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">nobiles</w>
+    <w ref="1.57" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.57" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="1.57" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">quas</w>
+    <w ref="1.57" lemma="uxor" pos="NOMcom" msd="Case=Nom|Numb=Sing">uxor</w>
+    <w ref="1.57" lemma="Arminius" pos="NOMcom" msd="Case=Gen|Numb=Sing">Arminii</w>
+    <w ref="1.57" lemma="idem" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">eademque</w>
+    <w ref="1.57" lemma="que" pos="CON" msd="MORPH=empty">{eademque}</w>
+    <w ref="1.57" lemma="filia" pos="NOMcom" msd="Case=Nom|Numb=Sing">filia</w>
+    <w ref="1.57" lemma="segestes" pos="NOMcom" msd="Case=Gen|Numb=Sing">Segestis</w>
+    <w ref="1.57" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.57" lemma="maritus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">mariti</w>
+    <w ref="1.57" lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
+    <w ref="1.57" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="1.57" lemma="parens1" pos="NOMcom" msd="Case=Gen|Numb=Sing">parentis</w>
+    <w ref="1.57" lemma="animus" pos="NOMcom" msd="Case=Abl|Numb=Sing">animo</w>
+    <w ref="1.57" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.57" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="1.57" lemma="uinco" pos="VER" msd="Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">victa</w>
+    <w ref="1.57" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.57" lemma="lacrima" pos="NOMcom" msd="Case=Acc|Numb=Plur">lacrimas</w>
+    <w ref="1.57" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="1.57" lemma="uox" pos="NOMcom" msd="Case=Abl|Numb=Sing">voce</w>
+    <w ref="1.57" lemma="supplex2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">supplex</w>
+    <w ref="1.57" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="1.57" lemma="comprimo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">compressis</w>
+    <w ref="1.57" lemma="intra2" pos="PRE" msd="MORPH=empty">intra</w>
+    <w ref="1.57" lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Sing">sinum</w>
+    <w ref="1.57" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">manibus</w>
+    <w ref="1.57" lemma="grauidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">gravidum</w>
+    <w ana="#female #cunnus #womb" ref="1.57" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="1.57" lemma="intueor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">intuens</w>
+    <w ref="1.57" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Juvenal</author>, <title>Satires</title>, <biblScope>11.77-11.81</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:11.77-11.81" type="line">
+    <w ref="11.77" lemma="luxuriosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">luxuriosa</w>
+    <w ref="11.77" lemma="senatus" pos="NOMcom" msd="Case=Nom|Numb=Sing">senatus</w>
+    <w ref="11.78" lemma="cena" pos="NOMcom" msd="Case=Nom|Numb=Sing">cena</w>
+    <w ref="11.78" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="11.78" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="11.78" lemma="curius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Comp">Curius</w>
+    <w ref="11.78" lemma="paruus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">parvo</w>
+    <w ref="11.78" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="11.78" lemma="lego2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">legerat</w>
+    <w ref="11.78" lemma="hortus" pos="NOMcom" msd="Case=Abl|Numb=Sing">horto</w>
+    <w ref="11.79" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ref="11.79" lemma="focus" pos="NOMcom" msd="Case=Dat|Numb=Plur">focis</w>
+    <w ref="11.79" lemma="breuis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">brevibus</w>
+    <w ref="11.79" lemma="pono" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">ponebat</w>
+    <w ref="11.79" lemma="oluscula" pos="NOMcom" msd="Case=Nom|Numb=Sing">holuscula</w>
+    <w ref="11.79" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.79" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="11.79" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="11.80" lemma="squalidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">squalidus</w>
+    <w ref="11.80" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="11.80" lemma="magnus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">magna</w>
+    <w ref="11.80" lemma="fastidio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fastidit</w>
+    <w ref="11.80" lemma="compes" pos="NOMcom" msd="Case=Abl|Numb=Sing">compede</w>
+    <w ref="11.80" lemma="fossor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fossor</w>
+    <w ref="11.80" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.81" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="11.81" lemma="memini" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">meminit</w>
+    <w ref="11.81" lemma="calidus" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=Fem|Deg=Pos">calidae</w>
+    <w ref="11.81" lemma="sapio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sapiat</w>
+    <w ref="11.81" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ana="#female #cunnus #womb" ref="11.81" lemma="uulua" pos="NOMcom" msd="Case=Nom|Numb=Sing">vulva</w>
+    <w ref="11.81" lemma="popina" pos="NOMcom" msd="Case=Gen|Numb=Sing">popinae</w>
+    <w ref="11.81" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,54 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Apuleius</author>, <title>Metamorphoses</title>, <biblScope>5.11-5.11</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:5.11-5.11" type="chapter">
+    <w ref="5.11" lemma="genuinus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">genuina</w>
+    <w ref="5.11" lemma="simplicitas" pos="NOMcom" msd="Case=Abl|Numb=Sing">simplicitate</w>
+    <w ref="5.11" lemma="pro" pos="PRE" msd="MORPH=empty">proque</w>
+    <w ref="5.11" lemma="que" pos="CON" msd="MORPH=empty">{proque}</w>
+    <w ref="5.11" lemma="animus" pos="NOMcom" msd="Case=Gen|Numb=Sing">animi</w>
+    <w ref="5.11" lemma="tuus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=MascNeut">tui</w>
+    <w ref="5.11" lemma="teneritudo" pos="NOMcom" msd="Case=Abl|Numb=Sing">teneritudine</w>
+    <w ref="5.11" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="5.11" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2">potueris</w>
+    <w ref="5.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.11" lemma="certe" pos="ADV" msd="Deg=Pos">certe</w>
+    <w ref="5.11" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="5.11" lemma="maritus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">marito</w>
+    <w ref="5.11" lemma="nihil" pos="PROind" msd="Case=Ind">nil</w>
+    <w ref="5.11" lemma="quisquam" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">quicquam</w>
+    <w ref="5.11" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="5.11" lemma="audio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">audias</w>
+    <w ref="5.11" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="5.11" lemma="respondeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">respondeas</w>
+    <w ref="5.11" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="5.11" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="5.11" lemma="et1" pos="ADV" msd="MORPH=empty">et</w>
+    <w ref="5.11" lemma="familia" pos="NOMcom" msd="Case=Acc|Numb=Sing">familiam</w>
+    <w ref="5.11" lemma="noster" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">nostram</w>
+    <w ref="5.11" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="5.11" lemma="propago2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=1">propagabimus</w>
+    <w ref="5.11" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.11" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
+    <w ref="5.11" lemma="adhuc" pos="ADV" msd="Deg=Pos">adhuc</w>
+    <w ref="5.11" lemma="infantilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">infantilis</w>
+    <w ana="#female #cunnus #womb" ref="5.11" lemma="uterus" pos="NOMcom" msd="Case=Nom|Numb=Sing">uterus</w>
+    <w ref="5.11" lemma="gesto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">gestat</w>
+    <w ref="5.11" lemma="nos" pos="PROper" msd="Case=Dat|Numb=Plur">nobis</w>
+    <w ref="5.11" lemma="infans1" pos="NOMcom" msd="Case=Acc|Numb=Sing">infantem</w>
+    <w ref="5.11" lemma="alius" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Masc">alium</w>
+    <w ref="5.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.11" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="5.11" lemma="tego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">texeris</w>
+    <w ref="5.11" lemma="noster" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">nostra</w>
+    <w ref="5.11" lemma="secretus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">secreta</w>
+    <w ref="5.11" lemma="silentium" pos="NOMcom" msd="Case=Abl|Numb=Sing">silentio</w>
+    <w ref="5.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.11" lemma="diuinus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">divinum</w>
+    <w ref="5.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.11" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="5.11" lemma="profano?" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">profanaveris</w>
+    <w ref="5.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.11" lemma="mortalis2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">mortalem</w>
+    <w ref="5.11" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

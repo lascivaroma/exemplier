@@ -1,0 +1,36 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Ovid</author>, <title>Metamorphoses</title>, <biblScope>10.495-10.498</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:10.495-10.498" type="line">
+    <w ref="10.495" lemma="iam" pos="ADV" msd="Deg=Pos">Iamque</w>
+    <w ref="10.495" lemma="que" pos="CON" msd="MORPH=empty">{Iamque}</w>
+    <w ref="10.495" lemma="grauis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">gravem</w>
+    <w ref="10.495" lemma="cresco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">crescens</w>
+    <w ana="#female #cunnus #womb" ref="10.495" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="10.495" lemma="perstringo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">perstrinxerat</w>
+    <w ref="10.495" lemma="arbor" pos="NOMcom" msd="Case=Nom|Numb=Sing">arbor</w>
+    <w ref="10.496" lemma="pectus" pos="NOMcom" msd="Case=Acc|Numb=Plur">pectoraque</w>
+    <w ref="10.496" lemma="que" pos="CON" msd="MORPH=empty">{pectoraque}</w>
+    <w ref="10.496" lemma="obruo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">obruerat</w>
+    <w ref="10.496" lemma="collum" pos="NOMcom" msd="Case=Acc|Numb=Sing">collumque</w>
+    <w ref="10.496" lemma="que" pos="CON" msd="MORPH=empty">{collumque}</w>
+    <w ref="10.496" lemma="operio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">operire</w>
+    <w ref="10.496" lemma="paro2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">parabat</w>
+    <w ref="10.496" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.497" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="10.497" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tulit</w>
+    <w ref="10.497" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="10.497" lemma="mora" pos="NOMcom" msd="Case=Acc|Numb=Sing">moram</w>
+    <w ref="10.497" lemma="uenio" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">venientique</w>
+    <w ref="10.497" lemma="que" pos="CON" msd="MORPH=empty">{venientique}</w>
+    <w ref="10.497" lemma="obuius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">obvia</w>
+    <w ref="10.497" lemma="lignum" pos="NOMcom" msd="Case=Abl|Numb=Sing">ligno</w>
+    <w ref="10.498" lemma="subsido" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">subsedit</w>
+    <w ref="10.498" lemma="mergo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">mersitque</w>
+    <w ref="10.498" lemma="que" pos="CON" msd="MORPH=empty">{mersitque}</w>
+    <w ref="10.498" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Plur|Gend=Masc">suos</w>
+    <w ref="10.498" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="10.498" lemma="cortex" pos="NOMcom" msd="Case=Abl|Numb=Sing">cortice</w>
+    <w ref="10.498" lemma="uultus" pos="NOMcom" msd="Case=Nom|Numb=Plur">vultus</w>
+    <w ref="10.498" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

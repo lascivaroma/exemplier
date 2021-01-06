@@ -1,0 +1,46 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Oedipus</title>, <biblScope>367-372</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi006.perseus-lat2:367-372" type="line">
+    <w ref="367" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="367" lemma="anima" pos="NOMcom" msd="Case=Gen|Numb=Sing">animae</w>
+    <w ref="367" lemma="capax" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">capax</w>
+    <w ref="368" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="368" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing">parte</w>
+    <w ref="368" lemma="dextera" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">dextra</w>
+    <w ref="368" lemma="pulmo" pos="NOMcom" msd="Case=Abl|Numb=Sing">pulmo</w>
+    <w ref="368" lemma="sanguineus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">sanguineus</w>
+    <w ref="368" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iacet</w>
+    <w ref="368" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="369" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="369" lemma="laeuus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">laeva</w>
+    <w ref="369" lemma="cor" pos="NOMcom" msd="Case=Dat|Numb=Sing">cordi</w>
+    <w ref="369" lemma="regio" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">regio</w>
+    <w ref="369" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="369" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="369" lemma="mollis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">molli</w>
+    <w ref="369" lemma="ambitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">ambitu</w>
+    <w ref="370" lemma="omentum" pos="NOMcom" msd="Case=Nom|Numb=Plur">omenta</w>
+    <w ref="370" lemma="pinguis" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">pingues</w>
+    <w ref="370" lemma="uiscus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">visceri</w>
+    <w ref="370" lemma="obtendo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">obtendunt</w>
+    <w ref="370" lemma="sinus" pos="NOMcom" msd="Case=Nom|Numb=Plur">sinus</w>
+    <w ref="370" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="371" lemma="natura" pos="NOMcom" msd="Case=Nom|Numb=Sing">natura</w>
+    <w ref="371" lemma="uerto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">versa</w>
+    <w ref="371" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="371" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="371" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">nulla</w>
+    <w ref="371" lemma="lex" pos="NOMcom" msd="Case=Nom|Numb=Sing">lex</w>
+    <w ana="#female #cunnus #womb" ref="371" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="371" lemma="maneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">manet</w>
+    <w ref="371" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="372" lemma="scrutor" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Dep|Person=1">scrutemur</w>
+    <w ref="372" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="372" lemma="unde1" pos="ADVrel" msd="MORPH=empty">unde</w>
+    <w ref="372" lemma="tantus" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">tantus</w>
+    <w ref="372" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">hic</w>
+    <w ref="372" lemma="exta" pos="NOMcom" msd="Case=Abl|Numb=Plur">extis</w>
+    <w ref="372" lemma="rigor" pos="NOMcom" msd="Case=Nom|Numb=Sing">rigor</w>
+    <w ref="372" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

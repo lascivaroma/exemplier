@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>7.29-7.29</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:7.29-7.29" type="chapter">
+    <w ref="7.29" lemma="igitur" pos="CONcoo" msd="MORPH=empty">Igitur</w>
+    <w ref="7.29" lemma="comprimo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">conpressa</w>
+    <w ana="#female #cunnus #womb" ref="7.29" lemma="uolua" pos="NOMcom" msd="Case=Abl|Numb=Sing">volva</w>
+    <w ref="7.29" lemma="conquiesco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">conquiescere</w>
+    <w ref="7.29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.29" lemma="hio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">hiante</w>
+    <w ref="7.29" lemma="leniter" pos="ADV" msd="Deg=Pos">leniter</w>
+    <w ref="7.29" lemma="traho" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">trahere</w>
+    <w ref="7.29" lemma="oportet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">oportet</w>
+    <w ref="7.29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.29" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="7.29" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="7.29" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Fem">has</w>
+    <w ref="7.29" lemma="occasio" pos="NOMcom" msd="Case=Acc|Numb=Plur">occasiones</w>
+    <w ref="7.29" lemma="paulatim" pos="ADV" msd="Deg=Pos">paulatim</w>
+    <w ref="7.29" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eum</w>
+    <w ref="7.29" lemma="educo2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">educere</w>
+    <w ref="7.29" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

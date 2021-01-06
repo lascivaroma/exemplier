@@ -1,0 +1,26 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Statius, P. Papinius (Publius Papinius)</author>, <title>Thebais</title>, <biblScope>3.154-3.156</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1020.phi001.perseus-lat2:3.154-3.156" type="line">
+    <w ref="3.154" lemma="uos" pos="PROper" msd="Case=Nom|Numb=Sing">vosne</w>
+    <w ref="3.154" lemma="ne2" pos="ADV" msd="MORPH=empty">{vosne}</w>
+    <w ref="3.154" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="3.154" lemma="potentia" pos="NOMcom" msd="Case=Nom|Numb=Sing">potentia</w>
+    <w ref="3.154" lemma="mater" pos="NOMcom" msd="Case=Gen|Numb=Sing">matris</w>
+    <w ref="3.154" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.155" lemma="uos" pos="PROper" msd="Case=Voc|Numb=Plur">vos</w>
+    <w ana="#female #cunnus #womb" ref="3.155" lemma="uterus" pos="NOMcom" msd="Case=Voc|Numb=Sing">uteri</w>
+    <w ref="3.155" lemma="fortuna" pos="NOMcom" msd="Case=Nom|Numb=Sing">fortuna</w>
+    <w ref="3.155" lemma="meus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=MascNeut">mei</w>
+    <w ref="3.155" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.155" lemma="qui1" pos="PROrel" msd="MORPH=empty">qua</w>
+    <w ref="3.155" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tangere</w>
+    <w ref="3.155" lemma="diuus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">divos</w>
+    <w ref="3.156" lemma="reor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Dep|Person=2">rebar</w>
+    <w ref="3.156" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.156" lemma="ogygius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">Ogygias</w>
+    <w ref="3.156" lemma="titulus" pos="NOMcom" msd="Case=Dat|Numb=Plur">titulis</w>
+    <w ref="3.156" lemma="anteeo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">anteire</w>
+    <w ref="3.156" lemma="parens1" pos="NOMcom" msd="Case=Acc|Numb=Plur">parentes</w>
+    <w ref="3.156" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

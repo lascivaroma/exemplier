@@ -1,0 +1,49 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Oedipus</title>, <biblScope>459-466b</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi006.perseus-lat2:459-466b" type="line">
+    <w ref="459" lemma="tum" pos="ADV" msd="Deg=Pos">Tum</w>
+    <w ref="459" lemma="pirata" pos="NOMcom" msd="Case=Nom|Numb=Sing">pirata</w>
+    <w ref="459" lemma="fretum" pos="NOMcom" msd="Case=Abl|Numb=Sing">freto</w>
+    <w ref="459" lemma="pauidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">pavidus</w>
+    <w ref="459" lemma="nato" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">natat</w>
+    <w ref="459" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="460" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="460" lemma="nouus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">nova</w>
+    <w ref="460" lemma="demergo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">demersos</w>
+    <w ref="460" lemma="facies" pos="NOMcom" msd="Case=Nom|Numb=Sing">facies</w>
+    <w ref="460" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habet</w>
+    <w ref="460" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="461" lemma="brachium" pos="NOMcom" msd="Case=Acc|Numb=Plur">bracchia</w>
+    <w ref="461" lemma="primus" pos="ADJord" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Sup">prima</w>
+    <w ref="461" lemma="cado" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cadunt</w>
+    <w ref="461" lemma="praedo" pos="NOMcom" msd="Case=Dat|Numb=Plur">praedonibus</w>
+    <w ref="462" lemma="illido" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">inlisumque</w>
+    <w ref="462" lemma="que" pos="CON" msd="MORPH=empty">{inlisumque}</w>
+    <w ana="#female #cunnus #womb" ref="462" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="462" lemma="pectus" pos="NOMcom" msd="Case=Acc|Numb=Sing">pectus</w>
+    <w ref="462" lemma="coeo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">coit</w>
+    <w ref="462" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="463" lemma="paruulus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">parvula</w>
+    <w ref="463" lemma="dependeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dependet</w>
+    <w ref="463" lemma="latus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">lateri</w>
+    <w ref="463" lemma="manus1" pos="NOMcom" msd="Case=Nom|Numb=Plur">manus</w>
+    <w ref="464" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="464" lemma="dorsum" pos="NOMcom" msd="Case=Abl|Numb=Sing">dorso</w>
+    <w ref="464" lemma="fluctus" pos="NOMcom" msd="Case=Acc|Numb=Sing">fluctum</w>
+    <w ref="464" lemma="curuus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">curvo</w>
+    <w ref="464" lemma="subeo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">subit</w>
+    <w ref="464" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="465" lemma="lunatus" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem">lunata</w>
+    <w ref="465" lemma="scindo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">scindit</w>
+    <w ref="465" lemma="cauda" pos="NOMcom" msd="Case=Nom|Numb=Sing">cauda</w>
+    <w ref="465" lemma="mare" pos="NOMcom" msd="Case=Nom|Numb=Sing">mare</w>
+    <w ref="465" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="466a" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="466a" lemma="sequor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">sequitur</w>
+    <w ref="466a" lemma="curuus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">curvus</w>
+    <w ref="466a" lemma="fugio" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act">fugientia</w>
+    <w ref="466b" lemma="carbasa" pos="NOMcom" msd="Case=Acc|Numb=Plur">carbasa</w>
+    <w ref="466b" lemma="delphin" pos="NOMcom" msd="Case=Nom|Numb=Sing">delphin</w>
+    <w ref="466b" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

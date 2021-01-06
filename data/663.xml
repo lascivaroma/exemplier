@@ -1,0 +1,41 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Statius, P. Papinius (Publius Papinius)</author>, <title>Thebais</title>, <biblScope>1.616-1.620</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1020.phi001.perseus-lat2:1.616-1.620" type="line">
+    <w ref="1.616" lemma="iuuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iuvat</w>
+    <w ref="1.616" lemma="eo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ire</w>
+    <w ref="1.616" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.616" lemma="uiso" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">visere</w>
+    <w ref="1.616" lemma="iuxta1" pos="ADV" msd="Deg=Pos">iuxta</w>
+    <w ref="1.617" lemma="liuens" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">liventes</w>
+    <w ref="1.617" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.617" lemma="mors" pos="NOMcom" msd="Case=Abl|Numb=Sing">morte</w>
+    <w ref="1.617" lemma="oculus" pos="NOMcom" msd="Case=Acc|Numb=Plur">oculos</w>
+    <w ana="#female #cunnus #womb" ref="1.617" lemma="uterus" pos="NOMcom" msd="Case=Gen|Numb=Sing">uterique</w>
+    <w ref="1.617" lemma="que" pos="CON" msd="MORPH=empty">{uterique}</w>
+    <w ref="1.617" lemma="nefandus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">nefandam</w>
+    <w ref="1.618" lemma="proluuies" pos="NOMcom" msd="Case=Acc|Numb=Sing">proluviem</w>
+    <w ref="1.618" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.618" lemma="crassus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">crasso</w>
+    <w ref="1.618" lemma="squaleo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act">squalentia</w>
+    <w ref="1.618" lemma="pectus" pos="NOMcom" msd="Case=Acc|Numb=Plur">pectora</w>
+    <w ref="1.618" lemma="tabum" pos="NOMcom" msd="Case=Abl|Numb=Sing">tabo</w>
+    <w ref="1.618" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.619" lemma="qua1" pos="PROrel" msd="MORPH=empty">qua</w>
+    <w ref="1.619" lemma="noster" pos="PROpos" msd="Case=Nom|Numb=Plur|Gend=Fem">nostrae</w>
+    <w ref="1.619" lemma="cado" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">cecidere</w>
+    <w ref="1.619" lemma="anima" pos="NOMcom" msd="Case=Dat|Numb=Sing">animae</w>
+    <w ref="1.619" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.619" lemma="stupeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">stupet</w>
+    <w ref="1.619" lemma="inacha" pos="NOMcom" msd="Case=Nom|Numb=Sing">Inacha</w>
+    <w ref="1.619" lemma="pubes1" pos="NOMcom" msd="Case=Nom|Numb=Sing">pubes</w>
+    <w ref="1.619" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.620" lemma="magnus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">magnaque</w>
+    <w ref="1.620" lemma="que" pos="CON" msd="MORPH=empty">{magnaque}</w>
+    <w ref="1.620" lemma="post2" pos="PRE" msd="MORPH=empty">post</w>
+    <w ref="1.620" lemma="lacrima" pos="NOMcom" msd="Case=Acc|Numb=Plur">lacrimas</w>
+    <w ref="1.620" lemma="etiamnunc" pos="ADV" msd="Deg=Pos">etiamnum</w>
+    <w ref="1.620" lemma="gaudium" pos="NOMcom" msd="Case=Acc|Numb=Plur">gaudia</w>
+    <w ref="1.620" lemma="palleo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pallent</w>
+    <w ref="1.620" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

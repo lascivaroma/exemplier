@@ -1,0 +1,30 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Silius Italicus, Tiberius Catius</author>, <title>Punica</title>, <biblScope>6.501-6.503</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1345.phi001.perseus-lat2:6.501-6.503" type="line">
+    <w ref="6.501" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="6.501" lemma="unus" pos="ADJcar" msd="Case=Nom|Numb=Sing|Gend=MascNeut">unum</w>
+    <w ref="6.501" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.501" lemma="coniux" pos="NOMcom" msd="Case=Nom|Numb=Sing">coniunx</w>
+    <w ref="6.501" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#female #cunnus #womb" ref="6.501" lemma="uterus" pos="NOMcom" msd="Case=Gen|Numb=Sing">uteri</w>
+    <w ref="6.501" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="6.501" lemma="pignus" pos="NOMcom" msd="Case=Acc|Numb=Plur">pignora</w>
+    <w ref="6.501" lemma="noster" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=MascNeut">nostri</w>
+    <w ref="6.502" lemma="unus" pos="ADJcar" msd="Case=Acc|Numb=Sing|Gend=MascNeut">unum</w>
+    <w ref="6.502" lemma="oro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">oro</w>
+    <w ref="6.502" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="6.502" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">liceat</w>
+    <w ref="6.502" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">tecum</w>
+    <w ref="6.502" lemma="cum3" pos="CON" msd="MORPH=empty">{tecum}</w>
+    <w ref="6.502" lemma="quicumque1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Masc">quoscumque</w>
+    <w ref="6.502" lemma="fero" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">ferentem</w>
+    <w ref="6.503" lemma="terra" pos="NOMcom" msd="Case=Gen|Numb=Plur">terrarum</w>
+    <w ref="6.503" lemma="pelagus" pos="NOMcom" msd="Case=Gen|Numb=Sing">pelagique</w>
+    <w ref="6.503" lemma="que" pos="CON" msd="MORPH=empty">{pelagique}</w>
+    <w ref="6.503" lemma="patior" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">pati</w>
+    <w ref="6.503" lemma="caelum" pos="NOMcom" msd="Case=Gen|Numb=Sing">caelique</w>
+    <w ref="6.503" lemma="que" pos="CON" msd="MORPH=empty">{caelique}</w>
+    <w ref="6.503" lemma="labor1" pos="NOMcom" msd="Case=Acc|Numb=Plur">labores</w>
+    <w ref="6.503" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

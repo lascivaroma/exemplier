@@ -1,0 +1,37 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Apuleius</author>, <title>Metamorphoses</title>, <biblScope>5.12-5.12</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:5.12-5.12" type="chapter">
+    <w ref="5.12" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.12" lemma="futurus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">futuri</w>
+    <w ref="5.12" lemma="pignus" pos="NOMcom" msd="Case=Gen|Numb=Sing">pignoris</w>
+    <w ref="5.12" lemma="gloria" pos="NOMcom" msd="Case=Nom|Numb=Sing">gloria</w>
+    <w ref="5.12" lemma="gestio2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">gestiebat</w>
+    <w ref="5.12" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.12" lemma="maternus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">materni</w>
+    <w ref="5.12" lemma="nomen" pos="NOMcom" msd="Case=Gen|Numb=Sing">nominis</w>
+    <w ref="5.12" lemma="dignitas" pos="NOMcom" msd="Case=Abl|Numb=Sing">dignitate</w>
+    <w ref="5.12" lemma="gaudeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=SemDep|Person=3">gaudebat</w>
+    <w ref="5.12" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="5.12" lemma="cresco" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">crescentes</w>
+    <w ref="5.12" lemma="dies" pos="NOMcom" msd="Case=Acc|Numb=Plur">dies</w>
+    <w ref="5.12" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.12" lemma="mensis" pos="NOMcom" msd="Case=Acc|Numb=Plur">menses</w>
+    <w ref="5.12" lemma="exeo1" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">exeuntes</w>
+    <w ref="5.12" lemma="anxius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">anxia</w>
+    <w ref="5.12" lemma="numero1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">numerat</w>
+    <w ref="5.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.12" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.12" lemma="sarcina" pos="NOMcom" msd="Case=Gen|Numb=Sing">sarcinae</w>
+    <w ref="5.12" lemma="nescius" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=Fem|Deg=Pos">nesciae</w>
+    <w ref="5.12" lemma="rudimentum" pos="NOMcom" msd="Case=Abl|Numb=Sing">rudimento</w>
+    <w ref="5.12" lemma="miror" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">miratur</w>
+    <w ref="5.12" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="5.12" lemma="breuis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">brevi</w>
+    <w ref="5.12" lemma="punctulum" pos="NOMcom" msd="Case=Abl|Numb=Sing">punctulo</w>
+    <w ref="5.12" lemma="tantum2" pos="ADV" msd="Numb=Sing|Gend=MascNeut|Deg=Pos">tantum</w>
+    <w ref="5.12" lemma="incrementulum" pos="NOMcom" msd="Case=Acc|Numb=Sing">incrementulum</w>
+    <w ref="5.12" lemma="locuples" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Com|Deg=Pos">locupletis</w>
+    <w ana="#female #cunnus #womb" ref="5.12" lemma="uterus" pos="NOMcom" msd="Case=Dat|Numb=Sing">uteri</w>
+    <w ref="5.12" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

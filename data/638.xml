@@ -1,0 +1,37 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>P. Vergilius Maro</author>, <title>Aeneid</title>, <biblScope>2.35-2.38</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi003.perseus-lat2:2.35-2.38" type="line">
+    <w ref="2.35" lemma="at2" pos="CONcoo" msd="MORPH=empty">At</w>
+    <w ref="2.35" lemma="capys" pos="NOMcom" msd="Case=Nom|Numb=Sing">Capys</w>
+    <w ref="2.35" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.35" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.35" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Plur|Gend=MascNeut">quorum</w>
+    <w ref="2.35" lemma="bonus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">melior</w>
+    <w ref="2.35" lemma="sententia" pos="NOMcom" msd="Case=Nom|Numb=Sing">sententia</w>
+    <w ref="2.35" lemma="mens" pos="NOMcom" msd="Case=Dat|Numb=Sing">menti</w>
+    <w ref="2.35" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.36" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="2.36" lemma="pelagus" pos="NOMcom" msd="Case=Abl|Numb=Sing">pelago</w>
+    <w ref="2.36" lemma="dana" pos="NOMcom" msd="Case=Gen|Numb=Plur">Danaum</w>
+    <w ref="2.36" lemma="insidiae" pos="NOMcom" msd="Case=Acc|Numb=Plur">insidias</w>
+    <w ref="2.36" lemma="suspectus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">suspectaque</w>
+    <w ref="2.36" lemma="que" pos="CON" msd="MORPH=empty">{suspectaque}</w>
+    <w ref="2.36" lemma="donum" pos="NOMcom" msd="Case=Acc|Numb=Plur">dona</w>
+    <w ref="2.37" lemma="praecipito" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">praecipitare</w>
+    <w ref="2.37" lemma="iubeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iubent</w>
+    <w ref="2.37" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.37" lemma="subiectus" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">subiectisque</w>
+    <w ref="2.37" lemma="que" pos="CON" msd="MORPH=empty">{subiectisque}</w>
+    <w ref="2.37" lemma="uro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">urere</w>
+    <w ref="2.37" lemma="flamma" pos="NOMcom" msd="Case=Abl|Numb=Plur">flammis</w>
+    <w ref="2.37" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.38" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="2.38" lemma="terebro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">terebrare</w>
+    <w ref="2.38" lemma="cauus2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">cavas</w>
+    <w ana="#female #cunnus #womb" ref="2.38" lemma="uterus" pos="NOMcom" msd="Case=Dat|Numb=Sing">uteri</w>
+    <w ref="2.38" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.38" lemma="tento" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">temptare</w>
+    <w ref="2.38" lemma="latebra" pos="NOMcom" msd="Case=Acc|Numb=Plur">latebras</w>
+    <w ref="2.38" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

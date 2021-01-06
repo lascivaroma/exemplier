@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Oedipus</title>, <biblScope>636-637</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi006.perseus-lat2:636-637" type="line">
+    <w ref="636" lemma="inuisus1" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">invisa</w>
+    <w ref="636" lemma="proles" pos="NOMcom" msd="Case=Nom|Numb=Sing">proles</w>
+    <w ref="636" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="636" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="636" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="636" lemma="malus3" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">peior</w>
+    <w ref="636" lemma="parens1" pos="NOMcom" msd="Case=Nom|Numb=Sing">parens</w>
+    <w ref="637" lemma="quam2" pos="ADVint" msd="MORPH=empty">quam</w>
+    <w ref="637" lemma="natus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">gnatus</w>
+    <w ref="637" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#female #cunnus #womb" ref="637" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="637" lemma="rursus" pos="ADV" msd="Deg=Pos">rursus</w>
+    <w ref="637" lemma="infaustus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">infausto</w>
+    <w ref="637" lemma="grauis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">gravis</w>
+    <w ref="637" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

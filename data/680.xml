@@ -1,0 +1,41 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Juvenal</author>, <title>Satires</title>, <biblScope>10.304-10.309</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:10.304-10.309" type="line">
+    <w ref="10.304" lemma="prodigus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">prodiga</w>
+    <w ref="10.304" lemma="corruptor" pos="NOMcom" msd="Case=Gen|Numb=Sing">corruptoris</w>
+    <w ref="10.305" lemma="improbitas" pos="NOMcom" msd="Case=Nom|Numb=Sing">improbitas</w>
+    <w ref="10.305" lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Masc">ipsos</w>
+    <w ref="10.305" lemma="audeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3">audet</w>
+    <w ref="10.305" lemma="tento" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">temptare</w>
+    <w ref="10.305" lemma="parens1" pos="NOMcom" msd="Case=Acc|Numb=Plur">parentes</w>
+    <w ref="10.305" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="10.306" lemma="tantus" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">tanta</w>
+    <w ref="10.306" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="10.306" lemma="munus" pos="NOMcom" msd="Case=Abl|Numb=Plur">muneribus</w>
+    <w ref="10.306" lemma="fiducia" pos="NOMcom" msd="Case=Abl|Numb=Sing">fiducia</w>
+    <w ref="10.306" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.306" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">nullus</w>
+    <w ref="10.306" lemma="ephebus" pos="NOMcom" msd="Case=Acc|Numb=Sing">ephebum</w>
+    <w ref="10.307" lemma="deformis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">deformem</w>
+    <w ref="10.307" lemma="saeuus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">saeva</w>
+    <w ref="10.307" lemma="castro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">castravit</w>
+    <w ref="10.307" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="10.307" lemma="arx" pos="NOMcom" msd="Case=Abl|Numb=Sing">arce</w>
+    <w ref="10.307" lemma="tyrannus" pos="NOMcom" msd="Case=Nom|Numb=Sing">tyrannus</w>
+    <w ref="10.307" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.308" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="10.308" lemma="praetextatus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">praetextatum</w>
+    <w ref="10.308" lemma="rapio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">rapuit</w>
+    <w ref="10.308" lemma="nerus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Nero</w>
+    <w ref="10.308" lemma="loripes" pos="NOMcom" msd="Case=Acc|Numb=Sing">loripedem</w>
+    <w ref="10.308" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="10.309" lemma="strumosus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">strumosum</w>
+    <w ref="10.309" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ana="#female #cunnus #womb" ref="10.309" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="10.309" lemma="pariter" pos="ADV" msd="Deg=Pos">pariter</w>
+    <w ref="10.309" lemma="gibbus" pos="NOMcom" msd="Case=Abl|Numb=Sing">gibboque</w>
+    <w ref="10.309" lemma="que" pos="CON" msd="MORPH=empty">{gibboque}</w>
+    <w ref="10.309" lemma="tumeo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">tumentem</w>
+    <w ref="10.309" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,34 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #voisinage #womb">
+  <bibl><author>Cicero</author>, <title>In Defense of Aulus Cluentius Habitus</title>, <biblScope>34-34</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi010.perseus-lat2:34-34" type="section">
+    <w ref="34" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing">quo</w>
+    <w ref="34" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="34" lemma="pretium" pos="NOMcom" msd="Case=Abl|Numb=Sing">pretio</w>
+    <w ref="34" lemma="accipio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">accepto</w>
+    <w ref="34" lemma="multus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">multisque</w>
+    <w ref="34" lemma="que" pos="CON" msd="MORPH=empty">{multisque}</w>
+    <w ref="34" lemma="praeterea" pos="ADV" msd="Deg=Pos">praeterea</w>
+    <w ref="34" lemma="munus" pos="NOMcom" msd="Case=Abl|Numb=Plur">muneribus</w>
+    <w ref="34" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="34" lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>
+    <w ref="34" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="34" lemma="tabula" pos="NOMcom" msd="Case=Abl|Numb=Plur">tabulis</w>
+    <w ref="34" lemma="oppianicus" pos="NOMcom" msd="Case=Gen|Numb=Sing">Oppianici</w>
+    <w ref="34" lemma="recito1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Pass|Person=3">recitabantur</w>
+    <w ref="34" lemma="spes" pos="NOMcom" msd="Case=Acc|Numb=Sing">spem</w>
+    <w ref="34" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
+    <w ref="34" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>
+    <w ref="34" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#female #cunnus #voisinage #womb" ref="34" lemma="aluus" pos="NOMcom" msd="Case=Abl|Numb=Sing">alvo</w>
+    <w ref="34" lemma="commendo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">commendatam</w>
+    <w ref="34" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="34" lemma="uir" pos="NOMcom" msd="Case=Abl|Numb=Sing">viro</w>
+    <w ref="34" lemma="contineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">continebat</w>
+    <w ref="34" lemma="uinco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">victa</w>
+    <w ref="34" lemma="auaritia" pos="NOMcom" msd="Case=Nom|Numb=Sing">avaritia</w>
+    <w ref="34" lemma="scelus" pos="NOMcom" msd="Case=Dat|Numb=Sing">sceleri</w>
+    <w ref="34" lemma="oppianicus" pos="NOMcom" msd="Case=Gen|Numb=Sing">Oppianici</w>
+    <w ref="34" lemma="uendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">vendidit</w>
+    <w ref="34" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

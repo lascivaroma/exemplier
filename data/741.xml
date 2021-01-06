@@ -1,0 +1,12 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Hercules Oetaeus</title>, <biblScope>1795-1796</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi009.perseus-lat2:1795-1796" type="line">
+    <w ref="1795" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fecit</w>
+    <w ref="1795" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
+    <w ref="1795" lemma="nascor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">natus</w>
+    <w ref="1795" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ana="#female #cunnus #womb" ref="1796" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="1796" lemma="timeo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">timendum</w>
+    <w ref="1796" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

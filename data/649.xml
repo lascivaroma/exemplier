@@ -1,0 +1,30 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Ovid</author>, <title>Metamorphoses</title>, <biblScope>3.268-3.270</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:3.268-3.270" type="line">
+    <w ref="3.268" lemma="manifestus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">manifestaque</w>
+    <w ref="3.268" lemma="que" pos="CON" msd="MORPH=empty">{manifestaque}</w>
+    <w ref="3.268" lemma="crimen" pos="NOMcom" msd="Case=Acc|Numb=Plur">crimina</w>
+    <w ref="3.268" lemma="plenus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">pleno</w>
+    <w ref="3.269" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fert</w>
+    <w ana="#female #cunnus #womb" ref="3.269" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="3.269" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.269" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.269" lemma="mater" pos="NOMcom" msd="Case=Nom|Numb=Sing">mater</w>
+    <w ref="3.269" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.269" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing">quod</w>
+    <w ref="3.269" lemma="uix" pos="ADV" msd="Deg=Pos">vix</w>
+    <w ref="3.269" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="3.269" lemma="contingo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">contigit</w>
+    <w ref="3.269" lemma="unus" pos="ADJcar" msd="Case=Abl|Numb=Sing|Gend=MascNeut">uno</w>
+    <w ref="3.270" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="3.270" lemma="Iuppiter" pos="NOMpro" msd="Case=Abl|Numb=Sing">Iove</w>
+    <w ref="3.270" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vult</w>
+    <w ref="3.270" lemma="fio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">fieri</w>
+    <w ref="3.270" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="3.270" lemma="tantus" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">tanta</w>
+    <w ref="3.270" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="3.270" lemma="fiducia" pos="NOMcom" msd="Case=Nom|Numb=Sing">fiducia</w>
+    <w ref="3.270" lemma="forma" pos="NOMcom" msd="Case=Gen|Numb=Sing">formae</w>
+    <w ref="3.270" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

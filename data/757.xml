@@ -1,0 +1,54 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Octavia</title>, <biblScope>932-941</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi010.perseus-lat2:932-941" type="line">
+    <w ref="932" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+    <w ref="932" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="932" lemma="primum" pos="ADJadv.ord" msd="Deg=Sup">primum</w>
+    <w ref="933" lemma="tot" pos="PROdem" msd="Case=Ind">tot</w>
+    <w ref="933" lemma="natus1" pos="NOMcom" msd="Case=Gen|Numb=Plur">natorum</w>
+    <w ref="933" lemma="memorandus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos|Mood=Adj|Voice=Pass">memoranda</w>
+    <w ref="933" lemma="parens1" pos="NOMcom" msd="Case=Nom|Numb=Sing">parens</w>
+    <w ref="933" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="934" lemma="nascor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">nata</w>
+    <w ref="934" lemma="agrippa" pos="NOMcom" msd="Case=Gen|Numb=Sing">Agrippae</w>
+    <w ref="934" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="934" lemma="nurus" pos="NOMcom" msd="Case=Nom|Numb=Sing">nurus</w>
+    <w ref="934" lemma="augustus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">Augusti</w>
+    <w ref="934" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="935" lemma="caesar" pos="NOMcom" msd="Case=Gen|Numb=Sing">Caesaris</w>
+    <w ref="935" lemma="uxor" pos="NOMcom" msd="Case=Nom|Numb=Sing">uxor</w>
+    <w ref="935" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="935" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
+    <w ref="935" lemma="nomen" pos="NOMcom" msd="Case=Nom|Numb=Sing">nomen</w>
+    <w ref="936" lemma="clarus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">clarum</w>
+    <w ref="936" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">toto</w>
+    <w ref="936" lemma="fulgeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fulsit</w>
+    <w ref="936" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="936" lemma="orbis" pos="NOMcom" msd="Case=Abl|Numb=Sing">orbe</w>
+    <w ref="936" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#female #cunnus #womb" ref="937" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="937" lemma="totiens" pos="ADV" msd="Deg=Pos">totiens</w>
+    <w ref="937" lemma="enitor2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Dep">enixa</w>
+    <w ref="937" lemma="grauis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">gravi</w>
+    <w ref="938" lemma="pignus" pos="NOMcom" msd="Case=Acc|Numb=Plur">pignora</w>
+    <w ref="938" lemma="pax" pos="NOMcom" msd="Case=Gen|Numb=Sing">pacis</w>
+    <w ref="938" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="939" lemma="mox" pos="ADV" msd="Deg=Pos">mox</w>
+    <w ref="939" lemma="exsilium" pos="NOMcom" msd="Case=Acc|Numb=Sing">exilium</w>
+    <w ref="939" lemma="uerber" pos="NOMcom" msd="Case=Acc|Numb=Plur">verbera</w>
+    <w ref="939" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="939" lemma="saeuus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">saevas</w>
+    <w ref="940" lemma="patior" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Dep">passa</w>
+    <w ref="940" lemma="catena" pos="NOMcom" msd="Case=Acc|Numb=Plur">catenas</w>
+    <w ref="940" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="940" lemma="funus" pos="NOMcom" msd="Case=Acc|Numb=Plur">funera</w>
+    <w ref="940" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="940" lemma="luctus" pos="NOMcom" msd="Case=Gen|Numb=Plur">luctus</w>
+    <w ref="940" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="941" lemma="tandem" pos="ADV" msd="Deg=Pos">tandem</w>
+    <w ref="941" lemma="letum" pos="NOMcom" msd="Case=Acc|Numb=Sing">letum</w>
+    <w ref="941" lemma="crucio" pos="VER" msd="Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">cruciata</w>
+    <w ref="941" lemma="diu" pos="ADV" msd="Deg=Pos">diu</w>
+    <w ref="941" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

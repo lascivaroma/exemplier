@@ -1,0 +1,32 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Epistulae</title>, <biblScope>92.9-92.9</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi015.perseus-lat2:92.9-92.9" type="section">
+    <w ref="92.9" lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
+    <w ref="92.9" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="92.9" lemma="aio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ait</w>
+    <w ref="92.9" lemma="Uergilius" pos="NOMpro" msd="Case=Nom|Numb=Sing">Vergilius</w>
+    <w ref="92.9" lemma="noster" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Masc">noster</w>
+    <w ref="92.9" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="92.9" lemma="scylla" pos="NOMcom" msd="Case=Abl|Numb=Sing">Scylla</w>
+    <w ref="92.9" lemma="primus" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Sup">Prima</w>
+    <w ref="92.9" lemma="homo" pos="NOMcom" msd="Case=Gen|Numb=Sing">hominis</w>
+    <w ref="92.9" lemma="facies" pos="NOMcom" msd="Case=Nom|Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act">facies</w>
+    <w ref="92.9" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="92.9" lemma="pulcher" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">pulchro</w>
+    <w ref="92.9" lemma="pectus" pos="NOMcom" msd="Case=Abl|Numb=Sing">pectore</w>
+    <w ref="92.9" lemma="uirgo" pos="NOMcom" msd="Case=Abl|Numb=Sing">virgo</w>
+    <w ref="92.9" lemma="pubes1" pos="NOMcom" msd="Case=Abl|Numb=Sing">Pube</w>
+    <w ref="92.9" lemma="tenus2" pos="PRE" msd="MORPH=empty">tenus</w>
+    <w ref="92.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="92.9" lemma="posterus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Sup">postrema</w>
+    <w ref="92.9" lemma="immanis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">inmani</w>
+    <w ref="92.9" lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
+    <w ref="92.9" lemma="pistris" pos="NOMcom" msd="Case=Nom|Numb=Sing">pistrix</w>
+    <w ref="92.9" lemma="delphin" pos="NOMcom" msd="Case=Gen|Numb=Plur">Delphinum</w>
+    <w ref="92.9" lemma="cauda" pos="NOMcom" msd="Case=Acc|Numb=Plur">caudas</w>
+    <w ana="#female #cunnus #womb" ref="92.9" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="92.9" lemma="committo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">commissa</w>
+    <w ref="92.9" lemma="lupus" pos="NOMcom" msd="Case=Gen|Numb=Plur">luporum</w>
+    <w ref="92.9" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

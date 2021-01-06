@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>4.27-4.27</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:4.27-4.27" type="chapter">
+    <w ref="4.27" lemma="3" pos="ADJcar" msd="MORPH=empty">27</w>
+    <w ref="4.27" lemma="ex" pos="PRE" msd="MORPH=empty">Ex</w>
+    <w ana="#female #cunnus #womb" ref="4.27" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
+    <w ref="4.27" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="4.27" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Plur">feminis</w>
+    <w ref="4.27" lemma="uehemens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">vehemens</w>
+    <w ref="4.27" lemma="malum1" pos="NOMcom" msd="Case=Nom|Numb=Sing">malum</w>
+    <w ref="4.27" lemma="nascor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">nascitur</w>
+    <w ref="4.27" lemma="prope" pos="ADV" msd="Deg=Sup">proximeque</w>
+    <w ref="4.27" lemma="que" pos="CON" msd="MORPH=empty">{proximeque}</w>
+    <w ref="4.27" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="4.27" lemma="stomachus" pos="NOMcom" msd="Case=Abl|Numb=Sing">stomacho</w>
+    <w ref="4.27" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="4.27" lemma="afficio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">adficitur</w>
+    <w ref="4.27" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">haec</w>
+    <w ref="4.27" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="4.27" lemma="corpus" pos="NOMcom" msd="Case=Acc|Numb=Sing">corpus</w>
+    <w ref="4.27" lemma="afficio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">adficit</w>
+    <w ref="4.27" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

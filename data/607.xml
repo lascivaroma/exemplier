@@ -1,0 +1,46 @@
+<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
+  <bibl><author>Mustio</author>, <title>Gynaecia</title>, <biblScope>203-203</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:temp0001.temp001.bolton-lat1:203-203" type="None">
+    <w ref="203" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="203" lemma="omnis" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">omnibus</w>
+    <w ref="203" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="203" lemma="differentia" pos="NOMcom" msd="Case=Abl|Numb=Plur">differentiis</w>
+    <w ref="203" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">quas</w>
+    <w ref="203" lemma="predico" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1">prediximus</w>
+    <w ref="203" lemma="facile" pos="ADV" msd="Deg=Sup">facillime</w>
+    <w ref="203" lemma="curo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">curari</w>
+    <w ref="203" lemma="possum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">possunt</w>
+    <w ref="203" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="203" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#female #cunnus #labia" ref="203" lemma="pinnacula" pos="NOMcom" msd="Case=Abl|Numb=Plur">pinnaculis</w>
+    <w ref="203" lemma="causa" pos="NOMcom" msd="Case=Acc|Numb=Sing">causam</w>
+    <w ref="203" lemma="habeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habent</w>
+    <w ref="203" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="203" lemma="membrano" pos="NOMcom" msd="Case=Abl|Numb=Sing">membrano</w>
+    <w ref="203" lemma="claudo1" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">clausae</w>
+    <w ref="203" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="203" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="203" lemma="siquidem" pos="CONsub" msd="MORPH=empty">siquidem</w>
+    <w ref="203" lemma="dure" pos="ADV" msd="Case=Nom|Deg=Sup">durissime</w>
+    <w ref="203" lemma="pulpa" pos="NOMcom" msd="Case=Nom|Numb=Plur">pulpae</w>
+    <w ref="203" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="203" lemma="ingens" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">ingenti</w>
+    <w ref="203" lemma="dificultas" pos="NOMcom" msd="Case=Abl|Numb=Sing">dificultate</w>
+    <w ref="203" lemma="precido" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">precidantur</w>
+    <w ref="203" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="203" lemma="moleste" pos="ADV" msd="Deg=Pos">moleste</w>
+    <w ref="203" lemma="sanguino" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sanguinent</w>
+    <w ref="203" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="203" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="203" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="203" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="203" lemma="sollicite" pos="ADV" msd="Deg=Pos">sollicite</w>
+    <w ref="203" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Perf|Voice=Act|Person=3">fuerint</w>
+    <w ref="203" lemma="curo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">curatae</w>
+    <w ref="203" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="203" lemma="cito2" pos="ADV" msd="Deg=Pos">cito</w>
+    <w ref="203" lemma="renascor" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">renasci</w>
+    <w ref="203" lemma="possum1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possint</w>
+    <w ref="203" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

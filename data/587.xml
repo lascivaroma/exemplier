@@ -1,0 +1,34 @@
+<div type="fragment" corresp="adams:104" ana="#female #metaphore #labia #automatic">
+  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>I.13-I.13</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.13-I.13" type="part">
+    <w ref="I.13" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="I.13" lemma="omnis" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">omnibus</w>
+    <w ref="I.13" lemma="equaliter" pos="ADV" msd="Deg=Pos">equaliter</w>
+    <w ref="I.13" lemma="retro1" pos="ADV" msd="Deg=Pos">retro</w>
+    <w ref="I.13" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ana="#female #metaphore #labia #automatic" ref="I.13" lemma="pinnaculum" pos="NOMcom" msd="Case=Abl|Numb=Plur">pinnaculis</w>
+    <w ref="I.13" lemma="recedo1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">recedens</w>
+    <w ref="I.13" lemma="sed" pos="CONcoo" msd="MORPH=empty">set</w>
+    <w ref="I.13" lemma="alius" pos="PROind" msd="Case=Dat|Numb=Plur|Gend=Com">aliis</w>
+    <w ref="I.13" lemma="multum2" pos="ADV" msd="Numb=Sing|Gend=Neut|Deg=Comp">plus</w>
+    <w ref="I.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.13" lemma="alius" pos="PROind" msd="Case=Dat|Numb=Plur|Gend=Com">aliis</w>
+    <w ref="I.13" lemma="parum2" pos="ADV" msd="Deg=Comp">minus</w>
+    <w ref="I.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.13" lemma="secundum2" pos="PRE" msd="MORPH=empty">secundum</w>
+    <w ref="I.13" lemma="differentia" pos="NOMcom" msd="Case=Acc|Numb=Sing">differentiam</w>
+    <w ref="I.13" lemma="etatus" pos="VER" msd="Numb=Sing">etatis</w>
+    <w ref="I.13" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="I.13" lemma="natura" pos="NOMcom" msd="Case=Abl|Numb=Sing">nature</w>
+    <w ref="I.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.13" lemma="ueruntamen" pos="NOMcom" msd="Case=Acc|Numb=Sing">veruntamen</w>
+    <w ref="I.13" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="I.13" lemma="perfectus2" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">perfectis</w>
+    <w ref="I.13" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="I.13" lemma="femina" pos="NOMcom" msd="Case=Dat|Numb=Plur">feminis</w>
+    <w ref="I.13" lemma="5" pos="ADJcar" msd="MORPH=empty">V</w>
+    <w ref="I.13" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="I.13" lemma="6" pos="ADJcar" msd="MORPH=empty">VI</w>
+    <w ref="I.13" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

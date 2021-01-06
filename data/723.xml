@@ -1,0 +1,39 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Apuleius</author>, <title>Apologia</title>, <biblScope>69-69</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi001.perseus-lat1:69-69" type="section">
+    <w ref="69" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>
+    <w ref="69" lemma="sancte" pos="ADJqua" msd="Case=Voc|Gend=Masc|Deg=Pos">sancte</w>
+    <w ref="69" lemma="pudicus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">pudica</w>
+    <w ref="69" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="69" lemma="tot" pos="PROdem" msd="Case=Ind">tot</w>
+    <w ref="69" lemma="annus" pos="NOMcom" msd="Case=Abl|Numb=Plur">annis</w>
+    <w ref="69" lemma="uiduitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">uiduitatis</w>
+    <w ref="69" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="69" lemma="culpa" pos="NOMcom" msd="Case=Abl|Numb=Sing">culpa</w>
+    <w ref="69" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="69" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="69" lemma="fabula1" pos="NOMcom" msd="Case=Abl|Numb=Sing">fabula</w>
+    <w ref="69" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="69" lemma="assuetudo" pos="NOMcom" msd="Case=Abl|Numb=Sing">assuetudine</w>
+    <w ref="69" lemma="coniux" pos="NOMcom" msd="Case=Gen|Numb=Sing">coniugis</w>
+    <w ref="69" lemma="torpeo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">torpens</w>
+    <w ref="69" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="69" lemma="diutinus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">diutino</w>
+    <w ref="69" lemma="situs1" pos="NOMcom" msd="Case=Abl|Numb=Sing">situ</w>
+    <w ref="69" lemma="uiscus1" pos="NOMcom" msd="Case=Gen|Numb=Plur">uiscerum</w>
+    <w ref="69" lemma="saucius" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">saucia</w>
+    <w ref="69" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="69" lemma="uitio1" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">uitiatis</w>
+    <w ref="69" lemma="interior2" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">intimis</w>
+    <w ana="#female #cunnus #womb" ref="69" lemma="uterus" pos="NOMcom" msd="Case=Nom|Numb=Sing">uteri</w>
+    <w ref="69" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
+    <w ref="69" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="69" lemma="exter" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Sup">extremum</w>
+    <w ref="69" lemma="uita" pos="NOMcom" msd="Case=Gen|Numb=Sing">uitae</w>
+    <w ref="69" lemma="discrimen" pos="NOMcom" msd="Case=Acc|Numb=Sing">discrimen</w>
+    <w ref="69" lemma="dolor" pos="NOMcom" msd="Case=Abl|Numb=Plur">doloribus</w>
+    <w ref="69" lemma="oborior" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Dep">obortis</w>
+    <w ref="69" lemma="exanimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Pass|Person=3">exanimabatur</w>
+    <w ref="69" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

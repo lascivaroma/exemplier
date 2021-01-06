@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>2.7-2.7</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:2.7-2.7" type="chapter">
+    <w ref="2.7" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="2.7" lemma="mulier" pos="NOMcom" msd="Case=Dat|Numb=Sing">mulieri</w>
+    <w ref="2.7" lemma="inguen" pos="NOMcom" msd="Case=Nom|Numb=Sing">inguen</w>
+    <w ref="2.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.7" lemma="febricula" pos="NOMcom" msd="Case=Nom|Numb=Sing">febricula</w>
+    <w ref="2.7" lemma="orior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">orta</w>
+    <w ref="2.7" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="2.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.7" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="2.7" lemma="causa" pos="NOMcom" msd="Case=Nom|Numb=Sing">causa</w>
+    <w ref="2.7" lemma="appareo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">apparet</w>
+    <w ref="2.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.7" lemma="ulcus" pos="NOMcom" msd="Case=Nom|Numb=Sing">ulcus</w>
+    <w ref="2.7" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#female #cunnus #womb" ref="2.7" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
+    <w ref="2.7" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="2.7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

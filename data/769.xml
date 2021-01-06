@@ -1,0 +1,44 @@
+<div type="fragment" corresp="adams:104" ana="#female #cunnus #vagina">
+  <bibl><author>Isidore de Séville</author>, <title>Étymologies</title>, <biblScope>12.2-12.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0159.stoa004.thayer-lat1:12.2-12.2" type="entry">
+    <w ref="12.2" lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
+    <w ref="12.2" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="12.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="12.2" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="12.2" lemma="mater" pos="NOMcom" msd="Case=Gen|Numb=Sing">matris</w>
+    <w ref="12.2" lemma="coalesco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">coaluere</w>
+    <w ref="12.2" lemma="catulus" pos="NOMcom" msd="Case=Gen|Numb=Plur">catuli</w>
+    <w ref="12.2" lemma="maturus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Deg=Pos">maturisque</w>
+    <w ref="12.2" lemma="que" pos="CON" msd="MORPH=empty">{maturisque}</w>
+    <w ref="12.2" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="12.2" lemma="nascor" pos="VER" msd="Case=Acc|Numb=Sing|Mood=Ger|Voice=Dep">nascendum</w>
+    <w ref="12.2" lemma="uis" pos="NOMcom" msd="Case=Abl|Numb=Plur">viribus</w>
+    <w ref="12.2" lemma="polleo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pollent</w>
+    <w ref="12.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.2" lemma="odi" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">odiunt</w>
+    <w ref="12.2" lemma="tempus1" pos="NOMcom" msd="Case=Gen|Numb=Plur">temporum</w>
+    <w ref="12.2" lemma="mora" pos="NOMcom" msd="Case=Acc|Numb=Plur">moras</w>
+    <w ref="12.2" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="12.2" lemma="itaque" pos="ADV" msd="MORPH=empty">itaque</w>
+    <w ref="12.2" lemma="onero" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">oneratam</w>
+    <w ref="12.2" lemma="foetus" pos="NOMcom" msd="Case=Abl|Numb=Plur">foetibus</w>
+    <w ana="#female #cunnus #vagina" ref="12.2" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="12.2" lemma="tamquam1" pos="ADVrel" msd="MORPH=empty">tamquam</w>
+    <w ref="12.2" lemma="obsto" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">obstantem</w>
+    <w ref="12.2" lemma="partuus" pos="NOMcom" msd="Case=Nom|Numb=Plur">partui</w>
+    <w ref="12.2" lemma="unguis" pos="NOMcom" msd="Case=Abl|Numb=Plur">unguibus</w>
+    <w ref="12.2" lemma="lacero" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">lacerant</w>
+    <w ref="12.2" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="12.2" lemma="effundo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">effundit</w>
+    <w ref="12.2" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="12.2" lemma="partus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">partum</w>
+    <w ref="12.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.2" lemma="seu2" pos="CONsub" msd="MORPH=empty">seu</w>
+    <w ref="12.2" lemma="potius" pos="ADV" msd="Deg=Comp">potius</w>
+    <w ref="12.2" lemma="dimitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dimittit</w>
+    <w ref="12.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.2" lemma="dolor" pos="NOMcom" msd="Case=Abl|Numb=Sing">dolore</w>
+    <w ref="12.2" lemma="cogo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">cogente</w>
+    <w ref="12.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

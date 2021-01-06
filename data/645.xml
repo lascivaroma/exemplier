@@ -1,0 +1,43 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>P. Vergilius Maro</author>, <title>Georgics</title>, <biblScope>4.554-4.558</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi002.perseus-lat2:4.554-4.558" type="line">
+    <w ref="4.554" lemma="hic2" pos="ADV" msd="Deg=Pos">Hic</w>
+    <w ref="4.554" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
+    <w ref="4.554" lemma="subitus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">subitum</w>
+    <w ref="4.554" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="4.554" lemma="dico2" pos="VER" msd="Mood=SupUm|Voice=Act">dictu</w>
+    <w ref="4.554" lemma="mirabilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">mirabile</w>
+    <w ref="4.554" lemma="monstrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">monstrum</w>
+    <w ref="4.555" lemma="aspicio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">adspiciunt</w>
+    <w ref="4.555" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.555" lemma="liquefacio" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">liquefacta</w>
+    <w ref="4.555" lemma="bos" pos="NOMcom" msd="Case=Gen|Numb=Plur">boum</w>
+    <w ref="4.555" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="4.555" lemma="uiscus2" pos="NOMcom" msd="Case=Acc|Numb=Plur">viscera</w>
+    <w ref="4.555" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">toto</w>
+    <w ref="4.556" lemma="strido" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">stridere</w>
+    <w ref="4.556" lemma="apis" pos="NOMcom" msd="Case=Acc|Numb=Plur">apes</w>
+    <w ana="#female #cunnus #womb" ref="4.556" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="4.556" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="4.556" lemma="rumpo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">ruptis</w>
+    <w ref="4.556" lemma="efferuo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">effervere</w>
+    <w ref="4.556" lemma="costa" pos="NOMcom" msd="Case=Abl|Numb=Plur">costis</w>
+    <w ref="4.556" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.557" lemma="immensus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">immensasque</w>
+    <w ref="4.557" lemma="que" pos="CON" msd="MORPH=empty">{immensasque}</w>
+    <w ref="4.557" lemma="traho" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">trahi</w>
+    <w ref="4.557" lemma="nubes" pos="NOMcom" msd="Case=Acc|Numb=Plur">nubes</w>
+    <w ref="4.557" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.557" lemma="iam" pos="ADV" msd="Deg=Pos">iamque</w>
+    <w ref="4.557" lemma="que" pos="CON" msd="MORPH=empty">{iamque}</w>
+    <w ref="4.557" lemma="arbor" pos="NOMcom" msd="Case=Abl|Numb=Sing">arbore</w>
+    <w ref="4.557" lemma="superus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Neut|Deg=Sup">summa</w>
+    <w ref="4.558" lemma="confluo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">confluere</w>
+    <w ref="4.558" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="4.558" lemma="lentus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">lentis</w>
+    <w ref="4.558" lemma="uua" pos="NOMcom" msd="Case=Acc|Numb=Sing">uvam</w>
+    <w ref="4.558" lemma="demitto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">demittere</w>
+    <w ref="4.558" lemma="ramus" pos="NOMcom" msd="Case=Abl|Numb=Plur">ramis</w>
+    <w ref="4.558" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>4.1-4.1</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:4.1-4.1" type="chapter">
+    <w ref="4.1" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Plur">feminis</w>
+    <w ref="4.1" lemma="pono" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">posita</w>
+    <w ref="4.1" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="4.1" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="4.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="4.1" lemma="uir" pos="NOMcom" msd="Case=Abl|Numb=Plur">viris</w>
+    <w ref="4.1" lemma="iuxta2" pos="PRE" msd="Deg=Pos">iuxta</w>
+    <w ref="4.1" lemma="rectus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">rectum</w>
+    <w ref="4.1" lemma="intestinus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">intestinum</w>
+    <w ref="4.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="4.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.1" lemma="potius" pos="ADV" msd="Deg=Comp">potius</w>
+    <w ref="4.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="4.1" lemma="sinister" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=Fem">sinistram</w>
+    <w ref="4.1" lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Sing">partem</w>
+    <w ref="4.1" lemma="inclino" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">inclinata</w>
+    <w ref="4.1" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="4.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="4.1" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Plur">feminis</w>
+    <w ref="4.1" lemma="super2" pos="PRE" msd="MORPH=empty">super</w>
+    <w ref="4.1" lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">genitale</w>
+    <w ref="4.1" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=Fem">earum</w>
+    <w ref="4.1" lemma="situs2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">sita</w>
+    <w ref="4.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="4.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.1" lemma="supra" pos="ADV" msd="Deg=Pos">supraque</w>
+    <w ref="4.1" lemma="que" pos="CON" msd="MORPH=empty">{supraque}</w>
+    <w ref="4.1" lemma="elabor2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">elapsa</w>
+    <w ref="4.1" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="4.1" lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ana="#female #cunnus #womb" ref="4.1" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
+    <w ref="4.1" lemma="sustineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">sustinetur</w>
+    <w ref="4.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,45 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Agamemnon</title>, <biblScope>32-36</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi007.perseus-lat2:32-36" type="line">
+    <w ref="32" lemma="ergo2" pos="CONcoo" msd="MORPH=empty">ergo</w>
+    <w ref="32" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="32" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="32" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=MascFem">omnis</w>
+    <w ref="32" lemma="liberi" pos="NOMcom" msd="Case=Acc|Numb=Plur">liberos</w>
+    <w ref="32" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1">irem</w>
+    <w ref="32" lemma="parens1" pos="NOMcom" msd="Case=Nom|Numb=Sing">parens</w>
+    <w ref="32" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="33" lemma="cogo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">coacta</w>
+    <w ref="33" lemma="fatum" pos="NOMcom" msd="Case=Abl|Numb=Plur">fatis</w>
+    <w ref="33" lemma="nata" pos="NOMcom" msd="Case=Nom|Numb=Sing">gnata</w>
+    <w ref="33" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fert</w>
+    <w ana="#female #cunnus #womb" ref="33" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="33" lemma="grauis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">gravem</w>
+    <w ref="33" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="34" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="34" lemma="pater" pos="NOMcom" msd="Case=Abl|Numb=Sing">patre</w>
+    <w ref="34" lemma="dignus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">dignum</w>
+    <w ref="34" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="34" lemma="uerto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">versa</w>
+    <w ref="34" lemma="natura" pos="NOMcom" msd="Case=Nom|Numb=Sing">natura</w>
+    <w ref="34" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="34" lemma="retro1" pos="ADV" msd="Deg=Pos">retro</w>
+    <w ref="34" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="35" lemma="auus" pos="NOMcom" msd="Case=Dat|Numb=Sing">avo</w>
+    <w ref="35" lemma="parens1" pos="NOMcom" msd="Case=Acc|Numb=Sing">parentem</w>
+    <w ref="35" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="35" lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>
+    <w ref="35" lemma="nefas" pos="NOMcom" msd="Case=Ind">nefas</w>
+    <w ref="35" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="35" lemma="pater" pos="NOMcom" msd="Case=Dat|Numb=Sing">patri</w>
+    <w ref="35" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Sing">virum</w>
+    <w ref="35" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="36" lemma="natus1" pos="NOMcom" msd="Case=Dat|Numb=Plur">gnatis</w>
+    <w ref="36" lemma="nepos1" pos="NOMcom" msd="Case=Acc|Numb=Plur">nepotes</w>
+    <w ref="36" lemma="misceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">miscui</w>
+    <w ref="36" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+    <w ref="36" lemma="nox" pos="NOMcom" msd="Case=Dat|Numb=Sing">nocti</w>
+    <w ref="36" lemma="dies" pos="NOMcom" msd="Case=Acc|Numb=Sing">diem</w>
+    <w ref="36" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

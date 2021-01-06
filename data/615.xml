@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
+  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>II.114-II.114</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.114-II.114" type="part">
+    <w ref="II.114" lemma="nascor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">Nascitur</w>
+    <w ref="II.114" lemma="thior" pos="NOMcom" msd="Case=Nom|Numb=Sing">thimus</w>
+    <w ref="II.114" lemma="aliquando" pos="ADV" msd="Deg=Pos">aliquando</w>
+    <w ref="II.114" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#female #cunnus #labia" ref="II.114" lemma="fibra" pos="NOMcom" msd="Case=Abl|Numb=Plur">fibris</w>
+    <w ref="II.114" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.114" lemma="aliquando" pos="ADV" msd="Deg=Pos">aliquando</w>
+    <w ref="II.114" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="II.114" lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">ipso</w>
+    <w ref="II.114" lemma="interior2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">interiori</w>
+    <w ref="II.114" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+    <w ref="II.114" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.114" lemma="aliquando" pos="ADV" msd="Deg=Pos">aliquando</w>
+    <w ref="II.114" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="II.114" lemma="matrica" pos="NOMcom" msd="Case=Abl|Numb=Plur">matricis</w>
+    <w ref="II.114" lemma="osculum" pos="NOMcom" msd="Case=Abl|Numb=Sing">osculo</w>
+    <w ref="II.114" lemma="siue2" pos="CONsub" msd="MORPH=empty">sive</w>
+    <w ref="II.114" lemma="collum" pos="NOMcom" msd="Case=Abl|Numb=Sing">collo</w>
+    <w ref="II.114" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

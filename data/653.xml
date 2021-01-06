@@ -1,0 +1,28 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Ovid</author>, <title>Metamorphoses</title>, <biblScope>8.488-8.490</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:8.488-8.490" type="line">
+    <w ref="8.488" lemma="uos" pos="PROper" msd="Case=Nom|Numb=Plur">Vos</w>
+    <w ref="8.488" lemma="modo1" pos="ADV" msd="Deg=Pos">modo</w>
+    <w ref="8.488" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8.488" lemma="fraternus" pos="ADJqua" msd="Case=Voc|Numb=Plur|Gend=Masc|Deg=Pos">fraterni</w>
+    <w ref="8.488" lemma="Manes" pos="NOMpro" msd="Case=Voc|Numb=Plur|Person=2">manes</w>
+    <w ref="8.488" lemma="anima" pos="NOMcom" msd="Case=Voc|Numb=Plur">animaeque</w>
+    <w ref="8.488" lemma="que" pos="CON" msd="MORPH=empty">{animaeque}</w>
+    <w ref="8.488" lemma="recens1" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">recentes</w>
+    <w ref="8.488" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8.489" lemma="officium" pos="NOMcom" msd="Case=Acc|Numb=Sing">officium</w>
+    <w ref="8.489" lemma="sentio" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">sentite</w>
+    <w ref="8.489" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=MascNeut">meum</w>
+    <w ref="8.489" lemma="magnus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">magnoque</w>
+    <w ref="8.489" lemma="que" pos="CON" msd="MORPH=empty">{magnoque}</w>
+    <w ref="8.489" lemma="paratus2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">paratas</w>
+    <w ref="8.490" lemma="accipio" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">accipite</w>
+    <w ref="8.490" lemma="inferiae" pos="NOMcom" msd="Case=Acc|Numb=Plur">inferias</w>
+    <w ref="8.490" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#female #cunnus #womb" ref="8.490" lemma="uterus" pos="NOMcom" msd="Case=Dat|Numb=Sing">uteri</w>
+    <w ref="8.490" lemma="malus3" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">mala</w>
+    <w ref="8.490" lemma="pignus" pos="NOMcom" msd="Case=Acc|Numb=Plur">pignera</w>
+    <w ref="8.490" lemma="noster" pos="PROpos" msd="Case=Gen|Numb=Plur|Gend=Masc">nostri</w>
+    <w ref="8.490" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

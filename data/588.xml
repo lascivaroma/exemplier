@@ -1,0 +1,47 @@
+<div type="fragment" corresp="adams:104" ana="#female #metaphore #labia #automatic">
+  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>II.101-II.101</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.101-II.101" type="part">
+    <w ref="II.101" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Masc">omnes</w>
+    <w ref="II.101" lemma="ergo2" pos="CONcoo" msd="MORPH=empty">ergo</w>
+    <w ref="II.101" lemma="collectio" pos="NOMcom" msd="Case=Nom|Numb=Plur">collectiones</w>
+    <w ref="II.101" lemma="que" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Masc">que</w>
+    <w ref="II.101" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="II.101" lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
+    <w ref="II.101" lemma="emergo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">emergunt</w>
+    <w ref="II.101" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.101" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+    <w ref="II.101" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="II.101" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#female #metaphore #labia #automatic" ref="II.101" lemma="pinnaculum" pos="NOMcom" msd="Case=Abl|Numb=Plur">pinnaculis</w>
+    <w ref="II.101" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="II.101" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="II.101" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+    <w ref="II.101" lemma="muliebris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">muliebri</w>
+    <w ref="II.101" lemma="inuenio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">inveniuntur</w>
+    <w ref="II.101" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.101" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="II.101" lemma="mature" pos="ADV" msd="Deg=Pos">mature</w>
+    <w ref="II.101" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Perf|Voice=Act|Person=3">fuerint</w>
+    <w ref="II.101" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.101" lemma="aperio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">aperiantur</w>
+    <w ref="II.101" lemma="supinatus" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">supinata</w>
+    <w ref="II.101" lemma="egroto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">egrotante</w>
+    <w ref="II.101" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.101" lemma="disto" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">distantibus</w>
+    <w ref="II.101" lemma="femur" pos="NOMcom" msd="Case=Abl|Numb=Plur">femoribus</w>
+    <w ref="II.101" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="II.101" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="II.101" lemma="umbilicus" pos="NOMcom" msd="Case=Acc|Numb=Sing">umbilicum</w>
+    <w ref="II.101" lemma="reflecto" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">reflexis</w>
+    <w ref="II.101" lemma="genu" pos="NOMcom" msd="Case=Abl|Numb=Plur">genibus</w>
+    <w ref="II.101" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.101" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">manibus</w>
+    <w ref="II.101" lemma="subiectus?" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">subiectis</w>
+    <w ref="II.101" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Plur|Gend=Com">suis</w>
+    <w ref="II.101" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Plur">partibus</w>
+    <w ref="II.101" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="II.101" lemma="duo" pos="ADJcar" msd="Case=Abl|Numb=Plur|Gend=MascNeut">duobus</w>
+    <w ref="II.101" lemma="laqueus" pos="NOMcom" msd="Case=Abl|Numb=Plur">laqueis</w>
+    <w ref="II.101" lemma="moderatus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">moderato</w>
+  </quote>
+</div>

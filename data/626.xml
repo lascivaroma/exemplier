@@ -1,0 +1,66 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #voisinage #womb">
+  <bibl><author>Cicero</author>, <title>de Natura Deorum</title>, <biblScope>2.128-2.128</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi050.perseus-lat1:2.128-2.128" type="section">
+    <w ref="2.128" lemma="mare" pos="NOMcom" msd="Case=Abl|Numb=Sing">mari</w>
+    <w ref="2.128" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.128" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.128" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Sing">femina</w>
+    <w ref="2.128" lemma="commisceo" pos="VER" msd="Case=Gen|Numb=Plur|Gend=MascNeut|Mood=Adj|Voice=Pass">commiscendorum</w>
+    <w ref="2.128" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Plur">corporum</w>
+    <w ref="2.128" lemma="mirus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Fem|Deg=Pos">mirae</w>
+    <w ref="2.128" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Plur">libidines</w>
+    <w ref="2.128" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.128" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="2.128" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="2.128" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.128" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
+    <w ref="2.128" lemma="semen1" pos="NOMcom" msd="Case=Acc|Numb=Sing">semen</w>
+    <w ref="2.128" lemma="insideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">insedit</w>
+    <w ref="2.128" lemma="rapio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">rapit</w>
+    <w ref="2.128" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascFem">omnem</w>
+    <w ref="2.128" lemma="fere" pos="ADV" msd="Deg=Pos">fere</w>
+    <w ref="2.128" lemma="cibus" pos="NOMcom" msd="Case=Acc|Numb=Sing">cibum</w>
+    <w ref="2.128" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="2.128" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">sese</w>
+    <w ref="2.128" lemma="eo" pos="ADV" msd="MORPH=empty">eoque</w>
+    <w ref="2.128" lemma="que" pos="CON" msd="MORPH=empty">{eoque}</w>
+    <w ref="2.128" lemma="saepio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">saeptum</w>
+    <w ref="2.128" lemma="fingo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fingit</w>
+    <w ref="2.128" lemma="animal" pos="NOMcom" msd="Case=Acc|Numb=Sing">animal</w>
+    <w ref="2.128" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.128" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="2.128" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="2.128" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ana="#female #cunnus #voisinage #womb" ref="2.128" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="2.128" lemma="elabor2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Dep">elapsum</w>
+    <w ref="2.128" lemma="excido1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">excidit</w>
+    <w ref="2.128" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.128" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.128" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Masc">is</w>
+    <w ref="2.128" lemma="animans1" pos="NOMcom" msd="Case=Abl|Numb=Plur">animantibus</w>
+    <w ref="2.128" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Fem">quae</w>
+    <w ref="2.128" lemma="lac" pos="NOMcom" msd="Case=Abl|Numb=Sing">lacte</w>
+    <w ref="2.128" lemma="alo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">aluntur</w>
+    <w ref="2.128" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=MascFem">omnis</w>
+    <w ref="2.128" lemma="fere" pos="ADV" msd="Deg=Pos">fere</w>
+    <w ref="2.128" lemma="cibus" pos="NOMcom" msd="Case=Nom|Numb=Sing">cibus</w>
+    <w ref="2.128" lemma="mater" pos="NOMcom" msd="Case=Gen|Numb=Plur">matrum</w>
+    <w ref="2.128" lemma="lactesco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">lactescere</w>
+    <w ref="2.128" lemma="incipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">incipit</w>
+    <w ref="2.128" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.128" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Neut">eaque</w>
+    <w ref="2.128" lemma="que" pos="CON" msd="MORPH=empty">{eaque}</w>
+    <w ref="2.128" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="2.128" lemma="paulo" pos="ADV" msd="Deg=Pos">paulo</w>
+    <w ref="2.128" lemma="ante1" pos="ADV" msd="Deg=Pos">ante</w>
+    <w ref="2.128" lemma="nascor" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">nata</w>
+    <w ref="2.128" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="2.128" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="2.128" lemma="magister" pos="NOMcom" msd="Case=Abl|Numb=Sing">magistro</w>
+    <w ref="2.128" lemma="dux" pos="NOMcom" msd="Case=Abl|Numb=Sing">duce</w>
+    <w ref="2.128" lemma="natura" pos="NOMcom" msd="Case=Nom|Numb=Sing">natura</w>
+    <w ref="2.128" lemma="mamma" pos="NOMcom" msd="Case=Acc|Numb=Plur">mammas</w>
+    <w ref="2.128" lemma="appeto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">adpetunt</w>
+    <w ref="2.128" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=Fem">earumque</w>
+  </quote>
+</div>

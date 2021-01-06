@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:104" ana="#female #metaphore #labia #automatic">
+  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>II.127-II.127</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.127-II.127" type="part">
+    <w ref="II.127" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="II.127" lemma="uero3" pos="ADV" msd="MORPH=empty">vero</w>
+    <w ref="II.127" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="II.127" lemma="medium" pos="ADJqua" msd="Case=Abl|Numb=Sing">medio</w>
+    <w ref="II.127" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="II.127" lemma="pulpa" pos="NOMcom" msd="Case=Nom|Numb=Sing">pulpa</w>
+    <w ref="II.127" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="II.127" lemma="membranus" pos="NOMcom" msd="Case=Nom|Numb=Sing">membranum</w>
+    <w ref="II.127" lemma="post2" pos="PRE" msd="Deg=Pos">post</w>
+    <w ana="#female #metaphore #labia #automatic" ref="II.127" lemma="pinnaculum" pos="NOMcom" msd="Case=Nom|Numb=Plur">pinnacula</w>
+    <w ref="II.127" lemma="immitto" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">immissis</w>
+    <w ref="II.127" lemma="digitus" pos="NOMcom" msd="Case=Abl|Numb=Plur">digitis</w>
+    <w ref="II.127" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="II.127" lemma="medius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">medio</w>
+    <w ref="II.127" lemma="tactus" pos="NOMcom" msd="Case=Abl|Numb=Sing">tactu</w>
+    <w ref="II.127" lemma="sentio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">sentitur</w>
+    <w ref="II.127" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

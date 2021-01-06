@@ -1,0 +1,49 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Statius, P. Papinius (Publius Papinius)</author>, <title>Thebais</title>, <biblScope>12.633-12.638</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1020.phi001.perseus-lat2:12.633-12.638" type="line">
+    <w ref="12.633" lemma="superi" pos="NOMcom" msd="Case=Acc|Numb=Sing">superum</w>
+    <w ref="12.633" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.633" lemma="dubius" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">dubiis</w>
+    <w ref="12.633" lemma="donec" pos="CONsub" msd="MORPH=empty">donec</w>
+    <w ref="12.633" lemma="nouus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">nova</w>
+    <w ref="12.633" lemma="surgo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">surgeret</w>
+    <w ref="12.633" lemma="arbor" pos="NOMcom" msd="Case=Nom|Numb=Sing">arbor</w>
+    <w ref="12.634" lemma="rupes" pos="NOMcom" msd="Case=Dat|Numb=Plur">rupibus</w>
+    <w ref="12.634" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="12.634" lemma="longus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">longa</w>
+    <w ref="12.634" lemma="refugus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">refugum</w>
+    <w ref="12.634" lemma="mare" pos="NOMcom" msd="Case=Acc|Numb=Sing">mare</w>
+    <w ref="12.634" lemma="frango" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">frangeret</w>
+    <w ref="12.634" lemma="umbra" pos="NOMcom" msd="Case=Nom|Numb=Sing">umbra</w>
+    <w ref="12.634" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.635" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">isset</w>
+    <w ref="12.635" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="12.635" lemma="arctous" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">Arctoas</w>
+    <w ref="12.635" lemma="cadoeus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">Cadmea</w>
+    <w ref="12.635" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="12.635" lemma="moenia" pos="NOMcom" msd="Case=Acc|Numb=Plur">moenia</w>
+    <w ref="12.635" lemma="duco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">ducens</w>
+    <w ref="12.636" lemma="hippolyta" pos="NOMcom" msd="Case=Abl|Numb=Sing">Hippolyte</w>
+    <w ref="12.636" lemma="turma" pos="NOMcom" msd="Case=Acc|Numb=Plur">turmas</w>
+    <w ref="12.636" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="12.636" lemma="retineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">retinet</w>
+    <w ref="12.636" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="12.636" lemma="certus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">certa</w>
+    <w ref="12.636" lemma="tumeo" pos="VER" msd="Case=Gen|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">tumentis</w>
+    <w ref="12.637" lemma="spes" pos="NOMcom" msd="Case=Nom|Numb=Sing">spes</w>
+    <w ana="#female #cunnus #womb" ref="12.637" lemma="uterus" pos="NOMcom" msd="Case=Gen|Numb=Sing">uteri</w>
+    <w ref="12.637" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.637" lemma="coniux" pos="NOMcom" msd="Case=Nom|Numb=Sing">coniunxque</w>
+    <w ref="12.637" lemma="que" pos="CON" msd="MORPH=empty">{coniunxque}</w>
+    <w ref="12.637" lemma="rogo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">rogat</w>
+    <w ref="12.637" lemma="dimitto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dimittere</w>
+    <w ref="12.637" lemma="cura" pos="NOMcom" msd="Case=Acc|Numb=Plur">curas</w>
+    <w ref="12.638" lemma="mars" pos="NOMcom" msd="Case=Gen|Numb=Sing">Martis</w>
+    <w ref="12.638" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="12.638" lemma="emereor" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">emeritas</w>
+    <w ref="12.638" lemma="thalamus" pos="NOMcom" msd="Case=Abl|Numb=Sing">thalamo</w>
+    <w ref="12.638" lemma="sacro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">sacrare</w>
+    <w ref="12.638" lemma="pharetra" pos="NOMcom" msd="Case=Acc|Numb=Plur">pharetras</w>
+    <w ref="12.638" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

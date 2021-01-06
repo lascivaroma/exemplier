@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:100" ana=" #female #voisinage #womb">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0684.phi002.ogl-lat1:3.12.4">
+        <w lemma="etenim(-)">etenim</w> 
+        <w lemma="saepe(positif)|saepes(ablatif singulier)|saepis(nominatif neutre singulier)|saepis(vocatif neutre singulier)|saepis(accusatif neutre singulier)">saepe</w>, 
+        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
+        <w lemma="habeo(3ème pluriel indicatif présent actif)">habent</w> 
+        <w lemma="Catulus(accusatif pluriel)|catulus(accusatif pluriel)">catulos</w> 
+        <w lemma="recens(nominatif masculin pluriel)|recens(vocatif masculin pluriel)|recens(accusatif masculin pluriel)|recens(nominatif féminin pluriel)|recens(vocatif féminin pluriel)|recens(accusatif féminin pluriel)">recentes</w>, 
+        <w lemma="alius(accusatif masculin pluriel)|Alii(accusatif pluriel)|Alius(accusatif masculin pluriel)|Alius(accusatif pluriel)">alios</w> 
+        <w lemma="in(-)">in</w> 
+        <w  ana="#voisinage #womb"  lemma="venter(ablatif singulier)">ventre</w> 
+        <w lemma="habeo(infinitif présent actif)|habeo(2ème singulier indicatif présent passif)|habeo(2ème singulier impératif présent passif)">habere</w> 
+        <w lemma="reperio(3ème pluriel indicatif présent passif)">reperiuntur</w>.     
+    </quote>
+ </div>

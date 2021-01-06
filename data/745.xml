@@ -1,0 +1,33 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Epistulae</title>, <biblScope>124.8-124.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi015.perseus-lat2:124.8-124.8" type="section">
+    <w ref="124.8" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="124.8" lemma="quis2" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">quis</w>
+    <w ref="124.8" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">diceret</w>
+    <w ref="124.8" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">illum</w>
+    <w ref="124.8" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="124.8" lemma="maternus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">materno</w>
+    <w ana="#female #cunnus #womb" ref="124.8" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="124.8" lemma="lateo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">latentem</w>
+    <w ref="124.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="124.8" lemma="sexus" pos="NOMcom" msd="Case=Gen|Numb=Sing">sexus</w>
+    <w ref="124.8" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="124.8" lemma="incertus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">incerti</w>
+    <w ref="124.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="124.8" lemma="tener" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">tenerum</w>
+    <w ref="124.8" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="124.8" lemma="imperfectus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">inperfectum</w>
+    <w ref="124.8" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="124.8" lemma="informis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">informem</w>
+    <w ref="124.8" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="124.8" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="124.8" lemma="aliquis" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">aliquo</w>
+    <w ref="124.8" lemma="bonum" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">bono</w>
+    <w ref="124.8" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="124.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="124.8" lemma="aperte" pos="ADV" msd="Deg=Pos">aperte</w>
+    <w ref="124.8" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">videretur</w>
+    <w ref="124.8" lemma="erro2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">errare</w>
+    <w ref="124.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

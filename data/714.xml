@@ -1,0 +1,47 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Tacitus, Cornelius</author>, <title>Historiae</title>, <biblScope>2.14-2.14</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1351.phi004.perseus-lat2:2.14-2.14" type="chapter">
+    <w ref="2.14" lemma="augeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">auxit</w>
+    <w ref="2.14" lemma="inuidia" pos="NOMcom" msd="Case=Acc|Numb=Sing">invidiam</w>
+    <w ref="2.14" lemma="praeclarus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">praeclaro</w>
+    <w ref="2.14" lemma="exemplum" pos="NOMcom" msd="Case=Abl|Numb=Sing">exemplo</w>
+    <w ref="2.14" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">femina</w>
+    <w ref="2.14" lemma="ligus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">Ligus</w>
+    <w ref="2.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.14" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="2.14" lemma="filius" pos="NOMcom" msd="Case=Dat|Numb=Sing">filio</w>
+    <w ref="2.14" lemma="abdo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">abdito</w>
+    <w ref="2.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.14" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="2.14" lemma="simul1" pos="ADV" msd="Deg=Pos">simul</w>
+    <w ref="2.14" lemma="pecunia" pos="NOMcom" msd="Case=Acc|Numb=Sing">pecuniam</w>
+    <w ref="2.14" lemma="occulto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">occultari</w>
+    <w ref="2.14" lemma="miles" pos="NOMcom" msd="Case=Acc|Numb=Plur">milites</w>
+    <w ref="2.14" lemma="credo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">credidissent</w>
+    <w ref="2.14" lemma="eo" pos="ADV" msd="Case=Abl|Gend=MascNeut|Deg=Pos">eoque</w>
+    <w ref="2.14" lemma="que" pos="CON" msd="MORPH=empty">{eoque}</w>
+    <w ref="2.14" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="2.14" lemma="cruciatus" pos="NOMcom" msd="Case=Acc|Numb=Plur">cruciatus</w>
+    <w ref="2.14" lemma="interrogo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">interrogarent</w>
+    <w ref="2.14" lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
+    <w ref="2.14" lemma="filius" pos="NOMcom" msd="Case=Acc|Numb=Sing">filium</w>
+    <w ref="2.14" lemma="occulo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">occuleret</w>
+    <w ref="2.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#female #cunnus #womb" ref="2.14" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="2.14" lemma="ostendo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">ostendens</w>
+    <w ref="2.14" lemma="lateo" pos="NOMcom" msd="Case=Abl|Mood=Inf|Tense=Pres|Voice=Act">latere</w>
+    <w ref="2.14" lemma="respondeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">respondit</w>
+    <w ref="2.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.14" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="2.14" lemma="ullus" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">ullis</w>
+    <w ref="2.14" lemma="deinde" pos="ADV" msd="Deg=Pos">deinde</w>
+    <w ref="2.14" lemma="terror" pos="NOMcom" msd="Case=Abl|Numb=Plur">terroribus</w>
+    <w ref="2.14" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="2.14" lemma="mors" pos="NOMcom" msd="Case=Abl|Numb=Sing">morte</w>
+    <w ref="2.14" lemma="constantia" pos="NOMcom" msd="Case=Acc|Numb=Sing">constantiam</w>
+    <w ref="2.14" lemma="uox" pos="NOMcom" msd="Case=Gen|Numb=Sing">vocis</w>
+    <w ref="2.14" lemma="egregius" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">egregiae</w>
+    <w ref="2.14" lemma="muto2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">mutavit</w>
+    <w ref="2.14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

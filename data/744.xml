@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Epistulae</title>, <biblScope>121.18-121.18</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi015.perseus-lat2:121.18-121.18" type="section">
+    <w ref="121.18" lemma="itaque" pos="CONcoo" msd="MORPH=empty">Itaque</w>
+    <w ref="121.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="121.18" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="121.18" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="121.18" lemma="prior" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp">prioribus</w>
+    <w ref="121.18" lemma="epistola" pos="NOMcom" msd="Case=Abl|Numb=Plur">epistulis</w>
+    <w ref="121.18" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">dixi</w>
+    <w ref="121.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="121.18" lemma="tener" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">tenera</w>
+    <w ref="121.18" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="121.18" lemma="animal" pos="NOMcom" msd="Case=Acc|Numb=Plur">animalia</w>
+    <w ref="121.18" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="121.18" lemma="maternus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">materno</w>
+    <w ana="#female #cunnus #womb" ref="121.18" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="121.18" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="121.18" lemma="ouum" pos="NOMcom" msd="Case=Abl|Numb=Sing">ovo</w>
+    <w ref="121.18" lemma="modo1" pos="ADV" msd="Deg=Pos">modo</w>
+    <w ref="121.18" lemma="effundo2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">effusa</w>
+    <w ref="121.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="121.18" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="121.18" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="121.18" lemma="infestus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">infestum</w>
+    <w ref="121.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="121.18" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Neut">ipsa</w>
+    <w ref="121.18" lemma="protinus" pos="ADV" msd="Deg=Pos">protinus</w>
+    <w ref="121.18" lemma="nosco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">norunt</w>
+    <w ref="121.18" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="121.18" lemma="mortifer" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">mortifera</w>
+    <w ref="121.18" lemma="deuito" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">devitant</w>
+    <w ref="121.18" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

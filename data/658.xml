@@ -1,0 +1,39 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Ovid</author>, <title>Metamorphoses</title>, <biblScope>10.477-10.481</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:10.477-10.481" type="line">
+    <w ref="10.477" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="10.477" lemma="latus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">latosque</w>
+    <w ref="10.477" lemma="que" pos="CON" msd="MORPH=empty">{latosque}</w>
+    <w ref="10.477" lemma="uagor2" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">vagata</w>
+    <w ref="10.477" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="10.477" lemma="ager" pos="NOMcom" msd="Case=Acc|Numb=Plur">agros</w>
+    <w ref="10.478" lemma="palmifer" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">palmiferos</w>
+    <w ref="10.478" lemma="araba" pos="NOMcom" msd="Case=Acc|Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act">Arabas</w>
+    <w ref="10.478" lemma="panchaeus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">Panchaeaque</w>
+    <w ref="10.478" lemma="que" pos="CON" msd="MORPH=empty">{Panchaeaque}</w>
+    <w ref="10.478" lemma="rus" pos="NOMcom" msd="Case=Acc|Numb=Plur">rura</w>
+    <w ref="10.478" lemma="relinquo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">reliquit</w>
+    <w ref="10.478" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="10.479" lemma="per" pos="PRE" msd="MORPH=empty">perque</w>
+    <w ref="10.479" lemma="que" pos="CON" msd="MORPH=empty">{perque}</w>
+    <w ref="10.479" lemma="nouem" pos="ADJcar" msd="Case=Ind">novem</w>
+    <w ref="10.479" lemma="erro2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">erravit</w>
+    <w ref="10.479" lemma="redeo1" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">redeuntis</w>
+    <w ref="10.479" lemma="cornu" pos="NOMcom" msd="Case=Acc|Numb=Plur">cornua</w>
+    <w ref="10.479" lemma="luna" pos="NOMcom" msd="Case=Gen|Numb=Sing">lunae</w>
+    <w ref="10.479" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.480" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="10.480" lemma="tandem" pos="ADV" msd="Deg=Pos">tandem</w>
+    <w ref="10.480" lemma="terra" pos="NOMcom" msd="Case=Nom|Numb=Sing">terra</w>
+    <w ref="10.480" lemma="requiesco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">requievit</w>
+    <w ref="10.480" lemma="fessus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">fessa</w>
+    <w ref="10.480" lemma="sabaea" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Sabaea</w>
+    <w ref="10.480" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="10.481" lemma="uix" pos="ADV" msd="Deg=Pos">vixque</w>
+    <w ref="10.481" lemma="que" pos="CON" msd="MORPH=empty">{vixque}</w>
+    <w ana="#female #cunnus #womb" ref="10.481" lemma="uterus" pos="NOMcom" msd="Case=Gen|Numb=Sing">uteri</w>
+    <w ref="10.481" lemma="porto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">portabat</w>
+    <w ref="10.481" lemma="onus" pos="NOMcom" msd="Case=Acc|Numb=Sing">onus</w>
+    <w ref="10.481" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

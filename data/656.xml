@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Ovid</author>, <title>Metamorphoses</title>, <biblScope>9.313-9.315</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:9.313-9.315" type="line">
+    <w ref="9.313" lemma="”" pos="PUNC" msd="MORPH=empty">”</w>
+    <w ref="9.314" lemma="exsilio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Exsiluit</w>
+    <w ref="9.314" lemma="iungo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">iunctasque</w>
+    <w ref="9.314" lemma="que" pos="CON" msd="MORPH=empty">{iunctasque}</w>
+    <w ref="9.314" lemma="manus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">manus</w>
+    <w ref="9.314" lemma="pauefacio" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">pavefacta</w>
+    <w ref="9.314" lemma="remitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">remisit</w>
+    <w ref="9.315" lemma="diua" pos="NOMcom" msd="Case=Nom|Numb=Sing">diva</w>
+    <w ref="9.315" lemma="potens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">potens</w>
+    <w ana="#female #cunnus #womb" ref="9.315" lemma="uterus" pos="NOMcom" msd="Case=Gen|Numb=Sing">uteri</w>
+    <w ref="9.315" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="9.315" lemma="uinculum" pos="NOMcom" msd="Case=Dat|Numb=Plur">vinclis</w>
+    <w ref="9.315" lemma="leuor" pos="NOMcom" msd="Case=Nom|Numb=Sing">levor</w>
+    <w ref="9.315" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ref="9.315" lemma="remissus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">remissis</w>
+    <w ref="9.315" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,29 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Hercules Oetaeus</title>, <biblScope>1676-1679</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi009.perseus-lat2:1676-1679" type="line">
+    <w ref="1676" lemma="pellex" pos="NOMcom" msd="Case=Gen|Numb=Sing">paelicis</w>
+    <w ref="1676" lemma="gaudeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3">gaudet</w>
+    <w ref="1676" lemma="suus" pos="PROpos.ref" msd="Case=Gen|Numb=Sing|Gend=Fem">suae</w>
+    <w ref="1677" lemma="specto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">spectare</w>
+    <w ref="1677" lemma="lacrima" pos="NOMcom" msd="Case=Acc|Numb=Plur">lacrimas</w>
+    <w ref="1677" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1677" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">comprime</w>
+    <w ref="1677" lemma="infirmus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">infirmum</w>
+    <w ref="1677" lemma="iecur" pos="NOMcom" msd="Case=Nom|Numb=Sing">iecur</w>
+    <w ref="1677" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1678" lemma="mater" pos="NOMcom" msd="Case=Nom|Numb=Sing">mater</w>
+    <w ref="1678" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="1678" lemma="nefas" pos="NOMcom" msd="Case=Ind">nefas</w>
+    <w ref="1678" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1678" lemma="uber1" pos="NOMcom" msd="Case=Acc|Numb=Plur">ubera</w>
+    <w ref="1678" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ana="#female #cunnus #womb" ref="1678" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="1678" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="1679" lemma="lanio2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">laniare</w>
+    <w ref="1679" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1679" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="1679" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="1679" lemma="gigno" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">genuit</w>
+    <w ref="1679" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

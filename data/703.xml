@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>6.18-6.18</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:6.18-6.18" type="chapter">
+    <w ref="6.18" lemma="tertius" pos="ADJord" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">Tertium</w>
+    <w ref="6.18" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="6.18" lemma="uitis" pos="NOMcom" msd="Case=Acc|Numb=Sing">vitium</w>
+    <w ref="6.18" lemma="os1" pos="NOMcom" msd="Case=Nom|Numb=Plur">ora</w>
+    <w ref="6.18" lemma="uena" pos="NOMcom" msd="Case=Gen|Numb=Plur">venarum</w>
+    <w ref="6.18" lemma="tamquam1" pos="ADVrel" msd="MORPH=empty">tamquam</w>
+    <w ref="6.18" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="6.18" lemma="capitulum" pos="NOMcom" msd="Case=Abl|Numb=Plur">capitulis</w>
+    <w ref="6.18" lemma="quidam" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">quibusdam</w>
+    <w ref="6.18" lemma="surgo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act">surgentia</w>
+    <w ref="6.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.18" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="6.18" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
+    <w ref="6.18" lemma="sanguis" pos="NOMcom" msd="Case=Acc|Numb=Sing">sanguinem</w>
+    <w ref="6.18" lemma="fundo2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fundunt</w>
+    <w ref="6.18" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="6.18" lemma="haemorrhoidus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">haemorrhoidas</w>
+    <w ref="6.18" lemma="Graeci" pos="ADJqua" msd="Case=Nom|Numb=Plur">Graeci</w>
+    <w ref="6.18" lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vocant</w>
+    <w ref="6.18" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="6.18" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">idque</w>
+    <w ref="6.18" lemma="que" pos="CON" msd="MORPH=empty">{idque}</w>
+    <w ref="6.18" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="6.18" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="6.18" lemma="os1" pos="NOMcom" msd="Case=Abl|Numb=Sing">ore</w>
+    <w ana="#female #cunnus #womb" ref="6.18" lemma="uolua" pos="NOMcom" msd="Case=Gen|Numb=Sing">volvae</w>
+    <w ref="6.18" lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Plur">feminarum</w>
+    <w ref="6.18" lemma="incido1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">incidere</w>
+    <w ref="6.18" lemma="consuesco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">consuevit</w>
+    <w ref="6.18" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,39 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus</author>, <title>de consolatione ad Marciam</title>, <biblScope>10.5-10.5</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0255.stoa007.perseus-lat2:10.5-10.5" type="section">
+    <w ref="10.5" lemma="mortuus2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut">mortuum</w>
+    <w ref="10.5" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="10.5" lemma="filius" pos="NOMcom" msd="Case=Acc|Numb=Sing">filium</w>
+    <w ref="10.5" lemma="doleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">doles</w>
+    <w ref="10.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.5" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="10.5" lemma="tempus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">temporis</w>
+    <w ref="10.5" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ref="10.5" lemma="nascor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">natus</w>
+    <w ref="10.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="10.5" lemma="crimen" pos="NOMcom" msd="Case=Nom|Numb=Sing">crimen</w>
+    <w ref="10.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="10.5" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="10.5" lemma="mors" pos="NOMcom" msd="Case=Nom|Numb=Sing">mors</w>
+    <w ref="10.5" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="10.5" lemma="ille" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">illi</w>
+    <w ref="10.5" lemma="denuntio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">denuntiata</w>
+    <w ref="10.5" lemma="nascor" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">nascenti</w>
+    <w ref="10.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="10.5" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="10.5" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="10.5" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">hanc</w>
+    <w ref="10.5" lemma="lex" pos="NOMcom" msd="Case=Acc|Numb=Sing">legem</w>
+    <w ref="10.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
+    <w ref="10.5" lemma="sero1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">satus</w>
+    <w ref="10.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.5" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="10.5" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">illum</w>
+    <w ref="10.5" lemma="fatum" pos="NOMcom" msd="Case=Acc|Numb=Sing">fatum</w>
+    <w ref="10.5" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ana="#female #cunnus #womb" ref="10.5" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="10.5" lemma="statim" pos="ADV" msd="Deg=Pos">statim</w>
+    <w ref="10.5" lemma="prosequor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Dep|Person=3">prosequebatur</w>
+    <w ref="10.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

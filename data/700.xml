@@ -1,0 +1,55 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>5.28-5.28</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:5.28-5.28" type="chapter">
+    <w ref="5.28" lemma="contrarius" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">contraria</w>
+    <w ref="5.28" lemma="hic1" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">his</w>
+    <w ref="5.28" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="5.28" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="5.28" lemma="item" pos="ADV" msd="Deg=Pos">itemque</w>
+    <w ref="5.28" lemma="que" pos="CON" msd="MORPH=empty">{itemque}</w>
+    <w ref="5.28" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="5.28" lemma="fistula" pos="NOMcom" msd="Case=Nom|Numb=Sing">fistula</w>
+    <w ref="5.28" lemma="os1" pos="NOMcom" msd="Case=Nom|Numb=Sing">os</w>
+    <w ref="5.28" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="5.28" lemma="cartilago" pos="NOMcom" msd="Case=Acc|Numb=Sing">cartilaginem</w>
+    <w ref="5.28" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="5.28" lemma="neruus" pos="NOMcom" msd="Case=Acc|Numb=Sing">nervum</w>
+    <w ref="5.28" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="5.28" lemma="musculus" pos="NOMcom" msd="Case=Acc|Numb=Plur">musculos</w>
+    <w ref="5.28" lemma="laedo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">laesit</w>
+    <w ref="5.28" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="5.28" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="5.28" lemma="articulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">articulum</w>
+    <w ref="5.28" lemma="occupo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">occupavit</w>
+    <w ref="5.28" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="5.28" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="5.28" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="5.28" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="5.28" lemma="uessica" pos="NOMcom" msd="Case=Acc|Numb=Sing">vessicam</w>
+    <w ref="5.28" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="5.28" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="5.28" lemma="pulmo" pos="NOMcom" msd="Case=Acc|Numb=Sing">pulmonem</w>
+    <w ref="5.28" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="5.28" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ana="#female #cunnus #womb" ref="5.28" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="5.28" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="5.28" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="5.28" lemma="grandis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">grandes</w>
+    <w ref="5.28" lemma="uena" pos="NOMcom" msd="Case=Acc|Numb=Plur">venas</w>
+    <w ref="5.28" lemma="arteria" pos="NOMcom" msd="Case=Acc|Numb=Plur">arteriasve</w>
+    <w ref="5.28" lemma="ue" pos="CON" msd="MORPH=empty">{arteriasve}</w>
+    <w ref="5.28" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="5.28" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="5.28" lemma="inane" pos="NOMcom" msd="Case=Acc|Numb=Plur">inania</w>
+    <w ref="5.28" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.28" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="5.28" lemma="guttur" pos="NOMcom" msd="Case=Nom|Numb=Sing">guttur</w>
+    <w ref="5.28" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.28" lemma="stomachus" pos="NOMcom" msd="Case=Acc|Numb=Sing">stomachum</w>
+    <w ref="5.28" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.28" lemma="thorax" pos="NOMcom" msd="Case=Acc|Numb=Sing">thoracem</w>
+    <w ref="5.28" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.28" lemma="penetro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">penetravit</w>
+    <w ref="5.28" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

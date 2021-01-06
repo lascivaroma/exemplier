@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Ovid</author>, <title>Metamorphoses</title>, <biblScope>10.469-10.470</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:10.469-10.470" type="line">
+    <w ref="10.469" lemma="plenus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Plena</w>
+    <w ref="10.469" lemma="pater" pos="NOMcom" msd="Case=Gen|Numb=Sing">patris</w>
+    <w ref="10.469" lemma="thalamus" pos="NOMcom" msd="Case=Abl|Numb=Plur">thalamis</w>
+    <w ref="10.469" lemma="excedo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">excedit</w>
+    <w ref="10.469" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="10.469" lemma="impius" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">impia</w>
+    <w ref="10.469" lemma="dirus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">diro</w>
+    <w ref="10.470" lemma="semen1" pos="NOMcom" msd="Case=Acc|Numb=Plur">semina</w>
+    <w ref="10.470" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fert</w>
+    <w ana="#female #cunnus #womb" ref="10.470" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="10.470" lemma="concipio" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">conceptaque</w>
+    <w ref="10.470" lemma="que" pos="CON" msd="MORPH=empty">{conceptaque}</w>
+    <w ref="10.470" lemma="crimen" pos="NOMcom" msd="Case=Acc|Numb=Plur">crimina</w>
+    <w ref="10.470" lemma="porto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">portat</w>
+    <w ref="10.470" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

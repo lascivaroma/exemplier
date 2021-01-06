@@ -1,0 +1,58 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Ovid</author>, <title>Metamorphoses</title>, <biblScope>2.626-2.632</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:2.626-2.632" type="line">
+    <w ref="2.626" lemma="ut4" pos="CONsub" msd="MORPH=empty">Ut</w>
+    <w ref="2.626" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="2.626" lemma="ingratus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">ingratos</w>
+    <w ref="2.626" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.626" lemma="pectus" pos="NOMcom" msd="Case=Acc|Numb=Plur">pectora</w>
+    <w ref="2.626" lemma="fundo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fudit</w>
+    <w ref="2.626" lemma="odor" pos="NOMcom" msd="Case=Acc|Numb=Plur">odores</w>
+    <w ref="2.627" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.627" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">dedit</w>
+    <w ref="2.627" lemma="amplexus" pos="NOMcom" msd="Case=Acc|Numb=Plur">amplexus</w>
+    <w ref="2.627" lemma="iniustus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">iniustaque</w>
+    <w ref="2.627" lemma="que" pos="CON" msd="MORPH=empty">{iniustaque}</w>
+    <w ref="2.627" lemma="iusta" pos="NOMcom" msd="Case=Acc|Numb=Plur">iusta</w>
+    <w ref="2.627" lemma="perago" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">peregit</w>
+    <w ref="2.627" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.628" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="2.628" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tulit</w>
+    <w ref="2.628" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.628" lemma="cinis" pos="NOMcom" msd="Case=Acc|Numb=Plur">cineres</w>
+    <w ref="2.628" lemma="labor2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">labi</w>
+    <w ref="2.628" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=Fem">sua</w>
+    <w ref="2.628" lemma="phoebus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Phoebus</w>
+    <w ref="2.628" lemma="idem" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Masc">eosdem</w>
+    <w ref="2.629" lemma="semen1" pos="NOMcom" msd="Case=Acc|Numb=Plur">semina</w>
+    <w ref="2.629" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.629" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="2.629" lemma="natus?" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut">natum</w>
+    <w ref="2.629" lemma="flamma" pos="NOMcom" msd="Case=Dat|Numb=Plur">flammis</w>
+    <w ana="#female #cunnus #womb" ref="2.629" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uteroque</w>
+    <w ref="2.629" lemma="que" pos="CON" msd="MORPH=empty">{uteroque}</w>
+    <w ref="2.629" lemma="parens1" pos="NOMcom" msd="Case=Gen|Numb=Sing">parentis</w>
+    <w ref="2.630" lemma="eripio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">eripuit</w>
+    <w ref="2.630" lemma="geminus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">geminique</w>
+    <w ref="2.630" lemma="que" pos="CON" msd="MORPH=empty">{geminique}</w>
+    <w ref="2.630" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tulit</w>
+    <w ref="2.630" lemma="chiron" pos="NOMcom" msd="Case=Gen|Numb=Sing">Chironis</w>
+    <w ref="2.630" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.630" lemma="antrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">antrum</w>
+    <w ref="2.630" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.631" lemma="spero" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">sperantemque</w>
+    <w ref="2.631" lemma="que" pos="CON" msd="MORPH=empty">{sperantemque}</w>
+    <w ref="2.631" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="2.631" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="2.631" lemma="falsus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">falsae</w>
+    <w ref="2.631" lemma="praemium" pos="NOMcom" msd="Case=Acc|Numb=Plur">praemia</w>
+    <w ref="2.631" lemma="lingua" pos="NOMcom" msd="Case=Gen|Numb=Sing">linguae</w>
+    <w ref="2.632" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="2.632" lemma="auis" pos="NOMcom" msd="Case=Acc|Numb=Plur">aves</w>
+    <w ref="2.632" lemma="alba" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">albas</w>
+    <w ref="2.632" lemma="ueto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">vetuit</w>
+    <w ref="2.632" lemma="consisto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">consistere</w>
+    <w ref="2.632" lemma="coruus" pos="NOMcom" msd="Case=Acc|Numb=Sing">corvum</w>
+    <w ref="2.632" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

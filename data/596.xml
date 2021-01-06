@@ -1,0 +1,42 @@
+<div type="fragment" corresp="adams:104" ana="#female #metaphore #labia #automatic">
+  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>I.21-I.21</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.21-I.21" type="part">
+    <w ref="I.21" lemma="interior2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">interior</w>
+    <w ref="I.21" lemma="ergo2" pos="CONcoo" msd="MORPH=empty">ergo</w>
+    <w ref="I.21" lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing">pars</w>
+    <w ref="I.21" lemma="collum" pos="NOMcom" msd="Case=Abl|Numb=Sing">collo</w>
+    <w ref="I.21" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ref="I.21" lemma="connecto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">connectitur</w>
+    <w ref="I.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.21" lemma="exter" pos="ADV" msd="Case=Nom|Gend=Neut|Deg=Comp">exterius</w>
+    <w ref="I.21" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
+    <w ref="I.21" lemma="fibra" pos="NOMcom" msd="Case=Dat|Numb=Plur">fibris</w>
+    <w ref="I.21" lemma="annecto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">adnexa</w>
+    <w ref="I.21" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="I.21" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">quas</w>
+    <w ana="#female #metaphore #labia #automatic" ref="I.21" lemma="pinna" pos="NOMcom" msd="Case=Acc|Numb=Plur">pinnas</w>
+    <w ref="I.21" lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vocant</w>
+    <w ref="I.21" lemma="femininus" pos="ADJqua" msd="Case=Nom|Numb=Sing">feminini</w>
+    <w ref="I.21" lemma="sinus" pos="NOMcom" msd="Case=Nom|Numb=Plur">sinus</w>
+    <w ref="I.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.21" lemma="inferus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp">inferius</w>
+    <w ref="I.21" lemma="sessio" pos="NOMcom" msd="Case=Dat|Numb=Sing">sessioni</w>
+    <w ref="I.21" lemma="siue2" pos="CONsub" msd="MORPH=empty">sive</w>
+    <w ref="I.21" lemma="longao" pos="NOMcom" msd="Case=Dat|Numb=Sing">longaoni</w>
+    <w ref="I.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.21" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="I.21" lemma="uterque" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">utroque</w>
+    <w ref="I.21" lemma="latus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">latere</w>
+    <w ref="I.21" lemma="caro1" pos="NOMcom" msd="Case=Abl|Numb=Plur">carnibus</w>
+    <w ref="I.21" lemma="ossis" pos="NOMcom" msd="Case=Gen|Numb=Plur">ossium</w>
+    <w ref="I.21" lemma="que" pos="PROrel" msd="Case=Nom|Numb=Sing">que</w>
+    <w ref="I.21" lemma="grex" pos="NOMcom" msd="Case=Dat|Numb=Sing">Greci</w>
+    <w ref="I.21" lemma="scio" pos="VER" msd="Numb=Sing">scia</w>
+    <w ref="I.21" lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vocant</w>
+    <w ref="I.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.21" lemma="superus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Comp">superius</w>
+    <w ref="I.21" lemma="collum" pos="NOMcom" msd="Case=Abl|Numb=Sing">collo</w>
+    <w ref="I.21" lemma="uesicus" pos="NOMcom" msd="Case=Abl|Numb=Sing">vesice</w>
+    <w ref="I.21" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

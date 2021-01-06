@@ -1,0 +1,66 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus</author>, <title>de consolatione ad Helviam</title>, <biblScope>16.3-16.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0255.stoa006.perseus-lat2:16.3-16.4" type="section">
+    <w ref="16.3" lemma="periculosus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">periculosa</w>
+    <w ref="16.3" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="16.3" lemma="probus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">probis</w>
+    <w ref="16.3" lemma="malum3" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=MascNeut|Deg=Comp">peiorum</w>
+    <w ref="16.3" lemma="detorqueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">detorsit</w>
+    <w ref="16.3" lemma="imitatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">imitatio</w>
+    <w ref="16.3" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="16.3" lemma="numquam" pos="ADVneg" msd="MORPH=empty">numquam</w>
+    <w ref="16.3" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="16.3" lemma="fecunditas" pos="NOMcom" msd="Case=Gen|Numb=Sing">fecunditatis</w>
+    <w ref="16.3" lemma="tuus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=Fem">tuae</w>
+    <w ref="16.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="16.3" lemma="quasi1" pos="ADVrel" msd="MORPH=empty">quasi</w>
+    <w ref="16.3" lemma="exprobro" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">exprobraret</w>
+    <w ref="16.3" lemma="aetas" pos="NOMcom" msd="Case=Acc|Numb=Sing">aetatem</w>
+    <w ref="16.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="16.3" lemma="pudeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">puduit</w>
+    <w ref="16.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="16.3" lemma="numquam" pos="ADVneg" msd="MORPH=empty">numquam</w>
+    <w ref="16.3" lemma="mos" pos="NOMcom" msd="Case=Abl|Numb=Sing">more</w>
+    <w ref="16.3" lemma="alius" pos="PROind" msd="Case=Gen|Numb=Plur|Gend=Fem">aliarum</w>
+    <w ref="16.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="16.3" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibus</w>
+    <w ref="16.3" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">omnis</w>
+    <w ref="16.3" lemma="commendatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">commendatio</w>
+    <w ref="16.3" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="16.3" lemma="forma" pos="NOMcom" msd="Case=Abl|Numb=Sing">forma</w>
+    <w ref="16.3" lemma="peto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">petitur</w>
+    <w ref="16.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="16.3" lemma="tumesco" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">tumescentem</w>
+    <w ana="#female #cunnus #womb" ref="16.3" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="16.3" lemma="abscondo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">abscondisti</w>
+    <w ref="16.3" lemma="quasi1" pos="ADVrel" msd="MORPH=empty">quasi</w>
+    <w ref="16.3" lemma="indecens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">indecens</w>
+    <w ref="16.3" lemma="onus" pos="NOMcom" msd="Case=Acc|Numb=Sing">onus</w>
+    <w ref="16.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="16.3" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="16.3" lemma="intra2" pos="PRE" msd="MORPH=empty">intra</w>
+    <w ref="16.3" lemma="uiscus2" pos="NOMcom" msd="Case=Acc|Numb=Plur">viscera</w>
+    <w ref="16.3" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Neut">tua</w>
+    <w ref="16.3" lemma="concipio" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">conceptas</w>
+    <w ref="16.3" lemma="spes" pos="NOMcom" msd="Case=Acc|Numb=Plur">spes</w>
+    <w ref="16.3" lemma="liberi" pos="NOMcom" msd="Case=Gen|Numb=Plur">liberorum</w>
+    <w ref="16.3" lemma="elido" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">elisisti</w>
+    <w ref="16.3" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="16.3" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="16.3" lemma="facies" pos="NOMcom" msd="Case=Acc|Numb=Sing">faciem</w>
+    <w ref="16.3" lemma="color" pos="NOMcom" msd="Case=Abl|Numb=Plur">coloribus</w>
+    <w ref="16.3" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="16.3" lemma="lenocinium" pos="NOMcom" msd="Case=Abl|Numb=Plur">lenociniis</w>
+    <w ref="16.3" lemma="polluo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">polluisti</w>
+    <w ref="16.3" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="16.4" lemma="numquam" pos="ADVneg" msd="MORPH=empty">numquam</w>
+    <w ref="16.4" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="16.4" lemma="placeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">placuit</w>
+    <w ref="16.4" lemma="uestis" pos="NOMcom" msd="Case=Nom|Numb=Sing">vestis</w>
+    <w ref="16.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="16.4" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="16.4" lemma="nihil" pos="PROind" msd="Case=Ind|Gend=Neut">nihil</w>
+    <w ref="16.4" lemma="amplus" pos="ADV" msd="Deg=Comp">amplius</w>
+    <w ref="16.4" lemma="nudo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">nudaret</w>
+  </quote>
+</div>

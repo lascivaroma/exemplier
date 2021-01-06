@@ -1,0 +1,54 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>5.25-5.25</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:5.25-5.25" type="chapter">
+    <w ref="5.25" lemma="siue1" pos="CONcoo" msd="MORPH=empty">Sive</w>
+    <w ref="5.25" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="5.25" lemma="caput" pos="NOMcom" msd="Case=Gen|Numb=Sing">capitis</w>
+    <w ref="5.25" lemma="dolor" pos="NOMcom" msd="Case=Nom|Numb=Plur">dolores</w>
+    <w ref="5.25" lemma="siue1" pos="CONcoo" msd="MORPH=empty">sive</w>
+    <w ref="5.25" lemma="ulcus" pos="NOMcom" msd="Case=Nom|Numb=Plur">ulcera</w>
+    <w ref="5.25" lemma="siue1" pos="CONcoo" msd="MORPH=empty">sive</w>
+    <w ref="5.25" lemma="lippitudo" pos="NOMcom" msd="Case=Nom|Numb=Sing">lippitudo</w>
+    <w ref="5.25" lemma="siue1" pos="CONcoo" msd="MORPH=empty">sive</w>
+    <w ref="5.25" lemma="dens" pos="NOMcom" msd="Case=Nom|Numb=Plur">dentes</w>
+    <w ref="5.25" lemma="siue2" pos="CONsub" msd="MORPH=empty">sive</w>
+    <w ref="5.25" lemma="spiritus" pos="NOMcom" msd="Case=Nom|Numb=Sing">spiritus</w>
+    <w ref="5.25" lemma="difficultas" pos="NOMcom" msd="Case=Nom|Numb=Sing">difficultas</w>
+    <w ref="5.25" lemma="siue2" pos="CONsub" msd="MORPH=empty">sive</w>
+    <w ref="5.25" lemma="intestinus" pos="NOMcom" msd="Case=Gen|Numb=Plur">intestinorum</w>
+    <w ref="5.25" lemma="tormentum" pos="NOMcom" msd="Case=Nom|Numb=Plur">tormenta</w>
+    <w ref="5.25" lemma="siue2" pos="CONsub" msd="MORPH=empty">sive</w>
+    <w ref="5.25" lemma="inflammatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">inflammatio</w>
+    <w ana="#female #cunnus #womb" ref="5.25" lemma="uulua" pos="NOMcom" msd="Case=Gen|Numb=Sing">vulvae</w>
+    <w ref="5.25" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="5.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.25" lemma="siue2" pos="CONsub" msd="MORPH=empty">sive</w>
+    <w ref="5.25" lemma="coxa" pos="NOMcom" msd="Case=Nom|Numb=Sing">coxa</w>
+    <w ref="5.25" lemma="siue2" pos="CONsub" msd="MORPH=empty">sive</w>
+    <w ref="5.25" lemma="iecur" pos="NOMcom" msd="Case=Nom|Numb=Sing">iecur</w>
+    <w ref="5.25" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="5.25" lemma="liena" pos="NOMcom" msd="Case=Abl|Numb=Plur">lienis</w>
+    <w ref="5.25" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="5.25" lemma="latus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">latus</w>
+    <w ref="5.25" lemma="torqueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">torquet</w>
+    <w ref="5.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.25" lemma="siue2" pos="CONsub" msd="MORPH=empty">sive</w>
+    <w ref="5.25" lemma="uitium" pos="NOMcom" msd="Case=Abl|Numb=Sing">vitio</w>
+    <w ref="5.25" lemma="locus" pos="NOMcom" msd="Case=Gen|Numb=Plur">locorum</w>
+    <w ref="5.25" lemma="aliquis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">aliqua</w>
+    <w ref="5.25" lemma="prolabor2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">prolabitur</w>
+    <w ref="5.25" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.25" lemma="obmutesco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ommutescit</w>
+    <w ref="5.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.25" lemma="occurro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">occurrit</w>
+    <w ref="5.25" lemma="dolor" pos="NOMcom" msd="Case=Dat|Numb=Sing">dolori</w>
+    <w ref="5.25" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="5.25" lemma="quies" pos="NOMcom" msd="Case=Acc|Numb=Sing">quietem</w>
+    <w ref="5.25" lemma="eiusmodi" pos="ADV" msd="Deg=Pos">eiusmodi</w>
+    <w ref="5.25" lemma="catapotium" pos="NOMcom" msd="Case=Acc|Numb=Sing">catapotium</w>
+    <w ref="5.25" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="5.25" lemma="siles" pos="NOMcom" msd="Case=Gen|Numb=Sing">silis</w>
+    <w ref="5.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.25" lemma="acor" pos="NOMcom" msd="Case=Gen|Numb=Sing">acori</w>
+  </quote>
+</div>

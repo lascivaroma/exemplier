@@ -1,0 +1,32 @@
+<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
+  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>I.82-I.82</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.82-I.82" type="part">
+    <w ref="I.82" lemma="ypocrates" pos="NOMcom" msd="Case=Nom|Numb=Sing">Ypocrates</w>
+    <w ref="I.82" lemma="denique" pos="ADV" msd="Deg=Pos">denique</w>
+    <w ref="I.82" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="I.82" lemma="corruptiuus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Neut|Deg=Pos">corruptiva</w>
+    <w ref="I.82" lemma="do" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">dari</w>
+    <w ref="I.82" lemma="medicamen" pos="NOMcom" msd="Case=Acc|Numb=Plur">medicamina</w>
+    <w ref="I.82" lemma="prohibeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">prohibet</w>
+    <w ref="I.82" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.82" lemma="liber1" pos="NOMcom" msd="Case=Abl|Numb=Sing">libro</w>
+    <w ref="I.82" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+    <w ref="I.82" lemma="de" pos="PRE" msd="MORPH=empty">De</w>
+    <w ref="I.82" lemma="puerilis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">puerili</w>
+    <w ref="I.82" lemma="natura" pos="NOMcom" msd="Case=Abl|Numb=Sing">natura</w>
+    <w ref="I.82" lemma="conscribo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">conscripsit</w>
+    <w ref="I.82" lemma="discretio" pos="NOMcom" msd="Case=Gen|Numb=Sing">discretionis</w>
+    <w ref="I.82" lemma="causa" pos="NOMcom" msd="Case=Abl|Numb=Sing">causa</w>
+    <w ref="I.82" lemma="iubeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">iussit</w>
+    <w ref="I.82" lemma="femina" pos="NOMcom" msd="Case=Acc|Numb=Plur">feminas</w>
+    <w ref="I.82" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=MascNeut">suo</w>
+    <w ref="I.82" lemma="saltus2" pos="NOMcom" msd="Case=Abl|Numb=Sing">saltu</w>
+    <w ref="I.82" lemma="natica" pos="NOMcom" msd="Case=Gen|Numb=Plur">naticarum</w>
+    <w ana="#female #cunnus #labia" ref="I.82" lemma="fibra" pos="NOMcom" msd="Case=Acc|Numb=Plur">fibras</w>
+    <w ref="I.82" lemma="par2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">pari</w>
+    <w ref="I.82" lemma="planta" pos="NOMcom" msd="Case=Gen|Numb=Plur">plantarum</w>
+    <w ref="I.82" lemma="percussus" pos="NOMcom" msd="Case=Abl|Numb=Sing">percussu</w>
+    <w ref="I.82" lemma="pulto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">pultare</w>
+    <w ref="I.82" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

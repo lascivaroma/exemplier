@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
+  <bibl><author>Plautus, Titus Maccius</author>, <title>Truculentus</title>, <biblScope>511-511</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi020.perseus-lat2:511-511" type="line">
+    <w ref="511" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="511" lemma="ille" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Masc">illi</w>
+    <w ref="511" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ana="#female #cunnus #labia" ref="511" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="511" lemma="exitium" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">exitiost</w>
+    <w ref="511" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">{exitiost}</w>
+    <w ref="511" lemma="prius" pos="ADJadv.ord" msd="Deg=Comp">prius</w>
+    <w ref="511" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="511" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">poterat</w>
+    <w ref="511" lemma="eo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ire</w>
+    <w ref="511" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="511" lemma="proelium" pos="NOMcom" msd="Case=Acc|Numb=Sing">proelium</w>
+    <w ref="511" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

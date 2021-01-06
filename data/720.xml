@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Tacitus, Cornelius</author>, <title>Annales</title>, <biblScope>14.8-14.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1351.phi005.lascivaroma-lat1:14.8-14.8" type="chapter">
+    <w ref="14.8" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="14.8" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="14.8" lemma="mors" pos="NOMcom" msd="Case=Acc|Numb=Sing">mortem</w>
+    <w ref="14.8" lemma="centurio1" pos="NOMcom" msd="Case=Dat|Numb=Sing">centurioni</w>
+    <w ref="14.8" lemma="ferrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">ferrum</w>
+    <w ref="14.8" lemma="destringo" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">destringenti</w>
+    <w ref="14.8" lemma="protendo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">protendens</w>
+    <w ana="#female #cunnus #womb" ref="14.8" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="14.8" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="14.8" lemma="uenter" pos="NOMcom" msd="Case=Acc|Numb=Sing">ventrem</w>
+    <w ref="14.8" lemma="ferus2" pos="ADJqua" msd="Case=Gen|Numb=Sing|Deg=Pos">feri</w>
+    <w ref="14.8" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="14.8" lemma="exclamo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">exclamavit</w>
+    <w ref="14.8" lemma="multus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">multisque</w>
+    <w ref="14.8" lemma="que" pos="CON" msd="MORPH=empty">{multisque}</w>
+    <w ref="14.8" lemma="uulnus" pos="NOMcom" msd="Case=Abl|Numb=Plur">vulneribus</w>
+    <w ref="14.8" lemma="conficio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">confecta</w>
+    <w ref="14.8" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="14.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

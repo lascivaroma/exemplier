@@ -1,0 +1,54 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #voisinage #womb">
+  <bibl><author>Lucretius</author>, <title>De Rerum Natura</title>, <biblScope>5.222-5.227</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:5.222-5.227" type="line">
+    <w ref="5.222" lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>
+    <w ref="5.222" lemma="porro" pos="ADV" msd="Deg=Pos">porro</w>
+    <w ref="5.222" lemma="puer" pos="NOMcom" msd="Case=Nom|Numb=Sing">puer</w>
+    <w ref="5.222" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.222" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="5.222" lemma="saeuus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">saevis</w>
+    <w ref="5.222" lemma="proicio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">proiectus</w>
+    <w ref="5.222" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="5.222" lemma="unda" pos="NOMcom" msd="Case=Abl|Numb=Plur">undis</w>
+    <w ref="5.223" lemma="nauta" pos="NOMcom" msd="Case=Nom|Numb=Sing">navita</w>
+    <w ref="5.223" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.223" lemma="nudus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">nudus</w>
+    <w ref="5.223" lemma="humus" pos="NOMcom" msd="Case=Loc|Numb=Sing">humi</w>
+    <w ref="5.223" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iacet</w>
+    <w ref="5.223" lemma="infans1" pos="NOMcom" msd="Case=Nom|Numb=Sing">infans</w>
+    <w ref="5.223" lemma="indigus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">indigus</w>
+    <w ref="5.223" lemma="omnis" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Com">omni</w>
+    <w ref="5.224" lemma="uitalis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">vitali</w>
+    <w ref="5.224" lemma="auxilium" pos="NOMcom" msd="Case=Abl|Numb=Sing">auxilio</w>
+    <w ref="5.224" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.224" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="5.224" lemma="primum" pos="ADJadv.ord" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Sup">primum</w>
+    <w ref="5.224" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="5.224" lemma="lumen" pos="NOMcom" msd="Case=Gen|Numb=Sing">luminis</w>
+    <w ref="5.224" lemma="ora" pos="NOMcom" msd="Case=Acc|Numb=Plur">oras</w>
+    <w ref="5.225" lemma="nixus" pos="NOMcom" msd="Case=Abl|Numb=Plur">nixibus</w>
+    <w ref="5.225" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ana="#female #cunnus #voisinage #womb" ref="5.225" lemma="aluus" pos="NOMcom" msd="Case=Abl|Numb=Sing">alvo</w>
+    <w ref="5.225" lemma="mater" pos="NOMcom" msd="Case=Gen|Numb=Sing">matris</w>
+    <w ref="5.225" lemma="natura" pos="NOMcom" msd="Case=Nom|Numb=Sing">natura</w>
+    <w ref="5.225" lemma="profundo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">profudit</w>
+    <w ref="5.225" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.226" lemma="uagitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">vagituque</w>
+    <w ref="5.226" lemma="que" pos="CON" msd="MORPH=empty">{vagituque}</w>
+    <w ref="5.226" lemma="locus" pos="NOMcom" msd="Case=Acc|Numb=Sing">locum</w>
+    <w ref="5.226" lemma="lugubris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">lugubri</w>
+    <w ref="5.226" lemma="compleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">complet</w>
+    <w ref="5.226" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.226" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="5.226" lemma="aequus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">aequumst</w>
+    <w ref="5.226" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">{aequumst}</w>
+    <w ref="5.227" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
+    <w ref="5.227" lemma="tantum2" pos="ADV" msd="Numb=Sing|Deg=Pos">tantum</w>
+    <w ref="5.227" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="5.227" lemma="uita" pos="NOMcom" msd="Case=Abl|Numb=Sing">vita</w>
+    <w ref="5.227" lemma="resto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">restet</w>
+    <w ref="5.227" lemma="transeo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">transire</w>
+    <w ref="5.227" lemma="malum1" pos="NOMcom" msd="Case=Gen|Numb=Plur">malorum</w>
+    <w ref="5.227" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

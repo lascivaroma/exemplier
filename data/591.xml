@@ -1,0 +1,32 @@
+<div type="fragment" corresp="adams:104" ana="#female #metaphore #labia #automatic">
+  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>II.126-II.126</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.126-II.126" type="part">
+    <w ref="II.126" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="II.126" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
+    <w ana="#female #metaphore #labia #automatic" ref="II.126" lemma="pinnaculum" pos="NOMcom" msd="Case=Dat|Numb=Plur">pinnaculis</w>
+    <w ref="II.126" lemma="pateo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">patentibus</w>
+    <w ref="II.126" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="II.126" lemma="medium" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Neut|Deg=Pos">medio</w>
+    <w ref="II.126" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+    <w ref="II.126" lemma="muliebris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">muliebri</w>
+    <w ref="II.126" lemma="claudo1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">clausura</w>
+    <w ref="II.126" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">fuerit</w>
+    <w ref="II.126" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.126" lemma="commixtio" pos="NOMcom" msd="Case=Nom|Numb=Sing">commixtio</w>
+    <w ref="II.126" lemma="uir" pos="NOMcom" msd="Case=Gen|Numb=Sing">viri</w>
+    <w ref="II.126" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="II.126" lemma="concipio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc">conceptus</w>
+    <w ref="II.126" lemma="impedio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">impediuntur</w>
+    <w ref="II.126" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.126" lemma="siquidem" pos="CONsub" msd="MORPH=empty">siquidem</w>
+    <w ref="II.126" lemma="menstruus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">menstrua</w>
+    <w ref="II.126" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="II.126" lemma="cauerna" pos="NOMcom" msd="Case=Acc|Numb=Plur">cavernas</w>
+    <w ref="II.126" lemma="uesici" pos="NOMcom" msd="Case=Abl|Numb=Sing">vesice</w>
+    <w ref="II.126" lemma="administro" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">administrata</w>
+    <w ref="II.126" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="II.126" lemma="urina" pos="NOMcom" msd="Case=Acc|Numb=Sing">urinam</w>
+    <w ref="II.126" lemma="effundo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">effunditur</w>
+    <w ref="II.126" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

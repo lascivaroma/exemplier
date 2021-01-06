@@ -1,0 +1,41 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Lucan</author>, <title>Civil War</title>, <biblScope>1.587-1.591</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0917.phi001.perseus-lat2:1.587-1.591" type="line">
+    <w ref="1.587" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.587" lemma="uena" pos="NOMcom" msd="Case=Acc|Numb=Plur">venasque</w>
+    <w ref="1.587" lemma="que" pos="CON" msd="MORPH=empty">{venasque}</w>
+    <w ref="1.587" lemma="caleo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">calentes</w>
+    <w ref="1.588" lemma="fibra" pos="NOMcom" msd="Case=Gen|Numb=Plur">Fibrarum</w>
+    <w ref="1.588" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.588" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.588" lemma="moneo" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Masc">monitus</w>
+    <w ref="1.588" lemma="uolito" pos="VER" msd="Case=Gen|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">volitantis</w>
+    <w ref="1.588" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.588" lemma="aer" pos="NOMcom" msd="Case=Abl|Numb=Sing">aere</w>
+    <w ref="1.588" lemma="penna" pos="NOMcom" msd="Case=Gen|Numb=Sing">pennae</w>
+    <w ref="1.588" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.589" lemma="monstrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">Monstra</w>
+    <w ref="1.589" lemma="iubeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iubet</w>
+    <w ref="1.589" lemma="primum" pos="ADJadv.ord" msd="Deg=Sup">primum</w>
+    <w ref="1.589" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.589" lemma="nullus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">nullo</w>
+    <w ref="1.589" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="1.589" lemma="semen1" pos="NOMcom" msd="Case=Abl|Numb=Sing">semine</w>
+    <w ref="1.589" lemma="discors" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">discors</w>
+    <w ref="1.590" lemma="profero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">Protulerat</w>
+    <w ref="1.590" lemma="natura" pos="NOMcom" msd="Case=Nom|Numb=Sing">natura</w>
+    <w ref="1.590" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.590" lemma="rapio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">rapi</w>
+    <w ref="1.590" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.590" lemma="sterilis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">sterilique</w>
+    <w ref="1.590" lemma="que" pos="CON" msd="MORPH=empty">{sterilique}</w>
+    <w ref="1.590" lemma="nefandus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">nefandos</w>
+    <w ref="1.591" lemma="ex" pos="PRE" msd="MORPH=empty">Ex</w>
+    <w ana="#female #cunnus #womb" ref="1.591" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="1.591" lemma="fetus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">fetus</w>
+    <w ref="1.591" lemma="infaustus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">infaustis</w>
+    <w ref="1.591" lemma="uro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">urere</w>
+    <w ref="1.591" lemma="flamma" pos="NOMcom" msd="Case=Abl|Numb=Plur">flammis</w>
+    <w ref="1.591" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

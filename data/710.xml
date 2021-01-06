@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>7.29-7.29</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:7.29-7.29" type="chapter">
+    <w ref="7.29" lemma="tum" pos="ADV" msd="Deg=Pos">Tum</w>
+    <w ref="7.29" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="7.29" lemma="ago" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">agendum</w>
+    <w ref="7.29" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.29" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="7.29" lemma="ante2" pos="PRE" msd="MORPH=empty">ante</w>
+    <w ref="7.29" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+    <w ref="7.29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.29" lemma="deinde" pos="ADV" msd="Deg=Pos">deinde</w>
+    <w ref="7.29" lemma="reliquus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">reliqua</w>
+    <w ref="7.29" lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing">pars</w>
+    <w ref="7.29" lemma="aufero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">auferatur</w>
+    <w ref="7.29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.29" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+    <w ref="7.29" lemma="fere" pos="ADV" msd="Deg=Pos">fere</w>
+    <w ref="7.29" lemma="magnus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Comp">maiore</w>
+    <w ref="7.29" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing">parte</w>
+    <w ref="7.29" lemma="extraho" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">extracta</w>
+    <w ref="7.29" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+    <w ref="7.29" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="7.29" lemma="uacuus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">vacuam</w>
+    <w ana="#female #cunnus #womb" ref="7.29" lemma="uolua" pos="NOMcom" msd="Case=Acc|Numb=Sing">volvam</w>
+    <w ref="7.29" lemma="prolabor2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">prolabitur</w>
+    <w ref="7.29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.29" lemma="extraho" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">extrahique</w>
+    <w ref="7.29" lemma="que" pos="CON" msd="MORPH=empty">{extrahique}</w>
+    <w ref="7.29" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="7.29" lemma="superus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Sup">summo</w>
+    <w ref="7.29" lemma="periculum" pos="NOMcom" msd="Case=Abl|Numb=Sing">periculo</w>
+    <w ref="7.29" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="7.29" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">potest</w>
+    <w ref="7.29" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

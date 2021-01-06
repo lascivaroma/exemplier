@@ -1,0 +1,26 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>P. Vergilius Maro</author>, <title>Aeneid</title>, <biblScope>3.426-3.428</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi003.perseus-lat2:3.426-3.428" type="line">
+    <w ref="3.426" lemma="primus" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Sup">Prima</w>
+    <w ref="3.426" lemma="homo" pos="NOMcom" msd="Case=Gen|Numb=Sing">hominis</w>
+    <w ref="3.426" lemma="facies" pos="NOMcom" msd="Case=Nom|Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">facies</w>
+    <w ref="3.426" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.426" lemma="pulcher" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">pulchro</w>
+    <w ref="3.426" lemma="pectus" pos="NOMcom" msd="Case=Abl|Numb=Sing">pectore</w>
+    <w ref="3.426" lemma="uirgo" pos="NOMcom" msd="Case=Nom|Numb=Sing">virgo</w>
+    <w ref="3.427" lemma="pubes1" pos="NOMcom" msd="Case=Abl|Numb=Sing">pube</w>
+    <w ref="3.427" lemma="tenus2" pos="PRE" msd="MORPH=empty">tenus</w>
+    <w ref="3.427" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.427" lemma="posterus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Sup">postrema</w>
+    <w ref="3.427" lemma="immanis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">immani</w>
+    <w ref="3.427" lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
+    <w ref="3.427" lemma="pristis" pos="NOMcom" msd="Case=Nom|Numb=Sing">pristis</w>
+    <w ref="3.427" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.428" lemma="delphin" pos="NOMcom" msd="Case=Acc|Numb=Plur">delphinum</w>
+    <w ref="3.428" lemma="cauda" pos="NOMcom" msd="Case=Acc|Numb=Plur">caudas</w>
+    <w ana="#female #cunnus #womb" ref="3.428" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="3.428" lemma="committo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">commissa</w>
+    <w ref="3.428" lemma="lupus" pos="NOMcom" msd="Case=Gen|Numb=Plur">luporum</w>
+    <w ref="3.428" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

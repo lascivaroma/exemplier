@@ -1,0 +1,40 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Phoenissae</title>, <biblScope>535-540</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi003.perseus-lat2:535-540" type="line">
+    <w ref="535" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="535" lemma="decem" pos="ADJcar" msd="Case=Ind">decem</w>
+    <w ref="535" lemma="mensis" pos="NOMcom" msd="Case=Gen|Numb=Plur">mensum</w>
+    <w ref="535" lemma="grauis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">graves</w>
+    <w ana="#female #cunnus #womb" ref="536" lemma="uterus" pos="NOMcom" msd="Case=Voc|Numb=Sing">uteri</w>
+    <w ref="536" lemma="labor1" pos="NOMcom" msd="Case=Acc|Numb=Plur">labores</w>
+    <w ref="536" lemma="per" pos="PRE" msd="MORPH=empty">perque</w>
+    <w ref="536" lemma="que" pos="CON" msd="MORPH=empty">{perque}</w>
+    <w ref="536" lemma="pietas" pos="NOMcom" msd="Case=Acc|Numb=Sing">pietatem</w>
+    <w ref="536" lemma="inclutus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">inclitae</w>
+    <w ref="537" lemma="precor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">precor</w>
+    <w ref="537" lemma="soror" pos="NOMcom" msd="Case=Gen|Numb=Sing">sororis</w>
+    <w ref="537" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="537" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="537" lemma="iratus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=MascNeut|Deg=Pos">irati</w>
+    <w ref="537" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="538" lemma="gena" pos="NOMcom" msd="Case=Acc|Numb=Plur">genas</w>
+    <w ref="538" lemma="parens1" pos="NOMcom" msd="Case=Gen|Numb=Sing">parentis</w>
+    <w ref="538" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="538" lemma="scelus" pos="NOMcom" msd="Case=Abl|Numb=Sing">scelere</w>
+    <w ref="538" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">quas</w>
+    <w ref="538" lemma="nullus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">nullo</w>
+    <w ref="538" lemma="nocens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">nocens</w>
+    <w ref="538" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="539" lemma="error" pos="NOMcom" msd="Case=Gen|Numb=Sing">erroris</w>
+    <w ref="539" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="539" lemma="sui1" pos="PROref" msd="Case=Abl|Numb=Sing">se</w>
+    <w ref="539" lemma="dirus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Neut|Deg=Pos">dira</w>
+    <w ref="539" lemma="supplicium" pos="NOMcom" msd="Case=Acc|Numb=Plur">supplicia</w>
+    <w ref="539" lemma="exigo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">exigens</w>
+    <w ref="539" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="540" lemma="haurio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">hausit</w>
+    <w ref="540" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="540" lemma="nefandus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">nefandas</w>
+    <w ref="540" lemma="moenia" pos="NOMcom" msd="Case=Abl|Numb=Plur">moenibus</w>
+  </quote>
+</div>

@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
+  <bibl><author>Plautus, Titus Maccius</author>, <title>Aulularia</title>, <biblScope>691-691</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi003.perseus-lat2:691-691" type="line">
+    <w ref="691" lemma="obsecro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">obsecro</w>
+    <w ref="691" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="691" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#female #cunnus #labia" ref="691" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="691" lemma="doleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dolet</w>
+    <w ref="691" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

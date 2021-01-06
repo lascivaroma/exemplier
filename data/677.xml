@@ -1,0 +1,41 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Valerius Flaccus, Gaius</author>, <title>Argonautica</title>, <biblScope>2.322-2.325</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1035.phi001.perseus-lat2:2.322-2.325" type="line">
+    <w ref="2.322" lemma="do" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1">demus</w>
+    <w ref="2.322" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="2.322" lemma="aio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ait</w>
+    <w ref="2.322" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.322" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="2.322" lemma="fatum" pos="NOMcom" msd="Case=Abl|Numb=Plur">fatis</w>
+    <w ref="2.322" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">haec</w>
+    <w ref="2.322" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.322" lemma="credo" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">credite</w>
+    <w ref="2.322" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.322" lemma="puppis" pos="NOMcom" msd="Case=Acc|Numb=Sing">puppis</w>
+    <w ref="2.323" lemma="aduenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">advenit</w>
+    <w ref="2.323" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.323" lemma="leuis1" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">levior</w>
+    <w ref="2.323" lemma="lemnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">Lemno</w>
+    <w ref="2.323" lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Sing">deus</w>
+    <w ref="2.323" lemma="aequor" pos="NOMcom" msd="Case=Abl|Numb=Sing">aequore</w>
+    <w ref="2.323" lemma="flecto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">flexit</w>
+    <w ref="2.324" lemma="huc" pos="ADV" msd="Deg=Pos">huc</w>
+    <w ref="2.324" lemma="minae" pos="NOMcom" msd="Case=Acc|Numb=Plur">Minyas</w>
+    <w ref="2.324" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.324" lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Venus</w>
+    <w ref="2.324" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ref="2.324" lemma="uolens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos|Mood=Par|Tense=Pres|Voice=Act">volens</w>
+    <w ref="2.324" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dat</w>
+    <w ref="2.324" lemma="corpus" pos="NOMcom" msd="Case=Acc|Numb=Plur">corpora</w>
+    <w ref="2.324" lemma="iungo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">iungi</w>
+    <w ref="2.324" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.325" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
+    <w ref="2.325" lemma="uis" pos="NOMcom" msd="Case=Nom|Numb=Plur">vires</w>
+    <w ana="#female #cunnus #womb" ref="2.325" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="2.325" lemma="maternus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">maternaque</w>
+    <w ref="2.325" lemma="que" pos="CON" msd="MORPH=empty">{maternaque}</w>
+    <w ref="2.325" lemma="sufficio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sufficit</w>
+    <w ref="2.325" lemma="aetas" pos="NOMcom" msd="Case=Nom|Numb=Sing">aetas</w>
+    <w ref="2.325" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,66 @@
+<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
+  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>II.7-II.7</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.7-II.7" type="part">
+    <w ref="II.7" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="II.7" lemma="calidus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">calida</w>
+    <w ref="II.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="II.7" lemma="oleum" pos="NOMcom" msd="Case=Abl|Numb=Sing">oleo</w>
+    <w ref="II.7" lemma="conficio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">confecta</w>
+    <w ref="II.7" lemma="sessio" pos="NOMcom" msd="Case=Nom|Numb=Sing">sessio</w>
+    <w ref="II.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.7" lemma="qui1" pos="PROrel" msd="Gend=Fem">quam</w>
+    <w ref="II.7" lemma="grex" pos="NOMcom" msd="Case=Dat|Numb=Sing">Greci</w>
+    <w ref="II.7" lemma="encathisma" pos="NOMcom" msd="Case=Acc|Numb=Plur">encathismata</w>
+    <w ref="II.7" lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vocant</w>
+    <w ref="II.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.7" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="II.7" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="II.7" lemma="fenugrex" pos="NOMcom" msd="Case=Gen|Numb=Sing">fenugreci</w>
+    <w ref="II.7" lemma="semen1" pos="NOMcom" msd="Case=Gen|Numb=Plur">seminis</w>
+    <w ref="II.7" lemma="succus" pos="NOMcom" msd="Case=Abl|Numb=Sing">succo</w>
+    <w ref="II.7" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="II.7" lemma="linum" pos="NOMcom" msd="Case=Gen|Numb=Sing">lini</w>
+    <w ref="II.7" lemma="semen1" pos="NOMcom" msd="Case=Gen|Numb=Sing">seminis</w>
+    <w ref="II.7" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="II.7" lemma="radix" pos="NOMcom" msd="Case=Dat|Numb=Plur">radicis</w>
+    <w ref="II.7" lemma="malue" pos="ADV" msd="Deg=Pos">malve</w>
+    <w ref="II.7" lemma="usualis" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">usualis</w>
+    <w ref="II.7" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="II.7" lemma="agrestis2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">agrestis</w>
+    <w ref="II.7" lemma="decoctio" pos="NOMcom" msd="Case=Abl|Numb=Sing">decoctione</w>
+    <w ref="II.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="II.7" lemma="distentus?" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">distentis</w>
+    <w ana="#female #cunnus #labia" ref="II.7" lemma="fibra" pos="NOMcom" msd="Case=Abl|Numb=Plur">fibris</w>
+    <w ref="II.7" lemma="uereter" pos="NOMcom" msd="Case=Nom|Numb=Sing">veretri</w>
+    <w ref="II.7" lemma="femininus" pos="ADJqua" msd="Case=Nom|Numb=Plur">feminini</w>
+    <w ref="II.7" lemma="idem" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eodem</w>
+    <w ref="II.7" lemma="oleum" pos="NOMcom" msd="Case=Abl|Numb=Sing">oleo</w>
+    <w ref="II.7" lemma="interior2" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">interiora</w>
+    <w ref="II.7" lemma="foueo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">foveantur</w>
+    <w ref="II.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.7" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="II.7" lemma="supradico" pos="NOMcom" msd="Case=Gen|Numb=Plur">supradictorum</w>
+    <w ref="II.7" lemma="decoctio" pos="NOMcom" msd="Case=Abl|Numb=Sing">decoctione</w>
+    <w ref="II.7" lemma="admisceo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">admixta</w>
+    <w ref="II.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.7" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="II.7" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+    <w ref="II.7" lemma="mollis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">molli</w>
+    <w ref="II.7" lemma="lana" pos="NOMcom" msd="Case=Abl|Numb=Sing">lana</w>
+    <w ref="II.7" lemma="hies" pos="NOMcom" msd="Case=Gen|Numb=Plur">hiisdem</w>
+    <w ref="II.7" lemma="liquor1" pos="NOMcom" msd="Case=Abl|Numb=Plur">liquoribus</w>
+    <w ref="II.7" lemma="exprimo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">expressa</w>
+    <w ref="II.7" lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Plur">partes</w>
+    <w ref="II.7" lemma="contego" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">contegantur</w>
+    <w ref="II.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="II.7" lemma="soluo" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">soluto</w>
+    <w ref="II.7" lemma="turbor" pos="NOMcom" msd="Case=Abl|Numb=Sing">turbore</w>
+    <w ref="II.7" lemma="os1" pos="NOMcom" msd="Case=Nom|Numb=Plur">ora</w>
+    <w ref="II.7" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="II.7" lemma="aqua" pos="NOMcom" msd="Case=Abl|Numb=Sing">aqua</w>
+    <w ref="II.7" lemma="calidus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Fem|Deg=Pos">calida</w>
+    <w ref="II.7" lemma="colluo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">colluantur</w>
+  </quote>
+</div>

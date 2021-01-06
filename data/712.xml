@@ -1,0 +1,50 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>7.29-7.29</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:7.29-7.29" type="chapter">
+    <w ref="7.29" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eum</w>
+    <w ref="7.29" lemma="sequor" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">sequi</w>
+    <w ref="7.29" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+    <w ref="7.29" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="7.29" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Fem">eas</w>
+    <w ref="7.29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.29" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">quas</w>
+    <w ref="7.29" lemma="secundae" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">secundas</w>
+    <w ref="7.29" lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vocant</w>
+    <w ref="7.29" lemma="(" pos="PUNC" msd="MORPH=empty">(</w>
+    <w ref="7.29" lemma="qui1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="7.29" lemma="uelamentum" pos="NOMcom" msd="Case=Nom|Numb=Sing">velamentum</w>
+    <w ref="7.29" lemma="infans1" pos="NOMcom" msd="Case=Gen|Numb=Sing">infantis</w>
+    <w ref="7.29" lemma="intus1" pos="ADV" msd="Deg=Pos">intus</w>
+    <w ref="7.29" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="7.29" lemma=")" pos="PUNC" msd="MORPH=empty">)</w>
+    <w ref="7.29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.29" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">iisque</w>
+    <w ref="7.29" lemma="que" pos="CON" msd="MORPH=empty">{iisque}</w>
+    <w ref="7.29" lemma="ultimus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">ultimis</w>
+    <w ref="7.29" lemma="apprehendo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">adprehensis</w>
+    <w ref="7.29" lemma="uenula" pos="NOMcom" msd="Case=Acc|Numb=Plur">venulas</w>
+    <w ref="7.29" lemma="membranulus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">membranulasque</w>
+    <w ref="7.29" lemma="que" pos="CON" msd="MORPH=empty">{membranulasque}</w>
+    <w ref="7.29" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=MascFem">omnes</w>
+    <w ref="7.29" lemma="idem" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">eadem</w>
+    <w ref="7.29" lemma="ratio" pos="NOMcom" msd="Case=Abl|Numb=Sing">ratione</w>
+    <w ref="7.29" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
+    <w ref="7.29" lemma="deduco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">deducere</w>
+    <w ref="7.29" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ana="#female #cunnus #womb" ref="7.29" lemma="uolua" pos="NOMcom" msd="Case=Abl|Numb=Sing">volva</w>
+    <w ref="7.29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.29" lemma="totus" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascNeut">totumque</w>
+    <w ref="7.29" lemma="que" pos="CON" msd="MORPH=empty">{totumque}</w>
+    <w ref="7.29" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">illud</w>
+    <w ref="7.29" lemma="extraho" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">extrahere</w>
+    <w ref="7.29" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="7.29" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="7.29" lemma="quis2" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="7.29" lemma="intus1" pos="ADV" msd="Deg=Pos">intus</w>
+    <w ref="7.29" lemma="praeterea" pos="ADV" msd="Deg=Pos">praeterea</w>
+    <w ref="7.29" lemma="concretus2" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">concreti</w>
+    <w ref="7.29" lemma="sanguis" pos="NOMcom" msd="Case=Gen|Numb=Sing">sanguinis</w>
+    <w ref="7.29" lemma="remaneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">remanet</w>
+    <w ref="7.29" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

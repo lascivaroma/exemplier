@@ -1,0 +1,49 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Apuleius</author>, <title>Metamorphoses</title>, <biblScope>6.32-6.32</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:6.32-6.32" type="chapter">
+    <w ref="6.32" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.32" lemma="ambo2" pos="ADJcar" msd="Case=Nom|Numb=Plur|Gend=Neut">ambo</w>
+    <w ref="6.32" lemma="sustineo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3">sustinebunt</w>
+    <w ref="6.32" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="6.32" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.32" lemma="mors" pos="NOMcom" msd="Case=Acc|Numb=Sing">mortem</w>
+    <w ref="6.32" lemma="asinus" pos="NOMcom" msd="Case=Nom|Numb=Sing">asinus</w>
+    <w ref="6.32" lemma="qui1" pos="PROrel" msd="Case=Acc">quam</w>
+    <w ref="6.32" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ref="6.32" lemma="mereo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">meruit</w>
+    <w ref="6.32" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.32" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.32" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Fem">illa</w>
+    <w ref="6.32" lemma="morsus" pos="NOMcom" msd="Case=Nom|Numb=Plur">morsus</w>
+    <w ref="6.32" lemma="fera" pos="NOMcom" msd="Case=Gen|Numb=Plur">ferarum</w>
+    <w ref="6.32" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.32" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="6.32" lemma="uermis" pos="NOMcom" msd="Case=Nom|Numb=Plur">vermes</w>
+    <w ref="6.32" lemma="membrum" pos="NOMcom" msd="Case=Nom|Numb=Plur">membra</w>
+    <w ref="6.32" lemma="lanio2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3">laniabunt</w>
+    <w ref="6.32" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.32" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.32" lemma="ignis" pos="NOMcom" msd="Case=Gen|Numb=Sing">ignis</w>
+    <w ref="6.32" lemma="flagrantia" pos="NOMcom" msd="Case=Acc|Numb=Sing">flagrantiam</w>
+    <w ref="6.32" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.32" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="6.32" lemma="sol" pos="NOMcom" msd="Case=Nom|Numb=Sing">sol</w>
+    <w ref="6.32" lemma="nimis" pos="ADV" msd="Deg=Pos">nimis</w>
+    <w ref="6.32" lemma="calor" pos="NOMcom" msd="Case=Abl|Numb=Plur">caloribus</w>
+    <w ref="6.32" lemma="inflammo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">inflammarit</w>
+    <w ana="#female #cunnus #womb" ref="6.32" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="6.32" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.32" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.32" lemma="patibulum" pos="NOMcom" msd="Case=Gen|Numb=Sing">patibuli</w>
+    <w ref="6.32" lemma="cruciatus" pos="NOMcom" msd="Case=Acc|Numb=Sing">cruciatum</w>
+    <w ref="6.32" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.32" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="6.32" lemma="canis" pos="NOMcom" msd="Case=Nom|Numb=Plur">canes</w>
+    <w ref="6.32" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.32" lemma="uultur" pos="NOMcom" msd="Case=Acc|Numb=Plur">vultures</w>
+    <w ref="6.32" lemma="interior2" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">intima</w>
+    <w ref="6.32" lemma="protraho" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3">protrahent</w>
+    <w ref="6.32" lemma="uiscus2" pos="NOMcom" msd="Case=Acc|Numb=Plur">viscera</w>
+    <w ref="6.32" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

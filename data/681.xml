@@ -1,0 +1,29 @@
+<div type="fragment" corresp="adams:101" ana="#female #cunnus #womb">
+  <bibl><author>Varro, Marcus Terentius</author>, <title>Rerum rusticarum</title>, <biblScope>2.1.19-2.1.19</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0684.phi002.ogl-lat1:2.1.19-2.1.19" type="section">
+    <w ref="2.1.19" lemma="dico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">dicuntur</w>
+    <w ref="2.1.19" lemma="agnus" pos="NOMcom" msd="Case=Nom|Numb=Plur">agni</w>
+    <w ref="2.1.19" lemma="cor" pos="NOMcom" msd="Case=Nom|Numb=Sing">cordi</w>
+    <w ref="2.1.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.1.19" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+    <w ref="2.1.19" lemma="post2" pos="PRE" msd="MORPH=empty">post</w>
+    <w ref="2.1.19" lemma="tempus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">tempus</w>
+    <w ref="2.1.19" lemma="nascor" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">nascuntur</w>
+    <w ref="2.1.19" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="2.1.19" lemma="remaneo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">remanserunt</w>
+    <w ref="2.1.19" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#female #cunnus #womb" ref="2.1.19" lemma="uolua" pos="NOMcom" msd="Case=Abl|Numb=Plur">volvis</w>
+    <w ref="2.1.19" lemma="interior2" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">intimis</w>
+    <w ref="2.1.19" lemma="*" pos="PUNC" msd="MORPH=empty">*</w>
+    <w ref="2.1.19" lemma="*" pos="PUNC" msd="MORPH=empty">*</w>
+    <w ref="2.1.19" lemma="*" pos="PUNC" msd="MORPH=empty">*</w>
+    <w ref="2.1.19" lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vocant</w>
+    <w ref="2.1.19" lemma="chorio" pos="NOMcom" msd="Case=Nom|Numb=Sing">chorion</w>
+    <w ref="2.1.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.1.19" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="2.1.19" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ref="2.1.19" lemma="cor" pos="NOMcom" msd="Case=Abl|Numb=Sing">cordi</w>
+    <w ref="2.1.19" lemma="appello1" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">appellati</w>
+    <w ref="2.1.19" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

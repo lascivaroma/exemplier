@@ -1,0 +1,43 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Tacitus, Cornelius</author>, <title>Annales</title>, <biblScope>15.47-15.47</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1351.phi005.lascivaroma-lat1:15.47-15.47" type="chapter">
+    <w ref="15.47" lemma="uia" pos="NOMcom" msd="Case=Acc|Numb=Sing">viam</w>
+    <w ref="15.47" lemma="propter2" pos="PRE" msd="MORPH=empty">propter</w>
+    <w ref="15.47" lemma="nascor" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc">natus</w>
+    <w ref="15.47" lemma="uitulus" pos="NOMcom" msd="Case=Nom|Numb=Sing">vitulus</w>
+    <w ref="15.47" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
+    <w ref="15.47" lemma="caput" pos="NOMcom" msd="Case=Nom|Numb=Sing">caput</w>
+    <w ref="15.47" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="15.47" lemma="crus" pos="NOMcom" msd="Case=Abl|Numb=Sing">crure</w>
+    <w ref="15.47" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">esset</w>
+    <w ref="15.47" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="15.47" lemma="sequor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">secutaque</w>
+    <w ref="15.47" lemma="que" pos="CON" msd="MORPH=empty">{secutaque}</w>
+    <w ref="15.47" lemma="haruspex" pos="NOMcom" msd="Case=Gen|Numb=Plur">haruspicum</w>
+    <w ref="15.47" lemma="interpretatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">interpretatio</w>
+    <w ref="15.47" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="15.47" lemma="paro2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">parari</w>
+    <w ref="15.47" lemma="res" pos="NOMcom" msd="Case=Gen|Numb=Plur">rerum</w>
+    <w ref="15.47" lemma="humanus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Fem|Deg=Pos">humanarum</w>
+    <w ref="15.47" lemma="alius" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">aliud</w>
+    <w ref="15.47" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+    <w ref="15.47" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="15.47" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="15.47" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="15.47" lemma="sum1" pos="VER" msd="Mood=Par|Tense=Fut|Voice=Act">fore</w>
+    <w ref="15.47" lemma="ualidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">validum</w>
+    <w ref="15.47" lemma="neque" pos="ADVneg" msd="MORPH=empty">neque</w>
+    <w ref="15.47" lemma="occultus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">occultum</w>
+    <w ref="15.47" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="15.47" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+    <w ref="15.47" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#female #cunnus #womb" ref="15.47" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="15.47" lemma="reprimo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">repressum</w>
+    <w ref="15.47" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="15.47" lemma="iter" pos="NOMcom" msd="Case=Nom|Numb=Sing">iter</w>
+    <w ref="15.47" lemma="iuxta2" pos="PRE" msd="MORPH=empty">iuxta</w>
+    <w ref="15.47" lemma="edo2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">editum</w>
+    <w ref="15.47" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="15.47" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

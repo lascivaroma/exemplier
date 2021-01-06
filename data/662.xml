@@ -1,0 +1,33 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Statius, P. Papinius (Publius Papinius)</author>, <title>Achilleis</title>, <biblScope>1.671-1.674</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1020.phi003.perseus-lat2:1.671-1.674" type="line">
+    <w ref="1.671" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="1.671" lemma="astus" pos="NOMcom" msd="Case=Abl|Numb=Sing">astu</w>
+    <w ref="1.671" lemma="tacitus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">tacito</w>
+    <w ref="1.671" lemma="rapio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">raptumque</w>
+    <w ref="1.671" lemma="que" pos="CON" msd="MORPH=empty">{raptumque}</w>
+    <w ref="1.671" lemma="pudor" pos="NOMcom" msd="Case=Acc|Numb=Sing">pudorem</w>
+    <w ref="1.672" lemma="surgo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">surgentemque</w>
+    <w ref="1.672" lemma="que" pos="CON" msd="MORPH=empty">{surgentemque}</w>
+    <w ana="#female #cunnus #womb" ref="1.672" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="1.672" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="1.672" lemma="aeger" pos="ADJqua" msd="Case=Gen|Numb=Sing">aegrosin</w>
+    <w ref="1.672" lemma="ne2" pos="ADV" msd="MORPH=empty">{aegrosin}</w>
+    <w ref="1.672" lemma="pondus" pos="NOMcom" msd="Case=Abl|Numb=Sing">pondere</w>
+    <w ref="1.672" lemma="mensis" pos="NOMcom" msd="Case=Acc|Numb=Plur">menses</w>
+    <w ref="1.673" lemma="occulo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">occuluit</w>
+    <w ref="1.673" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.673" lemma="plenus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">plenis</w>
+    <w ref="1.673" lemma="donec" pos="CONsub" msd="MORPH=empty">donec</w>
+    <w ref="1.673" lemma="status2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">stata</w>
+    <w ref="1.673" lemma="tempus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">tempora</w>
+    <w ref="1.673" lemma="meta" pos="NOMcom" msd="Case=Dat|Numb=Plur">metis</w>
+    <w ref="1.674" lemma="affero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">attulit</w>
+    <w ref="1.674" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.674" lemma="partus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">partus</w>
+    <w ref="1.674" lemma="index" pos="NOMcom" msd="Case=Nom|Numb=Sing">index</w>
+    <w ref="1.674" lemma="lucina" pos="NOMcom" msd="Case=Nom|Numb=Sing">Lucina</w>
+    <w ref="1.674" lemma="resoluo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">resolvit</w>
+    <w ref="1.674" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

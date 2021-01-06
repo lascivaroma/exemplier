@@ -1,0 +1,53 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>2.20-2.20</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:2.20-2.20" type="chapter">
+    <w ref="2.20" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="2.20" lemma="pomum" pos="NOMcom" msd="Case=Abl|Numb=Plur">pomis</w>
+    <w ref="2.20" lemma="quicumque1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quodcumque</w>
+    <w ref="2.20" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="2.20" lemma="acerbus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">acerbum</w>
+    <w ref="2.20" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="2.20" lemma="acidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">acidum</w>
+    <w ref="2.20" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="2.20" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.20" lemma="uinum" pos="NOMcom" msd="Case=Acc|Numb=Sing">vinum</w>
+    <w ref="2.20" lemma="dulcis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">dulce</w>
+    <w ref="2.20" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="2.20" lemma="lenis2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">lene</w>
+    <w ref="2.20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.20" lemma="patior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascNeut">passum</w>
+    <w ref="2.20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.20" lemma="defrutum" pos="NOMcom" msd="Case=Nom|Numb=Sing">defrutum</w>
+    <w ref="2.20" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.20" lemma="olea" pos="NOMcom" msd="Case=Gen|Numb=Sing">oleae</w>
+    <w ref="2.20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.20" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Fem">quae</w>
+    <w ref="2.20" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="2.20" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">his</w>
+    <w ref="2.20" lemma="duo" pos="ADJcar" msd="Case=Abl|Numb=Plur|Gend=MascNeut">duobus</w>
+    <w ref="2.20" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.20" lemma="alter" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">altero</w>
+    <w ref="2.20" lemma="uter4" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">utro</w>
+    <w ref="2.20" lemma="seruo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">servatae</w>
+    <w ref="2.20" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="2.20" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ana="#female #cunnus #womb" ref="2.20" lemma="uulua" pos="NOMcom" msd="Case=Nom|Numb=Plur">vulvae</w>
+    <w ref="2.20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.20" lemma="rostrum" pos="NOMcom" msd="Case=Nom|Numb=Plur">rostra</w>
+    <w ref="2.20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.20" lemma="trunculus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Deg=Pos">trunculique</w>
+    <w ref="2.20" lemma="que" pos="CON" msd="MORPH=empty">{trunculique}</w>
+    <w ref="2.20" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=MascNeut">suum</w>
+    <w ref="2.20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.20" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">omnis</w>
+    <w ref="2.20" lemma="pinguis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">pinguis</w>
+    <w ref="2.20" lemma="caro1" pos="NOMcom" msd="Case=Nom|Numb=Sing">caro</w>
+    <w ref="2.20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.20" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">omnis</w>
+    <w ref="2.20" lemma="glutinosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">glutinosa</w>
+    <w ref="2.20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.20" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">omne</w>
+    <w ref="2.20" lemma="iecur" pos="NOMcom" msd="Case=Nom|Numb=Sing">iecur</w>
+    <w ref="2.20" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

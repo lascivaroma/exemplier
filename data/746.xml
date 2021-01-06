@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Hercules Furens</title>, <biblScope>457-458</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi001.perseus-lat2:457-458" type="line">
+    <w ref="457" lemma="ex" pos="PRE" msd="MORPH=empty">E</w>
+    <w ref="457" lemma="mater" pos="NOMcom" msd="Case=Gen|Numb=Sing">matris</w>
+    <w ana="#female #cunnus #womb" ref="457" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="457" lemma="fulmen" pos="NOMcom" msd="Case=Abl|Numb=Sing">fulmine</w>
+    <w ref="457" lemma="eicio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">eiectus</w>
+    <w ref="457" lemma="puer" pos="NOMcom" msd="Case=Nom|Numb=Sing">puer</w>
+    <w ref="458" lemma="mox" pos="ADV" msd="Deg=Pos">mox</w>
+    <w ref="458" lemma="fulmino" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">fulminanti</w>
+    <w ref="458" lemma="propior" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">proximus</w>
+    <w ref="458" lemma="pater" pos="NOMcom" msd="Case=Dat|Numb=Sing">patri</w>
+    <w ref="458" lemma="sto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">stetit</w>
+    <w ref="458" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

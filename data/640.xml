@@ -1,0 +1,47 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>P. Vergilius Maro</author>, <title>Aeneid</title>, <biblScope>2.241-2.245</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi003.perseus-lat2:2.241-2.245" type="line">
+    <w ref="2.241" lemma="o" pos="INJ" msd="MORPH=empty">O</w>
+    <w ref="2.241" lemma="patria" pos="NOMcom" msd="Case=Voc|Numb=Sing">patria</w>
+    <w ref="2.241" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.241" lemma="o" pos="INJ" msd="MORPH=empty">O</w>
+    <w ref="2.241" lemma="diuus1" pos="NOMcom" msd="Case=Gen|Numb=Plur">divom</w>
+    <w ref="2.241" lemma="domus" pos="NOMcom" msd="Case=Gen|Numb=Sing">domus</w>
+    <w ref="2.241" lemma="ilium" pos="NOMpro" msd="Case=Gen|Numb=Sing">Ilium</w>
+    <w ref="2.241" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.241" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.241" lemma="inclutus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">incluta</w>
+    <w ref="2.241" lemma="bellum" pos="NOMcom" msd="Case=Abl|Numb=Sing">bello</w>
+    <w ref="2.242" lemma="moenia" pos="NOMcom" msd="Case=Nom|Numb=Plur">moenia</w>
+    <w ref="2.242" lemma="dardanidus" pos="NOMcom" msd="Case=Gen|Numb=Plur">Dardanidum</w>
+    <w ref="2.242" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.242" lemma="quater" pos="ADJadv.mul" msd="MORPH=empty">quater</w>
+    <w ref="2.242" lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">ipso</w>
+    <w ref="2.242" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.242" lemma="limen" pos="NOMcom" msd="Case=Abl|Numb=Sing">limine</w>
+    <w ref="2.242" lemma="porta" pos="NOMcom" msd="Case=Gen|Numb=Sing">portae</w>
+    <w ref="2.243" lemma="subsisto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">substitit</w>
+    <w ref="2.243" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.243" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ana="#female #cunnus #womb" ref="2.243" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="2.243" lemma="sonitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">sonitum</w>
+    <w ref="2.243" lemma="quater" pos="ADJadv.mul" msd="MORPH=empty">quater</w>
+    <w ref="2.243" lemma="arma" pos="NOMcom" msd="Case=Acc|Numb=Plur">arma</w>
+    <w ref="2.243" lemma="do" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">dedere</w>
+    <w ref="2.243" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.244" lemma="insto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">instamus</w>
+    <w ref="2.244" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="2.244" lemma="immemor" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">inmemores</w>
+    <w ref="2.244" lemma="caecus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">caecique</w>
+    <w ref="2.244" lemma="que" pos="CON" msd="MORPH=empty">{caecique}</w>
+    <w ref="2.244" lemma="furor1" pos="NOMcom" msd="Case=Abl|Numb=Sing">furore</w>
+    <w ref="2.244" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.245" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.245" lemma="monstrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">monstrum</w>
+    <w ref="2.245" lemma="infelix" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">infelix</w>
+    <w ref="2.245" lemma="sacro" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">sacrata</w>
+    <w ref="2.245" lemma="sisto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">sistimus</w>
+    <w ref="2.245" lemma="arx" pos="NOMcom" msd="Case=Abl|Numb=Sing">arce</w>
+    <w ref="2.245" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

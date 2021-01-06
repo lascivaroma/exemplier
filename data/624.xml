@@ -1,0 +1,51 @@
+<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
+  <bibl><author>Plautus, Titus Maccius</author>, <title>Stichus</title>, <biblScope>161-166</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi018.perseus-lat2:161-166" type="line">
+    <w ref="161" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="161" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="161" lemma="puer" pos="NOMcom" msd="Case=Acc|Numb=Sing">puerum</w>
+    <w ref="161" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="161" lemma="gesto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">gestavit</w>
+    <w ref="161" lemma="paruulus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">parvolum</w>
+    <w ref="161" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="162" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ref="162" lemma="parum2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Comp">minus</w>
+    <w ref="162" lemma="labor1" pos="NOMcom" msd="Case=Gen|Numb=Sing">laboris</w>
+    <w ref="162" lemma="capio2" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">cepisse</w>
+    <w ref="162" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
+    <w ref="162" lemma="existimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">existumo</w>
+    <w ref="162" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="163" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="163" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="163" lemma="pauxillula" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos">pauxillulam</w>
+    <w ref="163" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="163" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="163" lemma="gero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">gesto</w>
+    <w ref="163" lemma="fames" pos="NOMcom" msd="Case=Acc|Numb=Sing">famem</w>
+    <w ref="163" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="164" lemma="uerum4" pos="CONcoo" msd="MORPH=empty">verum</w>
+    <w ref="164" lemma="hercules" pos="INJ" msd="MORPH=empty">hercle</w>
+    <w ref="164" lemma="multo2" pos="ADV" msd="Deg=Pos">multo</w>
+    <w ref="164" lemma="magnus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Sup">maximam</w>
+    <w ref="164" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="164" lemma="grauis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Sup">gravissimam</w>
+    <w ref="164" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ana="#female #cunnus #labia" ref="165" lemma="uterus" pos="NOMcom" msd="Case=Gen|Numb=Sing">uteri</w>
+    <w ref="165" lemma="dolor" pos="NOMcom" msd="Case=Nom|Numb=Plur">dolores</w>
+    <w ref="165" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="165" lemma="oborior" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">oboriuntur</w>
+    <w ref="165" lemma="quotidie" pos="ADV" msd="Deg=Pos">cotidie</w>
+    <w ref="165" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="165" lemma="†" pos="PUNC" msd="MORPH=empty">†</w>
+    <w ref="166" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="166" lemma="mater" pos="NOMcom" msd="Case=Acc|Numb=Sing">matrem</w>
+    <w ref="166" lemma="pareo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">parere</w>
+    <w ref="166" lemma="nequeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">nequeo</w>
+    <w ref="166" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="166" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="166" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="166" lemma="ago" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1">agam</w>
+    <w ref="166" lemma="scio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">scio</w>
+    <w ref="166" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

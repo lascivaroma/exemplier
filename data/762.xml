@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>13.56.1-13.56.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:13.56.1-13.56.2" type="line">
+    <w ref="13.56.1" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">Te</w>
+    <w ref="13.56.1" lemma="fortasse" pos="ADV" msd="Deg=Pos">fortasse</w>
+    <w ref="13.56.1" lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
+    <w ref="13.56.1" lemma="capio2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">capiat</w>
+    <w ref="13.56.1" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="13.56.1" lemma="uirgo" pos="NOMcom" msd="Case=Abl|Numb=Sing">virgine</w>
+    <w ref="13.56.1" lemma="porca" pos="NOMcom" msd="Case=Abl|Numb=Sing">porca</w>
+    <w ref="13.56.1" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="13.56.2" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">Me</w>
+    <w ref="13.56.2" lemma="maternus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">materna</w>
+    <w ref="13.56.2" lemma="grauis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">gravi</w>
+    <w ref="13.56.2" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="13.56.2" lemma="suus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sue</w>
+    <w ana="#female #cunnus #womb" ref="13.56.2" lemma="uolua" pos="NOMcom" msd="Case=Abl|Numb=Sing">volva</w>
+    <w ref="13.56.2" lemma="capio2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">capit</w>
+    <w ref="13.56.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

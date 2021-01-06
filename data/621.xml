@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
+  <bibl><author>Plautus, Titus Maccius</author>, <title>Truculentus</title>, <biblScope>199-199</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi020.perseus-lat2:199-199" type="line">
+    <w ref="199" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="199" lemma="equidem" pos="ADV" msd="Deg=Pos">équidem</w>
+    <w ref="199" lemma="ille" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Masc">illi</w>
+    <w ana="#female #cunnus #labia" ref="199" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="199" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="199" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="199" lemma="scio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1">sciam</w>
+    <w ref="199" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="199" lemma="numquam" pos="ADVneg" msd="MORPH=empty">numquam</w>
+    <w ref="199" lemma="extomo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">extumere</w>
+    <w ref="199" lemma="sentio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">sensi</w>
+    <w ref="199" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

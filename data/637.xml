@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>P. Vergilius Maro</author>, <title>Aeneid</title>, <biblScope>2.18-2.20</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi003.perseus-lat2:2.18-2.20" type="line">
+    <w ref="2.18" lemma="huc" pos="ADV" msd="Deg=Pos">Huc</w>
+    <w ref="2.18" lemma="deligo3" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">delecta</w>
+    <w ref="2.18" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Plur">virum</w>
+    <w ref="2.18" lemma="sortior" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">sortiti</w>
+    <w ref="2.18" lemma="corpus" pos="NOMcom" msd="Case=Acc|Numb=Plur">corpora</w>
+    <w ref="2.18" lemma="furtim" pos="ADV" msd="Deg=Pos">furtim</w>
+    <w ref="2.19" lemma="includo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">includunt</w>
+    <w ref="2.19" lemma="caecus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">caeco</w>
+    <w ref="2.19" lemma="latus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">lateri</w>
+    <w ref="2.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.19" lemma="penitus" pos="ADV" msd="Deg=Pos">penitusque</w>
+    <w ref="2.19" lemma="que" pos="CON" msd="MORPH=empty">{penitusque}</w>
+    <w ref="2.19" lemma="cauerna" pos="NOMcom" msd="Case=Acc|Numb=Plur">cavernas</w>
+    <w ref="2.20" lemma="ingens" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">ingentis</w>
+    <w ana="#female #cunnus #womb" ref="2.20" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterumque</w>
+    <w ref="2.20" lemma="que" pos="CON" msd="MORPH=empty">{uterumque}</w>
+    <w ref="2.20" lemma="armatus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">armato</w>
+    <w ref="2.20" lemma="miles" pos="NOMcom" msd="Case=Abl|Numb=Sing">milite</w>
+    <w ref="2.20" lemma="compleo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">complent</w>
+    <w ref="2.20" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

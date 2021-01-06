@@ -1,0 +1,39 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Juvenal</author>, <title>Satires</title>, <biblScope>2.29-2.33</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:2.29-2.33" type="line">
+    <w ref="2.29" lemma="qualis1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=MascFem">qualis</w>
+    <w ref="2.29" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
+    <w ref="2.29" lemma="nuper" pos="ADV" msd="Deg=Pos">nuper</w>
+    <w ref="2.29" lemma="tragicus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">tragico</w>
+    <w ref="2.29" lemma="polluo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">pollutus</w>
+    <w ref="2.29" lemma="adulter1" pos="NOMcom" msd="Case=Nom|Numb=Sing">adulter</w>
+    <w ref="2.30" lemma="concubitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">concubitu</w>
+    <w ref="2.30" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.30" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="2.30" lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
+    <w ref="2.30" lemma="lex" pos="NOMcom" msd="Case=Acc|Numb=Plur">leges</w>
+    <w ref="2.30" lemma="reuoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">revocabat</w>
+    <w ref="2.30" lemma="amarus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">amaras</w>
+    <w ref="2.31" lemma="omnis" pos="PROind" msd="Case=Dat|Numb=Plur|Gend=Com">omnibus</w>
+    <w ref="2.31" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="2.31" lemma="ipse" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">ipsis</w>
+    <w ref="2.31" lemma="Uenus" pos="NOMpro" msd="Case=Dat|Numb=Sing">Veneri</w>
+    <w ref="2.31" lemma="martus" pos="NOMcom" msd="Case=Dat|Numb=Sing">Martique</w>
+    <w ref="2.31" lemma="que" pos="CON" msd="MORPH=empty">{Martique}</w>
+    <w ref="2.31" lemma="timeo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Adj|Voice=Pass">timendas</w>
+    <w ref="2.31" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.32" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="2.32" lemma="tot" pos="PROdem" msd="Case=Ind">tot</w>
+    <w ref="2.32" lemma="abortiuus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">abortivis</w>
+    <w ref="2.32" lemma="fecundus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">fecundam</w>
+    <w ref="2.32" lemma="Iulia" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem">Iulia</w>
+    <w ana="#female #cunnus #womb" ref="2.32" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="2.33" lemma="soluo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">solveret</w>
+    <w ref="2.33" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.33" lemma="patruus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">patruo</w>
+    <w ref="2.33" lemma="similis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">similes</w>
+    <w ref="2.33" lemma="effundo2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">effunderet</w>
+    <w ref="2.33" lemma="offa" pos="NOMcom" msd="Case=Acc|Numb=Plur">offas</w>
+    <w ref="2.33" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

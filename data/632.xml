@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #voisinage #womb">
+  <bibl><author>Cicero</author>, <title>In L. Pisonem</title>, <biblScope>fr14-fr14</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi027.perseus-lat2:fr14-fr14" type="section">
+    <w ref="fr14" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="fr14" lemma="tuus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">tua</w>
+    <w ref="fr14" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="fr14" lemma="nescio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">nescio</w>
+    <w ref="fr14" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibus</w>
+    <w ref="fr14" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="fr14" lemma="terra" pos="NOMcom" msd="Case=Abl|Numb=Plur">terris</w>
+    <w ref="fr14" lemma="apporto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">apportata</w>
+    <w ref="fr14" lemma="mater" pos="NOMcom" msd="Case=Nom|Numb=Sing">mater</w>
+    <w ref="fr14" lemma="pecus2" pos="NOMcom" msd="Case=Acc|Numb=Sing">pecudem</w>
+    <w ref="fr14" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ana="#female #cunnus #voisinage #womb" ref="fr14" lemma="aluus" pos="NOMcom" msd="Case=Abl|Numb=Sing">alvo</w>
+    <w ref="fr14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="fr14" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="fr14" lemma="homo" pos="NOMcom" msd="Case=Acc|Numb=Sing">hominem</w>
+    <w ref="fr14" lemma="effundo2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">effuderit</w>
+    <w ref="fr14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

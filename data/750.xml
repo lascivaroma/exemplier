@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Medea</title>, <biblScope>350-352</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi004.perseus-lat2:350-352" type="line">
+    <w ref="350" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="350" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="350" lemma="siculus" pos="ADJqua" msd="Case=Nom|Numb=Plur">Siculi</w>
+    <w ref="350" lemma="uirgo" pos="NOMcom" msd="Case=Nom|Numb=Sing">virgo</w>
+    <w ref="350" lemma="pelorus" pos="NOMcom" msd="Case=Dat|Numb=Sing">Pelori</w>
+    <w ref="350" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="351" lemma="rabidus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">rabidos</w>
+    <w ana="#female #cunnus #womb" ref="351" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="351" lemma="succingo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">succincta</w>
+    <w ref="351" lemma="canis" pos="NOMcom" msd="Case=Acc|Numb=Plur">canes</w>
+    <w ref="351" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="352" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=MascFem">omnis</w>
+    <w ref="352" lemma="pariter" pos="ADV" msd="Deg=Pos">pariter</w>
+    <w ref="352" lemma="soluo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">solvit</w>
+    <w ref="352" lemma="hiatus" pos="NOMcom" msd="Case=Acc|Numb=Sing">hiatus</w>
+    <w ref="352" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

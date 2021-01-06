@@ -1,0 +1,44 @@
+<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
+  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>II.126-II.126</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.126-II.126" type="part">
+    <w ref="II.126" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Sing">loco</w>
+    <w ref="II.126" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
+    <w ref="II.126" lemma="differo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">differt</w>
+    <w ref="II.126" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="II.126" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="II.126" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="II.126" lemma="pinnaculum" pos="NOMcom" msd="Case=Abl|Numb=Plur">pinnaculis</w>
+    <w ref="II.126" lemma="afor" pos="ADJqua" msd="Case=Gen|Numb=Sing|Deg=Pos">aforis</w>
+    <w ana="#female #cunnus #labia" ref="II.126" lemma="fibra" pos="NOMcom" msd="Case=Gen|Numb=Plur">fibrarum</w>
+    <w ref="II.126" lemma="connaturatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">connaturatione</w>
+    <w ref="II.126" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="II.126" lemma="coho" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">coherentibus</w>
+    <w ref="II.126" lemma="obstrusio" pos="NOMcom" msd="Case=Nom|Numb=Sing">obstrusio</w>
+    <w ref="II.126" lemma="constituo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">constituitur</w>
+    <w ref="II.126" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.126" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="II.126" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="II.126" lemma="medium" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">medio</w>
+    <w ref="II.126" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+    <w ref="II.126" lemma="muliebris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">muliebri</w>
+    <w ref="II.126" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.126" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="II.126" lemma="circa2" pos="PRE" msd="MORPH=empty">circa</w>
+    <w ref="II.126" lemma="osculum" pos="NOMcom" msd="Case=Acc|Numb=Sing">osculum</w>
+    <w ref="II.126" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ref="II.126" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.126" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="II.126" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="II.126" lemma="pulpa" pos="NOMcom" msd="Case=Nom|Numb=Sing">pulpa</w>
+    <w ref="II.126" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="II.126" lemma="idem" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">eisdem</w>
+    <w ref="II.126" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
+    <w ref="II.126" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="II.126" lemma="accidens" pos="NOMcom" msd="Case=Abl|Numb=Sing">accidenti</w>
+    <w ref="II.126" lemma="aliquis" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">aliquo</w>
+    <w ref="II.126" lemma="annascor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">adnascitur</w>
+    <w ref="II.126" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.126" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="II.126" lemma="connaturatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">connaturatio</w>
+  </quote>
+</div>

@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
+  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Oedipus</title>, <biblScope>1039-1039</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi006.perseus-lat2:1039-1039" type="line">
+    <w ana="#female #cunnus #womb" ref="1039" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="1039" lemma="capax" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">capacem</w>
+    <w ref="1039" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1039" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="1039" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Sing">virum</w>
+    <w ref="1039" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1039" lemma="natus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">gnatos</w>
+    <w ref="1039" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tulit</w>
+    <w ref="1039" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

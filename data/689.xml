@@ -1,0 +1,31 @@
+<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>4.1-4.1</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:4.1-4.1" type="chapter">
+    <w ref="4.1" lemma="tum" pos="ADV" msd="Deg=Pos">Tum</w>
+    <w ref="4.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="4.1" lemma="masculus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">masculis</w>
+    <w ref="4.1" lemma="iter" pos="NOMcom" msd="Case=Nom|Numb=Sing">iter</w>
+    <w ref="4.1" lemma="urina" pos="NOMcom" msd="Case=Gen|Numb=Sing">urinae</w>
+    <w ref="4.1" lemma="spatiose" pos="ADV" msd="Case=Nom|Deg=Comp">spatiosius</w>
+    <w ref="4.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="4.1" lemma="compresse" pos="ADJqua" msd="Case=Nom|Deg=Comp">conpressius</w>
+    <w ref="4.1" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="4.1" lemma="ceruix" pos="NOMcom" msd="Case=Abl|Numb=Sing">cervice</w>
+    <w ref="4.1" lemma="hic1" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">huius</w>
+    <w ref="4.1" lemma="descendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">descendit</w>
+    <w ref="4.1" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="4.1" lemma="coles" pos="NOMcom" msd="Case=Acc|Numb=Sing">colem</w>
+    <w ref="4.1" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="4.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="4.1" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Plur">feminis</w>
+    <w ref="4.1" lemma="breuiter" pos="ADV" msd="Gend=Neut|Deg=Comp">brevius</w>
+    <w ref="4.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="4.1" lemma="plene" pos="ADV" msd="Deg=Comp">plenius</w>
+    <w ref="4.1" lemma="super2" pos="PRE" msd="MORPH=empty">super</w>
+    <w ana="#female #cunnus #womb" ref="4.1" lemma="uulua" pos="NOMcom" msd="Case=Gen|Numb=Sing">vulvae</w>
+    <w ref="4.1" lemma="ceruix" pos="NOMcom" msd="Case=Acc|Numb=Sing">cervicem</w>
+    <w ref="4.1" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="4.1" lemma="ostendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">ostendit</w>
+    <w ref="4.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>
