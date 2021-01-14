@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:105" ana="">
+  <bibl><author>Vulgate</author>, <title>James</title>, <biblScope>46.3-46.3</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0031.tlg020.obi-lat1:46.3-46.3" type="verse">
+    <w ref="46.3" lemma="audio" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">audite</w>
+    <w ref="46.3" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="46.3" lemma="domus" pos="NOMcom" msd="Case=Voc|Numb=Sing">domus</w>
+    <w ref="46.3" lemma="Iacob" pos="NOMpro" msd="Case=Voc">Iacob</w>
+    <w ref="46.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="46.3" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">omne</w>
+    <w ref="46.3" lemma="residuus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">residuum</w>
+    <w ref="46.3" lemma="domus" pos="NOMcom" msd="Case=Voc|Numb=Sing">domus</w>
+    <w ref="46.3" lemma="Israel" pos="NOMpro" msd="Case=Ind">Israhel</w>
+    <w ref="46.3" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="46.3" lemma="portamen" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Pass|Person=2">portamini</w>
+    <w ref="46.3" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="46.3" lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">meo</w>
+    <w ref="46.3" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="46.3" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="46.3" lemma="gesto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=2">gestamini</w>
+    <w ref="46.3" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="46.3" lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=Fem">mea</w>
+    <w ana="" ref="46.3" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
+    <w ref="46.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

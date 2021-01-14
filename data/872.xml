@@ -1,0 +1,26 @@
+<div type="fragment" corresp="adams:110" ana="#anus #culus">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblScope>97.3-97.5</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:97.3-97.5" type="line">
+    <w ref="97.3" lemma="nihilum" pos="NOMcom" msd="Case=Abl|Numb=Sing">nilo</w>
+    <w ref="97.3" lemma="mundus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp">mundius</w>
+    <w ref="97.3" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="97.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="97.3" lemma="nihilum" pos="NOMcom" msd="Case=Abl|Numb=Sing">nihiloque</w>
+    <w ref="97.3" lemma="que" pos="CON" msd="MORPH=empty">{nihiloque}</w>
+    <w ref="97.3" lemma="immundus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp">immundius</w>
+    <w ref="97.3" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">illud</w>
+    <w ref="97.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="97.4" lemma="uerus" pos="CONcoo" msd="MORPH=empty">verum</w>
+    <w ref="97.4" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ana="#anus #culus" ref="97.4" lemma="culus" pos="NOMcom" msd="Case=Nom|Numb=Sing">culus</w>
+    <w ref="97.4" lemma="mundus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">mundior</w>
+    <w ref="97.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="97.4" lemma="bonus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">melior</w>
+    <w ref="97.4" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="97.5" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="97.5" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="97.5" lemma="dens" pos="NOMcom" msd="Case=Abl|Numb=Plur">dentibus</w>
+    <w ref="97.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="97.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

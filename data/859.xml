@@ -1,0 +1,29 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>79.1-79.1</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:79.1-79.1" type="paragraph">
+    <w ref="79.1" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">Hoc</w>
+    <w ref="79.1" lemma="medicamentum" pos="NOMcom" msd="Case=Nom|Numb=Sing">medicamentum</w>
+    <w ref="79.1" lemma="conuenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">conuenit</w>
+    <w ref="79.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="79.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="79.1" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="79.1" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Neut">omnia</w>
+    <w ref="79.1" lemma="carcinomatus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">carcinomata</w>
+    <w ana="#female #womb #medical" ref="79.1" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ref="79.1" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="79.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="79.1" lemma="cancerosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">cancerosa</w>
+    <w ref="79.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="79.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="79.1" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="79.1" lemma="alius" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Neut">alia</w>
+    <w ref="79.1" lemma="dyscola" pos="NOMcom" msd="Case=Nom|Numb=Sing">dyscola</w>
+    <w ref="79.1" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="79.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="79.1" lemma="difficilis" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">difficilia</w>
+    <w ref="79.1" lemma="ualde" pos="ADV" msd="Deg=Pos">ualde</w>
+    <w ref="79.1" lemma="bonum" pos="ADJqua" msd="Case=Nom|Numb=Sing">bonum</w>
+    <w ref="79.1" lemma="probo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">probatur</w>
+    <w ref="79.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

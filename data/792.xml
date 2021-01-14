@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:105" ana="">
+  <bibl><author>Vulgate</author>, <title>Joel</title>, <biblScope>38.8-38.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg039.obi-lat1:38.8-38.8" type="verse">
+    <w ref="38.8" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Masc">quis</w>
+    <w ref="38.8" lemma="concludo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">conclusit</w>
+    <w ref="38.8" lemma="ostium" pos="NOMcom" msd="Case=Abl|Numb=Plur">ostiis</w>
+    <w ref="38.8" lemma="mare" pos="NOMcom" msd="Case=Acc|Numb=Sing">mare</w>
+    <w ref="38.8" lemma="quando3" pos="ADVrel" msd="MORPH=empty">quando</w>
+    <w ref="38.8" lemma="erumpo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erumpebat</w>
+    <w ref="38.8" lemma="quasi1" pos="ADVrel" msd="MORPH=empty">quasi</w>
+    <w ref="38.8" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ana="" ref="38.8" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
+    <w ref="38.8" lemma="procedo1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">procedens</w>
+    <w ref="38.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

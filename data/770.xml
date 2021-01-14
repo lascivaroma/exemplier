@@ -1,0 +1,55 @@
+<div type="fragment" corresp="adams:101" ana="#female #womb">
+  <bibl><author>Scribonius Largus</author>, <title>Compositiones</title>, <biblScope>121-121</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1011.phi001.lascivaroma-lat1:121-121" type="section">
+    <w ref="121" lemma="is" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">eis</w>
+    <w ref="121" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="121" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+    <w ref="121" lemma="sanguis" pos="NOMcom" msd="Case=Acc|Numb=Sing">sanguinem</w>
+    <w ref="121" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="121" lemma="urina" pos="NOMcom" msd="Case=Acc|Numb=Sing">urinam</w>
+    <w ref="121" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="121" lemma="aluus" pos="NOMcom" msd="Case=Acc|Numb=Sing">alvum</w>
+    <w ref="121" lemma="reddo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">reddunt</w>
+    <w ref="121" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="121" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="121" lemma="parum2" pos="ADV" msd="Deg=Comp">minus</w>
+    <w ref="121" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="121" lemma="mulier" pos="NOMcom" msd="Case=Abl|Numb=Plur">mulieribus</w>
+    <w ref="121" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="121" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="121" lemma="fluor" pos="NOMcom" msd="Case=Abl|Numb=Sing">fluore</w>
+    <w ref="121" lemma="sanguinolentus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">sanguinolento</w>
+    <w ref="121" lemma="infesto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">infestantur</w>
+    <w ref="121" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="121" lemma="qui1" pos="PROrel" msd="Case=Acc|Gend=Neut">quod</w>
+    <w ref="121" lemma="Graeci" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc">Graeci</w>
+    <w ref="121" lemma="dico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dicunt</w>
+    <w ref="121" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="121" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="121" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="121" lemma="partus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">partu</w>
+    <w ref="121" lemma="abortus" pos="VER" msd="Numb=Sing">abortuve</w>
+    <w ref="121" lemma="ue" pos="CON" msd="MORPH=empty">{abortuve}</w>
+    <w ref="121" lemma="residuus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">residuos</w>
+    <w ana="#female #womb" ref="121" lemma="uulua" pos="NOMcom" msd="Case=Nom|Numb=Plur">vulvae</w>
+    <w ref="121" lemma="dolor" pos="NOMcom" msd="Case=Acc|Numb=Plur">dolores</w>
+    <w ref="121" lemma="habeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habent</w>
+    <w ref="121" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="121" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="121" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="121" lemma="totum" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascNeut">totum</w>
+    <w ref="121" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="121" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibus</w>
+    <w ref="121" lemma="supprimo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Adj|Voice=Pass">supprimendus</w>
+    <w ref="121" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="121" lemma="fluor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fluor</w>
+    <w ref="121" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="121" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="121" lemma="aliquis" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">aliqua</w>
+    <w ref="121" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing">parte</w>
+    <w ref="121" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
+    <w ref="121" lemma="inflatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">inflatio</w>
+    <w ref="121" lemma="tollo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">tollenda</w>
+    <w ref="121" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

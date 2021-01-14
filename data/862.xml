@@ -1,0 +1,40 @@
+<div type="fragment" corresp="adams:107" ana="#female #womb #medical">
+  <bibl><author>Theodorus Priscianus</author>, <title>Euporiston</title>, <biblScope>3.2-3.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1:3.2-3.2" type="chapter">
+    <w ref="3.2" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Plur|Gend=Com">Quibus</w>
+    <w ref="3.2" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="3.2" lemma="repentinus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">repentina</w>
+    <w ref="3.2" lemma="commotio" pos="NOMcom" msd="Case=Nom|Numb=Sing">commotio</w>
+    <w ana="#female #womb #medical" ref="3.2" lemma="matrici" pos="NOMcom" msd="Case=Gen|Numb=Sing">matricis</w>
+    <w ref="3.2" lemma="innascor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">innascitur</w>
+    <w ref="3.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.2" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Fem">hae</w>
+    <w ref="3.2" lemma="musculus" pos="NOMcom" msd="Case=Gen|Numb=Plur">musculorum</w>
+    <w ref="3.2" lemma="omnis" pos="PROind" msd="Case=Gen|Numb=Plur|Gend=Com">omnium</w>
+    <w ref="3.2" lemma="contractio" pos="NOMcom" msd="Case=Abl|Numb=Sing">contractione</w>
+    <w ref="3.2" lemma="totus" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">totius</w>
+    <w ref="3.2" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
+    <w ref="3.2" lemma="dolor" pos="NOMcom" msd="Case=Abl|Numb=Sing">dolore</w>
+    <w ref="3.2" lemma="nimius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">nimio</w>
+    <w ref="3.2" lemma="quatio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">quatiuntur</w>
+    <w ref="3.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.2" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">hac</w>
+    <w ref="3.2" lemma="uis" pos="NOMcom" msd="Case=Abl|Numb=Sing">vi</w>
+    <w ref="3.2" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
+    <w ref="3.2" lemma="intercipio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">intercepto</w>
+    <w ref="3.2" lemma="uox" pos="NOMcom" msd="Case=Gen|Numb=Sing">vocis</w>
+    <w ref="3.2" lemma="officium" pos="NOMcom" msd="Case=Abl|Numb=Sing">officio</w>
+    <w ref="3.2" lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+    <w ref="3.2" lemma="horror" pos="NOMcom" msd="Case=Abl|Numb=Sing">horrore</w>
+    <w ref="3.2" lemma="causa" pos="NOMcom" msd="Case=Nom|Numb=Plur">causae</w>
+    <w ref="3.2" lemma="uelut1" pos="ADVrel" msd="MORPH=empty">veluti</w>
+    <w ref="3.2" lemma="paralyseus" pos="NOMcom" msd="Case=Nom|Numb=Plur">paralyseos</w>
+    <w ref="3.2" lemma="mentior" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">mentiuntur</w>
+    <w ref="3.2" lemma="imago" pos="NOMcom" msd="Case=Acc|Numb=Sing">imaginem</w>
+    <w ref="3.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.2" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>
+    <w ref="3.2" lemma="passio" pos="NOMcom" msd="Case=Acc|Numb=Sing">passionem</w>
+    <w ref="3.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+  </quote>
+</div>

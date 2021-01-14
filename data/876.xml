@@ -1,0 +1,62 @@
+<div type="fragment" corresp="adams:110" ana="#anus #culus">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>1.92.6-1.92.13</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.92.6-1.92.13" type="line">
+    <w ref="1.92.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.92.7" lemma="cereus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Cerea</w>
+    <w ref="1.92.7" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="1.92.7" lemma="pendeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pendet</w>
+    <w ref="1.92.7" lemma="lumbus" pos="NOMcom" msd="Case=Dat|Numb=Plur">lumbis</w>
+    <w ref="1.92.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.92.7" lemma="scriptum" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">scripta</w>
+    <w ref="1.92.7" lemma="lacerna" pos="NOMcom" msd="Case=Nom|Numb=Sing">lacerna</w>
+    <w ref="1.92.8" lemma="dimidius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">Dimidiasque</w>
+    <w ref="1.92.8" lemma="que" pos="CON" msd="MORPH=empty">{Dimidiasque}</w>
+    <w ref="1.92.8" lemma="nates" pos="NOMcom" msd="Case=Acc|Numb=Plur">nates</w>
+    <w ref="1.92.8" lemma="Gallicus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Gallica</w>
+    <w ref="1.92.8" lemma="paeda" pos="NOMcom" msd="Case=Nom|Numb=Sing">paeda</w>
+    <w ref="1.92.8" lemma="tego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tegit</w>
+    <w ref="1.92.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.92.9" lemma="pasco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=2">Pasceris</w>
+    <w ref="1.92.9" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.92.9" lemma="niger" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">nigrae</w>
+    <w ref="1.92.9" lemma="solum1" pos="NOMcom" msd="Case=Abl|Numb=Sing|Gend=MascNeut">solo</w>
+    <w ref="1.92.9" lemma="nidor" pos="NOMcom" msd="Case=Abl|Numb=Sing">nidore</w>
+    <w ref="1.92.9" lemma="culina" pos="NOMcom" msd="Case=Gen|Numb=Sing">culinae</w>
+    <w ref="1.92.10" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="1.92.10" lemma="bibo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">bibis</w>
+    <w ref="1.92.10" lemma="immundus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">inmundam</w>
+    <w ref="1.92.10" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="1.92.10" lemma="canis" pos="NOMcom" msd="Case=Abl|Numb=Sing">cane</w>
+    <w ref="1.92.10" lemma="pronus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">pronus</w>
+    <w ref="1.92.10" lemma="aqua" pos="NOMcom" msd="Case=Acc|Numb=Sing">aquam</w>
+    <w ref="1.92.10" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="1.92.11" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ana="#anus #culus" ref="1.92.11" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Sing">culum</w>
+    <w ref="1.92.11" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+    <w ref="1.92.11" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="1.92.11" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="1.92.11" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1.92.11" lemma="culus" pos="NOMcom" msd="Case=Nom|Numb=Sing">culus</w>
+    <w ref="1.92.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.92.11" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="1.92.11" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.92.11" lemma="caco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cacat</w>
+    <w ref="1.92.11" lemma="olim" pos="ADV" msd="Deg=Pos">olim</w>
+    <w ref="1.92.11" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+    <w ref="1.92.12" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="1.92.12" lemma="fodio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">fodiam</w>
+    <w ref="1.92.12" lemma="digitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">digito</w>
+    <w ref="1.92.12" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="1.92.12" lemma="supersum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">superest</w>
+    <w ref="1.92.12" lemma="oculus" pos="NOMcom" msd="Case=Acc|Numb=Sing">oculum</w>
+    <w ref="1.92.12" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="1.92.13" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ref="1.92.13" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="1.92.13" lemma="zelotypus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">zelotypum</w>
+    <w ref="1.92.13" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="1.92.13" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2">dixeris</w>
+    <w ref="1.92.13" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="1.92.13" lemma="malignus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">malignum</w>
+    <w ref="1.92.13" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

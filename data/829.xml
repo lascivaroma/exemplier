@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:105" ana="#female #womb">
+  <bibl><author>Tertullian</author>, <title>Adversus Valentinianos</title>, <biblScope>7-7</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa008.opp-lat2:7-7" type="section">
+    <w ref="7" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">hoc</w>
+    <w ref="7" lemma="uicis" pos="NOMcom" msd="Case=Abl|Numb=Sing">uice</w>
+    <w ref="7" lemma="semen1" pos="NOMcom" msd="Case=Gen|Numb=Sing">seminis</w>
+    <w ref="7" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="7" lemma="siges" pos="NOMcom" msd="Case=Abl|Numb=Sing">Sige</w>
+    <w ref="7" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=Fem">sua</w>
+    <w ref="7" lemma="uelut1" pos="ADVrel" msd="MORPH=empty">uelut</w>
+    <w ref="7" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="7" lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">genitalibus</w>
+    <w ana="#female #womb" ref="7" lemma="uulua" pos="NOMcom" msd="Case=Gen|Numb=Sing">uuluae</w>
+    <w ref="7" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
+    <w ref="7" lemma="colloco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">collocat</w>
+    <w ref="7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

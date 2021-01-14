@@ -1,0 +1,28 @@
+<div type="fragment" corresp="adams:105" ana="">
+  <bibl><author>Vulgate</author>, <title>Numbers</title>, <biblScope>12.12-12.12</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg004.obi-lat1:12.12-12.12" type="verse">
+    <w ref="12.12" lemma="ne3" pos="ADVneg" msd="MORPH=empty">ne</w>
+    <w ref="12.12" lemma="fio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">fiat</w>
+    <w ref="12.12" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Neut">haec</w>
+    <w ref="12.12" lemma="quasi1" pos="ADVrel" msd="MORPH=empty">quasi</w>
+    <w ref="12.12" lemma="mortuus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem">mortua</w>
+    <w ref="12.12" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="12.12" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="12.12" lemma="abortiuus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">abortivum</w>
+    <w ref="12.12" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="12.12" lemma="proicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">proicitur</w>
+    <w ref="12.12" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ana="" ref="12.12" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
+    <w ref="12.12" lemma="mater" pos="NOMcom" msd="Case=Gen|Numb=Sing">matris</w>
+    <w ref="12.12" lemma="suus" pos="PROpos.ref" msd="Case=Gen|Numb=Sing|Gend=Fem">suae</w>
+    <w ref="12.12" lemma="ecce" pos="INJ" msd="MORPH=empty">ecce</w>
+    <w ref="12.12" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="12.12" lemma="medium" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">medium</w>
+    <w ref="12.12" lemma="caro1" pos="NOMcom" msd="Case=Gen|Numb=Sing">carnis</w>
+    <w ref="12.12" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Fem">eius</w>
+    <w ref="12.12" lemma="deuoro" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">devoratum</w>
+    <w ref="12.12" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="12.12" lemma="leprae" pos="NOMcom" msd="Case=Nom|Numb=Sing">lepra</w>
+    <w ref="12.12" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

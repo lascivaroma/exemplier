@@ -1,0 +1,13 @@
+<div type="fragment" corresp="adams:110" ana="#anus #culus">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>11.46.5-11.46.5</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.46.5-11.46.5" type="line">
+    <w ref="11.46.5" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">Quid</w>
+    <w ref="11.46.5" lemma="miser" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">miseros</w>
+    <w ref="11.46.5" lemma="frustra" pos="ADV" msd="Deg=Pos">frustra</w>
+    <w ref="11.46.5" lemma="cunnus" pos="NOMcom" msd="Case=Acc|Numb=Plur">cunnos</w>
+    <w ana="#anus #culus" ref="11.46.5" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Plur">culosque</w>
+    <w ref="11.46.5" lemma="que" pos="CON" msd="MORPH=empty">{culosque}</w>
+    <w ref="11.46.5" lemma="lacesso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">lacessis</w>
+    <w ref="11.46.5" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

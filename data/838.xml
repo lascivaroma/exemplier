@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Theodorus Priscianus</author>, <title>Euporiston</title>, <biblScope>3.5-3.5</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1:3.5-3.5" type="chapter">
+    <w ref="3.5" lemma="nullus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">nullo</w>
+    <w ref="3.5" lemma="etenim" pos="CONcoo" msd="MORPH=empty">etenim</w>
+    <w ref="3.5" lemma="remedium" pos="NOMcom" msd="Case=Abl|Numb=Sing">remedio</w>
+    <w ref="3.5" lemma="bonus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Comp">meliore</w>
+    <w ref="3.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.5" lemma="innoxius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">innoxio</w>
+    <w ref="3.5" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="3.5" lemma="corrigo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">corrigi</w>
+    <w ana="#female #womb #medical" ref="3.5" lemma="matrix" pos="NOMcom" msd="Case=Nom|Numb=Sing">matrix</w>
+    <w ref="3.5" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">poterit</w>
+    <w ref="3.5" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="3.5" lemma="purgo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">purgari</w>
+    <w ref="3.5" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="3.5" lemma="hic1" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">huius</w>
+    <w ref="3.5" lemma="nitrum" pos="NOMcom" msd="Case=Gen|Numb=Sing">nitri</w>
+    <w ref="3.5" lemma="suppositio" pos="NOMcom" msd="Case=Abl|Numb=Sing">suppositione</w>
+    <w ref="3.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

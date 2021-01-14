@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:110" ana="#anus #culus">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblScope>97.1-97.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:97.1-97.2" type="line">
+    <w ref="97.1" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ref="97.1" lemma="(" pos="PUNC" msd="MORPH=empty">(</w>
+    <w ref="97.1" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+    <w ref="97.1" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="97.1" lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Plur">di</w>
+    <w ref="97.1" lemma="amo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">ament</w>
+    <w ref="97.1" lemma=")" pos="PUNC" msd="MORPH=empty">)</w>
+    <w ref="97.1" lemma="quisquam" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">quicquam</w>
+    <w ref="97.1" lemma="refert" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">referre</w>
+    <w ref="97.1" lemma="puto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">putavi</w>
+    <w ref="97.2" lemma="utrumne" pos="ADVint" msd="MORPH=empty">utrumne</w>
+    <w ref="97.2" lemma="os1" pos="NOMcom" msd="Case=Acc|Numb=Sing">os</w>
+    <w ref="97.2" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ana="#anus #culus" ref="97.2" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Sing">culum</w>
+    <w ref="97.2" lemma="olfacio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1">olfacerem</w>
+    <w ref="97.2" lemma="aemilium" pos="NOMcom" msd="Case=Dat|Numb=Sing">Aemilio</w>
+    <w ref="97.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

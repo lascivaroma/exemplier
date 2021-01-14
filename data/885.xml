@@ -1,0 +1,52 @@
+<div type="fragment" corresp="adams:110" ana="#anus #culus">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>9.27.1-9.27.7</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.27.1-9.27.7" type="line">
+    <w ref="9.27.1" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+    <w ref="9.27.1" lemma="depilo1" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">depilatos</w>
+    <w ref="9.27.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.27.1" lemma="chrestis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Masc|Deg=Pos">Chreste</w>
+    <w ref="9.27.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.27.1" lemma="coleus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coleos</w>
+    <w ref="9.27.1" lemma="porto" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=2">portes</w>
+    <w ref="9.27.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="9.27.2" lemma="uulturinus" pos="NOMcom" msd="Case=Dat|Numb=Sing|Deg=Pos">vulturino</w>
+    <w ref="9.27.2" lemma="mentula" pos="NOMcom" msd="Case=Acc|Numb=Sing">mentulam</w>
+    <w ref="9.27.2" lemma="par2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">parem</w>
+    <w ref="9.27.2" lemma="collum" pos="NOMcom" msd="Case=Abl|Numb=Sing">collo</w>
+    <w ref="9.27.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="9.27.3" lemma="prostituo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">prostitutis</w>
+    <w ref="9.27.3" lemma="leuiter" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp">levius</w>
+    <w ref="9.27.3" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+    <w ana="#anus #culus" ref="9.27.3" lemma="culus" pos="NOMcom" msd="Case=Dat|Numb=Plur">culis</w>
+    <w ref="9.27.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.27.4" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ref="9.27.4" lemma="uiuo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">vivat</w>
+    <w ref="9.27.4" lemma="ullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">ullus</w>
+    <w ref="9.27.4" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="9.27.4" lemma="tuus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">tuo</w>
+    <w ref="9.27.4" lemma="pilus?" pos="NOMcom" msd="Case=Nom|Numb=Sing">pilus</w>
+    <w ref="9.27.4" lemma="crus" pos="NOMcom" msd="Case=Abl|Numb=Sing">crure</w>
+    <w ref="9.27.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.27.5" lemma="purgo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Purgentque</w>
+    <w ref="9.27.5" lemma="que" pos="CON" msd="MORPH=empty">{Purgentque}</w>
+    <w ref="9.27.5" lemma="saeuus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Fem|Deg=Pos">saevae</w>
+    <w ref="9.27.5" lemma="canus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">cana</w>
+    <w ref="9.27.5" lemma="labrum1" pos="NOMcom" msd="Case=Acc|Numb=Plur">labra</w>
+    <w ref="9.27.5" lemma="uolsella" pos="NOMcom" msd="Case=Gen|Numb=Sing">volsellae</w>
+    <w ref="9.27.5" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="9.27.6" lemma="curius" pos="NOMcom" msd="Case=Acc|Numb=Plur">Curios</w>
+    <w ref="9.27.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.27.6" lemma="camillus" pos="NOMcom" msd="Case=Acc|Numb=Plur">Camillos</w>
+    <w ref="9.27.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.27.6" lemma="quintus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">Quintios</w>
+    <w ref="9.27.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.27.6" lemma="numa" pos="NOMcom" msd="Case=Acc|Numb=Plur">Numas</w>
+    <w ref="9.27.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.27.6" lemma="ancos" pos="NOMcom" msd="Case=Acc|Numb=Plur">Ancos</w>
+    <w ref="9.27.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.27.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="9.27.7" lemma="quisquis1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quidquid</w>
+    <w ref="9.27.7" lemma="umquam" pos="ADV" msd="Deg=Pos">umquam</w>
+    <w ref="9.27.7" lemma="lego2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">legimus</w>
+  </quote>
+</div>

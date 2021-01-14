@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Theodorus Priscianus</author>, <title>Euporiston</title>, <biblScope>3.2-3.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1:3.2-3.2" type="chapter">
+    <w ref="3.2" lemma="uentosus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">Ventosis</w>
+    <w ref="3.2" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="3.2" lemma="admoueo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">admotis</w>
+    <w ref="3.2" lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Plur">inguinibus</w>
+    <w ref="3.2" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="3.2" lemma="femur" pos="NOMcom" msd="Case=Dat|Numb=Sing">femori</w>
+    <w ref="3.2" lemma="bus" pos="NOMcom" msd="MORPH=empty">bus</w>
+    <w ref="3.2" lemma="recursus" pos="NOMcom" msd="Case=Nom|Numb=Plur">recursus</w>
+    <w ref="3.2" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="3.2" lemma="inclinatio" pos="NOMcom" msd="Case=Acc|Numb=Plur">inclinationes</w>
+    <w ana="#female #womb #medical" ref="3.2" lemma="matrix" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ref="3.2" lemma="recuro" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1">recuremus</w>
+    <w ref="3.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

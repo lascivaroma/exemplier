@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:107" ana="#female #womb #medical">
+  <bibl><author>Theodorus Priscianus</author>, <title>Euporiston</title>, <biblScope>3.5-3.5</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1:3.5-3.5" type="chapter">
+    <w ref="3.5" lemma="prius" pos="ADJadv.ord" msd="Deg=Comp">Prius</w>
+    <w ref="3.5" lemma="inquiro" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">inquirendum</w>
+    <w ref="3.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="3.5" lemma="necubi" pos="NOMcom" msd="MORPH=empty">necubi</w>
+    <w ref="3.5" lemma="orificium" pos="NOMcom" msd="Case=Nom|Numb=Sing">orificium</w>
+    <w ana="#female #womb #medical" ref="3.5" lemma="matrici" pos="NOMcom" msd="Case=Gen|Numb=Sing">matricis</w>
+    <w ref="3.5" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="3.5" lemma="inclinatus2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">inclinatum</w>
+    <w ref="3.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="3.5" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="3.5" lemma="concludo" pos="VER" msd="Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">conclusum</w>
+    <w ref="3.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

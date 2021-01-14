@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:110" ana="#anus #culus">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>2.51.5-2.51.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:2.51.5-2.51.6" type="line">
+    <w ref="2.51.5" lemma="infelix" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">Infelix</w>
+    <w ref="2.51.5" lemma="uenter" pos="NOMcom" msd="Case=Nom|Numb=Sing">venter</w>
+    <w ref="2.51.5" lemma="specto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">spectat</w>
+    <w ref="2.51.5" lemma="conuiuium" pos="NOMcom" msd="Case=Acc|Numb=Plur">convivia</w>
+    <w ana="#anus #culus" ref="2.51.5" lemma="culus" pos="NOMcom" msd="Case=Dat|Numb=Sing">culi</w>
+    <w ref="2.51.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="2.51.6" lemma="semper" pos="ADV" msd="Deg=Pos">semper</w>
+    <w ref="2.51.6" lemma="miser" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">miser</w>
+    <w ref="2.51.6" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">hic</w>
+    <w ref="2.51.6" lemma="esurio2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">esurit</w>
+    <w ref="2.51.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.51.6" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="2.51.6" lemma="uoro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vorat</w>
+    <w ref="2.51.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

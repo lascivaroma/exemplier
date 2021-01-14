@@ -1,0 +1,32 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Theodorus Priscianus</author>, <title>Euporiston</title>, <biblScope>3.5-3.5</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1:3.5-3.5" type="chapter">
+    <w ref="3.5" lemma="sic" pos="ADV" msd="Deg=Pos">Sic</w>
+    <w ref="3.5" lemma="deinde" pos="ADV" msd="Deg=Pos">deinde</w>
+    <w ref="3.5" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="3.5" lemma="ordinatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">ordinationem</w>
+    <w ref="3.5" lemma="cura" pos="NOMcom" msd="Case=Gen|Numb=Sing">curae</w>
+    <w ref="3.5" lemma="aduerto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">advertendum</w>
+    <w ref="3.5" lemma="nos" pos="PROper" msd="Case=Dat|Numb=Plur">nobis</w>
+    <w ref="3.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
+    <w ref="3.5" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="3.5" lemma="concludo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">conclusum</w>
+    <w ref="3.5" lemma="prius" pos="ADJadv.ord" msd="Deg=Comp">prius</w>
+    <w ref="3.5" lemma="moderate" pos="ADV" msd="Deg=Pos">moderate</w>
+    <w ref="3.5" lemma="orificium" pos="NOMcom" msd="Case=Acc|Numb=Sing">orificium</w>
+    <w ref="3.5" lemma="patefacio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">patefaciat</w>
+    <w ref="3.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.5" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="3.5" lemma="purgatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">purgatione</w>
+    <w ref="3.5" lemma="solemnis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">solemni</w>
+    <w ref="3.5" lemma="inoffense" pos="ADV" msd="Deg=Pos">inoffense</w>
+    <w ref="3.5" lemma="dispono" pos="VER" msd="Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">disposita</w>
+    <w ref="3.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.5" lemma="desicco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">desiccari</w>
+    <w ref="3.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.5" lemma="calefio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">calefieri</w>
+    <w ana="#female #womb #medical" ref="3.5" lemma="matrix" pos="NOMcom" msd="Case=Nom|Numb=Sing">matrix</w>
+    <w ref="3.5" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possit</w>
+    <w ref="3.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

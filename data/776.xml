@@ -1,0 +1,44 @@
+<div type="fragment" corresp="adams:105" ana="">
+  <bibl><author>Vulgate</author>, <title>Exodus</title>, <biblScope>13.15-13.15</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg002.obi-lat1:13.15-13.15" type="verse">
+    <w ref="13.15" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="13.15" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="13.15" lemma="induro" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">induratus</w>
+    <w ref="13.15" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">esset</w>
+    <w ref="13.15" lemma="pharaum" pos="NOMcom" msd="Case=Dat|Numb=Sing">Pharao</w>
+    <w ref="13.15" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="13.15" lemma="nolo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">nollet</w>
+    <w ref="13.15" lemma="nos" pos="PROper" msd="Case=Acc|Numb=Plur">nos</w>
+    <w ref="13.15" lemma="dimitto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dimittere</w>
+    <w ref="13.15" lemma="occido2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">occidit</w>
+    <w ref="13.15" lemma="dominus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Dominus</w>
+    <w ref="13.15" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">omne</w>
+    <w ref="13.15" lemma="primogenitus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Masc|Deg=Pos">primogenitum</w>
+    <w ref="13.15" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="13.15" lemma="terra" pos="NOMcom" msd="Case=Abl|Numb=Sing">terra</w>
+    <w ref="13.15" lemma="aegyptus" pos="NOMcom" msd="Case=Gen|Numb=Sing">Aegypti</w>
+    <w ref="13.15" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="13.15" lemma="primogenitus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">primogenito</w>
+    <w ref="13.15" lemma="homo" pos="NOMcom" msd="Case=Gen|Numb=Sing">hominis</w>
+    <w ref="13.15" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+    <w ref="13.15" lemma="ad1" pos="ADV" msd="MORPH=empty">ad</w>
+    <w ref="13.15" lemma="primogenitus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">primogenitum</w>
+    <w ref="13.15" lemma="iumentum" pos="NOMcom" msd="Case=Gen|Numb=Plur">iumentorum</w>
+    <w ref="13.15" lemma="idcirco" pos="ADV" msd="Deg=Pos">idcirco</w>
+    <w ref="13.15" lemma="immolo" pos="VER" msd="Case=Abl|Numb=Sing">immolo</w>
+    <w ref="13.15" lemma="dominus" pos="NOMcom" msd="Case=Dat|Numb=Sing">Domino</w>
+    <w ref="13.15" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">omne</w>
+    <w ref="13.15" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="13.15" lemma="aperio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">aperit</w>
+    <w ana="" ref="13.15" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="13.15" lemma="masculinus" pos="ADJqua" msd="Case=Gen|Numb=Sing">masculini</w>
+    <w ref="13.15" lemma="sexus" pos="NOMcom" msd="Case=Gen|Numb=Sing">sexus</w>
+    <w ref="13.15" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="13.15" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Neut">omnia</w>
+    <w ref="13.15" lemma="primogenitus" pos="NOMcom" msd="Case=Nom|Numb=Plur">primogenita</w>
+    <w ref="13.15" lemma="filius" pos="NOMcom" msd="Case=Gen|Numb=Plur">filiorum</w>
+    <w ref="13.15" lemma="meus" pos="PROpos" msd="Case=Gen|Numb=Plur|Gend=MascNeut">meorum</w>
+    <w ref="13.15" lemma="redimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">redimo</w>
+    <w ref="13.15" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

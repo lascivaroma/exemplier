@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:105" ana="">
+  <bibl><author>Vulgate</author>, <title>Habakkuk</title>, <biblScope>20.18-20.18</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg043.obi-lat1:20.18-20.18" type="verse">
+    <w ref="20.18" lemma="concludo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">concluserat</w>
+    <w ref="20.18" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="20.18" lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Deus</w>
+    <w ref="20.18" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascFem">omnem</w>
+    <w ana="" ref="20.18" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="20.18" lemma="domus" pos="NOMcom" msd="Case=Nom|Numb=Sing">domus</w>
+    <w ref="20.18" lemma="abimelech" pos="ADV" msd="Deg=Pos">Abimelech</w>
+    <w ref="20.18" lemma="propter2" pos="PRE" msd="MORPH=empty">propter</w>
+    <w ref="20.18" lemma="sarrus" pos="NOMcom" msd="Case=Acc|Numb=Sing">Sarram</w>
+    <w ref="20.18" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
+    <w ref="20.18" lemma="Abraham" pos="NOMpro" msd="Case=Ind">Abraham</w>
+    <w ref="20.18" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

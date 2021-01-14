@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>78.3-78.3</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:78.3-78.3" type="paragraph">
+    <w ref="78.3" lemma="malus3" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Pessus</w>
+    <w ref="78.3" lemma="malacticus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">malacticus</w>
+    <w ref="78.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="78.3" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="78.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="78.3" lemma="mollitorius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">mollitorius</w>
+    <w ref="78.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="78.3" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="78.3" lemma="resoluo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Adj|Voice=Pass">resoluendas</w>
+    <w ana="#female #womb #medical" ref="78.3" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ref="78.3" lemma="duritia" pos="NOMcom" msd="Case=Acc|Numb=Plur">duritias</w>
+    <w ref="78.3" lemma="siue2" pos="CONsub" msd="MORPH=empty">siue</w>
+    <w ref="78.3" lemma="strictura" pos="NOMcom" msd="Case=Acc|Numb=Plur">stricturas</w>
+    <w ref="78.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

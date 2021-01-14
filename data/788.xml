@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:105" ana="">
+  <bibl><author>Vulgate</author>, <title>Job</title>, <biblScope>20.18-20.18</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg032.obi-lat1:20.18-20.18" type="verse">
+    <w ref="20.18" lemma="quare2" pos="ADVrel" msd="MORPH=empty">quare</w>
+    <w ref="20.18" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ana="" ref="20.18" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
+    <w ref="20.18" lemma="egredior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">egressus</w>
+    <w ref="20.18" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">sum</w>
+    <w ref="20.18" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="20.18" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1">viderem</w>
+    <w ref="20.18" lemma="labor1" pos="NOMcom" msd="Case=Acc|Numb=Sing">laborem</w>
+    <w ref="20.18" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="20.18" lemma="dolor" pos="NOMcom" msd="Case=Acc|Numb=Sing">dolorem</w>
+    <w ref="20.18" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="20.18" lemma="consumo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">consumerentur</w>
+    <w ref="20.18" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="20.18" lemma="confusio" pos="NOMcom" msd="Case=Abl|Numb=Sing">confusione</w>
+    <w ref="20.18" lemma="dies" pos="NOMcom" msd="Case=Acc|Numb=Sing">dies</w>
+    <w ref="20.18" lemma="ego" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=Masc">mei</w>
+    <w ref="20.18" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

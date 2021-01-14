@@ -1,0 +1,37 @@
+<div type="fragment" corresp="adams:105" ana="#female #womb">
+  <bibl><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblScope>2.5.6-2.5.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:2.5.6-2.5.6" type="section">
+    <w ref="2.5.6" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.5.6" lemma="torquis" pos="NOMcom" msd="Case=Nom|Numb=Sing">torque</w>
+    <w ref="2.5.6" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.5.6" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="2.5.6" lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing">pars</w>
+    <w ref="2.5.6" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="2.5.6" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">potest</w>
+    <w ref="2.5.6" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.5.6" lemma="subicio" pos="VER" msd="Numb=Sing">subice</w>
+    <w ref="2.5.6" lemma="ignis" pos="NOMcom" msd="Case=Acc|Numb=Plur">ignes</w>
+    <w ref="2.5.6" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.5.6" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.5.6" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="2.5.6" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing">parte</w>
+    <w ref="2.5.6" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="2.5.6" lemma="exaresco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">exaruit</w>
+    <w ref="2.5.6" lemma="cruor" pos="NOMcom" msd="Case=Nom|Numb=Sing">cruor</w>
+    <w ref="2.5.6" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.5.6" lemma="seca" pos="NOMcom" msd="Case=Nom|Numb=Sing">seca</w>
+    <w ref="2.5.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.5.6" lemma="uerber" pos="NOMcom" msd="Case=Acc|Numb=Plur">uerbera</w>
+    <w ref="2.5.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.5.6" lemma="oculus" pos="NOMcom" msd="Case=Acc|Numb=Plur">oculos</w>
+    <w ref="2.5.6" lemma="lancina" pos="NOMcom" msd="Case=Nom|Numb=Sing">lancina</w>
+    <w ref="2.5.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.5.6" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">fac</w>
+    <w ref="2.5.6" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="2.5.6" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="2.5.6" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Sing">uiro</w>
+    <w ref="2.5.6" lemma="placeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">placeat</w>
+    <w ana="#female #womb" ref="2.5.6" lemma="matrix" pos="NOMcom" msd="Case=Nom|Numb=Sing">matrix</w>
+    <w ref="2.5.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,42 @@
+<div type="fragment" corresp="adams:107" ana="#female #womb #medical">
+  <bibl><author>Theodorus Priscianus</author>, <title>Euporiston</title>, <biblScope>3.5-3.5</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1:3.5-3.5" type="chapter">
+    <w ref="3.5" lemma="continuo2" pos="ADV" msd="Deg=Pos">Continuo</w>
+    <w ref="3.5" lemma="igitur" pos="CONcoo" msd="MORPH=empty">igitur</w>
+    <w ref="3.5" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="3.5" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="3.5" lemma="purgatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">purgatio</w>
+    <w ref="3.5" lemma="inoffense" pos="ADV" msd="Deg=Pos">inoffense</w>
+    <w ref="3.5" lemma="transigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">transegerit</w>
+    <w ref="3.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.5" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="3.5" lemma="dius" pos="NOMcom" msd="Case=Abl|Numb=Sing">dia</w>
+    <w ref="3.5" lemma="chylon" pos="NOMcom" msd="Case=Nom|Numb=Sing">chylon</w>
+    <w ref="3.5" lemma="pesso" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">pesso</w>
+    <w ref="3.5" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="3.5" lemma="libianus" pos="NOMcom" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">libiano</w>
+    <w ref="3.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.5" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="3.5" lemma="nardinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">nardino</w>
+    <w ref="3.5" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="3.5" lemma="roseus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">roseo</w>
+    <w ref="3.5" lemma="oleum" pos="NOMcom" msd="Case=Abl|Numb=Sing">oleo</w>
+    <w ref="3.5" lemma="resoluo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">resoluto</w>
+    <w ref="3.5" lemma="prius" pos="ADJadv.ord" msd="Deg=Comp">prius</w>
+    <w ref="3.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.5" lemma="encolpismus" pos="NOMcom" msd="Case=Abl|Numb=Sing">encolpismo</w>
+    <w ref="3.5" lemma="ut1" pos="ADVrel" msd="Mood=Inf|Tense=Pres|Voice=Dep">uti</w>
+    <w ref="3.5" lemma="conuenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">conveniet</w>
+    <w ref="3.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.5" lemma="post2" pos="PRE" msd="MORPH=empty">post</w>
+    <w ana="#female #womb #medical" ref="3.5" lemma="matricus" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ref="3.5" lemma="delauatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">delavationem</w>
+    <w ref="3.5" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="3.5" lemma="idem" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eodem</w>
+    <w ref="3.5" lemma="medicamentum" pos="NOMcom" msd="Case=Abl|Numb=Sing">medicamento</w>
+    <w ref="3.5" lemma="spissus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Comp">spissiore</w>
+    <w ref="3.5" lemma="massarius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">pessario</w>
+    <w ref="3.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,41 @@
+<div type="fragment" corresp="adams:105" ana="#female #womb">
+  <bibl><author>Tertullian</author>, <title>De Carne Christi</title>, <biblScope>20-20</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa012.opp-lat1:20-20" type="chapter">
+    <w ref="20" lemma="quidam" pos="PROint" msd="Case=Gen|Numb=Sing">Quodsi</w>
+    <w ref="20" lemma="uerbum" pos="NOMcom" msd="Case=Nom|Numb=Sing">verbum</w>
+    <w ref="20" lemma="caro1" pos="NOMcom" msd="Case=Nom|Numb=Sing">caro</w>
+    <w ref="20" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="20" lemma="sui1" pos="PROref" msd="Case=Abl|Numb=Sing">se</w>
+    <w ref="20" lemma="facio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">factum</w>
+    <w ref="20" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="20" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="20" lemma="uulua" pos="NOMcom" msd="Case=Gen|Numb=Sing">vulvae</w>
+    <w ref="20" lemma="communicatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">communicatione</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="nihil" pos="PROind" msd="Case=Ind|Numb=Sing|Gend=Neut">nihil</w>
+    <w ref="20" lemma="operor" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">operata</w>
+    <w ana="#female #womb" ref="20" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="nihil" pos="PROind" msd="Case=Ind">nihil</w>
+    <w ref="20" lemma="fungor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">functa</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="nihil" pos="PROind" msd="Case=Ind">nihil</w>
+    <w ref="20" lemma="patior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Dep">passa</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="quomodo1" pos="ADVrel" msd="MORPH=empty">quomodo</w>
+    <w ref="20" lemma="fons" pos="NOMcom" msd="Case=Acc|Numb=Sing">fontem</w>
+    <w ref="20" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=MascNeut">suum</w>
+    <w ref="20" lemma="transfundo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">transfudit</w>
+    <w ref="20" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="20" lemma="uber1" pos="NOMcom" msd="Case=Acc|Numb=Plur">ubera</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="20" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ref="20" lemma="babeo" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">babendo</w>
+    <w ref="20" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="20" lemma="muto2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">mutat</w>
+    <w ref="20" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

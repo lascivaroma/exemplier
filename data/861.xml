@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>82.1-82.1</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:82.1-82.1" type="paragraph">
+    <w ana="#female #womb #medical" ref="82.1" lemma="matricus" pos="NOMcom" msd="Case=Dat|Numb=Plur">Matricis</w>
+    <w ref="82.1" lemma="emorragianium" pos="ADJqua" msd="Case=Acc|Numb=Sing">emorragian</w>
+    <w ref="82.1" lemma="Latinus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">latino</w>
+    <w ref="82.1" lemma="sermo" pos="NOMcom" msd="Case=Abl|Numb=Sing">sermone</w>
+    <w ref="82.1" lemma="sanguis" pos="NOMcom" msd="Case=Gen|Numb=Sing">sanguinis</w>
+    <w ref="82.1" lemma="fluxus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">fluxum</w>
+    <w ref="82.1" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="82.1" lemma="profluuium" pos="NOMcom" msd="Case=Acc|Numb=Sing">profluuium</w>
+    <w ref="82.1" lemma="dico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">dicimus</w>
+    <w ref="82.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

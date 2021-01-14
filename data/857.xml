@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>78.7-78.7</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:78.7-78.7" type="paragraph">
+    <w ref="78.7" lemma="encolo" pos="VER" msd="Case=Gen|Numb=Sing">Encolpismi</w>
+    <w ref="78.7" lemma="confectio" pos="NOMcom" msd="Case=Nom|Numb=Sing">confectio</w>
+    <w ref="78.7" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="78.7" lemma="siccitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">siccitatem</w>
+    <w ref="78.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="78.7" lemma="relaxo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">relaxandam</w>
+    <w ref="78.7" lemma="constrictio" pos="NOMcom" msd="Case=Acc|Numb=Sing">constrictionem</w>
+    <w ref="78.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="78.7" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="78.7" lemma="duritia" pos="NOMcom" msd="Case=Acc|Numb=Sing">duritiam</w>
+    <w ana="#female #womb #medical" ref="78.7" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ref="78.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="78.7" lemma="ad1" pos="ADV" msd="MORPH=empty">ad</w>
+    <w ref="78.7" lemma="obdulco" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">obdulcandam</w>
+    <w ref="78.7" lemma="acredinis" pos="NOMcom" msd="Case=Acc|Numb=Sing">acredinem</w>
+    <w ref="78.7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

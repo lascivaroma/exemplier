@@ -1,0 +1,26 @@
+<div type="fragment" corresp="adams:105" ana="">
+  <bibl><author>Vulgate</author>, <title>Exodus</title>, <biblScope>13.2-13.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg002.obi-lat1:13.2-13.2" type="verse">
+    <w ref="13.2" lemma="sanctifico" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">sanctifica</w>
+    <w ref="13.2" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="13.2" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">omne</w>
+    <w ref="13.2" lemma="primogenitus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Masc|Deg=Pos">primogenitum</w>
+    <w ref="13.2" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="13.2" lemma="aperio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">aperit</w>
+    <w ana="" ref="13.2" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="13.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="13.2" lemma="filius" pos="NOMcom" msd="Case=Abl|Numb=Plur">filiis</w>
+    <w ref="13.2" lemma="Israel" pos="NOMpro" msd="Case=Ind">Israhel</w>
+    <w ref="13.2" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+    <w ref="13.2" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="13.2" lemma="homo" pos="NOMcom" msd="Case=Abl|Numb=Plur">hominibus</w>
+    <w ref="13.2" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="13.2" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="13.2" lemma="iumentum" pos="NOMcom" msd="Case=Abl|Numb=Plur">iumentis</w>
+    <w ref="13.2" lemma="meus" pos="PROpos" msd="Case=Nom|Numb=Plur|Gend=Neut">mea</w>
+    <w ref="13.2" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="13.2" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="13.2" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Neut">omnia</w>
+    <w ref="13.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

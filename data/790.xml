@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:105" ana="">
+  <bibl><author>Vulgate</author>, <title>Joel</title>, <biblScope>10.18-10.18</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg039.obi-lat1:10.18-10.18" type="verse">
+    <w ref="10.18" lemma="quare2" pos="ADVint" msd="MORPH=empty">quare</w>
+    <w ref="10.18" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ana="" ref="10.18" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
+    <w ref="10.18" lemma="educo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">eduxisti</w>
+    <w ref="10.18" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="10.18" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="10.18" lemma="utinam" pos="ADV" msd="Deg=Pos">utinam</w>
+    <w ref="10.18" lemma="consumo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">consumptus</w>
+    <w ref="10.18" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1">essem</w>
+    <w ref="10.18" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="10.18" lemma="oculus" pos="NOMcom" msd="Case=Nom|Numb=Sing">oculus</w>
+    <w ref="10.18" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="10.18" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">videret</w>
+    <w ref="10.18" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

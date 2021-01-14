@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:110" ana="#anus #culus">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>3.71.1-3.71.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:3.71.1-3.71.2" type="line">
+    <w ref="3.71.1" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">Mentula</w>
+    <w ref="3.71.1" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="3.71.1" lemma="doleo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">doleat</w>
+    <w ref="3.71.1" lemma="puer" pos="NOMcom" msd="Case=Dat|Numb=Sing">puero</w>
+    <w ref="3.71.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.71.1" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="3.71.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.71.1" lemma="naeuolus" pos="ADJqua" msd="Case=Voc|Numb=Sing|Deg=Pos">Naevole</w>
+    <w ref="3.71.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#anus #culus" ref="3.71.1" lemma="culus" pos="NOMcom" msd="Case=Nom|Numb=Sing">culus</w>
+    <w ref="3.71.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.71.2" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ref="3.71.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">sum</w>
+    <w ref="3.71.2" lemma="diuinus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">divinus</w>
+    <w ref="3.71.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.71.2" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="3.71.2" lemma="scio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">scio</w>
+    <w ref="3.71.2" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="3.71.2" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">facias</w>
+    <w ref="3.71.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

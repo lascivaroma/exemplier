@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:110" ana="#anus #culus">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>11.43.1-11.43.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.43.1-11.43.2" type="line">
+    <w ref="11.43.1" lemma="deprehendo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">Deprensum</w>
+    <w ref="11.43.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="11.43.1" lemma="puer" pos="NOMcom" msd="Case=Abl|Numb=Sing">puero</w>
+    <w ref="11.43.1" lemma="tetricus" pos="ADJqua" msd="Case=Abl|Numb=Plur">tetricis</w>
+    <w ref="11.43.1" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="11.43.1" lemma="uox" pos="NOMcom" msd="Case=Abl|Numb=Plur">vocibus</w>
+    <w ref="11.43.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.43.1" lemma="uxor" pos="NOMcom" msd="Case=Nom|Numb=Sing">uxor</w>
+    <w ref="11.43.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.43.2" lemma="corripio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">Corripis</w>
+    <w ref="11.43.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#anus #culus" ref="11.43.2" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Sing">culum</w>
+    <w ref="11.43.2" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="11.43.2" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="11.43.2" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
+    <w ref="11.43.2" lemma="refero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">refers</w>
+    <w ref="11.43.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

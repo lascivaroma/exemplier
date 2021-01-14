@@ -1,0 +1,34 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>77.5-77.5</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:77.5-77.5" type="paragraph">
+    <w ref="77.5" lemma="trociscus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc">Trociscus</w>
+    <w ref="77.5" lemma="Chocapnites" pos="NOMpro" msd="Case=Acc|Numb=Plur">ypocapnistos</w>
+    <w ref="77.5" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="77.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="77.5" lemma="suffumigatorius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">suffumigatorius</w>
+    <w ref="77.5" lemma="facio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">faciens</w>
+    <w ref="77.5" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="77.5" lemma="menstruum" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">menstrua</w>
+    <w ref="77.5" lemma="deduco" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Adj|Voice=Pass">deducenda</w>
+    <w ref="77.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="77.5" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ana="#female #womb #medical" ref="77.5" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ref="77.5" lemma="ascensus" pos="NOMcom" msd="Case=Acc|Numb=Sing">adscensum</w>
+    <w ref="77.5" lemma="siue2" pos="CONsub" msd="MORPH=empty">siue</w>
+    <w ref="77.5" lemma="supernus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">supernum</w>
+    <w ref="77.5" lemma="recursus" pos="NOMcom" msd="Case=Acc|Numb=Sing">recursum</w>
+    <w ref="77.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="77.5" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+    <w ref="77.5" lemma="Graeci" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">Graeci</w>
+    <w ref="77.5" lemma="anadromen" pos="NOMcom" msd="Case=Acc|Numb=Sing">anadromen</w>
+    <w ref="77.5" lemma="dico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dicunt</w>
+    <w ref="77.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="77.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="77.5" lemma="ad1" pos="ADV" msd="MORPH=empty">ad</w>
+    <w ref="77.5" lemma="praefocatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">praefocationem</w>
+    <w ref="77.5" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ref="77.5" lemma="bene" pos="ADV" msd="Deg=Sup">optime</w>
+    <w ref="77.5" lemma="facio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">faciens</w>
+    <w ref="77.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

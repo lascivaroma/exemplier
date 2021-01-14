@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:105" ana="">
+  <bibl><author>Vulgate</author>, <title>Job</title>, <biblScope>20.17-20.17</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg032.obi-lat1:20.17-20.17" type="verse">
+    <w ref="20.17" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="20.17" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="20.17" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="20.17" lemma="interficio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">interfecit</w>
+    <w ref="20.17" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="20.17" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
+    <w ref="20.17" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="20.17" lemma="fio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">fieret</w>
+    <w ref="20.17" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="20.17" lemma="mater" pos="NOMcom" msd="Case=Nom|Numb=Sing">mater</w>
+    <w ref="20.17" lemma="meus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">mea</w>
+    <w ref="20.17" lemma="sepulcrum" pos="NOMcom" msd="Case=Nom|Numb=Sing">sepulchrum</w>
+    <w ref="20.17" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="" ref="20.17" lemma="uulua" pos="NOMcom" msd="Case=Nom|Numb=Sing">vulva</w>
+    <w ref="20.17" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Masc">eius</w>
+    <w ref="20.17" lemma="concipio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">conceptus</w>
+    <w ref="20.17" lemma="aeternus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">aeternus</w>
+    <w ref="20.17" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

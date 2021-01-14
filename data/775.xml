@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:105" ana="">
+  <bibl><author>Vulgate</author>, <title>Exodus</title>, <biblScope>13.12-13.12</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg002.obi-lat1:13.12-13.12" type="verse">
+    <w ref="13.12" lemma="separo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">separabis</w>
+    <w ref="13.12" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">omne</w>
+    <w ref="13.12" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="13.12" lemma="aperio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">aperit</w>
+    <w ana="" ref="13.12" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="13.12" lemma="dominus" pos="NOMcom" msd="Case=Dat|Numb=Sing">Domino</w>
+    <w ref="13.12" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="13.12" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="13.12" lemma="primitiuus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">primitivum</w>
+    <w ref="13.12" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="13.12" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="13.12" lemma="pecus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">pecoribus</w>
+    <w ref="13.12" lemma="tuus" pos="PROpos" msd="Case=Abl|Numb=Plur|Gend=Com">tuis</w>
+    <w ref="13.12" lemma="quisquis1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quicquid</w>
+    <w ref="13.12" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2">habueris</w>
+    <w ref="13.12" lemma="masculinus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">masculini</w>
+    <w ref="13.12" lemma="sexus" pos="NOMcom" msd="Case=Acc|Numb=Sing">sexus</w>
+    <w ref="13.12" lemma="consecro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">consecrabis</w>
+    <w ref="13.12" lemma="dominus" pos="NOMcom" msd="Case=Dat|Numb=Sing">Domino</w>
+    <w ref="13.12" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

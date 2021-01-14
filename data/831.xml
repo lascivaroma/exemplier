@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:105" ana="#female #womb">
+  <bibl><author>Tertullian</author>, <title>De Anima</title>, <biblScope>26-26</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa010.opp-lat2:26-26" type="chapter">
+    <w ref="26" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="26" lemma="nosco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">nosset</w>
+    <w ref="26" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="26" lemma="homo" pos="NOMcom" msd="Case=Acc|Numb=Sing">hominem</w>
+    <w ref="26" lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Sing">deus</w>
+    <w ref="26" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="26" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="26" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ref="26" lemma="totus" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascNeut">totum</w>
+    <w ref="26" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="26" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="26" lemma="priusquam" pos="CONsub" msd="MORPH=empty">priusquam</w>
+    <w ref="26" lemma="exeo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2">exires</w>
+    <w ref="26" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ana="#female #womb" ref="26" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">uulua</w>
+    <w ref="26" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="26" lemma="sanctifico" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">sanctificaui</w>
+    <w ref="26" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="26" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

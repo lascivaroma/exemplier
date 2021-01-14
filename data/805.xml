@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:105" ana="#female #womb">
+  <bibl><author>Tertullian</author>, <title>De Carne Christi</title>, <biblScope>17-17</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa012.opp-lat1:17-17" type="chapter">
+    <w ref="17" lemma="in" pos="PRE" msd="MORPH=empty">In</w>
+    <w ana="#female #womb" ref="17" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="17" lemma="ergo2" pos="CONcoo" msd="MORPH=empty">ergo</w>
+    <w ref="17" lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Sing">deus</w>
+    <w ref="17" lemma="uerbum" pos="NOMcom" msd="Case=Acc|Numb=Sing">verbum</w>
+    <w ref="17" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=MascNeut">suum</w>
+    <w ref="17" lemma="defero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">detulit</w>
+    <w ref="17" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="17" lemma="bonus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">bonum</w>
+    <w ref="17" lemma="frater" pos="NOMcom" msd="Case=Acc|Numb=Sing">fratrem</w>
+    <w ref="17" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="17" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="17" lemma="memoria" pos="NOMcom" msd="Case=Acc|Numb=Sing">memoriam</w>
+    <w ref="17" lemma="malus3" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut">mali</w>
+    <w ref="17" lemma="frater" pos="NOMcom" msd="Case=Gen|Numb=Sing">fratris</w>
+    <w ref="17" lemma="erado" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">eraderet</w>
+    <w ref="17" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

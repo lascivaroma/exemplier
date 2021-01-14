@@ -1,0 +1,33 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>77.2-77.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:77.2-77.2" type="paragraph">
+    <w ref="77.2" lemma="sic" pos="ADV" msd="Deg=Pos">Sic</w>
+    <w ref="77.2" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ana="#female #womb #medical" ref="77.2" lemma="matrix" pos="NOMcom" msd="Case=Nom|Numb=Sing">matrix</w>
+    <w ref="77.2" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">poterit</w>
+    <w ref="77.2" lemma="fetidus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">fetidis</w>
+    <w ref="77.2" lemma="odor" pos="NOMcom" msd="Case=Abl|Numb=Plur">odoribus</w>
+    <w ref="77.2" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="77.2" lemma="superior" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp">superioribus</w>
+    <w ref="77.2" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="77.2" lemma="inferus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Comp">inferiora</w>
+    <w ref="77.2" lemma="fugo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">fugari</w>
+    <w ref="77.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="77.2" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Sing">loco</w>
+    <w ref="77.2" lemma="proprius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">proprio</w>
+    <w ref="77.2" lemma="reuoco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">reuocari</w>
+    <w ref="77.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="77.2" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="77.2" lemma="bonus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp">melioribus</w>
+    <w ref="77.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="77.2" lemma="iucundus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">iocundis</w>
+    <w ref="77.2" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="77.2" lemma="inferus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Comp">inferiores</w>
+    <w ref="77.2" lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Plur">partes</w>
+    <w ref="77.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">fuerit</w>
+    <w ref="77.2" lemma="inuito" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">inuitata</w>
+    <w ref="77.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="77.2" lemma="prouoco" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">prouocata</w>
+    <w ref="77.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

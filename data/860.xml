@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>80.2-80.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:80.2-80.2" type="paragraph">
+    <w ref="80.2" lemma="niter" pos="NOMcom" msd="Case=Nom">Nitrum</w>
+    <w ref="80.2" lemma="albus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">album</w>
+    <w ref="80.2" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="80.2" lemma="mel" pos="NOMcom" msd="Case=Abl|Numb=Sing">melle</w>
+    <w ref="80.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="80.2" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="80.2" lemma="resina" pos="NOMcom" msd="Case=Nom|Numb=Sing">resina</w>
+    <w ref="80.2" lemma="terebintinus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">terebintina</w>
+    <w ref="80.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="80.2" lemma="oleum" pos="NOMcom" msd="Case=Abl|Numb=Sing">oleo</w>
+    <w ref="80.2" lemma="uetus" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=Com|Deg=Pos">ueteri</w>
+    <w ref="80.2" lemma="illinitus" pos="VER" msd="Case=Acc|Numb=Sing">illinitum</w>
+    <w ref="80.2" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="80.2" lemma="orificium" pos="NOMcom" msd="Case=Dat|Numb=Sing">orificio</w>
+    <w ana="#female #womb #medical" ref="80.2" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Sing">matricis</w>
+    <w ref="80.2" lemma="appono" pos="NOMcom" msd="Case=Acc|Numb=Sing">appositum</w>
+    <w ref="80.2" lemma="patefacio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">patefacit</w>
+    <w ref="80.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

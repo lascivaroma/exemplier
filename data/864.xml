@@ -1,0 +1,27 @@
+<div type="fragment" corresp="adams:107" ana="#female #womb #medical">
+  <bibl><author>Theodorus Priscianus</author>, <title>Euporiston</title>, <biblScope>3.5-3.5</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1:3.5-3.5" type="chapter">
+    <w ref="3.5" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="3.5" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">his</w>
+    <w ref="3.5" lemma="omnis" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">omnibus</w>
+    <w ref="3.5" lemma="rite" pos="ADV" msd="Deg=Pos">rite</w>
+    <w ref="3.5" lemma="adhibeo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">adhibitis</w>
+    <w ref="3.5" lemma="naturalis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">naturalis</w>
+    <w ref="3.5" lemma="circa2" pos="PRE" msd="MORPH=empty">circa</w>
+    <w ref="3.5" lemma="purgatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">purgationem</w>
+    <w ref="3.5" lemma="ordo" pos="NOMcom" msd="Case=Nom|Numb=Sing">ordo</w>
+    <w ref="3.5" lemma="permaneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">permanserit</w>
+    <w ref="3.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#female #womb #medical" ref="3.5" lemma="matricus" pos="NOMcom" msd="Case=Gen|Numb=Sing">matricis</w>
+    <w ref="3.5" lemma="orificium" pos="NOMcom" msd="Case=Abl|Numb=Sing">orificio</w>
+    <w ref="3.5" lemma="mediocriter" pos="ADV" msd="Deg=Pos">mediocriter</w>
+    <w ref="3.5" lemma="relaxo" pos="VER" msd="Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">relaxato</w>
+    <w ref="3.5" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="3.5" lemma="adiutorium" pos="NOMcom" msd="Case=Abl|Numb=Plur">adiutoriis</w>
+    <w ref="3.5" lemma="conceptio" pos="NOMcom" msd="Case=Acc|Numb=Sing">conceptionem</w>
+    <w ref="3.5" lemma="procuro" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">procurantibus</w>
+    <w ref="3.5" lemma="immineo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">imminendum</w>
+    <w ref="3.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="3.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:110" ana="#anus #culus">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>11.100.1-11.100.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.100.1-11.100.4" type="line">
+    <w ref="11.100.1" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Habere</w>
+    <w ref="11.100.1" lemma="amica" pos="NOMcom" msd="Case=Acc|Numb=Sing">amicam</w>
+    <w ref="11.100.1" lemma="nolo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">nolo</w>
+    <w ref="11.100.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.100.1" lemma="flaccus" pos="NOMcom" msd="Case=Voc|Numb=Sing">Flacce</w>
+    <w ref="11.100.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.100.1" lemma="subtilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">subtilem</w>
+    <w ref="11.100.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.100.2" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">Cuius</w>
+    <w ref="11.100.2" lemma="lacertus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">lacertos</w>
+    <w ref="11.100.2" lemma="anulus" pos="NOMcom" msd="Case=Nom|Numb=Plur">anuli</w>
+    <w ref="11.100.2" lemma="meus" pos="PROpos" msd="Case=Gen|Numb=Plur|Gend=MascNeut">mei</w>
+    <w ref="11.100.2" lemma="cingo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">cingant</w>
+    <w ref="11.100.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.100.3" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">Quae</w>
+    <w ref="11.100.3" lemma="clunis" pos="NOMcom" msd="Case=Nom|Numb=Sing">clune</w>
+    <w ref="11.100.3" lemma="nudus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">nudo</w>
+    <w ref="11.100.3" lemma="rado" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">radat</w>
+    <w ref="11.100.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="11.100.3" lemma="genu" pos="NOMcom" msd="Case=Abl|Numb=Sing">genu</w>
+    <w ref="11.100.3" lemma="pungo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">pungat</w>
+    <w ref="11.100.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.100.4" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">Cui</w>
+    <w ref="11.100.4" lemma="serra" pos="NOMcom" msd="Case=Nom|Numb=Sing">serra</w>
+    <w ref="11.100.4" lemma="lumbus" pos="NOMcom" msd="Case=Dat|Numb=Plur">lumbis</w>
+    <w ref="11.100.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.100.4" lemma="cuspis" pos="NOMcom" msd="Case=Nom|Numb=Sing">cuspis</w>
+    <w ref="11.100.4" lemma="emineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">eminet</w>
+    <w ana="#anus #culus" ref="11.100.4" lemma="culus" pos="NOMcom" msd="Case=Abl|Numb=Sing">culo</w>
+    <w ref="11.100.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

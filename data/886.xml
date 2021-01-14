@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:110" ana="#anus #culus">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>9.57.12-9.57.13</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.57.12-9.57.13" type="line">
+    <w ref="9.57.12" lemma="res" pos="NOMcom" msd="Case=Nom|Numb=Sing">Res</w>
+    <w ref="9.57.12" lemma="unus" pos="ADJcar" msd="Case=Nom|Numb=Sing|Gend=Fem">una</w>
+    <w ref="9.57.12" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="9.57.12" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="9.57.12" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="9.57.12" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ref="9.57.12" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="9.57.12" lemma="nego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">negabit</w>
+    <w ref="9.57.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#anus #culus" ref="9.57.13" lemma="culus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Culus</w>
+    <w ref="9.57.13" lemma="tritus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">tritior</w>
+    <w ref="9.57.13" lemma="hedilis" pos="ADJqua" msd="Case=Gen|Numb=Sing">Hedyli</w>
+    <w ref="9.57.13" lemma="lacerna" pos="NOMcom" msd="Case=Abl|Numb=Plur">lacernis</w>
+    <w ref="9.57.13" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

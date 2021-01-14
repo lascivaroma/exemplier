@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:105" ana="#female #womb">
+  <bibl><author>Tertullian</author>, <title>De Carne Christi</title>, <biblScope>19-19</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa012.opp-lat1:19-19" type="chapter">
+    <w ref="19" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Potuit</w>
+    <w ref="19" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="19" lemma="extra2" pos="PRE" msd="MORPH=empty">extra</w>
+    <w ref="19" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
+    <w ref="19" lemma="fio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fieri</w>
+    <w ref="19" lemma="caro1" pos="NOMcom" msd="Case=Nom|Numb=Sing">caro</w>
+    <w ref="19" lemma="spiritalis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">spiritalis</w>
+    <w ref="19" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="19" lemma="simplex" pos="ADJmul" msd="Numb=Sing|Deg=Comp">simplicius</w>
+    <w ref="19" lemma="multo2" pos="ADV" msd="Deg=Pos">multo</w>
+    <w ref="19" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="19" lemma="intra2" pos="PRE" msd="MORPH=empty">intra</w>
+    <w ana="#female #womb" ref="19" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="19" lemma="fio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">fieret</w>
+    <w ref="19" lemma="extra2" pos="PRE" msd="MORPH=empty">extra</w>
+    <w ref="19" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="19" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

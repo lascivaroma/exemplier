@@ -1,0 +1,37 @@
+<div type="fragment" corresp="adams:107" ana="#female #womb #medical">
+  <bibl><author>Theodorus Priscianus</author>, <title>Euporiston</title>, <biblScope>3.7-3.7</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1:3.7-3.7" type="chapter">
+    <w ref="3.7" lemma="haemorragia" pos="NOMcom" msd="Case=Gen|Numb=Sing">Haemorragiae</w>
+    <w ana="#female #womb #medical" ref="3.7" lemma="matricus" pos="NOMcom" msd="Case=Gen|Numb=Sing">matricis</w>
+    <w ref="3.7" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">licet</w>
+    <w ref="3.7" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="3.7" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="3.7" lemma="alius" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">aliis</w>
+    <w ref="3.7" lemma="fio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fieri</w>
+    <w ref="3.7" lemma="soleo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=SemDep|Person=3">soleant</w>
+    <w ref="3.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.7" lemma="attamen" pos="ADV" msd="Deg=Pos">attamen</w>
+    <w ref="3.7" lemma="quoniam" pos="CONsub" msd="MORPH=empty">quoniam</w>
+    <w ref="3.7" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=MascFem">omnes</w>
+    <w ref="3.7" lemma="unus" pos="ADJcar" msd="Case=Nom|Numb=Sing|Gend=Fem">una</w>
+    <w ref="3.7" lemma="lex" pos="NOMcom" msd="Case=Abl|Numb=Sing">lege</w>
+    <w ref="3.7" lemma="medeor" pos="VER" msd="Case=Gen|Numb=Sing|Mood=Ger|Voice=Act">medendi</w>
+    <w ref="3.7" lemma="curo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Adj|Voice=Pass">curandae</w>
+    <w ref="3.7" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="3.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.7" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="3.7" lemma="subiectus?" pos="VER" msd="Case=Abl|Numb=Plur">subiectis</w>
+    <w ref="3.7" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=Fem">earum</w>
+    <w ref="3.7" lemma="causa" pos="NOMcom" msd="Case=Abl|Numb=Plur">causis</w>
+    <w ref="3.7" lemma="adiungo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">adiunctis</w>
+    <w ref="3.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.7" lemma="omnis" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">omnibus</w>
+    <w ref="3.7" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="3.7" lemma="arbitror" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">arbitror</w>
+    <w ref="3.7" lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+    <w ref="3.7" lemma="constrictio" pos="NOMcom" msd="Case=Abl|Numb=Sing">constrictione</w>
+    <w ref="3.7" lemma="passio" pos="NOMcom" msd="Case=Abl|Numb=Plur">passionibus</w>
+    <w ref="3.7" lemma="praetracto" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">praetractatis</w>
+    <w ref="3.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

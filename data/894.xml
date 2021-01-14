@@ -1,0 +1,53 @@
+<div type="fragment" corresp="adams:110" ana="#anus #culus">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>57.8-58.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:57.8-58.4" type="line">
+    <w ref="57.8" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="57.8" lemma="spurium" pos="NOMcom" msd="Case=Acc|Numb=Sing">spurium</w>
+    <w ref="57.8" lemma="damno" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">damnarunt</w>
+    <w ref="57.8" lemma="barthius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Barthius</w>
+    <w ref="57.8" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="57.8" lemma="Antonius" pos="NOMpro" msd="Case=Nom|Numb=Sing">Antonius</w>
+    <w ref="58.1" lemma="quicumque1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">Quicumque</w>
+    <w ref="58.1" lemma="noster" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">nostram</w>
+    <w ref="58.1" lemma="fur" pos="NOMcom" msd="Case=Nom|Numb=Sing">fur</w>
+    <w ref="58.1" lemma="fallo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">fefellerit</w>
+    <w ref="58.1" lemma="cura" pos="NOMcom" msd="Case=Acc|Numb=Sing">curam</w>
+    <w ref="58.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="58.2" lemma="effemino" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut">effeminato</w>
+    <w ref="58.2" lemma="inanis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">inane</w>
+    <w ref="58.2" lemma="pruritum" pos="NOMcom" msd="Case=Abl|Numb=Sing">prurita</w>
+    <w ref="58.2" lemma="lumbo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">lumboeffeminato</w>
+    <w ref="58.2" lemma="immineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">imminet</w>
+    <w ref="58.2" lemma="procul" pos="ADV" msd="Deg=Pos">procul</w>
+    <w ana="#anus #culus" ref="58.2" lemma="culus" pos="NOMcom" msd="Case=Abl|Numb=Sing">culo</w>
+    <w ref="58.2" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="58.2" lemma="effemino" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut">effeminato</w>
+    <w ref="58.2" lemma="imineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iminet</w>
+    <w ref="58.2" lemma="procul" pos="ADV" msd="Deg=Pos">procul</w>
+    <w ref="58.2" lemma="culus" pos="NOMcom" msd="Case=Abl|Numb=Sing">culo</w>
+    <w ref="58.2" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="58.2" lemma="effemino" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut">effeminato</w>
+    <w ref="58.2" lemma="immineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inminet</w>
+    <w ref="58.2" lemma="procus" pos="NOMcom" msd="Case=Abl|Numb=Sing">procu</w>
+    <w ref="58.2" lemma="culus" pos="NOMcom" msd="Case=Abl|Numb=Sing">culo</w>
+    <w ref="58.2" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="58.2" lemma="effemino" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut">effeminato</w>
+    <w ref="58.2" lemma="immineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inminet</w>
+    <w ref="58.2" lemma="procul" pos="ADV" msd="Deg=Pos">procul</w>
+    <w ref="58.2" lemma="dubium" pos="NOMcom" msd="Case=Abl|Numb=Sing">dubio</w>
+    <w ref="58.2" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="58.3" lemma="qui" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quaeque</w>
+    <w ref="58.3" lemma="que" pos="CON" msd="MORPH=empty">{quaeque}</w>
+    <w ref="58.3" lemma="hic2" pos="ADV" msd="Case=Nom|Gend=Masc|Deg=Pos">hic</w>
+    <w ref="58.3" lemma="proteruus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">proterua</w>
+    <w ref="58.3" lemma="carpo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">carpserit</w>
+    <w ref="58.3" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
+    <w ref="58.3" lemma="pomum" pos="NOMcom" msd="Case=Nom|Numb=Plur">poma</w>
+    <w ref="58.4" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
+    <w ref="58.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="58.4" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascNeut">nullum</w>
+    <w ref="58.4" lemma="reperio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">reperiat</w>
+    <w ref="58.4" lemma="fututor" pos="NOMcom" msd="Case=Acc|Numb=Sing">fututorem</w>
+    <w ref="58.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

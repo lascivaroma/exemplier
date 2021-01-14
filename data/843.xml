@@ -1,0 +1,12 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>46.9-46.9</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:46.9-46.9" type="paragraph">
+    <w ref="46.9" lemma="in" pos="PRE" msd="MORPH=empty">In</w>
+    <w ref="46.9" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Plur">feminis</w>
+    <w ref="46.9" lemma="uero4" pos="CONcoo" msd="MORPH=empty">uero</w>
+    <w ana="#female #womb #medical" ref="46.9" lemma="matricus" pos="NOMcom" msd="Case=Nom|Numb=Sing">matrici</w>
+    <w ref="46.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="46.9" lemma="infundo2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">infundendum</w>
+    <w ref="46.9" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

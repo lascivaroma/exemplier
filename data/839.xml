@@ -1,0 +1,40 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Theodorus Priscianus</author>, <title>Euporiston</title>, <biblScope>3.8-3.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1:3.8-3.8" type="chapter">
+    <w ref="3.8" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="3.8" lemma="uulnero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">vulnerata</w>
+    <w ref="3.8" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="3.8" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">his</w>
+    <w ana="#female #womb #medical" ref="3.8" lemma="matrix" pos="NOMcom" msd="Case=Nom|Numb=Sing">matrix</w>
+    <w ref="3.8" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">fuerit</w>
+    <w ref="3.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.8" lemma="quis1" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibus</w>
+    <w ref="3.8" lemma="uulnus" pos="NOMcom" msd="Case=Abl|Numb=Plur">vulneribus</w>
+    <w ref="3.8" lemma="internus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">internis</w>
+    <w ref="3.8" lemma="putredo" pos="VER" msd="Numb=Sing">putredo</w>
+    <w ref="3.8" lemma="frequenter" pos="ADV" msd="Deg=Comp">frequentius</w>
+    <w ref="3.8" lemma="socio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">sociatur</w>
+    <w ref="3.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.8" lemma="aduerto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">advertes</w>
+    <w ref="3.8" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="3.8" lemma="egestio" pos="NOMcom" msd="Case=Abl|Numb=Plur">egestionibus</w>
+    <w ref="3.8" lemma="quatenus3" pos="CONsub" msd="MORPH=empty">quatenus</w>
+    <w ref="3.8" lemma="debeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">debeas</w>
+    <w ref="3.8" lemma="causa" pos="NOMcom" msd="Case=Dat|Numb=Sing">causae</w>
+    <w ref="3.8" lemma="succurro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">succurrere</w>
+    <w ref="3.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.8" lemma="adhibeo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">adhibendo</w>
+    <w ref="3.8" lemma="dius" pos="NOMcom" msd="Case=Abl|Numb=Sing">dia</w>
+    <w ref="3.8" lemma="chartus" pos="NOMcom" msd="Case=Abl|Numb=Sing">chartu</w>
+    <w ref="3.8" lemma="athenaeus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Deg=Pos">Athenaei</w>
+    <w ref="3.8" lemma="trociscus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut">trocisco</w>
+    <w ref="3.8" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="3.8" lemma="auripigmentum" pos="NOMcom" msd="Case=Abl|Numb=Sing">auripigmento</w>
+    <w ref="3.8" lemma="calx?" pos="NOMcom" msd="Case=Abl|Numb=Sing">calce</w>
+    <w ref="3.8" lemma="uiuus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">viva</w>
+    <w ref="3.8" lemma="sandaracus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">sandaraca</w>
+    <w ref="3.8" lemma="puluis" pos="NOMcom" msd="Case=Abl|Numb=Sing">pulvere</w>
+    <w ref="3.8" lemma="charta" pos="NOMcom" msd="Case=Gen|Numb=Sing">chartae</w>
+    <w ref="3.8" lemma="comburo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">combustae</w>
+  </quote>
+</div>

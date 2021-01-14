@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>79.1-79.1</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:79.1-79.1" type="paragraph">
+    <w ref="79.1" lemma="metromania" pos="NOMcom" msd="Case=Acc|Numb=Sing">Metromaniam</w>
+    <w ref="79.1" lemma="latinus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">latino</w>
+    <w ref="79.1" lemma="sermo" pos="NOMcom" msd="Case=Abl|Numb=Sing">sermone</w>
+    <w ana="#female #womb #medical" ref="79.1" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ref="79.1" lemma="furor1" pos="NOMcom" msd="Case=Acc|Numb=Plur">furores</w>
+    <w ref="79.1" lemma="siue2" pos="CONsub" msd="MORPH=empty">siue</w>
+    <w ref="79.1" lemma="insania" pos="NOMcom" msd="Case=Acc|Numb=Sing">insaniam</w>
+    <w ref="79.1" lemma="dico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">dicimus</w>
+    <w ref="79.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

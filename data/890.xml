@@ -1,0 +1,33 @@
+<div type="fragment" corresp="adams:110" ana="#anus #culus">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>11.99.3-11.99.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.99.3-11.99.6" type="line">
+    <w ref="11.99.3" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">Quas</w>
+    <w ref="11.99.3" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="11.99.3" lemma="conor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">conata</w>
+    <w ref="11.99.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
+    <w ref="11.99.3" lemma="dextera" pos="NOMcom" msd="Case=Abl|Numb=Sing">dextra</w>
+    <w ref="11.99.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.99.3" lemma="conor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">conata</w>
+    <w ref="11.99.3" lemma="sinister" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Neut|Deg=Pos">sinistra</w>
+    <w ref="11.99.4" lemma="uello" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Vellere</w>
+    <w ref="11.99.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.99.4" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="11.99.4" lemma="lacrima" pos="NOMcom" msd="Case=Abl|Numb=Plur">lacrimis</w>
+    <w ref="11.99.4" lemma="eximo" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Ind|Tense=Pres|Voice=Act">eximis</w>
+    <w ref="11.99.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="11.99.4" lemma="gemitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">gemitu</w>
+    <w ref="11.99.4" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="11.99.5" lemma="sic" pos="ADV" msd="Deg=Pos">Sic</w>
+    <w ref="11.99.5" lemma="constringo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">constringuntur</w>
+    <w ref="11.99.5" lemma="geminus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">gemina</w>
+    <w ref="11.99.5" lemma="symplega" pos="NOMcom" msd="Case=Abl|Numb=Sing">Symplegade</w>
+    <w ana="#anus #culus" ref="11.99.5" lemma="culus" pos="NOMcom" msd="Case=Dat|Numb=Plur">culi</w>
+    <w ref="11.99.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="11.99.6" lemma="nimius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">nimias</w>
+    <w ref="11.99.6" lemma="intro1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">intrant</w>
+    <w ref="11.99.6" lemma="cyanea" pos="NOMcom" msd="Case=Acc|Numb=Plur">cyaneasque</w>
+    <w ref="11.99.6" lemma="que" pos="CON" msd="MORPH=empty">{cyaneasque}</w>
+    <w ref="11.99.6" lemma="natis" pos="VER" msd="Case=Dat|Numb=Plur">natis</w>
+    <w ref="11.99.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

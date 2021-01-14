@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:110" ana="#anus #culus">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>31.3-31.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:31.3-31.4" type="line">
+    <w ref="31.3" lemma="sin" pos="CONsub" msd="MORPH=empty">sin</w>
+    <w ref="31.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="31.3" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Neut">haec</w>
+    <w ref="31.3" lemma="meus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=MascNeut">mei</w>
+    <w ref="31.3" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="31.3" lemma="uenter" pos="NOMcom" msd="Case=Gen|Numb=Sing">uentris</w>
+    <w ref="31.3" lemma="arma" pos="NOMcom" msd="Case=Acc|Numb=Plur">arma</w>
+    <w ref="31.3" lemma="laxo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3">laxabunt</w>
+    <w ref="31.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="31.4" lemma="exeo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">exire</w>
+    <w ref="31.4" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="31.4" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ref="31.4" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="31.4" lemma="tuum" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">tuo</w>
+    <w ref="31.4" lemma="queo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">queas</w>
+    <w ana="#anus #culus" ref="31.4" lemma="culus" pos="NOMcom" msd="Case=Abl|Numb=Sing">culo</w>
+    <w ref="31.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

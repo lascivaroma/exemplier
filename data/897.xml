@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:107" ana="#anus #culus">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>68.5-68.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:68.5-68.6" type="line">
+    <w ref="68.5" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="68.5" lemma="uoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">uocat</w>
+    <w ref="68.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="68.5" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="68.5" lemma="nos" pos="PROper" msd="Case=Nom|Numb=Plur">nos</w>
+    <w ref="68.5" lemma="psole" pos="NOMcom" msd="Case=Acc|Numb=Sing">psolen</w>
+    <w ref="68.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="68.5" lemma="psoloentus" pos="NOMcom" msd="Case=Acc|Numb=Plur">Ψολόεντα</w>
+    <w ref="68.5" lemma="cerauno" pos="NOMcom" msd="Case=Nom|Numb=Sing">κεραυνόν</w>
+    <w ref="68.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="68.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="68.6" lemma="qui2" pos="CONsub" msd="Numb=Sing|Gend=Neut">quod</w>
+    <w ref="68.6" lemma="nos" pos="PROper" msd="Case=Acc|Numb=Plur">nos</w>
+    <w ana="#anus #culus" ref="68.6" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Sing">culum</w>
+    <w ref="68.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="68.6" lemma="couleo" pos="NOMcom" msd="Case=Nom|Numb=Sing">κουλεόν</w>
+    <w ref="68.6" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="68.6" lemma="uoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">uocat</w>
+    <w ref="68.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

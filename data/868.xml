@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:110" ana="#anus #culus #medical">
+  <bibl><author>Anthologia Latina</author>, <title>Anthologia Latina</title>, <biblScope>205.10-205.10</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:205.10-205.10" type="line">
+    <w ref="205.10" lemma="qui1" pos="PROint" msd="Case=Abl|Numb=Sing|Gend=Fem">Qua</w>
+    <w ref="205.10" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+    <w ref="205.10" lemma="cum" pos="CONsub" msd="MORPH=empty">cumque</w>
+    <w ref="205.10" lemma="que" pos="CON" msd="MORPH=empty">{cumque}</w>
+    <w ref="205.10" lemma="moueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">moues</w>
+    <w ref="205.10" lemma="os1" pos="NOMcom" msd="Case=Acc|Numb=Sing">os</w>
+    <w ref="205.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#anus #culus #medical" ref="205.10" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Sing">culum</w>
+    <w ref="205.10" lemma="porrigo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">porrigis</w>
+    <w ref="205.10" lemma="ultro" pos="ADV" msd="Deg=Pos">ultro</w>
+    <w ref="205.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

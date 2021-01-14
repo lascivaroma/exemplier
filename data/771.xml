@@ -1,0 +1,37 @@
+<div type="fragment" corresp="adams:101" ana="#female #womb">
+  <bibl><author>Scribonius Largus</author>, <title>Compositiones</title>, <biblScope>126-126</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1011.phi001.lascivaroma-lat1:126-126" type="section">
+    <w ref="126" lemma="ad2" pos="PRE" msd="MORPH=empty">Ad</w>
+    <w ref="126" lemma="iocinarius" pos="NOMcom" msd="Case=Gen|Numb=Sing">iocineris</w>
+    <w ref="126" lemma="duritia" pos="NOMcom" msd="Case=Acc|Numb=Sing">duritiam</w>
+    <w ref="126" lemma="uetus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">veterem</w>
+    <w ref="126" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="126" lemma="hydropicus" pos="ADJqua" msd="Case=Acc|Numb=Plur">hydropicos</w>
+    <w ref="126" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="126" lemma="lienosus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">lienosos</w>
+    <w ref="126" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="126" lemma="arcuatus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">arquatos</w>
+    <w ref="126" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="126" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Plur|Gend=Com">quibus</w>
+    <w ref="126" lemma="opus2" pos="NOMcom" msd="Case=Ind">opus</w>
+    <w ref="126" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="126" lemma="urina" pos="NOMcom" msd="Case=Nom|Numb=Sing">urina</w>
+    <w ref="126" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="126" lemma="item" pos="ADV" msd="Deg=Pos">item</w>
+    <w ref="126" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="126" lemma="partus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">partu</w>
+    <w ref="126" lemma="residuus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">residua</w>
+    <w ref="126" lemma="mulier" pos="NOMcom" msd="Case=Dat|Numb=Sing">mulieri</w>
+    <w ref="126" lemma="purgo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">purgat</w>
+    <w ref="126" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#female #womb" ref="126" lemma="uulua" pos="NOMcom" msd="Case=Gen|Numb=Sing">vulvae</w>
+    <w ref="126" lemma="dolor" pos="NOMcom" msd="Case=Acc|Numb=Sing">dolorem</w>
+    <w ref="126" lemma="tollo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tollit</w>
+    <w ref="126" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="126" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+    <w ref="126" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="126" lemma="anesus" pos="NOMcom" msd="Case=Gen|Numb=Sing">Anesi</w>
+    <w ref="126" lemma="pondo" pos="NOMcom" msd="Case=Gen|Numb=Sing">p</w>
+    <w ref="126" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

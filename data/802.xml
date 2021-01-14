@@ -1,0 +1,52 @@
+<div type="fragment" corresp="adams:105" ana="#female #womb">
+  <bibl><author>Tertullian</author>, <title>Adversus Praxean</title>, <biblScope>7-7</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa007.opp-lat1:7-7" type="chapter">
+    <w ref="7" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="7" lemma="exinde" pos="ADV" msd="Deg=Pos">exinde</w>
+    <w ref="7" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eum</w>
+    <w ref="7" lemma="par2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">parem</w>
+    <w ref="7" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="7" lemma="facio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">faciens</w>
+    <w ref="7" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="7" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ref="7" lemma="procedo1" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">procedendo</w>
+    <w ref="7" lemma="filius" pos="NOMcom" msd="Case=Nom|Numb=Sing">filius</w>
+    <w ref="7" lemma="facio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">factus</w>
+    <w ref="7" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7" lemma="primogenitus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">primogenitus</w>
+    <w ref="7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="7" lemma="ante2" pos="PRE" msd="MORPH=empty">ante</w>
+    <w ref="7" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Neut">omnia</w>
+    <w ref="7" lemma="gigno" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">genitus</w>
+    <w ref="7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="7" lemma="unigenitus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">unigenitus</w>
+    <w ref="7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="7" lemma="solus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">solus</w>
+    <w ref="7" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="7" lemma="deus" pos="NOMcom" msd="Case=Abl|Numb=Sing">deo</w>
+    <w ref="7" lemma="gigno" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">genitus</w>
+    <w ref="7" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="7" lemma="proprie" pos="ADV" msd="Deg=Pos">proprie</w>
+    <w ref="7" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ana="#female #womb" ref="7" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
+    <w ref="7" lemma="cor" pos="NOMcom" msd="Case=Gen|Numb=Sing">cordis</w>
+    <w ref="7" lemma="ipse" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Masc">ipsius</w>
+    <w ref="7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7" lemma="secundum2" pos="PRE" msd="MORPH=empty">secundum</w>
+    <w ref="7" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="7" lemma="et1" pos="ADV" msd="MORPH=empty">et</w>
+    <w ref="7" lemma="pater" pos="NOMcom" msd="Case=Nom|Numb=Sing">pater</w>
+    <w ref="7" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ref="7" lemma="testor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">testatur</w>
+    <w ref="7" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="7" lemma="eructo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Eructavit</w>
+    <w ref="7" lemma="cor" pos="NOMcom" msd="Case=Nom|Numb=Sing">cor</w>
+    <w ref="7" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Masc">meum</w>
+    <w ref="7" lemma="sermo" pos="NOMcom" msd="Case=Acc|Numb=Sing">sermonem</w>
+    <w ref="7" lemma="bonus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Sup">optimum</w>
+    <w ref="7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

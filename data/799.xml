@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:105" ana="">
+  <bibl><author>Vulgate</author>, <title>Isaiah</title>, <biblScope>9.14-9.14</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:9.14-9.14" type="verse">
+    <w ref="9.14" lemma="do" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">da</w>
+    <w ref="9.14" lemma="is" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">eis</w>
+    <w ref="9.14" lemma="dominus" pos="NOMcom" msd="Case=Voc|Numb=Sing">Domine</w>
+    <w ref="9.14" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="9.14" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">dabis</w>
+    <w ref="9.14" lemma="is" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Masc">eis</w>
+    <w ref="9.14" lemma="do" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">da</w>
+    <w ref="9.14" lemma="is" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Masc">eis</w>
+    <w ana="" ref="9.14" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="9.14" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="9.14" lemma="liberi" pos="NOMcom" msd="Case=Abl|Numb=Plur">liberis</w>
+    <w ref="9.14" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.14" lemma="uber1" pos="NOMcom" msd="Case=Acc|Numb=Plur">ubera</w>
+    <w ref="9.14" lemma="areo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act">arentia</w>
+    <w ref="9.14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

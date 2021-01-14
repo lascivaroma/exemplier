@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:105" ana="#female #womb">
+  <bibl><author>Tertullian</author>, <title>De Carne Christi</title>, <biblScope>23-23</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa012.opp-lat1:23-23" type="chapter">
+    <w ref="23" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=MascFem">Quis</w>
+    <w ref="23" lemma="proprie" pos="ADV" msd="Deg=Pos">proprie</w>
+    <w ana="#female #womb" ref="23" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="23" lemma="adaperio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">adaperuit</w>
+    <w ref="23" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>
+    <w ref="23" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="23" lemma="claudo1" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">clausam</w>
+    <w ref="23" lemma="patefacio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">patefecit</w>
+    <w ref="23" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

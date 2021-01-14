@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>77.4-77.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:77.4-77.4" type="paragraph">
+    <w ref="77.4" lemma="uulpecula" pos="NOMcom" msd="Case=Gen|Numb=Sing">Vulpeculae</w>
+    <w ref="77.4" lemma="adeps" pos="NOMcom" msd="Case=Acc|Numb=Sing">adipem</w>
+    <w ref="77.4" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="77.4" lemma="capra" pos="NOMcom" msd="Case=Gen|Numb=Sing">caprae</w>
+    <w ref="77.4" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="77.4" lemma="modicus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">modico</w>
+    <w ref="77.4" lemma="bitumen" pos="NOMcom" msd="Case=Abl|Numb=Sing">bitumine</w>
+    <w ref="77.4" lemma="tero" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">tritum</w>
+    <w ref="77.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="77.4" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="77.4" lemma="pessum2" pos="NOMcom" msd="Case=Abl|Numb=Sing|Gend=MascNeut">pesso</w>
+    <w ref="77.4" lemma="appono" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=MascNeut">appositum</w>
+    <w ref="77.4" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="77.4" lemma="praefocatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">praefocationem</w>
+    <w ana="#female #womb #medical" ref="77.4" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ref="77.4" lemma="mitigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">mitigat</w>
+    <w ref="77.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

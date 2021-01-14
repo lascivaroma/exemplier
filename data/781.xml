@@ -1,0 +1,40 @@
+<div type="fragment" corresp="adams:105" ana="">
+  <bibl><author>Vulgate</author>, <title>Numbers</title>, <biblScope>18.15-18.15</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg004.obi-lat1:18.15-18.15" type="verse">
+    <w ref="18.15" lemma="quisquis1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quicquid</w>
+    <w ref="18.15" lemma="primum" pos="ADJadv.ord" msd="Deg=Sup">primum</w>
+    <w ref="18.15" lemma="erumpo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erumpet</w>
+    <w ref="18.15" lemma="ex" pos="PRE" msd="MORPH=empty">e</w>
+    <w ana="" ref="18.15" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
+    <w ref="18.15" lemma="cunctus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">cunctae</w>
+    <w ref="18.15" lemma="caro1" pos="NOMcom" msd="Case=Gen|Numb=Sing">carnis</w>
+    <w ref="18.15" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>
+    <w ref="18.15" lemma="offero" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">offerunt</w>
+    <w ref="18.15" lemma="dominus" pos="NOMcom" msd="Case=Dat|Numb=Sing">Domino</w>
+    <w ref="18.15" lemma="siue2" pos="CONsub" msd="MORPH=empty">sive</w>
+    <w ref="18.15" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="18.15" lemma="homo" pos="NOMcom" msd="Case=Abl|Numb=Plur">hominibus</w>
+    <w ref="18.15" lemma="siue2" pos="CONsub" msd="MORPH=empty">sive</w>
+    <w ref="18.15" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="18.15" lemma="pecus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">pecoribus</w>
+    <w ref="18.15" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">fuerit</w>
+    <w ref="18.15" lemma="tuus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=Masc">tui</w>
+    <w ref="18.15" lemma="ius1" pos="NOMcom" msd="Case=Gen|Numb=Sing">iuris</w>
+    <w ref="18.15" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
+    <w ref="18.15" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+    <w ref="18.15" lemma="dumtaxat" pos="ADV" msd="Deg=Pos">dumtaxat</w>
+    <w ref="18.15" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="18.15" lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>
+    <w ref="18.15" lemma="homo" pos="NOMcom" msd="Case=Gen|Numb=Sing">hominis</w>
+    <w ref="18.15" lemma="primogenitus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">primogenito</w>
+    <w ref="18.15" lemma="pretium" pos="NOMcom" msd="Case=Acc|Numb=Sing">pretium</w>
+    <w ref="18.15" lemma="accipio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">accipias</w>
+    <w ref="18.15" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="18.15" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">omne</w>
+    <w ref="18.15" lemma="animal" pos="NOMcom" msd="Case=Nom|Numb=Sing">animal</w>
+    <w ref="18.15" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="18.15" lemma="immundus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">inmundum</w>
+    <w ref="18.15" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="18.15" lemma="redimo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">redimi</w>
+  </quote>
+</div>

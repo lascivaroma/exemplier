@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:105" ana="">
+  <bibl><author>Vulgate</author>, <title>Exodus</title>, <biblScope>34.19-34.19</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg002.obi-lat1:34.19-34.19" type="verse">
+    <w ref="34.19" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">omne</w>
+    <w ref="34.19" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="34.19" lemma="aperio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">aperit</w>
+    <w ana="" ref="34.19" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="34.19" lemma="genus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">generis</w>
+    <w ref="34.19" lemma="masculinus" pos="ADJqua" msd="Case=Gen|Numb=Sing">masculini</w>
+    <w ref="34.19" lemma="meus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Neut">meum</w>
+    <w ref="34.19" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
+    <w ref="34.19" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="34.19" lemma="cunctus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">cunctis</w>
+    <w ref="34.19" lemma="animans1" pos="NOMcom" msd="Case=Abl|Numb=Plur">animantibus</w>
+    <w ref="34.19" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+    <w ref="34.19" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="34.19" lemma="bos" pos="NOMcom" msd="Case=Abl|Numb=Plur">bubus</w>
+    <w ref="34.19" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="34.19" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="34.19" lemma="ouis" pos="NOMcom" msd="Case=Abl|Numb=Plur">ovibus</w>
+    <w ref="34.19" lemma="meus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Neut">meum</w>
+    <w ref="34.19" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
+    <w ref="34.19" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

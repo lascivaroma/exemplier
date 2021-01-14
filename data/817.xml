@@ -1,0 +1,33 @@
+<div type="fragment" corresp="adams:105" ana="#female #womb">
+  <bibl><author>Tertullian</author>, <title>De Carne Christi</title>, <biblScope>20-20</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa012.opp-lat1:20-20" type="chapter">
+    <w ref="20" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="20" lemma="adhaereo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">adhaesit</w>
+    <w ref="20" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="20" lemma="auello" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">avulsus</w>
+    <w ref="20" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="quomodo2" pos="ADVint" msd="MORPH=empty">quomodo</w>
+    <w ref="20" lemma="adhaeresco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">adhaesisset</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ref="20" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
+    <w ref="20" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="20" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="20" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="20" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="20" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">illum</w>
+    <w ref="20" lemma="neruus" pos="NOMcom" msd="Case=Acc|Numb=Sing">nervum</w>
+    <w ref="20" lemma="umbilico" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1">umbilicarem</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="quasi1" pos="ADVrel" msd="MORPH=empty">quasi</w>
+    <w ref="20" lemma="folliculus" pos="NOMcom" msd="Case=Gen|Numb=Plur">folliculi</w>
+    <w ref="20" lemma="suus" pos="PROpos.ref" msd="Case=Gen|Numb=Sing|Gend=MascNeut">sui</w>
+    <w ref="20" lemma="tradux" pos="NOMcom" msd="Case=Acc|Numb=Sing">traducem</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="annecto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">adnexus</w>
+    <w ref="20" lemma="origo" pos="NOMcom" msd="Case=Dat|Numb=Sing">origini</w>
+    <w ana="#female #womb" ref="20" lemma="uulua" pos="NOMcom" msd="Case=Gen|Numb=Sing">vulvae</w>
+    <w ref="20" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

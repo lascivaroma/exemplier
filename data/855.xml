@@ -1,0 +1,34 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>78.6-78.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:78.6-78.6" type="paragraph">
+    <w ref="78.6" lemma="alius" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">Aliud</w>
+    <w ref="78.6" lemma="pessarius" pos="NOMcom" msd="Case=Nom|Numb=Sing">pessarium</w>
+    <w ref="78.6" lemma="simplex" pos="ADJmul" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">simplex</w>
+    <w ref="78.6" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="78.6" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="78.6" lemma="diatessaron" pos="NOMcom" msd="Case=Nom|Numb=Sing">diatessaron</w>
+    <w ref="78.6" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="78.6" lemma="mitigo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">mitigandum</w>
+    <w ana="#female #womb #medical" ref="78.6" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ref="78.6" lemma="calor" pos="NOMcom" msd="Case=Acc|Numb=Sing">calorem</w>
+    <w ref="78.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="78.6" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="78.6" lemma="duritia" pos="NOMcom" msd="Case=Acc|Numb=Sing">duritiam</w>
+    <w ref="78.6" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="78.6" lemma="callositas" pos="NOMcom" msd="Case=Acc|Numb=Plur">callositates</w>
+    <w ref="78.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="78.6" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="78.6" lemma="sordidus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">sordida</w>
+    <w ref="78.6" lemma="quisque2" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Neut">quaeque</w>
+    <w ref="78.6" lemma="purgo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Adj|Voice=Pass">purganda</w>
+    <w ref="78.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="78.6" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="78.6" lemma="uniuersus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">uniuersas</w>
+    <w ref="78.6" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ref="78.6" lemma="indignatio" pos="NOMcom" msd="Case=Acc|Numb=Plur">indignationes</w>
+    <w ref="78.6" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="78.6" lemma="fio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fieri</w>
+    <w ref="78.6" lemma="assoleo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">adsolent</w>
+    <w ref="78.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

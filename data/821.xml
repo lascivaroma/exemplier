@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:105" ana="#female #womb">
+  <bibl><author>Tertullian</author>, <title>De Carne Christi</title>, <biblScope>23-23</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa012.opp-lat1:23-23" type="chapter">
+    <w ref="23" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">Haec</w>
+    <w ref="23" lemma="denique" pos="ADV" msd="Deg=Pos">denique</w>
+    <w ana="#female #womb" ref="23" lemma="uulua" pos="NOMcom" msd="Case=Nom|Numb=Sing">vulva</w>
+    <w ref="23" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="23" lemma="propter2" pos="PRE" msd="MORPH=empty">propter</w>
+    <w ref="23" lemma="qui1" pos="PROrel" msd="Gend=Fem">quam</w>
+    <w ref="23" lemma="et1" pos="ADV" msd="MORPH=empty">et</w>
+    <w ref="23" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="23" lemma="alius" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">aliis</w>
+    <w ref="23" lemma="scribo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">scriptum</w>
+    <w ref="23" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="23" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="23" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">Omne</w>
+    <w ref="23" lemma="masculinus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">masculinum</w>
+    <w ref="23" lemma="adaperio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">adaperiens</w>
+    <w ref="23" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="23" lemma="sanctus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">sanctum</w>
+    <w ref="23" lemma="uoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">vocabitur</w>
+    <w ref="23" lemma="dominus" pos="NOMcom" msd="Case=Dat|Numb=Sing">domino</w>
+    <w ref="23" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

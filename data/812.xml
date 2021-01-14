@@ -1,0 +1,13 @@
+<div type="fragment" corresp="adams:105" ana="#female #womb">
+  <bibl><author>Tertullian</author>, <title>De Carne Christi</title>, <biblScope>19-19</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa012.opp-lat1:19-19" type="chapter">
+    <w ref="19" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="19" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="19" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="19" lemma="causa" pos="NOMcom" msd="Case=Abl|Numb=Sing">causa</w>
+    <w ref="19" lemma="descendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">descendit</w>
+    <w ref="19" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#female #womb" ref="19" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="19" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

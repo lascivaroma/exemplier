@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>80.1-80.1</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:80.1-80.1" type="paragraph">
+    <w ref="80.1" lemma="flebtotomium" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut">Flebotomia</w>
+    <w ref="80.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="80.1" lemma="crus" pos="NOMcom" msd="Case=Abl|Numb=Plur">cruribus</w>
+    <w ref="80.1" lemma="supra2" pos="PRE" msd="MORPH=empty">supra</w>
+    <w ref="80.1" lemma="talus" pos="NOMcom" msd="Case=Acc|Numb=Plur">talos</w>
+    <w ref="80.1" lemma="interior2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">interiores</w>
+    <w ref="80.1" lemma="adhibeo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">adhibita</w>
+    <w ref="80.1" lemma="patefacio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">patefacit</w>
+    <w ana="#female #womb #medical" ref="80.1" lemma="matrix" pos="NOMcom" msd="Case=Acc|Numb=Sing">matricem</w>
+    <w ref="80.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

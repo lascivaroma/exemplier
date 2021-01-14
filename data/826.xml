@@ -1,0 +1,50 @@
+<div type="fragment" corresp="adams:105" ana="#female #womb">
+  <bibl><author>Tertullian</author>, <title>Adversus Marcionem</title>, <biblScope>5.19-5.19</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa006.opp-lat2:5.19-5.19" type="section">
+    <w ref="5.19" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
+    <w ref="5.19" lemma="ingenium" pos="NOMcom" msd="Case=Abl|Numb=Plur">ingeniis</w>
+    <w ref="5.19" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+    <w ref="5.19" lemma="longe" pos="ADV" msd="Deg=Pos">longe</w>
+    <w ref="5.19" lemma="absum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">abest</w>
+    <w ref="5.19" lemma="ueritas" pos="NOMcom" msd="Case=Nom|Numb=Sing">ueritas</w>
+    <w ref="5.19" lemma="noster" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">nostra</w>
+    <w ref="5.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.19" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="5.19" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.19" lemma="ira" pos="NOMcom" msd="Case=Acc|Numb=Sing">iram</w>
+    <w ref="5.19" lemma="deus" pos="NOMcom" msd="Case=Gen|Numb=Sing">dei</w>
+    <w ref="5.19" lemma="excito1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">excitare</w>
+    <w ref="5.19" lemma="formido2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">formidet</w>
+    <w ref="5.19" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.19" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Neut">omnia</w>
+    <w ref="5.19" lemma="ilium" pos="NOMpro" msd="Case=Acc|Numb=Sing">ilium</w>
+    <w ref="5.19" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="5.19" lemma="nihilum" pos="NOMcom" msd="Case=Abl|Numb=Sing">nihilo</w>
+    <w ref="5.19" lemma="profero" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">protulisse</w>
+    <w ref="5.19" lemma="confido" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=SemDep|Person=3">confidat</w>
+    <w ref="5.19" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.19" lemma="caro1" pos="NOMcom" msd="Case=Acc|Numb=Sing">carnem</w>
+    <w ref="5.19" lemma="idem" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eandem</w>
+    <w ref="5.19" lemma="restituo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Fut|Voice=Act">restituturum</w>
+    <w ref="5.19" lemma="repromitto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">repromittat</w>
+    <w ref="5.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.19" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.19" lemma="christus" pos="NOMcom" msd="Case=Acc|Numb=Sing">Christum</w>
+    <w ref="5.19" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ana="#female #womb" ref="5.19" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">uulua</w>
+    <w ref="5.19" lemma="uirgo" pos="NOMcom" msd="Case=Gen|Numb=Sing">uirginis</w>
+    <w ref="5.19" lemma="nascor" pos="NOMcom" msd="Case=Acc|Numb=Sing">natum</w>
+    <w ref="5.19" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="5.19" lemma="erubesco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">erubescat</w>
+    <w ref="5.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.19" lemma="rideo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">ridentibus</w>
+    <w ref="5.19" lemma="philosophus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">philosophis</w>
+    <w ref="5.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.19" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.19" lemma="haereticus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">haereticis</w>
+    <w ref="5.19" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.19" lemma="ethnicus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">ethnicis</w>
+    <w ref="5.19" lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Masc">ipsis</w>
+    <w ref="5.19" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

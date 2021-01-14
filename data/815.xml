@@ -1,0 +1,49 @@
+<div type="fragment" corresp="adams:105" ana="#female #womb">
+  <bibl><author>Tertullian</author>, <title>De Carne Christi</title>, <biblScope>20-20</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa012.opp-lat1:20-20" type="chapter">
+    <w ref="20" lemma="per" pos="PRE" msd="MORPH=empty">Per</w>
+    <w ref="20" lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Sing">virginem</w>
+    <w ref="20" lemma="dico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">dicitis</w>
+    <w ref="20" lemma="natus?" pos="VER" msd="Case=Acc|Numb=Sing">natum</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="20" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="20" lemma="uirgo" pos="NOMcom" msd="Case=Abl|Numb=Sing">virgine</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="20" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="20" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="20" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ana="#female #womb" ref="20" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+    <w ref="20" lemma="et1" pos="ADV" msd="Deg=Pos">et</w>
+    <w ref="20" lemma="angelus" pos="NOMcom" msd="Case=Nom|Numb=Sing">angelus</w>
+    <w ref="20" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="20" lemma="somnus" pos="NOMcom" msd="Case=Abl|Numb=Plur">somnis</w>
+    <w ref="20" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="20" lemma="Ioseph" pos="NOMpro" msd="Case=Ind">Ioseph</w>
+    <w ref="20" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="20" lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
+    <w ref="20" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="20" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="20" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">ea</w>
+    <w ref="20" lemma="nascor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">natum</w>
+    <w ref="20" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inquit</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="20" lemma="spiritus" pos="NOMcom" msd="Case=Abl|Numb=Sing">spiritu</w>
+    <w ref="20" lemma="sanctus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">sancto</w>
+    <w ref="20" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="20" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">dixit</w>
+    <w ref="20" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="20" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">ea</w>
+    <w ref="20" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

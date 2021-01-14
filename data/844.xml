@@ -1,0 +1,37 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>77.1-77.1</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:77.1-77.1" type="paragraph">
+    <w ref="77.1" lemma="praefocatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">Praefocationem</w>
+    <w ana="#female #womb #medical" ref="77.1" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ref="77.1" lemma="sequor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">sequitur</w>
+    <w ref="77.1" lemma="subitus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">subitus</w>
+    <w ref="77.1" lemma="casus" pos="NOMcom" msd="Case=Nom|Numb=Sing">casus</w>
+    <w ref="77.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="77.1" lemma="uox" pos="NOMcom" msd="Case=Gen|Numb=Sing">uocis</w>
+    <w ref="77.1" lemma="amputatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">amputatio</w>
+    <w ref="77.1" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="77.1" lemma="obmutesco" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">obmutescant</w>
+    <w ref="77.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="77.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="77.1" lemma="apprehensio" pos="NOMcom" msd="Case=Nom|Numb=Sing">apprehensio</w>
+    <w ref="77.1" lemma="sensus" pos="NOMcom" msd="Case=Nom|Numb=Sing">sensus</w>
+    <w ref="77.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="77.1" lemma="dens" pos="NOMcom" msd="Case=Gen|Numb=Plur">dentium</w>
+    <w ref="77.1" lemma="configio" pos="NOMcom" msd="Case=Nom|Numb=Sing">confixio</w>
+    <w ref="77.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="77.1" lemma="stridor" pos="NOMcom" msd="Case=Nom|Numb=Sing">stridor</w>
+    <w ref="77.1" lemma="rapidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">rapidus</w>
+    <w ref="77.1" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+    <w ref="77.1" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="77.1" lemma="accessio" pos="NOMcom" msd="Case=Gen|Numb=Sing">accessionis</w>
+    <w ref="77.1" lemma="tempus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">tempore</w>
+    <w ref="77.1" lemma="unus" pos="ADJcar" msd="Case=Nom|Numb=Sing|Gend=Fem">una</w>
+    <w ref="77.1" lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing">pars</w>
+    <w ref="77.1" lemma="os1" pos="NOMcom" msd="Case=Gen|Numb=Sing">oris</w>
+    <w ref="77.1" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="77.1" lemma="alter" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">alteram</w>
+    <w ref="77.1" lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Sing">partem</w>
+    <w ref="77.1" lemma="conduco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">conduci</w>
+    <w ref="77.1" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">uideatur</w>
+  </quote>
+</div>

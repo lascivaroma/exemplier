@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:105" ana="">
+  <bibl><author>Vulgate</author>, <title>1 Samuel</title>, <biblScope>1.5-1.5</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg011.obi-lat1:1.5-1.5" type="verse">
+    <w ref="1.5" lemma="anna" pos="NOMcom" msd="Case=Dat|Numb=Sing">Annae</w>
+    <w ref="1.5" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="1.5" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">dedit</w>
+    <w ref="1.5" lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Sing">partem</w>
+    <w ref="1.5" lemma="unus" pos="ADJcar" msd="Case=Acc|Numb=Sing|Gend=Fem">unam</w>
+    <w ref="1.5" lemma="tristis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">tristis</w>
+    <w ref="1.5" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+    <w ref="1.5" lemma="annas" pos="NOMcom" msd="Case=Acc|Numb=Sing">Annam</w>
+    <w ref="1.5" lemma="diligo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">diligebat</w>
+    <w ref="1.5" lemma="dominus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Dominus</w>
+    <w ref="1.5" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="1.5" lemma="concludo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">concluserat</w>
+    <w ana="" ref="1.5" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="1.5" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Masc">eius</w>
+    <w ref="1.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

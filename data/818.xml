@@ -1,0 +1,43 @@
+<div type="fragment" corresp="adams:105" ana="#female #womb">
+  <bibl><author>Tertullian</author>, <title>De Carne Christi</title>, <biblScope>20-20</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa012.opp-lat1:20-20" type="chapter">
+    <w ref="20" lemma="respondeo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">Respondeant</w>
+    <w ref="20" lemma="obstetrix" pos="NOMcom" msd="Case=Nom|Numb=Plur">obstetrices</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="medicus1" pos="NOMcom" msd="Case=Nom|Numb=Plur">medici</w>
+    <w ref="20" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="20" lemma="physicus" pos="NOMcom" msd="Case=Nom|Numb=Plur">physici</w>
+    <w ref="20" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="20" lemma="uber1" pos="NOMcom" msd="Case=Gen|Numb=Plur">uberum</w>
+    <w ref="20" lemma="natura" pos="NOMcom" msd="Case=Abl|Numb=Sing">natura</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="20" lemma="aliter" pos="ADV" msd="Deg=Pos">aliter</w>
+    <w ref="20" lemma="mano" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">manare</w>
+    <w ref="20" lemma="soleo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=SemDep|Person=3">soleant</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ana="#female #womb" ref="20" lemma="uulua" pos="NOMcom" msd="Case=Gen|Numb=Sing">vulvae</w>
+    <w ref="20" lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">genitali</w>
+    <w ref="20" lemma="passio" pos="NOMcom" msd="Case=Abl|Numb=Sing">passione</w>
+    <w ref="20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20" lemma="pendeo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">pendentibus</w>
+    <w ref="20" lemma="exinde" pos="ADV" msd="Deg=Pos">exinde</w>
+    <w ref="20" lemma="uena" pos="NOMcom" msd="Case=Abl|Numb=Plur">venis</w>
+    <w ref="20" lemma="sentina" pos="NOMcom" msd="Case=Acc|Numb=Sing">sentinam</w>
+    <w ref="20" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
+    <w ref="20" lemma="infernus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">inferni</w>
+    <w ref="20" lemma="sanguis" pos="NOMcom" msd="Case=Gen|Numb=Sing">sanguinis</w>
+    <w ref="20" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="20" lemma="mamilla" pos="NOMcom" msd="Case=Acc|Numb=Sing">mamillam</w>
+    <w ref="20" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="20" lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ref="20" lemma="translatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">translatione</w>
+    <w ref="20" lemma="decequo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">decequentibus</w>
+    <w ref="20" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="20" lemma="materia" pos="NOMcom" msd="Case=Acc|Numb=Sing">materiam</w>
+    <w ref="20" lemma="lac" pos="NOMcom" msd="Case=Gen|Numb=Sing">lactis</w>
+    <w ref="20" lemma="laetus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp">laetiorem</w>
+    <w ref="20" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

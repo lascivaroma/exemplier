@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:105" ana="">
+  <bibl><author>Vulgate</author>, <title>Job</title>, <biblScope>1.5-1.5</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg032.obi-lat1:1.5-1.5" type="verse">
+    <w ref="1.5" lemma="priusquam" pos="CONsub" msd="MORPH=empty">priusquam</w>
+    <w ref="1.5" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="1.5" lemma="formo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1">formarem</w>
+    <w ref="1.5" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.5" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="1.5" lemma="nosco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">novi</w>
+    <w ref="1.5" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="1.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.5" lemma="antequam1" pos="CONsub" msd="MORPH=empty">antequam</w>
+    <w ref="1.5" lemma="exeo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2">exires</w>
+    <w ref="1.5" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ana="" ref="1.5" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
+    <w ref="1.5" lemma="sanctifico" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">sanctificavi</w>
+    <w ref="1.5" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="1.5" lemma="propheta" pos="NOMcom" msd="Case=Acc|Numb=Sing">prophetam</w>
+    <w ref="1.5" lemma="gens" pos="NOMcom" msd="Case=Dat|Numb=Plur">gentibus</w>
+    <w ref="1.5" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">dedi</w>
+    <w ref="1.5" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="1.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

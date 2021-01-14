@@ -1,0 +1,39 @@
+<div type="fragment" corresp="adams:107" ana="#female #womb #medical">
+  <bibl><author>Theodorus Priscianus</author>, <title>Euporiston</title>, <biblScope>3.6-3.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1:3.6-3.6" type="chapter">
+    <w ref="3.6" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="3.6" lemma="quoniam" pos="CONsub" msd="MORPH=empty">quoniam</w>
+    <w ref="3.6" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ana="#female #womb #medical" ref="3.6" lemma="matrici" pos="NOMcom" msd="Case=Gen|Numb=Sing">matricis</w>
+    <w ref="3.6" lemma="uitium" pos="NOMcom" msd="Case=Abl|Numb=Sing">vitio</w>
+    <w ref="3.6" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="3.6" lemma="aetas" pos="NOMcom" msd="Case=Gen|Numb=Sing">aetatis</w>
+    <w ref="3.6" lemma="impossibilitas" pos="NOMcom" msd="Case=Abl|Numb=Sing">impossibilitate</w>
+    <w ref="3.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.6" lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+    <w ref="3.6" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
+    <w ref="3.6" lemma="causa" pos="NOMcom" msd="Case=Abl|Numb=Sing">causa</w>
+    <w ref="3.6" lemma="praepropere" pos="ADV" msd="Deg=Pos">praepropere</w>
+    <w ref="3.6" lemma="frequenter" pos="ADV" msd="Deg=Pos">frequenter</w>
+    <w ref="3.6" lemma="partus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">partus</w>
+    <w ref="3.6" lemma="euenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">evenit</w>
+    <w ref="3.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.6" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">feminae</w>
+    <w ref="3.6" lemma="periclitor" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">periclitantur</w>
+    <w ref="3.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.6" lemma="expedio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">expedit</w>
+    <w ref="3.6" lemma="praegnans" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">praegnantibus</w>
+    <w ref="3.6" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="3.6" lemma="uita" pos="NOMcom" msd="Case=Gen|Numb=Sing">vitae</w>
+    <w ref="3.6" lemma="discrimen" pos="NOMcom" msd="Case=Abl|Numb=Sing">discrimine</w>
+    <w ref="3.6" lemma="constituo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">constitutis</w>
+    <w ref="3.6" lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+    <w ref="3.6" lemma="unus" pos="ADJcar" msd="Case=Gen|Numb=Sing|Gend=Com">unius</w>
+    <w ref="3.6" lemma="partus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">partus</w>
+    <w ref="3.6" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
+    <w ref="3.6" lemma="iactura" pos="NOMcom" msd="Case=Nom|Numb=Sing">iactura</w>
+    <w ref="3.6" lemma="salus" pos="NOMcom" msd="Case=Acc|Numb=Sing">salutem</w>
+    <w ref="3.6" lemma="mercor" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">mercari</w>
+    <w ref="3.6" lemma="certus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Sup">certissimam</w>
+  </quote>
+</div>

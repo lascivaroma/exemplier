@@ -1,0 +1,53 @@
+<div type="fragment" corresp="adams:110" ana="#anus #culus">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblScope>33.1-33.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:33.1-33.8" type="line">
+    <w ref="33.1" lemma="o" pos="INJ" msd="MORPH=empty">O</w>
+    <w ref="33.1" lemma="fur" pos="NOMcom" msd="Case=Acc|Numb=Sing">furum</w>
+    <w ref="33.1" lemma="bonus" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=Masc|Deg=Sup">optime</w>
+    <w ref="33.1" lemma="balnearius" pos="NOMcom" msd="Case=Gen|Numb=Plur">balneariorum</w>
+    <w ref="33.2" lemma="uibennis" pos="NOMcom" msd="Case=Gen|Numb=Sing">Vibenni</w>
+    <w ref="33.2" lemma="pater" pos="NOMcom" msd="Case=Voc|Numb=Sing">pater</w>
+    <w ref="33.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="33.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="33.2" lemma="cinaedus2" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=Masc|Deg=Pos">cinaede</w>
+    <w ref="33.2" lemma="filius" pos="NOMcom" msd="Case=Gen|Numb=Sing">fili</w>
+    <w ref="33.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="33.3" lemma="(" pos="PUNC" msd="MORPH=empty">(</w>
+    <w ref="33.3" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="33.3" lemma="dextera" pos="NOMcom" msd="Case=Nom|Numb=Sing">dextra</w>
+    <w ref="33.3" lemma="pater" pos="NOMcom" msd="Case=Nom|Numb=Sing">pater</w>
+    <w ref="33.3" lemma="inquinatus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Comp">inquinatiore</w>
+    <w ref="33.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#anus #culus" ref="33.4" lemma="culus" pos="NOMcom" msd="Case=Abl|Numb=Sing">culo</w>
+    <w ref="33.4" lemma="filius" pos="NOMcom" msd="Case=Nom|Numb=Sing">filius</w>
+    <w ref="33.4" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="33.4" lemma="uorax" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Comp">voraciore</w>
+    <w ref="33.4" lemma=")" pos="PUNC" msd="MORPH=empty">)</w>
+    <w ref="33.5" lemma="cur" pos="ADVint" msd="MORPH=empty">cur</w>
+    <w ref="33.5" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="33.5" lemma="exsilium" pos="NOMcom" msd="Case=Acc|Numb=Sing">exsilium</w>
+    <w ref="33.5" lemma="malus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">malasque</w>
+    <w ref="33.5" lemma="que" pos="CON" msd="MORPH=empty">{malasque}</w>
+    <w ref="33.5" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="33.5" lemma="ora" pos="NOMcom" msd="Case=Acc|Numb=Plur">oras</w>
+    <w ref="33.6" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">itis</w>
+    <w ref="33.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="33.6" lemma="quandoquidem" pos="CONsub" msd="MORPH=empty">quandoquidem</w>
+    <w ref="33.6" lemma="pater" pos="NOMcom" msd="Case=Gen|Numb=Sing">patris</w>
+    <w ref="33.6" lemma="rapina1" pos="NOMcom" msd="Case=Nom|Numb=Plur">rapinae</w>
+    <w ref="33.7" lemma="notus2" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">notae</w>
+    <w ref="33.7" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="33.7" lemma="populus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">populo</w>
+    <w ref="33.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="33.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="33.7" lemma="natus1" pos="NOMcom" msd="Case=Dat|Numb=Plur">natis</w>
+    <w ref="33.7" lemma="pilosus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">pilosas</w>
+    <w ref="33.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="33.8" lemma="filius" pos="NOMcom" msd="Case=Gen|Numb=Sing">fili</w>
+    <w ref="33.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="33.8" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="33.8" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">potes</w>
+    <w ref="33.8" lemma="as" pos="NOMcom" msd="Case=Abl|Numb=Sing">asse</w>
+    <w ref="33.8" lemma="uendito" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">venditare</w>
+  </quote>
+</div>

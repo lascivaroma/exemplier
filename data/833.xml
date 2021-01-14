@@ -1,0 +1,39 @@
+<div type="fragment" corresp="adams:105" ana="#female #womb">
+  <bibl><author>Tertullian</author>, <title>De Carne Christi</title>, <biblScope>17-17</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa012.opp-lat1:17-17" type="chapter">
+    <w ref="17" lemma="idoneus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">idonei</w>
+    <w ref="17" lemma="aliquis" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">alicuius</w>
+    <w ref="17" lemma="auctor" pos="NOMcom" msd="Case=Gen|Numb=Sing">auctoris</w>
+    <w ref="17" lemma="intersero3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">interserit</w>
+    <w ref="17" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="17" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="17" lemma="unus" pos="ADJcar" msd="Case=Acc|Numb=Sing|Gend=Fem">unam</w>
+    <w ref="17" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="17" lemma="linea" pos="NOMcom" msd="Case=Acc|Numb=Sing">lineam</w>
+    <w ref="17" lemma="congressio" pos="NOMcom" msd="Case=Acc|Numb=Sing">congressionem</w>
+    <w ref="17" lemma="dirigo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1">dirigamus</w>
+    <w ref="17" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="17" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="17" lemma="caro1" pos="NOMcom" msd="Case=Acc|Numb=Sing">carnem</w>
+    <w ref="17" lemma="christus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Christus</w>
+    <w ref="17" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="17" lemma="uirgo" pos="NOMcom" msd="Case=Abl|Numb=Sing">virgine</w>
+    <w ref="17" lemma="accipio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">acceperit</w>
+    <w ref="17" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="17" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="17" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="17" lemma="praecipue" pos="ADV" msd="Deg=Pos">praecipue</w>
+    <w ref="17" lemma="modo1" pos="ADV" msd="Deg=Pos">modo</w>
+    <w ref="17" lemma="humanus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">humanam</w>
+    <w ref="17" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
+    <w ref="17" lemma="consto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">constet</w>
+    <w ref="17" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="17" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="17" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="17" lemma="humanus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">humana</w>
+    <w ana="#female #womb" ref="17" lemma="matrix" pos="NOMcom" msd="Case=Abl|Numb=Sing">matrice</w>
+    <w ref="17" lemma="substantia" pos="NOMcom" msd="Case=Acc|Numb=Sing">substantiam</w>
+    <w ref="17" lemma="traho" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">traxit</w>
+    <w ref="17" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

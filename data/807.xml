@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:105" ana="#female #womb">
+  <bibl><author>Tertullian</author>, <title>De Carne Christi</title>, <biblScope>19-19</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa012.opp-lat1:19-19" type="chapter">
+    <w ref="19" lemma="oro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">Oro</w>
+    <w ref="19" lemma="uos" pos="PROper" msd="Case=Acc|Numb=Plur">vos</w>
+    <w ref="19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="19" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="19" lemma="deus" pos="NOMcom" msd="Case=Gen|Numb=Sing">dei</w>
+    <w ref="19" lemma="spiritus" pos="NOMcom" msd="Case=Nom|Numb=Sing">spiritus</w>
+    <w ref="19" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="19" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ana="#female #womb" ref="19" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
+    <w ref="19" lemma="caro1" pos="NOMcom" msd="Case=Acc|Numb=Sing">carnem</w>
+    <w ref="19" lemma="participo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Fut|Voice=Act">participaturus</w>
+    <w ref="19" lemma="descendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">descendit</w>
+    <w ref="19" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="19" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="19" lemma="cur" pos="ADVint" msd="MORPH=empty">cur</w>
+    <w ref="19" lemma="descendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">descendit</w>
+    <w ref="19" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="19" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="19" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

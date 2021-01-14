@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:105" ana="">
+  <bibl><author>Vulgate</author>, <title>1 Samuel</title>, <biblScope>1.6-1.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg011.obi-lat1:1.6-1.6" type="verse">
+    <w ref="1.6" lemma="affligo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">adfligebat</w>
+    <w ref="1.6" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="1.6" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
+    <w ref="1.6" lemma="aemula" pos="NOMcom" msd="Case=Nom|Numb=Sing">aemula</w>
+    <w ref="1.6" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="1.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.6" lemma="uehementer" pos="ADV" msd="Deg=Pos">vehementer</w>
+    <w ref="1.6" lemma="ango" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">angebat</w>
+    <w ref="1.6" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.6" lemma="tantum1" pos="PROdem" msd="Case=Acc|Numb=Sing|Deg=Pos">tantum</w>
+    <w ref="1.6" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="1.6" lemma="exprobro" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">exprobraret</w>
+    <w ref="1.6" lemma="quod2" pos="CONsub" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="1.6" lemma="concludo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">conclusisset</w>
+    <w ref="1.6" lemma="dominus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Dominus</w>
+    <w ana="" ref="1.6" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ref="1.6" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Masc">eius</w>
+    <w ref="1.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:105" ana="">
+  <bibl><author>Vulgate</author>, <title>Proverbs</title>, <biblScope>30.16-30.16</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg029.obi-lat1:30.16-30.16" type="verse">
+    <w ref="30.16" lemma="infernus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">infernus</w>
+    <w ref="30.16" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="30.16" lemma="os1" pos="NOMcom" msd="Case=Nom|Numb=Sing">os</w>
+    <w ana="" ref="30.16" lemma="uulua" pos="NOMcom" msd="Case=Gen|Numb=Sing">vulvae</w>
+    <w ref="30.16" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="30.16" lemma="terra" pos="NOMcom" msd="Case=Nom|Numb=Sing">terra</w>
+    <w ref="30.16" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="30.16" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="30.16" lemma="satio2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">satiatur</w>
+    <w ref="30.16" lemma="aqua" pos="NOMcom" msd="Case=Nom|Numb=Sing">aqua</w>
+    <w ref="30.16" lemma="ignis" pos="NOMcom" msd="Case=Nom|Numb=Sing">ignis</w>
+    <w ref="30.16" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
+    <w ref="30.16" lemma="numquam" pos="ADVneg" msd="MORPH=empty">numquam</w>
+    <w ref="30.16" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dicit</w>
+    <w ref="30.16" lemma="sufficio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sufficit</w>
+    <w ref="30.16" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

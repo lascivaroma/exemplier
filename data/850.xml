@@ -1,0 +1,36 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>78.1-78.1</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:78.1-78.1" type="paragraph">
+    <w ana="#female #womb #medical" ref="78.1" lemma="matricus" pos="NOMcom" msd="Case=Dat|Numb=Plur">Matricis</w>
+    <w ref="78.1" lemma="promineo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">prominentem</w>
+    <w ref="78.1" lemma="casus" pos="NOMcom" msd="Case=Acc|Numb=Sing">casum</w>
+    <w ref="78.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="78.1" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing">quam</w>
+    <w ref="78.1" lemma="Graeci" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc">Graeci</w>
+    <w ref="78.1" lemma="proptosis" pos="NOMcom" msd="Numb=Sing">proptosin</w>
+    <w ref="78.1" lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">uocant</w>
+    <w ref="78.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="78.1" lemma="sano" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sanant</w>
+    <w ref="78.1" lemma="naris" pos="NOMcom" msd="Case=Dat|Numb=Plur">naribus</w>
+    <w ref="78.1" lemma="applico" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">applicata</w>
+    <w ref="78.1" lemma="opobalsamum" pos="NOMcom" msd="Case=Acc|Numb=Sing">opobalsamum</w>
+    <w ref="78.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="78.1" lemma="nardum" pos="NOMcom" msd="Case=Acc|Numb=Sing">nardum</w>
+    <w ref="78.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="78.1" lemma="folium" pos="NOMcom" msd="Case=Acc|Numb=Sing">folium</w>
+    <w ref="78.1" lemma="bonus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Sup">optimum</w>
+    <w ref="78.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="78.1" lemma="storax" pos="NOMcom" msd="Case=Nom|Numb=Sing">storax</w>
+    <w ref="78.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="78.1" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Neut">omnia</w>
+    <w ref="78.1" lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
+    <w ref="78.1" lemma="redoleo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act">redolentia</w>
+    <w ref="78.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="78.1" lemma="inferus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp">inferius</w>
+    <w ref="78.1" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="78.1" lemma="suffumigo" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">subfumigando</w>
+    <w ref="78.1" lemma="pix?" pos="NOMcom" msd="Case=Nom|Numb=Sing">pix</w>
+    <w ref="78.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="78.1" lemma="lana" pos="NOMcom" msd="Case=Nom|Numb=Sing">lana</w>
+  </quote>
+</div>

@@ -1,0 +1,27 @@
+<div type="fragment" corresp="adams:105" ana="">
+  <bibl><author>Vulgate</author>, <title>Habakkuk</title>, <biblScope>49.25-49.25</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg043.obi-lat1:49.25-49.25" type="verse">
+    <w ref="49.25" lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Deus</w>
+    <w ref="49.25" lemma="pater" pos="NOMcom" msd="Case=Gen|Numb=Sing">patris</w>
+    <w ref="49.25" lemma="tuus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=MascNeut">tui</w>
+    <w ref="49.25" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
+    <w ref="49.25" lemma="adiutor1" pos="NOMcom" msd="Case=Nom|Numb=Sing">adiutor</w>
+    <w ref="49.25" lemma="tuus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Masc">tuus</w>
+    <w ref="49.25" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="49.25" lemma="omnipotens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">Omnipotens</w>
+    <w ref="49.25" lemma="benedico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">benedicet</w>
+    <w ref="49.25" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="49.25" lemma="benedictio" pos="NOMcom" msd="Case=Dat|Numb=Plur">benedictionibus</w>
+    <w ref="49.25" lemma="caelum1" pos="NOMcom" msd="Case=Gen|Numb=Sing">caeli</w>
+    <w ref="49.25" lemma="desuper" pos="ADV" msd="Deg=Pos">desuper</w>
+    <w ref="49.25" lemma="benedictio" pos="NOMcom" msd="Case=Abl|Numb=Plur">benedictionibus</w>
+    <w ref="49.25" lemma="abyssus" pos="NOMcom" msd="Case=Gen|Numb=Sing">abyssi</w>
+    <w ref="49.25" lemma="iaceo" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">iacentis</w>
+    <w ref="49.25" lemma="deorsum" pos="ADV" msd="Deg=Pos">deorsum</w>
+    <w ref="49.25" lemma="benedictio" pos="NOMcom" msd="Case=Dat|Numb=Plur">benedictionibus</w>
+    <w ref="49.25" lemma="uber1" pos="NOMcom" msd="Case=Gen|Numb=Plur">uberum</w>
+    <w ref="49.25" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="" ref="49.25" lemma="uulua" pos="NOMcom" msd="Case=Nom|Numb=Plur">vulvae</w>
+    <w ref="49.25" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

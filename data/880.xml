@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:110" ana="#anus #culus">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>2.62.4-2.62.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:2.62.4-2.62.4" type="line">
+    <w ref="2.62.4" lemma="qui1" pos="PROint" msd="Case=Dat|Numb=Sing|Gend=Com">Cui</w>
+    <w ref="2.62.4" lemma="praesto1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">praestas</w>
+    <w ref="2.62.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#anus #culus" ref="2.62.4" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Sing">culum</w>
+    <w ref="2.62.4" lemma="qui1" pos="PROrel" msd="Numb=Sing|Gend=Neut">quod</w>
+    <w ref="2.62.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.62.4" lemma="labienus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Labiene</w>
+    <w ref="2.62.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.62.4" lemma="pila2" pos="NOMcom" msd="Case=Acc|Numb=Plur">pilas</w>
+    <w ref="2.62.4" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

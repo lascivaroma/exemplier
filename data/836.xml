@@ -1,0 +1,42 @@
+<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
+  <bibl><author>Theodorus Priscianus</author>, <title>Euporiston</title>, <biblScope>3.3-3.3</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1:3.3-3.3" type="chapter">
+    <w ref="3.3" lemma="inflatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">Inflationem</w>
+    <w ref="3.3" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="3.3" lemma="tensio" pos="NOMcom" msd="Case=Acc|Numb=Sing">tensionem</w>
+    <w ref="3.3" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="3.3" lemma="longus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">longo</w>
+    <w ref="3.3" lemma="tempus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">tempore</w>
+    <w ana="#female #womb #medical" ref="3.3" lemma="matrix" pos="NOMcom" msd="Case=Nom|Numb=Sing">matrix</w>
+    <w ref="3.3" lemma="aeger2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">aegra</w>
+    <w ref="3.3" lemma="concipio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">conceperit</w>
+    <w ref="3.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.3" lemma="omnis" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">omnibus</w>
+    <w ref="3.3" lemma="superus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp">superioribus</w>
+    <w ref="3.3" lemma="chalasticus" pos="NOMcom" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">chalasticis</w>
+    <w ref="3.3" lemma="aptus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">aptis</w>
+    <w ref="3.3" lemma="constrictio" pos="NOMcom" msd="Case=Abl|Numb=Plur">constrictionibus</w>
+    <w ref="3.3" lemma="immineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">imminebo</w>
+    <w ref="3.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.3" lemma="superaddo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">superaddens</w>
+    <w ref="3.3" lemma="cataplasma" pos="NOMcom" msd="Case=Abl|Numb=Plur">cataplasmatibus</w>
+    <w ref="3.3" lemma="ficus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">ficos</w>
+    <w ref="3.3" lemma="tundo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">tunsas</w>
+    <w ref="3.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.3" lemma="absinthium" pos="VER" msd="Case=Gen|Numb=Sing">absinthii</w>
+    <w ref="3.3" lemma="puluis" pos="NOMcom" msd="Case=Acc|Numb=Sing">pulverem</w>
+    <w ref="3.3" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="3.3" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="3.3" lemma="decoctio" pos="NOMcom" msd="Case=Acc|Numb=Sing">decoctionem</w>
+    <w ref="3.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.3" lemma="epithematum" pos="NOMcom" msd="Case=Nom|Numb=Plur">epithemata</w>
+    <w ref="3.3" lemma="amycticus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">amyctica</w>
+    <w ref="3.3" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="3.3" lemma="puluis" pos="NOMcom" msd="Case=Abl|Numb=Sing">pulvere</w>
+    <w ref="3.3" lemma="laurus" pos="NOMcom" msd="Case=Gen|Numb=Sing">lauri</w>
+    <w ref="3.3" lemma="bacca" pos="NOMcom" msd="Case=Gen|Numb=Plur">bacarum</w>
+    <w ref="3.3" lemma="pyrethrum" pos="NOMcom" msd="Case=Gen|Numb=Sing">pyrethri</w>
+    <w ref="3.3" lemma="castoreum" pos="NOMcom" msd="Case=Gen|Numb=Sing">castorei</w>
+    <w ref="3.3" lemma="nitrum" pos="NOMcom" msd="Case=Gen|Numb=Sing">nitri</w>
+  </quote>
+</div>
