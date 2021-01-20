@@ -1,0 +1,12 @@
+<div type="fragment" corresp="adams:123" ana="#acte #male #pedico">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>1.92.14-1.92.14</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.92.14-1.92.14" type="line">
+    <w ref="1.92.14" lemma="denique" pos="ADV" msd="Deg=Pos">Denique</w>
+    <w ana="#acte #male #pedico" ref="1.92.14" lemma="paedica" pos="NOMcom" msd="Case=Nom|Numb=Sing">pedica</w>
+    <w ref="1.92.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.92.14" lemma="mamurianus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Neut|Deg=Pos">Mamuriane</w>
+    <w ref="1.92.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.92.14" lemma="satur" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">satur</w>
+    <w ref="1.92.14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,42 @@
+<div type="fragment" corresp="adams:118" ana="#acte #futuo">
+  <bibl><author>Horace</author>, <title>Satires</title>, <biblScope>1.2.127-1.2.131</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.127-1.2.131" type="line">
+    <w ref="1.2.127" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="1.2.127" lemma="uereor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">vereor</w>
+    <w ref="1.2.127" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.127" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="1.2.127" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.127" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
+    <w ana="#acte #futuo" ref="1.2.127" lemma="futuo" pos="VER" msd="Numb=Sing|Deg=Pos|Person=1">futuo</w>
+    <w ref="1.2.127" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.127" lemma="uir" pos="NOMcom" msd="Case=Nom|Numb=Sing">vir</w>
+    <w ref="1.2.127" lemma="rus" pos="NOMcom" msd="Case=Abl|Numb=Sing">rure</w>
+    <w ref="1.2.127" lemma="recurro" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">recurrat</w>
+    <w ref="1.2.127" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.128" lemma="ianua" pos="NOMcom" msd="Case=Nom|Numb=Sing">ianua</w>
+    <w ref="1.2.128" lemma="frango" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">frangatur</w>
+    <w ref="1.2.128" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.128" lemma="latro2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">latret</w>
+    <w ref="1.2.128" lemma="canis" pos="NOMcom" msd="Case=Nom|Numb=Sing">canis</w>
+    <w ref="1.2.128" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.128" lemma="undique" pos="ADV" msd="Deg=Pos">undique</w>
+    <w ref="1.2.128" lemma="magnus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">magno</w>
+    <w ref="1.2.129" lemma="pello" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">pulsa</w>
+    <w ref="1.2.129" lemma="domus" pos="NOMcom" msd="Case=Nom|Numb=Sing">domus</w>
+    <w ref="1.2.129" lemma="strepitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">strepitu</w>
+    <w ref="1.2.129" lemma="resono1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">resonet</w>
+    <w ref="1.2.129" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.129" lemma="uepallidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">vepallida</w>
+    <w ref="1.2.129" lemma="lectus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">lecto</w>
+    <w ref="1.2.130" lemma="desilio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">desiliat</w>
+    <w ref="1.2.130" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>
+    <w ref="1.2.130" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.130" lemma="miser" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">miseram</w>
+    <w ref="1.2.130" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="1.2.130" lemma="conscius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">conscia</w>
+    <w ref="1.2.130" lemma="clamo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">clamet</w>
+    <w ref="1.2.130" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.131" lemma="crus" pos="NOMcom" msd="Case=Abl|Numb=Plur">cruribus</w>
+    <w ref="1.2.131" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">haec</w>
+  </quote>
+</div>

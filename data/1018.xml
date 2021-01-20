@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:118" ana="#acte #futuo">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>3.96.1-3.96.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:3.96.1-3.96.2" type="line">
+    <w ref="3.96.1" lemma="lingus" pos="NOMcom" msd="Numb=Plur|Person=2">Lingis</w>
+    <w ref="3.96.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.96.1" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ana="#acte #futuo" ref="3.96.1" lemma="futuo" pos="VER" msd="Case=Dat|Numb=Plur|Deg=Pos|Mood=Ind|Tense=Pres|Voice=Act">futuis</w>
+    <w ref="3.96.1" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">meam</w>
+    <w ref="3.96.1" lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Sing">puellam</w>
+    <w ref="3.96.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="3.96.2" lemma="garrio" pos="NOMcom" msd="Case=Abl|Numb=Plur|Person=2">garris</w>
+    <w ref="3.96.2" lemma="quasi1" pos="ADVrel" msd="MORPH=empty">quasi</w>
+    <w ref="3.96.2" lemma="moechus" pos="NOMcom" msd="Case=Nom|Numb=Sing">moechus</w>
+    <w ref="3.96.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.96.2" lemma="fututor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fututor</w>
+    <w ref="3.96.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

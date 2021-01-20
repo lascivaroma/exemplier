@@ -1,0 +1,40 @@
+<div type="fragment" corresp="adams:116" ana="#euphemism #culus #anus">
+  <bibl><author>Juvenal</author>, <title>Satires</title>, <biblScope>9.40-9.44</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:9.40-9.44" type="line">
+    <w ref="9.40" lemma="pono" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">ponatur</w>
+    <w ref="9.40" lemma="ealculus" pos="NOMpro" msd="Case=Nom|Numb=Sing">ealculus</w>
+    <w ref="9.40" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.40" lemma="assum1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">adsint</w>
+    <w ref="9.41" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="9.41" lemma="tabula" pos="NOMcom" msd="Case=Abl|Numb=Sing">tabula</w>
+    <w ref="9.41" lemma="puer" pos="NOMcom" msd="Case=Nom|Numb=Plur">pueri</w>
+    <w ref="9.41" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="9.41" lemma="numero1" pos="VER" msd="Mood=Imp|Tense=Pres|Voice=Act">numera</w>
+    <w ref="9.41" lemma="sestertium" pos="NOMcom" msd="Case=Acc|Numb=Plur">sestertia</w>
+    <w ref="9.41" lemma="quinque" pos="ADJcar" msd="Case=Ind">quinque</w>
+    <w ref="9.42" lemma="omnis" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">omnibus</w>
+    <w ref="9.42" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="9.42" lemma="res" pos="NOMcom" msd="Case=Abl|Numb=Plur">rebus</w>
+    <w ref="9.42" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="9.42" lemma="numero1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">numerentur</w>
+    <w ref="9.42" lemma="deinde" pos="ADV" msd="Deg=Pos">deinde</w>
+    <w ref="9.42" lemma="labor1" pos="NOMcom" msd="Case=Acc|Numb=Plur">labores</w>
+    <w ref="9.42" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.43" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="9.43" lemma="facilis" pos="ADJqua" msd="Case=Nom|Gend=Neut|Deg=Pos">facile</w>
+    <w ref="9.43" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.43" lemma="pronus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">pronum</w>
+    <w ref="9.43" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="9.43" lemma="ago" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">agere</w>
+    <w ref="9.43" lemma="intra2" pos="PRE" msd="MORPH=empty">intra</w>
+    <w ana="#euphemism #culus #anus" ref="9.43" lemma="uiscus2" pos="NOMcom" msd="Case=Acc|Numb=Plur">viscera</w>
+    <w ref="9.43" lemma="penis" pos="NOMcom" msd="Case=Acc|Numb=Sing">penem</w>
+    <w ref="9.44" lemma="legitimus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">legitimum</w>
+    <w ref="9.44" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="9.44" lemma="illic2" pos="ADV" msd="Deg=Pos">illic</w>
+    <w ref="9.44" lemma="hesternus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Fem|Deg=Pos">hesternae</w>
+    <w ref="9.44" lemma="occurro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">occurrere</w>
+    <w ref="9.44" lemma="cena" pos="NOMcom" msd="Case=Dat|Numb=Sing">cenae</w>
+    <w ref="9.44" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

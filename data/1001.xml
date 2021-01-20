@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:115" ana="#metaphore #culus #anus">
+  <bibl><author>Plautus, Titus Maccius</author>, <title>Aulularia</title>, <biblScope>304-305</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi003.perseus-lat2:304-305" type="line">
+    <w ref="304" lemma="etiam" pos="ADV" msd="Deg=Pos">Etiamne</w>
+    <w ref="304" lemma="ne2" pos="ADV" msd="MORPH=empty">{Etiamne}</w>
+    <w ref="304" lemma="obturo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">obturat</w>
+    <w ref="304" lemma="inferus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp">inferiorem</w>
+    <w ana="#metaphore #culus #anus" ref="304" lemma="guttur" pos="NOMcom" msd="Case=Acc|Numb=Sing">gutturem</w>
+    <w ref="304" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="305" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="305" lemma="quis2" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="305" lemma="anima" pos="NOMcom" msd="Case=Gen|Numb=Sing">animai</w>
+    <w ref="305" lemma="forte" pos="ADV" msd="Deg=Pos">forte</w>
+    <w ref="305" lemma="amitto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">amittat</w>
+    <w ref="305" lemma="dormio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">dormiens</w>
+    <w ref="305" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

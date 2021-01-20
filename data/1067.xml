@@ -1,0 +1,34 @@
+<div type="fragment" corresp="adams:119" ana="#acte #futuo">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblScope>37.1-37.5</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:37.1-37.5" type="line">
+    <w ref="37.1" lemma="salax" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">Salax</w>
+    <w ref="37.1" lemma="taberna" pos="NOMcom" msd="Case=Nom|Numb=Sing">taberna</w>
+    <w ref="37.1" lemma="uos" pos="PROper" msd="Case=Acc|Numb=Plur">vosque</w>
+    <w ref="37.1" lemma="que" pos="CON" msd="MORPH=empty">{vosque}</w>
+    <w ref="37.1" lemma="contubernalis" pos="NOMcom" msd="Case=Nom|Numb=Plur">contubernales</w>
+    <w ref="37.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="37.2" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="37.2" lemma="pileatus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">pilleatis</w>
+    <w ref="37.2" lemma="nonus" pos="ADJord" msd="Case=Abl|Numb=Plur|Gend=Neut|Deg=Pos">nona</w>
+    <w ref="37.2" lemma="frater" pos="NOMcom" msd="Case=Abl|Numb=Plur">fratribus</w>
+    <w ref="37.2" lemma="pila?" pos="NOMcom" msd="Case=Acc|Numb=Plur">pila</w>
+    <w ref="37.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="37.3" lemma="solus" pos="NOMcom" msd="Case=Gen|Numb=Plur">solis</w>
+    <w ref="37.3" lemma="puto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">putatis</w>
+    <w ref="37.3" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="37.3" lemma="mentula" pos="NOMcom" msd="Case=Acc|Numb=Plur">mentulas</w>
+    <w ref="37.3" lemma="uos" pos="PROper" msd="Case=Dat|Numb=Plur">vobis</w>
+    <w ref="37.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="37.4" lemma="solus" pos="NOMcom" msd="Case=Gen|Numb=Plur">solis</w>
+    <w ref="37.4" lemma="licet1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">licere</w>
+    <w ref="37.4" lemma="quisquis1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quidquid</w>
+    <w ref="37.4" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="37.4" lemma="puella" pos="NOMcom" msd="Case=Gen|Numb=Plur">puellarum</w>
+    <w ana="#acte #futuo" ref="37.5" lemma="confutuo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">confutuere</w>
+    <w ref="37.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="37.5" lemma="puto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">putare</w>
+    <w ref="37.5" lemma="ceteri" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc">ceteros</w>
+    <w ref="37.5" lemma="hircus" pos="NOMcom" msd="Case=Acc|Numb=Plur">hircos</w>
+    <w ref="37.5" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

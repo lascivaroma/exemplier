@@ -1,0 +1,47 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblScope>I.6-I.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:I.6-I.6" type="part">
+    <w ref="I.6" lemma="odor" pos="NOMcom" msd="Case=Gen|Numb=Sing">odoris</w>
+    <w ref="I.6" lemma="teter" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">taetri</w>
+    <w ref="I.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.6" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="I.6" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="I.6" lemma="fumosus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">fumosi</w>
+    <w ref="I.6" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="I.6" lemma="bromosus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=MascNeut|Deg=Pos">bromosi</w>
+    <w ref="I.6" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="I.6" lemma="piscosus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">piscosi</w>
+    <w ref="I.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.6" lemma="item" pos="ADV" msd="Deg=Pos">item</w>
+    <w ref="I.6" lemma="intestinus" pos="NOMcom" msd="Case=Gen|Numb=Plur">intestinorum</w>
+    <w ref="I.6" lemma="tormentum" pos="NOMcom" msd="Case=Acc|Numb=Plur">tormenta</w>
+    <w ref="I.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.6" lemma="uomitus" pos="NOMcom" msd="Case=Nom|Numb=Sing">uomitus</w>
+    <w ref="I.6" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="I.6" lemma="inanis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">inanis</w>
+    <w ref="I.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.6" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="I.6" lemma="fellosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">fellosus</w>
+    <w ref="I.6" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="I.6" lemma="ferrugineus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">ferrugineus</w>
+    <w ref="I.6" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="I.6" lemma="niger" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">niger</w>
+    <w ref="I.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="I.6" lemma="idem" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eiusdem</w>
+    <w ref="I.6" lemma="qualitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">qualitatis</w>
+    <w ref="I.6" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ana="#anus #culus" ref="I.6" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ref="I.6" lemma="egestio" pos="NOMcom" msd="Case=Nom|Numb=Sing">egestio</w>
+    <w ref="I.6" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="I.6" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="I.6" lemma="lenimentum" pos="NOMcom" msd="Case=Abl|Numb=Sing">lenimento</w>
+    <w ref="I.6" lemma="uero4" pos="CONcoo" msd="MORPH=empty">uero</w>
+    <w ref="I.6" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=MascNeut">eorum</w>
+    <w ref="I.6" lemma="mitigatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">mitigatio</w>
+    <w ref="I.6" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="I.6" lemma="multi" pos="ADJqua" msd="Case=Gen|Numb=Plur|Deg=Pos">multorum</w>
+    <w ref="I.6" lemma="depurgatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">depurgatio</w>
+    <w ref="I.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

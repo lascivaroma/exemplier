@@ -1,0 +1,41 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblScope>IV.7-IV.7</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:IV.7-IV.7" type="part">
+    <w ref="IV.7" lemma="circumtego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">circumtegit</w>
+    <w ref="IV.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="IV.7" lemma="appello1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">appellata</w>
+    <w ref="IV.7" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="IV.7" lemma="peritoneus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">peritoneos</w>
+    <w ref="IV.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="IV.7" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quae</w>
+    <w ref="IV.7" lemma="perseuero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">perseuerans</w>
+    <w ref="IV.7" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">faciat</w>
+    <w ref="IV.7" lemma="inflatio" pos="NOMcom" msd="Case=Gen|Numb=Sing">inflationis</w>
+    <w ref="IV.7" lemma="causa" pos="NOMcom" msd="Case=Nom|Numb=Sing">causa</w>
+    <w ref="IV.7" lemma="reson" pos="NOMcom" msd="Case=Gen|Numb=Plur">resonum</w>
+    <w ref="IV.7" lemma="tympanum" pos="NOMcom" msd="Case=Gen|Numb=Sing">tympani</w>
+    <w ref="IV.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="IV.7" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="IV.7" lemma="palma" pos="NOMcom" msd="Case=Abl|Numb=Sing">palma</w>
+    <w ref="IV.7" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Perf|Voice=Act|Person=3">fuerint</w>
+    <w ref="IV.7" lemma="locus" pos="NOMcom" msd="Case=Acc|Numb=Plur">loca</w>
+    <w ref="IV.7" lemma="pulso" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">pulsata</w>
+    <w ref="IV.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="IV.7" lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>
+    <w ref="IV.7" lemma="exsto" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act">exstantia</w>
+    <w ref="IV.7" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="IV.7" lemma="rugitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">rugitu</w>
+    <w ref="IV.7" lemma="multus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Sup">plurimo</w>
+    <w ref="IV.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="IV.7" lemma="dimissio" pos="NOMcom" msd="Case=Gen|Numb=Sing">dimissionis</w>
+    <w ref="IV.7" lemma="tempus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">tempore</w>
+    <w ref="IV.7" lemma="uentus" pos="NOMcom" msd="Case=Gen|Numb=Sing">uenti</w>
+    <w ref="IV.7" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ana="#anus #culus" ref="IV.7" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ref="IV.7" lemma="egestio" pos="NOMcom" msd="Case=Nom|Numb=Sing">egestio</w>
+    <w ref="IV.7" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="IV.7" lemma="magnus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">magno</w>
+    <w ref="IV.7" lemma="sonitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sonitu</w>
+    <w ref="IV.7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

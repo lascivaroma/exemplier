@@ -1,0 +1,34 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblScope>V.10-V.10</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:V.10-V.10" type="part">
+    <w ref="V.10" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Neut">haec</w>
+    <w ref="V.10" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="V.10" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="V.10" lemma="credo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">creduntur</w>
+    <w ref="V.10" lemma="transitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">transitum</w>
+    <w ref="V.10" lemma="stercus" pos="NOMcom" msd="Case=Gen|Numb=Plur">stercorum</w>
+    <w ref="V.10" lemma="sustineo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">sustinere</w>
+    <w ref="V.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.10" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="V.10" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="V.10" lemma="primus" pos="ADJord" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Sup">prima</w>
+    <w ref="V.10" lemma="parum2" pos="ADV" msd="Deg=Comp">minus</w>
+    <w ref="V.10" lemma="tutus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">tuta</w>
+    <w ref="V.10" lemma="iudico" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">iudicatur</w>
+    <w ref="V.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.10" lemma="siquidem" pos="CONsub" msd="MORPH=empty">siquidem</w>
+    <w ref="V.10" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possit</w>
+    <w ref="V.10" lemma="coaceruo" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">coaceruatae</w>
+    <w ref="V.10" lemma="effusio" pos="NOMcom" msd="Case=Gen|Numb=Sing">effusionis</w>
+    <w ref="V.10" lemma="causa" pos="NOMcom" msd="Case=Abl|Numb=Sing">causa</w>
+    <w ref="V.10" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ana="#anus #culus" ref="V.10" lemma="podex" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ref="V.10" lemma="aegroto" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">aegrotanti</w>
+    <w ref="V.10" lemma="defectio" pos="NOMcom" msd="Case=Acc|Numb=Sing">defectionem</w>
+    <w ref="V.10" lemma="facio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">facere</w>
+    <w ref="V.10" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="V.10" lemma="propterea" pos="ADV" msd="Deg=Pos">propterea</w>
+    <w ref="V.10" lemma="mors" pos="NOMcom" msd="Case=Acc|Numb=Sing">mortem</w>
+    <w ref="V.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

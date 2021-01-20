@@ -1,0 +1,51 @@
+<div type="fragment" corresp="adams:114" ana="#metaphore #anneau #culus #anus">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>7.30-7.30</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat5:7.30-7.30" type="chapter">
+    <w ref="7.30" lemma="tum" pos="ADV" msd="Deg=Pos">Tum</w>
+    <w ref="7.30" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="7.30" lemma="capitulum" pos="NOMcom" msd="Case=Nom|Numb=Sing">capitulum</w>
+    <w ref="7.30" lemma="exiguus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">exiguum</w>
+    <w ref="7.30" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.30" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.30" lemma="basis" pos="NOMcom" msd="Case=Acc|Numb=Sing">basimque</w>
+    <w ref="7.30" lemma="que" pos="CON" msd="MORPH=empty">{basimque}</w>
+    <w ref="7.30" lemma="tenuis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">tenuem</w>
+    <w ref="7.30" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habet</w>
+    <w ref="7.30" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.30" lemma="astringo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">adstringendum</w>
+    <w ref="7.30" lemma="linum" pos="NOMcom" msd="Case=Abl|Numb=Sing">lino</w>
+    <w ref="7.30" lemma="paulum2" pos="ADV" msd="Case=Nom|Deg=Pos">paulum</w>
+    <w ref="7.30" lemma="supra1" pos="ADV" msd="Deg=Pos">supra</w>
+    <w ref="7.30" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.30" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.30" lemma="quam1" pos="ADVrel" msd="Numb=Sing|Gend=Fem">quam</w>
+    <w ref="7.30" lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
+    <w ref="7.30" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ana="#metaphore #anneau #culus #anus" ref="7.30" lemma="anus?" pos="NOMcom" msd="Case=Abl|Numb=Sing">ano</w>
+    <w ref="7.30" lemma="committo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">committitur</w>
+    <w ref="7.30" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="7.30" lemma="impono" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">imponenda</w>
+    <w ref="7.30" lemma="spongia" pos="NOMcom" msd="Case=Nom|Numb=Sing">spongia</w>
+    <w ref="7.30" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="7.30" lemma="aqua" pos="NOMcom" msd="Case=Abl|Numb=Sing">aqua</w>
+    <w ref="7.30" lemma="calidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">calida</w>
+    <w ref="7.30" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.30" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.30" lemma="donedon" pos="NOMcom" msd="MORPH=empty">donedonec</w>
+    <w ref="7.30" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="7.30" lemma="liueo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">liveat</w>
+    <w ref="7.30" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="7.30" lemma="deinde" pos="ADV" msd="Deg=Pos">deinde</w>
+    <w ref="7.30" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="7.30" lemma="unguis" pos="NOMcom" msd="Case=Abl|Numb=Sing">ungue</w>
+    <w ref="7.30" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.30" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="7.30" lemma="scalpellum" pos="NOMcom" msd="Case=Abl|Numb=Sing">scalpello</w>
+    <w ref="7.30" lemma="supra2" pos="PRE" msd="MORPH=empty">supra</w>
+    <w ref="7.30" lemma="nodus" pos="NOMcom" msd="Case=Acc|Numb=Sing">nodum</w>
+    <w ref="7.30" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="7.30" lemma="exulcero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">exulcerandum</w>
+    <w ref="7.30" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.30" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,66 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblScope>V.10-V.10</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:V.10-V.10" type="part">
+    <w ref="V.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.10" lemma="aliquis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Fem">aliquae</w>
+    <w ref="V.10" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="V.10" lemma="pulmo" pos="NOMcom" msd="Case=Acc|Numb=Sing">pulmonem</w>
+    <w ref="V.10" lemma="siue2" pos="CONsub" msd="MORPH=empty">siue</w>
+    <w ref="V.10" lemma="arteria" pos="NOMcom" msd="Case=Acc|Numb=Sing">arteriam</w>
+    <w ref="V.10" lemma="magnus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp">maiorem</w>
+    <w ref="V.10" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="V.10" lemma="ruma" pos="NOMcom" msd="Case=Acc|Numb=Sing">rumam</w>
+    <w ref="V.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.10" lemma="quam1" pos="ADVrel" msd="Case=Acc|Gend=Fem">quam</w>
+    <w ref="V.10" lemma="Graeci" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">Graeci</w>
+    <w ref="V.10" lemma="broncho" pos="NOMcom" msd="Case=Nom|Numb=Sing">bronchon</w>
+    <w ref="V.10" lemma="appello1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">appellant</w>
+    <w ref="V.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.10" lemma="quo1" pos="PROrel" msd="Case=Abl">quo</w>
+    <w ref="V.10" lemma="liquidus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">liquida</w>
+    <w ref="V.10" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="V.10" lemma="purulentus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">purulenta</w>
+    <w ref="V.10" lemma="etussio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Dep|Person=3">etussiantur</w>
+    <w ref="V.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.10" lemma="aliquis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Fem">aliquae</w>
+    <w ref="V.10" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="V.10" lemma="intestinum" pos="NOMcom" msd="Case=Acc|Numb=Plur">intestina</w>
+    <w ref="V.10" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="V.10" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=MascNeut">eorum</w>
+    <w ref="V.10" lemma="spatium" pos="NOMcom" msd="Case=Acc|Numb=Plur">spatia</w>
+    <w ref="V.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.10" lemma="quo1" pos="ADVrel" msd="Case=Abl">quo</w>
+    <w ref="V.10" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ana="#anus #culus" ref="V.10" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ref="V.10" lemma="liquidus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">liquida</w>
+    <w ref="V.10" lemma="excludo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">excludantur</w>
+    <w ref="V.10" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="V.10" lemma="purulentus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">purulenta</w>
+    <w ref="V.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.10" lemma="aliquis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Fem">aliquae</w>
+    <w ref="V.10" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="V.10" lemma="matrix" pos="NOMcom" msd="Case=Acc|Numb=Sing">matricem</w>
+    <w ref="V.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.10" lemma="qui2" pos="ADVrel" msd="Case=Abl|Gend=MascNeut">quo</w>
+    <w ref="V.10" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="V.10" lemma="muliebris" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">muliebrem</w>
+    <w ref="V.10" lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Sing">sinum</w>
+    <w ref="V.10" lemma="profundo2" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">profundantur</w>
+    <w ref="V.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.10" lemma="aliquis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Fem">aliquae</w>
+    <w ref="V.10" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="V.10" lemma="renes" pos="NOMcom" msd="Case=Acc|Numb=Plur">renes</w>
+    <w ref="V.10" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="V.10" lemma="mictualis" pos="NOMcom" msd="Case=Acc|Numb=Plur">mictuales</w>
+    <w ref="V.10" lemma="uia" pos="NOMcom" msd="Case=Acc|Numb=Plur">uias</w>
+    <w ref="V.10" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="V.10" lemma="uesica" pos="NOMcom" msd="Case=Acc|Numb=Sing">uesicam</w>
+    <w ref="V.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.10" lemma="qui1" pos="PROrel" msd="Case=Abl">quo</w>
+    <w ref="V.10" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="V.10" lemma="mictus" pos="NOMcom" msd="Case=Acc|Numb=Sing">mictum</w>
+    <w ref="V.10" lemma="fero" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">ferantur</w>
+    <w ref="V.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.10" lemma="aliquis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Fem">aliquae</w>
+  </quote>
+</div>

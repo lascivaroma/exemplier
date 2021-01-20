@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:" ana="#acte #fellatio #acte">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>3.82.32-3.82.33</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:3.82.32-3.82.33" type="line">
+    <w ref="3.82.32" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Masc">Hos</w>
+    <w ref="3.82.32" lemma="malchio" pos="NOMcom" msd="Case=Gen|Numb=Sing|Deg=Pos">Malchionis</w>
+    <w ref="3.82.32" lemma="patior" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=1">patimur</w>
+    <w ref="3.82.32" lemma="improbus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">inprobi</w>
+    <w ref="3.82.32" lemma="fastus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">fastus</w>
+    <w ref="3.82.32" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.82.33" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ref="3.82.33" lemma="uindico" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">vindicari</w>
+    <w ref="3.82.33" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.82.33" lemma="rufes" pos="NOMcom" msd="Case=Abl|Numb=Sing">Rufe</w>
+    <w ref="3.82.33" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.82.33" lemma="possum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">possumus</w>
+    <w ref="3.82.33" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ana="#acte #fellatio #acte" ref="3.82.33" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fellat</w>
+    <w ref="3.82.33" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

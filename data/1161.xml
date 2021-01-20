@@ -1,0 +1,51 @@
+<div type="fragment" corresp="adams:136" ana="#female #acte #passive">
+  <bibl><author>Juvenal</author>, <title>Satires</title>, <biblScope>6.320-6.326</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.320-6.326" type="line">
+    <w ref="6.320" lemma="leno1" pos="NOMcom" msd="Case=Gen|Numb=Plur">lenonum</w>
+    <w ref="6.320" lemma="ancilla" pos="NOMcom" msd="Case=Acc|Numb=Plur">ancillas</w>
+    <w ref="6.320" lemma="pono" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">posita</w>
+    <w ref="6.320" lemma="saufeia" pos="ADJqua" msd="Case=Acc|Numb=Sing">Saufeia</w>
+    <w ref="6.320" lemma="corona" pos="NOMcom" msd="Case=Abl|Numb=Sing">corona</w>
+    <w ref="6.321" lemma="prouoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">provocat</w>
+    <w ref="6.321" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="6.321" lemma="tollo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tollit</w>
+    <w ref="6.321" lemma="pendeo" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">pendentis</w>
+    <w ref="6.321" lemma="praemium" pos="NOMcom" msd="Case=Acc|Numb=Plur">praemia</w>
+    <w ref="6.321" lemma="coxa" pos="NOMcom" msd="Case=Gen|Numb=Sing">coxae</w>
+    <w ref="6.321" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="6.322" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ref="6.322" lemma="medullina" pos="NOMcom" msd="Case=Gen|Numb=Sing">Medullinae</w>
+    <w ref="6.322" lemma="fluctus" pos="NOMcom" msd="Case=Acc|Numb=Sing">fluctum</w>
+    <w ana="#female #acte #passive" ref="6.322" lemma="crisso" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">crisantis</w>
+    <w ref="6.322" lemma="adoro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">adorat</w>
+    <w ref="6.322" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="6.323" lemma="palma" pos="NOMcom" msd="Case=Nom|Numb=Sing">palma</w>
+    <w ref="6.323" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="6.323" lemma="domina" pos="NOMcom" msd="Case=Acc|Numb=Plur">dominas</w>
+    <w ref="6.323" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.323" lemma="uirtus" pos="NOMcom" msd="Case=Nom|Numb=Sing">virtus</w>
+    <w ref="6.323" lemma="natales" pos="NOMcom" msd="Case=Dat|Numb=Plur">natalibus</w>
+    <w ref="6.323" lemma="aequus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">aequa</w>
+    <w ref="6.323" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.324" lemma="nihil" pos="PROind" msd="Case=Ind">nil</w>
+    <w ref="6.324" lemma="ibi" pos="ADV" msd="Deg=Pos">ibi</w>
+    <w ref="6.324" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="6.324" lemma="ludus" pos="NOMcom" msd="Case=Acc|Numb=Sing">ludum</w>
+    <w ref="6.324" lemma="simulo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">simulabitur</w>
+    <w ref="6.324" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.324" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Neut">omnia</w>
+    <w ref="6.324" lemma="fio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3">fient</w>
+    <w ref="6.325" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="6.325" lemma="uerum?" pos="NOMcom" msd="Case=Acc|Numb=Sing">verum</w>
+    <w ref="6.325" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.325" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Plur|Gend=Com">quibus</w>
+    <w ref="6.325" lemma="incendo" pos="VER" msd="Case=Gen|Numb=Sing|Mood=Inf|Tense=Pres|Voice=Pass">incendi</w>
+    <w ref="6.325" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="6.325" lemma="frigidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">frigidus</w>
+    <w ref="6.325" lemma="aeuum" pos="NOMcom" msd="Case=Abl|Numb=Sing">aevo</w>
+    <w ref="6.326" lemma="laemedontiades" pos="NOMcom" msd="Case=Nom|Numb=Plur">Laomedontiades</w>
+    <w ref="6.326" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.326" lemma="nestor" pos="NOMcom" msd="Case=Gen|Numb=Sing">Nestoris</w>
+    <w ref="6.326" lemma="hirnea" pos="NOMcom" msd="Case=Nom|Numb=Sing">hirnea</w>
+  </quote>
+</div>

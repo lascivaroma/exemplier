@@ -1,0 +1,12 @@
+<div type="fragment" corresp="adams:" ana="#acte #fellatio #acte #actor">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>14.74.1-14.74.1</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:14.74.1-14.74.1" type="line">
+    <w ref="14.74.1" lemma="coruus" pos="NOMcom" msd="Case=Voc|Numb=Sing">Corve</w>
+    <w ref="14.74.1" lemma="salutator" pos="NOMcom" msd="Case=Nom|Numb=Sing">salutator</w>
+    <w ref="14.74.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.74.1" lemma="quare2" pos="ADVint" msd="MORPH=empty">quare</w>
+    <w ana="#acte #fellatio #acte #actor" ref="14.74.1" lemma="fellator" pos="NOMcom" msd="Case=Nom|Numb=Sing">fellator</w>
+    <w ref="14.74.1" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=2">haberis</w>
+    <w ref="14.74.1" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

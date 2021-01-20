@@ -1,0 +1,32 @@
+<div type="fragment" corresp="adams:136" ana="#acte #fellatio #acte">
+  <bibl><author>Ausonius, Decimus Magnus</author>, <title>Epigrammaton Liber</title>, <biblScope>77.10-78.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:77.10-78.4" type="line">
+    <w ana="#acte #fellatio #acte" ref="78.1" lemma="lambo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">LAMBERE</w>
+    <w ref="78.1" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="78.1" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">vellet</w>
+    <w ref="78.1" lemma="medius" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=MascNeut|Deg=Pos">mediorum</w>
+    <w ref="78.1" lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
+    <w ref="78.1" lemma="uir" pos="NOMcom" msd="Case=Gen|Numb=Plur">virorum</w>
+    <w ref="78.2" lemma="castor" pos="NOMcom" msd="Case=Nom|Numb=Sing">Castor</w>
+    <w ref="78.2" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="78.2" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">posset</w>
+    <w ref="78.2" lemma="uulgus" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulgus</w>
+    <w ref="78.2" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
+    <w ref="78.2" lemma="domus" pos="NOMcom" msd="Case=Loc|Numb=Sing">domi</w>
+    <w ref="78.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="78.3" lemma="reperio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">repperit</w>
+    <w ref="78.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="78.3" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="78.3" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascNeut">nullum</w>
+    <w ref="78.3" lemma="fellator" pos="NOMcom" msd="Case=Nom|Numb=Sing">fellator</w>
+    <w ref="78.3" lemma="perdo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">perderet</w>
+    <w ref="78.3" lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Sing">inguen</w>
+    <w ref="78.3" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="78.4" lemma="uxor" pos="NOMcom" msd="Case=Gen|Numb=Sing">uxoris</w>
+    <w ref="78.4" lemma="coepio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">coepit</w>
+    <w ref="78.4" lemma="lingo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">lingere</w>
+    <w ref="78.4" lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
+    <w ref="78.4" lemma="suus" pos="PROpos.ref" msd="Case=Gen|Numb=Sing|Gend=Fem">suae</w>
+    <w ref="78.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

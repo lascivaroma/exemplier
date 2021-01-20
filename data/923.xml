@@ -1,0 +1,26 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Celerum passionum libri III</title>, <biblScope>2.105-2.105</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:2.105-2.105" type="part">
+    <w ref="2.105" lemma="quapropter1" pos="ADVrel" msd="MORPH=empty">quapropter</w>
+    <w ref="2.105" lemma="perspicio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">perspiciendum</w>
+    <w ref="2.105" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.105" lemma="utrum" pos="ADVint" msd="MORPH=empty">utrum</w>
+    <w ref="2.105" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+    <w ref="2.105" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="2.105" lemma="dimissio" pos="NOMcom" msd="Case=Acc|Numb=Sing">dimissionem</w>
+    <w ref="2.105" lemma="accessio" pos="NOMcom" msd="Case=Gen|Numb=Sing">accessionis</w>
+    <w ref="2.105" lemma="fluor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fluor</w>
+    <w ref="2.105" lemma="uenter" pos="NOMcom" msd="Case=Gen|Numb=Sing">uentris</w>
+    <w ref="2.105" lemma="perseuero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">perseueret</w>
+    <w ref="2.105" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="2.105" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="2.105" lemma="meatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">meatio</w>
+    <w ref="2.105" lemma="mordicatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">mordicationem</w>
+    <w ref="2.105" lemma="quidam" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">quandam</w>
+    <w ref="2.105" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">faciat</w>
+    <w ana="#anus #culus" ref="2.105" lemma="podicus" pos="NOMcom" msd="Case=Gen|Numb=Sing">podici</w>
+    <w ref="2.105" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="2.105" lemma="intestinus" pos="NOMcom" msd="Case=Dat|Numb=Plur">intestinis</w>
+    <w ref="2.105" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

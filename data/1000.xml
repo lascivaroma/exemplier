@@ -1,0 +1,43 @@
+<div type="fragment" corresp="adams:114" ana="#metaphore #anneau #culus #anus">
+  <bibl><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblScope>23.9-23.9</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:23.9-23.9" type="chapter">
+    <w ref="23.9" lemma="folium" pos="NOMcom" msd="Case=Gen|Numb=Plur">foliorum</w>
+    <w ref="23.9" lemma="areo" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">arentium</w>
+    <w ref="23.9" lemma="farina" pos="NOMcom" msd="Case=Nom|Numb=Sing">farina</w>
+    <w ref="23.9" lemma="sudor" pos="NOMcom" msd="Case=Acc|Numb=Plur">sudores</w>
+    <w ref="23.9" lemma="cohibeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cohibet</w>
+    <w ref="23.9" lemma="inspergo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">inspersa</w>
+    <w ref="23.9" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="23.9" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="23.9" lemma="febris" pos="NOMcom" msd="Case=Abl|Numb=Sing">febri</w>
+    <w ref="23.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23.9" lemma="utilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">utilis</w>
+    <w ref="23.9" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="23.9" lemma="coeliacus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">coeliacis</w>
+    <w ref="23.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23.9" lemma="procido1" pos="VER" msd="Case=Gen|Numb=Plur">procidentiae</w>
+    <w ref="23.9" lemma="uulua" pos="NOMcom" msd="Case=Gen|Numb=Plur">vulvarum</w>
+    <w ref="23.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#metaphore #anneau #culus #anus" ref="23.9" lemma="sedes" pos="NOMcom" msd="Case=Gen|Numb=Plur">sedis</w>
+    <w ref="23.9" lemma="uitium" pos="NOMcom" msd="Case=Abl|Numb=Plur">vitiis</w>
+    <w ref="23.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23.9" lemma="ulcus" pos="NOMcom" msd="Case=Abl|Numb=Plur">ulceribus</w>
+    <w ref="23.9" lemma="mano" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">manantibus</w>
+    <w ref="23.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23.9" lemma="ignis" pos="NOMcom" msd="Case=Abl|Numb=Sing">igni</w>
+    <w ref="23.9" lemma="sacer" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">sacro</w>
+    <w ref="23.9" lemma="foueo" pos="NOMcom" msd="Case=Abl|Numb=Sing">fotu</w>
+    <w ref="23.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23.9" lemma="capillus" pos="NOMcom" msd="Case=Abl|Numb=Plur">capillis</w>
+    <w ref="23.9" lemma="fluo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">fluentibus</w>
+    <w ref="23.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23.9" lemma="furfur" pos="NOMcom" msd="Case=Abl|Numb=Plur">furfuribus</w>
+    <w ref="23.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23.9" lemma="item" pos="ADV" msd="Deg=Pos">item</w>
+    <w ref="23.9" lemma="alius" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">aliis</w>
+    <w ref="23.9" lemma="eruptio" pos="NOMcom" msd="Case=Abl|Numb=Plur">eruptionibus</w>
+    <w ref="23.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23.9" lemma="amburo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">ambustis</w>
+    <w ref="23.9" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

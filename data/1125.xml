@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:125" ana="#acte #fellatio #irrumo">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>35.1-35.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:35.1-35.2" type="line">
+    <w ref="35.1" lemma="paedico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=2">Pedicabere</w>
+    <w ref="35.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="35.1" lemma="fur" pos="NOMcom" msd="Case=Nom|Numb=Sing">fur</w>
+    <w ref="35.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="35.1" lemma="semel" pos="ADJadv.mul" msd="MORPH=empty">semel</w>
+    <w ref="35.1" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="35.1" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="35.1" lemma="idem" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=MascNeut">idem</w>
+    <w ref="35.2" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="35.2" lemma="praedor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">praedatus</w>
+    <w ref="35.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">eris</w>
+    <w ref="35.2" lemma="bis" pos="ADJadv.mul" msd="MORPH=empty">bis</w>
+    <w ref="35.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #fellatio #irrumo" ref="35.2" lemma="irrumo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">irrumabo</w>
+    <w ref="35.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

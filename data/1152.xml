@@ -1,0 +1,31 @@
+<div type="fragment" corresp="adams:" ana="#acte #fellatio #acte #actor">
+  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>I.123-I.123</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.123-I.123" type="part">
+    <w ref="I.123" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="I.123" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="I.123" lemma="grauis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">grave</w>
+    <w ref="I.123" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="I.123" lemma="facile" pos="ADV" msd="Deg=Pos">facile</w>
+    <w ana="#acte #fellatio #acte #actor" ref="I.123" lemma="fellatus" pos="NOMcom" msd="Case=Abl|Numb=Plur">fellatibus</w>
+    <w ref="I.123" lemma="exitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">exitum</w>
+    <w ref="I.123" lemma="prebens" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">prebens</w>
+    <w ref="I.123" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.123" lemma="grassitudo" pos="NOMcom" msd="Case=Abl|Numb=Sing">grassitudine</w>
+    <w ref="I.123" lemma="sui1" pos="PROref" msd="Case=Gen|Numb=Sing">sui</w>
+    <w ref="I.123" lemma="tardo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">tardatum</w>
+    <w ref="I.123" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.123" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="I.123" lemma="propterea" pos="ADV" msd="Deg=Pos">propterea</w>
+    <w ref="I.123" lemma="mox" pos="ADV" msd="Deg=Pos">mox</w>
+    <w ref="I.123" lemma="natus?" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com">natis</w>
+    <w ref="I.123" lemma="infans1" pos="NOMcom" msd="Case=Dat|Numb=Plur">infantibus</w>
+    <w ref="I.123" lemma="teneritudo" pos="NOMcom" msd="Case=Abl|Numb=Sing">teneritudine</w>
+    <w ref="I.123" lemma="gingiua" pos="NOMcom" msd="Case=Gen|Numb=Plur">gingivarum</w>
+    <w ref="I.123" lemma="obsto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">obstante</w>
+    <w ref="I.123" lemma="parum2" pos="ADV" msd="Deg=Sup">minime</w>
+    <w ref="I.123" lemma="rapio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">rapi</w>
+    <w ref="I.123" lemma="possum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">posse</w>
+    <w ref="I.123" lemma="perspicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">perspicitur</w>
+    <w ref="I.123" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

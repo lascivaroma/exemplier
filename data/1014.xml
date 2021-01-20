@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:118" ana="#acte #futuo">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>1.93.6-1.94.1</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.93.6-1.94.1" type="line">
+    <w ref="1.93.6" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="1.94.1" lemma="canto" pos="NOMcom" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">Cantasti</w>
+    <w ref="1.94.1" lemma="male" pos="ADV" msd="Deg=Pos">male</w>
+    <w ref="1.94.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.94.1" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
+    <w ana="#acte #futuo" ref="1.94.1" lemma="futuo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">fututa</w>
+    <w ref="1.94.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
+    <w ref="1.94.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.94.1" lemma="aegle" pos="NOMcom" msd="Case=Voc|Numb=Sing">Aegle</w>
+    <w ref="1.94.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,66 @@
+<div type="fragment" corresp="adams:114" ana="#metaphore #anneau #culus #anus">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>4.22-4.22</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat5:4.22-4.22" type="chapter">
+    <w ref="4.22" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="4.22" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">iisque</w>
+    <w ref="4.22" lemma="que" pos="CON" msd="MORPH=empty">{iisque}</w>
+    <w ref="4.22" lemma="modo1" pos="ADV" msd="Deg=Pos">modo</w>
+    <w ref="4.22" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="4.22" lemma="stercus" pos="NOMcom" msd="Case=Abl|Numb=Sing">stercore</w>
+    <w ref="4.22" lemma="aliquis" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">aliquo</w>
+    <w ref="4.22" lemma="semper" pos="ADV" msd="Deg=Pos">semper</w>
+    <w ref="4.22" lemma="liquidus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">liquido</w>
+    <w ref="4.22" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.22" lemma="modus" pos="NOMcom" msd="Case=Abl|Numb=Sing">modo</w>
+    <w ref="4.22" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="4.22" lemma="quidam" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">quibusdam</w>
+    <w ref="4.22" lemma="quasi1" pos="ADVrel" msd="MORPH=empty">quasi</w>
+    <w ref="4.22" lemma="mucosus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">mucosis</w>
+    <w ref="4.22" lemma="excerno" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">excernitur</w>
+    <w ref="4.22" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="4.22" lemma="interdum" pos="ADV" msd="Deg=Pos">interdum</w>
+    <w ref="4.22" lemma="simul1" pos="ADV" msd="Deg=Pos">simul</w>
+    <w ref="4.22" lemma="quidam" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Neut">quaedam</w>
+    <w ref="4.22" lemma="carnosus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">carnosa</w>
+    <w ref="4.22" lemma="descendo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">descendunt</w>
+    <w ref="4.22" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="4.22" lemma="frequens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">frequens</w>
+    <w ref="4.22" lemma="deicio" pos="VER" msd="Case=Gen|Numb=Sing|Mood=Ger|Voice=Act">dejiciendi</w>
+    <w ref="4.22" lemma="cupiditas" pos="NOMcom" msd="Case=Nom|Numb=Sing">cupiditas</w>
+    <w ref="4.22" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.22" lemma="dolor" pos="NOMcom" msd="Case=Nom|Numb=Sing">dolorque</w>
+    <w ref="4.22" lemma="que" pos="CON" msd="MORPH=empty">{dolorque}</w>
+    <w ref="4.22" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#metaphore #anneau #culus #anus" ref="4.22" lemma="anus?" pos="NOMcom" msd="Case=Abl|Numb=Sing">ano</w>
+    <w ref="4.22" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="4.22" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="4.22" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="4.22" lemma="idem" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eodem</w>
+    <w ref="4.22" lemma="dolor" pos="NOMcom" msd="Case=Abl|Numb=Sing">dolore</w>
+    <w ref="4.22" lemma="exiguum1" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">exiguum</w>
+    <w ref="4.22" lemma="aliquis" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">aliquid</w>
+    <w ref="4.22" lemma="emitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">emittitur</w>
+    <w ref="4.22" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="4.22" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="4.22" lemma="eo?" pos="PROdem" msd="Case=Abl|Numb=Sing">eo</w>
+    <w ref="4.22" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="4.22" lemma="tormentum" pos="NOMcom" msd="Case=Nom|Numb=Sing">tormentum</w>
+    <w ref="4.22" lemma="intendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">intenditur</w>
+    <w ref="4.22" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="4.22" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">idque</w>
+    <w ref="4.22" lemma="que" pos="CON" msd="MORPH=empty">{idque}</w>
+    <w ref="4.22" lemma="post2" pos="PRE" msd="MORPH=empty">post</w>
+    <w ref="4.22" lemma="tempus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">tempus</w>
+    <w ref="4.22" lemma="aliquis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">aliquod</w>
+    <w ref="4.22" lemma="leuo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">levatur</w>
+    <w ref="4.22" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="4.22" lemma="exiguus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">exiguaque</w>
+    <w ref="4.22" lemma="que" pos="CON" msd="MORPH=empty">{exiguaque}</w>
+    <w ref="4.22" lemma="requies" pos="NOMcom" msd="Case=Nom|Numb=Sing">requies</w>
+    <w ref="4.22" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="4.22" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="4.22" lemma="somnus" pos="NOMcom" msd="Case=Nom|Numb=Sing">somnus</w>
+    <w ref="4.22" lemma="interpello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">interpellatur</w>
+    <w ref="4.22" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+  </quote>
+</div>

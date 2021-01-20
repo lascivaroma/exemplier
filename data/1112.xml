@@ -1,0 +1,26 @@
+<div type="fragment" corresp="adams:123" ana="#acte #male #pedico">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>12.16.1-12.16.3</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.16.1-12.16.3" type="line">
+    <w ref="12.16.1" lemma="addico2" pos="VER" msd="Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">Addixti</w>
+    <w ref="12.16.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.16.1" lemma="labienus" pos="NOMcom" msd="Case=Abl|Numb=Sing">Labiene</w>
+    <w ref="12.16.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.16.1" lemma="tres" pos="ADJcar" msd="Case=Acc|Numb=Plur|Gend=MascFem">tres</w>
+    <w ref="12.16.1" lemma="agellus" pos="NOMcom" msd="Case=Acc|Numb=Plur">agellos</w>
+    <w ref="12.16.1" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="12.16.2" lemma="emo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">Emisti</w>
+    <w ref="12.16.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.16.2" lemma="labienus" pos="NOMcom" msd="Case=Abl|Numb=Sing">Labiene</w>
+    <w ref="12.16.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.16.2" lemma="tres" pos="ADJcar" msd="Case=Acc|Numb=Plur|Gend=MascFem">tres</w>
+    <w ref="12.16.2" lemma="cinaedus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">cinaedos</w>
+    <w ref="12.16.2" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ana="#acte #male #pedico" ref="12.16.3" lemma="paedica" pos="NOMcom" msd="Case=Acc|Numb=Plur">Pedicas</w>
+    <w ref="12.16.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.16.3" lemma="labienus" pos="NOMcom" msd="Case=Voc|Numb=Sing">Labiene</w>
+    <w ref="12.16.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.16.3" lemma="tres" pos="ADJcar" msd="Case=Acc|Numb=Plur|Gend=MascFem">tres</w>
+    <w ref="12.16.3" lemma="agellus" pos="NOMcom" msd="Case=Acc|Numb=Plur">agellos</w>
+    <w ref="12.16.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

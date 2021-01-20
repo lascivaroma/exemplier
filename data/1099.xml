@@ -1,0 +1,36 @@
+<div type="fragment" corresp="adams:123" ana="#acte #male #pedico">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>11.78.5-11.78.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.78.5-11.78.8" type="line">
+    <w ana="#acte #male #pedico" ref="11.78.5" lemma="paedico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Pedicare</w>
+    <w ref="11.78.5" lemma="semel" pos="ADJadv.mul" msd="MORPH=empty">semel</w>
+    <w ref="11.78.5" lemma="cupidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascNeut">cupido</w>
+    <w ref="11.78.5" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">dabit</w>
+    <w ref="11.78.5" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="11.78.5" lemma="maritus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">marito</w>
+    <w ref="11.78.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.78.6" lemma="dum2" pos="CONsub" msd="MORPH=empty">Dum</w>
+    <w ref="11.78.6" lemma="metuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">metuit</w>
+    <w ref="11.78.6" lemma="telum" pos="NOMcom" msd="Case=Gen|Numb=Sing">teli</w>
+    <w ref="11.78.6" lemma="uulnus" pos="NOMcom" msd="Case=Acc|Numb=Plur">vulnera</w>
+    <w ref="11.78.6" lemma="primus" pos="ADJord" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Sup">prima</w>
+    <w ref="11.78.6" lemma="nosco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">novi</w>
+    <w ref="11.78.6" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="11.78.7" lemma="saepe" pos="ADV" msd="Deg=Comp">Saepius</w>
+    <w ref="11.78.7" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="11.78.7" lemma="fio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fieri</w>
+    <w ref="11.78.7" lemma="nutrix" pos="NOMcom" msd="Case=Nom|Numb=Sing">nutrix</w>
+    <w ref="11.78.7" lemma="mater" pos="NOMcom" msd="Case=Nom|Numb=Sing">materque</w>
+    <w ref="11.78.7" lemma="que" pos="CON" msd="MORPH=empty">{materque}</w>
+    <w ref="11.78.7" lemma="ueto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3">vetabunt</w>
+    <w ref="11.78.8" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="11.78.8" lemma="dico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3">dicent</w>
+    <w ref="11.78.8" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="11.78.8" lemma="uxor" pos="NOMcom" msd="Case=Nom|Numb=Sing">Uxor</w>
+    <w ref="11.78.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.78.8" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="11.78.8" lemma="puer" pos="NOMcom" msd="Case=Nom|Numb=Sing">puer</w>
+    <w ref="11.78.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.78.8" lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ista</w>
+    <w ref="11.78.8" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+  </quote>
+</div>

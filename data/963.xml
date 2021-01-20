@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:114" ana="#metaphore #anneau #culus #anus">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>4.25-4.25</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:4.25-4.25" type="chapter">
+    <w ref="4.25" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+    <w ref="4.25" lemma="desideo" pos="VER" msd="MORPH=empty">Desidere</w>
+    <w ref="4.25" lemma="oportet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">oportet</w>
+    <w ref="4.25" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="4.25" lemma="aqua" pos="NOMcom" msd="Case=Abl|Numb=Sing">aqua</w>
+    <w ref="4.25" lemma="calidus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">calida</w>
+    <w ref="4.25" lemma="saepe" pos="ADV" msd="Deg=Comp">saepiusque</w>
+    <w ref="4.25" lemma="que" pos="CON" msd="MORPH=empty">{saepiusque}</w>
+    <w ref="4.25" lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=MascNeut">ipsum</w>
+    <w ana="#metaphore #anneau #culus #anus" ref="4.25" lemma="anus2" pos="NOMcom" msd="Case=Acc|Numb=Sing">anum</w>
+    <w ref="4.25" lemma="nutrio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">nutrire</w>
+    <w ref="4.25" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

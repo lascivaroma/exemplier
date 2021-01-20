@@ -1,0 +1,33 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblScope>V.4-V.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:V.4-V.4" type="part">
+    <w ref="V.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="V.4" lemma="repentinus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">repentina</w>
+    <w ref="V.4" lemma="cessatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">cessatio</w>
+    <w ref="V.4" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="V.4" lemma="rursus" pos="ADV" msd="Deg=Pos">rursum</w>
+    <w ref="V.4" lemma="egestio" pos="NOMcom" msd="Case=Nom|Numb=Sing">egestio</w>
+    <w ref="V.4" lemma="fio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">fiet</w>
+    <w ref="V.4" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="V.4" lemma="dolor" pos="NOMcom" msd="Case=Abl|Numb=Sing">dolore</w>
+    <w ref="V.4" lemma="intolerabilis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">intolerabili</w>
+    <w ref="V.4" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="V.4" lemma="singulus" pos="ADJdis" msd="Case=Acc|Numb=Plur|Gend=Masc">singulos</w>
+    <w ref="V.4" lemma="mictus" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">mictus</w>
+    <w ref="V.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.4" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="V.4" lemma="extendo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">extenti</w>
+    <w ref="V.4" lemma="aegroto" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">aegrotantes</w>
+    <w ref="V.4" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="V.4" lemma="uenio" pos="NOMcom" msd="Case=Acc|Numb=Sing">uentum</w>
+    <w ref="V.4" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="V.4" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ref="V.4" lemma="reddo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">reddant</w>
+    <w ref="V.4" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="V.4" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ana="#anus #culus" ref="V.4" lemma="podex" pos="NOMcom" msd="Case=Nom|Numb=Sing">podex</w>
+    <w ref="V.4" lemma="praecado" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">praecadens</w>
+    <w ref="V.4" lemma="excludo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">excludatur</w>
+    <w ref="V.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

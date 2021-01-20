@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:114" ana="#metaphore #anneau #culus #anus">
+  <bibl><author>Cato</author>, <title>De Agricultura</title>, <biblScope>159.1-159.1</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0022.phi001.thayer-lat1:159.1-159.1" type="section">
+    <w ref="159.1" lemma="in" pos="PRE" msd="MORPH=empty">In</w>
+    <w ref="159.1" lemma="uia" pos="NOMcom" msd="Case=Acc|Numb=Sing">viam</w>
+    <w ref="159.1" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="159.1" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">ibis</w>
+    <w ref="159.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="159.1" lemma="absinthium" pos="NOMcom" msd="Case=Gen|Numb=Sing">apsinthi</w>
+    <w ref="159.1" lemma="ponticus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Deg=Pos">Pontici</w>
+    <w ref="159.1" lemma="surculus" pos="NOMcom" msd="Case=Acc|Numb=Sing">surculum</w>
+    <w ref="159.1" lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+    <w ana="#metaphore #anneau #culus #anus" ref="159.1" lemma="anulus" pos="NOMcom" msd="Case=Abl|Numb=Sing">anulo</w>
+    <w ref="159.1" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2">habeto</w>
+    <w ref="159.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

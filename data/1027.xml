@@ -1,0 +1,36 @@
+<div type="fragment" corresp="adams:118" ana="#acte #futuo">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>10.81.1-10.81.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:10.81.1-10.81.4" type="line">
+    <w ref="10.81.1" lemma="cum2" pos="PRE" msd="MORPH=empty">Cum</w>
+    <w ref="10.81.1" lemma="duo" pos="ADJcar" msd="Case=Nom|Numb=Plur|Gend=MascNeut">duo</w>
+    <w ref="10.81.1" lemma="uenio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">venissent</w>
+    <w ref="10.81.1" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="10.81.1" lemma="phyllida" pos="NOMpro" msd="Case=Acc|Numb=Sing">Phyllida</w>
+    <w ref="10.81.1" lemma="mane2" pos="ADV" msd="Deg=Pos">mane</w>
+    <w ana="#acte #futuo" ref="10.81.1" lemma="futuo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">fututum</w>
+    <w ref="10.81.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="10.81.2" lemma="nudus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">nudam</w>
+    <w ref="10.81.2" lemma="cupio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">cuperet</w>
+    <w ref="10.81.2" lemma="sumo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">sumere</w>
+    <w ref="10.81.2" lemma="uterque" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">uterque</w>
+    <w ref="10.81.2" lemma="prior" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">prior</w>
+    <w ref="10.81.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.81.3" lemma="promitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Promisit</w>
+    <w ref="10.81.3" lemma="pariter" pos="ADV" msd="Deg=Pos">pariter</w>
+    <w ref="10.81.3" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="10.81.3" lemma="phyllis" pos="NOMcom" msd="Case=Nom|Numb=Sing">Phyllis</w>
+    <w ref="10.81.3" lemma="uterque" pos="PROind" msd="Case=Dat|Numb=Sing|Gend=Com">utrique</w>
+    <w ref="10.81.3" lemma="do" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">daturam</w>
+    <w ref="10.81.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.81.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="10.81.4" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">dedit</w>
+    <w ref="10.81.4" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="10.81.4" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="10.81.4" lemma="pes" pos="NOMcom" msd="Case=Acc|Numb=Sing">pedem</w>
+    <w ref="10.81.4" lemma="tollo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">sustulit</w>
+    <w ref="10.81.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.81.4" lemma="hic2" pos="ADV" msd="Numb=Sing|Gend=Masc">hic</w>
+    <w ref="10.81.4" lemma="tunica" pos="NOMcom" msd="Case=Acc|Numb=Sing">tunicam</w>
+    <w ref="10.81.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

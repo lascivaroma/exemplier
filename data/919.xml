@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>I.21-I.21</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.21-I.21" type="part">
+    <w ref="I.21" lemma="appareo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">apparet</w>
+    <w ref="I.21" lemma="igitur" pos="CONcoo" msd="MORPH=empty">igitur</w>
+    <w ref="I.21" lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Sing">sinum</w>
+    <w ref="I.21" lemma="muliebris" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">muliebrem</w>
+    <w ref="I.21" lemma="subiaceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">subiacere</w>
+    <w ref="I.21" lemma="collum" pos="NOMcom" msd="Case=Abl|Numb=Sing">collo</w>
+    <w ref="I.21" lemma="uesicus" pos="NOMcom" msd="Case=Abl|Numb=Sing">vesice</w>
+    <w ref="I.21" lemma="superpono" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">superpositum</w>
+    <w ana="#anus #culus" ref="I.21" lemma="podicus" pos="ADJqua" msd="Case=Gen|Numb=Sing">podici</w>
+    <w ref="I.21" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="I.21" lemma="longao" pos="NOMcom" msd="Case=Gen|Numb=Sing">longaonis</w>
+    <w ref="I.21" lemma="submitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">summitati</w>
+    <w ref="I.21" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,31 @@
+<div type="fragment" corresp="adams:136" ana="#male #acte #passive">
+  <bibl><author>Arnobius of Sicca</author>, <title>Arnobii adversus nationes Libri VII</title>, <biblScope>7.33-7.33</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:7.33-7.33" type="section">
+    <w ref="7.33" lemma="laetus2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Sup">laetissimas</w>
+    <w ref="7.33" lemma="uoluptas" pos="NOMcom" msd="Case=Acc|Numb=Plur">uoluptates</w>
+    <w ref="7.33" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.33" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="7.33" lemma="moramen" pos="NOMcom" msd="Numb=Plur|Person=2">moramini</w>
+    <w ref="7.33" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.33" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="7.33" lemma="cesso" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">cessatis</w>
+    <w ref="7.33" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.33" lemma="quin2" pos="CONsub" msd="MORPH=empty">quin</w>
+    <w ref="7.33" lemma="et1" pos="ADV" msd="MORPH=empty">et</w>
+    <w ref="7.33" lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Masc">ipsos</w>
+    <w ref="7.33" lemma="dico2" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=2">dicatis</w>
+    <w ref="7.33" lemma="deus" pos="NOMcom" msd="Case=Acc|Numb=Plur">deos</w>
+    <w ref="7.33" lemma="ludo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ludere</w>
+    <w ref="7.33" lemma="lasciuio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">lasciuire</w>
+    <w ref="7.33" lemma="salto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">saltare</w>
+    <w ref="7.33" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.33" lemma="obscenus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">obscenas</w>
+    <w ref="7.33" lemma="compingo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">conpingere</w>
+    <w ref="7.33" lemma="cantio" pos="NOMcom" msd="Case=Acc|Numb=Plur">cantiones</w>
+    <w ref="7.33" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="7.33" lemma="clunis" pos="NOMcom" msd="Case=Abl|Numb=Plur">clunibus</w>
+    <w ref="7.33" lemma="fluctuo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fluctuare</w>
+    <w ana="#male #acte #passive" ref="7.33" lemma="crispo" pos="VER" msd="Case=Abl|Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">crispatis</w>
+    <w ref="7.33" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

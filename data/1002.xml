@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:115" ana="#metaphore #culus #anus">
+  <bibl><author>Plautus, Titus Maccius</author>, <title>Pseudolus</title>, <biblScope>1180-1181</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi016.perseus-lat2:1180-1181" type="line">
+    <w ref="1180" lemma="noctu" pos="ADV" msd="Deg=Pos">noctu</w>
+    <w ref="1180" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1180" lemma="uigilia" pos="NOMcom" msd="Case=Acc|Numb=Sing">vigiliam</w>
+    <w ref="1180" lemma="quando3" pos="CONsub" msd="MORPH=empty">quando</w>
+    <w ref="1180" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">ibat</w>
+    <w ref="1180" lemma="miles" pos="NOMcom" msd="Case=Nom|Numb=Sing">miles</w>
+    <w ref="1180" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1180" lemma="cum3" pos="CONsub" msd="MORPH=empty">quom</w>
+    <w ref="1180" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+    <w ref="1180" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2">ibas</w>
+    <w ref="1180" lemma="simul1" pos="ADV" msd="Deg=Pos">simul</w>
+    <w ref="1180" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1181" lemma="conuenio" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">conveniebatne</w>
+    <w ref="1181" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#metaphore #culus #anus" ref="1181" lemma="uagina" pos="NOMcom" msd="Case=Acc|Numb=Sing">vaginam</w>
+    <w ref="1181" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">tuam</w>
+    <w ref="1181" lemma="machaera" pos="NOMcom" msd="Case=Acc|Numb=Sing">machaera</w>
+    <w ref="1181" lemma="miles" pos="NOMcom" msd="Case=Gen|Numb=Sing">militis</w>
+    <w ref="1181" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

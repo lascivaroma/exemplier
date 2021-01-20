@@ -1,0 +1,41 @@
+<div type="fragment" corresp="adams:" ana="#acte #fellatio #acte #actor">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>12.59.5-12.59.10</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.59.5-12.59.10" type="line">
+    <w ref="12.59.5" lemma="premo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">premit</w>
+    <w ref="12.59.5" lemma="osculum" pos="NOMcom" msd="Case=Abl|Numb=Sing">osculo</w>
+    <w ref="12.59.5" lemma="colonus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">colonus</w>
+    <w ref="12.59.5" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="12.59.6" lemma="hinc" pos="ADV" msd="Deg=Pos">Hinc</w>
+    <w ref="12.59.6" lemma="insto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">instat</w>
+    <w ref="12.59.6" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="12.59.6" lemma="textor" pos="NOMcom" msd="Case=Nom|Numb=Sing">textor</w>
+    <w ref="12.59.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.59.6" lemma="inde" pos="ADV" msd="Deg=Pos">inde</w>
+    <w ref="12.59.6" lemma="fullo" pos="NOMcom" msd="Case=Abl|Numb=Sing">fullo</w>
+    <w ref="12.59.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.59.7" lemma="hinc" pos="ADV" msd="Deg=Pos">Hinc</w>
+    <w ref="12.59.7" lemma="sutor" pos="NOMcom" msd="Case=Nom|Numb=Sing">sutor</w>
+    <w ref="12.59.7" lemma="modo1" pos="ADV" msd="Deg=Pos">modo</w>
+    <w ref="12.59.7" lemma="pellis" pos="NOMcom" msd="Case=Abl|Numb=Sing">pelle</w>
+    <w ref="12.59.7" lemma="basio" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem">basiata</w>
+    <w ref="12.59.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.59.8" lemma="hinc" pos="ADV" msd="Deg=Pos">Hinc</w>
+    <w ref="12.59.8" lemma="mens" pos="NOMcom" msd="Case=Dat|Numb=Sing">menti</w>
+    <w ref="12.59.8" lemma="dominus" pos="NOMcom" msd="Case=Nom|Numb=Sing">dominus</w>
+    <w ref="12.59.8" lemma="periculosus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">periculosi</w>
+    <w ref="12.59.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.59.9" lemma="hinc" pos="ADV" msd="Deg=Pos">Hinc</w>
+    <w ref="12.59.9" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="12.59.9" lemma="dexiocholus" pos="NOMcom" msd="Case=Nom|Numb=Sing">dexiocholus</w>
+    <w ref="12.59.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.59.9" lemma="inde" pos="ADV" msd="Deg=Pos">inde</w>
+    <w ref="12.59.9" lemma="lippus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">lippus</w>
+    <w ref="12.59.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #fellatio #acte #actor" ref="12.59.10" lemma="fellator" pos="NOMcom" msd="Case=Nom|Numb=Sing">Fellatorque</w>
+    <w ref="12.59.10" lemma="que" pos="CON" msd="MORPH=empty">{Fellatorque}</w>
+    <w ref="12.59.10" lemma="recens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">recensque</w>
+    <w ref="12.59.10" lemma="que" pos="CON" msd="MORPH=empty">{recensque}</w>
+    <w ref="12.59.10" lemma="cunnilingus" pos="ADJqua" msd="Case=Nom|Numb=Sing">cunnilingus</w>
+    <w ref="12.59.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

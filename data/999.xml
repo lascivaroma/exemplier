@@ -1,0 +1,31 @@
+<div type="fragment" corresp="adams:114" ana="#metaphore #anneau #culus #anus">
+  <bibl><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblScope>22.13-22.13</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:22.13-22.13" type="chapter">
+    <w ref="22.13" lemma="quin1" pos="ADV" msd="Deg=Pos">quin</w>
+    <w ref="22.13" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ref="22.13" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="22.13" lemma="amaritudo" pos="NOMcom" msd="Case=Nom|Numb=Sing">amaritudo</w>
+    <w ref="22.13" lemma="mordax" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">mordax</w>
+    <w ref="22.13" lemma="uua" pos="NOMcom" msd="Case=Acc|Numb=Plur">uvas</w>
+    <w ref="22.13" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="22.13" lemma="os1" pos="NOMcom" msd="Case=Abl|Numb=Sing">ore</w>
+    <w ref="22.13" lemma="procido" pos="VER" msd="Case=Acc|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">procidentesque</w>
+    <w ref="22.13" lemma="que" pos="CON" msd="MORPH=empty">{procidentesque}</w>
+    <w ref="22.13" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Plur">vulvas</w>
+    <w ref="22.13" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="22.13" lemma="infans1" pos="NOMcom" msd="Case=Gen|Numb=Plur|Gend=Com">infantium</w>
+    <w ana="#metaphore #anneau #culus #anus" ref="22.13" lemma="sedes" pos="NOMcom" msd="Case=Acc|Numb=Plur">sedes</w>
+    <w ref="22.13" lemma="tactus" pos="NOMcom" msd="Case=Abl|Numb=Sing">tactu</w>
+    <w ref="22.13" lemma="resilio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">resilire</w>
+    <w ref="22.13" lemma="cogo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cogit</w>
+    <w ref="22.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="22.13" lemma="lethargicus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">lethargicos</w>
+    <w ref="22.13" lemma="expergiscor" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">expergisci</w>
+    <w ref="22.13" lemma="tango" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">tactis</w>
+    <w ref="22.13" lemma="crus" pos="NOMcom" msd="Case=Abl|Numb=Plur">cruribus</w>
+    <w ref="22.13" lemma="magis" pos="ADV" msd="Deg=Comp">magisque</w>
+    <w ref="22.13" lemma="que" pos="CON" msd="MORPH=empty">{magisque}</w>
+    <w ref="22.13" lemma="frons1" pos="NOMcom" msd="Case=Abl|Numb=Sing">fronte</w>
+    <w ref="22.13" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

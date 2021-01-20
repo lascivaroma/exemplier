@@ -1,0 +1,42 @@
+<div type="fragment" corresp="adams:136" ana="#female #acte #passive">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>19.1-19.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:19.1-19.6" type="line">
+    <w ref="19.1" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="19.1" lemma="quando1" pos="ADV" msd="Deg=Pos">quando</w>
+    <w ref="19.1" lemma="telethus" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem">Telethusa</w>
+    <w ref="19.1" lemma="circulatrix" pos="NOMcom" msd="Case=Nom|Numb=Sing">circulatrix</w>
+    <w ref="19.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="19.2" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="19.2" lemma="clunis" pos="NOMcom" msd="Case=Acc|Numb=Sing">clunem</w>
+    <w ref="19.2" lemma="tunica" pos="NOMcom" msd="Case=Abl|Numb=Sing">tunica</w>
+    <w ref="19.2" lemma="tego" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">tegente</w>
+    <w ref="19.2" lemma="nullus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">nulla</w>
+    <w ref="19.3" lemma="aestus" pos="NOMcom" msd="Case=Abl|Numb=Sing">Aestu</w>
+    <w ref="19.3" lemma="alte" pos="ADV" msd="Deg=Comp">altius</w>
+    <w ref="19.3" lemma="alte" pos="ADV" msd="Numb=Sing|Deg=Comp">altiusque</w>
+    <w ref="19.3" lemma="que" pos="CON" msd="MORPH=empty">{altiusque}</w>
+    <w ref="19.3" lemma="moto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">motat</w>
+    <w ref="19.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#female #acte #passive" ref="19.4" lemma="crisso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">crisabit</w>
+    <w ref="19.4" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="19.4" lemma="fluctuor" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">fluctuante</w>
+    <w ref="19.4" lemma="lumbus" pos="NOMcom" msd="Case=Abl|Numb=Sing">lumbo</w>
+    <w ref="19.4" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="19.5" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">haec</w>
+    <w ref="19.5" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+    <w ref="19.5" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="19.5" lemma="modo1" pos="ADV" msd="Deg=Pos">modo</w>
+    <w ref="19.5" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">te</w>
+    <w ref="19.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="19.5" lemma="priapus" pos="NOMcom" msd="Case=Abl|Numb=Sing">Priape</w>
+    <w ref="19.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="19.5" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possit</w>
+    <w ref="19.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="19.6" lemma="priuignus" pos="NOMcom" msd="Case=Acc|Numb=Sing">priuignum</w>
+    <w ref="19.6" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="19.6" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="19.6" lemma="moueo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">mouere</w>
+    <w ref="19.6" lemma="phaedra" pos="NOMcom" msd="Case=Gen|Numb=Sing">Phaedrae</w>
+    <w ref="19.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

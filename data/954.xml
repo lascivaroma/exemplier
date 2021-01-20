@@ -1,0 +1,30 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>46.9-46.9</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:46.9-46.9" type="paragraph">
+    <w ref="46.9" lemma="curatio" pos="NOMcom" msd="Case=Gen|Numb=Sing">Curationis</w>
+    <w ref="46.9" lemma="uero4" pos="CONcoo" msd="MORPH=empty">uero</w>
+    <w ref="46.9" lemma="tempus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">tempore</w>
+    <w ref="46.9" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="46.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">fuerit</w>
+    <w ref="46.9" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="46.9" lemma="frigus" pos="NOMcom" msd="Case=Abl|Numb=Sing">frigore</w>
+    <w ref="46.9" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="46.9" lemma="profundus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">profunda</w>
+    <w ref="46.9" lemma="perfrictio" pos="NOMcom" msd="Case=Abl|Numb=Sing">perfrictione</w>
+    <w ref="46.9" lemma="dysuria" pos="NOMcom" msd="Case=Gen|Numb=Sing">dysuriae</w>
+    <w ref="46.9" lemma="causatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">causatio</w>
+    <w ref="46.9" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="46.9" lemma="ingens" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">ingenti</w>
+    <w ref="46.9" lemma="dolor" pos="NOMcom" msd="Case=Abl|Numb=Sing">dolore</w>
+    <w ref="46.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="46.9" lemma="oleum" pos="NOMcom" msd="Case=Acc|Numb=Sing">oleum</w>
+    <w ref="46.9" lemma="rutaceum" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">rutaceum</w>
+    <w ref="46.9" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ana="#anus #culus" ref="46.9" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ref="46.9" lemma="frequenter" pos="ADV" msd="Deg=Pos">frequenter</w>
+    <w ref="46.9" lemma="aegrotus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">aegroto</w>
+    <w ref="46.9" lemma="inicio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">iniciendum</w>
+    <w ref="46.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="46.9" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

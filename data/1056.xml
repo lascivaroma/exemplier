@@ -1,0 +1,30 @@
+<div type="fragment" corresp="adams:118" ana="#acte #futuo">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>9.4.1-9.4.3</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.4.1-9.4.3" type="line">
+    <w ref="9.4.1" lemma="aureolus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">Aureolis</w>
+    <w ref="9.4.1" lemma="futuo" pos="VER" msd="Numb=Sing">futui</w>
+    <w ref="9.4.1" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="9.4.1" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possit</w>
+    <w ref="9.4.1" lemma="Galla" pos="NOMcom" msd="Case=Nom|Numb=Sing">Galla</w>
+    <w ref="9.4.1" lemma="duo" pos="ADJcar" msd="Case=Abl|Numb=Plur|Gend=MascNeut">duobus</w>
+    <w ref="9.4.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="9.4.2" lemma="multus" pos="ADV" msd="Numb=Sing|Deg=Comp">plus</w>
+    <w ref="9.4.2" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ana="#acte #futuo" ref="9.4.2" lemma="futuus" pos="VER" msd="Numb=Sing">futui</w>
+    <w ref="9.4.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.4.2" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="9.4.2" lemma="totidem1" pos="PROdem" msd="Case=Ind|Deg=Pos">totidem</w>
+    <w ref="9.4.2" lemma="addo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">addideris</w>
+    <w ref="9.4.2" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="9.4.3" lemma="aureolus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">Aureolos</w>
+    <w ref="9.4.3" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="9.4.3" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">te</w>
+    <w ref="9.4.3" lemma="cur" pos="ADVint" msd="MORPH=empty">cur</w>
+    <w ref="9.4.3" lemma="accipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">accipit</w>
+    <w ref="9.4.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.4.3" lemma="aeschyle" pos="NOMcom" msd="Case=Acc|Numb=Sing">Aeschyle</w>
+    <w ref="9.4.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.4.3" lemma="denus" pos="ADJdis" msd="Case=Acc|Numb=Plur|Gend=Masc">denos</w>
+    <w ref="9.4.3" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

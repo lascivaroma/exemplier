@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblScope>II.1-II.1</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:II.1-II.1" type="part">
+    <w ref="II.1" lemma="ac1" pos="CONcoo" msd="MORPH=empty">Ac</w>
+    <w ref="II.1" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ana="#anus #culus" ref="II.1" lemma="podex" pos="NOMcom" msd="Case=Nom|Numb=Sing">podex</w>
+    <w ref="II.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">fuerit</w>
+    <w ref="II.1" lemma="paralysis" pos="NOMcom" msd="Case=Gen|Numb=Sing">paralysi</w>
+    <w ref="II.1" lemma="uitio1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc">uitiatus</w>
+    <w ref="II.1" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="II.1" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="II.1" lemma="uicinum" pos="NOMcom" msd="Case=Acc|Numb=Plur|Deg=Pos">uicina</w>
+    <w ref="II.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.1" lemma="acer2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Comp">acriora</w>
+    <w ref="II.1" lemma="facio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">facimus</w>
+    <w ref="II.1" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="II.1" lemma="mordicantia" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act">mordicantia</w>
+    <w ref="II.1" lemma="inicio" pos="VER" msd="Numb=Sing|Mood=Inf|Tense=Pres|Voice=Pass">inici</w>
+    <w ref="II.1" lemma="collyrium" pos="NOMcom" msd="Case=Acc|Numb=Plur">collyria</w>
+    <w ref="II.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.1" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="II.1" lemma="Graeci" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">Graeci</w>
+    <w ref="II.1" lemma="balanus" pos="NOMcom" msd="Case=Acc|Numb=Plur">balanos</w>
+    <w ref="II.1" lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">uocant</w>
+    <w ref="II.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.1" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="II.1" lemma="sinapi" pos="NOMcom" msd="Case=Dat|Numb=Sing">sinapi</w>
+    <w ref="II.1" lemma="multus" pos="ADJqua" msd="Numb=Sing|Gend=MascNeut|Deg=Sup">plurimum</w>
+    <w ref="II.1" lemma="ficus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">fico</w>
+    <w ref="II.1" lemma="admisceo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">admixto</w>
+    <w ref="II.1" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="II.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="II.1" lemma="collyrium" pos="NOMcom" msd="Case=Acc|Numb=Sing">collyrium</w>
+    <w ref="II.1" lemma="colligo?" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">collectum</w>
+    <w ref="II.1" lemma="longitudo" pos="NOMcom" msd="Case=Abl|Numb=Sing">longitudine</w>
+    <w ref="II.1" lemma="aptus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">aptum</w>
+  </quote>
+</div>

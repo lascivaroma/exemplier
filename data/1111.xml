@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:123" ana="#acte #male #pedico">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>68.7-68.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:68.7-68.8" type="line">
+    <w ref="68.7" lemma="merdaleon" pos="NOMcom" msd="Case=Nom|Numb=Sing">Μερδαλέον</w>
+    <w ref="68.7" lemma="certe" pos="ADV" msd="Deg=Pos">certe</w>
+    <w ref="68.7" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="68.7" lemma="res" pos="NOMcom" msd="Case=Nom|Numb=Sing">res</w>
+    <w ref="68.7" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="68.7" lemma="mundus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">munda</w>
+    <w ref="68.7" lemma="uoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">uocatur</w>
+    <w ref="68.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="68.8" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #male #pedico" ref="68.8" lemma="paedico2" pos="NOMcom" msd="Case=Gen|Numb=Plur">pediconum</w>
+    <w ref="68.8" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="68.8" lemma="merdaleus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">merdalea</w>
+    <w ref="68.8" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="68.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

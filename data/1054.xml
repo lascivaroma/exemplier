@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:118" ana="#acte #futuo">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>7.70.1-7.70.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:7.70.1-7.70.2" type="line">
+    <w ref="7.70.1" lemma="ipse" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=Fem">Ipsarum</w>
+    <w ref="7.70.1" lemma="tribae" pos="NOMcom" msd="Case=Acc|Numb=Sing">tribadum</w>
+    <w ref="7.70.1" lemma="tribae" pos="NOMcom" msd="Case=Acc|Numb=Plur">tribas</w>
+    <w ref="7.70.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.70.1" lemma="philaenus" pos="ADJqua" msd="Case=Gen|Numb=Sing">Philaeni</w>
+    <w ref="7.70.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.70.2" lemma="recte" pos="ADV" msd="Deg=Pos">Recte</w>
+    <w ref="7.70.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.70.2" lemma="quam1" pos="ADVrel" msd="Case=Acc">quam</w>
+    <w ana="#acte #futuo" ref="7.70.2" lemma="futuus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">futuis</w>
+    <w ref="7.70.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.70.2" lemma="uoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">vocas</w>
+    <w ref="7.70.2" lemma="amica" pos="NOMcom" msd="Case=Acc|Numb=Sing">amicam</w>
+    <w ref="7.70.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

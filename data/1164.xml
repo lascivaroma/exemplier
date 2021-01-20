@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:136" ana="#male #acte #passive">
+  <bibl><author>Persius</author>, <title>Satires</title>, <biblScope>1.87-1.87</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0969.phi001.perseus-lat2:1.87-1.87" type="line">
+    <w ref="1.87" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="1.87" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.87" lemma="romulus" pos="NOMcom" msd="Case=Voc|Numb=Sing">Romule</w>
+    <w ref="1.87" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#male #acte #passive" ref="1.87" lemma="ceueo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">ceves</w>
+    <w ref="1.87" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

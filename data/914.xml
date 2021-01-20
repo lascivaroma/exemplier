@@ -1,0 +1,30 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblScope>V.4-V.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:V.4-V.4" type="part">
+    <w ref="V.4" lemma="soleo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3">Solent</w>
+    <w ref="V.4" lemma="praeterea" pos="ADV" msd="Deg=Pos">praeterea</w>
+    <w ref="V.4" lemma="sicut1" pos="ADVrel" msd="MORPH=empty">sicut</w>
+    <w ref="V.4" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#anus #culus" ref="V.4" lemma="podex" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
+    <w ref="V.4" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="V.4" lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Plur">feminarum</w>
+    <w ref="V.4" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+    <w ref="V.4" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="V.4" lemma="matrica" pos="NOMcom" msd="Case=Abl|Numb=Plur">matricis</w>
+    <w ref="V.4" lemma="collum" pos="NOMcom" msd="Case=Abl|Numb=Sing">collo</w>
+    <w ref="V.4" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="V.4" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="V.4" lemma="uesica" pos="NOMcom" msd="Case=Abl|Numb=Plur">uesica</w>
+    <w ref="V.4" lemma="haemorrhoides" pos="ADJqua" msd="Case=Nom|Numb=Plur|Deg=Pos">haemorrhoides</w>
+    <w ref="V.4" lemma="genero" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">generari</w>
+    <w ref="V.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.4" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Fem">quae</w>
+    <w ref="V.4" lemma="fluor" pos="NOMcom" msd="Case=Acc|Numb=Sing">fluorem</w>
+    <w ref="V.4" lemma="sanguis" pos="NOMcom" msd="Case=Gen|Numb=Sing">sanguinis</w>
+    <w ref="V.4" lemma="praesto1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">praestent</w>
+    <w ref="V.4" lemma="quidam" pos="PROind" msd="Case=Dat|Numb=Plur|Gend=Com">quibusdam</w>
+    <w ref="V.4" lemma="interuallum" pos="NOMcom" msd="Case=Abl|Numb=Plur">interuallis</w>
+    <w ref="V.4" lemma="uario" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">uariatum</w>
+    <w ref="V.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

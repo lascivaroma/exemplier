@@ -1,0 +1,27 @@
+<div type="fragment" corresp="adams:113" ana="#metaphore #ficus #anus #culus">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>12.96.8-12.96.10</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.96.8-12.96.10" type="line">
+    <w ref="12.96.8" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="12.96.9" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ref="12.96.9" lemma="idem" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">eadem</w>
+    <w ref="12.96.9" lemma="res" pos="NOMcom" msd="Case=Nom|Numb=Sing">res</w>
+    <w ref="12.96.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="12.96.9" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ana="#metaphore #ficus #anus #culus" ref="12.96.9" lemma="chias" pos="NOMcom" msd="Case=Acc|Numb=Sing">Chiam</w>
+    <w ref="12.96.9" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">volo</w>
+    <w ref="12.96.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.96.9" lemma="nolo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">nolo</w>
+    <w ref="12.96.9" lemma="marisco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">mariscam</w>
+    <w ref="12.96.9" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="12.96.10" lemma="ne4" pos="CONsub" msd="MORPH=empty">Ne</w>
+    <w ref="12.96.10" lemma="dubito" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">dubites</w>
+    <w ref="12.96.10" lemma="qui1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="12.96.10" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="12.96.10" lemma="chia" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Fem">Chia</w>
+    <w ref="12.96.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.96.10" lemma="marisca" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Fem">marisca</w>
+    <w ref="12.96.10" lemma="tuus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">tua</w>
+    <w ref="12.96.10" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="12.96.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

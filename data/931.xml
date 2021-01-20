@@ -1,0 +1,36 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>48.17-48.17</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:48.17-48.17" type="paragraph">
+    <w ref="48.17" lemma="trociscus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc">Trociscus</w>
+    <w ref="48.17" lemma="catotericus" pos="NOMcom" msd="Case=Nom|Numb=Sing">catotericus</w>
+    <w ref="48.17" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="48.17" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="48.17" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="48.17" lemma="deorsum" pos="ADV" msd="Deg=Pos">deorsum</w>
+    <w ref="48.17" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ana="#anus #culus" ref="48.17" lemma="podicus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">podicis</w>
+    <w ref="48.17" lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Plur">partes</w>
+    <w ref="48.17" lemma="inicio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">iniectus</w>
+    <w ref="48.17" lemma="seruo" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">seruando</w>
+    <w ref="48.17" lemma="inferus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Comp">inferiores</w>
+    <w ref="48.17" lemma="intestinus" pos="NOMcom" msd="Case=Gen|Numb=Plur">intestinorum</w>
+    <w ref="48.17" lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Plur">partes</w>
+    <w ref="48.17" lemma="medeor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">medetur</w>
+    <w ref="48.17" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="48.17" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="48.17" lemma="appello1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">appellatur</w>
+    <w ref="48.17" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="48.17" lemma="uetus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">ueteribus</w>
+    <w ref="48.17" lemma="faustinianus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Faustinianus</w>
+    <w ref="48.17" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="48.17" lemma="conueniens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com">conueniens</w>
+    <w ref="48.17" lemma="hic1" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">his</w>
+    <w ref="48.17" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+    <w ref="48.17" lemma="diuturnus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">diuturna</w>
+    <w ref="48.17" lemma="putredine" pos="NOMcom" msd="Case=Abl|Numb=Sing">putredine</w>
+    <w ref="48.17" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="48.17" lemma="dysenteria" pos="NOMcom" msd="Case=Abl|Numb=Sing">dysenteria</w>
+    <w ref="48.17" lemma="laboro" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Perf|Voice=Act|Person=3">laborauerint</w>
+    <w ref="48.17" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

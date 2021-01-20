@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:123" ana="#acte #male #pedico">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>3.95.13-3.95.13</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:3.95.13-3.95.13" type="line">
+    <w ref="3.95.13" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ana="#acte #male #pedico" ref="3.95.13" lemma="paedico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=2">pedicaris</w>
+    <w ref="3.95.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.95.13" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="3.95.13" lemma="pulchre" pos="ADV" msd="Numb=Sing|Deg=Pos">pulchre</w>
+    <w ref="3.95.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.95.13" lemma="naeuolus" pos="ADJqua" msd="Case=Voc|Numb=Sing|Deg=Pos">Naevole</w>
+    <w ref="3.95.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.95.13" lemma="ceueo" pos="NOMcom" msd="Case=Nom|Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=2">ceves</w>
+    <w ref="3.95.13" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

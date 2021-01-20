@@ -1,0 +1,29 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Celerum passionum libri III</title>, <biblScope>3.163-3.163</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:3.163-3.163" type="part">
+    <w ref="3.163" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="3.163" lemma="uomitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uomitu</w>
+    <w ref="3.163" lemma="utor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">utitur</w>
+    <w ref="3.163" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.163" lemma="donec" pos="CONsub" msd="MORPH=empty">donec</w>
+    <w ref="3.163" lemma="stercus" pos="NOMcom" msd="Case=Acc|Numb=Plur">stercora</w>
+    <w ref="3.163" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">faciat</w>
+    <w ref="3.163" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.163" lemma="euomo" pos="NOMcom" msd="Case=Nom|Numb=Sing">euomi</w>
+    <w ref="3.163" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.163" lemma="aliquis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Masc">aliquos</w>
+    <w ref="3.163" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="3.163" lemma="post2" pos="PRE" msd="Deg=Pos">post</w>
+    <w ref="3.163" lemma="uomitus" pos="VER" msd="Case=Acc|Numb=Sing">uomitum</w>
+    <w ref="3.163" lemma="phleboto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">phlebotomat</w>
+    <w ref="3.163" lemma="uentus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uento</w>
+    <w ref="3.163" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ana="#anus #culus" ref="3.163" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ref="3.163" lemma="repleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">replet</w>
+    <w ref="3.163" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.163" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="3.163" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.163" lemma="hippocrates" pos="NOMcom" msd="Case=Nom|Numb=Sing">Hippocrates</w>
+    <w ref="3.163" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

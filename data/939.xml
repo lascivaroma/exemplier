@@ -1,0 +1,45 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Celerum passionum libri III</title>, <biblScope>3.144-3.145</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:3.144-3.145" type="part">
+    <w ref="3.144" lemma="etenim" pos="CONcoo" msd="MORPH=empty">etenim</w>
+    <w ref="3.144" lemma="tormentum" pos="NOMcom" msd="Case=Acc|Numb=Sing">tormentum</w>
+    <w ref="3.144" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="3.144" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="3.144" lemma="ructatio" pos="NOMcom" msd="Case=Abl|Numb=Plur">ructationibus</w>
+    <w ref="3.144" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">dixit</w>
+    <w ref="3.144" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="3.144" lemma="emitto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">emisso</w>
+    <w ref="3.144" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ana="#anus #culus" ref="3.144" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=MascFem">podicem</w>
+    <w ref="3.144" lemma="uentus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uento</w>
+    <w ref="3.144" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="3.144" lemma="stercus" pos="NOMcom" msd="Case=Gen|Numb=Plur">stercorum</w>
+    <w ref="3.144" lemma="egestio" pos="NOMcom" msd="Case=Abl|Numb=Sing">egestione</w>
+    <w ref="3.144" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.144" lemma="uenter" pos="NOMcom" msd="Case=Acc|Numb=Sing">uentrem</w>
+    <w ref="3.144" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="3.144" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="3.144" lemma="necessario" pos="ADV" msd="Deg=Pos">necessario</w>
+    <w ref="3.144" lemma="durus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">durum</w>
+    <w ref="3.144" lemma="fio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fieri</w>
+    <w ref="3.144" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.144" lemma="clyster" pos="NOMcom" msd="Case=Gen|Numb=Sing">clysteris</w>
+    <w ref="3.144" lemma="iniectio" pos="NOMcom" msd="Case=Acc|Numb=Sing">iniectionem</w>
+    <w ref="3.144" lemma="accipio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">accipere</w>
+    <w ref="3.144" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.144" lemma="dolor" pos="NOMcom" msd="Case=Gen|Numb=Sing">doloris</w>
+    <w ref="3.144" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="3.144" lemma="initium" pos="NOMcom" msd="Case=Acc|Numb=Sing">initium</w>
+    <w ref="3.144" lemma="superus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp">superioribus</w>
+    <w ref="3.144" lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
+    <w ref="3.144" lemma="accedo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">accedere</w>
+    <w ref="3.144" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="3.145" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="3.145" lemma="chordapsum" pos="NOMcom" msd="Case=Abl|Numb=Sing">chordapso</w>
+    <w ref="3.145" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="3.145" lemma="reicio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">reicere</w>
+    <w ref="3.145" lemma="aegroto" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">aegrotantes</w>
+    <w ref="3.145" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.145" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+  </quote>
+</div>

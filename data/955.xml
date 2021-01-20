@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Plautus, Titus Maccius</author>, <title>Casina</title>, <biblScope>922-922</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi006.perseus-lat2:922-922" type="line">
+    <w ref="922" lemma="ubi3" pos="CONsub" msd="MORPH=empty">úbi</w>
+    <w ref="922" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">illum</w>
+    <w ana="#anus #culus" ref="922" lemma="saltus2" pos="NOMcom" msd="Case=Acc|Numb=Sing">saltum</w>
+    <w ref="922" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">vídeo</w>
+    <w ref="922" lemma="obsaepio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">opsaeptum</w>
+    <w ref="922" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="922" lemma="rogo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">rógo</w>
+    <w ref="922" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="922" lemma="alter" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">alteró</w>
+    <w ref="922" lemma="sino" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sinat</w>
+    <w ref="922" lemma="eo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ire</w>
+    <w ref="922" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,13 @@
+<div type="fragment" corresp="adams:" ana="#acte #fellatio #acte">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>12.79.4-12.79.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.79.4-12.79.4" type="line">
+    <w ref="12.79.4" lemma="quisquis1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=MascFem">Quisquis</w>
+    <w ref="12.79.4" lemma="nihil" pos="PROind" msd="Case=Ind">nil</w>
+    <w ref="12.79.4" lemma="nego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">negat</w>
+    <w ref="12.79.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.79.4" lemma="atticilla" pos="NOMcom" msd="Case=Nom|Numb=Sing">Atticilla</w>
+    <w ref="12.79.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #fellatio #acte" ref="12.79.4" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fellat</w>
+    <w ref="12.79.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

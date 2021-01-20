@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:114" ana="#metaphore #topographique #culus #anus">
+  <bibl><author>Ausonius, Decimus Magnus</author>, <title>Epigrammaton Liber</title>, <biblScope>93.3-93.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:93.3-93.4" type="line">
+    <w ref="93.3" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="93.3" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="93.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="93.3" lemma="elixus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">elixo</w>
+    <w ref="93.3" lemma="plantarius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">plantaria</w>
+    <w ref="93.3" lemma="podix" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
+    <w ref="93.3" lemma="uello" pos="NOMcom" msd="Case=Abl|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">vellis</w>
+    <w ref="93.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="93.4" lemma="tero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">teris</w>
+    <w ref="93.4" lemma="incuso" pos="VER" msd="Case=Acc|Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">incusas</w>
+    <w ref="93.4" lemma="pumex" pos="NOMcom" msd="Case=Abl|Numb=Sing">pumice</w>
+    <w ana="#metaphore #topographique #culus #anus" ref="93.4" lemma="clazomena" pos="NOMcom" msd="Case=Acc|Numb=Sing">Clazomenas</w>
+  </quote>
+</div>

@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:" ana="#acte #fellatio #acte">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>2.73.1-2.73.1</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:2.73.1-2.73.1" type="line">
+    <w ref="2.73.1" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">Quid</w>
+    <w ref="2.73.1" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">faciat</w>
+    <w ref="2.73.1" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">volt</w>
+    <w ref="2.73.1" lemma="scio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">scire</w>
+    <w ref="2.73.1" lemma="lyrus" pos="NOMcom" msd="Case=Dat|Numb=Plur">Lyris</w>
+    <w ref="2.73.1" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.73.1" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing">quod</w>
+    <w ref="2.73.1" lemma="sobrius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">sobria</w>
+    <w ref="2.73.1" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ana="#acte #fellatio #acte" ref="2.73.1" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">fellat</w>
+    <w ref="2.73.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

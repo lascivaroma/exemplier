@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:123" ana="#acte #male #pedico">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>7.62.5-7.62.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:7.62.5-7.62.6" type="line">
+    <w ref="7.62.5" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ana="#acte #male #pedico" ref="7.62.5" lemma="paedico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">pedicari</w>
+    <w ref="7.62.5" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="7.62.5" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="7.62.5" lemma="testor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">testatur</w>
+    <w ref="7.62.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.62.5" lemma="amilles" pos="NOMcom" msd="Case=Abl|Numb=Sing">Amille</w>
+    <w ref="7.62.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.62.6" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">Illud</w>
+    <w ref="7.62.6" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
+    <w ref="7.62.6" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
+    <w ref="7.62.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.62.6" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="7.62.6" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="7.62.6" lemma="testis1" pos="NOMcom" msd="Case=Abl|Numb=Sing">teste</w>
+    <w ref="7.62.6" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
+    <w ref="7.62.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

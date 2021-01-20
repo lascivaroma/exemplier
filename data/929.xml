@@ -1,0 +1,45 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblScope>V.4-V.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:V.4-V.4" type="part">
+    <w ref="V.4" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="V.4" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="V.4" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="V.4" lemma="alius" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">aliis</w>
+    <w ref="V.4" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
+    <w ref="V.4" lemma="sanguis" pos="NOMcom" msd="Case=Nom|Numb=Sing">sanguis</w>
+    <w ref="V.4" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">feratur</w>
+    <w ref="V.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.4" lemma="digitus" pos="NOMcom" msd="Case=Gen|Numb=Plur">digitorum</w>
+    <w ref="V.4" lemma="impressio" pos="NOMcom" msd="Case=Abl|Numb=Sing">impressione</w>
+    <w ref="V.4" lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
+    <w ref="V.4" lemma="abstineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">abstinetur</w>
+    <w ref="V.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.4" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="V.4" lemma="supradico" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">supradictis</w>
+    <w ref="V.4" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
+    <w ref="V.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.4" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="V.4" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="V.4" lemma="perineum" pos="NOMcom" msd="Case=Abl|Numb=Sing">perineo</w>
+    <w ref="V.4" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ana="#anus #culus" ref="V.4" lemma="podicus" pos="ADJqua" msd="Case=Gen|Numb=Sing">podici</w>
+    <w ref="V.4" lemma="uicinus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">uicinis</w>
+    <w ref="V.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.4" lemma="renitor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">renititur</w>
+    <w ref="V.4" lemma="impressio" pos="NOMcom" msd="Case=Nom|Numb=Sing">impressio</w>
+    <w ref="V.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.4" lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
+    <w ref="V.4" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="V.4" lemma="uesica" pos="NOMcom" msd="Case=Gen|Numb=Sing">uesicae</w>
+    <w ref="V.4" lemma="collum" pos="NOMcom" msd="Case=Abl|Numb=Sing">collo</w>
+    <w ref="V.4" lemma="impedimentum" pos="NOMcom" msd="Case=Abl|Numb=Sing">impedimento</w>
+    <w ref="V.4" lemma="reprimo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">repressus</w>
+    <w ref="V.4" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">feretur</w>
+    <w ref="V.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.4" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="V.4" lemma="superus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp">superioribus</w>
+    <w ref="V.4" lemma="uerum4" pos="CONcoo" msd="MORPH=empty">uero</w>
+    <w ref="V.4" lemma="abstineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">abstinetur</w>
+    <w ref="V.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

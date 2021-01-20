@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:114" ana="#metaphore #anneau #culus #anus">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>7.30-7.30</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat6:7.30-7.30" type="chapter">
+    <w ref="7.30" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="7.30" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="7.30" lemma="magnus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp">maius</w>
+    <w ref="7.30" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.30" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="7.30" lemma="basis" pos="NOMcom" msd="Case=Dat|Numb=Plur">basis</w>
+    <w ref="7.30" lemma="latus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">latior</w>
+    <w ref="7.30" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.30" lemma="hamulus" pos="NOMcom" msd="Case=Abl|Numb=Sing">hamulo</w>
+    <w ref="7.30" lemma="unus" pos="ADJcar" msd="Case=Abl|Numb=Sing|Gend=MascNeut">uno</w>
+    <w ref="7.30" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="7.30" lemma="alter" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">altero</w>
+    <w ref="7.30" lemma="excipio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">excipiendum</w>
+    <w ref="7.30" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.30" lemma="paulum" pos="ADV" msd="Deg=Pos">paulumque</w>
+    <w ref="7.30" lemma="que" pos="CON" msd="MORPH=empty">{paulumque}</w>
+    <w ref="7.30" lemma="supra2" pos="PRE" msd="MORPH=empty">supra</w>
+    <w ref="7.30" lemma="basis" pos="NOMcom" msd="Case=Acc|Numb=Sing">basim</w>
+    <w ref="7.30" lemma="incido1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">incidendum</w>
+    <w ref="7.30" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="7.30" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="7.30" lemma="relinquo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">relinquendum</w>
+    <w ref="7.30" lemma="quisquam" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">quicquam</w>
+    <w ref="7.30" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="7.30" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eo</w>
+    <w ref="7.30" lemma="capitulum" pos="NOMcom" msd="Case=Abl|Numb=Sing">capitulo</w>
+    <w ref="7.30" lemma="neque" pos="ADVneg" msd="MORPH=empty">neque</w>
+    <w ref="7.30" lemma="quisquam" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">quicquam</w>
+    <w ref="7.30" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ana="#metaphore #anneau #culus #anus" ref="7.30" lemma="anus?" pos="NOMcom" msd="Case=Abl|Numb=Sing">ano</w>
+    <w ref="7.30" lemma="demo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">demendum</w>
+    <w ref="7.30" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.30" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

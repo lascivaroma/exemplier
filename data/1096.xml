@@ -1,0 +1,37 @@
+<div type="fragment" corresp="adams:123" ana="#acte #male #pedico">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>10.64.3-10.64.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:10.64.3-10.64.6" type="line">
+    <w ref="10.64.3" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">Ille</w>
+    <w ref="10.64.3" lemma="tuus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Masc">tuus</w>
+    <w ref="10.64.3" lemma="uates" pos="NOMcom" msd="Case=Nom|Numb=Sing">vates</w>
+    <w ref="10.64.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.64.3" lemma="helico" pos="NOMcom" msd="Case=Gen|Numb=Sing">Heliconis</w>
+    <w ref="10.64.3" lemma="gloria" pos="NOMcom" msd="Case=Nom|Numb=Sing">gloria</w>
+    <w ref="10.64.3" lemma="noster" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=MascNeut">nostri</w>
+    <w ref="10.64.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.64.4" lemma="pierius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Pieria</w>
+    <w ref="10.64.4" lemma="cano" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">caneret</w>
+    <w ref="10.64.4" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="10.64.4" lemma="ferus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">fera</w>
+    <w ref="10.64.4" lemma="bellum" pos="NOMcom" msd="Case=Acc|Numb=Plur">bella</w>
+    <w ref="10.64.4" lemma="tuba" pos="NOMcom" msd="Case=Abl|Numb=Sing">tuba</w>
+    <w ref="10.64.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.64.5" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ref="10.64.5" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="10.64.5" lemma="erubesco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">erubuit</w>
+    <w ref="10.64.5" lemma="lasciuus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">lascivo</w>
+    <w ref="10.64.5" lemma="dico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dicere</w>
+    <w ref="10.64.5" lemma="uersus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">versu</w>
+    <w ref="10.64.6" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="10.64.6" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="10.64.6" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ana="#acte #male #pedico" ref="10.64.6" lemma="paedico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=1">pedicor</w>
+    <w ref="10.64.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.64.6" lemma="cotta" pos="NOMcom" msd="Case=Nom|Numb=Sing">Cotta</w>
+    <w ref="10.64.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.64.6" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="10.64.6" lemma="hic2" pos="ADV" msd="Numb=Sing">hic</w>
+    <w ref="10.64.6" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">facio</w>
+    <w ref="10.64.6" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

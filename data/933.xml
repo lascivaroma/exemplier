@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>74.3-74.3</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:74.3-74.3" type="paragraph">
+    <w ref="74.3" lemma="alius" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Neut">Alia</w>
+    <w ref="74.3" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quae</w>
+    <w ref="74.3" lemma="appello1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">appellatur</w>
+    <w ref="74.3" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="74.3" lemma="Graeci" pos="ADJqua" msd="Case=Abl|Numb=Plur">Graecis</w>
+    <w ref="74.3" lemma="dactylice" pos="NOMcom" msd="Case=Abl|Numb=Sing">dactylice</w>
+    <w ref="74.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="74.3" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="74.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ana="#anus #culus" ref="74.3" lemma="podicalis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">podicalis</w>
+    <w ref="74.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="74.3" lemma="siquidem" pos="CONsub" msd="MORPH=empty">siquidem</w>
+    <w ref="74.3" lemma="podicus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">podicis</w>
+    <w ref="74.3" lemma="uitium" pos="NOMcom" msd="Case=Acc|Numb=Plur">uitia</w>
+    <w ref="74.3" lemma="emendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">emendat</w>
+    <w ref="74.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>II.19-II.19</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.19-II.19" type="part">
+    <w ref="II.19" lemma="posterus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp">posterioribus</w>
+    <w ref="II.19" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
+    <w ref="II.19" lemma="supradico" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">supradicti</w>
+    <w ref="II.19" lemma="cubile" pos="NOMcom" msd="Case=Nom|Numb=Sing">cubilis</w>
+    <w ref="II.19" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="II.19" lemma="dolor" pos="NOMcom" msd="Case=Abl|Numb=Sing">dolore</w>
+    <w ref="II.19" lemma="constituo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">constitutis</w>
+    <w ref="II.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.19" lemma="clunis" pos="NOMcom" msd="Case=Gen|Numb=Sing">clunium</w>
+    <w ref="II.19" lemma="magnus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Sup">maximus</w>
+    <w ref="II.19" lemma="dolor" pos="NOMcom" msd="Case=Nom|Numb=Sing">dolor</w>
+    <w ref="II.19" lemma="exsisto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">existit</w>
+    <w ref="II.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.19" lemma="nego" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">negato</w>
+    <w ref="II.19" lemma="officium" pos="NOMcom" msd="Case=Abl|Numb=Sing">officio</w>
+    <w ref="II.19" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ana="#anus #culus" ref="II.19" lemma="podex" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ref="II.19" lemma="uenter" pos="NOMcom" msd="Case=Gen|Numb=Sing">ventris</w>
+    <w ref="II.19" lemma="reddo" pos="VER" msd="Case=Gen|Numb=Sing|Mood=Ger|Voice=Act">reddendi</w>
+    <w ref="II.19" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

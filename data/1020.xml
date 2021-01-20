@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:118" ana="#acte #futuo">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>6.33.3-6.33.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:6.33.3-6.33.4" type="line">
+    <w ref="6.33.3" lemma="furtum" pos="NOMcom" msd="Case=Acc|Numb=Plur">Furta</w>
+    <w ref="6.33.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.33.3" lemma="fuga" pos="NOMcom" msd="Case=Gen|Numb=Plur">fugae</w>
+    <w ref="6.33.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.33.3" lemma="mors" pos="NOMcom" msd="Case=Nom|Numb=Plur">mortes</w>
+    <w ref="6.33.3" lemma="seruus1" pos="NOMcom" msd="Case=Gen|Numb=Plur">servorum</w>
+    <w ref="6.33.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.33.3" lemma="incendium" pos="NOMcom" msd="Case=Nom|Numb=Plur">incendia</w>
+    <w ref="6.33.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.33.3" lemma="luctus" pos="NOMcom" msd="Case=Gen|Numb=Plur">luctus</w>
+    <w ref="6.33.4" lemma="affligo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Adfligunt</w>
+    <w ref="6.33.4" lemma="homo" pos="NOMcom" msd="Case=Acc|Numb=Sing">hominem</w>
+    <w ref="6.33.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.33.4" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="6.33.4" lemma="miser" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">miser</w>
+    <w ref="6.33.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #futuo" ref="6.33.4" lemma="futuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">futuit</w>
+    <w ref="6.33.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

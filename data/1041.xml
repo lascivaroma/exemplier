@@ -1,0 +1,8 @@
+<div type="fragment" corresp="adams:118" ana="#acte #futuo">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>11.47.8-11.47.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.47.8-11.47.8" type="line">
+    <w ref="11.47.8" lemma="ne3" pos="ADVneg" msd="MORPH=empty">Ne</w>
+    <w ana="#acte #futuo" ref="11.47.8" lemma="futuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">futuat</w>
+    <w ref="11.47.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,10 @@
+<div type="fragment" corresp="adams:" ana="#acte #fellatio #acte">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>9.4.4-9.4.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.4.4-9.4.4" type="line">
+    <w ref="9.4.4" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ana="#acte #fellatio #acte" ref="9.4.4" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fellat</w>
+    <w ref="9.4.4" lemma="tantum1" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=MascNeut">tanti</w>
+    <w ref="9.4.4" lemma="Galla" pos="NOMcom" msd="Case=Nom|Numb=Sing">Galla</w>
+    <w ref="9.4.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

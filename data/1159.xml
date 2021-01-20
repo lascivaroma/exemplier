@@ -1,0 +1,39 @@
+<div type="fragment" corresp="adams:136" ana="#acte #fellatio #acte">
+  <bibl><author>Claudius Claudianus</author>, <title>Carminum minorum corpusculum</title>, <biblScope>44.4-44.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0089.stoa001.perseus-lat2:44.4-44.8" type="line">
+    <w ref="44.4" lemma="area" pos="NOMcom" msd="Case=Acc|Numb=Plur">Areas</w>
+    <w ref="44.4" lemma="crates" pos="NOMcom" msd="Numb=Sing|Person=3">crat</w>
+    <w ref="44.4" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="44.5" lemma="qui2" pos="CONsub" msd="Numb=Sing|Gend=Neut">quod</w>
+    <w ref="44.5" lemma="turpis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">turpem</w>
+    <w ref="44.5" lemma="patera" pos="NOMcom" msd="Numb=Sing|Person=2">pateris</w>
+    <w ref="44.5" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="44.5" lemma="canus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">cano</w>
+    <w ref="44.5" lemma="podex" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
+    <w ref="44.5" lemma="morbus" pos="NOMcom" msd="Case=Acc|Numb=Sing">morbum</w>
+    <w ref="44.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="44.6" lemma="femineus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">femineis</w>
+    <w ref="44.6" lemma="signum" pos="NOMcom" msd="Case=Abl|Numb=Plur">signis</w>
+    <w ref="44.6" lemma="luna" pos="NOMcom" msd="Case=Nom|Numb=Sing">Luna</w>
+    <w ref="44.6" lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Venusque</w>
+    <w ref="44.6" lemma="que" pos="CON" msd="MORPH=empty">{Venusque}</w>
+    <w ref="44.6" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="44.6" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="44.7" lemma="attero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">attrivit</w>
+    <w ref="44.7" lemma="saturnus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Saturnus</w>
+    <w ref="44.7" lemma="ops" pos="NOMcom" msd="Case=Acc|Numb=Plur">opes</w>
+    <w ref="44.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="44.7" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="44.7" lemma="prorsus2" pos="ADV" msd="Deg=Pos">prorsus</w>
+    <w ref="44.7" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="44.7" lemma="unus" pos="ADJcar" msd="Case=Abl|Numb=Sing|Gend=MascNeut">uno</w>
+    <w ref="44.8" lemma="haereo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">haereo</w>
+    <w ref="44.8" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="44.8" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="44.8" lemma="cunnus" pos="NOMcom" msd="Case=Acc|Numb=Sing">cunnum</w>
+    <w ana="#acte #fellatio #acte" ref="44.8" lemma="lambo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">lambere</w>
+    <w ref="44.8" lemma="causa" pos="NOMcom" msd="Case=Nom|Numb=Sing">causa</w>
+    <w ref="44.8" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
+    <w ref="44.8" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

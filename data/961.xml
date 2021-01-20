@@ -1,0 +1,37 @@
+<div type="fragment" corresp="adams:114" ana="#metaphore #topographique #culus #anus">
+  <bibl><author>Ausonius, Decimus Magnus</author>, <title>Epigrammaton Liber</title>, <biblScope>106.7-106.9</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:106.7-106.9" type="line">
+    <w ref="106.7" lemma="brachium" pos="NOMcom" msd="Case=Acc|Numb=Plur">brachia</w>
+    <w ref="106.7" lemma="deinde" pos="ADV" msd="Deg=Pos">deinde</w>
+    <w ref="106.7" lemma="roto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">rotat</w>
+    <w ref="106.7" lemma="uelut1" pos="ADVrel" msd="MORPH=empty">velut</w>
+    <w ref="106.7" lemma="entheus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem">enthea</w>
+    <w ref="106.7" lemma="daemon" pos="NOMcom" msd="Case=Abl|Numb=Sing">daemone</w>
+    <w ref="106.7" lemma="maenas" pos="NOMcom" msd="Case=Acc|Numb=Sing">Maenas</w>
+    <w ref="106.7" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="106.8" lemma="pectus" pos="NOMcom" msd="Case=Acc|Numb=Sing">pectus</w>
+    <w ref="106.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="106.8" lemma="crus" pos="NOMcom" msd="Case=Acc|Numb=Plur">crura</w>
+    <w ref="106.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="106.8" lemma="latus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">latus</w>
+    <w ref="106.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="106.8" lemma="uenter" pos="NOMcom" msd="Case=Acc|Numb=Sing">ventrem</w>
+    <w ref="106.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="106.8" lemma="femur" pos="NOMcom" msd="Case=Nom|Numb=Plur">femora</w>
+    <w ref="106.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="106.8" lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur">inguina</w>
+    <w ref="106.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="106.8" lemma="sura" pos="NOMcom" msd="Case=Acc|Numb=Plur">suras</w>
+    <w ref="106.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="106.9" lemma="tergum" pos="NOMcom" msd="Case=Acc|Numb=Sing">tergum</w>
+    <w ref="106.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="106.9" lemma="collum" pos="NOMcom" msd="Case=Acc|Numb=Plur">colla</w>
+    <w ref="106.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="106.9" lemma="humerus" pos="NOMcom" msd="Case=Acc|Numb=Plur">umeros</w>
+    <w ref="106.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="106.9" lemma="luteus2" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">luteae</w>
+    <w ana="#metaphore #topographique #culus #anus" ref="106.9" lemma="symplegas" pos="NOMcom" msd="Case=Gen|Numb=Sing">Symplegadis</w>
+    <w ref="106.9" lemma="antrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">antrum</w>
+    <w ref="106.9" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

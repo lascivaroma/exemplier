@@ -1,0 +1,42 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblScope>III.8-III.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:III.8-III.8" type="part">
+    <w ref="III.8" lemma="inflatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">inflatio</w>
+    <w ref="III.8" lemma="secundum2" pos="PRE" msd="MORPH=empty">secundum</w>
+    <w ref="III.8" lemma="gaster" pos="NOMcom" msd="Case=Abl|Numb=Sing">gastera</w>
+    <w ref="III.8" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="III.8" lemma="tensio" pos="NOMcom" msd="Case=Abl|Numb=Sing">tensione</w>
+    <w ref="III.8" lemma="multus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Sup">plurima</w>
+    <w ref="III.8" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="III.8" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="III.8" lemma="percussus" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">percussum</w>
+    <w ref="III.8" lemma="palma" pos="NOMcom" msd="Case=Gen|Numb=Sing">palmae</w>
+    <w ref="III.8" lemma="resonus" pos="NOMcom" msd="Case=Nom|Numb=Sing">resonus</w>
+    <w ref="III.8" lemma="uelut1" pos="ADVrel" msd="MORPH=empty">uelut</w>
+    <w ref="III.8" lemma="tympanum" pos="NOMcom" msd="Case=Gen|Numb=Sing">tympani</w>
+    <w ref="III.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="III.8" lemma="unde1" pos="ADVrel" msd="MORPH=empty">unde</w>
+    <w ref="III.8" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="III.8" lemma="nomen" pos="NOMcom" msd="Case=Acc|Numb=Sing">nomen</w>
+    <w ref="III.8" lemma="accipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">accepit</w>
+    <w ref="III.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="III.8" lemma="item" pos="ADV" msd="Deg=Pos">item</w>
+    <w ref="III.8" lemma="ructatio" pos="NOMcom" msd="Case=Acc|Numb=Plur">ructationes</w>
+    <w ref="III.8" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="III.8" lemma="aliquando" pos="ADV" msd="Deg=Pos">aliquando</w>
+    <w ref="III.8" lemma="intestinus" pos="NOMcom" msd="Case=Gen|Numb=Plur">intestinorum</w>
+    <w ref="III.8" lemma="tormentum" pos="NOMcom" msd="Case=Acc|Numb=Plur">tormenta</w>
+    <w ref="III.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="III.8" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="III.8" lemma="excludo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">excluso</w>
+    <w ref="III.8" lemma="uentus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uento</w>
+    <w ref="III.8" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ana="#anus #culus" ref="III.8" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ref="III.8" lemma="digero" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">digerantur</w>
+    <w ref="III.8" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="III.8" lemma="grauedo" pos="NOMcom" msd="Case=Gen|Numb=Sing">grauedinis</w>
+    <w ref="III.8" lemma="detraho" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">detrahant</w>
+    <w ref="III.8" lemma="quisquam" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">quicquam</w>
+    <w ref="III.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

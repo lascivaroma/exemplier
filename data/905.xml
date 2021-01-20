@@ -1,0 +1,54 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>II.68-II.68</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.68-II.68" type="part">
+    <w ref="II.68" lemma="paruus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">parva</w>
+    <w ref="II.68" lemma="matrix" pos="NOMcom" msd="Case=Nom|Numb=Sing">matrix</w>
+    <w ref="II.68" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
+    <w ref="II.68" lemma="perfectus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">perfecta</w>
+    <w ref="II.68" lemma="tempus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">temporibus</w>
+    <w ref="II.68" lemma="difficilis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">difficiles</w>
+    <w ref="II.68" lemma="recessus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">recessus</w>
+    <w ref="II.68" lemma="pars" pos="NOMcom" msd="Case=Gen|Numb=Plur">partium</w>
+    <w ref="II.68" lemma="fetuus" pos="NOMcom" msd="Case=Gen|Numb=Sing|Deg=Pos">fetui</w>
+    <w ref="II.68" lemma="subrogo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">subrogat</w>
+    <w ref="II.68" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="II.68" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="II.68" lemma="augmentum" pos="NOMcom" msd="Case=Nom|Numb=Plur">augmenta</w>
+    <w ref="II.68" lemma="premo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">premit</w>
+    <w ref="II.68" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="II.68" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="II.68" lemma="uicinus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">vicina</w>
+    <w ref="II.68" lemma="passio" pos="NOMcom" msd="Case=Abl|Numb=Sing">passione</w>
+    <w ref="II.68" lemma="possideo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">possessa</w>
+    <w ref="II.68" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.68" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="II.68" lemma="emorrois" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">emorroidis</w>
+    <w ref="II.68" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.68" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="II.68" lemma="collectio" pos="NOMcom" msd="Case=Abl|Numb=Plur">collectionibus</w>
+    <w ref="II.68" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#anus #culus" ref="II.68" lemma="podex" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
+    <w ref="II.68" lemma="constituo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">constitutis</w>
+    <w ref="II.68" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="II.68" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="II.68" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+    <w ref="II.68" lemma="muliebris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">muliebri</w>
+    <w ref="II.68" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.68" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing">quo</w>
+    <w ref="II.68" lemma="nascor" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">nascentis</w>
+    <w ref="II.68" lemma="transitus" pos="NOMcom" msd="Case=Nom|Numb=Sing">transsitus</w>
+    <w ref="II.68" lemma="impedimentum" pos="NOMcom" msd="Case=Abl|Numb=Sing">impedimento</w>
+    <w ref="II.68" lemma="tardo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">tardetur</w>
+    <w ref="II.68" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.68" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="II.68" lemma="uesica" pos="NOMcom" msd="Case=Abl|Numb=Sing">vesica</w>
+    <w ref="II.68" lemma="lapis" pos="NOMcom" msd="Case=Abl|Numb=Sing">lapide</w>
+    <w ref="II.68" lemma="obstrudo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">obstrusa</w>
+    <w ref="II.68" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="II.68" lemma="opprimo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">oppresso</w>
+    <w ref="II.68" lemma="longio" pos="NOMcom" msd="Case=Abl|Numb=Sing">longaone</w>
+    <w ref="II.68" lemma="stercus" pos="NOMcom" msd="Case=Gen|Numb=Plur">stercorum</w>
+    <w ref="II.68" lemma="retentio" pos="NOMcom" msd="Case=Abl|Numb=Sing">retentione</w>
+    <w ref="II.68" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:123" ana="#acte #male #pedico">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>3.8-3.10</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:3.8-3.10" type="line">
+    <w ref="3.8" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="3.9" lemma="simplex" pos="ADJmul" msd="Numb=Sing|Gend=Neut|Deg=Comp">simplicius</w>
+    <w ref="3.9" lemma="multo2" pos="ADV" msd="Deg=Pos">multo</w>
+    <w ref="3.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="3.9" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="3.9" lemma="do" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">da</w>
+    <w ana="#acte #male #pedico" ref="3.9" lemma="paedico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">pedicare</w>
+    <w ref="3.9" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="3.9" lemma="latine" pos="ADV" msd="Deg=Pos">Latine</w>
+    <w ref="3.10" lemma="dico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dicere</w>
+    <w ref="3.10" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="3.10" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="3.10" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1">faciam</w>
+    <w ref="3.10" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:118" ana="#acte #futuo">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>9.80.1-9.80.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.80.1-9.80.2" type="line">
+    <w ref="9.80.1" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">Duxerat</w>
+    <w ref="9.80.1" lemma="esurio2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">esuriens</w>
+    <w ref="9.80.1" lemma="locuples" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">locupletem</w>
+    <w ref="9.80.1" lemma="pauper" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">pauper</w>
+    <w ref="9.80.1" lemma="anus" pos="NOMcom" msd="Case=Acc|Numb=Sing">anumque</w>
+    <w ref="9.80.1" lemma="que" pos="CON" msd="MORPH=empty">{anumque}</w>
+    <w ref="9.80.1" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="9.80.2" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">Uxorem</w>
+    <w ref="9.80.2" lemma="pasco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pascit</w>
+    <w ref="9.80.2" lemma="gelliter" pos="NOMcom" msd="Case=Nom|Numb=Sing">Gellius</w>
+    <w ref="9.80.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #futuo" ref="9.80.2" lemma="futuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">futuit</w>
+    <w ref="9.80.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

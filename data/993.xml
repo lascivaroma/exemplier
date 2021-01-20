@@ -1,0 +1,47 @@
+<div type="fragment" corresp="adams:114" ana="#metaphore #anneau #culus #anus">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>7.26-7.26</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat6:7.26-7.26" type="chapter">
+    <w ref="7.26" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+    <w ref="7.26" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="7.26" lemma="eo3" pos="ADV" msd="Case=Abl|Numb=Sing">eo</w>
+    <w ref="7.26" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">uenit</w>
+    <w ref="7.26" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.26" lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>
+    <w ref="7.26" lemma="incido1" pos="VER" msd="Mood=Ind|Tense=Perf|Voice=Act|Person=1">incidi</w>
+    <w ref="7.26" lemma="super2" pos="PRE" msd="MORPH=empty">super</w>
+    <w ref="7.26" lemma="uesica" pos="NOMcom" msd="Case=Gen|Numb=Plur">uesicae</w>
+    <w ref="7.26" lemma="ceruix" pos="NOMcom" msd="Case=Acc|Numb=Sing">ceruicem</w>
+    <w ref="7.26" lemma="iuxta2" pos="PRE" msd="MORPH=empty">iuxta</w>
+    <w ana="#metaphore #anneau #culus #anus" ref="7.26" lemma="anus2" pos="NOMcom" msd="Case=Acc|Numb=Sing">anum</w>
+    <w ref="7.26" lemma="cutis" pos="NOMcom" msd="Case=Gen|Numb=Sing">cutis</w>
+    <w ref="7.26" lemma="plaga2" pos="NOMcom" msd="Case=Nom|Numb=Sing">plaga</w>
+    <w ref="7.26" lemma="lunatus" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">lunata</w>
+    <w ref="7.26" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+    <w ref="7.26" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="7.26" lemma="ceruix" pos="NOMcom" msd="Case=Acc|Numb=Sing">ceruicem</w>
+    <w ref="7.26" lemma="uesica" pos="NOMcom" msd="Case=Gen|Numb=Sing">uesicae</w>
+    <w ref="7.26" lemma="debeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">debet</w>
+    <w ref="7.26" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.26" lemma="cornu" pos="NOMcom" msd="Case=Abl|Numb=Plur">cornibus</w>
+    <w ref="7.26" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="7.26" lemma="coxa" pos="NOMcom" msd="Case=Acc|Numb=Plur">coxas</w>
+    <w ref="7.26" lemma="specto" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">spectantibus</w>
+    <w ref="7.26" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="7.26" lemma="paulum2" pos="ADV" msd="Deg=Pos">paulum</w>
+    <w ref="7.26" lemma="deinde" pos="ADV" msd="Deg=Pos">deinde</w>
+    <w ref="7.26" lemma="infra2" pos="PRE" msd="MORPH=empty">infra</w>
+    <w ref="7.26" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">ea</w>
+    <w ref="7.26" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing">parte</w>
+    <w ref="7.26" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.26" lemma="qua1" pos="ADVrel" msd="Numb=Sing|Gend=Fem">qua</w>
+    <w ref="7.26" lemma="resima" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem">resima</w>
+    <w ref="7.26" lemma="plaga1" pos="NOMcom" msd="Case=Nom|Numb=Sing">plaga</w>
+    <w ref="7.26" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.26" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.26" lemma="etiamnunc" pos="ADV" msd="Deg=Pos">etiamnum</w>
+    <w ref="7.26" lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+    <w ref="7.26" lemma="cutis" pos="NOMcom" msd="Case=Abl|Numb=Sing">cute</w>
+    <w ref="7.26" lemma="alter" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">altera</w>
+    <w ref="7.26" lemma="transuersus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">transuersa</w>
+  </quote>
+</div>

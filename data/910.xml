@@ -1,0 +1,44 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblScope>I.5-I.5</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:I.5-I.5" type="part">
+    <w ref="I.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="I.5" lemma="iactatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">iactatio</w>
+    <w ref="I.5" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="I.5" lemma="multus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Sup">plurima</w>
+    <w ref="I.5" lemma="cibus" pos="NOMcom" msd="Case=Gen|Numb=Plur">ciborum</w>
+    <w ref="I.5" lemma="appetentia" pos="NOMcom" msd="Case=Nom|Numb=Sing">appetentia</w>
+    <w ref="I.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="I.5" lemma="oculus" pos="NOMcom" msd="Case=Gen|Numb=Plur">oculorum</w>
+    <w ref="I.5" lemma="frequens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">frequens</w>
+    <w ref="I.5" lemma="palpebratio" pos="NOMcom" msd="Case=Nom|Numb=Sing">palpebratio</w>
+    <w ref="I.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.5" lemma="cor" pos="NOMcom" msd="Case=Gen|Numb=Sing">cordis</w>
+    <w ref="I.5" lemma="saltus2" pos="NOMcom" msd="Case=Nom|Numb=Plur">saltus</w>
+    <w ref="I.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="I.5" lemma="somnus" pos="NOMcom" msd="Case=Gen|Numb=Sing">somni</w>
+    <w ref="I.5" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="I.5" lemma="timor" pos="NOMcom" msd="Case=Abl|Numb=Sing">timore</w>
+    <w ref="I.5" lemma="terribilis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">terribili</w>
+    <w ref="I.5" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="I.5" lemma="turbatus" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc">turbati</w>
+    <w ref="I.5" lemma="efficio" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">effecti</w>
+    <w ref="I.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.5" lemma="item" pos="ADV" msd="Deg=Pos">item</w>
+    <w ref="I.5" lemma="uenter" pos="NOMcom" msd="Case=Gen|Numb=Sing">uentris</w>
+    <w ref="I.5" lemma="exsto" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act">exstantia</w>
+    <w ref="I.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="I.5" lemma="frequens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">frequens</w>
+    <w ref="I.5" lemma="descensus" pos="NOMcom" msd="Case=Nom|Numb=Sing">descensus</w>
+    <w ref="I.5" lemma="uentus" pos="NOMcom" msd="Case=Gen|Numb=Sing">uenti</w>
+    <w ref="I.5" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ana="#anus #culus" ref="I.5" lemma="podex" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ref="I.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.5" lemma="pello" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">pulsus</w>
+    <w ref="I.5" lemma="paruus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">paruus</w>
+    <w ref="I.5" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="I.5" lemma="creber" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">creber</w>
+    <w ref="I.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="I.5" lemma="uehemens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">uehemens</w>
+    <w ref="I.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

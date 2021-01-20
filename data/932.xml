@@ -1,0 +1,50 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>74.1-74.1</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:74.1-74.1" type="paragraph">
+    <w ref="74.1" lemma="ex" pos="PRE" msd="MORPH=empty">Ex</w>
+    <w ref="74.1" lemma="antecedo1" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">antecedenti</w>
+    <w ref="74.1" lemma="egestio" pos="NOMcom" msd="Case=Gen|Numb=Sing">egestionis</w>
+    <w ref="74.1" lemma="nimius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">nimia</w>
+    <w ref="74.1" lemma="duritia" pos="NOMcom" msd="Case=Nom|Numb=Sing">duritia</w>
+    <w ref="74.1" lemma="frequenter" pos="ADV" msd="Deg=Pos">frequenter</w>
+    <w ref="74.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="74.1" lemma="sessus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sessu</w>
+    <w ref="74.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="74.1" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+    <w ref="74.1" lemma="Graeci" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">Graeci</w>
+    <w ref="74.1" lemma="edrane" pos="NOMcom" msd="MORPH=empty">edran</w>
+    <w ref="74.1" lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">uocant</w>
+    <w ref="74.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="74.1" lemma="diuersus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">diuersa</w>
+    <w ana="#anus #culus" ref="74.1" lemma="podicus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">podicis</w>
+    <w ref="74.1" lemma="uitium" pos="NOMcom" msd="Case=Nom|Numb=Plur">uitia</w>
+    <w ref="74.1" lemma="efficio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">efficiuntur</w>
+    <w ref="74.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="74.1" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="74.1" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="74.1" lemma="ragades" pos="NOMpro" msd="Case=Nom|Numb=Sing">ragades</w>
+    <w ref="74.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="74.1" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="74.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="74.1" lemma="hiatus" pos="NOMcom" msd="Case=Nom|Numb=Sing">hiatus</w>
+    <w ref="74.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="74.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="74.1" lemma="tumor" pos="NOMcom" msd="Case=Acc|Numb=Plur">tumores</w>
+    <w ref="74.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="74.1" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Masc">quos</w>
+    <w ref="74.1" lemma="Graeci" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">Graeci</w>
+    <w ref="74.1" lemma="flegoma" pos="NOMcom" msd="Case=Acc|Numb=Plur">flegmonas</w>
+    <w ref="74.1" lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">uocant</w>
+    <w ref="74.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="74.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="74.1" lemma="condymo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">condylomata</w>
+    <w ref="74.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="74.1" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="74.1" lemma="nos" pos="PROper" msd="Case=Acc|Numb=Plur">nos</w>
+    <w ref="74.1" lemma="latinus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">latino</w>
+    <w ref="74.1" lemma="sermo" pos="NOMcom" msd="Case=Abl|Numb=Sing">sermone</w>
+    <w ref="74.1" lemma="dico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">dicimus</w>
+    <w ref="74.1" lemma="tuberculum" pos="NOMcom" msd="Case=Nom|Numb=Sing">tubercula</w>
+    <w ref="74.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

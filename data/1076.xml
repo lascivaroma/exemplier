@@ -1,0 +1,39 @@
+<div type="fragment" corresp="adams:119" ana="#acte #male #futuo #actor">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>12.43.5-12.43.10</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.43.5-12.43.10" type="line">
+    <w ref="12.43.5" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Sunt</w>
+    <w ref="12.43.5" lemma="illic2" pos="ADV" msd="Deg=Pos">illic</w>
+    <w ref="12.43.5" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
+    <w ref="12.43.5" lemma="nouus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Fem|Deg=Pos">novae</w>
+    <w ref="12.43.5" lemma="figura" pos="NOMcom" msd="Case=Nom|Numb=Plur">figurae</w>
+    <w ref="12.43.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.43.6" lemma="qualis1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=MascFem">Quales</w>
+    <w ref="12.43.6" lemma="perditus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">perditus</w>
+    <w ref="12.43.6" lemma="audeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=SemDep|Person=3">audeat</w>
+    <w ana="#acte #male #futuo #actor" ref="12.43.6" lemma="fututor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fututor</w>
+    <w ref="12.43.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.43.7" lemma="praesto1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">Praestent</w>
+    <w ref="12.43.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="12.43.7" lemma="taceo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">taceant</w>
+    <w ref="12.43.7" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="12.43.7" lemma="exolesco" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">exoleti</w>
+    <w ref="12.43.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.43.8" lemma="quis1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">Quo</w>
+    <w ref="12.43.8" lemma="symplex" pos="NOMcom" msd="Case=Abl|Numb=Sing">symplegmate</w>
+    <w ref="12.43.8" lemma="quinque" pos="ADJcar" msd="Case=Ind">quinque</w>
+    <w ref="12.43.8" lemma="copulor" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">copulentur</w>
+    <w ref="12.43.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.43.9" lemma="qui1" pos="PROrel" msd="Case=Abl|Gend=Fem">Qua</w>
+    <w ref="12.43.9" lemma="multus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Comp">plures</w>
+    <w ref="12.43.9" lemma="teneo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">teneantur</w>
+    <w ref="12.43.9" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="12.43.9" lemma="catena" pos="NOMcom" msd="Case=Abl|Numb=Sing">catena</w>
+    <w ref="12.43.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.43.10" lemma="exstinguo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">Extinctam</w>
+    <w ref="12.43.10" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">liceat</w>
+    <w ref="12.43.10" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="12.43.10" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="12.43.10" lemma="lucerna" pos="NOMcom" msd="Case=Acc|Numb=Sing">lucernam</w>
+    <w ref="12.43.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

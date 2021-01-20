@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Celerum passionum libri III</title>, <biblScope>3.163-3.163</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:3.163-3.163" type="part">
+    <w ref="3.163" lemma="utor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">utitur</w>
+    <w ref="3.163" lemma="praeterea" pos="ADV" msd="Deg=Pos">praeterea</w>
+    <w ref="3.163" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ana="#anus #culus" ref="3.163" lemma="podix" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem">podicem</w>
+    <w ref="3.163" lemma="collyrium" pos="NOMcom" msd="Case=Abl|Numb=Sing">collyrio</w>
+    <w ref="3.163" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.163" lemma="inicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inicit</w>
+    <w ref="3.163" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="3.163" lemma="praepoto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">praepotat</w>
+    <w ref="3.163" lemma="absinthium" pos="NOMcom" msd="Case=Abl|Numb=Sing">absinthio</w>
+    <w ref="3.163" lemma="aegroto" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">aegrotantes</w>
+    <w ref="3.163" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="3.163" lemma="acetum" pos="NOMcom" msd="Case=Abl|Numb=Sing">aceto</w>
+    <w ref="3.163" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.163" lemma="uinum" pos="NOMcom" msd="Case=Abl|Numb=Sing">uino</w>
+    <w ref="3.163" lemma="sincerus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">sincero</w>
+    <w ref="3.163" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="3.163" lemma="oleum" pos="NOMcom" msd="Case=Abl|Numb=Sing">oleo</w>
+    <w ref="3.163" lemma="irinus" pos="ADJqua" msd="Case=Abl|Numb=Sing">irino</w>
+    <w ref="3.163" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

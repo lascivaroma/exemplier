@@ -1,0 +1,31 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>74.4-74.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:74.4-74.4" type="paragraph">
+    <w ref="74.4" lemma="alius" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">Aliud</w>
+    <w ref="74.4" lemma="medicamentum" pos="NOMcom" msd="Case=Acc|Numb=Sing">medicamentum</w>
+    <w ref="74.4" lemma="edrico" pos="NOMcom" msd="Case=Nom|Numb=Sing">edricon</w>
+    <w ref="74.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="74.4" lemma="sycoticus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">sycotice</w>
+    <w ref="74.4" lemma="appello1" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">appellatum</w>
+    <w ref="74.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="74.4" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="74.4" lemma="condymo" pos="VER" msd="Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass">condylomata</w>
+    <w ref="74.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="74.4" lemma="ragada" pos="ADJqua" msd="Case=Acc|Numb=Plur">ragadas</w>
+    <w ref="74.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="74.4" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ana="#anus #culus" ref="74.4" lemma="podicus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">podicis</w>
+    <w ref="74.4" lemma="inuersio" pos="NOMcom" msd="Case=Acc|Numb=Plur">inuersiones</w>
+    <w ref="74.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="74.4" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">quas</w>
+    <w ref="74.4" lemma="Graeci" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">Graeci</w>
+    <w ref="74.4" lemma="ectropus" pos="NOMcom" msd="Case=Acc|Numb=Plur">ectropas</w>
+    <w ref="74.4" lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">uocant</w>
+    <w ref="74.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="74.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="74.4" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="74.4" lemma="dolor" pos="NOMcom" msd="Case=Acc|Numb=Plur">dolores</w>
+    <w ref="74.4" lemma="intolerabilis" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">intolerabiles</w>
+    <w ref="74.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

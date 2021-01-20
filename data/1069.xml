@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:119" ana="#acte #male #futuo #actor">
+  <bibl><author>Anthologia Latina</author>, <title>Anthologia Latina</title>, <biblScope>148.5-148.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:148.5-148.8" type="line">
+    <w ref="148.5" lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
+    <w ref="148.5" lemma="qua1" pos="ADVrel" msd="Gend=Fem">qua</w>
+    <w ref="148.5" lemma="longus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">longa</w>
+    <w ref="148.5" lemma="soleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3">solet</w>
+    <w ref="148.5" lemma="†" pos="PUNC" msd="MORPH=empty">†</w>
+    <w ref="148.5" lemma="quadrupium" pos="NOMcom" msd="Case=Abl|Numb=Sing">quadrupia</w>
+    <w ref="148.5" lemma="†" pos="PUNC" msd="MORPH=empty">†</w>
+    <w ref="148.5" lemma="carpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">carpere</w>
+    <w ref="148.5" lemma="sessor" pos="NOMcom" msd="Case=Nom|Numb=Sing">sessor</w>
+    <w ref="148.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="148.6" lemma="subduco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">Subducens</w>
+    <w ref="148.6" lemma="durus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">durae</w>
+    <w ref="148.6" lemma="pendulus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">pendula</w>
+    <w ref="148.6" lemma="crus" pos="NOMcom" msd="Case=Acc|Numb=Plur">crura</w>
+    <w ref="148.6" lemma="uia" pos="NOMcom" msd="Case=Gen|Numb=Sing">uiae</w>
+    <w ref="148.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="148.7" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">Hanc</w>
+    <w ref="148.7" lemma="foueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fouet</w>
+    <w ref="148.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="148.7" lemma="amplexus" pos="NOMcom" msd="Case=Abl|Numb=Sing">amplexu</w>
+    <w ref="148.7" lemma="molior" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">molitur</w>
+    <w ref="148.7" lemma="dum" pos="CONsub" msd="MORPH=empty">dumque</w>
+    <w ref="148.7" lemma="que" pos="CON" msd="MORPH=empty">{dumque}</w>
+    <w ref="148.7" lemma="caballa" pos="NOMcom" msd="Case=Gen|Numb=Sing">caballae</w>
+    <w ref="148.8" lemma="attero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Adterit</w>
+    <w ref="148.8" lemma="assiduus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">adsiduo</w>
+    <w ref="148.8" lemma="penis" pos="NOMcom" msd="Case=Abl|Numb=Sing">pene</w>
+    <w ana="#acte #male #futuo #actor" ref="148.8" lemma="fututor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fututor</w>
+    <w ref="148.8" lemma="hebes" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">hebes</w>
+    <w ref="148.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

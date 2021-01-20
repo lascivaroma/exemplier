@@ -1,0 +1,26 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Juvenal</author>, <title>Satires</title>, <biblScope>2.11-2.13</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:2.11-2.13" type="line">
+    <w ref="2.11" lemma="hispidus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">hispida</w>
+    <w ref="2.11" lemma="membrum" pos="NOMcom" msd="Case=Nom|Numb=Plur">membra</w>
+    <w ref="2.11" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ref="2.11" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.11" lemma="durus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">durae</w>
+    <w ref="2.11" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="2.11" lemma="brachium" pos="NOMcom" msd="Case=Acc|Numb=Plur">bracchia</w>
+    <w ref="2.11" lemma="saeta" pos="NOMcom" msd="Case=Nom|Numb=Plur">saetae</w>
+    <w ref="2.12" lemma="promitto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">promittunt</w>
+    <w ref="2.12" lemma="atrox" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">atrocem</w>
+    <w ref="2.12" lemma="animus" pos="NOMcom" msd="Case=Acc|Numb=Sing">animum</w>
+    <w ref="2.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.12" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ana="#anus #culus" ref="2.12" lemma="podex" pos="NOMcom" msd="Case=Abl|Numb=Sing|Deg=Pos">podice</w>
+    <w ref="2.12" lemma="leuis1" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">levi</w>
+    <w ref="2.13" lemma="caedo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">caeduntur</w>
+    <w ref="2.13" lemma="tumidus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">tumidae</w>
+    <w ref="2.13" lemma="medicus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">medico</w>
+    <w ref="2.13" lemma="rideo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">ridente</w>
+    <w ref="2.13" lemma="marisca" pos="NOMcom" msd="Case=Nom|Numb=Sing">mariscae</w>
+    <w ref="2.13" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:136" ana="#acte #fellatio #acte">
+  <bibl><author>Juvenal</author>, <title>Satires</title>, <biblScope>2.49-2.50</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:2.49-2.50" type="line">
+    <w ref="2.49" lemma="medius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Media</w>
+    <w ref="2.49" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ana="#acte #fellatio #acte" ref="2.49" lemma="lambo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">lambit</w>
+    <w ref="2.49" lemma="cluuia" pos="NOMcom" msd="Case=Acc|Numb=Sing">Cluviam</w>
+    <w ref="2.49" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="2.49" lemma="florus" pos="NOMcom" msd="Case=Nom|Numb=Plur">Flora</w>
+    <w ref="2.49" lemma="catulla" pos="NOMcom" msd="Case=Acc|Numb=Sing">Catullam</w>
+    <w ref="2.49" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.50" lemma="hispo" pos="NOMcom" msd="Case=Abl|Numb=Sing">Hispo</w>
+    <w ref="2.50" lemma="subeo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">subit</w>
+    <w ref="2.50" lemma="iuuenis1" pos="NOMcom" msd="Case=Nom|Numb=Plur">iuvenes</w>
+    <w ref="2.50" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.50" lemma="morbus" pos="NOMcom" msd="Case=Abl|Numb=Sing">morbo</w>
+    <w ref="2.50" lemma="palleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pallet</w>
+    <w ref="2.50" lemma="uterque" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">utroque</w>
+    <w ref="2.50" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

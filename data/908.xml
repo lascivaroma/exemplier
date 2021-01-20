@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Celerum passionum libri III</title>, <biblScope>3.154-3.154</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:3.154-3.154" type="part">
+    <w ref="3.154" lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
+    <w ref="3.154" lemma="statim" pos="ADV" msd="Deg=Pos">statim</w>
+    <w ref="3.154" lemma="adhibeo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">adhibendum</w>
+    <w ref="3.154" lemma="clyster" pos="NOMcom" msd="Case=Acc|Numb=Sing">clysterem</w>
+    <w ref="3.154" lemma="probo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">probat</w>
+    <w ref="3.154" lemma="detraho" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">detracto</w>
+    <w ref="3.154" lemma="supradico" pos="NOMcom" msd="Case=Abl|Numb=Sing|Gend=MascNeut">supradicto</w>
+    <w ref="3.154" lemma="folliculus" pos="NOMcom" msd="Case=Abl|Numb=Sing">folliculo</w>
+    <w ref="3.154" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#anus #culus" ref="3.154" lemma="podex" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">podicem</w>
+    <w ref="3.154" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="3.154" lemma="spongia" pos="NOMcom" msd="Case=Abl|Numb=Sing">spongia</w>
+    <w ref="3.154" lemma="obstruo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">obstruendum</w>
+    <w ref="3.154" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="3.154" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="3.154" lemma="aqua" pos="NOMcom" msd="Case=Acc|Numb=Sing">aquam</w>
+    <w ref="3.154" lemma="calidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">calidam</w>
+    <w ref="3.154" lemma="aegroto" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">aegrotantem</w>
+    <w ref="3.154" lemma="depono" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">deponendum</w>
+    <w ref="3.154" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

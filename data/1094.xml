@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:123" ana="#acte #male #pedico">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>7.67.1-7.67.3</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:7.67.1-7.67.3" type="line">
+    <w ana="#acte #male #pedico" ref="7.67.1" lemma="paedico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Pedicat</w>
+    <w ref="7.67.1" lemma="puer" pos="NOMcom" msd="Case=Acc|Numb=Plur">pueros</w>
+    <w ref="7.67.1" lemma="tribae" pos="NOMcom" msd="Case=Acc|Numb=Plur">tribas</w>
+    <w ref="7.67.1" lemma="philaenis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">Philaenis</w>
+    <w ref="7.67.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="7.67.2" lemma="tentigo" pos="NOMcom" msd="Case=Abl|Numb=Sing">tentigine</w>
+    <w ref="7.67.2" lemma="ne2" pos="ADV" msd="MORPH=empty">{tentigine}</w>
+    <w ref="7.67.2" lemma="saeuus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">saevior</w>
+    <w ref="7.67.2" lemma="maritus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">mariti</w>
+    <w ref="7.67.3" lemma="undena" pos="ADJdis" msd="Case=Acc|Numb=Plur">Undenas</w>
+    <w ref="7.67.3" lemma="dolo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dolat</w>
+    <w ref="7.67.3" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="7.67.3" lemma="dies" pos="NOMcom" msd="Case=Abl|Numb=Sing">die</w>
+    <w ref="7.67.3" lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Plur">puellas</w>
+    <w ref="7.67.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

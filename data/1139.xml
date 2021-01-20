@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:" ana="#acte #fellatio #acte">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>2.61.7-2.61.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:2.61.7-2.61.8" type="line">
+    <w ref="2.61.7" lemma="haereo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">Haereat</w>
+    <w ref="2.61.7" lemma="inguen" pos="NOMcom" msd="Case=Dat|Numb=Plur">inguinibus</w>
+    <w ref="2.61.7" lemma="potius" pos="ADV" msd="Deg=Comp">potius</w>
+    <w ref="2.61.7" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+    <w ref="2.61.7" lemma="noxius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">noxia</w>
+    <w ref="2.61.7" lemma="lingua" pos="NOMcom" msd="Case=Abl|Numb=Sing">lingua</w>
+    <w ref="2.61.7" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.61.8" lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
+    <w ref="2.61.8" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ana="#acte #fellatio #acte" ref="2.61.8" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">fellaret</w>
+    <w ref="2.61.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.61.8" lemma="purus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">purior</w>
+    <w ref="2.61.8" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="2.61.8" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="2.61.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

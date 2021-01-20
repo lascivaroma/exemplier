@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:123" ana="#acte #male #pedico">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>28.1-28.3</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:28.1-28.3" type="line">
+    <w ref="28.1" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">Tu</w>
+    <w ref="28.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="28.1" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="28.1" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="28.1" lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
+    <w ref="28.1" lemma="cogito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">cogitas</w>
+    <w ref="28.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="28.1" lemma="aegre" pos="ADV" msd="Deg=Pos">aegre</w>
+    <w ref="28.2" lemma="carpo" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">carpendo</w>
+    <w ref="28.2" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="28.2" lemma="tempero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">temperas</w>
+    <w ref="28.2" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="28.2" lemma="hortus" pos="NOMcom" msd="Case=Abl|Numb=Sing">horto</w>
+    <w ref="28.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #male #pedico" ref="28.3" lemma="paedico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=2">pedicabere</w>
+    <w ref="28.3" lemma="fascinum" pos="NOMcom" msd="Case=Abl|Numb=Sing">fascino</w>
+    <w ref="28.3" lemma="pedalis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">pedali</w>
+    <w ref="28.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,27 @@
+<div type="fragment" corresp="adams:118" ana="#acte #futuo">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>11.40.3-11.40.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.40.3-11.40.6" type="line">
+    <w ref="11.40.3" lemma="quam1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">Quam</w>
+    <w ref="11.40.3" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">toto</w>
+    <w ref="11.40.3" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="11.40.3" lemma="mensis" pos="NOMcom" msd="Case=Abl|Numb=Sing">mense</w>
+    <w ref="11.40.3" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ana="#acte #futuo" ref="11.40.3" lemma="futuo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">fututam</w>
+    <w ref="11.40.4" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+    <w ref="11.40.4" lemma="tristis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">tristis</w>
+    <w ref="11.40.4" lemma="queror" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Dep|Person=3">quereretur</w>
+    <w ref="11.40.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="11.40.4" lemma="rogo" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">roganti</w>
+    <w ref="11.40.5" lemma="causa" pos="NOMcom" msd="Case=Acc|Numb=Sing">Causam</w>
+    <w ref="11.40.5" lemma="reddo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">reddere</w>
+    <w ref="11.40.5" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">vellet</w>
+    <w ref="11.40.5" lemma="aelianus" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Deg=Pos">Aeliano</w>
+    <w ref="11.40.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.40.6" lemma="respondeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Respondit</w>
+    <w ref="11.40.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.40.6" lemma="glycer" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Fem|Deg=Pos">Glycerae</w>
+    <w ref="11.40.6" lemma="doleo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dolere</w>
+    <w ref="11.40.6" lemma="dens" pos="NOMcom" msd="Case=Acc|Numb=Plur">dentes</w>
+    <w ref="11.40.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

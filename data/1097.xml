@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:123" ana="#acte #male #pedico">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>11.45.7-11.45.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.45.7-11.45.8" type="line">
+    <w ref="11.45.7" lemma="nemo" pos="PROind" msd="Case=Nom|Numb=Sing">Nemo</w>
+    <w ref="11.45.7" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="11.45.7" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+    <w ref="11.45.7" lemma="teneo" pos="ADJqua" msd="Deg=Pos|Mood=Inf|Tense=Pres|Voice=Pass">teneri</w>
+    <w ref="11.45.7" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+    <w ref="11.45.7" lemma="sollicitus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">sollicitique</w>
+    <w ref="11.45.7" lemma="que" pos="CON" msd="MORPH=empty">{sollicitique}</w>
+    <w ref="11.45.7" lemma="pudor" pos="NOMcom" msd="Case=Gen|Numb=Sing">pudoris</w>
+    <w ref="11.45.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.45.8" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">Qui</w>
+    <w ref="11.45.8" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ana="#acte #male #pedico" ref="11.45.8" lemma="paedico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pedicat</w>
+    <w ref="11.45.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.45.8" lemma="canthare" pos="NOMcom" msd="Case=Abl">Canthare</w>
+    <w ref="11.45.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.45.8" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="11.45.8" lemma="futuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">futuit</w>
+    <w ref="11.45.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

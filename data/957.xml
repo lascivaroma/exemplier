@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:113" ana="#anus #culus #metaphore #ficus">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>14.86.1-14.86.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:14.86.1-14.86.2" type="line">
+    <w ref="14.86.1" lemma="stragulum" pos="NOMcom" msd="Case=Acc|Numb=Plur|Deg=Pos">Stragula</w>
+    <w ref="14.86.1" lemma="succingo" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">succincti</w>
+    <w ref="14.86.1" lemma="uenator" pos="NOMcom" msd="Case=Nom|Numb=Sing">venator</w>
+    <w ref="14.86.1" lemma="sumo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">sume</w>
+    <w ref="14.86.1" lemma="ueredium" pos="NOMpro" msd="Case=Gen|Numb=Sing">veredi</w>
+    <w ref="14.86.1" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="14.86.2" lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
+    <w ref="14.86.2" lemma="soleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3">solet</w>
+    <w ref="14.86.2" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="14.86.2" lemma="nudus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">nudo</w>
+    <w ref="14.86.2" lemma="surgo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">surgere</w>
+    <w ana="#anus #culus #metaphore #ficus" ref="14.86.2" lemma="ficus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">ficus</w>
+    <w ref="14.86.2" lemma="equus" pos="NOMcom" msd="Case=Abl|Numb=Sing">equo</w>
+    <w ref="14.86.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

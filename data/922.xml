@@ -1,0 +1,64 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Celerum passionum libri III</title>, <biblScope>2.83-2.83</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:2.83-2.83" type="part">
+    <w ref="2.83" lemma="prohibeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">prohibemus</w>
+    <w ref="2.83" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="2.83" lemma="supradico" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">supradictis</w>
+    <w ref="2.83" lemma="ratio" pos="NOMcom" msd="Case=Abl|Numb=Plur">rationibus</w>
+    <w ref="2.83" lemma="unctio" pos="NOMcom" msd="Case=Acc|Numb=Sing">unctionem</w>
+    <w ref="2.83" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="2.83" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">illo</w>
+    <w ref="2.83" lemma="liquor1" pos="NOMcom" msd="Case=Abl|Numb=Sing">liquore</w>
+    <w ref="2.83" lemma="articulus" pos="NOMcom" msd="Case=Abl|Numb=Plur">articulis</w>
+    <w ref="2.83" lemma="adhibeo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">adhibendam</w>
+    <w ref="2.83" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="2.83" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="2.83" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eo</w>
+    <w ref="2.83" lemma="quisquam" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">quicquam</w>
+    <w ref="2.83" lemma="poto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">potandum</w>
+    <w ref="2.83" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="2.83" lemma="cibus" pos="NOMcom" msd="Case=Abl|Numb=Sing">cibo</w>
+    <w ref="2.83" lemma="admisceo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">admiscendum</w>
+    <w ref="2.83" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.83" lemma="item" pos="ADV" msd="Deg=Pos">item</w>
+    <w ref="2.83" lemma="sternutamentum" pos="NOMcom" msd="Case=Acc|Numb=Plur">sternutamenta</w>
+    <w ref="2.83" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="2.83" lemma="rado" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem">rasuram</w>
+    <w ref="2.83" lemma="caput" pos="NOMcom" msd="Case=Gen|Numb=Sing">capitis</w>
+    <w ref="2.83" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="2.83" lemma="articulus" pos="NOMcom" msd="Case=Gen|Numb=Plur">articulorum</w>
+    <w ref="2.83" lemma="sinapismus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos">sinapismum</w>
+    <w ref="2.83" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="2.83" lemma="suppono" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Adj|Voice=Pass">supponenda</w>
+    <w ana="#anus #culus" ref="2.83" lemma="podicus" pos="NOMcom" msd="Case=Gen|Numb=Sing">podici</w>
+    <w ref="2.83" lemma="acer2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">acria</w>
+    <w ref="2.83" lemma="collyrium" pos="NOMcom" msd="Case=Acc|Numb=Sing">collyria</w>
+    <w ref="2.83" lemma="ob" pos="PRE" msd="MORPH=empty">ob</w>
+    <w ref="2.83" lemma="prouoco" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">prouocandum</w>
+    <w ref="2.83" lemma="uenter" pos="NOMcom" msd="Case=Acc|Numb=Sing">uentrem</w>
+    <w ref="2.83" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.83" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="2.83" lemma="appello1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">appellauit</w>
+    <w ref="2.83" lemma="balanus" pos="NOMcom" msd="Case=Acc|Numb=Plur">balanos</w>
+    <w ref="2.83" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.83" lemma="item" pos="ADV" msd="Deg=Pos">item</w>
+    <w ref="2.83" lemma="diagridium" pos="NOMcom" msd="Case=Acc|Numb=Sing">diagridium</w>
+    <w ref="2.83" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="2.83" lemma="castoreum" pos="NOMcom" msd="Case=Acc|Numb=Sing">castoreum</w>
+    <w ref="2.83" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.83" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Neut">omnia</w>
+    <w ref="2.83" lemma="grauabilis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">grauabilia</w>
+    <w ref="2.83" lemma="fomentum" pos="NOMcom" msd="Case=Nom|Numb=Plur">fomenta</w>
+    <w ref="2.83" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.83" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="2.83" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibus</w>
+    <w ref="2.83" lemma="tumor" pos="NOMcom" msd="Case=Nom|Numb=Sing">tumor</w>
+    <w ref="2.83" lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
+    <w ref="2.83" lemma="augeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">augetur</w>
+    <w ref="2.83" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.83" lemma="soporifer" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">soporifera</w>
+    <w ref="2.83" lemma="premo" pos="NOMcom" msd="Case=Nom|Numb=Sing">pressura</w>
+    <w ref="2.83" lemma="gemino" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">geminatur</w>
+    <w ref="2.83" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

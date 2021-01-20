@@ -1,0 +1,31 @@
+<div type="fragment" corresp="adams:136" ana="#acte #fellatio #acte">
+  <bibl><author>Claudius Claudianus</author>, <title>Carminum minorum corpusculum</title>, <biblScope>43.7-43.10</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0089.stoa001.perseus-lat2:43.7-43.10" type="line">
+    <w ref="43.7" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="43.7" lemma="spurcus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">spurcos</w>
+    <w ref="43.7" lemma="auidus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Fem|Deg=Pos">avidae</w>
+    <w ana="#acte #fellatio #acte" ref="43.7" lemma="lambo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">lambit</w>
+    <w ref="43.7" lemma="meretrix" pos="NOMcom" msd="Case=Gen|Numb=Sing">meretricis</w>
+    <w ref="43.7" lemma="hiatus" pos="NOMcom" msd="Case=Nom|Numb=Sing">hiatus</w>
+    <w ref="43.8" lemma="consumo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">consumens</w>
+    <w ref="43.8" lemma="luxus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">luxu</w>
+    <w ref="43.8" lemma="flagitium" pos="NOMcom" msd="Case=Abl|Numb=Plur">flagitiisque</w>
+    <w ref="43.8" lemma="que" pos="CON" msd="MORPH=empty">{flagitiisque}</w>
+    <w ref="43.8" lemma="domus" pos="NOMcom" msd="Case=Acc|Numb=Sing">domum</w>
+    <w ref="43.9" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="43.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="43.9" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">quas</w>
+    <w ref="43.9" lemma="fallax" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Com|Deg=Pos">fallacis</w>
+    <w ref="43.9" lemma="colligo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">collegit</w>
+    <w ref="43.9" lemma="lingua" pos="NOMcom" msd="Case=Nom|Numb=Sing">lingua</w>
+    <w ref="43.9" lemma="parens1" pos="NOMcom" msd="Case=Gen|Numb=Sing">parentis</w>
+    <w ref="43.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="43.10" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Fem">has</w>
+    <w ref="43.10" lemma="idem" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Fem">eadem</w>
+    <w ref="43.10" lemma="natus?" pos="VER" msd="Case=Gen|Numb=Sing">nati</w>
+    <w ref="43.10" lemma="lingua" pos="NOMcom" msd="Case=Nom|Numb=Sing">lingua</w>
+    <w ref="43.10" lemma="refundo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">refundit</w>
+    <w ref="43.10" lemma="ops" pos="NOMcom" msd="Case=Acc|Numb=Plur">opes</w>
+    <w ref="43.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

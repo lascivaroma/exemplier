@@ -1,0 +1,29 @@
+<div type="fragment" corresp="adams:115" ana="#euphemism #culus #anus">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>9.47.4-9.47.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.47.4-9.47.6" type="line">
+    <w ref="9.47.4" lemma="praependeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">Praependet</w>
+    <w ref="9.47.4" lemma="sane" pos="ADV" msd="Deg=Pos">sane</w>
+    <w ref="9.47.4" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="9.47.4" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="9.47.4" lemma="barba" pos="NOMcom" msd="Case=Nom|Numb=Sing">barba</w>
+    <w ref="9.47.4" lemma="paruus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">minor</w>
+    <w ref="9.47.4" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="9.47.5" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="9.47.5" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing">quod</w>
+    <w ref="9.47.5" lemma="et1" pos="ADV" msd="MORPH=empty">et</w>
+    <w ref="9.47.5" lemma="hircosus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">hircosis</w>
+    <w ref="9.47.5" lemma="serus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">serum</w>
+    <w ref="9.47.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="9.47.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.47.5" lemma="turpe?" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">turpe</w>
+    <w ref="9.47.5" lemma="pilosus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">pilosis</w>
+    <w ref="9.47.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.47.6" lemma="in" pos="PRE" msd="MORPH=empty">In</w>
+    <w ref="9.47.6" lemma="mollis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">molli</w>
+    <w ref="9.47.6" lemma="rigidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">rigidam</w>
+    <w ana="#euphemism #culus #anus" ref="9.47.6" lemma="clunis" pos="NOMcom" msd="Case=Abl|Numb=Sing">clune</w>
+    <w ref="9.47.6" lemma="libenter" pos="ADV" msd="Deg=Pos">libenter</w>
+    <w ref="9.47.6" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">habes</w>
+    <w ref="9.47.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:123" ana="#acte #male #pedico">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblScope>16.14-16.14</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:16.14-16.14" type="line">
+    <w ana="#acte #male #pedico" ref="16.14" lemma="paedico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">pedicabo</w>
+    <w ref="16.14" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="16.14" lemma="uos" pos="PROper" msd="Case=Acc|Numb=Plur">vos</w>
+    <w ref="16.14" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="16.14" lemma="irrumo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">irrumabo</w>
+    <w ref="16.14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

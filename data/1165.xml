@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:136" ana="#male #acte #passive">
+  <bibl><author>Juvenal</author>, <title>Satires</title>, <biblScope>2.18-2.21</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:2.18-2.21" type="line">
+    <w ref="2.18" lemma="hic1" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=MascNeut">horum</w>
+    <w ref="2.18" lemma="simplicitas" pos="NOMcom" msd="Case=Nom|Numb=Sing">simplicitas</w>
+    <w ref="2.18" lemma="miserabilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">miserabilis</w>
+    <w ref="2.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.18" lemma="hic1" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">his</w>
+    <w ref="2.18" lemma="furor1" pos="NOMcom" msd="Case=Nom|Numb=Sing">furor</w>
+    <w ref="2.18" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ref="2.19" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dat</w>
+    <w ref="2.19" lemma="uenia" pos="NOMcom" msd="Case=Acc|Numb=Sing">veniam</w>
+    <w ref="2.19" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.19" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="2.19" lemma="malus3" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Comp">peiores</w>
+    <w ref="2.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.19" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+    <w ref="2.19" lemma="talis" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">talia</w>
+    <w ref="2.19" lemma="uerbum" pos="NOMcom" msd="Case=Abl|Numb=Plur">verbis</w>
+    <w ref="2.20" lemma="hercules" pos="NOMcom" msd="Case=Gen|Numb=Plur">Herculis</w>
+    <w ref="2.20" lemma="inuado2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">invadunt</w>
+    <w ref="2.20" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.20" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="2.20" lemma="uirtus" pos="NOMcom" msd="Case=Abl|Numb=Sing">virtute</w>
+    <w ref="2.20" lemma="loquor" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">locuti</w>
+    <w ref="2.21" lemma="clunis" pos="NOMcom" msd="Case=Acc|Numb=Sing">clunem</w>
+    <w ref="2.21" lemma="agito" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">agitant</w>
+    <w ref="2.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.21" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="2.21" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ana="#male #acte #passive" ref="2.21" lemma="ceueo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">ceventem</w>
+    <w ref="2.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.21" lemma="sextus" pos="ADJord" msd="Case=Abl|Deg=Pos">Sexte</w>
+    <w ref="2.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.21" lemma="uereor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=1">verebor</w>
+    <w ref="2.21" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

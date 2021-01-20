@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:125" ana="#acte #fellatio #irrumo">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblScope>21.7-21.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:21.7-21.8" type="line">
+    <w ref="21.7" lemma="frustra" pos="ADV" msd="Deg=Pos">frustra</w>
+    <w ref="21.7" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="21.7" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="21.7" lemma="insidiae" pos="NOMcom" msd="Case=Acc|Numb=Plur">insidias</w>
+    <w ref="21.7" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="21.7" lemma="instruo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">instruentem</w>
+    <w ref="21.8" lemma="tango" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">tangam</w>
+    <w ref="21.8" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="21.8" lemma="prior" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">prior</w>
+    <w ana="#acte #fellatio #irrumo #actor" ref="21.8" lemma="irrumatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">irrumatione</w>
+    <w ref="21.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

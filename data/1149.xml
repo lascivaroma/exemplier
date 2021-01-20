@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:" ana="#acte #fellatio #acte #actor">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>11.66.1-11.66.3</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.66.1-11.66.3" type="line">
+    <w ref="11.66.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="11.66.1" lemma="delator" pos="NOMcom" msd="Case=Nom|Numb=Sing">delator</w>
+    <w ref="11.66.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
+    <w ref="11.66.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="11.66.1" lemma="calumniator" pos="NOMcom" msd="Case=Nom|Numb=Sing">calumniator</w>
+    <w ref="11.66.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.66.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="11.66.2" lemma="fraudator" pos="NOMcom" msd="Case=Nom|Numb=Sing">fraudator</w>
+    <w ref="11.66.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
+    <w ref="11.66.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="11.66.2" lemma="negotiator" pos="NOMcom" msd="Case=Nom|Numb=Sing">negotiator</w>
+    <w ref="11.66.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.66.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ana="#acte #fellatio #acte #actor" ref="11.66.3" lemma="fellator" pos="NOMcom" msd="Case=Nom|Numb=Sing">fellator</w>
+    <w ref="11.66.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
+    <w ref="11.66.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="11.66.3" lemma="lanista" pos="NOMcom" msd="Case=Nom|Numb=Sing">lanista</w>
+    <w ref="11.66.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

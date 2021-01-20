@@ -1,0 +1,37 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Ausonius, Decimus Magnus</author>, <title>Epistulae</title>, <biblScope>14.31-14.35</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa011.perseus-lat2:14.31-14.35" type="line">
+    <w ref="14.31" lemma="moneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">moneo</w>
+    <w ref="14.31" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="14.31" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.31" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+    <w ref="14.31" lemma="recuso" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">recuses</w>
+    <w ref="14.32" lemma="stringo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">stringere</w>
+    <w ref="14.32" lemma="fulmincum" pos="NOMcom" msd="Case=Abl|Numb=Sing">fulminco</w>
+    <w ref="14.32" lemma="uenabulum" pos="NOMcom" msd="Case=Acc|Numb=Plur">venabula</w>
+    <w ref="14.32" lemma="comminus" pos="ADV" msd="Deg=Pos">comminus</w>
+    <w ref="14.32" lemma="hostis" pos="NOMcom" msd="Case=Dat|Numb=Sing">hosti</w>
+    <w ref="14.32" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.33" lemma="exemplum" pos="NOMcom" msd="Case=Acc|Numb=Sing">exemplum</w>
+    <w ref="14.33" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="14.33" lemma="frater" pos="NOMcom" msd="Case=Abl|Numb=Sing">fratre</w>
+    <w ref="14.33" lemma="timeo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">time</w>
+    <w ref="14.33" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.33" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="14.33" lemma="uestis" pos="NOMcom" msd="Case=Abl|Numb=Sing">veste</w>
+    <w ref="14.33" lemma="reduco" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">reducta</w>
+    <w ref="14.34" lemma="ostento" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ostentat</w>
+    <w ref="14.34" lemma="foedus2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">foedas</w>
+    <w ref="14.34" lemma="prope2" pos="PRE" msd="Deg=Pos">prope</w>
+    <w ref="14.34" lemma="turpis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">turpia</w>
+    <w ref="14.34" lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
+    <w ref="14.34" lemma="lacuna" pos="NOMcom" msd="Case=Acc|Numb=Plur">lacunas</w>
+    <w ref="14.35" lemma="perfodio" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">perfossasque</w>
+    <w ref="14.35" lemma="que" pos="CON" msd="MORPH=empty">{perfossasque}</w>
+    <w ref="14.35" lemma="uates" pos="NOMcom" msd="Case=Nom|Numb=Plur">uates</w>
+    <w ref="14.35" lemma="uicinus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">vicino</w>
+    <w ana="#anus #culus" ref="14.35" lemma="podex" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
+    <w ref="14.35" lemma="nudo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">nudat</w>
+    <w ref="14.35" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

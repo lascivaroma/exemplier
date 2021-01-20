@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:123" ana="#acte #male #pedico">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>11.94.5-11.94.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.94.5-11.94.6" type="line">
+    <w ref="11.94.5" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">Illud</w>
+    <w ref="11.94.5" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="11.94.5" lemma="crucio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cruciat</w>
+    <w ref="11.94.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.94.5" lemma="solyma" pos="NOMcom" msd="Case=Dat|Numb=Plur">Solymis</w>
+    <w ref="11.94.5" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="11.94.5" lemma="nascor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">natus</w>
+    <w ref="11.94.5" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="11.94.5" lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">ipsis</w>
+    <w ana="#acte #male #pedico" ref="11.94.6" lemma="paedico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">Pedicas</w>
+    <w ref="11.94.6" lemma="puer" pos="NOMcom" msd="Case=Acc|Numb=Sing">puerum</w>
+    <w ref="11.94.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.94.6" lemma="uerpes" pos="NOMcom" msd="Case=Acc|Numb=Sing">verpe</w>
+    <w ref="11.94.6" lemma="poeta" pos="NOMcom" msd="Case=Nom|Numb=Sing">poeta</w>
+    <w ref="11.94.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.94.6" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=MascNeut">meum</w>
+    <w ref="11.94.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

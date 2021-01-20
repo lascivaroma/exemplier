@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:125" ana="#acte #fellatio #irrumo">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>70.9-70.13</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.9-70.13" type="line">
+    <w ref="70.9" lemma="at2" pos="CONcoo" msd="MORPH=empty">at</w>
+    <w ref="70.9" lemma="uos" pos="PROper" msd="Case=Nom|Numb=Plur">uos</w>
+    <w ref="70.9" lemma="ample" pos="ADV" msd="Deg=Comp">amplius</w>
+    <w ref="70.9" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="70.9" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Sing">loco</w>
+    <w ref="70.9" lemma="caueo" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">cauete</w>
+    <w ref="70.10" lemma="quisquam" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">quicquam</w>
+    <w ref="70.10" lemma="pono" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ponere</w>
+    <w ref="70.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="70.10" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="70.10" lemma="famelicus2" pos="ADJqua" msd="Case=Gen|Numb=Plur|Deg=Pos">famelicarum</w>
+    <w ref="70.11" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="70.11" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="70.11" lemma="turba" pos="NOMcom" msd="Case=Nom|Numb=Sing">turba</w>
+    <w ref="70.11" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">uelit</w>
+    <w ref="70.11" lemma="canis" pos="NOMcom" msd="Case=Acc|Numb=Plur">canum</w>
+    <w ref="70.11" lemma="uenio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">uenire</w>
+    <w ref="70.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="70.12" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="70.12" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
+    <w ref="70.12" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="70.12" lemma="colo2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">colitis</w>
+    <w ref="70.12" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=MascNeut">meumque</w>
+    <w ref="70.12" lemma="que" pos="CON" msd="MORPH=empty">{meumque}</w>
+    <w ref="70.12" lemma="numen" pos="NOMcom" msd="Case=Acc|Numb=Sing">numen</w>
+    <w ref="70.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="70.13" lemma="custos" pos="NOMcom" msd="Case=Acc|Numb=Plur">custodes</w>
+    <w ref="70.13" lemma="habeo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=2">habeatis</w>
+    <w ana="#acte #fellatio #irrumo" ref="70.13" lemma="irrumo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">irrumatos</w>
+    <w ref="70.13" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

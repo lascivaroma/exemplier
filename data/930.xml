@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>42.14-42.14</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:42.14-42.14" type="paragraph">
+    <w ref="42.14" lemma="etiam" pos="ADV" msd="Deg=Pos">Etiam</w>
+    <w ref="42.14" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="42.14" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="42.14" lemma="inferus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Comp">inferiores</w>
+    <w ana="#anus #culus" ref="42.14" lemma="podicus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=MascFem|Deg=Pos">podicis</w>
+    <w ref="42.14" lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Plur">partes</w>
+    <w ref="42.14" lemma="inicio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">iniectum</w>
+    <w ref="42.14" lemma="magnifice" pos="ADV" msd="Deg=Pos">magnifice</w>
+    <w ref="42.14" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
+    <w ref="42.14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

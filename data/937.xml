@@ -1,0 +1,42 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>II.17-II.17</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.17-II.17" type="part">
+    <w ref="II.17" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="II.17" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="II.17" lemma="que" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">que</w>
+    <w ref="II.17" lemma="singulus" pos="ADJdis" msd="Case=Abl|Numb=Plur|Gend=Com">singulis</w>
+    <w ref="II.17" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Plur">partibus</w>
+    <w ref="II.17" lemma="specialis" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">specialia</w>
+    <w ref="II.17" lemma="uideo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">videntur</w>
+    <w ref="II.17" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.17" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="II.17" lemma="solus" pos="PROind" msd="Case=Abl|Numb=Sing">solo</w>
+    <w ref="II.17" lemma="osculum" pos="NOMcom" msd="Case=Abl|Numb=Sing">osculo</w>
+    <w ref="II.17" lemma="tumeo" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">tumenti</w>
+    <w ref="II.17" lemma="conclusio" pos="NOMcom" msd="Case=Nom|Numb=Sing">conclusio</w>
+    <w ref="II.17" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="II.17" lemma="angustum" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos">angustum</w>
+    <w ref="II.17" lemma="deduco" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">deducta</w>
+    <w ref="II.17" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.17" lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
+    <w ref="II.17" lemma="appono" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">apposito</w>
+    <w ref="II.17" lemma="digitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">digito</w>
+    <w ref="II.17" lemma="dolor" pos="NOMcom" msd="Case=Nom|Numb=Sing">dolor</w>
+    <w ref="II.17" lemma="quamuis1" pos="ADVrel" msd="MORPH=empty">quamvis</w>
+    <w ref="II.17" lemma="leuis1" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">levi</w>
+    <w ref="II.17" lemma="tactus" pos="NOMcom" msd="Case=Abl|Numb=Sing">tactu</w>
+    <w ref="II.17" lemma="tento" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Ind|Tense=Pres|Voice=Act|Person=2">temptatis</w>
+    <w ref="II.17" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Plur">partibus</w>
+    <w ref="II.17" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.17" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="II.17" lemma="inclinatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">inclinatio</w>
+    <w ref="II.17" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ana="#anus #culus" ref="II.17" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ref="II.17" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="II.17" lemma="inguen" pos="NOMcom" msd="Case=Gen|Numb=Plur">inguinum</w>
+    <w ref="II.17" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="II.17" lemma="pecten" pos="NOMcom" msd="Case=Abl|Numb=Plur">pectinis</w>
+    <w ref="II.17" lemma="tensio" pos="NOMcom" msd="Case=Abl|Numb=Sing">tensione</w>
+    <w ref="II.17" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

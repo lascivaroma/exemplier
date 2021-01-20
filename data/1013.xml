@@ -1,0 +1,33 @@
+<div type="fragment" corresp="adams:118" ana="#acte #futuo">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>1.84.1-1.84.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.84.1-1.84.4" type="line">
+    <w ref="1.84.1" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">Uxorem</w>
+    <w ref="1.84.1" lemma="habeo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">habendam</w>
+    <w ref="1.84.1" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.84.1" lemma="puto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">putat</w>
+    <w ref="1.84.1" lemma="quirinalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">Quirinalis</w>
+    <w ref="1.84.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.84.2" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+    <w ref="1.84.2" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">velit</w>
+    <w ref="1.84.2" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
+    <w ref="1.84.2" lemma="filius" pos="NOMcom" msd="Case=Acc|Numb=Plur">filios</w>
+    <w ref="1.84.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.84.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.84.2" lemma="inuenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">invenit</w>
+    <w ref="1.84.3" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">Quo</w>
+    <w ref="1.84.3" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possit</w>
+    <w ref="1.84.3" lemma="iste" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">istud</w>
+    <w ref="1.84.3" lemma="mos" pos="NOMcom" msd="Case=Abl|Numb=Sing">more</w>
+    <w ref="1.84.3" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ana="#acte #futuo" ref="1.84.3" lemma="futuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">futuit</w>
+    <w ref="1.84.3" lemma="ancilla" pos="NOMcom" msd="Case=Acc|Numb=Plur">ancillas</w>
+    <w ref="1.84.4" lemma="domus" pos="NOMcom" msd="Case=Acc|Numb=Sing">Domumque</w>
+    <w ref="1.84.4" lemma="que" pos="CON" msd="MORPH=empty">{Domumque}</w>
+    <w ref="1.84.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.84.4" lemma="ager" pos="NOMcom" msd="Case=Acc|Numb=Plur">agros</w>
+    <w ref="1.84.4" lemma="impleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">implet</w>
+    <w ref="1.84.4" lemma="eques" pos="NOMcom" msd="Case=Abl|Numb=Plur">equitibus</w>
+    <w ref="1.84.4" lemma="uernus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">vernis</w>
+    <w ref="1.84.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

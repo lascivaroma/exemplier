@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Horace</author>, <title>Epodi</title>, <biblScope>8.1-8.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi003.perseus-lat2:8.1-8.6" type="line">
+    <w ref="8.1" lemma="rogo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Rogare</w>
+    <w ref="8.1" lemma="longus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">longo</w>
+    <w ref="8.1" lemma="putidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">putidam</w>
+    <w ref="8.1" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">te</w>
+    <w ref="8.1" lemma="saeculum" pos="NOMcom" msd="Case=Abl|Numb=Sing">saeculo</w>
+    <w ref="8.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8.2" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Plur">viris</w>
+    <w ref="8.2" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="8.2" lemma="eneruo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">enervet</w>
+    <w ref="8.2" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Fem">meas</w>
+    <w ref="8.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8.3" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="8.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="8.3" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="8.3" lemma="dens" pos="NOMcom" msd="Case=Nom|Numb=Sing">dens</w>
+    <w ref="8.3" lemma="ater" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">ater</w>
+    <w ref="8.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="8.3" lemma="ruga" pos="NOMcom" msd="Case=Abl|Numb=Plur">rugis</w>
+    <w ref="8.3" lemma="uetus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">vetus</w>
+    <w ref="8.4" lemma="frons1" pos="NOMcom" msd="Case=Acc|Numb=Sing">frontem</w>
+    <w ref="8.4" lemma="senectus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">senectus</w>
+    <w ref="8.4" lemma="exaro" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">exaret</w>
+    <w ref="8.5" lemma="hio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">hietque</w>
+    <w ref="8.5" lemma="que" pos="CON" msd="MORPH=empty">{hietque}</w>
+    <w ref="8.5" lemma="turpis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">turpis</w>
+    <w ref="8.5" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="8.5" lemma="aridus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">aridas</w>
+    <w ref="8.5" lemma="natus2" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com">natis</w>
+    <w ana="#anus #culus" ref="8.6" lemma="podex" pos="NOMcom" msd="Case=Nom|Numb=Sing">podex</w>
+    <w ref="8.6" lemma="uelut1" pos="ADVrel" msd="MORPH=empty">velut</w>
+    <w ref="8.6" lemma="crudus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">crudae</w>
+    <w ref="8.6" lemma="bos" pos="NOMcom" msd="Case=Gen|Numb=Sing">bovis</w>
+    <w ref="8.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

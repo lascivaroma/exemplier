@@ -1,0 +1,65 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblScope>IV.3-IV.3</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:IV.3-IV.3" type="part">
+    <w ref="IV.3" lemma="tum" pos="ADV" msd="Deg=Pos">Tum</w>
+    <w ref="IV.3" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="IV.3" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">omnis</w>
+    <w ref="IV.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">fuerit</w>
+    <w ref="IV.3" lemma="folliculus" pos="NOMcom" msd="Case=Nom|Numb=Sing">folliculus</w>
+    <w ref="IV.3" lemma="complicatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">complicatione</w>
+    <w ref="IV.3" lemma="uacuo1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">uacuatus</w>
+    <w ref="IV.3" lemma="siue1" pos="CONcoo" msd="MORPH=empty">siue</w>
+    <w ref="IV.3" lemma="oppressio" pos="NOMcom" msd="Case=Abl|Numb=Sing">oppressione</w>
+    <w ref="IV.3" lemma="manus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">manus</w>
+    <w ref="IV.3" lemma="refundo2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">refusus</w>
+    <w ref="IV.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="IV.3" lemma="quo1" pos="PROrel" msd="Numb=Sing">quo</w>
+    <w ref="IV.3" lemma="medicamen" pos="NOMcom" msd="Case=Acc|Numb=Plur">medicamina</w>
+    <w ref="IV.3" lemma="peruenio" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">peruenisse</w>
+    <w ref="IV.3" lemma="sentio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1">sentiamus</w>
+    <w ref="IV.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="IV.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
+    <w ref="IV.3" lemma="detraho" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">detrahenda</w>
+    <w ref="IV.3" lemma="fistula" pos="NOMcom" msd="Case=Abl|Numb=Sing">fistula</w>
+    <w ref="IV.3" lemma="suspensus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">suspensa</w>
+    <w ref="IV.3" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
+    <w ref="IV.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="IV.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="IV.3" lemma="distentus?" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">distentis</w>
+    <w ref="IV.3" lemma="crus" pos="NOMcom" msd="Case=Abl|Numb=Plur">cruribus</w>
+    <w ref="IV.3" lemma="aegroto" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">aegrotantis</w>
+    <w ref="IV.3" lemma="spongia" pos="NOMcom" msd="Case=Gen|Numb=Sing">spongiae</w>
+    <w ref="IV.3" lemma="commodo1" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">commodandae</w>
+    <w ana="#anus #culus" ref="IV.3" lemma="podicus" pos="NOMcom" msd="Case=Gen|Numb=Sing">podici</w>
+    <w ref="IV.3" lemma="exprimo" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">expressae</w>
+    <w ref="IV.3" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="IV.3" lemma="decoctio" pos="NOMcom" msd="Case=Abl|Numb=Sing">decoctione</w>
+    <w ref="IV.3" lemma="calidus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">calidi</w>
+    <w ref="IV.3" lemma="liquor1" pos="NOMcom" msd="Case=Gen|Numb=Sing">liquoris</w>
+    <w ref="IV.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="IV.3" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="IV.3" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ref="IV.3" lemma="praecox" pos="NOMcom" msd="Case=Nom|Numb=Plur|Gend=Neut">praecocta</w>
+    <w ref="IV.3" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sint</w>
+    <w ref="IV.3" lemma="malum1" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut">mala</w>
+    <w ref="IV.3" lemma="punicus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">Punica</w>
+    <w ref="IV.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="IV.3" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ref="IV.3" lemma="constrictio" pos="NOMcom" msd="Case=Abl|Numb=Sing">constrictione</w>
+    <w ref="IV.3" lemma="quidam" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">quadam</w>
+    <w ref="IV.3" lemma="uirtus" pos="NOMcom" msd="Case=Gen|Numb=Sing">uirtutis</w>
+    <w ref="IV.3" lemma="herba" pos="NOMcom" msd="Case=Gen|Numb=Plur">herbarum</w>
+    <w ref="IV.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="IV.3" lemma="qui2" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="IV.3" lemma="Graecus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">Graeci</w>
+    <w ref="IV.3" lemma="styps" pos="NOMcom" msd="Case=Nom|Numb=Sing">stypsin</w>
+    <w ref="IV.3" lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">uocant</w>
+    <w ref="IV.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="IV.3" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="IV.3" lemma="feruidus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">feruido</w>
+    <w ref="IV.3" lemma="tactus" pos="NOMcom" msd="Case=Abl|Numb=Sing">tactu</w>
+    <w ref="IV.3" lemma="denso" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">densatis</w>
+    <w ref="IV.3" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Plur">partibus</w>
+    <w ref="IV.3" lemma="longao" pos="NOMcom" msd="Case=Gen|Numb=Sing">longaonis</w>
+  </quote>
+</div>

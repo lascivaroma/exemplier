@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:123" ana="#acte #male #pedico">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>9.69.2-9.69.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.69.2-9.69.2" type="line">
+    <w ref="9.69.2" lemma="cum2" pos="PRE" msd="MORPH=empty">Cum</w>
+    <w ana="#acte #male #pedico" ref="9.69.2" lemma="paedico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=2">pedicaris</w>
+    <w ref="9.69.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.69.2" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="9.69.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.69.2" lemma="polycharmium" pos="NOMcom" msd="Case=Voc|Numb=Sing">Polycharme</w>
+    <w ref="9.69.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.69.2" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">facis</w>
+    <w ref="9.69.2" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

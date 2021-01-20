@@ -1,0 +1,40 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Celerum passionum libri III</title>, <biblScope>3.140-3.141</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:3.140-3.141" type="part">
+    <w ref="3.140" lemma="perfectus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem">perfecta</w>
+    <w ref="3.140" lemma="abstinentia" pos="NOMcom" msd="Case=Nom|Numb=Sing">abstinentia</w>
+    <w ref="3.140" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.140" lemma="stomachus" pos="NOMcom" msd="Case=Gen|Numb=Sing">stomachi</w>
+    <w ref="3.140" lemma="euersio" pos="NOMcom" msd="Case=Nom|Numb=Sing">euersio</w>
+    <w ref="3.140" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="3.140" lemma="nausea" pos="NOMcom" msd="Case=Acc|Numb=Sing">nauseam</w>
+    <w ref="3.140" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.140" lemma="saliua" pos="NOMcom" msd="Case=Gen|Numb=Plur">saliuarum</w>
+    <w ref="3.140" lemma="fluor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fluor</w>
+    <w ref="3.140" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.140" lemma="sitis" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act">sitis</w>
+    <w ref="3.140" lemma="uehemens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">uehemens</w>
+    <w ref="3.140" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.141" lemma="spiratio" pos="NOMcom" msd="Case=Nom|Numb=Sing">spiratio</w>
+    <w ref="3.141" lemma="hirtus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">hirta</w>
+    <w ref="3.141" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="3.141" lemma="anhelatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">anhelatio</w>
+    <w ref="3.141" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.141" lemma="articulus" pos="NOMcom" msd="Case=Gen|Numb=Plur">articulorum</w>
+    <w ref="3.141" lemma="frigidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">frigidus</w>
+    <w ref="3.141" lemma="torpor" pos="NOMcom" msd="Case=Nom|Numb=Sing">torpor</w>
+    <w ref="3.141" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.141" lemma="pello" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">pulsus</w>
+    <w ref="3.141" lemma="densus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">densus</w>
+    <w ref="3.141" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.141" lemma="singultus" pos="NOMcom" msd="Case=Nom|Numb=Sing">singultus</w>
+    <w ref="3.141" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.141" lemma="exitus" pos="NOMcom" msd="Case=Acc|Numb=Plur">exitus</w>
+    <w ref="3.141" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ana="#anus #culus" ref="3.141" lemma="podex" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ref="3.141" lemma="uentus" pos="NOMcom" msd="Case=Gen|Numb=Sing">uenti</w>
+    <w ref="3.141" lemma="nihil" pos="PROind" msd="Case=Acc|Gend=Neut">nihil</w>
+    <w ref="3.141" lemma="releuo1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">releuans</w>
+    <w ref="3.141" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

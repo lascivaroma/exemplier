@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>De speciali significatione diaeticarum passionum</title>, <biblScope>67-67</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa004.digilibLT-lat1:67-67" type="part">
+    <w ref="67" lemma="intestinum" pos="NOMcom" msd="Case=Abl|Numb=Plur">intestinis</w>
+    <w ref="67" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="67" lemma="inflo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">inflatis</w>
+    <w ref="67" lemma="sonitus" pos="NOMcom" msd="Case=Nom|Numb=Plur">sonitus</w>
+    <w ref="67" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=MascNeut">eorum</w>
+    <w ref="67" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="67" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="67" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ana="#anus #culus" ref="67" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ref="67" lemma="frequens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">frequens</w>
+    <w ref="67" lemma="uentositas" pos="NOMcom" msd="Case=Gen|Numb=Sing">ventositatis</w>
+    <w ref="67" lemma="emissio" pos="NOMcom" msd="Case=Nom|Numb=Sing">emissio</w>
+    <w ref="67" lemma="consequor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">consequitur</w>
+    <w ref="67" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

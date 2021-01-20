@@ -1,0 +1,40 @@
+<div type="fragment" corresp="adams:118" ana="#acte #futuo">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>68.27-68.30</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:68.27-68.30" type="line">
+    <w ref="68.27" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="68.27" lemma="uetula" pos="NOMcom" msd="Case=Acc|Numb=Sing">uetulam</w>
+    <w ref="68.27" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="68.27" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="68.27" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=Fem">suam</w>
+    <w ref="68.27" lemma="propero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">properabat</w>
+    <w ref="68.27" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="68.27" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="68.27" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">omnis</w>
+    <w ref="68.28" lemma="mens" pos="NOMcom" msd="Case=Nom|Numb=Sing">mens</w>
+    <w ref="68.28" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
+    <w ref="68.28" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="68.28" lemma="cunnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">cunno</w>
+    <w ref="68.28" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="68.28" lemma="penelope" pos="NOMcom" msd="Case=Nom|Numb=Sing">Penelopea</w>
+    <w ref="68.28" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="68.28" lemma="tuus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">tuo</w>
+    <w ref="68.28" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="68.29" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="68.29" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+    <w ref="68.29" lemma="castus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">casta</w>
+    <w ref="68.29" lemma="maneo" pos="VER" msd="Numb=Plur|Person=2">manes</w>
+    <w ref="68.29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="68.29" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="68.29" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="68.29" lemma="conuiuium" pos="NOMcom" msd="Case=Acc|Numb=Plur">conuiuia</w>
+    <w ref="68.29" lemma="uiso" pos="VER" msd="Numb=Plur|Gend=Fem|Mood=Sub|Tense=Pres|Voice=Act|Person=2">uisas</w>
+    <w ref="68.30" lemma="ut" pos="ADVrel" msd="MORPH=empty">utque</w>
+    <w ref="68.30" lemma="que" pos="CON" msd="MORPH=empty">{utque}</w>
+    <w ana="#acte #futuo" ref="68.30" lemma="futuo" pos="VER" msd="Case=Gen|Numb=Plur|Gend=MascNeut">fututorum</w>
+    <w ref="68.30" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="68.30" lemma="tuus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">tua</w>
+    <w ref="68.30" lemma="plenus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">plena</w>
+    <w ref="68.30" lemma="domus" pos="NOMcom" msd="Case=Nom|Numb=Sing">domus</w>
+    <w ref="68.30" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

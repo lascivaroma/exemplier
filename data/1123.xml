@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:125" ana="#acte #fellatio #irrumo">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>4.17.3-4.17.3</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:4.17.3-4.17.3" type="line">
+    <w ref="4.17.3" lemma="o" pos="INJ" msd="MORPH=empty">O</w>
+    <w ref="4.17.3" lemma="paulo" pos="NOMcom" msd="Case=Voc|Numb=Sing">Paule</w>
+    <w ref="4.17.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.17.3" lemma="malus3" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">malus</w>
+    <w ref="4.17.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
+    <w ref="4.17.3" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ana="#acte #fellatio #irrumo" ref="4.17.3" lemma="irrumo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">irrumare</w>
+    <w ref="4.17.3" lemma="uolo3" pos="NOMcom" msd="Case=Nom|Numb=Sing|Person=2">vis</w>
+    <w ref="4.17.3" lemma="solus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">solus</w>
+    <w ref="4.17.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

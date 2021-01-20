@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:125" ana="#acte #fellatio #irrumo">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblScope>37.6-37.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:37.6-37.8" type="line">
+    <w ref="37.6" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="37.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="37.6" lemma="continenter" pos="ADV" msd="Deg=Pos">continenter</w>
+    <w ref="37.6" lemma="qui2" pos="CONsub" msd="Numb=Sing|Gend=Neut">quod</w>
+    <w ref="37.6" lemma="sedeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">sedetis</w>
+    <w ref="37.6" lemma="insulsus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">insulsi</w>
+    <w ref="37.7" lemma="centum" pos="ADJcar" msd="Case=Ind">centum</w>
+    <w ref="37.7" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="37.7" lemma="ducenti" pos="ADJcar" msd="Case=Nom|Numb=Plur|Gend=Masc">ducenti</w>
+    <w ref="37.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="37.7" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="37.7" lemma="puto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">putatis</w>
+    <w ref="37.7" lemma="audeo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Fut|Voice=SemDep">ausurum</w>
+    <w ref="37.8" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="37.8" lemma="una" pos="ADJcar" msd="Gend=Fem">una</w>
+    <w ref="37.8" lemma="ducenti" pos="ADJcar" msd="Case=Acc|Numb=Plur|Gend=Masc">ducentos</w>
+    <w ana="#acte #fellatio #irrumo" ref="37.8" lemma="irrumo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">irrumare</w>
+    <w ref="37.8" lemma="sessor" pos="NOMcom" msd="Case=Acc|Numb=Plur">sessores</w>
+    <w ref="37.8" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

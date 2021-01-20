@@ -1,0 +1,37 @@
+<div type="fragment" corresp="adams:119" ana="#acte #male #futuo #actor">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>58.2-58.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:58.2-58.4" type="line">
+    <w ref="58.2" lemma="immineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">imminet</w>
+    <w ref="58.2" lemma="procul" pos="ADV" msd="Deg=Pos">procul</w>
+    <w ref="58.2" lemma="culus" pos="NOMcom" msd="Case=Abl|Numb=Sing">culo</w>
+    <w ref="58.2" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="58.2" lemma="effemino" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut">effeminato</w>
+    <w ref="58.2" lemma="imineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iminet</w>
+    <w ref="58.2" lemma="procul" pos="ADV" msd="Deg=Pos">procul</w>
+    <w ref="58.2" lemma="culus" pos="NOMcom" msd="Case=Abl|Numb=Sing">culo</w>
+    <w ref="58.2" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="58.2" lemma="effemino" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut">effeminato</w>
+    <w ref="58.2" lemma="immineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inminet</w>
+    <w ref="58.2" lemma="procus" pos="NOMcom" msd="Case=Abl|Numb=Sing">procu</w>
+    <w ref="58.2" lemma="culus" pos="NOMcom" msd="Case=Abl|Numb=Sing">culo</w>
+    <w ref="58.2" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="58.2" lemma="effemino" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut">effeminato</w>
+    <w ref="58.2" lemma="immineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inminet</w>
+    <w ref="58.2" lemma="procul" pos="ADV" msd="Deg=Pos">procul</w>
+    <w ref="58.2" lemma="dubium" pos="NOMcom" msd="Case=Abl|Numb=Sing">dubio</w>
+    <w ref="58.2" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="58.3" lemma="qui" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quaeque</w>
+    <w ref="58.3" lemma="que" pos="CON" msd="MORPH=empty">{quaeque}</w>
+    <w ref="58.3" lemma="hic2" pos="ADV" msd="Case=Nom|Gend=Masc|Deg=Pos">hic</w>
+    <w ref="58.3" lemma="proteruus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">proterua</w>
+    <w ref="58.3" lemma="carpo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">carpserit</w>
+    <w ref="58.3" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
+    <w ref="58.3" lemma="pomum" pos="NOMcom" msd="Case=Nom|Numb=Plur">poma</w>
+    <w ref="58.4" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
+    <w ref="58.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="58.4" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascNeut">nullum</w>
+    <w ref="58.4" lemma="reperio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">reperiat</w>
+    <w ana="#acte #male #futuo #actor" ref="58.4" lemma="fututor" pos="NOMcom" msd="Case=Acc|Numb=Sing">fututorem</w>
+    <w ref="58.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

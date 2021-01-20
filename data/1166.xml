@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:136" ana="#male #acte #passive">
+  <bibl><author>Juvenal</author>, <title>Satires</title>, <biblScope>9.39-9.40</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:9.39-9.40" type="line">
+    <w ref="9.39" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">haec</w>
+    <w ref="9.39" lemma="tribuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">tribui</w>
+    <w ref="9.39" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.39" lemma="deinde" pos="ADV" msd="Deg=Pos">deinde</w>
+    <w ref="9.39" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">illa</w>
+    <w ref="9.39" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">dedi</w>
+    <w ref="9.39" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.39" lemma="mox" pos="ADV" msd="Deg=Pos">mox</w>
+    <w ref="9.39" lemma="multus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Comp">plura</w>
+    <w ref="9.39" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">tulisti</w>
+    <w ref="9.39" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="9.40" lemma="computo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">computat</w>
+    <w ref="9.40" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.40" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#male #acte #passive" ref="9.40" lemma="ceueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cevet</w>
+    <w ref="9.40" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

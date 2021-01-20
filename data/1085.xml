@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:123" ana="#acte #male #pedico">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>2.28.3-2.28.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:2.28.3-2.28.4" type="line">
+    <w ref="2.28.3" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="2.28.3" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ana="#acte #male #pedico" ref="2.28.3" lemma="paedico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">pedico</w>
+    <w ref="2.28.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
+    <w ref="2.28.3" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="2.28.3" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+    <w ref="2.28.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.28.3" lemma="sextillus" pos="ADJqua" msd="Case=Voc|Numb=Sing">Sextille</w>
+    <w ref="2.28.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.28.3" lemma="fututor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fututor</w>
+    <w ref="2.28.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.28.4" lemma="calda" pos="NOMcom" msd="Case=Nom|Numb=Sing">Calda</w>
+    <w ref="2.28.4" lemma="uetustinus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">Vetustinae</w>
+    <w ref="2.28.4" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="2.28.4" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="2.28.4" lemma="bucca" pos="NOMcom" msd="Case=Nom|Numb=Sing">bucca</w>
+    <w ref="2.28.4" lemma="placeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">placet</w>
+    <w ref="2.28.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

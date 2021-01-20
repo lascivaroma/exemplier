@@ -1,0 +1,34 @@
+<div type="fragment" corresp="adams:119" ana="#acte #male #futuo #actor">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>7.18.1-7.18.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:7.18.1-7.18.4" type="line">
+    <w ref="7.18.1" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+    <w ref="7.18.1" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="7.18.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="7.18.1" lemma="facies" pos="NOMcom" msd="Case=Nom|Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">facies</w>
+    <w ref="7.18.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.18.1" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="7.18.1" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
+    <w ref="7.18.1" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="7.18.1" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">femina</w>
+    <w ref="7.18.1" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possit</w>
+    <w ref="7.18.2" lemma="dico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Dicere</w>
+    <w ref="7.18.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.18.2" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="7.18.2" lemma="corpus" pos="NOMcom" msd="Case=Nom|Numb=Sing">corpus</w>
+    <w ref="7.18.2" lemma="nullus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">nulla</w>
+    <w ref="7.18.2" lemma="litura" pos="NOMcom" msd="Case=Nom|Numb=Sing">litura</w>
+    <w ref="7.18.2" lemma="noto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">notet</w>
+    <w ref="7.18.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.18.3" lemma="cur" pos="ADVint" msd="MORPH=empty">Cur</w>
+    <w ref="7.18.3" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="7.18.3" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+    <w ref="7.18.3" lemma="rarus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">rarus</w>
+    <w ref="7.18.3" lemma="cupio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">cupiat</w>
+    <w ref="7.18.3" lemma="repeto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">repetatque</w>
+    <w ref="7.18.3" lemma="que" pos="CON" msd="MORPH=empty">{repetatque}</w>
+    <w ana="#acte #male #futuo #actor" ref="7.18.3" lemma="fututor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fututor</w>
+    <w ref="7.18.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.18.4" lemma="miror" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2">Miraris</w>
+    <w ref="7.18.4" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:136" ana="#male #acte #passive">
+  <bibl><author>Arnobius of Sicca</author>, <title>Arnobii adversus nationes Libri VII</title>, <biblScope>2.42-2.42</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:2.42-2.42" type="section">
+    <w ref="2.42" lemma="scabellum" pos="NOMcom" msd="Case=Gen|Numb=Plur">scabillorum</w>
+    <w ref="2.42" lemma="concrepatio" pos="NOMcom" msd="Case=Abl|Numb=Plur">concrepationibus</w>
+    <w ref="2.42" lemma="sonor" pos="NOMcom" msd="Case=Acc|Numb=Plur">sonores</w>
+    <w ref="2.42" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.42" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Plur|Gend=Com">quibus</w>
+    <w ref="2.42" lemma="anima" pos="NOMcom" msd="Case=Gen|Numb=Plur">animarum</w>
+    <w ref="2.42" lemma="alius" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Neut">alia</w>
+    <w ref="2.42" lemma="lasciuio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">lasciuiens</w>
+    <w ref="2.42" lemma="multitudo" pos="NOMcom" msd="Case=Nom|Numb=Sing">multitudo</w>
+    <w ref="2.42" lemma="incompositus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">incompositos</w>
+    <w ref="2.42" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Plur">corporum</w>
+    <w ref="2.42" lemma="dissoluo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">dissolueretur</w>
+    <w ref="2.42" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.42" lemma="motus" pos="NOMcom" msd="Case=Acc|Numb=Plur">motus</w>
+    <w ref="2.42" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.42" lemma="saltito" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">saltitaret</w>
+    <w ref="2.42" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.42" lemma="canto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">cantaret</w>
+    <w ref="2.42" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.42" lemma="orbis" pos="NOMcom" msd="Case=Acc|Numb=Plur">orbes</w>
+    <w ref="2.42" lemma="saltatorius" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Masc">saltatorios</w>
+    <w ref="2.42" lemma="uerto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">uerteret</w>
+    <w ref="2.42" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.42" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="2.42" lemma="ultimum?" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos">ultimum</w>
+    <w ref="2.42" lemma="clunis" pos="NOMcom" msd="Case=Abl|Numb=Plur">clunibus</w>
+    <w ref="2.42" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.42" lemma="coxendix" pos="NOMcom" msd="Case=Abl|Numb=Plur">coxendicibus</w>
+    <w ref="2.42" lemma="subleuo1" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">subleuatis</w>
+    <w ref="2.42" lemma="lumbus" pos="NOMcom" msd="Case=Gen|Numb=Plur">lumborum</w>
+    <w ana="#male #acte #passive" ref="2.42" lemma="crispitudo" pos="NOMcom" msd="Case=Abl|Numb=Sing">crispitudine</w>
+    <w ref="2.42" lemma="fluctuo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">fluctuaret</w>
+    <w ref="2.42" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

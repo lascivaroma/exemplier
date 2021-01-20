@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:125" ana="#acte #fellatio #irrumo #actor">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblScope>10.9-10.13</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:10.9-10.13" type="line">
+    <w ref="10.9" lemma="respondeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">respondi</w>
+    <w ref="10.9" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">id</w>
+    <w ref="10.9" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="10.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
+    <w ref="10.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.9" lemma="nihil" pos="PROind" msd="Case=Ind|Numb=Sing|Gend=Neut">nihil</w>
+    <w ref="10.9" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="10.9" lemma="ipse" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">ipsis</w>
+    <w ref="10.10" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="10.10" lemma="praetor" pos="NOMcom" msd="Case=Dat|Numb=Plur">praetoribus</w>
+    <w ref="10.10" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="10.10" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="10.10" lemma="cohors" pos="NOMcom" msd="Case=Dat|Numb=Sing">cohorti</w>
+    <w ref="10.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.11" lemma="cur" pos="ADVint" msd="MORPH=empty">cur</w>
+    <w ref="10.11" lemma="quisquam" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">quisquam</w>
+    <w ref="10.11" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+    <w ref="10.11" lemma="unctus2" pos="ADV" msd="Deg=Comp">unctius</w>
+    <w ref="10.11" lemma="refero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">referret</w>
+    <w ref="10.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.12" lemma="praesertim" pos="ADV" msd="Deg=Pos">praesertim</w>
+    <w ref="10.12" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibus</w>
+    <w ref="10.12" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">esset</w>
+    <w ana="#acte #fellatio #irrumo #actor" ref="10.12" lemma="irrumator" pos="NOMcom" msd="Case=Nom|Numb=Sing">irrumator</w>
+    <w ref="10.13" lemma="praetor" pos="NOMcom" msd="Case=Nom|Numb=Sing">praetor</w>
+    <w ref="10.13" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="10.13" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">faceret</w>
+    <w ref="10.13" lemma="pilus2" pos="NOMcom" msd="Case=Gen|Numb=Sing">pili</w>
+    <w ref="10.13" lemma="cohors" pos="NOMcom" msd="Case=Acc|Numb=Sing">cohortem</w>
+    <w ref="10.13" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,39 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Celerum passionum libri III</title>, <biblScope>3.222-3.222</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:3.222-3.222" type="part">
+    <w ref="3.222" lemma="sequor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">Sequitur</w>
+    <w ref="3.222" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="3.222" lemma="defluxio" pos="NOMcom" msd="Case=Abl|Numb=Sing">defluxione</w>
+    <w ref="3.222" lemma="laboro" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">laborantem</w>
+    <w ref="3.222" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="3.222" lemma="ullus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">ullo</w>
+    <w ref="3.222" lemma="dolor" pos="NOMcom" msd="Case=Abl|Numb=Sing">dolore</w>
+    <w ref="3.222" lemma="effusio" pos="NOMcom" msd="Case=Abl|Numb=Sing">effusio</w>
+    <w ref="3.222" lemma="liquidus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Deg=Pos">liquidorum</w>
+    <w ref="3.222" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ana="#anus #culus" ref="3.222" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ref="3.222" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.222" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="3.222" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="3.222" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="3.222" lemma="anus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">anum</w>
+    <w ref="3.222" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.222" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="3.222" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
+    <w ref="3.222" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">faciat</w>
+    <w ref="3.222" lemma="corruptio" pos="NOMcom" msd="Case=Acc|Numb=Sing">corruptionem</w>
+    <w ref="3.222" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.222" lemma="aliquando" pos="ADV" msd="Deg=Pos">aliquando</w>
+    <w ref="3.222" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="3.222" lemma="perseuero" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">perseuerando</w>
+    <w ref="3.222" lemma="intestinus" pos="NOMcom" msd="Case=Gen|Numb=Plur">intestinorum</w>
+    <w ref="3.222" lemma="uulneratio" pos="NOMcom" msd="Case=Acc|Numb=Sing">uulnerationem</w>
+    <w ref="3.222" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.222" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="3.222" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
+    <w ref="3.222" lemma="dysenteria" pos="NOMcom" msd="Case=Abl|Numb=Sing">dysenteria</w>
+    <w ref="3.222" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
+    <w ref="3.222" lemma="sequor" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3">sequatur</w>
+    <w ref="3.222" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

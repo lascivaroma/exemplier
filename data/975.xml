@@ -1,0 +1,45 @@
+<div type="fragment" corresp="adams:114" ana="#metaphore #anneau #culus #anus">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>4.25-4.25</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat5:4.25-4.25" type="chapter">
+    <w ref="4.25" lemma="desideo" pos="NOMcom" msd="MORPH=empty">Desidere</w>
+    <w ref="4.25" lemma="oportet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">oportet</w>
+    <w ref="4.25" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="4.25" lemma="aqua" pos="NOMcom" msd="Case=Abl|Numb=Sing">aqua</w>
+    <w ref="4.25" lemma="calidus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">calida</w>
+    <w ref="4.25" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="4.25" lemma="saepe" pos="NOMcom" msd="Deg=Comp">saepiusque</w>
+    <w ref="4.25" lemma="que" pos="CON" msd="MORPH=empty">{saepiusque}</w>
+    <w ref="4.25" lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=MascNeut">ipsum</w>
+    <w ana="#metaphore #anneau #culus #anus" ref="4.25" lemma="anus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">anum</w>
+    <w ref="4.25" lemma="nutrio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">nutrire</w>
+    <w ref="4.25" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="4.25" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
+    <w ref="4.25" lemma="multus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Comp">plura</w>
+    <w ref="4.25" lemma="medicamentum" pos="NOMcom" msd="Case=Nom|Numb=Plur">medicamenta</w>
+    <w ref="4.25" lemma="idoneus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">idonea</w>
+    <w ref="4.25" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="4.25" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="4.25" lemma="butyrum" pos="NOMcom" msd="Case=Gen|Numb=Plur">butyrum</w>
+    <w ref="4.25" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="4.25" lemma="rosa" pos="NOMcom" msd="Case=Nom|Numb=Sing">rosa</w>
+    <w ref="4.25" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="4.25" lemma="acacia" pos="NOMcom" msd="Case=Nom|Numb=Sing">acacia</w>
+    <w ref="4.25" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="4.25" lemma="acetum" pos="NOMcom" msd="Case=Abl|Numb=Sing">aceto</w>
+    <w ref="4.25" lemma="liquo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">liquata</w>
+    <w ref="4.25" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="4.25" lemma="emplastrum" pos="NOMcom" msd="Case=Nom|Numb=Sing">emplastrum</w>
+    <w ref="4.25" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">id</w>
+    <w ref="4.25" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="4.25" lemma="Graeci" pos="ADJqua" msd="Case=Nom|Numb=Plur">Graeci</w>
+    <w ref="4.25" lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vocant</w>
+    <w ref="4.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.25" lemma="rosa" pos="NOMcom" msd="Case=Nom|Numb=Sing">rosa</w>
+    <w ref="4.25" lemma="liquo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">liquatum</w>
+    <w ref="4.25" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="4.25" lemma="alumen" pos="NOMcom" msd="Case=Acc|Numb=Sing">alumen</w>
+    <w ref="4.25" lemma="lana" pos="NOMcom" msd="Case=Abl|Numb=Sing">lana</w>
+    <w ref="4.25" lemma="circumdo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">circumdatum</w>
+    <w ref="4.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

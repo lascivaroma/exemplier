@@ -1,0 +1,31 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>I.117-I.117</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.117-I.117" type="part">
+    <w ref="I.117" lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
+    <w ref="I.117" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="I.117" lemma="paruus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Sup">minimo</w>
+    <w ref="I.117" lemma="digitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">digito</w>
+    <w ref="I.117" lemma="unguis" pos="NOMcom" msd="Case=Abl|Numb=Sing">ungue</w>
+    <w ref="I.117" lemma="pretermitto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">pretermisso</w>
+    <w ref="I.117" lemma="diuido" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">dividatur</w>
+    <w ref="I.117" lemma="membrana" pos="NOMcom" msd="Case=Nom|Numb=Sing">membrana</w>
+    <w ref="I.117" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.117" lemma="meconion" pos="NOMcom" msd="Case=Nom|Numb=Sing">meconion</w>
+    <w ref="I.117" lemma="appello1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">appellata</w>
+    <w ref="I.117" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.117" lemma="que" pos="PROrel" msd="Case=Nom">que</w>
+    <w ref="I.117" lemma="saepes" pos="NOMcom" msd="Case=Abl|Numb=Sing">sepe</w>
+    <w ref="I.117" lemma="nascor" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">nascentibus</w>
+    <w ref="I.117" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#anus #culus" ref="I.117" lemma="podex" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
+    <w ref="I.117" lemma="cogo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">cogitur</w>
+    <w ref="I.117" lemma="tenuis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Sup">tenuissima</w>
+    <w ref="I.117" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.117" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="I.117" lemma="statim" pos="ADV" msd="Deg=Pos">statim</w>
+    <w ref="I.117" lemma="obsto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">obstet</w>
+    <w ref="I.117" lemma="uenter" pos="NOMcom" msd="Case=Gen|Numb=Sing">ventris</w>
+    <w ref="I.117" lemma="officium" pos="NOMcom" msd="Case=Abl|Numb=Sing">officio</w>
+    <w ref="I.117" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

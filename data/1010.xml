@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:118" ana="#acte #futuo">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblScope>97.9-97.10</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:97.9-97.10" type="line">
+    <w ref="97.9" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
+    <w ana="#acte #futuo" ref="97.9" lemma="futuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">futuit</w>
+    <w ref="97.9" lemma="multus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">multas</w>
+    <w ref="97.9" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="97.9" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="97.9" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
+    <w ref="97.9" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="97.9" lemma="uenustus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">venustum</w>
+    <w ref="97.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="97.10" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="97.10" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="97.10" lemma="pistrinum" pos="NOMcom" msd="Case=Abl|Numb=Sing">pistrino</w>
+    <w ref="97.10" lemma="trado" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">traditur</w>
+    <w ref="97.10" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="97.10" lemma="asinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">asino</w>
+    <w ref="97.10" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

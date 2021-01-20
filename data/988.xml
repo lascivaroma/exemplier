@@ -1,0 +1,28 @@
+<div type="fragment" corresp="adams:114" ana="#metaphore #anneau #culus #anus">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>5.26-5.26</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat6:5.26-5.26" type="chapter">
+    <w ref="5.26" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">Idque</w>
+    <w ref="5.26" lemma="que" pos="CON" msd="MORPH=empty">{Idque}</w>
+    <w ref="5.26" lemma="euenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">euenit</w>
+    <w ref="5.26" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="5.26" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="5.26" lemma="ala" pos="NOMcom" msd="Case=Abl|Numb=Plur">alis</w>
+    <w ref="5.26" lemma="tantum2" pos="ADV" msd="Deg=Pos">tantum</w>
+    <w ref="5.26" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="5.26" lemma="poples" pos="NOMcom" msd="Case=Abl|Numb=Plur">poplitibus</w>
+    <w ref="5.26" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.26" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="5.26" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="5.26" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="5.26" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Masc">is</w>
+    <w ref="5.26" lemma="uena" pos="NOMcom" msd="Case=Abl|Numb=Plur">uenis</w>
+    <w ref="5.26" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.26" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Fem">quae</w>
+    <w ref="5.26" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ana="#metaphore #anneau #culus #anus" ref="5.26" lemma="anus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">anum</w>
+    <w ref="5.26" lemma="testiculus" pos="NOMcom" msd="Case=Acc|Numb=Plur">testiculosque</w>
+    <w ref="5.26" lemma="que" pos="CON" msd="MORPH=empty">{testiculosque}</w>
+    <w ref="5.26" lemma="peruenio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">perueniunt</w>
+    <w ref="5.26" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,31 @@
+<div type="fragment" corresp="adams:125" ana="#acte #fellatio #irrumo">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblScope>16.1-16.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:16.1-16.4" type="line">
+    <w ref="16.1" lemma="paedico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">Pedicabo</w>
+    <w ref="16.1" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="16.1" lemma="uos" pos="PROper" msd="Case=Acc|Numb=Plur">vos</w>
+    <w ref="16.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #fellatio #irrumo" ref="16.1" lemma="irrumo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">irrumabo</w>
+    <w ref="16.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="16.2" lemma="aurelis" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=Masc|Deg=Pos">Aureli</w>
+    <w ref="16.2" lemma="pathicus" pos="NOMcom" msd="Case=Abl|Numb=Sing|Deg=Pos">pathice</w>
+    <w ref="16.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="16.2" lemma="cinaedus2" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=Masc|Deg=Pos">cinaede</w>
+    <w ref="16.2" lemma="fur" pos="NOMcom" msd="Case=Voc|Numb=Sing">Furi</w>
+    <w ref="16.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="16.3" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+    <w ref="16.3" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="16.3" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="16.3" lemma="uersiculus" pos="NOMcom" msd="Case=Abl|Numb=Plur">versiculis</w>
+    <w ref="16.3" lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Plur|Gend=Com">meis</w>
+    <w ref="16.3" lemma="puto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=2">putastis</w>
+    <w ref="16.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="16.4" lemma="quod1" pos="PROrel" msd="Numb=Sing|Gend=Neut">quod</w>
+    <w ref="16.4" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="16.4" lemma="molliculus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">molliculi</w>
+    <w ref="16.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="16.4" lemma="parum2" pos="ADV" msd="Deg=Pos">parum</w>
+    <w ref="16.4" lemma="pudicus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">pudicum</w>
+    <w ref="16.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

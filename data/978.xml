@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:114" ana="#metaphore #anneau #culus #anus">
+  <bibl><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblScope>6.18-6.18</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat5:6.18-6.18" type="chapter">
+    <w ref="6.18" lemma="at2" pos="CONcoo" msd="MORPH=empty">At</w>
+    <w ref="6.18" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ana="#metaphore #anneau #culus #anus" ref="6.18" lemma="anus2" pos="NOMcom" msd="Case=Nom|Numb=Sing">anus</w>
+    <w ref="6.18" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ref="6.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.18" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="6.18" lemma="os1" pos="NOMcom" msd="Case=Nom|Numb=Sing">os</w>
+    <w ref="6.18" lemma="uulua" pos="NOMcom" msd="Case=Gen|Numb=Sing">vulvae</w>
+    <w ref="6.18" lemma="procido1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">procidit</w>
+    <w ref="6.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.18" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="6.18" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="6.18" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="6.18" lemma="interdum" pos="ADV" msd="Deg=Pos">interdum</w>
+    <w ref="6.18" lemma="fio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fit</w>
+    <w ref="6.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.18" lemma="considero" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">considerari</w>
+    <w ref="6.18" lemma="debeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">debet</w>
+    <w ref="6.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.18" lemma="purus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">purum</w>
+    <w ref="6.18" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="6.18" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="6.18" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="6.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.18" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="6.18" lemma="prouoluo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">provolutum</w>
+    <w ref="6.18" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="6.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.18" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="6.18" lemma="humor" pos="NOMcom" msd="Case=Abl|Numb=Sing">humore</w>
+    <w ref="6.18" lemma="mucosus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">mucoso</w>
+    <w ref="6.18" lemma="circumdo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">circumdatum</w>
+    <w ref="6.18" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

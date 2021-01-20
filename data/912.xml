@@ -1,0 +1,42 @@
+<div type="fragment" corresp="adams:112" ana="#anus #culus">
+  <bibl><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblScope>IV.3-IV.3</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:IV.3-IV.3" type="part">
+    <w ref="IV.3" lemma="tum" pos="ADV" msd="Deg=Pos">Tum</w>
+    <w ref="IV.3" lemma="post2" pos="PRE" msd="MORPH=empty">post</w>
+    <w ref="IV.3" lemma="egestio" pos="NOMcom" msd="Case=Acc|Numb=Sing">egestionem</w>
+    <w ref="IV.3" lemma="facio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">factam</w>
+    <w ref="IV.3" lemma="spongia" pos="NOMcom" msd="Case=Dat|Numb=Plur">spongiis</w>
+    <w ref="IV.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
+    <w ana="#anus #culus" ref="IV.3" lemma="podex" pos="NOMcom" msd="Case=Nom|Numb=Sing">podex</w>
+    <w ref="IV.3" lemma="detergeo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Adj|Voice=Pass">detergendus</w>
+    <w ref="IV.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="IV.3" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="IV.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="IV.3" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="IV.3" lemma="nihil" pos="PROind" msd="Case=Ind">nihil</w>
+    <w ref="IV.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">fuerit</w>
+    <w ref="IV.3" lemma="excludo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">exclusum</w>
+    <w ref="IV.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="IV.3" lemma="interiacio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">interiecto</w>
+    <w ref="IV.3" lemma="spatium" pos="NOMcom" msd="Case=Abl|Numb=Sing">spatio</w>
+    <w ref="IV.3" lemma="unus" pos="ADJcar" msd="Case=Gen|Numb=Sing|Gend=Com">unius</w>
+    <w ref="IV.3" lemma="hora" pos="NOMcom" msd="Case=Gen|Numb=Sing">horae</w>
+    <w ref="IV.3" lemma="perungo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">perunctum</w>
+    <w ref="IV.3" lemma="reficio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">reficere</w>
+    <w ref="IV.3" lemma="aegroto" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">aegrotantem</w>
+    <w ref="IV.3" lemma="cibus" pos="NOMcom" msd="Case=Dat|Numb=Plur">cibis</w>
+    <w ref="IV.3" lemma="congruus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com">congruis</w>
+    <w ref="IV.3" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="IV.3" lemma="stomachus" pos="NOMcom" msd="Case=Dat|Numb=Sing">stomacho</w>
+    <w ref="IV.3" lemma="aptus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Sup">aptissimis</w>
+    <w ref="IV.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="IV.3" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="IV.3" lemma="lactuca" pos="NOMcom" msd="Case=Gen|Numb=Sing">lactucae</w>
+    <w ref="IV.3" lemma="thyrsus" pos="NOMcom" msd="Case=Abl|Numb=Sing">thyrso</w>
+    <w ref="IV.3" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="IV.3" lemma="intero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">intybo</w>
+    <w ref="IV.3" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="IV.3" lemma="acetum" pos="NOMcom" msd="Case=Abl|Numb=Sing">aceto</w>
+    <w ref="IV.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>
