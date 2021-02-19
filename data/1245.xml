@@ -1,0 +1,44 @@
+<div type="fragment" corresp="adams:150" ana="#metaphore #couper #tailler #desir">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>23.1-23.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:23.1-23.6" type="line">
+    <w ref="23.1" lemma="quicumque1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">Quicumque</w>
+    <w ref="23.1" lemma="hic1" pos="PROdem" msd="Numb=Sing|Gend=Masc|Deg=Pos">hic</w>
+    <w ref="23.1" lemma="uiola" pos="NOMcom" msd="Case=Acc|Numb=Sing">uiolam</w>
+    <w ref="23.1" lemma="rosa" pos="NOMcom" msd="Case=Acc|Numb=Sing">rosamue</w>
+    <w ref="23.1" lemma="ue" pos="CON" msd="MORPH=empty">{rosamue}</w>
+    <w ref="23.1" lemma="carpo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">carpet</w>
+    <w ref="23.2" lemma="furtiuus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">furtiuumue</w>
+    <w ref="23.2" lemma="ue" pos="CON" msd="MORPH=empty">{furtiuumue}</w>
+    <w ref="23.2" lemma="olus" pos="NOMcom" msd="Case=Acc|Numb=Sing">olus</w>
+    <w ref="23.2" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="23.2" lemma="inemptus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">inempta</w>
+    <w ref="23.2" lemma="pomum" pos="NOMcom" msd="Case=Acc|Numb=Plur">poma</w>
+    <w ref="23.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23.3" lemma="defectus?" pos="VER" msd="Numb=Sing">defectus</w>
+    <w ref="23.3" lemma="puer" pos="NOMcom" msd="Case=Abl|Numb=Sing">pueroque</w>
+    <w ref="23.3" lemma="que" pos="CON" msd="MORPH=empty">{pueroque}</w>
+    <w ref="23.3" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Sing">feminaque</w>
+    <w ref="23.3" lemma="que" pos="CON" msd="MORPH=empty">{feminaque}</w>
+    <w ref="23.4" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">hac</w>
+    <w ref="23.4" lemma="tentigo" pos="NOMcom" msd="Case=Abl|Numb=Sing">tentigine</w>
+    <w ref="23.4" lemma="ne2" pos="ADV" msd="MORPH=empty">{tentigine}</w>
+    <w ref="23.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23.4" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>
+    <w ref="23.4" lemma="uideo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">uidetis</w>
+    <w ref="23.4" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="23.4" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">me</w>
+    <w ref="23.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#metaphore #couper #tailler #desir" ref="23.5" lemma="rumpo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">rumpatur</w>
+    <w ref="23.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23.5" lemma="precor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">precor</w>
+    <w ref="23.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23.5" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+    <w ref="23.5" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentulaque</w>
+    <w ref="23.5" lemma="que" pos="CON" msd="MORPH=empty">{mentulaque}</w>
+    <w ref="23.6" lemma="nequicquam" pos="ADV" msd="Deg=Pos">nequicquam</w>
+    <w ref="23.6" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="23.6" lemma="pulso" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">pulset</w>
+    <w ref="23.6" lemma="umbilicus" pos="NOMcom" msd="Case=Acc|Numb=Sing">umbilicum</w>
+    <w ref="23.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

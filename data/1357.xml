@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:162" ana="#metaphore #acte #joke #jeu #jeunesse">
+  <bibl><author>Cicero</author>, <title>For Marcus Caelius</title>, <biblscope>28-28</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi024.perseus-lat2:28-28" type="unknown">
+    <w ref="28" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">datur</w>
+    <w ref="28" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="28" lemma="concessus" pos="NOMcom" msd="Case=Abl|Numb=Sing">concessu</w>
+    <w ref="28" lemma="omnis" pos="PROind" msd="Case=Gen|Numb=Plur|Gend=Com">omnium</w>
+    <w ref="28" lemma="hic1" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">huic</w>
+    <w ref="28" lemma="aliquis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">aliqui</w>
+    <w ana="#metaphore #acte #joke #jeu #jeunesse" ref="28" lemma="ludus" pos="NOMcom" msd="Case=Nom|Numb=Sing">ludus</w>
+    <w ref="28" lemma="aetas" pos="NOMcom" msd="Case=Dat|Numb=Sing">aetati</w>
+    <w ref="28" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="28" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="28" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ref="28" lemma="natura" pos="NOMcom" msd="Case=Nom|Numb=Sing">natura</w>
+    <w ref="28" lemma="profundo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">profundit</w>
+    <w ref="28" lemma="adolescentia" pos="NOMcom" msd="Case=Gen|Numb=Sing">adulescentiae</w>
+    <w ref="28" lemma="cupiditas" pos="NOMcom" msd="Case=Nom|Numb=Plur">cupiditates</w>
+    <w ref="28" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:162" ana="#metaphore #acte #joke #jeu #fututio">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblscope>61.204-61.205</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:61.204-61.205" type="line">
+    <w ana="#metaphore #acte #joke #jeu #fututio" ref="61.204" lemma="ludo" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">ludite</w>
+    <w ref="61.204" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="61.204" lemma="libet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">libet</w>
+    <w ref="61.204" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="61.204" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="61.204" lemma="breui" pos="ADV" msd="Deg=Pos">brevi</w>
+    <w ref="61.205" lemma="liberi" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Masc">liberos</w>
+    <w ref="61.205" lemma="do" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">date</w>
+    <w ref="61.205" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

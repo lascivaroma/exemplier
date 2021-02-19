@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:162" ana="#metaphore #acte #joke #jeu #jeunesse">
+  <bibl><author>Ovid</author>, <title>Amores</title>, <biblscope>2.3.13-2.3.14</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.3.13-2.3.14" type="line">
+    <w ref="2.3.13" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Est</w>
+    <w ref="2.3.13" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="2.3.13" lemma="facies" pos="NOMcom" msd="Case=Nom|Numb=Sing">facies</w>
+    <w ref="2.3.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.3.13" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="2.3.13" lemma="aptus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">apti</w>
+    <w ana="#metaphore #acte #joke #jeu #jeunesse" ref="2.3.13" lemma="lusus" pos="NOMcom" msd="Case=Dat|Numb=Plur">lusibus</w>
+    <w ref="2.3.13" lemma="annus" pos="NOMcom" msd="Case=Gen|Numb=Sing">anni</w>
+    <w ref="2.3.13" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.3.14" lemma="indignus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Indigna</w>
+    <w ref="2.3.14" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="2.3.14" lemma="piger" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">pigro</w>
+    <w ref="2.3.14" lemma="forma" pos="NOMcom" msd="Case=Nom|Numb=Sing">forma</w>
+    <w ref="2.3.14" lemma="pereo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">perire</w>
+    <w ref="2.3.14" lemma="situs1" pos="NOMcom" msd="Case=Abl|Numb=Sing">situ</w>
+    <w ref="2.3.14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

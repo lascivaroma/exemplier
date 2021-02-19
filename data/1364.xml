@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:163" ana="#metaphore #acte #devoir #service #patentia">
+  <bibl><author>Cicero</author>, <title>Against Catiline</title>, <biblscope>2.8-2.8</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi013.perseus-lat2:2.8-2.8" type="section">
+    <w ref="2.8" lemma="alius" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Masc">alios</w>
+    <w ref="2.8" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ref="2.8" lemma="amo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">amabat</w>
+    <w ref="2.8" lemma="turpiter" pos="ADV" msd="Deg=Sup">turpissime</w>
+    <w ref="2.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.8" lemma="alius" pos="PROind" msd="Case=Gen|Numb=Plur|Gend=MascNeut">aliorum</w>
+    <w ref="2.8" lemma="amor" pos="NOMcom" msd="Case=Dat|Numb=Sing">amori</w>
+    <w ref="2.8" lemma="flagitiose" pos="ADV" msd="Deg=Sup">flagitiosissime</w>
+    <w ana="#metaphore #acte #devoir #service #patentia" ref="2.8" lemma="seruio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">serviebat</w>
+  </quote>
+</div>

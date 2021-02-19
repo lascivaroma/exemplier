@@ -1,0 +1,17 @@
+<div  type="fragment" corresp="adams:168" ana="#metaphore #acte #peler #raboter #masturbatio">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblscope>2.17.4-2.17.5</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:2.17.4-2.17.5" type="line">
+    <w ref="2.17.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.17.5" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ref="2.17.5" lemma="tondeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tondet</w>
+    <w ref="2.17.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.17.5" lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">inquam</w>
+    <w ref="2.17.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+    <w ref="2.17.5" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">Quid</w>
+    <w ref="2.17.5" lemma="igitur" pos="CONcoo" msd="MORPH=empty">igitur</w>
+    <w ref="2.17.5" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
+    <w ref="2.17.5" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+    <w ana="#metaphore #acte #peler #raboter #masturbatio" ref="2.17.5" lemma="rado" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Radit</w>
+    <w ref="2.17.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:168" ana="#metaphore #acte #peler #raboter">
+  <bibl><author>Ausonius, Decimus Magnus</author>, <title>Epigrammaton Liber</title>, <biblscope>79.6-79.8</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:79.6-79.8" type="line">
+    <w ana="#metaphore #acte #peler #raboter" ref="79.7" lemma="deglubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">deglubit</w>
+    <w ref="79.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="79.7" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fellat</w>
+    <w ref="79.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="79.7" lemma="molior" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">molitur</w>
+    <w ref="79.7" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="79.7" lemma="uterque" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">utramque</w>
+  </quote>
+</div>

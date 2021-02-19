@@ -1,0 +1,36 @@
+<div type="fragment" corresp="adams:158" ana="#metaphore #acte #lutter #sebattre">
+  <bibl><author>Apuleius</author>, <title>Metamorphoses</title>, <biblScope>2.17-2.17</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:2.17-2.17" type="chapter">
+    <w ref="2.17" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">His</w>
+    <w ref="2.17" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.17" lemma="huiusmodi" pos="ADV" msd="Deg=Pos">huiusmodi</w>
+    <w ana="#metaphore #acte #lutter #sebattre" ref="2.17" lemma="colluctatio" pos="NOMcom" msd="Case=Abl|Numb=Plur">colluctationibus</w>
+    <w ref="2.17" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="2.17" lemma="confinium" pos="NOMcom" msd="Case=Acc|Numb=Plur|Deg=Pos">confinia</w>
+    <w ref="2.17" lemma="lux" pos="NOMcom" msd="Case=Gen|Numb=Plur">lucis</w>
+    <w ref="2.17" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+    <w ref="2.17" lemma="peruigil" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">pervigiles</w>
+    <w ref="2.17" lemma="ago" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1">egimus</w>
+    <w ref="2.17" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.17" lemma="poculum" pos="NOMcom" msd="Case=Abl|Numb=Plur">poculis</w>
+    <w ref="2.17" lemma="interdum" pos="ADV" msd="Deg=Pos">interdum</w>
+    <w ref="2.17" lemma="lassitudo" pos="NOMcom" msd="Case=Acc|Numb=Sing">lassitudinem</w>
+    <w ref="2.17" lemma="refoueo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">refoventes</w>
+    <w ref="2.17" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.17" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing">libidinem</w>
+    <w ref="2.17" lemma="incito1" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">incitantes</w>
+    <w ref="2.17" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.17" lemma="uoluptas" pos="NOMcom" msd="Case=Acc|Numb=Sing">voluptatem</w>
+    <w ref="2.17" lemma="integro" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Dep">integrantes</w>
+    <w ref="2.17" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.17" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="2.17" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
+    <w ref="2.17" lemma="nox" pos="NOMcom" msd="Case=Gen|Numb=Sing">noctis</w>
+    <w ref="2.17" lemma="exemplar" pos="NOMcom" msd="Case=Acc|Numb=Sing">exemplar</w>
+    <w ref="2.17" lemma="similis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">similes</w>
+    <w ref="2.17" lemma="astruo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1">astruximus</w>
+    <w ref="2.17" lemma="alius" pos="ADV" msd="Case=Acc|Numb=Plur|Gend=Fem">alias</w>
+    <w ref="2.17" lemma="plusculus" pos="NOMcom" msd="Case=Acc|Numb=Plur">plusculas</w>
+    <w ref="2.17" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

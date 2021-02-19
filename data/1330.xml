@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:159" ana="#metaphore #acte #tuer #mourir #male">
+  <bibl><author>Ausonius, Decimus Magnus</author>, <title>Cento Nuptialis</title>, <biblScope>128-131</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:128-131" type="line">
+    <w ref="130" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="130" lemma="sudor" pos="NOMcom" msd="Case=Nom|Numb=Sing">sudor</w>
+    <w ref="130" lemma="fluo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fluit</w>
+    <w ref="130" lemma="undique" pos="ADV" msd="Deg=Pos">undique</w>
+    <w ref="130" lemma="riuus" pos="NOMcom" msd="Case=Abl|Numb=Plur">rivis</w>
+    <w ref="130" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="131" lemma="labor2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">labitur</w>
+    <w ana="#metaphore #acte #tuer #mourir #male" ref="131" lemma="exsanguis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">exanguis</w>
+    <w ref="131" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="131" lemma="destillo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">destillat</w>
+    <w ref="131" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="131" lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Sing">inguine</w>
+    <w ref="131" lemma="uirus" pos="NOMcom" msd="Case=Nom|Numb=Sing">virus</w>
+    <w ref="131" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

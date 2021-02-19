@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:160" ana="#metaphore #acte #epouser #noces">
+  <bibl><author>Cicero</author>, <title>Rhetorica ad Herennium [sp.]</title>, <biblScope>4.45-4.45</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi073.corpcorp-lat1:4.45-4.45" type="chapter">
+    <w ref="4.45" lemma="»" pos="PUNC" msd="MORPH=empty">»</w>
+    <w ref="4.45" lemma="obscenitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">Obscenitatis</w>
+    <w ref="4.45" lemma="uito" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">vitandae</w>
+    <w ref="4.45" lemma="causa" pos="NOMcom" msd="Case=Abl|Numb=Sing">causa</w>
+    <w ref="4.45" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.45" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+    <w ref="4.45" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="4.45" lemma="«" pos="PUNC" msd="MORPH=empty">«</w>
+    <w ref="4.45" lemma="quis1" pos="PROint" msd="Case=Gen|Numb=Sing|Gend=Com">Cuius</w>
+    <w ref="4.45" lemma="mater" pos="NOMcom" msd="Case=Nom|Numb=Sing">mater</w>
+    <w ref="4.45" lemma="cotidianus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">cottidianis</w>
+    <w ana="#metaphore #acte #epouser #noces" ref="4.45" lemma="nuptiae" pos="NOMcom" msd="Case=Abl|Numb=Plur">nuptiis</w>
+    <w ref="4.45" lemma="delecto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">delectetur</w>
+    <w ref="4.45" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

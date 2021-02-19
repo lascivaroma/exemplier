@@ -1,0 +1,39 @@
+<div type="fragment" corresp="adams:160" ana="#metaphore #acte #epouser #noces">
+  <bibl><author>Firmicus Maternus, Julius</author>, <title>Mathesis</title>, <biblScope>6.29.22-6.29.22</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0123a.stoa002.thayer-lat1:6.29.22-6.29.22" type="section">
+    <w ref="6.29.22" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.29.22" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="6.29.22" lemma="femininus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">femininis</w>
+    <w ref="6.29.22" lemma="signum" pos="NOMcom" msd="Case=Abl|Numb=Plur">signis</w>
+    <w ref="6.29.22" lemma="pono" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">positae</w>
+    <w ref="6.29.22" lemma="occasus" pos="NOMcom" msd="Case=Acc|Numb=Sing">occasum</w>
+    <w ref="6.29.22" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="6.29.22" lemma="mal" pos="ADV" msd="MORPH=empty">MC.</w>
+    <w ref="6.29.22" lemma="possideo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Perf|Voice=Act|Person=3">possederint</w>
+    <w ref="6.29.22" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.29.22" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.29.22" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Fem">eas</w>
+    <w ref="6.29.22" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="6.29.22" lemma="diametrum" pos="NOMcom" msd="Case=Abl|Numb=Sing">diametro</w>
+    <w ref="6.29.22" lemma="mars" pos="NOMcom" msd="Case=Nom|Numb=Sing">Mars</w>
+    <w ref="6.29.22" lemma="saturnus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Saturnusque</w>
+    <w ref="6.29.22" lemma="que" pos="CON" msd="MORPH=empty">{Saturnusque}</w>
+    <w ref="6.29.22" lemma="respicio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">respiciant</w>
+    <w ref="6.29.22" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.29.22" lemma="facio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">faciunt</w>
+    <w ref="6.29.22" lemma="incestus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">incesto</w>
+    <w ref="6.29.22" lemma="furor1" pos="NOMcom" msd="Case=Gen|Numb=Sing">furoris</w>
+    <w ref="6.29.22" lemma="ardor" pos="NOMcom" msd="Case=Abl|Numb=Sing">ardore</w>
+    <w ref="6.29.22" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.29.22" lemma="nefarius" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">nefariae</w>
+    <w ref="6.29.22" lemma="cupiditas" pos="NOMcom" msd="Case=Gen|Numb=Sing">cupiditatis</w>
+    <w ref="6.29.22" lemma="instinctus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">instinctu</w>
+    <w ref="6.29.22" lemma="filia" pos="NOMcom" msd="Case=Acc|Numb=Plur">filias</w>
+    <w ref="6.29.22" lemma="pater" pos="NOMcom" msd="Case=Dat|Numb=Plur">patribus</w>
+    <w ref="6.29.22" lemma="illicitus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">inlicitis</w>
+    <w ana="#metaphore #acte #epouser #noces" ref="6.29.22" lemma="matrimonium" pos="NOMcom" msd="Case=Gen|Numb=Plur">matrimoniorum</w>
+    <w ref="6.29.22" lemma="uinculum" pos="NOMcom" msd="Case=Abl|Numb=Plur">vinculis</w>
+    <w ref="6.29.22" lemma="copulo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">copulari</w>
+    <w ref="6.29.22" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

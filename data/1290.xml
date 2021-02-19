@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:156" ana="#metaphore #acte #travailler">
+  <bibl><author>Juvenal</author>, <title>Satires</title>, <biblScope>9.27-9.32</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:9.27-9.32" type="line">
+    <w ref="9.27" lemma="‘" pos="PUNC" msd="MORPH=empty">‘</w>
+    <w ref="9.27" lemma="utilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">Utile</w>
+    <w ref="9.27" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.27" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="9.27" lemma="multi" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com">multis</w>
+    <w ref="9.27" lemma="uita" pos="NOMcom" msd="Case=Gen|Numb=Sing">vitae</w>
+    <w ref="9.27" lemma="genus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">genus</w>
+    <w ref="9.27" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.27" lemma="at2" pos="CONcoo" msd="MORPH=empty">at</w>
+    <w ref="9.27" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="9.27" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">nullum</w>
+    <w ref="9.28" lemma="inde" pos="ADV" msd="Deg=Pos">inde</w>
+    <w ana="#metaphore #acte #travailler" ref="9.28" lemma="opera" pos="NOMcom" msd="Case=Gen|Numb=Sing">operae</w>
+    <w ref="9.28" lemma="pretium" pos="NOMcom" msd="Case=Nom|Numb=Sing">pretium</w>
+  </quote>
+</div>

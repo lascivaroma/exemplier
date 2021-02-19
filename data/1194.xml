@@ -1,0 +1,12 @@
+<div type="fragment" corresp="adams:143" ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme">
+  <bibl><author>Isidore of Seville</author>, <title>Etymologies</title>, <biblScope>9.5-9.5</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0159.stoa004.thayer-lat1:9.5-9.5" type="entry">
+    <w ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme" ref="9.5" lemma="patratio" pos="NOMcom" msd="Case=Nom|Numb=Sing">Patratio</w>
+    <w ref="9.5" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="9.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="9.5" lemma="res" pos="NOMcom" msd="Case=Gen|Numb=Sing">rei</w>
+    <w ref="9.5" lemma="Uenereus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">veneriae</w>
+    <w ref="9.5" lemma="consummatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">consummatio</w>
+    <w ref="9.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

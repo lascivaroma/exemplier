@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:165" ana="#metaphore #acte #chevaucher #femme #effeminé #composite">
+  <bibl><author>Arnobius of Sicca</author>, <title>Arnobii adversus nationes Libri VII</title>, <biblscope>4.7-4.7</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:4.7-4.7" type="section">
+    <w ref="4.7" lemma="tutunus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Tutunus</w>
+    <w ref="4.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.7" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
+    <w ref="4.7" lemma="immanis" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">inmanibus</w>
+    <w ref="4.7" lemma="pudendus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">pudendis</w>
+    <w ref="4.7" lemma="horrens" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=Com">horrentique</w>
+    <w ref="4.7" lemma="que" pos="CON" msd="MORPH=empty">{horrentique}</w>
+    <w ref="4.7" lemma="fascinum" pos="NOMcom" msd="Case=Abl|Numb=Sing">fascino</w>
+    <w ref="4.7" lemma="uester" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Fem">uestras</w>
+    <w ana="#metaphore #acte #chevaucher #femme #effeminé #composite" ref="4.7" lemma="inequito" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act|Person=2">inequitare</w>
+    <w ref="4.7" lemma="matrona" pos="NOMcom" msd="Case=Acc|Numb=Plur">matronas</w>
+  </quote>
+</div>

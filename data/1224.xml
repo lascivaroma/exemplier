@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:148" ana="#metaphore #acte #frapper #futuo">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblScope>59.1-59.5</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:59.1-59.5" type="line">
+    <w ref="59.1" lemma="bononiensis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">Bononiensis</w>
+    <w ref="59.1" lemma="rufa" pos="NOMcom" msd="Case=Acc|Numb=Plur">Rufa</w>
+    <w ref="59.1" lemma="rufulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">Rufulum</w>
+    <w ref="59.1" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fellat</w>
+    <w ref="59.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="59.2" lemma="uxor" pos="NOMcom" msd="Case=Nom|Numb=Sing">uxor</w>
+    <w ref="59.2" lemma="menenum" pos="NOMcom" msd="Case=Gen|Numb=Sing">Meneni</w>
+    <w ref="59.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="59.2" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
+    <w ref="59.2" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing">quam</w>
+    <w ref="59.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="59.2" lemma="sepulcretum" pos="NOMcom" msd="Case=Abl|Numb=Plur">sepulcretis</w>
+    <w ref="59.3" lemma="uideo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=2">vidistis</w>
+    <w ref="59.3" lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">ipso</w>
+    <w ref="59.3" lemma="rapio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">rapere</w>
+    <w ref="59.3" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="59.3" lemma="rogus" pos="VER" msd="Case=Abl|Numb=Sing">rogo</w>
+    <w ref="59.3" lemma="cena" pos="NOMcom" msd="Case=Acc|Numb=Sing">cenam</w>
+    <w ref="59.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="59.4" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="59.4" lemma="deuoluo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">devolutum</w>
+    <w ref="59.4" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="59.4" lemma="ignis" pos="NOMcom" msd="Case=Abl|Numb=Sing">igne</w>
+    <w ref="59.4" lemma="prosequor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">prosequens</w>
+    <w ref="59.4" lemma="panis" pos="NOMcom" msd="Case=Acc|Numb=Sing">panem</w>
+    <w ref="59.5" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="59.5" lemma="semirasus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">semiraso</w>
+    <w ana="#metaphore #acte #frapper #futuo" ref="59.5" lemma="tundo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">tunderetur</w>
+    <w ref="59.5" lemma="ustor" pos="NOMcom" msd="Case=Abl|Numb=Sing">ustore</w>
+    <w ref="59.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

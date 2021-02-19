@@ -1,0 +1,21 @@
+<div  type="fragment" corresp="adams:162" ana="#metaphore #acte #joke #jeu">
+  <bibl><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblscope>8.40-8.40</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:8.40-8.40" type="chapter">
+    <w ref="8.40" lemma="memoro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">memoratur</w>
+    <w ref="8.40" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="8.40" lemma="nicomeda" pos="NOMcom" msd="Case=Gen|Numb=Sing">Nicomedis</w>
+    <w ref="8.40" lemma="bithynia" pos="ADJqua" msd="Case=Gen|Numb=Sing">Bithyniae</w>
+    <w ref="8.40" lemma="rex" pos="NOMcom" msd="Case=Gen|Numb=Sing">regis</w>
+    <w ref="8.40" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8.40" lemma="uxor" pos="NOMcom" msd="Case=Abl|Numb=Sing">uxore</w>
+    <w ref="8.40" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="8.40" lemma="cosingo" pos="VER" msd="Case=Gen|Numb=Sing">Cosingi</w>
+    <w ref="8.40" lemma="lacero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">lacerata</w>
+    <w ref="8.40" lemma="propter2" pos="PRE" msd="MORPH=empty">propter</w>
+    <w ref="8.40" lemma="lasciuus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp">lasciviorem</w>
+    <w ref="8.40" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="8.40" lemma="maritus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">marito</w>
+    <w ana="#metaphore #acte #joke #jeu" ref="8.40" lemma="iocus" pos="NOMcom" msd="Case=Acc|Numb=Sing">iocum</w>
+    <w ref="8.40" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

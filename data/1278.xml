@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:155" ana="#metaphore #acte #subigo #soumission">
+  <bibl><author>Epigrammata Bobiensia</author>, <title>Epigrammata Bobiensia</title>, <biblScope>24.1-24.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:lasc0001.lasc001.musisquedeoque-lat1:24.1-24.2" type="line">
+    <w ref="24.1" lemma="deformis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">Deformis</w>
+    <w ref="24.1" lemma="uxor" pos="NOMcom" msd="Case=Nom|Numb=Sing">uxor</w>
+    <w ref="24.1" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
+    <w ref="24.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="24.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="24.1" lemma="ancilla" pos="NOMcom" msd="Case=Nom|Numb=Sing">ancilla</w>
+    <w ref="24.1" lemma="elegans" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">elegans</w>
+    <w ref="24.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="24.2" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">Vxorem</w>
+    <w ref="24.2" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
+    <w ref="24.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#metaphore #acte #subigo #soumission" ref="24.2" lemma="subigo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">subigere</w>
+    <w ref="24.2" lemma="ancilla" pos="NOMcom" msd="Case=Acc|Numb=Sing">ancillam</w>
+    <w ref="24.2" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">uelit</w>
+    <w ref="24.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

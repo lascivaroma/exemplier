@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:163" ana="#metaphore #acte #devoir #service">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblscope>61.225-61.228</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:61.225-61.228" type="line">
+    <w ref="61.225" lemma="at2" pos="CONcoo" msd="MORPH=empty">at</w>
+    <w ref="61.225" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="61.225" lemma="bonus" pos="ADJqua" msd="Case=Voc|Numb=Plur|Gend=Masc|Deg=Pos">boni</w>
+    <w ref="61.226" lemma="coniux" pos="NOMcom" msd="Case=Acc|Numb=Plur">coniuges</w>
+    <w ref="61.226" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="61.226" lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
+    <w ref="61.226" lemma="uiuo" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">vivite</w>
+    <w ref="61.226" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#metaphore #acte #devoir #service" ref="61.227" lemma="munus" pos="NOMcom" msd="Case=Abl|Numb=Sing">munere</w>
+    <w ref="61.227" lemma="assiduus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">adsiduo</w>
+    <w ref="61.227" lemma="Ualens" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem">valentem</w>
+    <w ref="61.228" lemma="exerceo" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">exercete</w>
+    <w ref="61.228" lemma="iuuenta" pos="NOMcom" msd="Case=Acc|Numb=Sing">iuventam</w>
+    <w ref="61.228" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

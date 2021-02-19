@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:163" ana="#metaphore #acte #devoir #service #douteux">
+  <bibl><author>Columella, Lucius Junius Moderatus</author>, <title>Res Rustica</title>, <biblscope>6.27.10-6.27.10</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:6.27.10-6.27.10" type="section">
+    <w ref="6.27.10" lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
+    <w ref="6.27.10" lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
+    <w ref="6.27.10" lemma="admoueo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">admotus</w>
+    <w ref="6.27.10" lemma="fere" pos="ADV" msd="Deg=Pos">fere</w>
+    <w ref="6.27.10" lemma="tento" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tentavit</w>
+    <w ana="#metaphore #acte #devoir #service" ref="6.27.10" lemma="obsequium" pos="NOMcom" msd="Case=Nom|Numb=Sing">obsequium</w>
+    <w ref="6.27.10" lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Sing">feminae</w>
+    <w ref="6.27.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.27.10" lemma="abduco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">abducitur</w>
+    <w ref="6.27.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.27.10" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.27.10" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="6.27.10" lemma="patiens" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=Com|Deg=Comp">patientiori</w>
+    <w ref="6.27.10" lemma="generosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">generosior</w>
+    <w ref="6.27.10" lemma="equus" pos="NOMcom" msd="Case=Nom|Numb=Sing">equus</w>
+    <w ref="6.27.10" lemma="impono" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">imponitur</w>
+    <w ref="6.27.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

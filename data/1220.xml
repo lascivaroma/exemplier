@@ -1,0 +1,30 @@
+<div type="fragment" corresp="adams:147" ana="#metaphore #acte #frapper">
+  <bibl><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblScope>69-69</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:69-69" type="section">
+    <w ref="69" lemma="sic" pos="ADV" msd="Deg=Pos">Sic</w>
+    <w ref="69" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="69" lemma="saluus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">salvum</w>
+    <w ref="69" lemma="habeo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=2">habeatis</w>
+    <w ref="69" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="69" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="69" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="69" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+    <w ref="69" lemma="soleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=SemDep|Person=1">solebam</w>
+    <w ref="69" lemma="ipse" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Sup">ipsumam</w>
+    <w ref="69" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">meam</w>
+    <w ana="#metaphore #acte #frapper" ref="69" lemma="debatuo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">debattuere</w>
+    <w ref="69" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="69" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="69" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="69" lemma="dominus" pos="NOMcom" msd="Case=Nom|Numb=Sing">dominus</w>
+    <w ref="69" lemma="suspicor" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Dep|Person=3">suspicaretur</w>
+    <w ref="69" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="69" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="69" lemma="ideo" pos="ADV" msd="Deg=Pos">ideo</w>
+    <w ref="69" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="69" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="69" lemma="uilicatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">vilicationem</w>
+    <w ref="69" lemma="relego1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">relegavit</w>
+    <w ref="69" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:145" ana="#metaphore #acte #frapper #pedicatio">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblScope>56.5-56.7</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:56.5-56.7" type="line">
+    <w ref="56.5" lemma="deprehendo" pos="VER" msd="Mood=Ind|Tense=Perf|Voice=Act|Person=1">deprendi</w>
+    <w ref="56.5" lemma="modo1" pos="ADV" msd="Deg=Pos">modo</w>
+    <w ref="56.5" lemma="pupulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">pupulum</w>
+    <w ref="56.5" lemma="puella" pos="NOMcom" msd="Case=Dat|Numb=Sing">puellae</w>
+    <w ref="56.6" lemma="truso" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">trusantem</w>
+    <w ref="56.6" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="56.6" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">hunc</w>
+    <w ref="56.6" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="56.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="56.6" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="56.6" lemma="placeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">placet</w>
+    <w ref="56.6" lemma="diona" pos="NOMcom" msd="Case=Gen|Numb=Sing">Dionae</w>
+    <w ref="56.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="56.7" lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>
+    <w ref="56.7" lemma="telum" pos="NOMcom" msd="Case=Abl|Numb=Sing">telo</w>
+    <w ref="56.7" lemma="rigidus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">rigida</w>
+    <w ref="56.7" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Fem">mea</w>
+    <w ana="#metaphore #acte #frapper #pedicatio" ref="56.7" lemma="caedo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">cecidi</w>
+    <w ref="56.7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

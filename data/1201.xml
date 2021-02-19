@@ -1,0 +1,39 @@
+<div type="fragment" corresp="adams:144" ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme #composite">
+  <bibl><author>Ausonius, Decimus Magnus</author>, <title>Cento Nuptialis</title>, <biblScope>128-131</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:128-131" type="line">
+    <w ref="128" lemma="iam" pos="ADV" msd="Deg=Pos">iamque</w>
+    <w ref="128" lemma="que" pos="CON" msd="MORPH=empty">{iamque}</w>
+    <w ref="128" lemma="fere" pos="ADV" msd="Deg=Pos">fere</w>
+    <w ref="128" lemma="spatium" pos="NOMcom" msd="Case=Abl|Numb=Sing">spatio</w>
+    <w ref="128" lemma="exter" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Sup">extremo</w>
+    <w ref="128" lemma="fessus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">fessique</w>
+    <w ref="128" lemma="que" pos="CON" msd="MORPH=empty">{fessique}</w>
+    <w ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme #composite" ref="128" lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+    <w ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme #composite" ref="128" lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">ipsam</w>
+    <w ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme #composite" ref="129" lemma="finis" pos="NOMcom" msd="Case=Acc|Numb=Sing">finem</w>
+    <w ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme #composite" ref="129" lemma="aduento" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3">adventabant</w>
+    <w ref="129" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="129" lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>
+    <w ref="129" lemma="creber" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">creber</w>
+    <w ref="129" lemma="anhelitus" pos="NOMcom" msd="Case=Nom|Numb=Sing">anhelitus</w>
+    <w ref="129" lemma="artus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">artus</w>
+    <w ref="130" lemma="aridus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">aridaque</w>
+    <w ref="130" lemma="que" pos="CON" msd="MORPH=empty">{aridaque}</w>
+    <w ref="130" lemma="os1" pos="NOMcom" msd="Case=Acc|Numb=Plur">ora</w>
+    <w ref="130" lemma="quatio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">quatit</w>
+    <w ref="130" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="130" lemma="sudor" pos="NOMcom" msd="Case=Nom|Numb=Sing">sudor</w>
+    <w ref="130" lemma="fluo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fluit</w>
+    <w ref="130" lemma="undique" pos="ADV" msd="Deg=Pos">undique</w>
+    <w ref="130" lemma="riuus" pos="NOMcom" msd="Case=Abl|Numb=Plur">rivis</w>
+    <w ref="130" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="131" lemma="labor2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">labitur</w>
+    <w ref="131" lemma="exsanguis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">exanguis</w>
+    <w ref="131" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="131" lemma="destillo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">destillat</w>
+    <w ref="131" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="131" lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Sing">inguine</w>
+    <w ref="131" lemma="uirus" pos="NOMcom" msd="Case=Nom|Numb=Sing">virus</w>
+    <w ref="131" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

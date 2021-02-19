@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:146" ana="#metaphore #acte #frapper #pedicatio">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>13.1-13.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:13.1-13.2" type="line">
+    <w ana="#metaphore #acte #frapper #pedicatio" ref="13.1" lemma="percido2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Percidere</w>
+    <w ref="13.1" lemma="puer" pos="NOMcom" msd="Case=Voc|Numb=Sing">puer</w>
+    <w ref="13.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="13.1" lemma="moneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">moneo</w>
+    <w ref="13.1" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="13.1" lemma="futuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">futuere</w>
+    <w ref="13.1" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
+    <w ref="13.1" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="13.2" lemma="barbatus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">barbatum</w>
+    <w ref="13.2" lemma="fur" pos="NOMcom" msd="Case=Acc|Numb=Sing">furem</w>
+    <w ref="13.2" lemma="tertius" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">tertia</w>
+    <w ref="13.2" lemma="poena" pos="NOMcom" msd="Case=Nom|Numb=Sing">poena</w>
+    <w ref="13.2" lemma="maneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">manet</w>
+    <w ref="13.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

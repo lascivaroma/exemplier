@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:139" ana="#metaphore #acte #manger">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>14.70.1-14.70.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:14.70.1-14.70.2" type="line">
+    <w ref="14.70.1" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="14.70.1" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">vis</w>
+    <w ref="14.70.1" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ana="#metaphore #acte #manger" ref="14.70.1" lemma="satur" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">satur</w>
+    <w ref="14.70.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.70.1" lemma="noster" pos="PROpos" msd="Case=Gen|Numb=Plur">nostrum</w>
+    <w ref="14.70.1" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">potes</w>
+    <w ref="14.70.1" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="14.70.1" lemma="priapus" pos="NOMcom" msd="Case=Acc|Numb=Sing">Priapum</w>
+    <w ref="14.70.1" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="14.70.2" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">Ipsa</w>
+    <w ref="14.70.2" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">licet</w>
+    <w ref="14.70.2" lemma="rodus" pos="NOMcom" msd="Case=Acc|Numb=Plur">rodas</w>
+    <w ref="14.70.2" lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur">inguina</w>
+    <w ref="14.70.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.70.2" lemma="purus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">purus</w>
+    <w ref="14.70.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">eris</w>
+    <w ref="14.70.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

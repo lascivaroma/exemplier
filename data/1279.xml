@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:155" ana="#metaphore #acte #subigo #soumission">
+  <bibl><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblScope>IV.9-IV.9</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:IV.9-IV.9" type="part">
+    <w ref="IV.9" lemma="mollis" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">Molles</w>
+    <w ref="IV.9" lemma="siue2" pos="CONsub" msd="MORPH=empty">siue</w>
+    <w ana="#metaphore #acte #subigo #soumission" ref="IV.9" lemma="subigo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">subactos</w>
+    <w ref="IV.9" lemma="Graecus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">Graeci</w>
+    <w ref="IV.9" lemma="malthacus" pos="NOMcom" msd="Case=Acc|Numb=Plur">malthacos</w>
+    <w ref="IV.9" lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">uocauerunt</w>
+  </quote>
+</div>

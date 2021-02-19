@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:141" ana="#metaphore #acte #manger">
+  <bibl><author>Ausonius, Decimus Magnus</author>, <title>Epigrammaton Liber</title>, <biblScope>87.1-87.1</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:87.1-87.1" type="line">
+    <w ref="87.1" lemma="eunus" pos="ADJcar" msd="Case=Nom|Numb=Sing|Gend=Masc">EUNUS</w>
+    <w ref="87.1" lemma="syriscus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Syriscus</w>
+    <w ref="87.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="87.1" lemma="inguen" pos="NOMcom" msd="Case=Gen|Numb=Plur">inguinum</w>
+    <w ana="#metaphore #acte #manger" ref="87.1" lemma="ligurritor" pos="NOMcom" msd="Case=Nom|Numb=Sing">ligurritor</w>
+    <w ref="87.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

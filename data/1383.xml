@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:165" ana="#metaphore #acte #chevaucher #femme #effeminé">
+  <bibl><author>Ovid</author>, <title>Ars Amatoria</title>, <biblscope>3.777-3.778</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:3.777-3.778" type="line">
+    <w ref="3.777" lemma="numquam" pos="ADVneg" msd="MORPH=empty">numquam</w>
+    <w ref="3.778" lemma="theba" pos="NOMcom" msd="Case=Dat|Numb=Plur">Thebaïs</w>
+    <w ref="3.778" lemma="hectoreus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">Hectoreo</w>
+    <w ref="3.778" lemma="nupta" pos="VER" msd="Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">nupta</w>
+    <w ana="#metaphore #acte #chevaucher #femme #effeminé" ref="3.778" lemma="resido" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">resedit</w>
+    <w ref="3.778" lemma="equus" pos="NOMcom" msd="Case=Abl|Numb=Sing">equo</w>
+    <w ref="3.778" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

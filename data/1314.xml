@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:158" ana="#metaphore #acte #lutter #sebattre">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>10.55.1-10.55.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:10.55.1-10.55.6" type="line">
+    <w ref="10.55.4" lemma="idem" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=MascNeut">Idem</w>
+    <w ref="10.55.4" lemma="post2" pos="PRE" msd="MORPH=empty">post</w>
+    <w ref="10.55.4" lemma="opus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">opus</w>
+    <w ref="10.55.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="10.55.4" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Plur|Gend=Fem">suas</w>
+    <w ana="#metaphore #acte #lutter #sebattre" ref="10.55.4" lemma="palaestra" pos="NOMcom" msd="Case=Acc|Numb=Plur">palaestras</w>
+    <w ref="10.55.5" lemma="lorum" pos="NOMcom" msd="Case=Abl|Numb=Sing">Loro</w>
+    <w ref="10.55.5" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="10.55.5" lemma="similis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">similis</w>
+    <w ref="10.55.5" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iacet</w>
+    <w ref="10.55.5" lemma="remissus" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">remisso</w>
+  </quote>
+</div>

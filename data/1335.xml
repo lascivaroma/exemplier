@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:160" ana="#metaphore #acte #epouser #noces">
+  <bibl><author>P. Vergilius Maro</author>, <title>Aeneid</title>, <biblScope>4.169-4.172</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi003.perseus-lat2:4.169-4.172" type="line">
+    <w ref="4.171" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="4.171" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="4.171" lemma="furtiuus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">furtivum</w>
+    <w ref="4.171" lemma="didus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Dido</w>
+    <w ref="4.171" lemma="meditor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">meditatur</w>
+    <w ref="4.171" lemma="amor" pos="NOMcom" msd="Case=Acc|Numb=Sing">amorem</w>
+    <w ref="4.171" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ana="#metaphore #acte #epouser #noces" ref="4.172" lemma="coniugium" pos="NOMcom" msd="Case=Acc|Numb=Sing">coniugium</w>
+    <w ref="4.172" lemma="uoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vocat</w>
+    <w ref="4.172" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="4.172" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">hoc</w>
+    <w ref="4.172" lemma="praetexo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">praetexit</w>
+    <w ref="4.172" lemma="nomen" pos="NOMcom" msd="Case=Abl|Numb=Sing">nomine</w>
+    <w ref="4.172" lemma="culpa" pos="NOMcom" msd="Case=Acc|Numb=Sing">culpam</w>
+    <w ref="4.172" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

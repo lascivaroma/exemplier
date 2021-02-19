@@ -1,0 +1,10 @@
+<div type="fragment" corresp="adams:159" ana="#metaphore #acte #tuer #mourir">
+  <bibl><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblScope>79-79</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:79-79" type="section">
+    <w ref="79" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">Ego</w>
+    <w ref="79" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+    <w ana="#metaphore #acte #tuer #mourir" ref="79" lemma="pereo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">perire</w>
+    <w ref="79" lemma="coepio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">coepi</w>
+    <w ref="79" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:166" ana="#metaphore #acte #ramer #naviguer #composite">
+  <bibl><author>Ovid</author>, <title>Ars Amatoria</title>, <biblscope>2.731-2.732</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:2.731-2.732" type="line">
+    <w ref="2.731" lemma="cum2" pos="PRE" msd="MORPH=empty">Cum</w>
+    <w ref="2.731" lemma="mora" pos="NOMcom" msd="Case=Abl|Numb=Sing">mora</w>
+    <w ref="2.731" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="2.731" lemma="tutus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">tuta</w>
+    <w ref="2.731" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="2.731" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.731" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">totis</w>
+    <w ana="#metaphore #acte #ramer #naviguer #composite" ref="2.731" lemma="incumbo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">incumbere</w>
+    <w ana="#metaphore #acte #ramer #naviguer #composite" ref="2.731" lemma="remus" pos="NOMcom" msd="Case=Abl|Numb=Plur">remis</w>
+    <w ref="2.732" lemma="utilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">Utile</w>
+    <w ref="2.732" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.732" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.732" lemma="admitto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">admisso</w>
+    <w ref="2.732" lemma="subdo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">subdere</w>
+    <w ref="2.732" lemma="calcar" pos="NOMcom" msd="Case=Nom|Numb=Sing">calcar</w>
+    <w ref="2.732" lemma="equus" pos="NOMcom" msd="Case=Abl|Numb=Sing">equo</w>
+    <w ref="2.732" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

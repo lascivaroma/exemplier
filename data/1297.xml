@@ -1,0 +1,13 @@
+<div type="fragment" corresp="adams:157" ana="#metaphore #acte #travailler">
+  <bibl><author>Apuleius</author>, <title>Metamorphoses</title>, <biblScope>9.7-9.7</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:9.7-9.7" type="chapter">
+    <w ref="9.7" lemma="donec" pos="CONsub" msd="MORPH=empty">donec</w>
+    <w ref="9.7" lemma="uterque" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">utroque</w>
+    <w ana="#metaphore #acte #travailler" ref="9.7" lemma="opus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">opere</w>
+    <w ref="9.7" lemma="perficio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">perfecto</w>
+    <w ref="9.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.7" lemma="accipio" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">acceptis</w>
+    <w ref="9.7" lemma="septem" pos="ADJcar" msd="Case=Ind">septem</w>
+    <w ref="9.7" lemma="denarius1" pos="NOMcom" msd="Case=Abl|Numb=Plur">denariis</w>
+  </quote>
+</div>

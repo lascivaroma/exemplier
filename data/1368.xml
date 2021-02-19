@@ -1,0 +1,11 @@
+<div  type="fragment" corresp="adams:163" ana="#metaphore #acte #devoir #service #passive">
+  <bibl><author>Ovid</author>, <title>Ars Amatoria</title>, <biblscope>2.687-2.688</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:2.687-2.688" type="line">
+    <w ana="#metaphore #acte #devoir #service #passive" ref="2.688" lemma="officium" pos="NOMcom" msd="Case=Nom|Numb=Sing">Officium</w>
+    <w ref="2.688" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">faciat</w>
+    <w ref="2.688" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">nulla</w>
+    <w ref="2.688" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
+    <w ref="2.688" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="2.688" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

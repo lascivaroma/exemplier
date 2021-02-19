@@ -1,0 +1,52 @@
+<div type="fragment" corresp="adams:150" ana="#metaphore #couper #tailler #desir">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblScope>11.17-11.24</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:11.17-11.24" type="line">
+    <w ref="11.17" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="11.17" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Plur|Gend=Com">suis</w>
+    <w ref="11.17" lemma="uiuo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">vivat</w>
+    <w ref="11.17" lemma="ualeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">valeatque</w>
+    <w ref="11.17" lemma="que" pos="CON" msd="MORPH=empty">{valeatque}</w>
+    <w ref="11.17" lemma="moechus" pos="NOMcom" msd="Case=Abl|Numb=Plur">moechis</w>
+    <w ref="11.17" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.18" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Masc">quos</w>
+    <w ref="11.18" lemma="simul1" pos="ADV" msd="Deg=Pos">simul</w>
+    <w ref="11.18" lemma="complector" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Dep">complexa</w>
+    <w ref="11.18" lemma="teneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tenet</w>
+    <w ref="11.18" lemma="trecenti" pos="ADJcar" msd="Case=Acc|Numb=Plur|Gend=Masc">trecentos</w>
+    <w ref="11.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.19" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascNeut">nullum</w>
+    <w ref="11.19" lemma="amans1" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Com">amans</w>
+    <w ref="11.19" lemma="uer" pos="NOMcom" msd="Deg=Pos">vere</w>
+    <w ref="11.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.19" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="11.19" lemma="identidem" pos="ADV" msd="Deg=Pos">identidem</w>
+    <w ref="11.19" lemma="omnis" pos="PROind" msd="Case=Gen|Numb=Plur|Gend=Com">omnium</w>
+    <w ref="11.20" lemma="ilia" pos="NOMcom" msd="Case=Nom|Numb=Plur">ilia</w>
+    <w ana="#metaphore #couper #tailler #desir" ref="11.20" lemma="rumpo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">rumpens</w>
+    <w ref="11.20" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="11.21" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="11.21" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=MascNeut">meum</w>
+    <w ref="11.21" lemma="respecto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">respectet</w>
+    <w ref="11.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.21" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="11.21" lemma="ante2" pos="PRE" msd="MORPH=empty">ante</w>
+    <w ref="11.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.21" lemma="amor" pos="NOMcom" msd="Case=Acc|Numb=Sing">amorem</w>
+    <w ref="11.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.22" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="11.22" lemma="ille" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">illius</w>
+    <w ref="11.22" lemma="culpa" pos="NOMcom" msd="Case=Abl|Numb=Sing">culpa</w>
+    <w ref="11.22" lemma="cado" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">cecidit</w>
+    <w ref="11.22" lemma="uelut1" pos="ADVrel" msd="MORPH=empty">velut</w>
+    <w ref="11.22" lemma="pratum" pos="NOMcom" msd="Case=Gen|Numb=Sing">prati</w>
+    <w ref="11.23" lemma="ultimus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">ultimi</w>
+    <w ref="11.23" lemma="flos" pos="NOMcom" msd="Case=Nom|Numb=Sing">flos</w>
+    <w ref="11.23" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.23" lemma="praetereo1" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">praetereunte</w>
+    <w ref="11.23" lemma="postquam" pos="CONsub" msd="MORPH=empty">postquam</w>
+    <w ref="11.24" lemma="tango" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">tactus</w>
+    <w ref="11.24" lemma="aratrum" pos="NOMcom" msd="Case=Abl|Numb=Sing">aratro</w>
+    <w ref="11.24" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="11.24" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

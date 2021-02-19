@@ -1,0 +1,33 @@
+<div type="fragment" corresp="adams:146" ana="#metaphore #acte #frapper #pedicatio">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>15.4-15.7</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:15.4-15.7" type="line">
+    <w ref="15.4" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">dicat</w>
+    <w ref="15.4" lemma="forsitan" pos="ADV" msd="Deg=Pos">forsitan</w>
+    <w ref="15.4" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">haec</w>
+    <w ref="15.4" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="15.4" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ref="15.4" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="15.4" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="15.4" lemma="nemo" pos="PROind" msd="Case=Nom|Numb=Sing">nemo</w>
+    <w ref="15.5" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
+    <w ref="15.5" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="15.5" lemma="frutex" pos="NOMcom" msd="Case=Acc|Numb=Plur">frutices</w>
+    <w ref="15.5" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Sing">loco</w>
+    <w ref="15.5" lemma="remoueo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">remoto</w>
+    <w ana="#metaphore #acte #frapper #pedicatio" ref="15.6" lemma="percido2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">percisum</w>
+    <w ref="15.6" lemma="scio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">sciet</w>
+    <w ref="15.6" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="15.6" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="15.6" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="15.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="15.6" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="15.6" lemma="erro2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">errat</w>
+    <w ref="15.6" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="15.7" lemma="magnus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">magnis</w>
+    <w ref="15.7" lemma="testis1" pos="NOMcom" msd="Case=Abl|Numb=Plur">testibus</w>
+    <w ref="15.7" lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ista</w>
+    <w ref="15.7" lemma="res" pos="NOMcom" msd="Case=Nom|Numb=Sing">res</w>
+    <w ref="15.7" lemma="ago" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">agetur</w>
+    <w ref="15.7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

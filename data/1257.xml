@@ -1,0 +1,12 @@
+<div type="fragment" corresp="adams:152" ana="#metaphore #acte #blessure">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>3.4-3.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:3.4-3.8" type="line">
+    <w ref="3.8" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
+    <w ref="3.8" lemma="timeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">timet</w>
+    <w ref="3.8" lemma="alter" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">alterius</w>
+    <w ana="#metaphore #acte #blessure" ref="3.8" lemma="uulnus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uulnus</w>
+    <w ref="3.8" lemma="ineptus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">inepta</w>
+    <w ref="3.8" lemma="locus" pos="NOMcom" msd="Case=Gen|Numb=Sing">loci</w>
+    <w ref="3.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

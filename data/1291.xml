@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:156" ana="#metaphore #acte #travailler">
+  <bibl><author>Plautus, Titus Maccius</author>, <title>Asinaria</title>, <biblScope>871-874</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi002.perseus-lat2:871-874" type="line">
+    <w ref="873" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ana="#metaphore #acte #travailler" ref="873" lemma="opus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">operé</w>
+    <w ref="873" lemma="foris2" pos="ADV" msd="Deg=Pos">foris</w>
+    <w ref="873" lemma="facio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Ger|Voice=Act">faciendo</w>
+    <w ref="873" lemma="lassus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">lassus</w>
+    <w ref="873" lemma="noctu" pos="ADV" msd="Deg=Pos">noctu</w>
+    <w ref="873" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="873" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="873" lemma="aduenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">advenit</w>
+    <w ref="873" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="874" lemma="fundus" pos="NOMcom" msd="Case=Acc|Numb=Sing">fundum</w>
+    <w ref="874" lemma="alienus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">alienum</w>
+    <w ref="874" lemma="aro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">arat</w>
+    <w ref="874" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="874" lemma="incultus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">incultum</w>
+    <w ref="874" lemma="familiaris1" pos="NOMcom" msd="Case=Acc|Numb=Sing">familiarem</w>
+    <w ref="874" lemma="desero2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">deserit</w>
+    <w ref="874" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

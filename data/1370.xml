@@ -1,0 +1,13 @@
+<div type="fragment" corresp="adams:163" ana="#metaphore #acte #devoir #service #pathic">
+  <bibl><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>87-87</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:87-87" type="section">
+    <w ref="87" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="87" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="87" lemma="plane" pos="ADV" msd="Deg=Pos">plane</w>
+    <w ref="87" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="87" lemma="molestus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">molestum</w>
+    <w ref="87" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
+    <w ana="#metaphore #acte #devoir #service #pathic" ref="87" lemma="munus" pos="NOMcom" msd="Case=Nom|Numb=Sing">munus</w>
+    <w ref="87" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

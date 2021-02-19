@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:158" ana="#metaphore #acte #lutter #sebattre">
+  <bibl><author>Arnobius of Sicca</author>, <title>Arnobii adversus nationes Libri VII</title>, <biblScope>5.9-5.9</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.9-5.9" type="section">
+    <w ref="5.9" lemma="uis" pos="NOMcom" msd="Case=Abl|Numb=Sing">ui</w>
+    <w ref="5.9" lemma="mater" pos="NOMcom" msd="Case=Acc|Numb=Sing">matrem</w>
+    <w ana="#metaphore #acte #lutter #sebattre" ref="5.9" lemma="aggredior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">adgressus</w>
+    <w ref="5.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="5.9" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.9" lemma="aperte" pos="ADV" msd="Deg=Sup">apertissime</w>
+    <w ref="5.9" lemma="coepio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">coepit</w>
+    <w ref="5.9" lemma="uenerabilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">uenerabilem</w>
+    <w ref="5.9" lemma="subruo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">subruere</w>
+    <w ref="5.9" lemma="castitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">castitatem</w>
+    <w ref="5.9" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

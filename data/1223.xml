@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:147" ana="#metaphore #acte #frapper">
+  <bibl><author>Ausonius, Decimus Magnus</author>, <title>Cento Nuptialis</title>, <biblScope>126-127</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:126-127" type="line">
+    <w ref="126" lemma="eo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">itque</w>
+    <w ref="126" lemma="que" pos="CON" msd="MORPH=empty">{itque}</w>
+    <w ref="126" lemma="redeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">reditque</w>
+    <w ref="126" lemma="que" pos="CON" msd="MORPH=empty">{reditque}</w>
+    <w ref="126" lemma="uia" pos="NOMcom" msd="Case=Acc|Numb=Sing">viam</w>
+    <w ref="126" lemma="totiens" pos="ADV" msd="Deg=Pos">totiens</w>
+    <w ref="126" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uteroque</w>
+    <w ref="126" lemma="que" pos="CON" msd="MORPH=empty">{uteroque}</w>
+    <w ana="#metaphore #acte #frapper" ref="126" lemma="recutio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">recusso</w>
+    <w ref="127" lemma="transadigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">transadigit</w>
+    <w ref="127" lemma="costa" pos="NOMcom" msd="Case=Acc|Numb=Plur">costas</w>
+    <w ref="127" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="127" lemma="pecten" pos="NOMcom" msd="Case=Abl|Numb=Sing">pectine</w>
+    <w ref="127" lemma="pulso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pulsat</w>
+    <w ref="127" lemma="eburneus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">eburno</w>
+    <w ref="127" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

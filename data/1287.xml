@@ -1,0 +1,10 @@
+<div type="fragment" corresp="adams:156" ana="#metaphore #acte #subigo #soumission">
+  <bibl><author>Plautus, Titus Maccius</author>, <title>Mercator</title>, <biblScope>204-204</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi011.perseus-lat2:204-204" type="line">
+    <w ref="204" lemma="mirus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">Mirum</w>
+    <w ref="204" lemma="quin2" pos="CONsub" msd="MORPH=empty">quin</w>
+    <w ref="204" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ana="#metaphore #acte #subigo #soumission" ref="204" lemma="subigito" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">subigitaret</w>
+    <w ref="204" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

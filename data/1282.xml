@@ -1,0 +1,12 @@
+<div type="fragment" corresp="adams:156" ana="#metaphore #acte #subigo #soumission">
+  <bibl><author>Vopiscus, Flavius fl. 3./4. Jh.</author>, <title>Antoninus Heliogobalus</title>, <biblScope>5-5</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi017.perseus-lat2:5-5" type="chapter">
+    <w ref="5" lemma="posterus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp">posterioribus</w>
+    <w ref="5" lemma="emineo" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos|Mood=Par|Tense=Pres|Voice=Act">eminentibus</w>
+    <w ref="5" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#metaphore #acte #subigo #soumission" ref="5" lemma="subactor" pos="NOMcom" msd="Case=Acc|Numb=Sing">subactorem</w>
+    <w ref="5" lemma="reicio" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">reiectis</w>
+    <w ref="5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5" lemma="oppono" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">oppositis</w>
+  </quote>
+</div>

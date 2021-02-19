@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:152" ana="#metaphore #acte #blessure">
+  <bibl><author>Ausonius, Decimus Magnus</author>, <title>Cento Nuptialis</title>, <biblScope>120-121</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:120-121" type="line">
+    <w ref="120" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="120" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="121" lemma="alte" pos="ADV" msd="Case=Acc|Deg=Comp">altius</w>
+    <w ref="121" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="121" lemma="uiuus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">vivum</w>
+    <w ref="121" lemma="persido" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">persedit</w>
+    <w ana="#metaphore #acte #blessure" ref="121" lemma="uulnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulnere</w>
+    <w ref="121" lemma="mucro" pos="NOMcom" msd="Case=Abl|Numb=Sing">mucro</w>
+    <w ref="121" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

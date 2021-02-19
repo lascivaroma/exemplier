@@ -1,0 +1,10 @@
+<div type="fragment" corresp="adams:162" ana="#metaphore #acte #joke #jeu #jeunesse">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblscope>17.12-17.20</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:17.12-17.20" type="line">
+    <w ana="#metaphore #acte #joke #jeu #jeunesse" ref="17.17" lemma="ludo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ludere</w>
+    <w ref="17.17" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">hanc</w>
+    <w ref="17.17" lemma="sino" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sinit</w>
+    <w ref="17.17" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="17.17" lemma="libet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">libet</w>
+  </quote>
+</div>

@@ -1,0 +1,42 @@
+<div type="fragment" corresp="adams:150" ana="#metaphore #acte #couper #tailler">
+  <bibl><author>Apuleius</author>, <title>Metamorphoses</title>, <biblScope>7.21-7.21</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:7.21-7.21" type="chapter">
+    <w ref="7.21" lemma="qui1" pos="PROrel" msd="Gend=Neut">Quod</w>
+    <w ref="7.21" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ref="7.21" lemma="ploratus" pos="NOMcom" msd="Case=Abl|Numb=Sing">ploratu</w>
+    <w ref="7.21" lemma="questus" pos="NOMcom" msd="Case=Abl|Numb=Sing">questuque</w>
+    <w ref="7.21" lemma="que" pos="CON" msd="MORPH=empty">{questuque}</w>
+    <w ref="7.21" lemma="femineus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">femineo</w>
+    <w ref="7.21" lemma="conclamo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">conclamatum</w>
+    <w ref="7.21" lemma="uiator" pos="NOMcom" msd="Case=Gen|Numb=Plur">viatorum</w>
+    <w ref="7.21" lemma="praesidium" pos="NOMcom" msd="Case=Acc|Numb=Sing">praesidium</w>
+    <w ref="7.21" lemma="accurro" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">accurrisset</w>
+    <w ref="7.21" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="7.21" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="7.21" lemma="medius" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">mediis</w>
+    <w ref="7.21" lemma="ungula" pos="NOMcom" msd="Case=Abl|Numb=Plur">ungulis</w>
+    <w ref="7.21" lemma="ipse" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">ipsius</w>
+    <w ref="7.21" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">esset</w>
+    <w ref="7.21" lemma="eripio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">erepta</w>
+    <w ref="7.21" lemma="libero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">liberataque</w>
+    <w ref="7.21" lemma="que" pos="CON" msd="MORPH=empty">{liberataque}</w>
+    <w ref="7.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.21" lemma="miser" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">misera</w>
+    <w ref="7.21" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="7.21" lemma="compauitus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem">compavita</w>
+    <w ref="7.21" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ana="#metaphore #acte #couper #tailler #desir" ref="7.21" lemma="dirumpo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">dirupta</w>
+    <w ref="7.21" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ref="7.21" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ref="7.21" lemma="cruciabilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">cruciabilem</w>
+    <w ref="7.21" lemma="clades" pos="NOMcom" msd="Case=Acc|Numb=Sing">cladem</w>
+    <w ref="7.21" lemma="sustineo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">sustinuisset</w>
+    <w ref="7.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.21" lemma="nos" pos="PROper" msd="Case=Dat|Numb=Plur">nobis</w>
+    <w ref="7.21" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
+    <w ref="7.21" lemma="poenalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">poenale</w>
+    <w ref="7.21" lemma="relinquo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">reliquisset</w>
+    <w ref="7.21" lemma="exitium" pos="NOMcom" msd="Case=Acc|Numb=Sing">exitium</w>
+    <w ref="7.21" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

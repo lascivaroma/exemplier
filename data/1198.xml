@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:144" ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme">
+  <bibl><author>Marcellus Empiricus</author>, <title>De medicamentis liber</title>, <biblScope>book.33.72-book.33.72</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1:book.33.72-book.33.72" type="part">
+    <w ref="book.33.72" lemma="ueretra" pos="NOMcom" msd="Case=Nom|Numb=Plur">Veretra</w>
+    <w ref="book.33.72" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="book.33.72" lemma="auctus2" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Comp">auctiora</w>
+    <w ref="book.33.72" lemma="uideo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">uideantur</w>
+    <w ref="book.33.72" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="book.33.72" lemma="panax" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">panacis</w>
+    <w ref="book.33.72" lemma="radix" pos="NOMcom" msd="Case=Nom|Numb=Sing">radix</w>
+    <w ref="book.33.72" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="book.33.72" lemma="uinum" pos="NOMcom" msd="Case=Abl|Numb=Sing">uino</w>
+    <w ref="book.33.72" lemma="bonus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">bono</w>
+    <w ref="book.33.72" lemma="triduum" pos="NOMcom" msd="Case=Abl|Numb=Sing">triduo</w>
+    <w ref="book.33.72" lemma="macero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">maceratur</w>
+    <w ref="book.33.72" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="book.33.72" lemma="cum" pos="CONsub" msd="MORPH=empty">cumque</w>
+    <w ref="book.33.72" lemma="que" pos="CON" msd="MORPH=empty">{cumque}</w>
+    <w ref="book.33.72" lemma="coeo1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">coeundum</w>
+    <w ref="book.33.72" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="book.33.72" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="book.33.72" lemma="femur" pos="NOMcom" msd="Case=Dat|Numb=Sing">femori</w>
+    <w ref="book.33.72" lemma="illigo2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">inligatur</w>
+    <w ref="book.33.72" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="book.33.72" lemma="res" pos="NOMcom" msd="Case=Abl|Numb=Sing">re</w>
+    <w ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme" ref="book.33.72" lemma="perago" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">peracta</w>
+    <w ref="book.33.72" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="book.33.72" lemma="uinum" pos="NOMcom" msd="Case=Abl|Numb=Sing">uino</w>
+    <w ref="book.33.72" lemma="repono" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">reposita</w>
+    <w ref="book.33.72" lemma="idem" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">isdem</w>
+    <w ref="book.33.72" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Plur">usibus</w>
+    <w ref="book.33.72" lemma="reseruo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">reseruatur</w>
+    <w ref="book.33.72" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

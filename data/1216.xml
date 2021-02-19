@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:146" ana="#metaphore #acte #frapper #pedicatio">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>12.35.1-12.35.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.35.1-12.35.2" type="line">
+    <w ref="12.35.1" lemma="tamquam1" pos="ADVrel" msd="MORPH=empty">Tamquam</w>
+    <w ref="12.35.1" lemma="simpliciter" pos="ADV" msd="Deg=Pos">simpliciter</w>
+    <w ref="12.35.1" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">mecum</w>
+    <w ref="12.35.1" lemma="cum3" pos="CON" msd="MORPH=empty">{mecum}</w>
+    <w ref="12.35.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.35.1" lemma="callistrate" pos="ADV" msd="Deg=Pos">Callistrate</w>
+    <w ref="12.35.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.35.1" lemma="uiuo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">vivas</w>
+    <w ref="12.35.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.35.2" lemma="dico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Dicere</w>
+    <w ana="#metaphore #acte #frapper #pedicatio" ref="12.35.2" lemma="percido2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">percisum</w>
+    <w ref="12.35.2" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="12.35.2" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="12.35.2" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
+    <w ref="12.35.2" lemma="soleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=2">soles</w>
+    <w ref="12.35.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

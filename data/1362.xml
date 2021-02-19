@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:163" ana="#metaphore #acte #joke #jeu #jeunesse">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.104.5-11.104.6</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.104.5-11.104.6" type="line">
+    <w ref="11.104.5" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">Tu</w>
+    <w ref="11.104.5" lemma="tenebrae" pos="NOMcom" msd="Case=Abl|Numb=Plur">tenebris</w>
+    <w ref="11.104.5" lemma="gaudeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=2">gaudes</w>
+    <w ref="11.104.5" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="11.104.5" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ana="#metaphore #acte #joke #jeu #jeunesse" ref="11.104.5" lemma="ludo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ludere</w>
+    <w ref="11.104.5" lemma="testis1" pos="NOMcom" msd="Case=Abl|Numb=Sing">teste</w>
+    <w ref="11.104.5" lemma="lucerna" pos="NOMcom" msd="Case=Abl|Numb=Sing">lucerna</w>
+    <w ref="11.104.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="11.104.6" lemma="iuuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iuvat</w>
+    <w ref="11.104.6" lemma="admitto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">admissa</w>
+    <w ref="11.104.6" lemma="rumpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">rumpere</w>
+    <w ref="11.104.6" lemma="lux" pos="NOMcom" msd="Case=Abl|Numb=Sing">luce</w>
+    <w ref="11.104.6" lemma="latus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">latus</w>
+    <w ref="11.104.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

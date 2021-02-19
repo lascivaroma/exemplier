@@ -1,0 +1,34 @@
+<div type="fragment" corresp="adams:159" ana="#metaphore #acte #tuer #mourir">
+  <bibl><author>Suetonius ca. 69-ca. 122</author>, <title>Nero</title>, <biblScope>29-29</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo016.perseus-lat2:29-29" type="chapter">
+    <w ref="29" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="29" lemma="affatim" pos="ADV" msd="Deg=Pos">affatim</w>
+    <w ref="29" lemma="desaeuio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">desaeuisset</w>
+    <w ref="29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#metaphore #acte #tuer #mourir" ref="29" lemma="conficio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">conficeretur</w>
+    <w ref="29" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="29" lemma="doryphorum" pos="NOMcom" msd="Case=Abl|Numb=Sing">Doryphoro</w>
+    <w ref="29" lemma="libertus" pos="NOMcom" msd="Case=Abl|Numb=Sing">liberto</w>
+    <w ref="29" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="29" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
+    <w ref="29" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="29" lemma="sicut1" pos="ADVrel" msd="MORPH=empty">sicut</w>
+    <w ref="29" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipsi</w>
+    <w ref="29" lemma="sporus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Sporus</w>
+    <w ref="29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="29" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+    <w ref="29" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ref="29" lemma="denubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">denupsit</w>
+    <w ref="29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="29" lemma="uox" pos="NOMcom" msd="Case=Acc|Numb=Plur">uoces</w>
+    <w ref="29" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="29" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="29" lemma="heiulor" pos="NOMcom" msd="Case=Nom|Numb=Sing">heiulatus</w>
+    <w ref="29" lemma="uis" pos="NOMcom" msd="Case=Acc|Numb=Sing">uim</w>
+    <w ref="29" lemma="patiens" pos="NOMcom" msd="Case=Gen|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">patientium</w>
+    <w ref="29" lemma="uirgo" pos="NOMcom" msd="Case=Gen|Numb=Plur">uirginum</w>
+    <w ref="29" lemma="imitor" pos="VER" msd="Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">imitatus</w>
+    <w ref="29" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

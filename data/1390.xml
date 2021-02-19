@@ -1,0 +1,21 @@
+<div  type="fragment" corresp="adams:166" ana="#metaphore #acte #chevaucher #course">
+  <bibl><author>Ovid</author>, <title>Remedy of Love</title>, <biblscope>429-432</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi005.perseus-lat2:429-432" type="line">
+    <w ref="429" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">Ille</w>
+    <w ref="429" lemma="quod2" pos="CONsub" msd="Case=Acc">quod</w>
+    <w ref="429" lemma="obscenus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">obscenas</w>
+    <w ref="429" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="429" lemma="apertus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut">aperto</w>
+    <w ref="429" lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
+    <w ref="429" lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Plur">partes</w>
+    <w ref="430" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">Viderat</w>
+    <w ref="430" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="430" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#metaphore #acte #chevaucher #course" ref="430" lemma="cursus" pos="NOMcom" msd="Case=Abl|Numb=Sing">cursu</w>
+    <w ref="430" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="430" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="430" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="430" lemma="haereo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">haesit</w>
+    <w ref="430" lemma="amor" pos="NOMcom" msd="Case=Nom|Numb=Sing">amor</w>
+  </quote>
+</div>

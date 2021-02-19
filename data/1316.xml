@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:158" ana="#metaphore #acte #lutter #sebattre">
+  <bibl><author>Corpus Tibullianum</author>, <title>Elegiae</title>, <biblScope>1.10.53-1.10.54</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0660.phi001.perseus-lat2:1.10.53-1.10.54" type="line">
+    <w ref="1.10.53" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="1.10.53" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
+    <w ref="1.10.53" lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>
+    <w ana="#metaphore #acte #lutter #sebattre" ref="1.10.53" lemma="bellum" pos="NOMcom" msd="Case=Nom|Numb=Plur">bella</w>
+    <w ref="1.10.53" lemma="caleo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">calent</w>
+    <w ref="1.10.53" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.10.53" lemma="scindo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">scissosque</w>
+    <w ref="1.10.53" lemma="que" pos="CON" msd="MORPH=empty">{scissosque}</w>
+    <w ref="1.10.53" lemma="capillus" pos="NOMcom" msd="Case=Acc|Numb=Plur">capillos</w>
+    <w ref="1.10.54" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">Femina</w>
+    <w ref="1.10.54" lemma="perfringo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">perfractas</w>
+    <w ref="1.10.54" lemma="conqueror" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">conqueriturque</w>
+    <w ref="1.10.54" lemma="que" pos="CON" msd="MORPH=empty">{conqueriturque}</w>
+    <w ref="1.10.54" lemma="foris1" pos="NOMcom" msd="Case=Acc|Numb=Plur">fores</w>
+    <w ref="1.10.54" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

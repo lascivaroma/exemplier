@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:150" ana="#metaphore #couper #tailler #desir">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>33.5-33.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:33.5-33.6" type="line">
+    <w ref="33.5" lemma="turpis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">turpe</w>
+    <w ref="33.5" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ref="33.5" lemma="facio" pos="VER" msd="Mood=SupUm|Voice=Act">factu</w>
+    <w ref="33.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="33.5" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="33.5" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="33.5" lemma="tentigo" pos="NOMcom" msd="Case=Abl|Numb=Sing">tentigine</w>
+    <w ana="#metaphore #couper #tailler #desir" ref="33.5" lemma="rumpo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=1">rumpar</w>
+    <w ref="33.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="33.6" lemma="falx" pos="NOMcom" msd="Case=Abl|Numb=Sing">falce</w>
+    <w ref="33.6" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="33.6" lemma="pono" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">posita</w>
+    <w ref="33.6" lemma="fio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">fiet</w>
+    <w ref="33.6" lemma="amicus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">amica</w>
+    <w ref="33.6" lemma="manus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">manus</w>
+    <w ref="33.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

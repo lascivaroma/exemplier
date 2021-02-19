@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:149" ana="#metaphore #acte #couper #tailler">
+  <bibl><author>Plautus, Titus Maccius</author>, <title>Curculio</title>, <biblScope>401-401</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi008.perseus-lat2:401-401" type="line">
+    <w ref="401" lemma="licet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Licetne</w>
+    <w ref="401" lemma="ne2" pos="ADV" msd="MORPH=empty">{Licetne}</w>
+    <w ana="#metaphore #acte #couper #tailler" ref="401" lemma="inforo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ínforare</w>
+    <w ref="401" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="401" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="401" lemma="incomitio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">incomitiare</w>
+    <w ref="401" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="401" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">licet</w>
+    <w ref="401" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

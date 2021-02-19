@@ -1,0 +1,40 @@
+<div type="fragment" corresp="adams:157" ana="#metaphore #acte #travailler">
+  <bibl><author>Arnobius of Sicca</author>, <title>Arnobii adversus nationes Libri VII</title>, <biblScope>5.14-5.14</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.14-5.14" type="section">
+    <w ref="5.14" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="5.14" lemma="historia" pos="NOMcom" msd="Case=Acc|Numb=Plur">historias</w>
+    <w ref="5.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.14" lemma="quaeso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">quaeso</w>
+    <w ref="5.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.14" lemma="perlego2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">perlegitis</w>
+    <w ref="5.14" lemma="talis" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=MascFem">tales</w>
+    <w ref="5.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.14" lemma="nonne" pos="ADVint.neg" msd="MORPH=empty">nonne</w>
+    <w ref="5.14" lemma="uos" pos="PROper" msd="Case=Dat|Numb=Plur">uobis</w>
+    <w ref="5.14" lemma="uideo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=2">uidemini</w>
+    <w ref="5.14" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="5.14" lemma="textriculus" pos="NOMcom" msd="Case=Acc|Numb=Plur">textriculas</w>
+    <w ref="5.14" lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Plur">puellas</w>
+    <w ref="5.14" lemma="audio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">audire</w>
+    <w ref="5.14" lemma="taediosus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=MascNeut|Deg=Pos">taediosi</w>
+    <w ana="#metaphore #acte #travailler" ref="5.14" lemma="opus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">operis</w>
+    <w ref="5.14" lemma="circumscribo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">circumscribentes</w>
+    <w ref="5.14" lemma="mora" pos="NOMcom" msd="Case=Acc|Numb=Plur">moras</w>
+    <w ref="5.14" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="5.14" lemma="infans1" pos="NOMcom" msd="Case=Abl|Numb=Plur">infantibus</w>
+    <w ref="5.14" lemma="credulus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">credulis</w>
+    <w ref="5.14" lemma="auocamentum" pos="NOMcom" msd="Case=Acc|Numb=Plur">auocamenta</w>
+    <w ref="5.14" lemma="quaerito" pos="VER" msd="Case=Acc|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">quaeritantes</w>
+    <w ref="5.14" lemma="anus2" pos="NOMcom" msd="Case=Acc|Numb=Plur">anus</w>
+    <w ref="5.14" lemma="longaeuus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">longaeuas</w>
+    <w ref="5.14" lemma="*" pos="PUNC" msd="MORPH=empty">*</w>
+    <w ref="5.14" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.14" lemma="uarius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">uarias</w>
+    <w ref="5.14" lemma="fictio" pos="NOMcom" msd="Case=Acc|Numb=Plur">fictiones</w>
+    <w ref="5.14" lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+    <w ref="5.14" lemma="imago" pos="NOMcom" msd="Case=Abl|Numb=Sing">imagine</w>
+    <w ref="5.14" lemma="ueritas" pos="NOMcom" msd="Case=Gen|Numb=Sing">ueritatis</w>
+    <w ref="5.14" lemma="expromo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">expromere</w>
+    <w ref="5.14" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

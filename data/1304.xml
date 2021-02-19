@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:157" ana="#metaphore #acte #travailler">
+  <bibl><author>Cicero</author>, <title>Letters to his Friends</title>, <biblScope>9.22.3-9.22.3</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi056.perseus-lat1:9.22.3-9.22.3" type="section">
+    <w ref="9.22.3" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="9.22.3" lemma="pater" pos="NOMcom" msd="Case=Nom|Numb=Plur">patres</w>
+    <w ref="9.22.3" lemma="rogo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">rogant</w>
+    <w ref="9.22.3" lemma="filius" pos="NOMcom" msd="Case=Acc|Numb=Plur">filios</w>
+    <w ref="9.22.3" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="9.22.3" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Masc">eius</w>
+    <w ana="#metaphore #acte #travailler" ref="9.22.3" lemma="opera" pos="NOMcom" msd="Case=Gen|Numb=Sing">operae</w>
+    <w ref="9.22.3" lemma="nomen" pos="NOMcom" msd="Case=Acc|Numb=Sing">nomen</w>
+    <w ref="9.22.3" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="9.22.3" lemma="audeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3">audent</w>
+    <w ref="9.22.3" lemma="dico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dicere</w>
+    <w ref="9.22.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

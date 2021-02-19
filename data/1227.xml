@@ -1,0 +1,12 @@
+<div type="fragment" corresp="adams:149" ana="#metaphore #acte #frapper">
+  <bibl><author>Juvenal</author>, <title>Satires</title>, <biblScope>6.121-6.130</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.121-6.130" type="line">
+	<w ref="6.123" lemma="continue" pos="ADV" msd="Deg=Pos">continueque</w>
+	<w ref="6.123" lemma="que" pos="CON" msd="MORPH=empty">{continueque}</w>
+	<w ref="6.123" lemma="iaceo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">iacens</w>
+	<w ref="6.123" lemma="cunctus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=MascNeut|Deg=Pos">cunctorum</w>
+	<w ref="6.123" lemma="absorbeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">absorbuit</w>
+	<w ana="#metaphore #acte #frapper"  ref="6.123" lemma="ictus" pos="NOMcom" msd="Case=Acc|Numb=Plur">ictus</w>
+	<w ref="6.123" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

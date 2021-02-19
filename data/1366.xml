@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:163" ana="#metaphore #acte #devoir #service #active">
+  <bibl><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblscope>2.22a.23-2.22a.24</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.22a.23-2.22a.24" type="line">
+    <w ref="2.22a.23" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
+    <w ref="2.22a.23" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="2.22a.23" lemma="experior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">experta</w>
+    <w ref="2.22a.23" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
+    <w ana="#metaphore #acte #devoir #service #active" ref="2.22a.24" lemma="officium" pos="NOMcom" msd="Case=Acc|Numb=Sing">officium</w>
+    <w ref="2.22a.24" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">tota</w>
+    <w ref="2.22a.24" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
+    <w ref="2.22a.24" lemma="ualeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">valere</w>
+    <w ref="2.22a.24" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=MascNeut">meum</w>
+    <w ref="2.22a.24" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

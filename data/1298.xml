@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:157" ana="#metaphore #acte #travailler">
+  <bibl><author>Horace</author>, <title>Epodi</title>, <biblScope>12.13-12.16</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi003.perseus-lat2:12.13-12.16" type="line">
+    <w ref="12.15" lemma="inachius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">Inachiam</w>
+    <w ref="12.15" lemma="ter" pos="ADJadv.mul" msd="MORPH=empty">ter</w>
+    <w ref="12.15" lemma="nox" pos="NOMcom" msd="Case=Voc|Numb=Sing">nocte</w>
+    <w ref="12.15" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">potes</w>
+    <w ref="12.15" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.15" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="12.15" lemma="semper" pos="ADV" msd="Deg=Pos">Semper</w>
+    <w ref="12.15" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="12.15" lemma="unus" pos="ADJcar" msd="Case=Acc|Numb=Sing|Gend=MascNeut">unum</w>
+    <w ref="12.16" lemma="mollis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">mollis</w>
+    <w ana="#metaphore #acte #travailler" ref="12.16" lemma="opus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">opus</w>
+    <w ref="12.16" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:154" ana="#metaphore #acte #agriculture #labourer">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>9.21.3-9.21.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.21.3-9.21.4" type="line">
+    <w ref="9.21.3" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">Dic</w>
+    <w ref="9.21.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.21.3" lemma="uter3" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Masc">uter</w>
+    <w ref="9.21.3" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="9.21.3" lemma="iste" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">istis</w>
+    <w ref="9.21.3" lemma="bene" pos="ADJqua" msd="Deg=Comp">melius</w>
+    <w ref="9.21.3" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Sing">rem</w>
+    <w ref="9.21.3" lemma="gero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">gesserit</w>
+    <w ref="9.21.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.21.3" lemma="augeo" pos="VER" msd="Numb=Sing">Aucte</w>
+    <w ref="9.21.3" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="9.21.4" lemma="artemidorus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Artemidorus</w>
+    <w ref="9.21.4" lemma="amo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">amat</w>
+    <w ref="9.21.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.21.4" lemma="calliodorus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Calliodorus</w>
+    <w ana="#metaphore #acte #agriculture #labourer" ref="9.21.4" lemma="aro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">arat</w>
+    <w ref="9.21.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

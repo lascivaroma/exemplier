@@ -1,0 +1,30 @@
+<div type="fragment" corresp="adams:156" ana="#metaphore #acte #travailler">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>7.18.4-7.18.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:7.18.4-7.18.6" type="line">
+    <w ref="7.18.4" lemma="uitium" pos="NOMcom" msd="Case=Nom|Numb=Sing">Vitium</w>
+    <w ref="7.18.4" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.18.4" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="7.18.4" lemma="leuis1" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">leve</w>
+    <w ref="7.18.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.18.4" lemma="galla" pos="NOMcom" msd="Case=Nom|Numb=Sing">Galla</w>
+    <w ref="7.18.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.18.4" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="7.18.4" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="7.18.5" lemma="accedo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">Accessi</w>
+    <w ref="7.18.5" lemma="quotiens1" pos="ADVrel" msd="MORPH=empty">quotiens</w>
+    <w ref="7.18.5" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ana="#metaphore #acte #travailler" ref="7.18.5" lemma="opus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">opus</w>
+    <w ref="7.18.5" lemma="misceo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">mixtisque</w>
+    <w ref="7.18.5" lemma="que" pos="CON" msd="MORPH=empty">{mixtisque}</w>
+    <w ref="7.18.5" lemma="moueo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=1">movemur</w>
+    <w ref="7.18.6" lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Plur">Inguinibus</w>
+    <w ref="7.18.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.18.6" lemma="cunnus" pos="NOMcom" msd="Case=Nom|Numb=Sing">cunnus</w>
+    <w ref="7.18.6" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="7.18.6" lemma="taceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tacet</w>
+    <w ref="7.18.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.18.6" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ref="7.18.6" lemma="taceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">taces</w>
+    <w ref="7.18.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

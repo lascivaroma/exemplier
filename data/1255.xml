@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:151" ana="#metaphore #agriculture #creuser #acte">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>1.92.8-1.92.13</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.92.8-1.92.13" type="line">
+    <w ref="1.92.12" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ana="#metaphore #agriculture #creuser #acte" ref="1.92.12" lemma="fodio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">fodiam</w>
+    <w ref="1.92.12" lemma="digitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">digito</w>
+    <w ref="1.92.12" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="1.92.12" lemma="supersum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">superest</w>
+    <w ref="1.92.12" lemma="oculus" pos="NOMcom" msd="Case=Acc|Numb=Sing">oculum</w>
+  </quote>
+</div>

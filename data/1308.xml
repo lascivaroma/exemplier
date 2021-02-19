@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:158" ana="#metaphore #acte #lutter #sebattre">
+  <bibl><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblScope>2.15.5-2.15.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.15.5-2.15.6" type="line">
+    <w ref="2.15.5" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="2.15.5" lemma="modo1" pos="ADV" msd="Deg=Pos">modo</w>
+    <w ref="2.15.5" lemma="nudo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">nudatis</w>
+    <w ref="2.15.5" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">mecum</w>
+    <w ref="2.15.5" lemma="cum3" pos="CON" msd="MORPH=empty">{mecum}</w>
+    <w ref="2.15.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ana="#metaphore #acte #lutter #sebattre" ref="2.15.5" lemma="luctor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">luctata</w>
+    <w ref="2.15.5" lemma="papilla" pos="NOMcom" msd="Case=Abl|Numb=Plur">papillis</w>
+    <w ref="2.15.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.15.6" lemma="interdum" pos="ADV" msd="Deg=Pos">interdum</w>
+    <w ref="2.15.6" lemma="tunica" pos="NOMcom" msd="Case=Nom|Numb=Sing">tunica</w>
+    <w ref="2.15.6" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">duxit</w>
+    <w ref="2.15.6" lemma="operio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">operta</w>
+    <w ref="2.15.6" lemma="mora" pos="NOMcom" msd="Case=Acc|Numb=Sing">moram</w>
+    <w ref="2.15.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

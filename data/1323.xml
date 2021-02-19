@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:159" ana="#metaphore #acte #tuer #mourir">
+  <bibl><author>Apuleius</author>, <title>Metamorphoses</title>, <biblScope>2.17-2.17</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:2.17-2.17" type="chapter">
+    <w ref="2.17" lemma="comminus" pos="ADV" msd="Deg=Pos">Comminus</w>
+    <w ref="2.17" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.17" lemma="aspectus" pos="NOMcom" msd="Case=Acc|Numb=Sing">aspectum</w>
+    <w ref="2.17" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.17" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="2.17" lemma="uis" pos="NOMcom" msd="Case=Acc|Numb=Plur">vires</w>
+    <w ref="2.17" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.17" lemma="dirigo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">derige</w>
+    <w ref="2.17" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.17" lemma="grassor" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">grassare</w>
+    <w ref="2.17" lemma="nauiter" pos="ADV" msd="Deg=Pos">naviter</w>
+    <w ref="2.17" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.17" lemma="occido2" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">occide</w>
+    <w ana="#metaphore #acte #tuer #mourir" ref="2.17" lemma="morior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Fut|Voice=Dep">moriturus</w>
+    <w ref="2.17" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

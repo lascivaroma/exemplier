@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:142" ana="#metaphore #acte #humiliant #urine #ejaculation">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>11.46.1-11.46.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.46.1-11.46.4" type="line">
+    <w ref="11.46.1" lemma="iam" pos="ADV" msd="Deg=Pos">Iam</w>
+    <w ref="11.46.1" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ref="11.46.1" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="11.46.1" lemma="somnus" pos="NOMcom" msd="Case=Acc|Numb=Sing">somnum</w>
+    <w ref="11.46.1" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="11.46.1" lemma="arrigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">arrigis</w>
+    <w ref="11.46.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="11.46.1" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="11.46.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.46.1" lemma="meuus" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=Com|Deg=Pos">Mevi</w>
+    <w ref="11.46.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.46.2" lemma="incipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Incipit</w>
+    <w ref="11.46.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="11.46.2" lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">medios</w>
+    <w ana="#metaphore #acte #humiliant #urine #ejaculation" ref="11.46.2" lemma="meio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">meiere</w>
+    <w ref="11.46.2" lemma="uerpa" pos="NOMcom" msd="Case=Nom|Numb=Sing">verpa</w>
+    <w ref="11.46.2" lemma="pes" pos="NOMcom" msd="Case=Acc|Numb=Plur">pedes</w>
+    <w ref="11.46.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.46.3" lemma="trudo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">Truditur</w>
+    <w ref="11.46.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="11.46.3" lemma="digitus" pos="NOMcom" msd="Case=Abl|Numb=Plur">digitis</w>
+    <w ref="11.46.3" lemma="pannuceus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">pannucea</w>
+    <w ref="11.46.3" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="11.46.3" lemma="lassus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">lassis</w>
+    <w ref="11.46.4" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ref="11.46.4" lemma="leuo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">levat</w>
+    <w ref="11.46.4" lemma="exstinguo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">extinctum</w>
+    <w ref="11.46.4" lemma="sollicito" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">sollicitata</w>
+    <w ref="11.46.4" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+    <w ref="11.46.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

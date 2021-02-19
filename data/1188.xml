@@ -1,0 +1,36 @@
+<div type="fragment" corresp="adams:142" ana="#metaphore #acte #humiliant #urine #ejaculation">
+  <bibl><author>Persius</author>, <title>Satires</title>, <biblScope>6.69-6.73</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0969.phi001.perseus-lat2:6.69-6.73" type="line">
+    <w ref="6.69" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="6.69" lemma="festus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">festa</w>
+    <w ref="6.69" lemma="lux" pos="NOMcom" msd="Case=Abl|Numb=Sing">luce</w>
+    <w ref="6.69" lemma="coquo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">coquatur</w>
+    <w ref="6.70" lemma="urtica" pos="NOMcom" msd="Case=Nom|Numb=Sing">urtica</w>
+    <w ref="6.70" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.70" lemma="findo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">fissa</w>
+    <w ref="6.70" lemma="fumosus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">fumosum</w>
+    <w ref="6.70" lemma="sinciput" pos="NOMcom" msd="Case=Nom|Numb=Sing">sinciput</w>
+    <w ref="6.70" lemma="auris" pos="NOMcom" msd="Case=Abl|Numb=Sing">aure</w>
+    <w ref="6.70" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.71" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="6.71" lemma="tuus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Masc">tuus</w>
+    <w ref="6.71" lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">iste</w>
+    <w ref="6.71" lemma="nepos1" pos="NOMcom" msd="Case=Nom|Numb=Sing">nepos</w>
+    <w ref="6.71" lemma="olim" pos="ADV" msd="Deg=Pos">olim</w>
+    <w ref="6.71" lemma="satur" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">satur</w>
+    <w ref="6.71" lemma="anser" pos="NOMcom" msd="Case=Gen|Numb=Sing">anseris</w>
+    <w ref="6.71" lemma="exta" pos="NOMcom" msd="Case=Abl|Numb=Plur">extis</w>
+    <w ref="6.71" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.72" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="6.72" lemma="morosus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">morosa</w>
+    <w ref="6.72" lemma="uagus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">vago</w>
+    <w ref="6.72" lemma="singultio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">singultiet</w>
+    <w ref="6.72" lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Sing">inguine</w>
+    <w ref="6.72" lemma="uena" pos="NOMcom" msd="Case=Abl|Numb=Sing">vena</w>
+    <w ref="6.72" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.73" lemma="patricius2" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">patriciae</w>
+    <w ana="#metaphore #acte #humiliant #urine #ejaculation" ref="6.73" lemma="immeio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">inmeiat</w>
+    <w ref="6.73" lemma="uulua" pos="NOMcom" msd="Case=Gen|Numb=Sing">vulvae</w>
+    <w ref="6.73" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

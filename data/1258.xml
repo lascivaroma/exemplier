@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:152" ana="#metaphore #acte #blessure">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>11.78.5-11.78.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.78.5-11.78.8" type="line">
+    <w ref="11.78.6" lemma="dum2" pos="CONsub" msd="MORPH=empty">Dum</w>
+    <w ref="11.78.6" lemma="metuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">metuit</w>
+    <w ref="11.78.6" lemma="telum" pos="NOMcom" msd="Case=Gen|Numb=Sing">teli</w>
+    <w ana="#metaphore #acte #blessure" ref="11.78.6" lemma="uulnus" pos="NOMcom" msd="Case=Acc|Numb=Plur">vulnera</w>
+    <w ref="11.78.6" lemma="primus" pos="ADJord" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Sup">prima</w>
+    <w ref="11.78.6" lemma="nosco" pos="VER" msd="Numb=Sing|Gend=MascNeut|Deg=Pos|Person=1">novi</w>
+  </quote>
+</div>

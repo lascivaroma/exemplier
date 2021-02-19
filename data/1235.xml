@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:149" ana="#metaphore #acte #couper #tailler">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>76.8-76.10</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:76.8-76.10" type="line">
+    <w ref="76.8" lemma="ergo2" pos="CONcoo" msd="MORPH=empty">ergo</w>
+    <w ref="76.8" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="76.8" lemma="prius" pos="ADJadv.ord" msd="Deg=Comp">prius</w>
+    <w ref="76.8" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+    <w ref="76.8" lemma="et2" pos="CONcoo" msd="Deg=Pos">et</w>
+    <w ref="76.8" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+    <w ref="76.8" lemma="et2" pos="CONcoo" msd="Deg=Pos">et</w>
+    <w ref="76.8" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+    <w ref="76.9" lemma="fur" pos="NOMcom" msd="Case=Acc|Numb=Sing">furum</w>
+    <w ana="#metaphore #acte #couper #tailler" ref="76.9" lemma="scindo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">scindere</w>
+    <w ref="76.9" lemma="paudex" pos="NOMcom" msd="Case=Acc|Numb=Plur">podices</w>
+    <w ref="76.9" lemma="soleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=SemDep|Person=1">solebam</w>
+    <w ref="76.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="76.10" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="76.10" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Plur">noctes</w>
+    <w ref="76.10" lemma="aliquot" pos="PROind" msd="Case=Ind">aliquot</w>
+    <w ref="76.10" lemma="dies" pos="NOMcom" msd="Case=Acc|Numb=Plur">diesque</w>
+    <w ref="76.10" lemma="que" pos="CON" msd="MORPH=empty">{diesque}</w>
+    <w ref="76.10" lemma="cesso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">cesso</w>
+    <w ref="76.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

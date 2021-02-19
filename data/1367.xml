@@ -1,0 +1,11 @@
+<div  type="fragment" corresp="adams:163" ana="#metaphore #acte #devoir #service #active">
+  <bibl><author>Ovid</author>, <title>Amores</title>, <biblscope>3.7.23-3.7.26</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.23-3.7.26" type="line">
+    <w ref="3.7.24" lemma="ter" pos="ADJadv.mul" msd="MORPH=empty">Ter</w>
+    <w ref="3.7.24" lemma="libo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">Libas</w>
+    <w ana="#metaphore #acte #devoir #service #active" ref="3.7.24" lemma="officium" pos="NOMcom" msd="Case=Abl|Numb=Sing">officio</w>
+    <w ref="3.7.24" lemma="continuo1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">continuata</w>
+    <w ref="3.7.24" lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">meo</w>
+    <w ref="3.7.24" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+  </quote>
+</div>

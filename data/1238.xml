@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:150" ana="#metaphore #acte #couper #tailler">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>11.1-11.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:11.1-11.4" type="line">
+    <w ana="#metaphore #acte #couper #tailler" ref="11.3" lemma="traicio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">traiectus</w>
+    <w ref="11.3" lemma="contus" pos="NOMcom" msd="Case=Abl|Numb=Sing">conto</w>
+    <w ref="11.3" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+    <w ref="11.3" lemma="extendo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">extendere</w>
+    <w ref="11.3" lemma="pedalis" pos="NOMcom" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">pedali</w>
+    <w ref="11.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.4" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="11.4" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Sing">culum</w>
+    <w ref="11.4" lemma="ruga" pos="NOMcom" msd="Case=Acc|Numb=Sing">rugam</w>
+    <w ref="11.4" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="11.4" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">habuisse</w>
+    <w ref="11.4" lemma="puto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">putes</w>
+    <w ref="11.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

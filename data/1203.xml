@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:144" ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>1.46.1-1.46.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.46.1-1.46.2" type="line">
+    <w ref="1.46.1" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+    <w ref="1.46.1" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">dicis</w>
+    <w ref="1.46.1" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme" ref="1.46.1" lemma="propero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">Propero</w>
+    <w ref="1.46.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.46.1" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">fac</w>
+    <w ref="1.46.1" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="1.46.1" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">facis</w>
+    <w ref="1.46.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.46.1" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="1.46.1" lemma="hedyle" pos="NOMcom" msd="Case=Voc|Numb=Sing">Hedyle</w>
+    <w ref="1.46.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.46.1" lemma="langueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">languet</w>
+    <w ref="1.46.2" lemma="protinus" pos="ADV" msd="Deg=Pos">Protinus</w>
+    <w ref="1.46.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.46.2" lemma="cesso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cessat</w>
+    <w ref="1.46.2" lemma="debilito" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">debilitata</w>
+    <w ref="1.46.2" lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Venus</w>
+    <w ref="1.46.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

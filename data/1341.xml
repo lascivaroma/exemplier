@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:161" ana="#metaphore #acte #epouser #noces">
+  <bibl><author>Lucretius</author>, <title>De Rerum Natura</title>, <biblScope>3.776-3.781</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:3.776-3.781" type="line">
+    <w ref="3.776" lemma="denique" pos="ADV" msd="Deg=Pos">Denique</w>
+    <w ana="#metaphore #acte #epouser #noces" ref="3.776" lemma="connubium" pos="NOMcom" msd="Case=Nom|Numb=Plur">conubia</w>
+    <w ref="3.776" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="3.776" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
+    <w ref="3.776" lemma="partus" pos="NOMcom" msd="Case=Acc|Numb=Plur">partusque</w>
+    <w ref="3.776" lemma="que" pos="CON" msd="MORPH=empty">{partusque}</w>
+    <w ref="3.776" lemma="fera" pos="NOMcom" msd="Case=Gen|Numb=Plur">ferarum</w>
+    <w ref="3.777" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="3.777" lemma="anima" pos="NOMcom" msd="Case=Acc|Numb=Plur">animas</w>
+    <w ref="3.777" lemma="praesto2" pos="ADV" msd="Deg=Pos">praesto</w>
+    <w ref="3.777" lemma="deridiculus" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">deridiculum</w>
+    <w ref="3.777" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="3.777" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">videtur</w>
+  </quote>
+</div>

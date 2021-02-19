@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:149" ana="#metaphore #acte #frapper">
+  <bibl><author>Maximien</author>, <title>Elegiae</title>, <biblScope>5.131-5.132</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0196.stoa001.latinlibrary-lat1:5.131-5.132" type="line">
+    <w ref="5.131" lemma="sterno" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">sternitur</w>
+    <w ana="#metaphore #acte #frapper" ref="5.131" lemma="ico" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">icta</w>
+    <w ref="5.131" lemma="tuus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">tuo</w>
+    <w ref="5.131" lemma="uotiuus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">uotiuo</w>
+    <w ref="5.131" lemma="uulnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uulnere</w>
+    <w ref="5.131" lemma="uirgo" pos="NOMcom" msd="Case=Nom|Numb=Sing">uirgo</w>
+    <w ref="5.132" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.132" lemma="perfundo2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">perfusa</w>
+    <w ref="5.132" lemma="nouus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">nouo</w>
+    <w ref="5.132" lemma="laetus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">laeta</w>
+    <w ref="5.132" lemma="cruor" pos="NOMcom" msd="Case=Abl|Numb=Sing">cruore</w>
+    <w ref="5.132" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iacet</w>
+    <w ref="5.132" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

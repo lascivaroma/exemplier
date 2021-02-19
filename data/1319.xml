@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:158" ana="#metaphore #acte #lutter #sebattre">
+  <bibl><author>Apuleius</author>, <title>Metamorphoses</title>, <biblScope>5.21-5.21</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:5.21-5.21" type="chapter">
+    <w ref="5.21" lemma="nox" pos="NOMcom" msd="Case=Nom|Numb=Sing">nox</w>
+    <w ref="5.21" lemma="assum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">aderat</w>
+    <w ref="5.21" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.21" lemma="maritus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">maritus</w>
+    <w ref="5.21" lemma="assum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">aderat</w>
+    <w ref="5.21" lemma="prius" pos="ADJadv.ord" msd="Deg=Comp">priusque</w>
+    <w ref="5.21" lemma="que" pos="CON" msd="MORPH=empty">{priusque}</w>
+    <w ref="5.21" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
+    <w ana="#metaphore #acte #lutter #sebattre" ref="5.21" lemma="proelium" pos="NOMcom" msd="Case=Abl|Numb=Plur">proeliis</w>
+    <w ref="5.21" lemma="uelitatus" pos="VER" msd="Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">velitatus</w>
+    <w ref="5.21" lemma="altus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">altum</w>
+    <w ref="5.21" lemma="sopor" pos="NOMcom" msd="Case=Acc|Numb=Sing">soporem</w>
+    <w ref="5.21" lemma="descendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">descenderat</w>
+    <w ref="5.21" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

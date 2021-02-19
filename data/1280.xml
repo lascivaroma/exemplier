@@ -1,0 +1,13 @@
+<div type="fragment" corresp="adams:156" ana="#metaphore #acte #subigo #soumission">
+  <bibl><author>Macrobe</author>, <title>Saturnalia</title>, <biblScope>2.2-2.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0186.stoa001.thayer-lat1:2.2-2.2" type="chapter">
+  <note>Besoin de texte supplémentaire,cf.p156</note>
+    <w ref="2.2" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">Ille</w>
+    <w ref="2.2" lemma="urbane" pos="ADV" msd="Numb=Sing|Deg=Pos">urbane</w>
+    <w ref="2.2" lemma="respondeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">respondit</w>
+    <w ref="2.2" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.2" lemma="galla" pos="NOMcom" msd="Case=Acc|Numb=Sing">Gallam</w>
+    <w ana="#metaphore #acte #subigo #soumission" ref="2.2" lemma="subigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">subigo</w>
+    <w ref="2.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,43 @@
+<div type="fragment" corresp="adams:157" ana="#metaphore #acte #travailler">
+  <bibl><author>Maximien</author>, <title>Elegiae</title>, <biblScope>5.55-5.60</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0196.stoa001.latinlibrary-lat1:5.55-5.60" type="line">
+    <w ref="5.55" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+    <w ref="5.55" lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
+    <w ref="5.55" lemma="uerecundia" pos="NOMcom" msd="Case=Nom|Numb=Sing">uerecundia</w>
+    <w ref="5.55" lemma="mens" pos="NOMcom" msd="Case=Acc|Numb=Sing">mentem</w>
+    <w ref="5.56" lemma="aufero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">abstulit</w>
+    <w ref="5.56" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.56" lemma="blandus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">blandum</w>
+    <w ref="5.56" lemma="terror" pos="NOMcom" msd="Case=Nom|Numb=Sing">terror</w>
+    <w ref="5.56" lemma="adimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">ademit</w>
+    <w ana="#metaphore #acte #travailler" ref="5.56" lemma="opus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">opus</w>
+    <w ref="5.56" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.57" lemma="contrecto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">contrectare</w>
+    <w ref="5.57" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
+    <w ref="5.57" lemma="coepio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">coepit</w>
+    <w ref="5.57" lemma="flagro" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act">flagrantia</w>
+    <w ref="5.57" lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
+    <w ref="5.58" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">meque</w>
+    <w ref="5.58" lemma="que" pos="CON" msd="MORPH=empty">{meque}</w>
+    <w ref="5.58" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="5.58" lemma="digitus" pos="NOMcom" msd="Case=Abl|Numb=Plur">digitis</w>
+    <w ref="5.58" lemma="sollicito" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">sollicitare</w>
+    <w ref="5.58" lemma="suus" pos="PROpos.ref" msd="Case=Dat|Numb=Plur|Gend=Com">suis</w>
+    <w ref="5.59" lemma="nihil" pos="PROind" msd="Case=Ind">nil</w>
+    <w ref="5.59" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="5.59" lemma="torpeo" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">torpenti</w>
+    <w ref="5.59" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="5.59" lemma="tango" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">tactus</w>
+    <w ref="5.59" lemma="prosum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">profuit</w>
+    <w ref="5.59" lemma="ignis" pos="NOMcom" msd="Case=Nom|Numb=Sing">ignis</w>
+    <w ref="5.59" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="5.60" lemma="persto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">perstitit</w>
+    <w ref="5.60" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="5.60" lemma="medius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">medio</w>
+    <w ref="5.60" lemma="frigus" pos="NOMcom" msd="Case=Acc|Numb=Sing">frigus</w>
+    <w ref="5.60" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="5.60" lemma="ante1" pos="ADV" msd="Deg=Pos">ante</w>
+    <w ref="5.60" lemma="focus" pos="NOMcom" msd="Case=Abl|Numb=Sing">foco</w>
+    <w ref="5.60" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

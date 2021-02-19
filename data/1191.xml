@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:142" ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme">
+  <bibl><author>Anthologia Latina</author>, <title>Anthologia Latina</title>, <biblScope>358.4-358.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:358.4-358.6" type="line">
+    <w ref="358.4" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">Te</w>
+    <w ref="358.4" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Plur">uiris</w>
+    <w ref="358.4" lemma="tantum2" pos="ADV" msd="Deg=Pos">tantum</w>
+    <w ref="358.4" lemma="simulo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">simulas</w>
+    <w ref="358.4" lemma="modestus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">modestum</w>
+    <w ref="358.5" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ref="358.5" lemma="dies" pos="NOMcom" msd="Case=Abl|Numb=Sing">die</w>
+    <w ref="358.5" lemma="quaero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">quaeris</w>
+    <w ref="358.5" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">coitum</w>
+    <w ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme" ref="358.5" lemma="patro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">patrare</w>
+    <w ref="358.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="358.6" lemma="ne4" pos="CONsub" msd="MORPH=empty">Ne</w>
+    <w ref="358.6" lemma="capio2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">capi</w>
+    <w ref="358.6" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">possis</w>
+    <w ref="358.6" lemma="latea" pos="ADJqua" msd="Case=Acc|Numb=Plur|Deg=Pos">lateasque</w>
+    <w ref="358.6" lemma="que" pos="CON" msd="MORPH=empty">{lateasque}</w>
+    <w ref="358.6" lemma="semper" pos="ADV" msd="Deg=Pos">semper</w>
+    <w ref="358.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

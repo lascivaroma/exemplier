@@ -1,0 +1,49 @@
+<div type="fragment" corresp="adams:142" ana="#metaphore #acte #humiliant #urine #ejaculation">
+  <bibl><author>Horace</author>, <title>Sermones</title>, <biblScope>1.2.41-1.2.46</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.41-1.2.46" type="line">
+    <w ref="1.2.41" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
+    <w ref="1.2.41" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="1.2.41" lemma="praeceps2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">praecipitem</w>
+    <w ref="1.2.41" lemma="tectum" pos="NOMcom" msd="Case=Abl|Numb=Sing">tecto</w>
+    <w ref="1.2.41" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">dedit</w>
+    <w ref="1.2.41" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.41" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="1.2.41" lemma="flagellum" pos="NOMcom" msd="Case=Abl|Numb=Plur">flagellis</w>
+    <w ref="1.2.42" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="1.2.42" lemma="mors" pos="NOMcom" msd="Case=Acc|Numb=Sing">mortem</w>
+    <w ref="1.2.42" lemma="caedo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">caesus</w>
+    <w ref="1.2.42" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.42" lemma="fugio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">fugiens</w>
+    <w ref="1.2.42" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
+    <w ref="1.2.42" lemma="decido1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">decidit</w>
+    <w ref="1.2.42" lemma="acer2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">acrem</w>
+    <w ref="1.2.43" lemma="praedo" pos="NOMcom" msd="Case=Gen|Numb=Plur">praedonum</w>
+    <w ref="1.2.43" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.2.43" lemma="turba" pos="NOMcom" msd="Case=Acc|Numb=Sing">turbam</w>
+    <w ref="1.2.43" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.43" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">dedit</w>
+    <w ref="1.2.43" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
+    <w ref="1.2.43" lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>
+    <w ref="1.2.43" lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
+    <w ref="1.2.43" lemma="numus" pos="NOMcom" msd="Case=Acc|Numb=Plur">nummos</w>
+    <w ref="1.2.43" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.44" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">hunc</w>
+    <w ana="#metaphore #acte #humiliant #urine #ejaculation" ref="1.2.44" lemma="permingo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">perminxerunt</w>
+    <w ref="1.2.44" lemma="calo1" pos="NOMcom" msd="Case=Nom|Numb=Plur">calones</w>
+    <w ref="1.2.44" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="1.2.44" lemma="quin1" pos="ADV" msd="Deg=Pos">quin</w>
+    <w ref="1.2.44" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="1.2.44" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">illud</w>
+    <w ref="1.2.45" lemma="accido1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">accidit</w>
+    <w ref="1.2.45" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.45" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="1.2.45" lemma="quidam" pos="PROind" msd="Case=Dat|Numb=Plur|Gend=Com">cuidam</w>
+    <w ref="1.2.45" lemma="testis1" pos="NOMcom" msd="Case=Nom|Numb=Plur">testis</w>
+    <w ref="1.2.45" lemma="cauda" pos="NOMcom" msd="Case=Acc|Numb=Sing">caudamque</w>
+    <w ref="1.2.45" lemma="que" pos="CON" msd="MORPH=empty">{caudamque}</w>
+    <w ref="1.2.45" lemma="salax" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">salacem</w>
+    <w ref="1.2.46" lemma="demeto2" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">demeterent</w>
+    <w ref="1.2.46" lemma="ferrum" pos="NOMcom" msd="Case=Abl|Numb=Sing">ferro</w>
+    <w ref="1.2.46" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,27 @@
+<div type="fragment" corresp="adams:144" ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme #deesse">
+  <bibl><author>Arnobius of Sicca</author>, <title>Arnobii adversus nationes Libri VII</title>, <biblScope>4.7-4.7</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:4.7-4.7" type="section">
+    <w ref="4.7" lemma="etiam" pos="ADV" msd="Deg=Pos">etiamne</w>
+    <w ref="4.7" lemma="ne2" pos="ADV" msd="MORPH=empty">{etiamne}</w>
+    <w ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme #deesse" ref="4.7" lemma="perficus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem">Perfica</w>
+    <w ref="4.7" lemma="unus" pos="ADJcar" msd="Case=Nom|Numb=Sing|Gend=Fem">una</w>
+    <w ref="4.7" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="4.7" lemma="ex" pos="PRE" msd="MORPH=empty">e</w>
+    <w ref="4.7" lemma="populus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">populo</w>
+    <w ref="4.7" lemma="numen" pos="NOMcom" msd="Case=Gen|Numb=Plur">numinum</w>
+    <w ref="4.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.7" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="4.7" lemma="obscenus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">obscenas</w>
+    <w ref="4.7" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Fem">illas</w>
+    <w ref="4.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="4.7" lemma="luteus?" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">luteas</w>
+    <w ref="4.7" lemma="uoluptas" pos="NOMcom" msd="Case=Acc|Numb=Plur">uoluptates</w>
+    <w ref="4.7" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="4.7" lemma="exitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">exitum</w>
+    <w ref="4.7" lemma="perficio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">perficit</w>
+    <w ref="4.7" lemma="dulcedo" pos="NOMcom" msd="Case=Abl|Numb=Sing">dulcedine</w>
+    <w ref="4.7" lemma="inoffensus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">inoffensa</w>
+    <w ref="4.7" lemma="procedo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">procedere</w>
+    <w ref="4.7" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

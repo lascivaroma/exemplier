@@ -1,0 +1,27 @@
+<div type="fragment" corresp="adams:151" ana="#metaphore #couper #tailler #pedicatio">
+  <bibl><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblScope>79-80</biblScope></bibl>
+  <note>Débat sur la valeur de diuido ici</note>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:79-80" type="section">
+    <w ref="79" lemma="”" pos="PUNC" msd="MORPH=empty">”</w>
+    <w ref="79" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ref="79" lemma="repugno" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">repugnavit</w>
+    <w ref="79" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="79" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="79" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="79" lemma="postquam" pos="CONsub" msd="MORPH=empty">postquam</w>
+    <w ref="79" lemma="bonus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Sup">optima</w>
+    <w ref="79" lemma="fides2" pos="NOMcom" msd="Case=Abl|Numb=Sing">fide</w>
+    <w ref="79" lemma="partior" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">partiti</w>
+    <w ref="79" lemma="manubiae" pos="NOMcom" msd="Case=Acc|Numb=Plur">manubias</w>
+    <w ref="79" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">sumus</w>
+    <w ref="79" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="80" lemma="age" pos="INJ" msd="Mood=Imp|Tense=Pres|Voice=Act">age</w>
+    <w ref="80" lemma="“" pos="PUNC" msd="MORPH=empty">“</w>
+    <w ref="80" lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inquit</w>
+    <w ref="80" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="80" lemma="et1" pos="ADV" msd="MORPH=empty">et</w>
+    <w ref="80" lemma="puer" pos="NOMcom" msd="Case=Acc|Numb=Sing">puerum</w>
+    <w ana="#metaphore #couper #tailler #pedicatio" ref="80" lemma="diuido" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1">dividamus</w>
+    <w ref="80" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

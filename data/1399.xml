@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:168" ana="#metaphore #acte #peler #raboter">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblscope>58.1-58.5</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:58.1-58.5" type="line">
+    <w ref="58.4" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="58.4" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="58.4" lemma="quadriuium" pos="NOMcom" msd="Case=Abl|Numb=Plur">quadriviis</w>
+    <w ref="58.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="58.4" lemma="angiportum" pos="NOMcom" msd="Case=Abl|Numb=Plur">angiportis</w>
+    <w ana="#metaphore #acte #peler #raboter" ref="58.5" lemma="glubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">glubit</w>
+    <w ref="58.5" lemma="magnanimus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">magnanimi</w>
+    <w ref="58.5" lemma="remus" pos="NOMcom" msd="Case=Gen|Numb=Sing">Remi</w>
+    <w ref="58.5" lemma="nepos1" pos="NOMcom" msd="Case=Nom|Numb=Plur">nepotes</w>
+    <w ref="58.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

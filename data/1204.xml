@@ -1,0 +1,41 @@
+<div type="fragment" corresp="adams:144" ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme">
+  <bibl><author>Suetonius ca. 69-ca. 122</author>, <title>De Grammaticis</title>, <biblScope>23-23</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.phi005a.thayer-lat1:23-23" type="chapter">
+    <w ref="23" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="23" lemma="infacetus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">infaceto</w>
+    <w ref="23" lemma="noto" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">notatum</w>
+    <w ref="23" lemma="fero" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ferunt</w>
+    <w ref="23" lemma="quidam" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">cuiusdam</w>
+    <w ref="23" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="23" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="23" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="23" lemma="turba" pos="NOMcom" msd="Case=Abl|Numb=Sing">turba</w>
+    <w ref="23" lemma="osculum" pos="NOMcom" msd="Case=Acc|Numb=Sing">osculum</w>
+    <w ref="23" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="23" lemma="ingero" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">ingerentem</w>
+    <w ref="23" lemma="quamquam2" pos="CONsub" msd="MORPH=empty">quanquam</w>
+    <w ref="23" lemma="refugio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">refugiens</w>
+    <w ref="23" lemma="deuito" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">devitare</w>
+    <w ref="23" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="23" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">posset</w>
+    <w ref="23" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23" lemma='"' pos="PUNC" msd="MORPH=empty">"</w>
+    <w ref="23" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">Vis</w>
+    <w ref="23" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+    <w ref="23" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23" lemma='"' pos="PUNC" msd="MORPH=empty">"</w>
+    <w ref="23" lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inquit</w>
+    <w ref="23" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23" lemma='"' pos="PUNC" msd="MORPH=empty">"</w>
+    <w ref="23" lemma="magister" pos="NOMcom" msd="Case=Voc|Numb=Sing">magister</w>
+    <w ref="23" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23" lemma="quotiens2" pos="ADVint" msd="MORPH=empty">quotiens</w>
+    <w ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme" ref="23" lemma="festino" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">festinantem</w>
+    <w ref="23" lemma="aliquis" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Masc">aliquem</w>
+    <w ref="23" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">vides</w>
+    <w ref="23" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23" lemma="abliguro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">abligurire</w>
+    <w ref="23" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

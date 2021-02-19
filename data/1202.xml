@@ -1,0 +1,37 @@
+<div type="fragment" corresp="adams:144" ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme">
+  <bibl><author>Ovid</author>, <title>Ars Amatoria</title>, <biblScope>2.725-2.728</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:2.725-2.728" type="line">
+    <w ref="2.725" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="2.725" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="2.725" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+    <w ref="2.725" lemma="domina" pos="NOMcom" msd="Case=Acc|Numb=Sing">dominam</w>
+    <w ref="2.725" lemma="uolo3" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=2">velis</w>
+    <w ref="2.725" lemma="magnus" pos="NOMcom" msd="Case=Dat|Numb=Plur">maioribus</w>
+    <w ref="2.725" lemma="usus" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc">usus</w>
+    <w ref="2.726" lemma="desero2" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">Desere</w>
+    <w ref="2.726" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.726" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="2.726" lemma="cursus" pos="NOMcom" msd="Case=Nom|Numb=Sing">cursus</w>
+    <w ref="2.726" lemma="anteo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">anteat</w>
+    <w ref="2.726" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="2.726" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Masc">tuos</w>
+    <w ref="2.726" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.727" lemma="ad2" pos="PRE" msd="MORPH=empty">Ad</w>
+    <w ref="2.727" lemma="meta" pos="NOMcom" msd="Case=Acc|Numb=Sing">metam</w>
+    <w ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme" ref="2.727" lemma="propero" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">properate</w>
+    <w ref="2.727" lemma="simul1" pos="ADV" msd="Deg=Pos">simul</w>
+    <w ref="2.727" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.727" lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>
+    <w ref="2.727" lemma="plenus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">plena</w>
+    <w ref="2.727" lemma="uoluptas" pos="NOMcom" msd="Case=Nom|Numb=Sing">voluptas</w>
+    <w ref="2.727" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.728" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+    <w ref="2.728" lemma="pariter" pos="ADV" msd="Deg=Pos">pariter</w>
+    <w ref="2.728" lemma="uinco" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">victi</w>
+    <w ref="2.728" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">femina</w>
+    <w ref="2.728" lemma="uir" pos="NOMcom" msd="Case=Nom|Numb=Sing">virque</w>
+    <w ref="2.728" lemma="que" pos="CON" msd="MORPH=empty">{virque}</w>
+    <w ref="2.728" lemma="iaceo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iacent</w>
+    <w ref="2.728" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

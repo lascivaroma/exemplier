@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:161" ana="#metaphore #acte #joke #jeu">
+  <bibl><author>Ovid</author>, <title>Ars Amatoria</title>, <biblscope>2.723-2.724</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:2.723-2.724" type="line">
+    <w ref="2.723" lemma="accedo1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3">Accedent</w>
+    <w ref="2.723" lemma="questus" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Masc">questus</w>
+    <w ref="2.723" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.723" lemma="accedo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">accedet</w>
+    <w ref="2.723" lemma="amabilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">amabile</w>
+    <w ref="2.723" lemma="murmur" pos="NOMcom" msd="Case=Nom|Numb=Sing">murmur</w>
+    <w ref="2.723" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.724" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="2.724" lemma="dulcis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">dulces</w>
+    <w ref="2.724" lemma="gemitus" pos="NOMcom" msd="Case=Nom|Numb=Plur">gemitus</w>
+    <w ref="2.724" lemma="aptus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">aptaque</w>
+    <w ref="2.724" lemma="que" pos="CON" msd="MORPH=empty">{aptaque}</w>
+    <w ref="2.724" lemma="uerbum" pos="NOMcom" msd="Case=Acc|Numb=Plur">verba</w>
+    <w ana="#metaphore #acte #joke #jeu" ref="2.724" lemma="iocus" pos="NOMcom" msd="Case=Abl|Numb=Sing">ioco</w>
+    <w ref="2.724" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

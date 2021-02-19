@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:157" ana="#metaphore #acte #travailler">
+  <bibl><author>Plautus, Titus Maccius</author>, <title>Trinummus</title>, <biblScope>649-651</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi019.perseus-lat2:649-651" type="line">
+    <w ref="651" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="651" lemma="forum1" pos="NOMcom" msd="Case=Abl|Numb=Sing">foro</w>
+    <w ana="#metaphore #acte #travailler" ref="651" lemma="opera" pos="NOMcom" msd="Case=Acc|Numb=Sing">operam</w>
+    <w ref="651" lemma="amicus1" pos="NOMcom" msd="Case=Dat|Numb=Plur">amicis</w>
+    <w ref="651" lemma="do" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">da</w>
+    <w ref="651" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="651" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="651" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="651" lemma="lectus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">lecto</w>
+    <w ref="651" lemma="amica" pos="NOMcom" msd="Case=Gen|Numb=Sing">amicae</w>
+    <w ref="651" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="651" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="651" lemma="soleo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=SemDep">solitus</w>
+    <w ref="651" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
+    <w ref="651" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,43 @@
+<div type="fragment" corresp="adams:149" ana="#metaphore #acte #couper #tailler">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>75.12-75.20</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:75.12-75.20" type="line">
+    <w ref="75.12" lemma="ceres" pos="NOMcom" msd="Case=Acc|Numb=Sing">Cererem</w>
+    <w ref="75.12" lemma="nurus" pos="NOMcom" msd="Case=Acc|Numb=Plur">nurus</w>
+    <w ref="75.12" lemma="frequento" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">frequentant</w>
+    <w ref="75.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="75.13" lemma="rapio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">raptam</w>
+    <w ref="75.13" lemma="cyzicus" pos="NOMcom" msd="Case=Acc|Numb=Plur">Cyzicos</w>
+    <w ref="75.13" lemma="ostreosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">ostreosa</w>
+    <w ref="75.13" lemma="diua" pos="NOMcom" msd="Case=Acc|Numb=Sing">diuam</w>
+    <w ref="75.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="75.14" lemma="formosus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">formosam</w>
+    <w ref="75.14" lemma="Uenus" pos="NOMpro" msd="Case=Acc|Numb=Sing">uenerem</w>
+    <w ref="75.14" lemma="gnidus" pos="NOMcom" msd="Case=Acc|Numb=Plur">Gnidos</w>
+    <w ref="75.14" lemma="paphus" pos="NOMcom" msd="Case=Acc|Numb=Plur">Paphosque</w>
+    <w ref="75.14" lemma="que" pos="CON" msd="MORPH=empty">{Paphosque}</w>
+    <w ref="75.14" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="75.17" lemma="quod2" pos="CONsub" msd="Case=Nom|Numb=Sing">Quod</w>
+    <w ref="75.17" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1">sim</w>
+    <w ref="75.17" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="75.17" lemma="senex2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">senior</w>
+    <w ref="75.17" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=MascNeut">meumque</w>
+    <w ref="75.17" lemma="que" pos="CON" msd="MORPH=empty">{meumque}</w>
+    <w ref="75.17" lemma="canis" pos="NOMcom" msd="Case=Nom|Numb=Sing">canis</w>
+    <w ref="75.18" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+    <w ref="75.18" lemma="barba" pos="NOMcom" msd="Case=Abl|Numb=Sing">barba</w>
+    <w ref="75.18" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+    <w ref="75.18" lemma="albico" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">albicet</w>
+    <w ref="75.18" lemma="capillus" pos="NOMcom" msd="Case=Abl|Numb=Plur">capillis</w>
+    <w ref="75.18" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="75.19" lemma="deprehendo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">Deprensos</w>
+    <w ref="75.19" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ana="#metaphore #acte #couper #tailler" ref="75.19" lemma="perforo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">perforare</w>
+    <w ref="75.19" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">possum</w>
+    <w ref="75.20" lemma="tithonus" pos="NOMcom" msd="Case=Acc|Numb=Sing">Tithonum</w>
+    <w ref="75.20" lemma="priamus" pos="NOMcom" msd="Case=Acc|Numb=Sing">Priamumque</w>
+    <w ref="75.20" lemma="que" pos="CON" msd="MORPH=empty">{Priamumque}</w>
+    <w ref="75.20" lemma="nestor" pos="NOMcom" msd="Case=Acc|Numb=Sing">Nestoremque</w>
+    <w ref="75.20" lemma="que" pos="CON" msd="MORPH=empty">{Nestoremque}</w>
+    <w ref="75.20" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

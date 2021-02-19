@@ -1,0 +1,34 @@
+<div type="fragment" corresp="adams:142" ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme">
+  <bibl><author>Persius</author>, <title>Satires</title>, <biblScope>1.15-1.18</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0969.phi001.perseus-lat2:1.15-1.18" type="line">
+    <w ref="1.15" lemma="scilicet" pos="ADV" msd="Deg=Pos">scilicet</w>
+    <w ref="1.15" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">haec</w>
+    <w ref="1.15" lemma="populus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">populo</w>
+    <w ref="1.15" lemma="pectus" pos="NOMcom" msd="Case=Gen|Numb=Sing">pexusque</w>
+    <w ref="1.15" lemma="que" pos="CON" msd="MORPH=empty">{pexusque}</w>
+    <w ref="1.15" lemma="toga" pos="NOMcom" msd="Case=Abl|Numb=Sing">togaque</w>
+    <w ref="1.15" lemma="que" pos="CON" msd="MORPH=empty">{togaque}</w>
+    <w ref="1.15" lemma="recens1" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">recenti</w>
+    <w ref="1.16" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.16" lemma="natalicius" pos="ADJqua" msd="Case=Nom|Numb=Plur|Deg=Pos">natalicia</w>
+    <w ref="1.16" lemma="tandem" pos="ADV" msd="Deg=Pos">tandem</w>
+    <w ref="1.16" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="1.16" lemma="sardonyx" pos="NOMcom" msd="Case=Abl|Numb=Sing">sardonyche</w>
+    <w ref="1.16" lemma="albus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">albus</w>
+    <w ref="1.17" lemma="sedes" pos="NOMcom" msd="Case=Abl|Numb=Sing">sede</w>
+    <w ref="1.17" lemma="lex" pos="NOMcom" msd="Case=Acc|Numb=Plur">leges</w>
+    <w ref="1.17" lemma="celsus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">celsa</w>
+    <w ref="1.17" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.17" lemma="liquidus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">liquido</w>
+    <w ref="1.17" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="1.17" lemma="plasma" pos="NOMcom" msd="Case=Abl|Numb=Sing">plasmate</w>
+    <w ref="1.17" lemma="guttur" pos="NOMcom" msd="Case=Acc|Numb=Sing">guttur</w>
+    <w ref="1.18" lemma="mobilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">mobile</w>
+    <w ref="1.18" lemma="colluo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2">conlueris</w>
+    <w ref="1.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme" ref="1.18" lemma="patro" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">patranti</w>
+    <w ref="1.18" lemma="frango" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">fractus</w>
+    <w ref="1.18" lemma="ocellus" pos="NOMcom" msd="Case=Abl|Numb=Sing">ocello</w>
+    <w ref="1.18" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

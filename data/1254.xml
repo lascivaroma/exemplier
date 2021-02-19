@@ -1,0 +1,10 @@
+<div type="fragment" corresp="adams:151" ana="#metaphore #agriculture #creuser #acte">
+  <bibl><author>Ausonius, Decimus Magnus</author>, <title>Epigrammaton Liber</title>, <biblScope>77.5-77.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:77.5-77.8" type="line">
+    <w ref="77.7" lemma="peruerto" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">perversae</w>
+    <w ref="77.7" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
+    <w ref="77.7" lemma="posticus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">postico</w>
+    <w ref="77.7" lemma="uulnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulnere</w>
+    <w ana="#metaphore #agriculture #creuse #acte" ref="77.7" lemma="fossor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fossor</w>
+  </quote>
+</div>

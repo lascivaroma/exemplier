@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:156" ana="#metaphore #acte #travailler">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>11.60.4-11.60.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.60.4-11.60.8" type="line">
+    <w ref="11.60.7" lemma="at2" pos="CONcoo" msd="MORPH=empty">At</w>
+    <w ref="11.60.7" lemma="chio" pos="NOMcom" msd="Case=Abl|Numb=Sing">Chione</w>
+    <w ref="11.60.7" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="11.60.7" lemma="sentio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sentit</w>
+    <w ana="#metaphore #acte #travailler" ref="11.60.7" lemma="opus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">opus</w>
+    <w ref="11.60.7" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="11.60.7" lemma="uox" pos="NOMcom" msd="Case=Abl|Numb=Plur">vocibus</w>
+    <w ref="11.60.7" lemma="ullus" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">ullis</w>
+    <w ref="11.60.8" lemma="adiuuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Adiuvat</w>
+    <w ref="11.60.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.60.8" lemma="absum1" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">absentem</w>
+    <w ref="11.60.8" lemma="marmoreus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">marmoreamve</w>
+    <w ref="11.60.8" lemma="ue" pos="CON" msd="MORPH=empty">{marmoreamve}</w>
+    <w ref="11.60.8" lemma="puto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">putes</w>
+    <w ref="11.60.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

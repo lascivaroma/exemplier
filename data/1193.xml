@@ -1,0 +1,47 @@
+<div type="fragment" corresp="adams:143" ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme">
+  <bibl><author>Theodorus Priscianus</author>, <title>Euporiston</title>, <biblScope>2.11-2.11</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1:2.11-2.11" type="chapter">
+    <w ref="2.11" lemma="satyriasus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">satyriasis</w>
+    <w ref="2.11" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
+    <w ref="2.11" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="2.11" lemma="certus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">certa</w>
+    <w ref="2.11" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
+    <w ref="2.11" lemma="incommoditas" pos="NOMcom" msd="Case=Abl|Numb=Sing">incommoditate</w>
+    <w ref="2.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.11" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="2.11" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="2.11" lemma="mulier" pos="NOMcom" msd="Case=Dat|Numb=Plur">mulieribus</w>
+    <w ref="2.11" lemma="aliquando" pos="ADV" msd="Deg=Pos">aliquando</w>
+    <w ref="2.11" lemma="contingo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">contingit</w>
+    <w ref="2.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.11" lemma="qui2" pos="ADVrel" msd="Case=Acc|Gend=Fem">quam</w>
+    <w ref="2.11" lemma="metromania" pos="NOMcom" msd="Case=Acc|Numb=Sing">metromaniam</w>
+    <w ref="2.11" lemma="aliquis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">aliqui</w>
+    <w ref="2.11" lemma="appello1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">appellaverunt</w>
+    <w ref="2.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.11" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.11" lemma="desiderium" pos="NOMcom" msd="Case=Nom|Numb=Sing">desiderium</w>
+    <w ref="2.11" lemma="insatiabilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">insatiabile</w>
+    <w ref="2.11" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.11" lemma="tensio" pos="NOMcom" msd="Case=Acc|Numb=Sing">tensionem</w>
+    <w ref="2.11" lemma="particula" pos="NOMcom" msd="Case=Gen|Numb=Sing">particulae</w>
+    <w ref="2.11" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="2.11" lemma="assiduus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">assidua</w>
+    <w ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme" ref="2.11" lemma="patratio" pos="NOMcom" msd="Case=Abl|Numb=Sing">patratione</w>
+    <w ref="2.11" lemma="auidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Sup">avidissimam</w>
+    <w ref="2.11" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
+    <w ref="2.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.11" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.11" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">licet</w>
+    <w ref="2.11" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="2.11" lemma="febris" pos="NOMcom" msd="Case=Abl|Numb=Plur">febribus</w>
+    <w ref="2.11" lemma="attamen" pos="ADV" msd="Deg=Pos">attamen</w>
+    <w ref="2.11" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="2.11" lemma="acutus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">acutas</w>
+    <w ref="2.11" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.11" lemma="temporalis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">temporales</w>
+    <w ref="2.11" lemma="aegritudo" pos="NOMcom" msd="Case=Acc|Numb=Plur">aegritudines</w>
+    <w ref="2.11" lemma="numero1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">numeratur</w>
+    <w ref="2.11" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

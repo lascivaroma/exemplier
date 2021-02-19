@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:144" ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>3.79.2-3.79.2</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:3.79.2-3.79.2" type="line">
+    <w ref="3.79.2" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">Hunc</w>
+    <w ref="3.79.2" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="3.79.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.79.2" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="3.79.2" lemma="futuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">futuit</w>
+    <w ref="3.79.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.79.2" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="3.79.2" lemma="puto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">puto</w>
+    <w ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme" ref="3.79.2" lemma="perficio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">perficere</w>
+    <w ref="3.79.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

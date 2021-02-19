@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:161" ana="#metaphore #acte #joke #jeu">
+  <bibl><author>Ovid</author>, <title>Ars Amatoria</title>, <biblscope>3.795-3.796</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:3.795-3.796" type="line">
+    <w ref="3.795" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ref="3.795" lemma="blandus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">blandae</w>
+    <w ref="3.795" lemma="uox" pos="NOMcom" msd="Case=Nom|Numb=Plur">voces</w>
+    <w ref="3.795" lemma="iucundus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">iucundaque</w>
+    <w ref="3.795" lemma="que" pos="CON" msd="MORPH=empty">{iucundaque}</w>
+    <w ref="3.795" lemma="murmur" pos="NOMcom" msd="Case=Nom|Numb=Plur">murmura</w>
+    <w ref="3.795" lemma="cesso" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">cessent</w>
+    <w ref="3.795" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.796" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ref="3.796" lemma="taceo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">taceant</w>
+    <w ref="3.796" lemma="medius" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">mediis</w>
+    <w ref="3.796" lemma="improbus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">improba</w>
+    <w ref="3.796" lemma="uerbum" pos="NOMcom" msd="Case=Acc|Numb=Plur">verba</w>
+    <w ana="#metaphore #acte #joke #jeu" ref="3.796" lemma="iocus" pos="NOMcom" msd="Case=Abl|Numb=Plur">iocis</w>
+    <w ref="3.796" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

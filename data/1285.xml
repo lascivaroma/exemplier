@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:156" ana="#metaphore #acte #subigo #soumission">
+  <bibl><author>Plautus, Titus Maccius</author>, <title>Casina</title>, <biblScope>964-964</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi006.perseus-lat2:964-964" type="line">
+    <w ref="964" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="964" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+    <w ref="964" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="964" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">vis</w>
+    <w ana="#metaphore #acte #subigo #soumission" ref="964" lemma="subigito" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">subigitare</w>
+    <w ref="964" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="964" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="964" lemma="probus" pos="ADJqua" msd="Numb=Sing|Gend=Fem|Deg=Pos">probast</w>
+    <w ref="964" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">{probast}</w>
+    <w ref="964" lemma="occasio" pos="NOMcom" msd="Case=Nom|Numb=Sing">occasio</w>
+    <w ref="964" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

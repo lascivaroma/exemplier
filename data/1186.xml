@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:142" ana="#metaphore #acte #humiliant #urine #ejaculation">
+  <bibl><author>Horace</author>, <title>Sermones</title>, <biblScope>2.7.48-2.7.52</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:2.7.48-2.7.52" type="line">
+    <w ref="2.7.48" lemma="natura" pos="NOMcom" msd="Case=Nom|Numb=Sing">natura</w>
+    <w ref="2.7.48" lemma="intendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">intendit</w>
+    <w ref="2.7.48" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.7.48" lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+    <w ref="2.7.48" lemma="clarus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">clara</w>
+    <w ref="2.7.48" lemma="nudus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Neut|Deg=Pos">nuda</w>
+    <w ref="2.7.48" lemma="lucerna" pos="NOMcom" msd="Case=Abl|Numb=Sing">lucerna</w>
+    <w ref="2.7.49" lemma="quicumque1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quaecumque</w>
+    <w ref="2.7.49" lemma="excipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">excepit</w>
+    <w ref="2.7.49" lemma="turgeo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">turgentis</w>
+    <w ref="2.7.49" lemma="uerber" pos="NOMcom" msd="Case=Acc|Numb=Plur">verbera</w>
+    <w ref="2.7.49" lemma="cauda" pos="NOMcom" msd="Case=Gen|Numb=Sing">caudae</w>
+    <w ref="2.7.50" lemma="clunis" pos="NOMcom" msd="Case=Abl|Numb=Plur">clunibus</w>
+    <w ref="2.7.50" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="2.7.50" lemma="agito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">agitavit</w>
+    <w ref="2.7.50" lemma="equus" pos="NOMcom" msd="Case=Acc|Numb=Sing">equum</w>
+    <w ref="2.7.50" lemma="lasciuus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">lasciva</w>
+    <w ref="2.7.50" lemma="supinus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">supinum</w>
+    <w ref="2.7.50" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.7.51" lemma="dimitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dimittit</w>
+    <w ref="2.7.51" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="2.7.51" lemma="famosus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">famosum</w>
+    <w ref="2.7.51" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="2.7.51" lemma="sollicitus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">sollicitum</w>
+    <w ref="2.7.51" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.7.51" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="2.7.52" lemma="diues" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">ditior</w>
+    <w ref="2.7.52" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="2.7.52" lemma="forma" pos="NOMcom" msd="Case=Gen|Numb=Sing">formae</w>
+    <w ref="2.7.52" lemma="bonus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Com|Deg=Comp">melioris</w>
+    <w ana="#metaphore #acte #humiliant #urine #ejaculation" ref="2.7.52" lemma="meio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">meiat</w>
+    <w ref="2.7.52" lemma="idem" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eodem</w>
+    <w ref="2.7.52" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

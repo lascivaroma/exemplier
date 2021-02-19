@@ -1,0 +1,48 @@
+<div type="fragment" corresp="adams:157" ana="#metaphore #acte #travailler">
+  <bibl><author>Augustinus, Aurelius</author>, <title>De civitate dei</title>, <biblScope>6.9-6.9</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0040.stoa003.opp-lat3:6.9-6.9" type="chapter">
+    <w ref="6.9" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="6.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="6.9" lemma="ullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">ulla</w>
+    <w ref="6.9" lemma="frons1" pos="NOMcom" msd="Case=Nom|Numb=Sing">frons</w>
+    <w ref="6.9" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="6.9" lemma="homo" pos="NOMcom" msd="Case=Abl|Numb=Plur">hominibus</w>
+    <w ref="6.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.9" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Fem">quae</w>
+    <w ref="6.9" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="6.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="6.9" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="6.9" lemma="numen" pos="NOMcom" msd="Case=Abl|Numb=Plur">numinibus</w>
+    <w ref="6.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.9" lemma="nonne" pos="ADVint.neg" msd="MORPH=empty">nonne</w>
+    <w ref="6.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.9" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="6.9" lemma="credo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">credunt</w>
+    <w ref="6.9" lemma="coniugo" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">coniugati</w>
+    <w ref="6.9" lemma="tot" pos="PROdem" msd="Case=Ind">tot</w>
+    <w ref="6.9" lemma="deus" pos="NOMcom" msd="Case=Acc|Numb=Plur">deos</w>
+    <w ref="6.9" lemma="uterque" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">utriusque</w>
+    <w ref="6.9" lemma="sexus" pos="NOMcom" msd="Case=Nom|Numb=Sing">sexus</w>
+    <w ref="6.9" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="6.9" lemma="praesens" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">praesentes</w>
+    <w ref="6.9" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.9" lemma="hic1" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">huic</w>
+    <w ana="#metaphore #acte #travailler" ref="6.9" lemma="opus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">operi</w>
+    <w ref="6.9" lemma="insto" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">instantes</w>
+    <w ref="6.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.9" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+    <w ref="6.9" lemma="pudor" pos="NOMcom" msd="Case=Abl|Numb=Sing">pudore</w>
+    <w ref="6.9" lemma="afficio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">adficiuntur</w>
+    <w ref="6.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.9" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="6.9" lemma="et1" pos="ADV" msd="Deg=Pos">et</w>
+    <w ref="6.9" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="6.9" lemma="parum2" pos="ADV" msd="Deg=Comp">minus</w>
+    <w ref="6.9" lemma="moueo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">moueatur</w>
+    <w ref="6.9" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.9" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="6.9" lemma="multus" pos="ADV" msd="Numb=Sing|Gend=Neut|Deg=Comp">plus</w>
+    <w ref="6.9" lemma="reluctor" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">reluctetur</w>
+    <w ref="6.9" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

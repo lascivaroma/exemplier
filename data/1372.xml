@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:163" ana="#metaphore #acte #devoir #service">
+  <bibl><author>Plautus, Titus Maccius</author>, <title>Asinaria</title>, <biblscope>812-813</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi002.perseus-lat2:812-813" type="line">
+    <w ref="812" lemma="apud" pos="PRE" msd="MORPH=empty">ápud</w>
+    <w ref="812" lemma="amica" pos="NOMcom" msd="Case=Acc|Numb=Sing">amicam</w>
+    <w ana="#metaphore #acte #devoir #service" ref="812" lemma="munus" pos="NOMcom" msd="Case=Acc|Numb=Sing">munus</w>
+    <w ref="812" lemma="adolescentulus" pos="NOMcom" msd="Case=Gen|Numb=Sing">adulescentuli</w>
+    <w ref="813" lemma="fungor" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fungare</w>
+    <w ref="813" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="813" lemma="uxor" pos="NOMcom" msd="Case=Dat|Numb=Sing">uxori</w>
+    <w ref="813" lemma="excuso" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">excuses</w>
+    <w ref="813" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="813" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="813" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">dicas</w>
+    <w ref="813" lemma="senex1" pos="NOMcom" msd="Case=Acc|Numb=Sing">senem</w>
+    <w ref="813" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

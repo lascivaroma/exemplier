@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:142" ana="#metaphore #acte #humiliant #urine #ejaculation">
+  <bibl><author>Anthologia Latina</author>, <title>Anthologia Latina</title>, <biblScope>374.6-374.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:374.6-374.6" type="line">
+    <w ref="374.6" lemma="qui" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">Quodque</w>
+    <w ref="374.6" lemma="que" pos="CON" msd="MORPH=empty">{Quodque}</w>
+    <w ref="374.6" lemma="nimis" pos="ADV" msd="Deg=Pos">nimis</w>
+    <w ref="374.6" lemma="miser" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">miserum</w>
+    <w ref="374.6" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="374.6" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ana="#metaphore #acte #humiliant #urine #ejaculation" ref="374.6" lemma="mingo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">mingitur</w>
+    <w ref="374.6" lemma="ars" pos="NOMcom" msd="Case=Gen|Numb=Sing">artis</w>
+    <w ref="374.6" lemma="opus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">opus</w>
+    <w ref="374.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:156" ana="#metaphore #acte #subigo #soumission">
+  <bibl><author>Plautus, Titus Maccius</author>, <title>Miles Gloriosus</title>, <biblScope>1402-1402</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi012.perseus-lat2:1402-1402" type="line">
+    <w ref="1402" lemma="cur" pos="ADVint" msd="MORPH=empty">Cur</w>
+    <w ref="1402" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
+    <w ref="1402" lemma="audeo" pos="VER" msd="Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=SemDep">ausus</w>
+    <w ana="#metaphore #acte #subigo #soumission" ref="1402" lemma="subigito" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">subigitare</w>
+    <w ref="1402" lemma="alienus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">álienam</w>
+    <w ref="1402" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
+    <w ref="1402" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1402" lemma="impudens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">impudens</w>
+    <w ref="1402" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

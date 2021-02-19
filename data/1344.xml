@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:161" ana="#metaphore #acte #epouser #noces">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>12.95.1-12.95.7</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.95.1-12.95.7" type="line">
+    <w ref="12.95.5" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ana="#metaphore #acte #epouser #noces #composite" ref="12.95.5" lemma="talassio" pos="NOMcom" msd="Case=Acc|Numb=Sing">talassionem</w>
+    <w ana="#metaphore #acte #epouser #noces #composite"  ref="12.95.6" lemma="indico1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">Indicas</w>
+    <w ref="12.95.6" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">manibus</w>
+    <w ref="12.95.6" lemma="libidinosus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">libidinosis</w>
+    <w ref="12.95.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="12.95.7" lemma="fio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">fias</w>
+    <w ref="12.95.7" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="12.95.7" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Sing">femina</w>
+    <w ref="12.95.7" lemma="maritus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">maritus</w>
+    <w ref="12.95.7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

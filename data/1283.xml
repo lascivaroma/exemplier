@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:156" ana="#metaphore #acte #subigo #soumission">
+  <bibl><author>Vopiscus, Flavius fl. 3./4. Jh.</author>, <title>Antoninus Heliogobalus</title>, <biblScope>31-31</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi017.perseus-lat2:31-31" type="chapter">
+    <w ref="31" lemma="rado" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">rasit</w>
+    <w ref="31" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="31" lemma="uirilis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">virilia</w>
+    <w ana="#metaphore #acte #subigo #soumission" ref="31" lemma="subactor" pos="NOMcom" msd="Case=Dat|Numb=Plur">subactoribus</w>
+    <w ref="31" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Plur|Gend=Com">suis</w>
+    <w ref="31" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="31" lemma="nouacula" pos="NOMcom" msd="Case=Acc|Numb=Sing">novaculam</w>
+    <w ref="31" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
+    <w ref="31" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=Fem">sua</w>
+    <w ref="31" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="31" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
+    <w ref="31" lemma="postea" pos="ADV" msd="Deg=Pos">postea</w>
+    <w ref="31" lemma="barba" pos="NOMcom" msd="Case=Acc|Numb=Sing">barbam</w>
+    <w ref="31" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fecit</w>
+  </quote>
+</div>

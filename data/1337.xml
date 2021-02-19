@@ -1,0 +1,12 @@
+<div type="fragment" corresp="adams:160" ana="#metaphore #acte #epouser #noces">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>1.24.4-1.24.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.24.4-1.24.4" type="line">
+    <w ref="1.24.4" lemma="nolo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2">Nolito</w>
+    <w ref="1.24.4" lemma="frons1" pos="NOMcom" msd="Case=Dat|Numb=Sing">fronti</w>
+    <w ref="1.24.4" lemma="credo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">credere</w>
+    <w ref="1.24.4" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ana="#metaphore #acte #epouser #noces" ref="1.24.4" lemma="nubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">nupsit</w>
+    <w ref="1.24.4" lemma="heri" pos="ADV" msd="Deg=Pos">heri</w>
+    <w ref="1.24.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

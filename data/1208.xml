@@ -1,0 +1,27 @@
+<div type="fragment" corresp="adams:145" ana="#metaphore #acte #frapper #pedicatio">
+  <bibl><author>Tertullian ca. 160-ca. 230</author>, <title>De Pallio</title>, <biblScope>4-4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa022.opp-lat1:4-4" type="chapter">
+    <w ref="4" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="4" lemma="et2" pos="CONcoo" msd="Deg=Pos">et</w>
+    <w ref="4" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="4" lemma="ante2" pos="PRE" msd="MORPH=empty">ante</w>
+    <w ref="4" lemma="tyrinthium" pos="ADJqua" msd="Case=Acc|Numb=Sing">Tyrinthium</w>
+    <w ref="4" lemma="accedo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">accesserat</w>
+    <w ref="4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4" lemma="pugil" pos="NOMcom" msd="Case=Nom|Numb=Sing">pugil</w>
+    <w ref="4" lemma="cleomachus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Cleomachus</w>
+    <w ref="4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4" lemma="post1" pos="ADV" msd="Deg=Pos">post</w>
+    <w ref="4" lemma="Olympia" pos="NOMpro" msd="Case=Gen|Numb=Sing|Deg=Pos">Olympiae</w>
+    <w ref="4" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="4" lemma="incredibilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">incredibile</w>
+    <w ref="4" lemma="muto2" pos="VER" msd="Numb=Sing|Mood=SupUm|Voice=Act">mutatu</w>
+    <w ref="4" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="4" lemma="masculum" pos="NOMcom" msd="Case=Abl|Numb=Sing">masculo</w>
+    <w ref="4" lemma="fluo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">fluxisset</w>
+    <w ref="4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4" lemma="intra2" pos="PRE" msd="MORPH=empty">intra</w>
+    <w ref="4" lemma="cutis" pos="NOMcom" msd="Case=Acc|Numb=Sing">cutem</w>
+    <w ana="#metaphore #acte #frapper #pedicatio" ref="4" lemma="caedo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">caesus</w>
+  </quote>
+</div>

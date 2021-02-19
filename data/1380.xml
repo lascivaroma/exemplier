@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:163" ana="#metaphore #acte #devoir #service #fellatio">
+  <bibl><author>Apuleius</author>, <title>Metamorphoses</title>, <biblscope>2.16-2.16</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:2.16-2.16" type="chapter">
+    <w ref="2.16" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="2.16" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="2.16" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="2.16" lemma="mos" pos="NOMcom" msd="Case=Acc|Numb=Sing">morem</w>
+    <w ref="2.16" lemma="1" pos="ADJcar" msd="MORPH=empty">I</w>
+    <w ref="2.16" lemma="plene" pos="ADV" msd="Deg=Comp">plenius</w>
+    <w ana="#metaphore #acte #devoir #service #fellatio" ref="2.16" lemma="gero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2">gesseris</w>
+    <w ref="2.16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.16" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.16" lemma="effundo2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut">effusum</w>
+    <w ref="2.16" lemma="laxus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">laxa</w>
+    <w ref="2.16" lemma="crinis" pos="NOMcom" msd="Case=Acc|Numb=Sing">crinem</w>
+    <w ref="2.16" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.16" lemma="capillus" pos="NOMcom" msd="Case=Abl|Numb=Sing">capillo</w>
+    <w ref="2.16" lemma="fluo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">fluente</w>
+    <w ref="2.16" lemma="undanter" pos="ADV" msd="Deg=Pos">undanter</w>
+    <w ref="2.16" lemma="edo1" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">ede</w>
+    <w ref="2.16" lemma="complector" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">complexus</w>
+    <w ref="2.16" lemma="amabilis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">amabiles</w>
+    <w ref="2.16" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

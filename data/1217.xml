@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:146" ana="#metaphore #acte #frapper #pedicatio">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>2.72.2-2.72.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:2.72.2-2.72.6" type="line">
+    <w ref="2.72.2" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+    <w ref="2.72.3" lemma="os1" pos="NOMcom" msd="Case=Acc|Numb=Sing">Os</w>
+    <w ref="2.72.3" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ana="#metaphore #acte #frapper #pedicatio" ref="2.72.3" lemma="percido2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">percisum</w>
+    <w ref="2.72.3" lemma="quanto1" pos="ADVrel" msd="MORPH=empty">quanto</w>
+    <w ref="2.72.3" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="2.72.3" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ref="2.72.3" lemma="latinus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Latinus</w>
+    <w ref="2.72.4" lemma="uilis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">Vilia</w>
+    <w ref="2.72.4" lemma="panniculus" pos="NOMcom" msd="Case=Gen|Numb=Sing">Panniculi</w>
+    <w ref="2.72.4" lemma="percutio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">percutit</w>
+    <w ref="2.72.4" lemma="os1" pos="NOMcom" msd="Case=Nom|Numb=Plur">ora</w>
+    <w ref="2.72.4" lemma="sonus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sono</w>
+    <w ref="2.72.4" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.72.5" lemma="qui" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">Quodque</w>
+    <w ref="2.72.5" lemma="que" pos="CON" msd="MORPH=empty">{Quodque}</w>
+    <w ref="2.72.5" lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
+    <w ref="2.72.5" lemma="mirus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">mirum</w>
+    <w ref="2.72.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="2.72.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.72.5" lemma="auctor" pos="NOMcom" msd="Case=Acc|Numb=Sing">auctorem</w>
+    <w ref="2.72.5" lemma="crimen" pos="NOMcom" msd="Case=Gen|Numb=Sing">criminis</w>
+    <w ref="2.72.5" lemma="hic1" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">huius</w>
+    <w ref="2.72.6" lemma="caecilium" pos="NOMcom" msd="Case=Nom|Numb=Sing">Caecilium</w>
+    <w ref="2.72.6" lemma="totus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">tota</w>
+    <w ref="2.72.6" lemma="rumor" pos="NOMcom" msd="Case=Nom|Numb=Sing">rumor</w>
+    <w ref="2.72.6" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.72.6" lemma="urbs" pos="NOMcom" msd="Case=Abl|Numb=Sing">urbe</w>
+    <w ref="2.72.6" lemma="sono1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sonat</w>
+    <w ref="2.72.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

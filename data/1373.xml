@@ -1,0 +1,23 @@
+<div  type="fragment" corresp="adams:163" ana="#metaphore #acte #devoir #service">
+  <bibl><author>Horace</author>, <title>Carmina</title>, <biblscope>2.5.1-2.5.8</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi001.perseus-lat2:2.5.1-2.5.8" type="line">
+    <w ref="2.5.1" lemma="nondum" pos="ADVneg" msd="MORPH=empty">Nondum</w>
+    <w ref="2.5.1" lemma="subigo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">subacta</w>
+    <w ref="2.5.1" lemma="fero" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ferre</w>
+    <w ref="2.5.1" lemma="iugum" pos="NOMcom" msd="Case=Acc|Numb=Sing">iugum</w>
+    <w ref="2.5.1" lemma="ualeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">valet</w>
+    <w ref="2.5.2" lemma="ceruix" pos="NOMcom" msd="Case=Abl|Numb=Sing">cervice</w>
+    <w ref="2.5.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.5.2" lemma="nondum" pos="ADVneg" msd="MORPH=empty">nondum</w>
+    <w ana="#metaphore #acte #devoir #service" ref="2.5.2" lemma="munia" pos="NOMcom" msd="Case=Acc|Numb=Plur">munia</w>
+    <w ref="2.5.2" lemma="compar2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">conparis</w>
+    <w ref="2.5.3" lemma="aequo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">aequare</w>
+    <w ref="2.5.3" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="2.5.3" lemma="taurus" pos="NOMcom" msd="Case=Gen|Numb=Sing">tauri</w>
+    <w ref="2.5.3" lemma="ruo" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">ruentis</w>
+    <w ref="2.5.4" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.5.4" lemma="Uenus" pos="NOMpro" msd="Case=Acc|Numb=Sing">venerem</w>
+    <w ref="2.5.4" lemma="tolero" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tolerare</w>
+    <w ref="2.5.4" lemma="pondus" pos="NOMcom" msd="Case=Acc|Numb=Sing">pondus</w>
+  </quote>
+</div>

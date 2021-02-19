@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:166" ana="#metaphore #acte #ramer #naviguer">
+  <bibl><author>Macrobe</author>, <title>Saturnalia</title>, <biblscope>2.5-2.5</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0186.stoa001.thayer-lat1:2.5-2.5" type="chapter">
+    <w ref="2.5" lemma="numquam" pos="ADVneg" msd="MORPH=empty">Numquam</w>
+    <w ref="2.5" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="2.5" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ana="#metaphore #acte #ramer #naviguer" ref="2.5" lemma="nauis" pos="NOMcom" msd="Case=Abl|Numb=Sing">navi</w>
+    <w ref="2.5" lemma="plenus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">plena</w>
+    <w ref="2.5" lemma="tollo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">tollo</w>
+    <w ref="2.5" lemma="uector1" pos="NOMcom" msd="Case=Acc|Numb=Sing">vectorem</w>
+    <w ref="2.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

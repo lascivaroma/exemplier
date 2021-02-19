@@ -1,0 +1,37 @@
+<div type="fragment" corresp="adams:139" ana="#metaphore #acte #manger">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblScope>88.5-88.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:88.5-88.8" type="line">
+    <w ref="88.5" lemma="suscipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">suscipit</w>
+    <w ref="88.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="88.5" lemma="o" pos="INJ" msd="MORPH=empty">o</w>
+    <w ref="88.5" lemma="gellum" pos="NOMcom" msd="Case=Voc|Numb=Sing">Gelli</w>
+    <w ref="88.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="88.5" lemma="quantum3" pos="ADVrel" msd="Numb=Sing">quantum</w>
+    <w ref="88.5" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="88.5" lemma="ultimus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">ultima</w>
+    <w ref="88.5" lemma="tetes" pos="NOMcom" msd="Case=Nom|Numb=Sing">Tethys</w>
+    <w ref="88.6" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="88.6" lemma="genitor" pos="NOMcom" msd="Case=Nom|Numb=Sing">genitor</w>
+    <w ref="88.6" lemma="nympha" pos="NOMcom" msd="Case=Gen|Numb=Plur">nympharum</w>
+    <w ref="88.6" lemma="abluo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">abluit</w>
+    <w ref="88.6" lemma="oceanus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">Oceanus</w>
+    <w ref="88.6" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="88.7" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="88.7" lemma="nihil" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">nihil</w>
+    <w ref="88.7" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="88.7" lemma="quisquam" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">quicquam</w>
+    <w ref="88.7" lemma="scelus" pos="NOMcom" msd="Case=Gen|Numb=Sing">sceleris</w>
+    <w ref="88.7" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ref="88.7" lemma="prodeo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">prodeat</w>
+    <w ref="88.7" lemma="ultra1" pos="ADV" msd="Deg=Pos">ultra</w>
+    <w ref="88.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="88.8" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="88.8" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="88.8" lemma="demissus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">demisso</w>
+    <w ref="88.8" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="88.8" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ana="#metaphore #acte #manger" ref="88.8" lemma="uoro" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">voret</w>
+    <w ref="88.8" lemma="caput" pos="NOMcom" msd="Case=Abl|Numb=Sing">capite</w>
+    <w ref="88.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

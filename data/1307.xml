@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:158" ana="#metaphore #acte #lutter #sebattre">
+  <bibl><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblScope>2.1.9-2.1.16</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.1.9-2.1.16" type="line">
+       <w ref="2.1.13" lemma="seu2" pos="CONsub" msd="MORPH=empty">seu</w>
+    <w ref="2.1.13" lemma="nudus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">nuda</w>
+    <w ref="2.1.13" lemma="eripio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">erepto</w>
+    <w ref="2.1.13" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">mecum</w>
+    <w ref="2.1.13" lemma="cum3" pos="CON" msd="MORPH=empty">{mecum}</w>
+    <w ana="#metaphore #acte #lutter #sebattre" ref="2.1.13" lemma="luctor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">luctatur</w>
+    <w ref="2.1.13" lemma="amictus" pos="NOMcom" msd="Case=Abl|Numb=Sing">amictu</w>
+    <w ref="2.1.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.1.14" lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>
+    <w ref="2.1.14" lemma="uero4" pos="CONcoo" msd="Deg=Pos">vero</w>
+    <w ref="2.1.14" lemma="longus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">longas</w>
+    <w ref="2.1.14" lemma="condo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">condimus</w>
+    <w ref="2.1.14" lemma="iliadus" pos="NOMcom" msd="Case=Acc|Numb=Plur">Iliadas</w>
+  </quote>
+</div>

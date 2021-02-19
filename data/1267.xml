@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:153" ana="#metaphore #acte #agriculture #moudre">
+  <bibl><author>Horace</author>, <title>Satires</title>, <biblScope>1.2.31-1.2.35</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.31-1.2.35" type="line">
+    <w ref="1.2.34" lemma="huc" pos="ADV" msd="Deg=Pos">huc</w>
+    <w ref="1.2.34" lemma="iuuenis1" pos="NOMcom" msd="Case=Nom|Numb=Plur">iuvenes</w>
+    <w ref="1.2.34" lemma="aequus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">aequom</w>
+    <w ref="1.2.34" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1.2.34" lemma="descendo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">descendere</w>
+    <w ref="1.2.34" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.34" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.2.34" lemma="alienus2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">alienas</w>
+    <w ana="#metaphore #acte #agriculture #moudre" ref="1.2.35" lemma="permolo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">permolere</w>
+    <w ref="1.2.35" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Plur">uxores</w>
+    <w ref="1.2.35" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

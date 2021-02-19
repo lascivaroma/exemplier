@@ -1,0 +1,17 @@
+<div  type="fragment" corresp="adams:162" ana="#metaphore #acte #joke #jeu">
+  <bibl><author>Vulgate</author>, <title>Habakkuk</title>, <biblscope>26.7-26.10</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg043.obi-lat1:26.7-26.10" type="verse">
+    <w ref="26.8" lemma="abimelech" pos="NOMcom" msd="Numb=Sing">Abimelech</w>
+    <w ref="26.8" lemma="palestinus" pos="NOMcom" msd="Case=Gen|Numb=Plur|Gend=MascNeut">Palestinorum</w>
+    <w ref="26.8" lemma="rex" pos="NOMcom" msd="Case=Nom|Numb=Sing">rex</w>
+    <w ref="26.8" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="26.8" lemma="fenestra" pos="NOMcom" msd="Case=Acc|Numb=Sing">fenestram</w>
+    <w ref="26.8" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">vidit</w>
+    <w ref="26.8" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eum</w>
+    <w ana="#metaphore #acte #joke #jeu" ref="26.8" lemma="iocor" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">iocantem</w>
+    <w ref="26.8" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="26.8" lemma="rebeccus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem">Rebecca</w>
+    <w ref="26.8" lemma="uxor" pos="NOMcom" msd="Case=Abl|Numb=Sing">uxore</w>
+    <w ref="26.8" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=Fem">sua</w>
+  </quote>
+</div>

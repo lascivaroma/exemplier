@@ -1,0 +1,41 @@
+<div type="fragment" corresp="adams:" ana="#metaphore #acte #manger">
+  <bibl><author>Cicero</author>, <title>On His House</title>, <biblScope>47-47</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi020.perseus-lat2:47-47" type="section">
+    <w ref="47" lemma="sextus" pos="ADJcar" msd="Case=Ind">Sexte</w>
+    <w ref="47" lemma="noster" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Masc">noster</w>
+    <w ref="47" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="47" lemma="bonus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">bona</w>
+    <w ref="47" lemma="uenia" pos="NOMcom" msd="Case=Abl|Numb=Sing">venia</w>
+    <w ref="47" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="47" lemma="quoniam" pos="CONsub" msd="MORPH=empty">quoniam</w>
+    <w ref="47" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="47" lemma="dialecticus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">dialecticus</w>
+    <w ref="47" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
+    <w ref="47" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="47" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">haec</w>
+    <w ref="47" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ana="#metaphore #acte #manger" ref="47" lemma="ligurrio" pos="NOMcom" msd="Case=Gen|Numb=Sing">liguris</w>
+    <w ref="47" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="47" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="47" lemma="facio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">factum</w>
+    <w ref="47" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="47" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="47" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="47" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="47" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="47" lemma="facio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">factum</w>
+    <w ref="47" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="47" lemma="fero" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">ferri</w>
+    <w ref="47" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="47" lemma="populus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">populum</w>
+    <w ref="47" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="47" lemma="uerbum" pos="NOMcom" msd="Case=Abl|Numb=Plur">verbis</w>
+    <w ref="47" lemma="ullus" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">ullis</w>
+    <w ref="47" lemma="sancio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">sanciri</w>
+    <w ref="47" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="47" lemma="suffragium" pos="NOMcom" msd="Case=Abl|Numb=Plur">suffragiis</w>
+    <w ref="47" lemma="confirmo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">confirmari</w>
+    <w ref="47" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">potest</w>
+    <w ref="47" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

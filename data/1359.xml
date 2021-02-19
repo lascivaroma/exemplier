@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:162" ana="#metaphore #acte #joke #jeu #jeunesse">
+  <bibl><author>Ovid</author>, <title>Ars Amatoria</title>, <biblscope>3.61-3.64</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:3.61-3.64" type="line">
+    <w ref="3.61" lemma="dum2" pos="CONsub" msd="MORPH=empty">Dum</w>
+    <w ref="3.61" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">licet</w>
+    <w ref="3.61" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.61" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.61" lemma="uernus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">vernos</w>
+    <w ref="3.61" lemma="etiamnunc" pos="ADV" msd="Deg=Pos">etiamnum</w>
+    <w ref="3.61" lemma="educo2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">educitis</w>
+    <w ref="3.61" lemma="annus" pos="NOMcom" msd="Case=Acc|Numb=Plur">annos</w>
+    <w ref="3.61" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#metaphore #acte #joke #jeu #jeunesse" ref="3.62" lemma="ludo" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">Ludite</w>
+    <w ref="3.62" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="3.62" lemma="eo1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">eunt</w>
+    <w ref="3.62" lemma="annus" pos="NOMcom" msd="Case=Gen|Numb=Sing">anni</w>
+    <w ref="3.62" lemma="mos" pos="NOMcom" msd="Case=Abl|Numb=Sing">more</w>
+    <w ref="3.62" lemma="fluo" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">fluentis</w>
+    <w ref="3.62" lemma="aqua" pos="NOMcom" msd="Case=Gen|Numb=Sing">aquae</w>
+  </quote>
+</div>

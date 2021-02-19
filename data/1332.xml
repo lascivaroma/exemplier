@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:159" ana="#metaphore #acte #epouser #noces">
+  <bibl><author>Iulius Valerius Alexander Polemus</author>, <title>Res gestae Alexandri Macedonis translatae ex Aesopo graeco</title>, <biblScope>1.7-1.7</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1672.phi002.digilibLT-lat1:1.7-1.7" type="chapter">
+    <w ref="1.7" lemma="at2" pos="CONcoo" msd="MORPH=empty">At</w>
+    <w ref="1.7" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="1.7" lemma="sceptrum" pos="NOMcom" msd="Case=Abl|Numb=Sing">sceptro</w>
+    <w ref="1.7" lemma="depono" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">deposito</w>
+    <w ref="1.7" lemma="conscendo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">conscensoque</w>
+    <w ref="1.7" lemma="que" pos="CON" msd="MORPH=empty">{conscensoque}</w>
+    <w ref="1.7" lemma="lectulus" pos="NOMcom" msd="Case=Abl|Numb=Sing">lectulo</w>
+    <w ana="#metaphore #acte #epouser #noces" ref="1.7" lemma="nuptiae" pos="NOMcom" msd="Case=Acc|Numb=Plur">nuptias</w>
+    <w ref="1.7" lemma="ago" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">agit</w>
+    <w ref="1.7" lemma="exim" pos="ADV" msd="MORPH=empty">eximque</w>
+    <w ref="1.7" lemma="que" pos="CON" msd="MORPH=empty">{eximque}</w>
+    <w ref="1.7" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="1.7" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="1.7" lemma="superiacio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">superiecta</w>
+    <w ref="1.7" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
+  </quote>
+</div>

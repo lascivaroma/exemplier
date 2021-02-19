@@ -1,0 +1,12 @@
+<div type="fragment" corresp="adams:151" ana="#metaphore #agriculture #creuser #acte">
+  <bibl><author>Priaepia</author>, <title>Priapeia</title>, <biblScope>51.1-51.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:51.1-51.4" type="line">
+    <w ref="51.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="51.4" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+    <w ref="51.4" lemma="curuus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">curuos</w>
+    <w ana="#metaphore #agriculture #creuser #acte" ref="51.4" lemma="excauo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">excauetur</w>
+    <w ref="51.4" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="51.4" lemma="lumbus" pos="NOMcom" msd="Case=Acc|Numb=Plur">lumbos</w>
+    <w ref="51.4" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

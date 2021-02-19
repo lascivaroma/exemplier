@@ -1,0 +1,36 @@
+<div type="fragment" corresp="adams:144" ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme">
+  <bibl><author>Vopiscus, Flavius fl. 3./4. Jh.</author>, <title>Maximini Duo</title>, <biblScope>4-4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi019.perseus-lat2:4-4" type="chapter">
+    <w ref="4" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="4" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">dicitur</w>
+    <w ref="4" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="4" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eo</w>
+    <w ref="4" lemma="iocor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">iocatus</w>
+    <w ref="4" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="4" lemma="Heliogabalus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">Heliogabalus</w>
+    <w ref="4" lemma="turpiter" pos="ADV" msd="Deg=Sup">turpissime</w>
+    <w ref="4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4" lemma="dico2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">dicens</w>
+    <w ref="4" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="4" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=2">Diceris</w>
+    <w ref="4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4" lemma="magnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">Maximine</w>
+    <w ref="4" lemma="ne2" pos="ADV" msd="MORPH=empty">{Maximine}</w>
+    <w ref="4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4" lemma="sedecim" pos="ADJcar" msd="Case=Ind">sedecim</w>
+    <w ref="4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="4" lemma="uiginti" pos="ADJcar" msd="Case=Ind">viginti</w>
+    <w ref="4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="4" lemma="triginta" pos="ADJcar" msd="Case=Ind">triginta</w>
+    <w ref="4" lemma="miles" pos="NOMcom" msd="Case=Acc|Numb=Plur">milites</w>
+    <w ref="4" lemma="aliquando" pos="ADV" msd="Deg=Pos">aliquando</w>
+    <w ref="4" lemma="lasso" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">lassasse</w>
+    <w ref="4" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="4" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">potes</w>
+    <w ref="4" lemma="tricies" pos="ADJadv.mul" msd="Case=Nom|Numb=Sing|Gend=MascFem">tricies</w>
+    <w ref="4" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="4" lemma="mulier" pos="NOMcom" msd="Case=Abl|Numb=Sing">muliere</w>
+    <w ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme" ref="4" lemma="perficio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">perficere</w>
+    <w ref="4" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

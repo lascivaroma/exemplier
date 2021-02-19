@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:160" ana="#metaphore #acte #epouser #noces">
+  <bibl><author>P. Vergilius Maro</author>, <title>Georgics</title>, <biblScope>3.56-3.62</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi002.perseus-lat2:3.56-3.62" type="line">
+    <w ref="3.60" lemma="aetas" pos="NOMcom" msd="Case=Nom|Numb=Sing">Aetas</w>
+    <w ref="3.60" lemma="lucina" pos="NOMcom" msd="Case=Acc|Numb=Sing">Lucinam</w>
+    <w ref="3.60" lemma="iustus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">iustosque</w>
+    <w ref="3.60" lemma="que" pos="CON" msd="MORPH=empty">{iustosque}</w>
+    <w ref="3.60" lemma="patior" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">pati</w>
+    <w ana="#metaphore #acte #epouser #noces" ref="3.60" lemma="hymenaeus" pos="NOMcom" msd="Case=Acc|Numb=Plur">hymenaeos</w>
+    <w ref="3.61" lemma="desino" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">desinit</w>
+    <w ref="3.61" lemma="ante2" pos="PRE" msd="MORPH=empty">ante</w>
+    <w ref="3.61" lemma="decem" pos="ADJcar" msd="Case=Ind">decem</w>
+    <w ref="3.61" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.61" lemma="post2" pos="PRE" msd="MORPH=empty">post</w>
+    <w ref="3.61" lemma="quatuor" pos="ADJcar" msd="Case=Ind">quattuor</w>
+    <w ref="3.61" lemma="incipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">incipit</w>
+    <w ref="3.61" lemma="annus" pos="NOMcom" msd="Case=Acc|Numb=Plur">annos</w>
+  </quote>
+</div>

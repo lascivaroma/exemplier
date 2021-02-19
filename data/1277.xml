@@ -1,0 +1,27 @@
+<div type="fragment" corresp="adams:" ana="#metaphore #acte #militaire #soumettre #subigo">
+  <bibl><author>Suetonius ca. 69-ca. 122</author>, <title>Divus Julius</title>, <biblScope>49-49</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo011.perseus-lat2:49-49" type="unknown">
+    <w ref="49" lemma="gallia" pos="NOMcom" msd="Case=Acc|Numb=Plur">Gallias</w>
+    <w ref="49" lemma="caesar" pos="NOMcom" msd="Case=Nom|Numb=Sing">Caesar</w>
+    <w ref="49" lemma="subigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">subegit</w>
+    <w ref="49" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="49" lemma="Nicomedes" pos="NOMpro" msd="Case=Nom|Numb=Sing">Nicomedes</w>
+    <w ref="49" lemma="caesar" pos="NOMcom" msd="Case=Acc|Numb=Sing">Caesarem</w>
+    <w ref="49" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="49" lemma="ecce" pos="INJ" msd="MORPH=empty">ecce</w>
+    <w ref="49" lemma="caesar" pos="NOMcom" msd="Case=Nom|Numb=Sing">Caesar</w>
+    <w ref="49" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="49" lemma="triumpho" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">triumphat</w>
+    <w ref="49" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="49" lemma="subigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">subegit</w>
+    <w ref="49" lemma="gallia" pos="NOMcom" msd="Case=Acc|Numb=Plur">Gallias</w>
+    <w ref="49" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="49" lemma="Nicomedes" pos="NOMcom" msd="Case=Nom|Numb=Plur">Nicomedes</w>
+    <w ref="49" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="49" lemma="triumpho" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">triumphat</w>
+    <w ref="49" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ana="#metaphore #acte #militaire #soumettre #subigo" ref="49" lemma="subigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">subegit</w>
+    <w ref="49" lemma="caesar" pos="NOMcom" msd="Case=Acc|Numb=Sing">Caesarem</w>
+    <w ref="49" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:157" ana="#metaphore #acte #travailler">
+  <bibl><author>Juvenal</author>, <title>Satires</title>, <biblScope>9.40-9.44</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:9.40-9.44" type="line">
+    <w ref="9.41" lemma="numero1" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">numera</w>
+    <w ref="9.41" lemma="sestertium" pos="NOMcom" msd="Case=Nom|Numb=Plur">sestertia</w>
+    <w ref="9.41" lemma="quinque" pos="ADJcar" msd="Case=Ind">quinque</w>
+    <w ref="9.42" lemma="omnis" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">omnibus</w>
+    <w ref="9.42" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="9.42" lemma="res" pos="NOMcom" msd="Case=Abl|Numb=Plur">rebus</w>
+    <w ref="9.42" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="9.42" lemma="numero1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">numerentur</w>
+    <w ref="9.42" lemma="deinde" pos="ADV" msd="Deg=Pos">deinde</w>
+    <w ana="#metaphore #acte #travailler" ref="9.42" lemma="labor1" pos="NOMcom" msd="Case=Acc|Numb=Plur">labores</w>
+  </quote>
+</div>

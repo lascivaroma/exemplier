@@ -1,0 +1,29 @@
+<div type="fragment" corresp="adams:160" ana="#metaphore #acte #epouser #noces">
+  <bibl><author>Plautus, Titus Maccius</author>, <title>Cistellaria</title>, <biblScope>42b-44</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi007.perseus-lat2:42b-44" type="line">
+    <w ref="42b" lemma="eia" pos="INJ" msd="MORPH=empty">Heia</w>
+    <w ref="42b" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="43" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">haec</w>
+    <w ref="43" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ref="43" lemma="ecastor" pos="INJ" msd="MORPH=empty">ecastor</w>
+    <w ref="43" lemma="cotidie" pos="ADV" msd="Deg=Pos">cottidie</w>
+    <w ref="43" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Sing">viro</w>
+    <w ana="#metaphore #acte #epouser #noces" ref="43" lemma="nubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">núbit</w>
+    <w ref="43" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="43" lemma="nubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">nupsitque</w>
+    <w ref="43" lemma="que" pos="CON" msd="MORPH=empty">{nupsitque}</w>
+    <w ref="43" lemma="hodie" pos="ADV" msd="Deg=Pos">hodie</w>
+    <w ref="43" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="44" lemma="nubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">nubet</w>
+    <w ref="44" lemma="mox" pos="ADV" msd="Deg=Pos">mox</w>
+    <w ref="44" lemma="noctu" pos="ADV" msd="Deg=Pos">noctu</w>
+    <w ref="44" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="44" lemma="numquam" pos="ADVneg" msd="MORPH=empty">numquam</w>
+    <w ref="44" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="44" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">hanc</w>
+    <w ref="44" lemma="uiduus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">viduam</w>
+    <w ref="44" lemma="cubo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">cubare</w>
+    <w ref="44" lemma="sino" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">sivi</w>
+    <w ref="44" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

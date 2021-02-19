@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:139" ana="#metaphore #acte #manger">
+  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblScope>80.5-80.6</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:80.5-80.6" type="line">
+    <w ref="80.5" lemma="nescio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">nescio</w>
+    <w ref="80.5" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="80.5" lemma="certe" pos="ADV" msd="Deg=Pos">certe</w>
+    <w ref="80.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="80.5" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="80.5" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="80.5" lemma="uere" pos="ADV" msd="Deg=Pos">vere</w>
+    <w ref="80.5" lemma="fama" pos="NOMcom" msd="Case=Nom|Numb=Sing">fama</w>
+    <w ref="80.5" lemma="susurro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">susurrat</w>
+    <w ref="80.6" lemma="grandis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">grandia</w>
+    <w ref="80.6" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="80.6" lemma="medius" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">medii</w>
+    <w ref="80.6" lemma="tentus" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem">tenta</w>
+    <w ana="#metaphore #acte #manger" ref="80.6" lemma="uoro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">vorare</w>
+    <w ref="80.6" lemma="uir" pos="NOMcom" msd="Case=Gen|Numb=Plur">viri</w>
+    <w ref="80.6" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:156" ana="#metaphore #acte #travailler">
+  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>11.81.3-11.81.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.81.3-11.81.4" type="line">
+    <w ref="11.81.3" lemma="uis" pos="NOMcom" msd="Case=Abl|Numb=Plur">Viribus</w>
+    <w ref="11.81.3" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
+    <w ref="11.81.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#metaphore #acte #travailler" ref="11.81.3" lemma="opus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">operi</w>
+    <w ref="11.81.3" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="11.81.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="11.81.3" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">hic</w>
+    <w ref="11.81.3" lemma="utilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">utilis</w>
+    <w ref="11.81.3" lemma="annus" pos="NOMcom" msd="Case=Abl|Numb=Plur">annis</w>
+    <w ref="11.81.3" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="11.81.4" lemma="ergo2" pos="CONcoo" msd="MORPH=empty">Ergo</w>
+    <w ref="11.81.4" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="11.81.4" lemma="effectus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">effectu</w>
+    <w ref="11.81.4" lemma="prurio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">prurit</w>
+    <w ref="11.81.4" lemma="uterque" pos="PROind" msd="Case=Dat|Numb=Sing|Gend=Com">utrique</w>
+    <w ref="11.81.4" lemma="labor1" pos="NOMcom" msd="Case=Nom|Numb=Sing">labor</w>
+    <w ref="11.81.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

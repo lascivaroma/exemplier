@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:142" ana="#metaphore #acte #humiliant #urine #ejaculation">
+  <bibl><author>Juvenal</author>, <title>Satires</title>, <biblScope>11.166-11.170</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:11.166-11.170" type="line">
+    <w ref="11.166" lemma="narro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">narrare</w>
+    <w ref="11.166" lemma="aliquis" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Masc">aliquem</w>
+    <w ref="11.166" lemma="praesens" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com">praesentibus</w>
+    <w ref="11.166" lemma="ipse" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">ipsis</w>
+    <w ref="11.166" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.167" lemma="irritamentum" pos="NOMcom" msd="Case=Nom|Numb=Sing">inritamentum</w>
+    <w ref="11.167" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">veneris</w>
+    <w ref="11.167" lemma="languens" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem">languentis</w>
+    <w ref="11.167" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="11.167" lemma="acer2" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">acres</w>
+    <w ref="11.168" lemma="diues" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Com|Deg=Pos">divitis</w>
+    <w ref="11.168" lemma="urtica" pos="NOMcom" msd="Case=Gen|Numb=Sing">urticae</w>
+    <w ref="11.168" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="11.168" lemma="magnus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">maior</w>
+    <w ref="11.168" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="11.168" lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ista</w>
+    <w ref="11.168" lemma="uoluptas" pos="NOMcom" msd="Case=Nom|Numb=Sing">voluptas</w>
+    <w ref="11.169" lemma="alter" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">alterius</w>
+    <w ref="11.169" lemma="sexus" pos="NOMcom" msd="Case=Nom|Numb=Sing">sexus</w>
+    <w ref="11.169" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="11.169" lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
+    <w ref="11.169" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="11.169" lemma="extendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">extenditur</w>
+    <w ref="11.169" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.169" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="11.169" lemma="mox" pos="ADV" msd="Deg=Pos">mox</w>
+    <w ref="11.170" lemma="auris" pos="NOMcom" msd="Case=Abl|Numb=Plur">auribus</w>
+    <w ref="11.170" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="11.170" lemma="oculus" pos="NOMcom" msd="Case=Abl|Numb=Plur">oculis</w>
+    <w ref="11.170" lemma="concipio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">concepta</w>
+    <w ana="#metaphore #acte #humiliant #urine #ejaculation" ref="11.170" lemma="urina" pos="NOMcom" msd="Case=Nom|Numb=Sing">urina</w>
+    <w ref="11.170" lemma="moueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">movetur</w>
+    <w ref="11.170" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:151" ana="#metaphore #agriculture #creuser #acte">
+  <bibl><author>Juvenal</author>, <title>Satires</title>, <biblScope>9.45-9.49</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:9.45-9.49" type="line">
+    <w ref="9.45" lemma="seruus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">servus</w>
+    <w ref="9.45" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
+    <w ref="9.45" lemma="parum2" pos="ADV" msd="Deg=Comp">minus</w>
+    <w ref="9.45" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="9.45" lemma="miser" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">miser</w>
+    <w ref="9.45" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ana="#metaphore #agriculture #creuser #acte" ref="9.45" lemma="fodio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">foderit</w>
+    <w ref="9.45" lemma="ager" pos="NOMcom" msd="Case=Acc|Numb=Sing">agrum</w>
+    <w ref="9.45" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.46" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="9.46" lemma="dominus" pos="NOMcom" msd="Case=Acc|Numb=Sing">dominum</w>
+  </quote>
+</div>

@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:158" ana="#metaphore #acte #lutter #sebattre">
+  <bibl><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblScope>2.1.44-2.1.47</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.1.44-2.1.47" type="line">
+    <w ref="2.1.46" lemma="nos" pos="PROper" msd="Case=Nom|Numb=Plur">nos</w>
+    <w ref="2.1.46" lemma="contra2" pos="PRE" msd="Deg=Pos">contra</w>
+    <w ref="2.1.46" lemma="angustus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">angusto</w>
+    <w ref="2.1.46" lemma="uerso" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">versantes</w>
+    <w ana="#metaphore #acte #lutter #sebattre" ref="2.1.46" lemma="proelium" pos="NOMcom" msd="Case=Acc|Numb=Plur">proelia</w>
+    <w ref="2.1.46" lemma="lectus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">lecto</w>
+    <w ref="2.1.46" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.1.47" lemma="quis1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
+    <w ref="2.1.47" lemma="potis" pos="ADJqua" msd="Deg=Pos">pote</w>
+    <w ref="2.1.47" lemma="quisque2" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">quisque</w>
+    <w ref="2.1.47" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.1.47" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.1.47" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">ea</w>
+    <w ref="2.1.47" lemma="contero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">conterat</w>
+    <w ref="2.1.47" lemma="ars" pos="NOMcom" msd="Case=Abl|Numb=Sing">arte</w>
+    <w ref="2.1.47" lemma="dies" pos="NOMcom" msd="Case=Acc|Numb=Sing">diem</w>
+    <w ref="2.1.47" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,33 @@
+<div type="fragment" corresp="adams:163" ana="#metaphore #acte #devoir #service">
+  <bibl><author>Titus Livius (Livy)</author>, <title>The History of Rome</title>, <biblscope>39.42.9-39.42.9</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0914.phi001.perseus-lat2:39.42.9-39.42.9" type="section">
+    <w ref="39.42.9" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eum</w>
+    <w ref="39.42.9" lemma="puer" pos="NOMcom" msd="Case=Acc|Numb=Sing">puerum</w>
+    <w ref="39.42.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="39.42.9" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="39.42.9" lemma="lasciuia" pos="NOMcom" msd="Case=Acc|Numb=Sing">lasciviam</w>
+    <w ref="39.42.9" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="39.42.9" lemma="cauillor" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">cavillaretur</w>
+    <w ref="39.42.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="39.42.9" lemma="exprobro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">exprobrare</w>
+    <w ref="39.42.9" lemma="consul" pos="NOMcom" msd="Case=Dat|Numb=Sing">consuli</w>
+    <w ref="39.42.9" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
+    <w ref="39.42.9" lemma="soleo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=SemDep">solitum</w>
+    <w ref="39.42.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="39.42.9" lemma="qui1" pos="CONsub" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="39.42.9" lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+    <w ref="39.42.9" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=MascNeut">ipsum</w>
+    <w ref="39.42.9" lemma="spectaculum" pos="NOMcom" msd="Case=Nom|Numb=Sing">spectaculum</w>
+    <w ref="39.42.9" lemma="gladiatorius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">gladiatorium</w>
+    <w ref="39.42.9" lemma="abduco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">abductus</w>
+    <w ref="39.42.9" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="39.42.9" lemma="roma" pos="NOMcom" msd="Case=Abl|Numb=Sing">Roma</w>
+    <w ref="39.42.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">esset</w>
+    <w ref="39.42.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="39.42.9" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ana="#metaphore #acte #devoir #service" ref="39.42.9" lemma="obsequium" pos="NOMcom" msd="Case=Acc|Numb=Sing">obsequium</w>
+    <w ref="39.42.9" lemma="amator" pos="NOMcom" msd="Case=Dat|Numb=Sing">amatori</w>
+    <w ref="39.42.9" lemma="uendito" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">venditaret</w>
+    <w ref="39.42.9" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

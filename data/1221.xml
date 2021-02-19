@@ -1,0 +1,40 @@
+<div type="fragment" corresp="adams:147" ana="#metaphore #acte #frapper">
+  <bibl><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblScope>9-9</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:9-9" type="section">
+    <w ref="9" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ref="9" lemma="taceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">taces</w>
+    <w ref="9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9" lemma="nocturno" pos="VER" msd="MORPH=empty">nocturne</w>
+    <w ana="#metaphore #acte #frapper" ref="9" lemma="percussor" pos="NOMcom" msd="Case=Nom|Numb=Sing">percussor</w>
+    <w ref="9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="9" lemma="ne3" pos="ADVneg" msd="MORPH=empty">ne</w>
+    <w ref="9" lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>
+    <w ref="9" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ref="9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="9" lemma="fortiter" pos="ADV" msd="Deg=Pos">fortiter</w>
+    <w ref="9" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2">faceres</w>
+    <w ref="9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="9" lemma="purus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">pura</w>
+    <w ref="9" lemma="mulier" pos="NOMcom" msd="Case=Abl|Numb=Sing">muliere</w>
+    <w ref="9" lemma="pugno" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">pugnasti</w>
+    <w ref="9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
+    <w ref="9" lemma="idem" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">eadem</w>
+    <w ref="9" lemma="ratio" pos="NOMcom" msd="Case=Abl|Numb=Sing">ratione</w>
+    <w ref="9" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="9" lemma="uiridarius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">viridario</w>
+    <w ref="9" lemma="frater" pos="NOMcom" msd="Case=Nom|Numb=Sing">frater</w>
+    <w ref="9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">fui</w>
+    <w ref="9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
+    <w ref="9" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="9" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="9" lemma="deuersorium" pos="NOMcom" msd="Case=Abl|Numb=Sing">deversorio</w>
+    <w ref="9" lemma="puer" pos="NOMcom" msd="Case=Nom|Numb=Sing">puer</w>
+    <w ref="9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="9" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

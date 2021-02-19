@@ -1,0 +1,10 @@
+<div type="fragment" corresp="adams:150" ana="#metaphore #couper #tailler #desir">
+  <bibl><author>Horace</author>, <title>Satires</title>, <biblScope>1.2.118-1.2.118</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.118-1.2.118" type="line">
+    <w ref="1.2.118" lemma="malum3" pos="ADJqua" msd="Case=Abl|Numb=Plur|Deg=Pos">malis</w>
+    <w ref="1.2.118" lemma="tentigo" pos="NOMcom" msd="Case=Abl|Numb=Sing">tentigine</w>
+    <w ref="1.2.118" lemma="ne2" pos="ADV" msd="MORPH=empty">{tentigine}</w>
+    <w ana="#metaphore #couper #tailler #desir" ref="1.2.118" lemma="rumpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">rumpi</w>
+    <w ref="1.2.118" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

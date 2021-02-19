@@ -1,0 +1,8 @@
+<div type="fragment" corresp="adams:154" ana="#metaphore #acte #agriculture #semer">
+  <bibl><author>Lucretius</author>, <title>De Rerum Natura</title>, <biblScope>4.1105-4.1111</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:4.1105-4.1111" type="line">
+    <w ref="4.1107" lemma="muliebris" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">muliebria</w>
+    <w ana="#metaphore #acte #agriculture #semer" ref="4.1107" lemma="consero2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">conserat</w>
+    <w ref="4.1107" lemma="aruum" pos="NOMcom" msd="Case=Acc|Numb=Plur">arva</w>
+  </quote>
+</div>

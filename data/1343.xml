@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:161" ana="#metaphore #acte #epouser #noces">
+  <bibl><author>Arnobius of Sicca</author>, <title>Arnobii adversus nationes Libri VII</title>, <biblScope>3.8-3.8</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:3.8-3.8" type="section">
+    <w ref="3.8" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ref="3.8" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="3.8" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="3.8" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coitus</w>
+    <w ref="3.8" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#metaphore #acte #epouser #noces" ref="3.8" lemma="connubium" pos="NOMcom" msd="Case=Acc|Numb=Plur">conubia</w>
+    <w ref="3.8" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Plur">corporum</w>
+    <w ref="3.8" lemma="res" pos="NOMcom" msd="Case=Nom|Numb=Plur">res</w>
+    <w ref="3.8" lemma="caducus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">caduca</w>
+    <w ref="3.8" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.8" lemma="labilis" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascFem|Deg=Pos">labilis</w>
+    <w ref="3.8" lemma="successio" pos="NOMcom" msd="Case=Gen|Numb=Sing">successionis</w>
+    <w ref="3.8" lemma="perpetuus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">perpetuae</w>
+    <w ref="3.8" lemma="innouatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">innouatione</w>
+    <w ref="3.8" lemma="duro" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">duraret</w>
+    <w ref="3.8" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

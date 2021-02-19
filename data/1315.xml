@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:158" ana="#metaphore #acte #lutter #sebattre">
+  <bibl><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblScope>2.15.3-2.15.4</biblScope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.15.3-2.15.4" type="line">
+    <w ref="2.15.3" lemma="quam2" pos="ADVint" msd="MORPH=empty">quam</w>
+    <w ref="2.15.3" lemma="multus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">multa</w>
+    <w ref="2.15.3" lemma="appono" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">apposita</w>
+    <w ref="2.15.3" lemma="narro" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">narramus</w>
+    <w ref="2.15.3" lemma="uerbum" pos="NOMcom" msd="Case=Acc|Numb=Plur">verba</w>
+    <w ref="2.15.3" lemma="lucerna" pos="NOMcom" msd="Case=Nom|Numb=Sing">lucerna</w>
+    <w ref="2.15.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.15.4" lemma="quantus" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quantaque</w>
+    <w ref="2.15.4" lemma="que" pos="CON" msd="MORPH=empty">{quantaque}</w>
+    <w ref="2.15.4" lemma="tollo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">sublato</w>
+    <w ref="2.15.4" lemma="lumen" pos="NOMcom" msd="Case=Abl|Numb=Sing">lumine</w>
+    <w ana="#metaphore #acte #lutter #sebattre" ref="2.15.4" lemma="rixa" pos="NOMcom" msd="Case=Nom|Numb=Sing">rixa</w>
+    <w ref="2.15.4" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="2.15.4" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>
