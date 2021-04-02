@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec #nu">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.104.7-11.104.8</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.104.7-11.104.8" type="line">
+    <w ref="11.104.8" lemma="at2" pos="CONcoo" msd="MORPH=empty">At</w>
+    <w ref="11.104.8" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="11.104.8" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">nulla</w>
+    <w ref="11.104.8" lemma="satis2" pos="ADV" msd="Deg=Pos">satis</w>
+    <w ref="11.104.8" lemma="nudus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">nuda</w>
+    <w ref="11.104.8" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
+    <w ana="#acte #metonymie #dormir_avec #nu" ref="11.104.8" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iacet</w>
+    <w ref="11.104.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

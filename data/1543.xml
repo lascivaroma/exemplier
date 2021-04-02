@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Cistellaria</title>, <biblscope>372a-372a</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi007.perseus-lat2:372a-372a" type="line">
+    <w ref="372a" lemma="pol" pos="INJ" msd="MORPH=empty">Pol</w>
+    <w ref="372a" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="372a" lemma="cubo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">cubituram</w>
+    <w ref="372a" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="372a" lemma="mater" pos="NOMcom" msd="Case=Voc|Numb=Sing">mater</w>
+    <w ref="372a" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="372a" lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
+    <w ref="372a" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">sum</w>
+    <w ref="372a" lemma="exerceo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">exercita</w>
+    <w ref="372a" lemma="fere" pos="ADV" msd="Deg=Pos">fere</w>
+    <w ref="372a" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="372a" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="372a" lemma="cursura" pos="VER" msd="Case=Acc|Numb=Sing">cursuram</w>
+    <w ref="372a" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

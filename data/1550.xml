@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:178" ana="#acte #metonymie #rester_avec #prostitution">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>1.10.29-1.10.32</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VIII.283.11ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.29-1.10.32" type="line">
+    <w ref="1.10.29" lemma="solus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">Sola</w>
+    <w ref="1.10.29" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Sing">viro</w>
+    <w ref="1.10.29" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>
+    <w ref="1.10.29" lemma="spolium" pos="NOMcom" msd="Case=Abl|Numb=Plur">spoliis</w>
+    <w ref="1.10.29" lemma="exsulto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">exultat</w>
+    <w ref="1.10.29" lemma="adimo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">ademptis</w>
+    <w ref="1.10.29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.10.30" lemma="solus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">Sola</w>
+    <w  ana="#acte #metonymie #rester_avec #prostitution #composite" ref="1.10.30" lemma="loco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">locat</w>
+    <w ana="#acte #metonymie #rester_avec #prostitution" ref="1.10.30" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Plur">noctes</w>
+    <w ref="1.10.30" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.10.30" lemma="solus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">sola</w>
+    <w ref="1.10.30" lemma="liceor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">licenda</w>
+    <w ref="1.10.30" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">venit</w>
+  </quote>
+</div>

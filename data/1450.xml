@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aller_en_vue_de">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>2.4.6-2.4.6</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.2.639.32ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:2.4.6-2.4.6" type="section">
+    <w ref="2.4.6" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="2.4.6" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
+    <w ana="#acte #metonymie #aller_en_vue_de" ref="2.4.6" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">iuit</w>
+    <w ref="2.4.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.4.6" lemma="mitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">misit</w>
+    <w ref="2.4.6" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.4.6" lemma="domus" pos="NOMcom" msd="Case=Acc|Numb=Sing">domum</w>
+    <w ref="2.4.6" lemma="noster" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">nostram</w>
+    <w ref="2.4.6" lemma="publicus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">publicum</w>
+    <w ref="2.4.6" lemma="puer" pos="NOMcom" msd="Case=Acc|Numb=Sing">puerum</w>
+    <w ref="2.4.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

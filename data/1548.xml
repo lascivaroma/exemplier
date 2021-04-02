@@ -1,0 +1,22 @@
+<div  type="fragment" corresp="adams:178" ana="#acte #metonymie #rester_avec #prostitution">
+  <bibl ref="#adams"><author>Corpus Tibullianum</author>, <title>Elegiae</title>, <biblscope>2.6.45-2.6.50</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VIII.283.11ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0660.phi001.perseus-lat2:2.6.45-2.6.50" type="line">
+    <w ref="2.6.49" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
+    <w ref="2.6.49" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.6.49" lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
+    <w ana="#acte #metonymie #rester_avec #prostitution #composite" ref="2.6.49" lemma="nox" pos="NOMcom" msd="Case=Nom|Numb=Sing">nox</w>
+    <w ref="2.6.49" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ana="#acte #metonymie #rester_avec #prostitution #composite" ref="2.6.49" lemma="promitto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">promissa</w>
+    <w ref="2.6.49" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="2.6.49" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.6.49" lemma="langueo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">languere</w>
+    <w ref="2.6.49" lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Sing">puellam</w>
+    <w ref="2.6.50" lemma="nuntio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">nuntiat</w>
+    <w ref="2.6.50" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="2.6.50" lemma="aliquis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Fem">aliquas</w>
+    <w ref="2.6.50" lemma="extimesco" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">extimuisse</w>
+    <w ref="2.6.50" lemma="minae" pos="NOMcom" msd="Case=Acc|Numb=Plur">minas</w>
+    <w ref="2.6.50" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

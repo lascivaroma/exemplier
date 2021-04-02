@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #etreavec">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Bacchides</title>, <biblscope>890-891</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi004.perseus-lat2:890-891" type="line">
+    <w ref="890" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="890" lemma="dudum" pos="ADV" msd="Deg=Pos">dudum</w>
+    <w ref="890" lemma="hercules" pos="INJ" msd="MORPH=empty">hercle</w>
+    <w ref="890" lemma="equidem" pos="ADV" msd="Deg=Pos">equidem</w>
+    <w ref="890" lemma="sentio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">sentio</w>
+    <w ref="890" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="890" lemma="suspicio1" pos="NOMcom" msd="Case=Nom|Numb=Sing">suspicio</w>
+    <w ref="891" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="891" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="891" lemma="sollicito" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sollicitet</w>
+    <w ref="891" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="891" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eum</w>
+    <w ana="#acte #metonymie #etreavec" ref="891" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ana="#acte #metonymie #etreavec" ref="891" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="891" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="891" lemma="mulier" pos="NOMcom" msd="Case=Abl|Numb=Sing">muliere</w>
+    <w ref="891" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

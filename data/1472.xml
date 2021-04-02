@@ -1,0 +1,25 @@
+<div  type="fragment" corresp="adams:177" ana="#acte #metonymie #etreavec">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>2.8.25-2.8.28</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.8.25-2.8.28" type="line">
+    <w ref="2.8.27" lemma="quoque" pos="ADV" msd="Deg=Pos">Quoque</w>
+    <w ref="2.8.27" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Sing">loco</w>
+    <w ref="2.8.27" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">tecum</w>
+    <w ana="#acte #metonymie #etreavec" ref="2.8.27" lemma="cum3" pos="CON" msd="MORPH=empty">{tecum}</w>
+    <w ana="#acte #metonymie #etreavec" ref="2.8.27" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=1">fuerim</w>
+    <w ref="2.8.27" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.8.27" lemma="quotiens" pos="ADVrel" msd="MORPH=empty">quotiensque</w>
+    <w ref="2.8.27" lemma="que" pos="CON" msd="MORPH=empty">{quotiensque}</w>
+    <w ref="2.8.27" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.8.27" lemma="cypassus" pos="NOMcom" msd="Case=Gen|Numb=Sing">Cypassi</w>
+    <w ref="2.8.27" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.8.28" lemma="narro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">Narrabo</w>
+    <w ref="2.8.28" lemma="domina" pos="NOMcom" msd="Case=Dat|Numb=Sing">dominae</w>
+    <w ref="2.8.28" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.8.28" lemma="quot" pos="PROint" msd="Case=Ind">quotque</w>
+    <w ref="2.8.28" lemma="que" pos="CON" msd="MORPH=empty">{quotque}</w>
+    <w ref="2.8.28" lemma="quis" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">quibusque</w>
+    <w ref="2.8.28" lemma="que" pos="CON" msd="MORPH=empty">{quibusque}</w>
+    <w ref="2.8.28" lemma="modus" pos="NOMcom" msd="Case=Abl|Numb=Plur">modis</w>
+    <w ref="2.8.28" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

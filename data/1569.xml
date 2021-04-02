@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblscope>7.2-7.2</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.1418.7ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:7.2-7.2" type="chapter">
+    <w ref="7.2" lemma="supra2" pos="PRE" msd="MORPH=empty">Supra</w>
+    <w ref="7.2" lemma="nasamona" pos="NOMcom" msd="Case=Acc|Numb=Plur">Nasamonas</w>
+    <w ref="7.2" lemma="confinis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem">confinesque</w>
+    <w ref="7.2" lemma="que" pos="CON" msd="MORPH=empty">{confinesque}</w>
+    <w ref="7.2" lemma="ille" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">illis</w>
+    <w ref="7.2" lemma="machlya" pos="NOMcom" msd="Case=Acc|Numb=Plur">Machlyas</w>
+    <w ref="7.2" lemma="androgynus" pos="NOMcom" msd="Case=Acc|Numb=Plur">androgynos</w>
+    <w ref="7.2" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="7.2" lemma="uterque" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">utriusque</w>
+    <w ref="7.2" lemma="natura" pos="NOMcom" msd="Case=Gen|Numb=Sing">naturae</w>
+    <w ref="7.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.2" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="7.2" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="7.2" lemma="uicis" pos="NOMcom" msd="Case=Abl|Numb=Plur">vicibus</w>
+    <w ana="#acte #metonymie #coeo" ref="7.2" lemma="coeo1" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">coeuntes</w>
+    <w ref="7.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.2" lemma="calliphanes" pos="NOMcom" msd="Case=Nom|Numb=Sing">Calliphanes</w>
+    <w ref="7.2" lemma="trado" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tradit</w>
+    <w ref="7.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

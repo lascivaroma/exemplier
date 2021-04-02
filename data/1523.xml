@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>3.8.12-3.8.12</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.12-3.8.12" type="line">
+    <w ref="3.8.12" lemma="hic1" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">Huius</w>
+    <w ref="3.8.12" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="3.8.12" lemma="amplexus" pos="NOMcom" msd="Case=Abl|Numb=Sing">amplexu</w>
+    <w ref="3.8.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.8.12" lemma="uita" pos="NOMcom" msd="Case=Abl|Numb=Sing">vita</w>
+    <w ref="3.8.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="3.8.12" lemma="iaceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">iacere</w>
+    <w ref="3.8.12" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">potes</w>
+    <w ref="3.8.12" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

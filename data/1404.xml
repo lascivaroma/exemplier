@@ -1,0 +1,12 @@
+<div type="fragment" corresp="adams:173" ana="#acte #metonymie #futuo #detendre">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>17.3-17.3</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:17.3-17.3" type="line">
+    <w ref="17.3" lemma="accedo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">accedat</w>
+    <w ref="17.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="17.3" lemma="sino" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="17.3" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ana="#acte #metonymie #futuo #detendre" ref="17.3" lemma="laxus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">laxior</w>
+    <w ref="17.3" lemma="redeo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">redibit</w>
+    <w ref="17.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

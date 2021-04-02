@@ -1,0 +1,21 @@
+<div  type="fragment" corresp="adams:173" ana="#acte #metonymie #duco #prostitution">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Poenulus</title>, <biblscope>266-270</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi015.perseus-lat2:266-270" type="line">
+    <w ref="269" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">quas</w>
+    <w ref="269" lemma="adeo2" pos="ADV" msd="Deg=Pos">adeo</w>
+    <w ref="269" lemma="haud" pos="ADVneg" msd="MORPH=empty">hau</w>
+    <w ref="269" lemma="quisquam" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">quisquam</w>
+    <w ref="269" lemma="umquam" pos="ADV" msd="Deg=Pos">umquam</w>
+    <w ref="269" lemma="liber2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">liber</w>
+    <w ref="269" lemma="tango" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tetigit</w>
+    <w ref="269" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="269" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">duxit</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="269" lemma="domus" pos="NOMcom" msd="Case=Acc|Numb=Sing">domum</w>
+    <w ref="269" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="270" lemma="seruulus" pos="NOMcom" msd="Case=Gen|Numb=Plur">servolorum</w>
+    <w ref="270" lemma="sordidulus" pos="NOMcom" msd="Case=Gen|Numb=Plur|Gend=MascNeut">sordidulorum</w>
+    <w ref="270" lemma="scortum" pos="NOMcom" msd="Case=Acc|Numb=Plur">scorta</w>
+    <w ref="270" lemma="diobolarius" pos="NOMcom" msd="Case=Acc|Numb=Plur">diobolaria</w>
+    <w ref="270" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

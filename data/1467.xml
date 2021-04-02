@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #etreavec">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Amphitruo</title>, <biblscope>818-818</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi001.perseus-lat2:818-818" type="line">
+    <w ref="818" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">Tun</w>
+    <w ref="818" lemma="ne2" pos="ADV" msd="MORPH=empty">{Tun}</w>
+    <w ref="818" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">mecum</w>
+    <w ana="#acte #metonymie #etreavec" ref="818" lemma="cum3" pos="CON" msd="MORPH=empty">{mecum}</w>
+    <w ana="#acte #metonymie #etreavec" ref="818" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">fueris</w>
+    <w ref="818" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

@@ -1,0 +1,31 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aller_en_vue_de">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Truculentus</title>, <biblscope>616-617</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi020.perseus-lat2:616-617" type="line">
+    <w ref="616" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="616" lemma="aequus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">aequóm</w>
+    <w ref="616" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">facias</w>
+    <w ref="616" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #aller_en_vue_de" ref="616" lemma="aduentores" pos="NOMcom" msd="Case=Acc|Numb=Plur">advéntores</w>
+    <w ref="616" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Masc">meos</w>
+    <w ref="616" lemma="non" pos="ADVneg" msd="MORPH=empty">nón</w>
+    <w ref="616" lemma="incuso" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">incuses</w>
+    <w ref="616" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="616" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Plur|Gend=MascNeut">quórum</w>
+    <w ref="617" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="617" lemma="donum" pos="NOMcom" msd="Case=Acc|Numb=Plur">dóna</w>
+    <w ref="617" lemma="accipio" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">accepta</w>
+    <w ref="617" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="617" lemma="gratus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">gráta</w>
+    <w ref="617" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">habeo</w>
+    <w ref="617" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="617" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Neut">tuaque</w>
+    <w ref="617" lemma="que" pos="CON" msd="MORPH=empty">{tuaque}</w>
+    <w ref="617" lemma="ingratus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">íngrata</w>
+    <w ref="617" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="617" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="617" lemma="ab" pos="PRE" msd="MORPH=empty">abs</w>
+    <w ref="617" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">te</w>
+    <w ref="617" lemma="accipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">áccepi</w>
+    <w ref="617" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

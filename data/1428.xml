@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aggression">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>7.8.2-7.8.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:7.8.2-7.8.2" type="section">
+    <w ref="7.8.2" lemma="porcus" pos="NOMcom" msd="Case=Gen|Numb=Sing">PORCI</w>
+    <w ref="7.8.2" lemma="latro1" pos="NOMcom" msd="Case=Gen|Numb=Sing">LATRONIS.</w>
+    <w ref="7.8.2" lemma="periculosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp">Periculosius</w>
+    <w ref="7.8.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.8.2" lemma="nego" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">negare</w>
+    <w ana="#acte #metonymie #aggression" ref="7.8.2" lemma="rapio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">raptum</w>
+    <w ref="7.8.2" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="7.8.2" lemma="committo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">commisisse</w>
+    <w ref="7.8.2" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

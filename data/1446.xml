@@ -1,0 +1,31 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aller_en_vue_de">
+  <bibl ref="#adams"><author>Tacitus, Cornelius</author>, <title>Annales</title>, <biblscope>13.46-13.46</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1351.phi005.lascivaroma-lat1:13.46-13.46" type="chapter">
+    <w ref="13.46" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
+    <w ref="13.46" lemma="audio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">auditus</w>
+    <w ref="13.46" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="13.46" lemma="consurgo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">consurgens</w>
+    <w ref="13.46" lemma="ex" pos="PRE" msd="MORPH=empty">e</w>
+    <w ref="13.46" lemma="conuiuium" pos="NOMcom" msd="Case=Abl|Numb=Sing">convivio</w>
+    <w ref="13.46" lemma="caesar" pos="NOMcom" msd="Case=Gen|Numb=Sing">Caesaris</w>
+    <w ref="13.46" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="13.46" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="13.46" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ana="#acte #metonymie #aller_en_vue_de" ref="13.46" lemma="eo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ire</w>
+    <w ref="13.46" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="13.46" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
+    <w ref="13.46" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="13.46" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="13.46" lemma="concedo1" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">concessam</w>
+    <w ref="13.46" lemma="dictito" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">dictitans</w>
+    <w ref="13.46" lemma="nobilitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">nobilitatem</w>
+    <w ref="13.46" lemma="pulchritudo" pos="NOMcom" msd="Case=Acc|Numb=Sing">pulchritudinem</w>
+    <w ref="13.46" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="13.46" lemma="uotum" pos="NOMcom" msd="Case=Acc|Numb=Plur">vota</w>
+    <w ref="13.46" lemma="omnis" pos="PROind" msd="Case=Gen|Numb=Plur|Gend=Com">omnium</w>
+    <w ref="13.46" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="13.46" lemma="gaudium" pos="NOMcom" msd="Case=Acc|Numb=Plur">gaudia</w>
+    <w ref="13.46" lemma="felix" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos">felicium</w>
+    <w ref="13.46" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

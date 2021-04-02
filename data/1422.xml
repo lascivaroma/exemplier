@@ -1,0 +1,31 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #duco #prostitution">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Poenulus</title>, <biblscope>867-868</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi015.perseus-lat2:867-868" type="line">
+    <w ref="867" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="867" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="867" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="867" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="867" lemma="male" pos="ADV" msd="Deg=Pos">male</w>
+    <w ref="867" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="867" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="867" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="867" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">quoi</w>
+    <w ref="867" lemma="domus" pos="NOMcom" msd="Case=Loc|Numb=Sing">domi</w>
+    <w ref="867" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="867" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="867" lemma="edo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">edis</w>
+    <w ref="867" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="867" lemma="amo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">ames</w>
+    <w ref="867" lemma="affatim" pos="ADV" msd="Deg=Pos">adfatim</w>
+    <w ref="867" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="868" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="868" lemma="triobolus" pos="NOMcom" msd="Case=Acc|Numb=Sing">triobolum</w>
+    <w ref="868" lemma="ullus" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascNeut">ullum</w>
+    <w ref="868" lemma="amica" pos="NOMcom" msd="Case=Gen|Numb=Sing">amicae</w>
+    <w ref="868" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">das</w>
+    <w ref="868" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="868" lemma="duco" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">ductas</w>
+    <w ref="868" lemma="gratis" pos="ADV" msd="Deg=Pos">gratiis</w>
+    <w ref="868" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

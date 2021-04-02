@@ -1,0 +1,25 @@
+<div  type="fragment" corresp="adams:178" ana="#acte #metonymie #rester_avec">
+  <bibl ref="#adams"><author>Cyprian Saint, Bishop of Carthage</author>, <title>Epistulae</title>, <biblscope>4.4-4.4</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VIII.283.11ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0104a.stoa012.opp-lat1:4.4-4.4" type="section">
+    <w ref="4.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="4.4" lemma="idcirco" pos="ADV" msd="Deg=Pos">idcirco</w>
+    <w ref="4.4" lemma="consulte" pos="ADV" msd="MORPH=empty">consulte</w>
+    <w ref="4.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="4.4" lemma="cum2" pos="PRE" msd="MORPH=empty">çum</w>
+    <w ref="4.4" lemma="uigor" pos="NOMcom" msd="Case=Abl|Numb=Sing">uigore</w>
+    <w ref="4.4" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">fecisti</w>
+    <w ref="4.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.4" lemma="frater" pos="NOMcom" msd="Case=Nom|Numb=Sing">frater</w>
+    <w ref="4.4" lemma="carus" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=Masc|Deg=Sup">carissime</w>
+    <w ref="4.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.4" lemma="abstineo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Ger|Voice=Act">abstinendo</w>
+    <w ref="4.4" lemma="diacon" pos="NOMcom" msd="Case=Gen|Numb=Plur">diaconum</w>
+    <w ref="4.4" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="4.4" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="4.4" lemma="uirgo" pos="NOMcom" msd="Case=Abl|Numb=Sing">uirgine</w>
+    <w ref="4.4" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
+    <w ana="#acte #metonymie #rester_avec" ref="4.4" lemma="maneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">mansit</w>
+    <w ref="4.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

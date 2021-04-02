@@ -1,0 +1,43 @@
+<div type="fragment" corresp="adams:173" ana="#acte #metonymie #futuo #detendre">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>45.7-46.6</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:45.7-46.6" type="line">
+    <w ref="45.7" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="46.1" lemma="o" pos="INJ" msd="MORPH=empty">O</w>
+    <w ref="46.1" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="46.1" lemma="candidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">candidior</w>
+    <w ref="46.1" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
+    <w ref="46.1" lemma="maurus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">Mauro</w>
+    <w ref="46.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="46.2" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="46.2" lemma="morbosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">morbosior</w>
+    <w ref="46.2" lemma="omnis" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">omnibus</w>
+    <w ref="46.2" lemma="cinaedus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">cinaedis</w>
+    <w ref="46.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="46.3" lemma="pygmaeus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">Pygmaeo</w>
+    <w ref="46.3" lemma="breuis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">breuior</w>
+    <w ref="46.3" lemma="grus" pos="NOMcom" msd="Case=Acc|Numb=Sing">gruem</w>
+    <w ref="46.3" lemma="timeo" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">timenti</w>
+    <w ref="46.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="46.4" lemma="ursus" pos="NOMcom" msd="Case=Abl|Numb=Plur">ursis</w>
+    <w ref="46.4" lemma="asper" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">asperior</w>
+    <w ref="46.4" lemma="pilosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">pilosiorque</w>
+    <w ref="46.4" lemma="que" pos="CON" msd="MORPH=empty">{pilosiorque}</w>
+    <w ref="46.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="46.5" lemma="medus" pos="NOMcom" msd="Case=Abl|Numb=Plur">Medis</w>
+    <w ana="#acte #metonymie #futuo #detendre" ref="46.5" lemma="laxus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">laxior</w>
+    <w ref="46.5" lemma="indico" pos="ADJqua" msd="Case=Abl|Numb=Sing">Indicisue</w>
+    <w ref="46.5" lemma="ue" pos="CON" msd="MORPH=empty">{Indicisue}</w>
+    <w ref="46.5" lemma="braca" pos="NOMcom" msd="Case=Abl|Numb=Plur">bracis</w>
+    <w ref="46.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="46.6" lemma="mando2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">mandes</w>
+    <w ref="46.6" lemma="hic1" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">huic</w>
+    <w ref="46.6" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">licet</w>
+    <w ref="46.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="46.6" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="46.6" lemma="libet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">libet</w>
+    <w ref="46.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="46.6" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="46.6" lemma="ineo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">inire</w>
+    <w ref="46.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,9 @@
+<div  type="fragment" corresp="adams:175" ana="#acte #metonymie #aller_en_vue_de">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>12.75.1-12.75.5</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.75.1-12.75.5" type="line">
+    <w ana="#acte #metonymie #aller_en_vue_de" ref="12.75.1" lemma="festino" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Festinat</w>
+    <w ref="12.75.1" lemma="polytimus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc">Polytimus</w>
+    <w ref="12.75.1" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="12.75.1" lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Plur">puellas</w>
+  </quote>
+</div>

@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Lucretius</author>, <title>De Rerum Natura</title>, <biblscope>4.1052-4.1057</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:4.1052-4.1057" type="line">
+    <w ref="4.1055" lemma="eo3" pos="ADV" msd="Case=Abl|Numb=Sing|Deg=Pos">eo</w>
+    <w ref="4.1055" lemma="tendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tendit</w>
+    <w ref="4.1055" lemma="gestio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">gestitque</w>
+    <w ref="4.1055" lemma="que" pos="CON" msd="MORPH=empty">{gestitque}</w>
+    <w ana="#acte #metonymie #coeo" ref="4.1055" lemma="coeo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">coire</w>
+    <w ref="4.1056" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="4.1056" lemma="iaceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">iacere</w>
+    <w ref="4.1056" lemma="humor" pos="NOMcom" msd="Case=Acc|Numb=Sing">umorem</w>
+    <w ref="4.1056" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="4.1056" lemma="corpus" pos="NOMcom" msd="Case=Acc|Numb=Sing">corpus</w>
+    <w ref="4.1056" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="4.1056" lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
+    <w ref="4.1056" lemma="duco" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">ductum</w>
+  </quote>
+</div>

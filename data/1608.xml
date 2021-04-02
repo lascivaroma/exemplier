@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Suetonius ca. 69-ca. 122</author>, <title>De Poetis</title>, <biblscope>horatius-horatius</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.phi002.thayer-lat1:horatius-horatius" type="chapter">
+    <w ref="horatius" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="horatius" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="horatius" lemma="quocumque1" pos="ADVrel" msd="MORPH=empty">quocumque</w>
+    <w ref="horatius" lemma="respicio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">respexisset</w>
+    <w ref="horatius" lemma="ibi" pos="ADV" msd="Deg=Pos">ibi</w>
+    <w ref="horatius" lemma="is" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">ei</w>
+    <w ref="horatius" lemma="imago" pos="NOMcom" msd="Case=Nom|Numb=Sing">imago</w>
+    <w ana="#acte #metonymie #coeo" ref="horatius" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Sing">coitus</w>
+    <w ref="horatius" lemma="refero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">referretur</w>
+    <w ref="horatius" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

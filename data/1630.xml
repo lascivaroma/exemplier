@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Vulgate</author>, <title>Leviticus</title>, <biblscope>18.20-18.24</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg003.obi-lat1:18.20-18.24" type="verse">
+    <w ref="18.22" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="18.22" lemma="masculus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">masculo</w>
+    <w ref="18.22" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="18.22" lemma="commisceo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2">commisceberis</w>
+    <w ana="#acte #metonymie #coeo" ref="18.22" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
+    <w ref="18.22" lemma="femineus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">femineo</w>
+    <w ref="18.22" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+    <w ref="18.22" lemma="abominatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">abominatio</w>
+    <w ref="18.22" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+  </quote>
+</div>

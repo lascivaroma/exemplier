@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #duco #prostitution">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Self-Tormenter</title>, <biblscope>1042-1042</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi002.perseus-lat2:1042-1042" type="line">
+    <w ref="1042" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ref="1042" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="1042" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="1042" lemma="fallacia" pos="NOMcom" msd="Case=Acc|Numb=Plur">fallacias</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="1042" lemma="adduco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">adducere</w>
+    <w ref="1042" lemma="ante2" pos="PRE" msd="MORPH=empty">ante</w>
+    <w ref="1042" lemma="oculus" pos="NOMcom" msd="Case=Acc|Numb=Plur">oculos</w>
+    <w ref="1042" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+    <w ref="1042" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

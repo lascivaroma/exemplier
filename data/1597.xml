@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblscope>7.6-7.6</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:7.6-7.6" type="chapter">
+    <w ref="7.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.6" lemma="sicut1" pos="ADVrel" msd="MORPH=empty">sicut</w>
+    <w ref="7.6" lemma="sternuo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">sternuisse</w>
+    <w ref="7.6" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ana="#acte #metonymie #coeo" ref="7.6" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
+    <w ref="7.6" lemma="abortiuus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">abortivum</w>
+    <w ref="7.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

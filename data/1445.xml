@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aller_en_vue_de">
+  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>113-113</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:113-113" type="section">
+    <w ref="113" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="113" lemma="uir" pos="NOMcom" msd="Case=Nom|Numb=Sing">vir</w>
+    <w ref="113" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">fueris</w>
+    <w ref="113" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="113" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ana="#acte #metonymie #aller_en_vue_de" ref="113" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">ibis</w>
+    <w ref="113" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="113" lemma="spintria" pos="NOMcom" msd="Case=Acc|Numb=Sing">spintriam</w>
+    <w ref="113" lemma="”" pos="PUNC" msd="MORPH=empty">”</w>
+    <w ref="113" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

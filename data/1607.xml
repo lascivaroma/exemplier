@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Suetonius ca. 69-ca. 122</author>, <title>Caligula</title>, <biblscope>25-25</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo014.perseus-lat2:25-25" type="chapter">
+    <w ref="25" lemma="breuis" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=Com|Deg=Pos">breuique</w>
+    <w ref="25" lemma="que" pos="CON" msd="MORPH=empty">{breuique}</w>
+    <w ref="25" lemma="mitto" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">missam</w>
+    <w ref="25" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fecit</w>
+    <w ref="25" lemma="interdictum" pos="NOMcom" msd="Case=Dat|Numb=Sing">interdicto</w>
+    <w ref="25" lemma="quisquam" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">cuiusquam</w>
+    <w ref="25" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="25" lemma="perpetuus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">perpetuum</w>
+    <w ana="#acte #metonymie #coeo" ref="25" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
+    <w ref="25" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

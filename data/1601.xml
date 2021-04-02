@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblscope>21.21-21.21</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:21.21-21.21" type="chapter">
+    <w ref="21.21" lemma="efficax" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Sup">efficacissimamque</w>
+    <w ref="21.21" lemma="que" pos="CON" msd="MORPH=empty">{efficacissimamque}</w>
+    <w ref="21.21" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="21.21" lemma="herba" pos="NOMcom" msd="Case=Acc|Numb=Sing">herbam</w>
+    <w ref="21.21" lemma="contra2" pos="PRE" msd="MORPH=empty">contra</w>
+    <w ref="21.21" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Neut">omnia</w>
+    <w ref="21.21" lemma="ueneficium" pos="NOMcom" msd="Case=Acc|Numb=Plur">veneficia</w>
+    <w ref="21.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="21.21" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Plur|Gend=Com">quibus</w>
+    <w ana="#acte #metonymie #coeo" ref="21.21" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Plur">coitus</w>
+    <w ref="21.21" lemma="inhibeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">inhibeatur</w>
+    <w ref="21.21" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

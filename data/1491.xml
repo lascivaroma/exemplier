@@ -1,0 +1,33 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #m2f #dormir_avec">
+  <bibl ref="#adams"><author>Vulgate</author>, <title>Genesis</title>, <biblscope>30.14-30.16</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.1.2030.1ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg001.obi-lat1:30.14-30.16" type="verse">
+    <w ref="30.15" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="30.15" lemma="respondeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">respondit</w>
+    <w ref="30.15" lemma="parum" pos="ADV" msd="Deg=Pos">parumne</w>
+    <w ref="30.15" lemma="ne2" pos="ADV" msd="MORPH=empty">{parumne}</w>
+    <w ref="30.15" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="30.15" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">videtur</w>
+    <w ref="30.15" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="30.15" lemma="praeripio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">praeripueris</w>
+    <w ref="30.15" lemma="maritus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">maritum</w>
+    <w ref="30.15" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="30.15" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ref="30.15" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="30.15" lemma="mandragora" pos="NOMcom" msd="Case=Acc|Numb=Plur">mandragoras</w>
+    <w ref="30.15" lemma="filius" pos="NOMcom" msd="Case=Gen|Numb=Sing">filii</w>
+    <w ref="30.15" lemma="meus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=MascNeut">mei</w>
+    <w ref="30.15" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2">tuleris</w>
+    <w ref="30.15" lemma="aio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ait</w>
+    <w ref="30.15" lemma="Raelus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Rahel</w>
+    <w ana="#acte #metonymie #m2f #dormir_avec" ref="30.15" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">dormiat</w>
+    <w ref="30.15" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">tecum</w>
+    <w ana="#acte #metonymie #m2f #dormir_avec" ref="30.15" lemma="cum3" pos="CON" msd="MORPH=empty">{tecum}</w>
+    <w ref="30.15" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">hac</w>
+    <w ref="30.15" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
+    <w ref="30.15" lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>
+    <w ref="30.15" lemma="mandragor" pos="NOMcom" msd="Case=Gen|Numb=Sing">mandragoris</w>
+    <w ref="30.15" lemma="filius" pos="NOMcom" msd="Case=Gen|Numb=Sing">filii</w>
+    <w ref="30.15" lemma="tuus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=MascNeut">tui</w>
+  </quote>
+</div>

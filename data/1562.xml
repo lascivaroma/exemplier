@@ -1,0 +1,17 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus</author>, <title>de consolatione ad Marciam</title>, <biblscope>17.5-17.5</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.1418.7ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0255.stoa007.perseus-lat2:17.5-17.5" type="section">
+    <w ref="17.5" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="17.5" lemma="foedus2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">foedos</w>
+    <w ref="17.5" lemma="regius" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">regiae</w>
+    <w ref="17.5" lemma="intemperantia" pos="NOMcom" msd="Case=Gen|Numb=Sing">intemperantiae</w>
+    <w ref="17.5" lemma="grex" pos="NOMcom" msd="Case=Acc|Numb=Plur">greges</w>
+    <w ref="17.5" lemma="parum1" pos="NOMcom" msd="Case=Nom|Deg=Pos">parum</w>
+    <w ref="17.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
+    <w ref="17.5" lemma="simul1" pos="ADV" msd="Deg=Pos">simul</w>
+    <w ref="17.5" lemma="binus" pos="ADJdis" msd="Case=Abl|Numb=Plur">binis</w>
+    <w ana="#acte #metonymie #coeo" ref="17.5" lemma="coeo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">coire</w>
+    <w ref="17.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Jerome Saint d. 419 or 20</author>, <title>Epistolae</title>, <biblscope>49.2.5-49.2.5</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0162.stoa004.opp-lat1:49.2.5-49.2.5" type="section">
+    <w ref="49.2.5" lemma="error" pos="NOMcom" msd="Case=Abl|Numb=Sing">errore</w>
+    <w ref="49.2.5" lemma="decipio" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">decepti</w>
+    <w ref="49.2.5" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascFem">omnem</w>
+    <w ana="#acte #metonymie #coeo" ref="49.2.5" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">coitum</w>
+    <w ref="49.2.5" lemma="spurcus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos">spurcum</w>
+    <w ref="49.2.5" lemma="puto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">putamus</w>
+    <w ref="49.2.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

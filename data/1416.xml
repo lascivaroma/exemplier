@@ -1,0 +1,13 @@
+<div type="fragment" corresp="adams:173" ana="#acte #metonymie #duco #prostitution">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Mostellaria</title>, <biblscope>36-36</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi013.perseus-lat2:36-36" type="line">
+    <w ref="36" lemma="libet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">lubet</w>
+    <w ref="36" lemma="poto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">potare</w>
+    <w ref="36" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="36" lemma="amo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">amare</w>
+    <w ref="36" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="36" lemma="scortum" pos="NOMcom" msd="Case=Acc|Numb=Plur">scorta</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="36" lemma="duco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ducere</w>
+    <w ref="36" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

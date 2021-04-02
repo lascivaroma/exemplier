@@ -1,0 +1,35 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Muscio</author>, <title>Gynaecia</title>, <biblscope>27-27</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0205b.stoa001.bolton-lat1:27-27" type="unknown">
+    <w ref="27" lemma="quotiens1" pos="ADVrel" msd="MORPH=empty">quotiens</w>
+    <w ref="27" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="27" lemma="finis" pos="NOMcom" msd="Case=Acc|Numb=Sing">finem</w>
+    <w ana="#acte #metonymie #coeo" ref="27" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Sing">coitus</w>
+    <w ref="27" lemma="orror" pos="NOMcom" msd="Case=Nom|Numb=Sing">orror</w>
+    <w ref="27" lemma="quidam" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">quidam</w>
+    <w ref="27" lemma="mulier" pos="NOMcom" msd="Case=Dat|Numb=Sing">mulieri</w>
+    <w ref="27" lemma="occurro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">occurrit</w>
+    <w ref="27" lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=MascNeut">ipsumque</w>
+    <w ref="27" lemma="que" pos="CON" msd="MORPH=empty">{ipsumque}</w>
+    <w ref="27" lemma="orificium" pos="NOMcom" msd="Case=Acc|Numb=Sing">orificium</w>
+    <w ref="27" lemma="uulue" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulve</w>
+    <w ref="27" lemma="conduco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">conduci</w>
+    <w ref="27" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="27" lemma="concludo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">concludi</w>
+    <w ref="27" lemma="sentio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">sentitur</w>
+    <w ref="27" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="27" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">nullaque</w>
+    <w ref="27" lemma="que" pos="CON" msd="MORPH=empty">{nullaque}</w>
+    <w ref="27" lemma="reliquiae" pos="NOMcom" msd="Case=Nom|Numb=Plur">reliquia</w>
+    <w ref="27" lemma="semen1" pos="NOMcom" msd="Case=Gen|Numb=Sing">seminis</w>
+    <w ref="27" lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Sing">sinum</w>
+    <w ref="27" lemma="mulier" pos="NOMcom" msd="Case=Gen|Numb=Sing">mulieris</w>
+    <w ref="27" lemma="humecto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">humectat</w>
+    <w ref="27" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="27" lemma="ualde" pos="ADV" msd="Deg=Pos">valde</w>
+    <w ref="27" lemma="modicus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">modicum</w>
+    <w ref="27" lemma="remaneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">remanet</w>
+    <w ref="27" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

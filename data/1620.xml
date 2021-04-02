@@ -1,0 +1,11 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Servius</author>, <title>In Vergilii carmina commentarii</title>, <biblscope>11.736-11.736</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi2349.phi005.perseus-lat1:11.736-11.736" type="comment">
+    <w ref="11.736" lemma="nocturnus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">nocturnaque</w>
+    <w ref="11.736" lemma="que" pos="CON" msd="MORPH=empty">{nocturnaque}</w>
+    <w ref="11.736" lemma="bellum" pos="NOMcom" msd="Case=Acc|Numb=Plur">bella</w>
+    <w ana="#acte #metonymie #coeo" ref="11.736" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">coitum</w>
+    <w ref="11.736" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+  </quote>
+</div>

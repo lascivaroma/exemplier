@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Curtius Rufus, Quintus</author>, <title>Historiarum Alexandri Magni</title>, <biblscope>5.1.37-5.1.37</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.1418.7ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0860.phi001.perseus-lat2:5.1.37-5.1.37" type="section">
+    <w ref="5.1.37" lemma="liberi" pos="NOMcom" msd="Case=Acc|Numb=Plur">Liberos</w>
+    <w ref="5.1.37" lemma="coniux" pos="NOMcom" msd="Case=Acc|Numb=Plur">coniugesque</w>
+    <w ref="5.1.37" lemma="que" pos="CON" msd="MORPH=empty">{coniugesque}</w>
+    <w ref="5.1.37" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="5.1.37" lemma="hospes" pos="NOMcom" msd="Case=Abl|Numb=Plur">hospitibus</w>
+    <w ref="5.1.37" lemma="stuprum" pos="NOMcom" msd="Case=Abl|Numb=Sing">stupro</w>
+    <w ana="#acte #metonymie #coeo" ref="5.1.37" lemma="coeo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">coire</w>
+  </quote>
+</div>

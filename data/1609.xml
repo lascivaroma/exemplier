@@ -1,0 +1,41 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Gaius</author>, <title>Institutiones</title>, <biblscope>1.64-1.64</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1251.phi001.corpuscorporum-lat1:1.64-1.64" type="section">
+    <w ref="1.64" lemma="ergo2" pos="CONcoo" msd="MORPH=empty">Ergo</w>
+    <w ref="1.64" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="1.64" lemma="quis2" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">quis</w>
+    <w ref="1.64" lemma="nefarius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">nefarias</w>
+    <w ref="1.64" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="1.64" lemma="incestus2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">incestas</w>
+    <w ref="1.64" lemma="nuptiae" pos="NOMcom" msd="Case=Acc|Numb=Plur">nuptias</w>
+    <w ref="1.64" lemma="contraho" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">contraxerit</w>
+    <w ref="1.64" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.64" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="1.64" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
+    <w ref="1.64" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
+    <w ref="1.64" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">videtur</w>
+    <w ref="1.64" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="1.64" lemma="liberi" pos="NOMcom" msd="Case=Acc|Numb=Plur">liberos</w>
+    <w ref="1.64" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="1.64" lemma="itaque" pos="CONcoo" msd="MORPH=empty">Itaque</w>
+    <w ref="1.64" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Masc">hi</w>
+    <w ref="1.64" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.64" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+    <w ref="1.64" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="1.64" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eo</w>
+    <w ana="#acte #metonymie #coeo" ref="1.64" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
+    <w ref="1.64" lemma="nascor" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">nascuntur</w>
+    <w ref="1.64" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.64" lemma="mater" pos="NOMcom" msd="Case=Acc|Numb=Sing">matrem</w>
+    <w ref="1.64" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ref="1.64" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
+    <w ref="1.64" lemma="uideo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">videntur</w>
+    <w ref="1.64" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.64" lemma="pater" pos="NOMcom" msd="Case=Acc|Numb=Sing">patrem</w>
+    <w ref="1.64" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
+    <w ref="1.64" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.64" lemma="utique" pos="ADV" msd="Deg=Pos">utique</w>
+    <w ref="1.64" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

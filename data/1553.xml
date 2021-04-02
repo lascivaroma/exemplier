@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:178" ana="#acte #metonymie #rester_avec #prostitution">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Truculentus</title>, <biblscope>276b-279</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VIII.283.11ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi020.perseus-lat2:276b-279" type="line">
+    <w ref="278" lemma="cum" pos="PRE" msd="MORPH=empty">cumque</w>
+    <w ref="278" lemma="que" pos="CON" msd="MORPH=empty">{cumque}</w>
+    <w ref="278" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">ea</w>
+    <w ana="#acte #metonymie #rester_avec #prostitution" ref="278" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Sing">noctem</w>
+    <w ref="278" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="278" lemma="stramentum" pos="NOMcom" msd="Case=Abl|Numb=Plur">stramentis</w>
+    <w ana="#acte #metonymie #rester_avec #prostitution #composite" ref="278" lemma="pernocto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">pernoctare</w>
+  </quote>
+</div>

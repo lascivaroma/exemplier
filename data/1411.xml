@@ -1,0 +1,26 @@
+<div type="fragment" corresp="adams:173" ana="#acte #metonymie #duco #prostitution">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Menaechmi</title>, <biblscope>123-124</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi010.perseus-lat2:123-124" type="line">
+    <w ref="123" lemma="atque1" pos="CONcoo" msd="MORPH=empty">átque</w>
+    <w ref="123" lemma="adeo2" pos="ADV" msd="Deg=Pos">adeo</w>
+    <w ref="123" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="123" lemma="ne3" pos="ADVneg" msd="MORPH=empty">ne</w>
+    <w ref="123" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="123" lemma="nequiquam" pos="ADV" msd="Deg=Pos">nequiquam</w>
+    <w ref="123" lemma="seruo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">serves</w>
+    <w ref="123" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="123" lemma="ob" pos="PRE" msd="MORPH=empty">ob</w>
+    <w ref="123" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
+    <w ref="123" lemma="industria" pos="NOMcom" msd="Case=Acc|Numb=Sing">industriam</w>
+    <w ref="124" lemma="hodie" pos="ADV" msd="Deg=Pos">hodie</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="124" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">ducam</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="124" lemma="scortum" pos="NOMcom" msd="Case=Acc|Numb=Sing">scortum</w>
+    <w ref="124" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="124" lemma="cena" pos="NOMcom" msd="Case=Acc|Numb=Sing">cenam</w>
+    <w ref="124" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="124" lemma="aliquis" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">aliquo</w>
+    <w ref="124" lemma="condicus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">condicam</w>
+    <w ref="124" lemma="foras" pos="ADV" msd="Deg=Pos">foras</w>
+    <w ref="124" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

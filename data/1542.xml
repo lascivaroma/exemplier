@@ -1,0 +1,19 @@
+<div  type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Stichus</title>, <biblscope>547-548</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi018.perseus-lat2:547-548" type="line">
+    <w ref="547" lemma="“" pos="PUNC" msd="MORPH=empty">“</w>
+    <w ref="547" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">Ego</w>
+    <w ref="547" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="547" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">meam</w>
+    <w ref="547" lemma="filia" pos="NOMcom" msd="Case=Acc|Numb=Sing">filiam</w>
+    <w ref="547" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="547" lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
+    <w ref="547" lemma="qui" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Com">quicum</w>
+    <w ref="547" lemma="cum3" pos="CON" msd="MORPH=empty">{quicum}</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="547" lemma="cubito" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2">cubitares</w>
+    <w ref="547" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="547" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">dedi</w>
+    <w ref="547" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+  </quote>
+</div>

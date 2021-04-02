@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Mercator</title>, <biblscope>537a-538</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi011.perseus-lat2:537a-538" type="line">
+    <w ref="537a" lemma="deus" pos="NOMcom" msd="Case=Voc|Numb=Plur">Di</w>
+    <w ref="537a" lemma="immortalis" pos="ADJqua" msd="Case=Voc|Numb=Plur|Gend=MascFem|Deg=Pos">immortales</w>
+    <w ref="537a" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="538" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="538" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="538" lemma="uxor" pos="NOMcom" msd="Case=Abl|Numb=Sing">uxore</w>
+    <w ref="538" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="538" lemma="cubo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">cubet</w>
+    <w ref="538" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

@@ -1,0 +1,30 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aller_en_vue_de">
+  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>140-140</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:140-140" type="section">
+    <w ref="140" lemma="itaque" pos="CONcoo" msd="MORPH=empty">Itaque</w>
+    <w ref="140" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="140" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="140" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="140" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="140" lemma="desidia1" pos="NOMcom" msd="Case=Nom|Numb=Sing">desidia</w>
+    <w ref="140" lemma="consuetudo" pos="NOMcom" msd="Case=Acc|Numb=Sing">consuetudinem</w>
+    <w ref="140" lemma="perdo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1">perderem</w>
+    <w ref="140" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="140" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
+    <w ref="140" lemma="frater" pos="NOMcom" msd="Case=Nom|Numb=Sing">frater</w>
+    <w ref="140" lemma="soror" pos="NOMcom" msd="Case=Gen|Numb=Sing">sororis</w>
+    <w ref="140" lemma="suus" pos="PROpos.ref" msd="Case=Gen|Numb=Sing|Gend=Fem">suae</w>
+    <w ref="140" lemma="automatum" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Fem">automata</w>
+    <w ref="140" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="140" lemma="clostellum" pos="NOMcom" msd="Case=Acc|Numb=Sing">clostellum</w>
+    <w ref="140" lemma="miror" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">miratur</w>
+    <w ref="140" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #aller_en_vue_de" ref="140" lemma="accedo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">accessi</w>
+    <w ref="140" lemma="tento" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Fut|Voice=Act">temptaturus</w>
+    <w ref="140" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="140" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="140" lemma="patior" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Dep|Person=3">pateretur</w>
+    <w ref="140" lemma="iniuria" pos="NOMcom" msd="Case=Acc|Numb=Sing">iniuriam</w>
+    <w ref="140" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

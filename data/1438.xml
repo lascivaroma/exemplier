@@ -1,0 +1,26 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aggression">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>7.8.10-7.8.10</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:7.8.10-7.8.10" type="section">
+    <w ref="7.8.10" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ref="7.8.10" lemma="placeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">placebat</w>
+    <w ref="7.8.10" lemma="latro1" pos="NOMcom" msd="Case=Dat|Numb=Sing">LATRONI</w>
+    <w ref="7.8.10" lemma="color" pos="NOMcom" msd="Case=Nom|Numb=Sing">color</w>
+    <w ref="7.8.10" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="7.8.10" lemma="parum2" pos="ADV" msd="Deg=Comp">minus</w>
+    <w ref="7.8.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.8.10" lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inquit</w>
+    <w ref="7.8.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.8.10" lemma="ignosco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">ignoscetur</w>
+    <w ref="7.8.10" lemma="ille" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">illi</w>
+    <w ref="7.8.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.8.10" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="7.8.10" lemma="scio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">scit</w>
+    <w ref="7.8.10" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ana="#acte #metonymie #aggression" ref="7.8.10" lemma="rapio" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">rapuisse</w>
+    <w ref="7.8.10" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="7.8.10" lemma="scio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">sciens</w>
+    <w ref="7.8.10" lemma="mentior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">mentitus</w>
+    <w ref="7.8.10" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.8.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

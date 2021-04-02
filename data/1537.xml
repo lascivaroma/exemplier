@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec #nu">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Epistulae</title>, <biblscope>3.117-3.120</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi002.perseus-lat2:3.117-3.120" type="line">
+    <w ref="3.117" lemma="tutus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp">Tutius</w>
+    <w ref="3.117" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ana="#acte #metonymie #dormir_avec #nu" ref="3.117" lemma="iaceo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">iacuisse</w>
+    <w ref="3.117" lemma="torus" pos="NOMcom" msd="Case=Abl|Numb=Sing">toro</w>
+    <w ref="3.117" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.117" lemma="teneo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">tenuisse</w>
+    <w ref="3.117" lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Sing">puellam</w>
+    <w ref="3.117" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

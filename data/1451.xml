@@ -1,0 +1,43 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aller_en_vue_de">
+  <bibl ref="#adams"><author>Paris, Julius</author>, <title>Facta et Dicta Memorabilia</title>, <biblscope>7.3.10-7.3.10</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.2.639.32ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1038.phi001.perseus-lat1:7.3.10-7.3.10" type="section">
+    <w ref="7.3.10" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="7.3.10" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eum</w>
+    <w ref="7.3.10" lemma="inconcessus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com">inconcessis</w>
+    <w ref="7.3.10" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="7.3.10" lemma="periculosus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">periculosis</w>
+    <w ref="7.3.10" lemma="fax" pos="NOMcom" msd="Case=Abl|Numb=Plur">facibus</w>
+    <w ref="7.3.10" lemma="accendo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">accensum</w>
+    <w ref="7.3.10" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="7.3.10" lemma="insanus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">insana</w>
+    <w ref="7.3.10" lemma="cupiditas" pos="NOMcom" msd="Case=Abl|Numb=Sing">cupiditate</w>
+    <w ref="7.3.10" lemma="inhibeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">inhibere</w>
+    <w ref="7.3.10" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">uellet</w>
+    <w ref="7.3.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.3.10" lemma="saluber" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">salubri</w>
+    <w ref="7.3.10" lemma="consilium" pos="NOMcom" msd="Case=Abl|Numb=Sing">consilio</w>
+    <w ref="7.3.10" lemma="patria" pos="NOMcom" msd="Case=Acc|Numb=Sing">patriam</w>
+    <w ref="7.3.10" lemma="indulgentia" pos="NOMcom" msd="Case=Acc|Numb=Sing">indulgentiam</w>
+    <w ref="7.3.10" lemma="tempero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">temperauit</w>
+    <w ref="7.3.10" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="7.3.10" lemma="peto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">petiit</w>
+    <w ref="7.3.10" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="7.3.10" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="7.3.10" lemma="prius" pos="ADJadv.ord" msd="Deg=Comp">prius</w>
+    <w ref="7.3.10" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="7.3.10" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="7.3.10" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
+    <w ref="7.3.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.3.10" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>
+    <w ref="7.3.10" lemma="diligo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">diligebat</w>
+    <w ref="7.3.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #aller_en_vue_de" ref="7.3.10" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">iret</w>
+    <w ref="7.3.10" lemma="uulgaris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">uulgari</w>
+    <w ref="7.3.10" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="7.3.10" lemma="permitto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">permissa</w>
+    <w ref="7.3.10" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Inf|Tense=Pres|Voice=Act">uenere</w>
+    <w ref="7.3.10" lemma="utor" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Dep|Person=3">uteretur</w>
+    <w ref="7.3.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

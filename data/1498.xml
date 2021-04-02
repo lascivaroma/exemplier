@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Remedy of Love</title>, <biblscope>727-728</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.1.2030.1ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi005.perseus-lat2:727-728" type="line">
+    <w ref="727" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="727" lemma="hic1" pos="PROdem" msd="Case=Nom">Hic</w>
+    <w ref="727" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="727" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="727" lemma="hic1" pos="PROdem" msd="Numb=Sing|Gend=Masc">hic</w>
+    <w ref="727" lemma="cubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">cubuit</w>
+    <w ref="727" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="727" lemma="thalamus" pos="NOMcom" msd="Case=Abl|Numb=Sing">thalamo</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="727" lemma="dormio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1">dormivimus</w>
+    <w ref="727" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">illo</w>
+    <w ref="727" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="728" lemma="hic1" pos="PROdem" msd="Numb=Sing|Gend=Masc">Hic</w>
+    <w ref="728" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="728" lemma="lasciuus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">lasciva</w>
+    <w ref="728" lemma="gaudium" pos="NOMcom" msd="Case=Acc|Numb=Plur">gaudia</w>
+    <w ref="728" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
+    <w ref="728" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">dedit</w>
+    <w ref="728" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

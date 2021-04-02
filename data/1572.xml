@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Quintilian</author>, <title>Institutio Oratoria</title>, <biblscope>5.11.35-5.11.35</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.1418.7ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1002.phi001.perseus-lat2:5.11.35-5.11.35" type="section">
+    <w ref="5.11.35" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ref="5.11.35" lemma="idem" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">idem</w>
+    <w ref="5.11.35" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="5.11.35" lemma="dominus" pos="NOMcom" msd="Case=Acc|Numb=Sing">dominum</w>
+    <w ref="5.11.35" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="5.11.35" lemma="ancilla" pos="NOMcom" msd="Case=Abl|Numb=Sing">ancilla</w>
+    <w ana="#acte #metonymie #coeo" ref="5.11.35" lemma="coeo1" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">coisse</w>
+    <w ref="5.11.35" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.11.35" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="5.11.35" lemma="domina" pos="NOMcom" msd="Case=Acc|Numb=Sing">dominam</w>
+    <w ref="5.11.35" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="5.11.35" lemma="seruus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">servo</w>
+  </quote>
+</div>

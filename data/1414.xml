@@ -1,0 +1,39 @@
+<div type="fragment" corresp="adams:173" ana="#acte #metonymie #duco #prostitution">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Mercator</title>, <biblscope>819-822</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi011.perseus-lat2:819-822" type="line">
+    <w ref="819" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="819" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="819" lemma="uir" pos="NOMcom" msd="Case=Nom|Numb=Sing">vir</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="819" lemma="scortum" pos="NOMcom" msd="Case=Acc|Numb=Sing">scortum</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="819" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">duxit</w>
+    <w ref="819" lemma="clam1" pos="ADV" msd="Deg=Pos">clam</w>
+    <w ref="819" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
+    <w ref="819" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=Fem">suam</w>
+    <w ref="819" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="820" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">id</w>
+    <w ref="820" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="820" lemma="rescio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">rescivit</w>
+    <w ref="820" lemma="uxor" pos="NOMcom" msd="Case=Nom|Numb=Sing">uxor</w>
+    <w ref="820" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="820" lemma="impune" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">impunest</w>
+    <w ref="820" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">{impunest}</w>
+    <w ref="820" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Sing">viro</w>
+    <w ref="820" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="821" lemma="uxor" pos="NOMcom" msd="Case=Nom|Numb=Sing">uxor</w>
+    <w ref="821" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Sing">virum</w>
+    <w ref="821" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="821" lemma="clam1" pos="ADV" msd="Deg=Pos">clam</w>
+    <w ref="821" lemma="domus" pos="NOMcom" msd="Case=Abl|Numb=Sing">domo</w>
+    <w ref="821" lemma="egredior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">egressa</w>
+    <w ref="821" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="821" lemma="foras" pos="ADV" msd="Deg=Pos">foras</w>
+    <w ref="821" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="822" lemma="uir" pos="NOMcom" msd="Case=Abl|Numb=Sing">viro</w>
+    <w ref="822" lemma="fio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fit</w>
+    <w ref="822" lemma="causa" pos="NOMcom" msd="Case=Nom|Numb=Sing">causa</w>
+    <w ref="822" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="822" lemma="exigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">exigitur</w>
+    <w ref="822" lemma="matrimonium" pos="NOMcom" msd="Case=Abl|Numb=Sing">matrimonio</w>
+    <w ref="822" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,24 @@
+<div  type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Amphitruo</title>, <biblscope>1122-1124</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi001.perseus-lat2:1122-1124" type="line">
+    <w ref="1122" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">is</w>
+    <w ref="1122" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="1122" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">dixit</w>
+    <w ref="1122" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="1122" lemma="alcumena" pos="NOMpro" msd="Case=Abl|Numb=Sing">Alcumena</w>
+    <w ref="1122" lemma="clam1" pos="ADV" msd="Deg=Pos">clam</w>
+    <w ref="1122" lemma="consuesco" pos="VER" msd="Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">consuetum</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="1122" lemma="cubitus?" pos="NOMcom" msd="Case=Abl|Numb=Plur">cubitibus</w>
+    <w ref="1122" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1123" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eumque</w>
+    <w ref="1123" lemma="que" pos="CON" msd="MORPH=empty">{eumque}</w>
+    <w ref="1123" lemma="filius" pos="NOMcom" msd="Case=Acc|Numb=Sing">filium</w>
+    <w ref="1123" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=MascNeut">suom</w>
+    <w ref="1123" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="1123" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="1123" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Masc">illos</w>
+    <w ref="1123" lemma="anguis" pos="NOMcom" msd="Case=Acc|Numb=Plur">angues</w>
+    <w ref="1123" lemma="uinco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">vicerit</w>
+  </quote>
+</div>

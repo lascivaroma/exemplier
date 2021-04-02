@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Statius, P. Papinius (Publius Papinius)</author>, <title>Thebais</title>, <biblscope>10.796-10.798</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1020.phi001.perseus-lat2:10.796-10.798" type="line">
+    <w ref="10.796" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="10.796" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="10.796" lemma="monstrifer" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">monstrifero</w>
+    <w ana="#acte #metonymie #coeo" ref="10.796" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
+    <w ref="10.796" lemma="reuoluo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">revoluta</w>
+    <w ref="10.796" lemma="nouo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">novavi</w>
+    <w ref="10.797" lemma="pignus" pos="NOMcom" msd="Case=Acc|Numb=Plur">pignora</w>
+    <w ref="10.797" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

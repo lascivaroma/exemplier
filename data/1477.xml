@@ -1,0 +1,27 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #f2m #dormir_avec">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Remedy of Love</title>, <biblscope>481-482</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.1.2030.1ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi005.perseus-lat2:481-482" type="line">
+    <w ref="481" lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
+    <w ref="481" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="481" lemma="rex" pos="NOMcom" msd="Case=Nom|Numb=Sing">rex</w>
+    <w ref="481" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="481" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">sum</w>
+    <w ref="481" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="481" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="481" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">mecum</w>
+    <w  ana="#acte #metonymie #f2m #dormir_avec"ref="481" lemma="cum3" pos="CON" msd="MORPH=empty">{mecum}</w>
+    <w ana="#acte #metonymie #f2m #dormir_avec" ref="481" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">dormiat</w>
+    <w ref="481" lemma="ullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">ulla</w>
+    <w ref="481" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="482" lemma="in" pos="PRE" msd="MORPH=empty">In</w>
+    <w ref="482" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Neut">mea</w>
+    <w ref="482" lemma="thersites" pos="NOMcom" msd="Case=Acc|Numb=Plur">Thersites</w>
+    <w ref="482" lemma="regnum" pos="NOMcom" msd="Case=Acc|Numb=Plur">regna</w>
+    <w ref="482" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="482" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">licebit</w>
+    <w ref="482" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="482" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">eat</w>
+    <w ref="482" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec #celibat">
+  <bibl ref="#adams"><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblscope>2.18b.3-2.18b.8</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.18b.3-2.18b.8" type="line">
+    <w ref="2.18b.3" lemma="at2" pos="CONcoo" msd="MORPH=empty">at</w>
+    <w ref="2.18b.3" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="2.18b.3" lemma="Tithonus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Tithoni</w>
+    <w ref="2.18b.3" lemma="sperno" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">spernens</w>
+    <w ref="2.18b.3" lemma="aurora" pos="NOMcom" msd="Case=Nom|Numb=Sing">Aurora</w>
+    <w ref="2.18b.3" lemma="senecta" pos="NOMcom" msd="Case=Acc|Numb=Sing">senectam</w>
+    <w ref="2.18b.4" lemma="desero2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">desertum</w>
+    <w ref="2.18b.4" lemma="Eous" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem">Eoa</w>
+    <w ref="2.18b.4" lemma="patior" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">passa</w>
+    <w ana="#acte #metonymie #dormir_avec #celibat" ref="2.18b.4" lemma="iaceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">iacere</w>
+    <w ref="2.18b.4" lemma="domus" pos="NOMcom" msd="Case=Abl|Numb=Sing">domo</w>
+    <w ref="2.18b.4" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+  </quote>
+</div>

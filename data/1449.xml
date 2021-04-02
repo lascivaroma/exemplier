@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aller_en_vue_de">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>2.2.21-2.2.22</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.2.639.32ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.21-2.2.22" type="line">
+    <w ana="#acte #metonymie #aller_en_vue_de" ref="2.2.21" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">Ibit</w>
+    <w ref="2.2.21" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="2.2.21" lemma="affectus?" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem">adfectam</w>
+    <w ref="2.2.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.2.21" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="2.2.21" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="2.2.21" lemma="langueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">languebit</w>
+    <w ref="2.2.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.2.21" lemma="amica" pos="NOMcom" msd="Case=Acc|Numb=Sing">amicam</w>
+    <w ref="2.2.21" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.2.22" lemma="uiso" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">Visat</w>
+    <w ref="2.2.22" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

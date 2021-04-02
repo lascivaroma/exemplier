@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:175" ana="#acte #metonymie #aller_en_vue_de #f2m">
+  <bibl ref="#adams"><author>Porphyrio, Pomponius</author>, <title>Commentum in Horati Sermones</title>, <biblscope>1.5.84-1.5.84</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1512.phi005.horatiusNet-lat1:1.5.84-1.5.84" type="comment">
+    <w ref="1.5.84" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
+    <w ref="1.5.84" lemma="promitto" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">promisisse</w>
+    <w ref="1.5.84" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ref="1.5.84" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ana="#acte #metonymie #aller_en_vue_de #f2m" ref="1.5.84" lemma="uenio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">uenturam</w>
+    <w ref="1.5.84" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.5.84" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="1.5.84" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.5.84" lemma="uenio" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">uenisse</w>
+  </quote>
+</div>

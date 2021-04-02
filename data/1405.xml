@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:173" ana="#acte #metonymie #futuo #detendre">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>18.1-18.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:18.1-18.2" type="line">
+    <w ref="18.1" lemma="commoditas" pos="NOMcom" msd="Case=Nom|Numb=Sing">Commoditas</w>
+    <w ref="18.1" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">haec</w>
+    <w ref="18.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="18.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="18.1" lemma="noster" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">nostro</w>
+    <w ref="18.1" lemma="magnus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Sup">maxima</w>
+    <w ref="18.1" lemma="penis" pos="NOMcom" msd="Case=Abl|Numb=Sing">pene</w>
+    <w ref="18.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #futuo #detendre" ref="18.2" lemma="laxus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem">laxa</w>
+    <w ref="18.2" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="18.2" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="18.2" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="18.2" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">femina</w>
+    <w ref="18.2" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">nulla</w>
+    <w ref="18.2" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">potest</w>
+    <w ref="18.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

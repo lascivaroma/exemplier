@@ -1,0 +1,39 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aggression">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>7.8.10-7.8.10</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:7.8.10-7.8.10" type="section">
+    <w ref="7.8.10" lemma="uerum4" pos="CONcoo" msd="MORPH=empty">uerum</w>
+    <w ref="7.8.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.8.10" lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inquit</w>
+    <w ref="7.8.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.8.10" lemma="inuenio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">inueniri</w>
+    <w ref="7.8.10" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="7.8.10" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">poterat</w>
+    <w ref="7.8.10" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="7.8.10" lemma="iudex" pos="NOMcom" msd="Case=Nom|Numb=Plur">iudices</w>
+    <w ref="7.8.10" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
+    <w ref="7.8.10" lemma="sententia" pos="NOMcom" msd="Case=Acc|Numb=Sing">sententiam</w>
+    <w ref="7.8.10" lemma="sequor" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">secuti</w>
+    <w ref="7.8.10" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="7.8.10" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="7.8.10" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="7.8.10" lemma="rapio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">rapuit</w>
+    <w ref="7.8.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.8.10" lemma="indignus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">indignum</w>
+    <w ref="7.8.10" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.8.10" lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Sing">puellam</w>
+    <w ref="7.8.10" lemma="inultus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">inultam</w>
+    <w ref="7.8.10" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="7.8.10" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="7.8.10" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="7.8.10" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ana="#acte #metonymie #aggression" ref="7.8.10" lemma="rapio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">rapuit</w>
+    <w ref="7.8.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.8.10" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="7.8.10" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.8.10" lemma="indignus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">indignum</w>
+    <w ref="7.8.10" lemma="fio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fieri</w>
+    <w ref="7.8.10" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">illum</w>
+    <w ref="7.8.10" lemma="maritus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">maritum</w>
+    <w ref="7.8.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

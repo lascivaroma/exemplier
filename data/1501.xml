@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec">
+  <bibl ref="#adams"><author>Cicero</author>, <title>Against Verres</title>, <biblscope>2.5.63-2.5.63</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi005.perseus-lat2:2.5.63-2.5.63" type="section">
+    <w ref="2.5.63" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.5.63" lemma="tametsi2" pos="CONsub" msd="MORPH=empty">tametsi</w>
+    <w ref="2.5.63" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.5.63" lemma="actum" pos="NOMcom" msd="Case=Abl|Numb=Plur">acta</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="2.5.63" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="2.5.63" lemma="muliercula" pos="NOMcom" msd="Case=Abl|Numb=Plur">mulierculis</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="2.5.63" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">iacebat</w>
+    <w ref="2.5.63" lemma="ebrius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">ebrius</w>
+    <w ref="2.5.63" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.5.63" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

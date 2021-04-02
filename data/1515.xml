@@ -1,0 +1,22 @@
+<div  type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec #celibat">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Remedy of Love</title>, <biblscope>767-770</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi005.perseus-lat2:767-770" type="line">
+    <w ref="769" lemma="at2" pos="CONcoo" msd="MORPH=empty">At</w>
+    <w ref="769" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+    <w ref="769" lemma="riualis1" pos="NOMcom" msd="Case=Acc|Numb=Sing">rivalem</w>
+    <w ref="769" lemma="nolo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">noli</w>
+    <w ref="769" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="769" lemma="fingo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fingere</w>
+    <w ref="769" lemma="quisquam" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascFem">quemquam</w>
+    <w ref="769" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="770" lemma="in" pos="PRE" msd="MORPH=empty">Inque</w>
+    <w ref="770" lemma="que" pos="CON" msd="MORPH=empty">{Inque}</w>
+    <w ref="770" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=MascNeut">suo</w>
+    <w ref="770" lemma="solus" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">solam</w>
+    <w ref="770" lemma="credo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">crede</w>
+    <w ana="#acte #metonymie #dormir_avec #celibat" ref="770" lemma="iaceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">iacere</w>
+    <w ref="770" lemma="torus" pos="NOMcom" msd="Case=Abl|Numb=Sing">toro</w>
+    <w ref="770" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

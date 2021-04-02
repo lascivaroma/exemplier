@@ -1,0 +1,27 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aggression">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>7.8.11-7.8.11</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:7.8.11-7.8.11" type="section">
+    <w ref="7.8.11" lemma="hispo" pos="NOMcom" msd="Case=Abl|Numb=Sing">Hispo</w>
+    <w ref="7.8.11" lemma="Romanius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Comp">Romanius</w>
+    <w ref="7.8.11" lemma="aio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ait</w>
+    <w ref="7.8.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.8.11" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Masc">illos</w>
+    <w ref="7.8.11" lemma="sodalis1" pos="NOMcom" msd="Case=Acc|Numb=Plur">sodales</w>
+    <w ref="7.8.11" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+    <w ref="7.8.11" lemma="illunis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Masc|Deg=Pos">illuni</w>
+    <w ref="7.8.11" lemma="noctu" pos="ADV" msd="Deg=Pos">noctu</w>
+    <w ref="7.8.11" lemma="impello" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">inpulerant</w>
+    <w ref="7.8.11" lemma="circumsto" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">circumstetisse</w>
+    <w ref="7.8.11" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="7.8.11" lemma="dico2" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">dixisse</w>
+    <w ref="7.8.11" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="7.8.11" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="7.8.11" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.8.11" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ana="#acte #metonymie #aggression" ref="7.8.11" lemma="rapio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">rapuisti</w>
+    <w ref="7.8.11" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="7.8.11" lemma="alius" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">alia</w>
+    <w ref="7.8.11" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="7.8.11" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,29 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #f2m #dormir_avec">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Ars Amatoria</title>, <biblscope>1.601-1.602</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.1.2030.1ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:1.601-1.602" type="line">
+    <w ref="1.601" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="1.601" lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
+    <w ref="1.601" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">dic</w>
+    <w ref="1.601" lemma="domina" pos="NOMcom" msd="Case=Dat|Numb=Sing">dominae</w>
+    <w ref="1.601" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.601" lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
+    <w ref="1.601" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w  ana="#acte #metonymie #f2m #dormir_avec" ref="1.601" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="1.601" lemma="quis1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ana="#acte #metonymie #f2m #dormir_avec" ref="1.601" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">dormiat</w>
+    <w ref="1.601" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="1.601" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="1.602" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="1.602" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.602" lemma="male" pos="ADV" msd="Deg=Pos">male</w>
+    <w ref="1.602" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="1.602" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.602" lemma="tacitus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">tacita</w>
+    <w ref="1.602" lemma="mens" pos="NOMcom" msd="Case=Abl|Numb=Sing">mente</w>
+    <w ref="1.602" lemma="precor" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Dep|Person=2">precare</w>
+    <w ref="1.602" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.602" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Sing">viro</w>
+    <w ref="1.602" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec #celibat">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Ars Amatoria</title>, <biblscope>2.359-2.360</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:2.359-2.360" type="line">
+    <w ref="2.359" lemma="dum2" pos="CONsub" msd="MORPH=empty">Dum</w>
+    <w ref="2.359" lemma="menelaus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Menelaus</w>
+    <w ref="2.359" lemma="absum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">abest</w>
+    <w ref="2.359" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.359" lemma="helene" pos="NOMcom" msd="Case=Nom|Numb=Sing">Helene</w>
+    <w ref="2.359" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.359" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="2.359" lemma="solus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">sola</w>
+    <w ana="#acte #metonymie #dormir_avec #celibat" ref="2.359" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">iaceret</w>
+    <w ref="2.359" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.360" lemma="hospes" pos="NOMcom" msd="Case=Gen|Numb=Sing">Hospitis</w>
+    <w ref="2.360" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="2.360" lemma="tepidus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">tepido</w>
+    <w ref="2.360" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
+    <w ref="2.360" lemma="recipio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">recepta</w>
+    <w ref="2.360" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+    <w ref="2.360" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

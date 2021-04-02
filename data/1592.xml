@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Phaedra</title>, <biblscope>159-163</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi005.perseus-lat2:159-163" type="line">
+    <w ref="159" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="159" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="159" lemma="secundus2" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">secundus</w>
+    <w ref="159" lemma="numen" pos="NOMcom" msd="Case=Gen|Numb=Plur">numinum</w>
+    <w ref="159" lemma="abscondo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">abscondat</w>
+    <w ref="159" lemma="fauor" pos="NOMcom" msd="Case=Nom|Numb=Sing">favor</w>
+    <w ana="#acte #metonymie #coeo" ref="160" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Sing">coitus</w>
+    <w ref="160" lemma="nefandus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">nefandos</w>
+  </quote>
+</div>

@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #f2m #dormir_avec">
+  <bibl ref="#adams"><author>Jerome Saint d. 419 or 20</author>, <title>Epistolae</title>, <biblscope>54.15.2-54.15.2</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.1.2030.1ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0162.stoa004.opp-lat1:54.15.2-54.15.2" type="section">
+    <w ref="54.15.2" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">nulla</w>
+    <w ref="54.15.2" lemma="idcirco" pos="ADV" msd="Deg=Pos">idcirco</w>
+    <w ref="54.15.2" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ducit</w>
+    <w ref="54.15.2" lemma="maritus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">maritum</w>
+    <w ref="54.15.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="54.15.2" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ana="#acte #metonymie #f2m #dormir_avec" ref="54.15.2" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="54.15.2" lemma="maritus" pos="NOMcom" msd="Case=Nom|Numb=Sing">maritum</w>
+<w ref="54.15.2" lemma="" pos="" msd="">non</w>
+    <w ana="#acte #metonymie #f2m #dormir_avec" ref="54.15.2" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">dormiat</w>
+    <w ref="54.15.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

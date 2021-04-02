@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:178" ana="#acte #metonymie #rester_avec #prostitution">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>1.8.67-1.8.68</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VIII.283.11ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.8.67-1.8.68" type="line">
+    <w ref="1.8.67" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">Qui</w>
+    <w ref="1.8.67" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.8.67" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+    <w ref="1.8.67" lemma="pulcher" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">pulcher</w>
+    <w ref="1.8.67" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
+    <w ref="1.8.67" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #rester_avec #prostitution #composite" ref="1.8.67" lemma="posco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">poscet</w>
+    <w ref="1.8.67" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="1.8.67" lemma="munus" pos="NOMcom" msd="Case=Abl|Numb=Sing">munere</w>
+    <w ana="#acte #metonymie #rester_avec #prostitution" ref="1.8.67" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Sing">noctem</w>
+    <w ref="1.8.67" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.8.68" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">Quod</w>
+    <w ref="1.8.68" lemma="do" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">det</w>
+    <w ref="1.8.68" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.8.68" lemma="amator" pos="NOMcom" msd="Case=Acc|Numb=Sing">amatorem</w>
+    <w ref="1.8.68" lemma="flagito" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">flagitet</w>
+    <w ref="1.8.68" lemma="ante2" pos="PRE" msd="MORPH=empty">ante</w>
+    <w ref="1.8.68" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=MascNeut">suum</w>
+    <w ref="1.8.68" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

@@ -1,0 +1,27 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aggression">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>7.8.10-7.8.10</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:7.8.10-7.8.10" type="section">
+    <w ref="7.8.10" lemma="ceste" pos="ADV" msd="Case=Nom|Numb=Sing|Deg=Comp">CESTIVS</w>
+    <w ref="7.8.10" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="7.8.10" lemma="latro1" pos="NOMcom" msd="Case=Acc|Numb=Sing">Latronem</w>
+    <w ref="7.8.10" lemma="sequor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">secutus</w>
+    <w ref="7.8.10" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.8.10" lemma="dico2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">dicentem</w>
+    <w ref="7.8.10" lemma="nescio" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">nescisse</w>
+    <w ref="7.8.10" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="7.8.10" lemma="hodie" pos="ADV" msd="Deg=Pos">hodieque</w>
+    <w ref="7.8.10" lemma="que" pos="CON" msd="MORPH=empty">{hodieque}</w>
+    <w ref="7.8.10" lemma="nescio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">nescire</w>
+    <w ref="7.8.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.8.10" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="7.8.10" lemma="uarius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">Varium</w>
+    <w ref="7.8.10" lemma="geminus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">Geminum</w>
+    <w ref="7.8.10" lemma="confiteor" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Dep">confitentem</w>
+    <w ref="7.8.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.8.10" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ana="#acte #metonymie #aggression" ref="7.8.10" lemma="rapio" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">rapuisse</w>
+    <w ref="7.8.10" lemma="aperte" pos="ADV" msd="Deg=Comp">apertius</w>
+    <w ref="7.8.10" lemma="nego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">negauit</w>
+    <w ref="7.8.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

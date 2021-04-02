@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aggression">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>7.8.10-7.8.10</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:7.8.10-7.8.10" type="section">
+    <w ref="7.8.10" lemma="contradico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">Contradicebat</w>
+    <w ref="7.8.10" lemma="silum" pos="NOMcom" msd="Case=Abl|Numb=Sing">SILO</w>
+    <w ref="7.8.10" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="7.8.10" lemma="possum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">posse</w>
+    <w ref="7.8.10" lemma="ullus" pos="PROind" msd="Case=Dat|Numb=Sing|Gend=Com">ulli</w>
+    <w ref="7.8.10" lemma="fides2" pos="NOMcom" msd="Case=Acc|Numb=Sing">fidem</w>
+    <w ref="7.8.10" lemma="fio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fieri</w>
+    <w ref="7.8.10" lemma="aliquis" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Masc">aliquem</w>
+    <w ref="7.8.10" lemma="nescio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">nescire</w>
+    <w ref="7.8.10" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ana="#acte #metonymie #aggression" ref="7.8.10" lemma="rapio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">rapuerit</w>
+    <w ref="7.8.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Vulgate</author>, <title>Leviticus</title>, <biblscope>15.31-16.1</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg003.obi-lat1:15.31-16.1" type="verse">
+    <w ref="15.32" lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ista</w>
+    <w ref="15.32" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="15.32" lemma="lex" pos="NOMcom" msd="Case=Nom|Numb=Sing">lex</w>
+    <w ref="15.32" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="15.32" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="15.32" lemma="patior" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">patitur</w>
+    <w ref="15.32" lemma="fluxus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">fluxum</w>
+    <w ref="15.32" lemma="semen1" pos="NOMcom" msd="Case=Gen|Numb=Sing">seminis</w>
+    <w ref="15.32" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="15.32" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+    <w ref="15.32" lemma="polluo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">polluitur</w>
+    <w ana="#acte #metonymie #coeo" ref="15.32" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
+    
+  </quote>
+</div>

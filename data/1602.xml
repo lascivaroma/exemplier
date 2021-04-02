@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblscope>22.22-22.22</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:22.22-22.22" type="chapter">
+    <w ref="22.22" lemma="marceo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">marcentesque</w>
+    <w ref="22.22" lemma="que" pos="CON" msd="MORPH=empty">{marcentesque}</w>
+    <w ref="22.22" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="22.22" lemma="senium" pos="NOMcom" msd="Case=Abl|Numb=Sing">senio</w>
+    <w ana="#acte #metonymie #coeo" ref="22.22" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Plur">coitus</w>
+    <w ref="22.22" lemma="excito1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">excitat</w>
+    <w ref="22.22" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

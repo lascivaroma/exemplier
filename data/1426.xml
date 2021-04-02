@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #duco #prostitution">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Self-Tormenter</title>, <biblscope>818-819</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi002.perseus-lat2:818-819" type="line">
+    <w ref="818" lemma="abeo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">abiisti</w>
+    <w ref="818" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="818" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="819" lemma="amica" pos="NOMcom" msd="Case=Acc|Numb=Sing">Amicam</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="819" lemma="adduco" pos="VER" msd="Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">adduxti</w>
+    <w ref="819" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="819" lemma="qui1" pos="PROrel" msd="MORPH=empty">quam</w>
+    <w ref="819" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="819" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">liceat</w>
+    <w ref="819" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tangere</w>
+    <w ref="819" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

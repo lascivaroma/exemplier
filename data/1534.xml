@@ -1,0 +1,11 @@
+<div  type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec #nu">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.43.9-11.43.10</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.43.9-11.43.10" type="line">
+    <w ref="11.43.9" lemma="briseis" pos="ADJqua" msd="Case=Gen|Numb=Sing|Deg=Pos">Briseis</w>
+    <w ref="11.43.9" lemma="multum2" pos="ADV" msd="MORPH=empty">multum</w>
+    <w ref="11.43.9" lemma="quamuis2" pos="CONsub" msd="MORPH=empty">quamvis</w>
+    <w ref="11.43.9" lemma="auerto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">aversa</w>
+    <w ana="#acte #metonymie #dormir_avec #nu" ref="11.43.9" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">iaceret</w>
+  </quote>
+</div>

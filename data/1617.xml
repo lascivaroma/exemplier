@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Servius</author>, <title>In Vergilii Georgicon Libros</title>, <biblscope>3.127-3.127</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi2349.phi007.perseus-lat1:3.127-3.127" type="comment">
+    <w ref="3.127" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.127" lemma="aliter" pos="ADV" msd="Deg=Pos">aliter</w>
+    <w ref="3.127" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="3.127" lemma="mire" pos="ADV" msd="Deg=Pos">mire</w>
+    <w ref="3.127" lemma="blandus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">blandum</w>
+    <w ref="3.127" lemma="labor1" pos="NOMcom" msd="Case=Acc|Numb=Sing">laborem</w>
+    <w ana="#acte #metonymie #coeo" ref="3.127" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">coitum</w>
+    <w ref="3.127" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">dixit</w>
+    <w ref="3.127" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.127" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="3.127" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="3.127" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="3.127" lemma="uoluptas" pos="NOMcom" msd="Case=Abl|Numb=Sing">voluptate</w>
+    <w ref="3.127" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

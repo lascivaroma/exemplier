@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Metamorphoses</title>, <biblscope>2.597-2.599</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:2.597-2.599" type="line">
+    <w ref="2.597" lemma="”" pos="PUNC" msd="MORPH=empty">”</w>
+    <w ref="2.598" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ref="2.598" lemma="coepio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">coeptum</w>
+    <w ref="2.598" lemma="dimitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dimittit</w>
+    <w ref="2.598" lemma="iter" pos="NOMcom" msd="Case=Acc|Numb=Sing">iter</w>
+    <w ref="2.598" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.598" lemma="dominus" pos="NOMcom" msd="Case=Dat|Numb=Sing">dominoque</w>
+    <w ref="2.598" lemma="que" pos="CON" msd="MORPH=empty">{dominoque}</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="2.598" lemma="iaceo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">iacentem</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="2.599" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="2.599" lemma="iuuenis1" pos="NOMcom" msd="Case=Abl|Numb=Sing">iuvene</w>
+    <w ref="2.599" lemma="haemonius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">Haemonio</w>
+    <w ref="2.599" lemma="uideo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">vidisse</w>
+    <w ref="2.599" lemma="coronis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos">Coronida</w>
+    <w ref="2.599" lemma="narro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">narrat</w>
+    <w ref="2.599" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

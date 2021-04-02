@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec #celibat">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Epistulae</title>, <biblscope>5.106-5.106</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi002.perseus-lat2:5.106-5.106" type="line">
+    <w ref="5.106" lemma="nunc" pos="ADV" msd="Deg=Pos">Nunc</w>
+    <w ana="#acte #metonymie #dormir_avec #celibat" ref="5.106" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iacet</w>
+    <w ref="5.106" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="5.106" lemma="uiduus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">viduo</w>
+    <w ref="5.106" lemma="credulus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">credulus</w>
+    <w ref="5.106" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="5.106" lemma="torus" pos="NOMcom" msd="Case=Abl|Numb=Sing">toro</w>
+    <w ref="5.106" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Pseudo-Acro</author>, <title>Commentum in Horati Carmina</title>, <biblscope>3.6.18-3.6.18</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0004a.stoa001.horatiusNet-lat1:3.6.18-3.6.18" type="comment">
+    <w ref="3.6.18" lemma="bonus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos">Bonum</w>
+    <w ref="3.6.18" lemma="par2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">paris</w>
+    <w ref="3.6.18" lemma="sanguis" pos="NOMcom" msd="Case=Gen|Numb=Sing">sanguinis</w>
+    <w ref="3.6.18" lemma="alienus2" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">alieni</w>
+    <w ana="#acte #metonymie #coeo" ref="3.6.18" lemma="coitus" pos="NOMcom" msd="Case=Gen|Numb=Sing">coitus</w>
+    <w ref="3.6.18" lemma="admixtio" pos="NOMcom" msd="Case=Abl|Numb=Sing">admixtione</w>
+    <w ref="3.6.18" lemma="polluo" pos="VER" msd="Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">pollutum</w>
+    <w ref="3.6.18" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

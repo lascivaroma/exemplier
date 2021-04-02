@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:177" ana="#acte #metonymie #f2m #dormir_avec">
+  <bibl ref="#adams"><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblscope>2.18b.13-2.18b.14</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.1.2030.1ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.18b.13-2.18b.14" type="line">
+    <w ana="#acte #metonymie #f2m #dormir_avec" ref="2.18b.13" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="2.18b.13" lemma="senex1" pos="NOMcom" msd="Case=Abl|Numb=Sing">sene</w>
+    <w ref="2.18b.13" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="2.18b.13" lemma="pudeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">puduit</w>
+    <w ref="2.18b.13" lemma="talis" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=MascFem">talem</w>
+    <w ana="#acte #metonymie #f2m #dormir_avec" ref="2.18b.13" lemma="dormio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dormire</w>
+    <w ref="2.18b.13" lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Sing">puellam</w>
+  </quote>
+</div>

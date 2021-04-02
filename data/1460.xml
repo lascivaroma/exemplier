@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aller_en_vue_de #f2m">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>1.71.3-1.71.4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.71.3-1.71.4" type="line">
+    <w ref="1.71.3" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">Omnis</w>
+    <w ref="1.71.3" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="1.71.3" lemma="infundo2" pos="NOMcom" msd="Case=Abl|Numb=Sing|Gend=MascNeut">infuso</w>
+    <w ref="1.71.3" lemma="numero1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">numeretur</w>
+    <w ref="1.71.3" lemma="amica" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">amica</w>
+    <w ref="1.71.3" lemma="falernus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">Falerno</w>
+    <w ref="1.71.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.71.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="1.71.4" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+    <w ref="1.71.4" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">nulla</w>
+    <w ana="#acte #metonymie #aller_en_vue_de #f2m" ref="1.71.4" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">venit</w>
+    <w ref="1.71.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.71.4" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+    <w ref="1.71.4" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="1.71.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.71.4" lemma="somnus" pos="NOMcom" msd="Case=Voc|Numb=Sing">Somne</w>
+    <w ref="1.71.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.71.4" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">veni</w>
+    <w ref="1.71.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

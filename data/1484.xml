@@ -1,0 +1,30 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #f2m #dormir_avec">
+  <bibl ref="#adams"><author>Vulgate</author>, <title>Numbers</title>, <biblscope>5.10-5.14</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.1.2030.1ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg004.obi-lat1:5.10-5.14" type="verse">
+    <w ana="#acte #metonymie #f2m #dormir_avec" ref="5.13" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">dormierit</w>
+    <w ana="#acte #metonymie #f2m #dormir_avec"  ref="5.13" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="5.13" lemma="alter" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">altero</w>
+    <w ref="5.13" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Sing">viro</w>
+    <w ref="5.13" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.13" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="5.13" lemma="maritus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">maritus</w>
+    <w ref="5.13" lemma="deprehendo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">deprehendere</w>
+    <w ref="5.13" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="5.13" lemma="queo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">quiverit</w>
+    <w ref="5.13" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="5.13" lemma="lateo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">latet</w>
+    <w ref="5.13" lemma="adulterium" pos="NOMcom" msd="Case=Nom|Numb=Sing">adulterium</w>
+    <w ref="5.13" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.13" lemma="testis1" pos="NOMcom" msd="Case=Dat|Numb=Plur">testibus</w>
+    <w ref="5.13" lemma="arguo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">argui</w>
+    <w ref="5.13" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="5.13" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">potest</w>
+    <w ref="5.13" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+    <w ref="5.13" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="5.13" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="5.13" lemma="inuenio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">inventa</w>
+    <w ref="5.13" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="5.13" lemma="stuprum" pos="NOMcom" msd="Case=Abl|Numb=Sing">stupro</w>
+  </quote>
+</div>

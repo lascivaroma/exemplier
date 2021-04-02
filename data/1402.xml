@@ -1,0 +1,39 @@
+<div type="fragment" corresp="adams:171" ana="#acte #metonymie #mentulam_cacare #pedicatio">
+  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>36.1-36.7</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:36.1-36.7" type="line">
+    <w ref="36.1" lemma="annalis1" pos="NOMcom" msd="Case=Voc|Numb=Plur">Annales</w>
+    <w ref="36.1" lemma="Uolusius" pos="NOMpro" msd="Case=Voc|Numb=Sing">Volusi</w>
+    <w ref="36.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #mentulam_cacare #pedicatio" ref="36.1" lemma="caco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">cacata</w>
+    <w ref="36.1" lemma="charta" pos="NOMcom" msd="Case=Abl|Numb=Sing">charta</w>
+    <w ref="36.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="36.2" lemma="uotum" pos="NOMcom" msd="Case=Acc|Numb=Sing">votum</w>
+    <w ref="36.2" lemma="soluo" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">solvite</w>
+    <w ref="36.2" lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>
+    <w ref="36.2" lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=Fem">mea</w>
+    <w ref="36.2" lemma="puella" pos="NOMcom" msd="Case=Abl|Numb=Sing">puella</w>
+    <w ref="36.2" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="36.3" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="36.3" lemma="sanctus" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=Fem|Deg=Pos">sanctae</w>
+    <w ref="36.3" lemma="Uenus" pos="NOMpro" msd="Case=Dat|Numb=Sing">Veneri</w>
+    <w ref="36.3" lemma="cupido" pos="NOMcom" msd="Case=Gen|Numb=Sing">Cupidinique</w>
+    <w ref="36.3" lemma="que" pos="CON" msd="MORPH=empty">{Cupidinique}</w>
+    <w ref="36.4" lemma="uoueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">vovit</w>
+    <w ref="36.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="36.4" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="36.4" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="36.4" lemma="restituo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">restitutus</w>
+    <w ref="36.4" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1">essem</w>
+    <w ref="36.5" lemma="desino" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=1">desissemque</w>
+    <w ref="36.5" lemma="que" pos="CON" msd="MORPH=empty">{desissemque}</w>
+    <w ref="36.5" lemma="trux" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">truces</w>
+    <w ref="36.5" lemma="uibro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">vibrare</w>
+    <w ref="36.5" lemma="iambus" pos="NOMcom" msd="Case=Acc|Numb=Plur">iambos</w>
+    <w ref="36.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="36.6" lemma="elecerus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Sup">electissima</w>
+    <w ref="36.6" lemma="malus3" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Sup">pessimi</w>
+    <w ref="36.6" lemma="poeta" pos="NOMcom" msd="Case=Gen|Numb=Sing">poetae</w>
+    <w ref="36.7" lemma="scribo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">scripta</w>
+    <w ref="36.7" lemma="tardipes" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Deg=Pos">tardipedi</w>
+  </quote>
+</div>

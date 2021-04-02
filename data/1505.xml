@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.22.1-11.22.3</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.22.1-11.22.3" type="line">
+    <w ref="11.22.1" lemma="mollis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">Mollia</w>
+    <w ref="11.22.1" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="11.22.1" lemma="niueus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">nivei</w>
+    <w ref="11.22.1" lemma="durus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">duro</w>
+    <w ref="11.22.1" lemma="tero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">teris</w>
+    <w ref="11.22.1" lemma="os1" pos="NOMcom" msd="Case=Abl|Numb=Sing">ore</w>
+    <w ref="11.22.1" lemma="galaesus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Com|Deg=Pos">Galaesi</w>
+    <w ref="11.22.2" lemma="basium" pos="NOMcom" msd="Case=Nom|Numb=Sing">Basia</w>
+    <w ref="11.22.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.22.2" lemma="qui1" pos="PROrel" msd="Numb=Sing">quod</w>
+    <w ref="11.22.2" lemma="nudus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">nudo</w>
+    <w  ana="#acte #metonymie #dormir_avec" ref="11.22.2" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="11.22.2" lemma="ganymedes" pos="NOMcom" msd="Case=Abl|Numb=Sing">Ganymede</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="11.22.2" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">iaces</w>
+  </quote>
+</div>

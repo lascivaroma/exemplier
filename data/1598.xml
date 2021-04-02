@@ -1,0 +1,45 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblscope>7.11-7.11</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:7.11-7.11" type="chapter">
+    <w ref="7.11" lemma="item" pos="ADV" msd="Deg=Pos">item</w>
+    <w ref="7.11" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="7.11" lemma="proconnesius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">Proconnesia</w>
+    <w ref="7.11" lemma="ancilla" pos="NOMcom" msd="Case=Abl|Numb=Sing">ancilla</w>
+    <w ref="7.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.11" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="7.11" lemma="idem" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eiusdem</w>
+    <w ref="7.11" lemma="dies" pos="NOMcom" msd="Case=Gen|Numb=Sing">diei</w>
+    <w ana="#acte #metonymie #coeo" ref="7.11" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
+    <w ref="7.11" lemma="alter" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascNeut">alterum</w>
+    <w ref="7.11" lemma="dominus" pos="NOMcom" msd="Case=Dat|Numb=Sing">domino</w>
+    <w ref="7.11" lemma="similis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">similem</w>
+    <w ref="7.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.11" lemma="alter" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascNeut">alterum</w>
+    <w ref="7.11" lemma="procurator" pos="NOMcom" msd="Case=Dat|Numb=Sing">procuratori</w>
+    <w ref="7.11" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="7.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.11" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="7.11" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="7.11" lemma="alius" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Neut">alia</w>
+    <w ref="7.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.11" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="7.11" lemma="iustus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">iusto</w>
+    <w ref="7.11" lemma="partus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">partu</w>
+    <w ref="7.11" lemma="quinque" pos="ADJcar" msd="Case=Ind">quinque</w>
+    <w ref="7.11" lemma="mensis" pos="NOMcom" msd="Case=Gen|Numb=Plur">mensum</w>
+    <w ref="7.11" lemma="alter" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascNeut">alterum</w>
+    <w ref="7.11" lemma="edo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">edidit</w>
+    <w ref="7.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.11" lemma="rursus" pos="ADV" msd="Deg=Pos">rursus</w>
+    <w ref="7.11" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="7.11" lemma="alius" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Neut">alia</w>
+    <w ref="7.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.11" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="7.11" lemma="septem" pos="ADJcar" msd="Case=Ind">septem</w>
+    <w ref="7.11" lemma="mensis" pos="NOMcom" msd="Case=Acc|Numb=Plur">mensum</w>
+    <w ref="7.11" lemma="edo2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">edito</w>
+    <w ref="7.11" lemma="puerperium" pos="NOMcom" msd="Case=Abl|Numb=Sing">puerperio</w>
+    <w ref="7.11" lemma="insequor" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">insecutis</w>
+  </quote>
+</div>

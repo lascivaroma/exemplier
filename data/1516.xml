@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec #celibat">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Epistulae</title>, <biblscope>16.317-16.318</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi002.perseus-lat2:16.317-16.318" type="line">
+    <w ref="16.317" lemma="solus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">Sola</w>
+    <w ana="#acte #metonymie #dormir_avec #celibat" ref="16.317" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">iaces</w>
+    <w ref="16.317" lemma="uiduus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">viduo</w>
+    <w ref="16.317" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+    <w ref="16.317" lemma="longus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">longa</w>
+    <w ref="16.317" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
+    <w ref="16.317" lemma="cubile" pos="NOMcom" msd="Case=Abl|Numb=Sing">cubili</w>
+    <w ref="16.317" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="16.318" lemma="in" pos="PRE" msd="MORPH=empty">In</w>
+    <w ref="16.318" lemma="uiduus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">viduo</w>
+    <w ref="16.318" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">iaceo</w>
+    <w ref="16.318" lemma="solus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">solus</w>
+    <w ref="16.318" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="16.318" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ref="16.318" lemma="torus" pos="NOMcom" msd="Case=Abl|Numb=Sing">toro</w>
+    <w ref="16.318" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

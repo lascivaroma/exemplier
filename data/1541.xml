@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Curculio</title>, <biblscope>57-57</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi008.perseus-lat2:57-57" type="line">
+    <w ref="57" lemma="at2" pos="CONcoo" msd="MORPH=empty">At</w>
+    <w ref="57" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="57" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ést</w>
+    <w ref="57" lemma="pudicus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">pudica</w>
+    <w ref="57" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="57" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="57" lemma="cubito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cubitat</w>
+    <w ref="57" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="57" lemma="uir" pos="NOMcom" msd="Case=Abl|Numb=Plur">viris</w>
+    <w ref="57" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec ">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>1.13.5-1.13.6</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.5-1.13.6" type="line">
+    <w ref="1.13.5" lemma="nunc" pos="ADV" msd="Deg=Pos">Nunc</w>
+    <w ref="1.13.5" lemma="iuuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iuvat</w>
+    <w ref="1.13.5" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.13.5" lemma="tener" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">teneris</w>
+    <w ref="1.13.5" lemma="domina" pos="NOMcom" msd="Case=Gen|Numb=Sing">dominae</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="1.13.5" lemma="iaceo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">iacuisse</w>
+    <w ref="1.13.5" lemma="lacertus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">lacertis</w>
+  </quote>
+</div>

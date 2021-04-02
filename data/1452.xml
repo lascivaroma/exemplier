@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aller_en_vue_de">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.7.1-11.7.4</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.2.639.32ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.7.1-11.7.4" type="line">
+    <w ref="11.7.1" lemma="iam" pos="ADV" msd="Deg=Pos">Iam</w>
+    <w ref="11.7.1" lemma="certe" pos="ADV" msd="Deg=Pos">certe</w>
+    <w ref="11.7.1" lemma="stupidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">stupido</w>
+    <w ref="11.7.1" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="11.7.1" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">dices</w>
+    <w ref="11.7.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.7.1" lemma="paulus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut">Paula</w>
+    <w ref="11.7.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.7.1" lemma="maritus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">marito</w>
+    <w ref="11.7.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.7.2" lemma="ad2" pos="PRE" msd="MORPH=empty">Ad</w>
+    <w ref="11.7.2" lemma="moechus" pos="NOMcom" msd="Case=Acc|Numb=Sing">moechum</w>
+    <w ref="11.7.2" lemma="quotiens1" pos="ADVrel" msd="MORPH=empty">quotiens</w>
+    <w ref="11.7.2" lemma="longe" pos="ADV" msd="Deg=Comp">longius</w>
+    <w ana="#acte #metonymie #aller_en_vue_de" ref="11.7.2" lemma="eo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ire</w>
+    <w ref="11.7.2" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">voles</w>
+    <w ref="11.7.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.7.3" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="11.7.3" lemma="caesar" pos="NOMcom" msd="Case=Nom|Numb=Sing">Caesar</w>
+    <w ref="11.7.3" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="11.7.3" lemma="albanum" pos="ADJqua" msd="Case=Acc|Numb=Sing">Albanum</w>
+    <w ref="11.7.3" lemma="iubeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">iussit</w>
+    <w ref="11.7.3" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="11.7.3" lemma="mane2" pos="ADV" msd="Deg=Pos">mane</w>
+    <w ref="11.7.3" lemma="uenio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">venire</w>
+    <w ref="11.7.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.7.4" lemma="caesar" pos="NOMcom" msd="Case=Nom|Numb=Sing">Caesar</w>
+    <w ref="11.7.4" lemma="circeius" pos="NOMcom" msd="Case=Acc|Numb=Plur">Circeios</w>
+    <w ref="11.7.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

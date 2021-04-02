@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Metamorphoses</title>, <biblscope>3.362-3.365</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:3.362-3.365" type="line">
+    <w ref="3.362" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">Fecerat</w>
+    <w ref="3.362" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="3.362" lemma="iunum" pos="NOMcom" msd="Case=Nom|Numb=Sing">Iuno</w>
+    <w ref="3.362" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.362" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+    <w ref="3.362" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.362" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="3.362" lemma="deprehendo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">deprendere</w>
+    <w ref="3.362" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">posset</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="3.363" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="3.363" lemma="Iuppiter" pos="NOMcom" msd="Case=Abl|Numb=Sing">Iove</w>
+    <w ref="3.363" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
+    <w ref="3.363" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=MascNeut">suo</w>
+    <w ref="3.363" lemma="nympha" pos="NOMcom" msd="Case=Acc|Numb=Plur">nymphas</w>
+    <w ref="3.363" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="3.363" lemma="mons" pos="NOMcom" msd="Case=Abl|Numb=Sing">monte</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="3.363" lemma="iaceo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">iacentes</w>
+    <w ref="3.363" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.364" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="3.364" lemma="dea" pos="NOMcom" msd="Case=Acc|Numb=Sing">deam</w>
+    <w ref="3.364" lemma="longus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">longo</w>
+    <w ref="3.364" lemma="prudens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">prudens</w>
+    <w ref="3.364" lemma="sermo" pos="NOMcom" msd="Case=Abl|Numb=Sing">sermone</w>
+    <w ref="3.364" lemma="teneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">tenebat</w>
+    <w ref="3.364" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.365" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
+    <w ref="3.365" lemma="fugio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">fugerent</w>
+    <w ref="3.365" lemma="nympha" pos="NOMcom" msd="Case=Nom|Numb=Plur">nymphae</w>
+    <w ref="3.365" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

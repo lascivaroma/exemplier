@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aller_en_vue_de #f2m">
+  <bibl ref="#adams"><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblscope>1.5.31-1.5.32</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:1.5.31-1.5.32" type="line">
+    <w ref="1.5.31" lemma="quare2" pos="ADVint" msd="MORPH=empty">quare</w>
+    <w ref="1.5.31" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.5.31" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="1.5.31" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possit</w>
+    <w ref="1.5.31" lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=Fem">mea</w>
+    <w ref="1.5.31" lemma="cynthia" pos="NOMcom" msd="Case=Nom|Numb=Sing">Cynthia</w>
+    <w ref="1.5.31" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.5.31" lemma="desino" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">desine</w>
+    <w ref="1.5.31" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.5.31" lemma="galle" pos="NOMcom" msd="Case=Abl|Numb=Sing">Galle</w>
+    <w ref="1.5.31" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.5.32" lemma="quaero" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">quaerere</w>
+    <w ref="1.5.32" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="1.5.32" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.5.32" lemma="impune" pos="ADV" msd="Deg=Pos">impune</w>
+    <w ref="1.5.32" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="1.5.32" lemma="rogo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">rogata</w>
+    <w ana="#acte #metonymie #aller_en_vue_de #f2m" ref="1.5.32" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">venit</w>
+    <w ref="1.5.32" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

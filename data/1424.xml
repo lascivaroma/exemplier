@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #duco #prostitution">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Mercator</title>, <biblscope>904a-904a</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi011.perseus-lat2:904a-904a" type="line">
+    <w ref="904a" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=MascFem">Quis</w>
+    <w ref="904a" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="904a" lemma="adduco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">adduxit</w>
+    <w ref="904a" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="904a" lemma="uos" pos="PROper" msd="Case=Acc|Numb=Plur">vos</w>
+    <w ref="904a" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

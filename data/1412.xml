@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:173" ana="#acte #metonymie #duco #prostitution">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Mercator</title>, <biblscope>826-829</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi011.perseus-lat2:826-829" type="line">
+    <w ref="826" lemma="ecastor" pos="INJ" msd="MORPH=empty">ecastor</w>
+    <w ref="826" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">faxim</w>
+    <w ref="826" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="826" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="826" lemma="itidem" pos="ADV" msd="Deg=Pos">itidem</w>
+    <w ref="826" lemma="plecto?" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">plectantur</w>
+    <w ref="826" lemma="uir" pos="NOMcom" msd="Case=Nom|Numb=Plur">viri</w>
+    <w ref="826" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="827" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="827" lemma="quis2" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">quis</w>
+    <w ref="827" lemma="clam1" pos="ADV" msd="Deg=Pos">clam</w>
+    <w ref="827" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="827" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">duxerit</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="827" lemma="scortum" pos="NOMcom" msd="Case=Acc|Numb=Sing">scortum</w>
+    <w ref="827" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=Fem">suam</w>
+    <w ref="827" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="828" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="828" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Fem">illae</w>
+    <w ref="828" lemma="exigo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">éxiguntur</w>
+    <w ref="828" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="828" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="828" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="828" lemma="culpa" pos="NOMcom" msd="Case=Acc|Numb=Sing">culpam</w>
+    <w ref="828" lemma="commero" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">commerent</w>
+    <w ref="828" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="829" lemma="multus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Comp">plures</w>
+    <w ref="829" lemma="uir" pos="NOMcom" msd="Case=Nom|Numb=Plur">viri</w>
+    <w ref="829" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sint</w>
+    <w ref="829" lemma="uiduus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Deg=Pos">vidui</w>
+    <w ref="829" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="829" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="829" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Plur">mulieres</w>
+    <w ref="829" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

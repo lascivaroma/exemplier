@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aller_en_vue_de">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Miles Gloriosus</title>, <biblscope>1405a-1405a</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.2.639.32ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi012.perseus-lat2:1405a-1405a" type="line">
+    <w ref="1405a" lemma="oro" pos="VER" msd="Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">Oratus</w>
+    <w ref="1405a" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">sum</w>
+    <w ref="1405a" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1405a" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="1405a" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
+    <w ref="1405a" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ana="#acte #metonymie #aller_en_vue_de" ref="1405a" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1">irem</w>
+    <w ref="1405a" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

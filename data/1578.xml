@@ -1,0 +1,21 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Iustinianus</author>, <title>Digesta Iustiniani Augusti</title>, <biblscope>45.1.134-45.1.134</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.1418.7ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0168.stoa001b.corpuscorporum-lat1:45.1.134-45.1.134" type="section">
+    <w ref="45.1.134" lemma="Titia" pos="NOMpro" msd="Case=Nom|Numb=Sing">Titia</w>
+    <w ref="45.1.134" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="45.1.134" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Fem">quae</w>
+    <w ref="45.1.134" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="45.1.134" lemma="alius" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">alio</w>
+    <w ref="45.1.134" lemma="filius" pos="NOMcom" msd="Case=Acc|Numb=Sing">filium</w>
+    <w ref="45.1.134" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">habebat</w>
+    <w ref="45.1.134" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="45.1.134" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="45.1.134" lemma="matrimonium" pos="NOMcom" msd="Case=Acc|Numb=Sing">matrimonium</w>
+    <w ana="#acte #metonymie #coeo" ref="45.1.134" lemma="coeo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">coit</w>
+    <w ref="45.1.134" lemma="Gaius" pos="NOMpro" msd="Case=Dat|Numb=Sing">Gaio</w>
+    <w ref="45.1.134" lemma="Seius" pos="NOMpro" msd="Case=Dat|Numb=Sing">Seio</w>
+    <w ref="45.1.134" lemma="habeo" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">habenti</w>
+    <w ref="45.1.134" lemma="filia" pos="NOMcom" msd="Case=Acc|Numb=Sing">filiam</w>
+  </quote>
+</div>

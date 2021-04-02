@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Iustinianus</author>, <title>Digesta Iustiniani Augusti</title>, <biblscope>12.4.8-12.4.8</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.1418.7ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0168.stoa001b.corpuscorporum-lat1:12.4.8-12.4.8" type="section">
+    <w ref="12.4.8" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="12.4.8" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="12.4.8" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="12.4.8" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">ea</w>
+    <w ref="12.4.8" lemma="causa" pos="NOMcom" msd="Case=Abl|Numb=Sing">causa</w>
+    <w ref="12.4.8" lemma="nondum" pos="ADVneg" msd="MORPH=empty">nondum</w>
+    <w ana="#acte #metonymie #coeo" ref="12.4.8" lemma="coeo1" pos="VER" msd="Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">coito</w>
+    <w ref="12.4.8" lemma="matrimonium" pos="NOMcom" msd="Case=Abl|Numb=Sing">matrimonio</w>
+    <w ref="12.4.8" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">datur</w>
+  </quote>
+</div>

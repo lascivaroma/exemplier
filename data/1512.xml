@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec #celibat">
+  <bibl ref="#adams"><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblscope>2.21.5-2.21.6</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.21.5-2.21.6" type="line">
+    <w ref="2.21.6" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+    <w ref="2.21.6" lemma="nimium2" pos="ADV" msd="Deg=Pos">nimium</w>
+    <w ref="2.21.6" lemma="credulus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">credula</w>
+    <w ref="2.21.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.21.6" lemma="solus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">sola</w>
+    <w ana="#acte #metonymie #dormir_avec #celibat" ref="2.21.6" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">iaces</w>
+    <w ref="2.21.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #etreavec">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Mother-in-Law</title>, <biblscope>156-157</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi005.perseus-lat2:156-157" type="line">
+    <w ref="156" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="156" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
+    <w ref="156" lemma="spero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">spero</w>
+    <w ref="156" lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
+    <w ref="156" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="156" lemma="cognosco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">cognoverit</w>
+    <w ref="156" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="157" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ref="157" lemma="possum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">posse</w>
+    <w ref="157" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="157" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">mecum</w>
+    <w ana="#acte #metonymie #etreavec" ref="157" lemma="cum3" pos="CON" msd="MORPH=empty">{mecum}</w>
+    <w ana="#acte #metonymie #etreavec" ref="157" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="157" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="157" lemma="abeo1" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">abituram</w>
+    <w ref="157" lemma="denique" pos="ADV" msd="Deg=Pos">denique</w>
+    <w ref="157" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

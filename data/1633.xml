@@ -1,0 +1,21 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Muscio</author>, <title>Gynaecia</title>, <biblscope>22-22</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0205b.stoa001.bolton-lat1:22-22" type="unknown">
+    <w ref="22" lemma="scio" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">sciens</w>
+    <w ref="22" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="22" lemma="masculus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">masculos</w>
+    <w ref="22" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="22" lemma="frequens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">frequens</w>
+    <w ana="#acte #metonymie #coeo" ref="22" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coitus</w>
+    <w ana="#acte #metonymie #coeo" ref="22" lemma="male" pos="ADV" msd="Deg=Pos">male</w>
+    <w ref="22" lemma="accipio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">accipere</w>
+    <w ref="22" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="22" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+    <w ref="22" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="22" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="22" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Plur">mulieres</w>
+    <w ref="22" lemma="uexo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">vexantur</w>
+    <w ref="22" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec">
+  <bibl ref="#adams"><author>Statius, P. Papinius (Publius Papinius)</author>, <title>Thebais</title>, <biblscope>2.330-2.335</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1020.phi001.perseus-lat2:2.330-2.335" type="line">
+    <w ref="2.333" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.333" lemma="ut" pos="ADVrel" msd="MORPH=empty">utque</w>
+    <w ref="2.333" lemma="que" pos="CON" msd="MORPH=empty">{utque}</w>
+    <w ref="2.333" lemma="torus" pos="NOMcom" msd="Case=Abl|Numb=Plur">toris</w>
+    <w ref="2.333" lemma="primus" pos="ADJadv.ord" msd="Deg=Sup">primo</w>
+    <w ref="2.333" lemma="complector" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">complexa</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="2.333" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">iacebat</w>
+    <w ref="2.334" lemma="aurora" pos="NOMcom" msd="Case=Gen|Numb=Sing">aurorae</w>
+    <w ref="2.334" lemma="pallor" pos="NOMcom" msd="Case=Abl|Numb=Sing">pallore</w>
+    <w ref="2.334" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Sing">virum</w>
+  </quote>
+</div>

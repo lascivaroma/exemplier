@@ -1,0 +1,26 @@
+<div type="fragment" corresp="adams:178" ana="#acte #metonymie #rester_avec #prostitution">
+  <bibl ref="#adams"><author>Pseudo-Acro</author>, <title>Commentum in Horati Epistulas</title>, <biblscope>1.17.36-1.17.36</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VIII.283.11ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0004a.stoa005.horatiusNet-lat1:1.17.36-1.17.36" type="comment">
+    <w ref="1.17.36" lemma="Graecus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">Graecum</w>
+    <w ref="1.17.36" lemma="prouerbium" pos="NOMcom" msd="Case=Nom|Numb=Sing">prouerbium</w>
+    <w ref="1.17.36" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1.17.36" lemma="propter2" pos="PRE" msd="MORPH=empty">propter</w>
+    <w ref="1.17.36" lemma="Lais" pos="NOMpro" msd="Case=Acc|Numb=Sing">Laidem</w>
+    <w ref="1.17.36" lemma="Corinthius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">Corinthiam</w>
+    <w ref="1.17.36" lemma="dico2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">dictum</w>
+    <w ref="1.17.36" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ana="#acte #metonymie #rester_avec #prostitution" ref="1.17.36" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Sing">noctem</w>
+    <w ref="1.17.36" lemma="talentum" pos="NOMcom" msd="Case=Abl|Numb=Sing">talento</w>
+    <w  ana="#acte #metonymie #rester_avec #prostitution #composite" ref="1.17.36" lemma="uendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">uendebat</w>
+    <w ref="1.17.36" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.17.36" lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
+    <w ref="1.17.36" lemma="nemo" pos="PROind" msd="Case=Nom|Numb=Sing">nemo</w>
+    <w ref="1.17.36" lemma="immunis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">inmunis</w>
+    <w ref="1.17.36" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="1.17.36" lemma="amor" pos="NOMcom" msd="Case=Abl|Numb=Sing">amore</w>
+    <w ref="1.17.36" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="1.17.36" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
+    <w ref="1.17.36" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

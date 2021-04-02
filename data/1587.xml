@@ -1,0 +1,24 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Gaius</author>, <title>Institutiones</title>, <biblscope>1.84-1.84</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.1418.7ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1251.phi001.corpuscorporum-lat1:1.84-1.84" type="section">
+    <w ref="1.84" lemma="ecce" pos="INJ" msd="MORPH=empty">Ecce</w>
+    <w ref="1.84" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="1.84" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="1.84" lemma="senatus" pos="NOMcom" msd="Case=Gen|Numb=Sing">senatus</w>
+    <w ref="1.84" lemma="consultum" pos="NOMcom" msd="Case=Abl|Numb=Sing">consulto</w>
+    <w ref="1.84" lemma="Claudianus" pos="NOMpro" msd="Case=Dat|Numb=Sing|Deg=Pos">Claudiano</w>
+    <w ref="1.84" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">poterat</w>
+    <w ref="1.84" lemma="ciuis" pos="NOMcom" msd="Case=Nom|Numb=Sing">civis</w>
+    <w ref="1.84" lemma="Romanus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Romana</w>
+    <w ref="1.84" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.84" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="1.84" lemma="alienus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">alieno</w>
+    <w ref="1.84" lemma="seruus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">servo</w>
+    <w ref="1.84" lemma="uolo3" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">volente</w>
+    <w ref="1.84" lemma="dominus" pos="NOMcom" msd="Case=Dat|Numb=Sing">domino</w>
+    <w ref="1.84" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ana="#acte #metonymie #coeo" ref="1.84" lemma="coeo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">coiit</w>
+    <w ref="1.84" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

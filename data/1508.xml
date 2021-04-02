@@ -1,0 +1,21 @@
+<div  type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec">
+  <bibl ref="#adams"><author>Vopiscus, Flavius fl. 3./4. Jh.</author>, <title>Helius</title>, <biblscope>5-5</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi002.perseus-lat2:5-5" type="chapter">
+    <w ref="5" lemma="repleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">replebat</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="5" lemma="iaceo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">iacensque</w>
+    <w ref="5" lemma="que" pos="CON" msd="MORPH=empty">{iacensque}</w>
+    <w ana="#acte #metonymie #dormir_avec" ref="5" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="5" lemma="concubinus" pos="NOMcom" msd="Case=Abl|Numb=Plur">concubinis</w>
+    <w ref="5" lemma="uelamen" pos="NOMcom" msd="Case=Abl|Numb=Sing">velamine</w>
+    <w ref="5" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="5" lemma="lilium" pos="NOMcom" msd="Case=Abl|Numb=Plur">liliis</w>
+    <w ref="5" lemma="facio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">facto</w>
+    <w ref="5" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="5" lemma="tego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">tegebat</w>
+    <w ref="5" lemma="ungo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">unctus</w>
+    <w ref="5" lemma="odor" pos="NOMcom" msd="Case=Abl|Numb=Plur">odoribus</w>
+    <w ref="5" lemma="persicus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">Persicis</w>
+    <w ref="5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

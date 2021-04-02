@@ -1,0 +1,31 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #duco #prostitution">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Poenulus</title>, <biblscope>272-274</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi015.perseus-lat2:272-274" type="line">
+    <w ref="272" lemma="quasi1" pos="ADVrel" msd="MORPH=empty">quasi</w>
+    <w ref="272" lemma="bellus" pos="NOMcom" msd="Case=Nom|Numb=Plur">bella</w>
+    <w ref="272" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="272" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="272" lemma="quasi2" pos="CONsub" msd="MORPH=empty">quasi</w>
+    <w ref="272" lemma="ipse" pos="PROdem" msd="Case=Nom|Gend=Fem|Deg=Pos">eampse</w>
+    <w ref="272" lemma="rex" pos="NOMcom" msd="Case=Nom|Numb=Plur">reges</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="272" lemma="ductito" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">ductitent</w>
+    <w ref="272" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="273" lemma="monstrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">monstrum</w>
+    <w ref="273" lemma="mulier" pos="NOMcom" msd="Case=Gen|Numb=Sing">mulieris</w>
+    <w ref="273" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="273" lemma="tantilla" pos="NOMcom" msd="Case=Nom|Numb=Sing">tantilla</w>
+    <w ref="273" lemma="tantus" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">tanta</w>
+    <w ref="273" lemma="uerbum" pos="NOMcom" msd="Case=Acc|Numb=Plur">verba</w>
+    <w ref="273" lemma="fundito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">funditat</w>
+    <w ref="273" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="274" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">quoius</w>
+    <w ref="274" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">egó</w>
+    <w ref="274" lemma="nebula" pos="NOMcom" msd="Case=Gen|Numb=Sing">nebulai</w>
+    <w ref="274" lemma="cyathus" pos="NOMcom" msd="Case=Dat|Numb=Sing">cyatho</w>
+    <w ref="274" lemma="septem" pos="ADJcar" msd="Case=Ind">septem</w>
+    <w ref="274" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Plur">noctes</w>
+    <w ref="274" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="274" lemma="emo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">emam</w>
+    <w ref="274" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

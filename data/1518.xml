@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec #celibat">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>2.10.15-2.10.16</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.10.15-2.10.16" type="line">
+    <w ref="2.10.15" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="2.10.15" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="2.10.15" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="2.10.15" lemma="bonus" pos="ADV" msd="Numb=Sing|Gend=Neut|Deg=Comp">melius</w>
+    <w ref="2.10.15" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.10.15" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="2.10.15" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="2.10.15" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="2.10.15" lemma="amor" pos="NOMcom" msd="Case=Abl|Numb=Sing">amore</w>
+    <w ana="#acte #metonymie #dormir_avec #celibat" ref="2.10.15" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1">iacerem</w>
+    <w ref="2.10.15" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+    <w ref="2.10.16" lemma="hostis" pos="NOMcom" msd="Case=Dat|Numb=Plur">Hostibus</w>
+    <w ref="2.10.16" lemma="euenio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">eveniat</w>
+    <w ref="2.10.16" lemma="uita" pos="NOMcom" msd="Case=Nom|Numb=Sing">vita</w>
+    <w ref="2.10.16" lemma="seuerus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">severa</w>
+    <w ref="2.10.16" lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Plur|Gend=Com">meis</w>
+    <w ref="2.10.16" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:173" ana="#acte #metonymie #futuo #detendre">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.21.1-11.21.4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.21.1-11.21.4" type="line">
+    <w ref="11.21.1" lemma="lydius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Lydia</w>
+    <w ref="11.21.1" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+    <w ana="#acte #metonymie #futuo #detendre" ref="11.21.1" lemma="laxus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">laxa</w>
+    <w ref="11.21.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="11.21.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.21.1" lemma="eques" pos="NOMcom" msd="Case=Gen|Numb=Sing">equitis</w>
+    <w ref="11.21.1" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="11.21.1" lemma="culus" pos="NOMcom" msd="Case=Nom|Numb=Sing">culus</w>
+    <w ref="11.21.1" lemma="aenum" pos="NOMcom" msd="Case=Gen|Numb=Sing">aheni</w>
+    <w ref="11.21.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.21.2" lemma="quam1" pos="ADVrel" msd="MORPH=empty">Quam</w>
+    <w ref="11.21.2" lemma="celer" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">celer</w>
+    <w ref="11.21.2" lemma="argutus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">arguto</w>
+    <w ref="11.21.2" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="11.21.2" lemma="sono1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sonat</w>
+    <w ref="11.21.2" lemma="aes" pos="NOMcom" msd="Case=Abl|Numb=Sing">aere</w>
+    <w ref="11.21.2" lemma="trochus" pos="NOMcom" msd="Case=Nom|Numb=Sing">trochus</w>
+    <w ref="11.21.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.21.3" lemma="quam1" pos="ADVrel" msd="MORPH=empty">Quam</w>
+    <w ref="11.21.3" lemma="rota" pos="NOMcom" msd="Case=Abl|Numb=Sing">rota</w>
+    <w ref="11.21.3" lemma="transmitto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">transmisso</w>
+    <w ref="11.21.3" lemma="totiens" pos="ADV" msd="Deg=Pos">totiens</w>
+    <w ref="11.21.3" lemma="impingo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">inpacta</w>
+    <w ref="11.21.3" lemma="petaurum" pos="NOMcom" msd="Case=Abl|Numb=Sing">petauro</w>
+    <w ref="11.21.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.21.4" lemma="quam1" pos="PROrel" msd="Numb=Sing">Quam</w>
+    <w ref="11.21.4" lemma="uetus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">vetus</w>
+    <w ref="11.21.4" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="11.21.4" lemma="crassus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">crassa</w>
+    <w ref="11.21.4" lemma="calceus" pos="NOMcom" msd="Case=Nom|Numb=Sing">calceus</w>
+    <w ref="11.21.4" lemma="udus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc">udus</w>
+    <w ref="11.21.4" lemma="aqua" pos="NOMcom" msd="Case=Abl|Numb=Sing">aqua</w>
+    <w ref="11.21.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

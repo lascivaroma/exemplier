@@ -1,0 +1,35 @@
+<div  type="fragment" corresp="adams:177" ana="#acte #metonymie #m2puer #dormir_avec">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.56.9-11.56.14</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.1.2030.1ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.56.9-11.56.14" type="line">
+    <w ref="11.56.9" lemma="leuconicus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">Leuconicis</w>
+    <w ref="11.56.9" lemma="agedum" pos="INJ" msd="MORPH=empty">agedum</w>
+    <w ref="11.56.9" lemma="tumeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">tumeat</w>
+    <w ref="11.56.9" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="11.56.9" lemma="culcita" pos="NOMcom" msd="Case=Nom|Numb=Sing">culcita</w>
+    <w ref="11.56.9" lemma="lana" pos="NOMcom" msd="Case=Abl|Numb=Plur">lanis</w>
+    <w ref="11.56.10" lemma="constringo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">Constringatque</w>
+    <w ref="11.56.10" lemma="que" pos="CON" msd="MORPH=empty">{Constringatque}</w>
+    <w ref="11.56.10" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Masc">tuos</w>
+    <w ref="11.56.10" lemma="purpura" pos="NOMcom" msd="Case=Nom|Numb=Sing">purpura</w>
+    <w ref="11.56.10" lemma="pexo" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=Fem">pexa</w>
+    <w ref="11.56.10" lemma="torus" pos="NOMcom" msd="Case=Acc|Numb=Plur">toros</w>
+    <w ref="11.56.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #m2puer #dormir_avec" ref="11.56.11" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">Dormiat</w>
+    <w ref="11.56.11" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="11.56.11" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">tecum</w>
+    <w  ana="#acte #metonymie #m2puer #dormir_avec" ref="11.56.11" lemma="cum3" pos="CON" msd="MORPH=empty">{tecum}</w>
+    <w ref="11.56.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.56.11" lemma="modo1" pos="ADV" msd="Deg=Pos">modo</w>
+    <w ref="11.56.11" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="11.56.11" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
+    <w ref="11.56.11" lemma="caecuba" pos="NOMcom" msd="Case=Acc|Numb=Sing">Caecuba</w>
+    <w ref="11.56.11" lemma="misceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">miscet</w>
+    <w ref="11.56.12" lemma="conuiua" pos="NOMcom" msd="Case=Acc|Numb=Plur">Convivas</w>
+    <w ref="11.56.12" lemma="roseus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">roseo</w>
+    <w ref="11.56.12" lemma="torqueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">torserat</w>
+    <w ref="11.56.12" lemma="os1" pos="NOMcom" msd="Case=Abl|Numb=Sing">ore</w>
+    <w ref="11.56.12" lemma="puer" pos="NOMcom" msd="Case=Voc|Numb=Sing">puer</w>
+    <w ref="11.56.12" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+  </quote>
+</div>

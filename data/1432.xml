@@ -1,0 +1,36 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aggression">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>7.8.9-7.8.9</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:7.8.9-7.8.9" type="section">
+    <w ref="7.8.9" lemma="passienus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Passienus</w>
+    <w ref="7.8.9" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">hanc</w>
+    <w ref="7.8.9" lemma="ultimus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">ultimam</w>
+    <w ref="7.8.9" lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Sing">partem</w>
+    <w ref="7.8.9" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+    <w ref="7.8.9" lemma="diuido" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">diuidebat</w>
+    <w ref="7.8.9" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="7.8.9" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="7.8.9" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="7.8.9" lemma="adolescens1" pos="NOMcom" msd="Case=Nom|Numb=Sing">adulescens</w>
+    <w ref="7.8.9" lemma="malus3" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">malo</w>
+    <w ref="7.8.9" lemma="aduersus3" pos="PRE" msd="MORPH=empty">aduersus</w>
+    <w ref="7.8.9" lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Sing">puellam</w>
+    <w ref="7.8.9" lemma="animus" pos="NOMcom" msd="Case=Abl|Numb=Sing">animo</w>
+    <w ref="7.8.9" lemma="infitior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">infitiatus</w>
+    <w ref="7.8.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ana="#acte #metonymie #aggression" ref="7.8.9" lemma="rapio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">raptum</w>
+    <w ref="7.8.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.8.9" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="7.8.9" lemma="nuptiae" pos="NOMcom" msd="Case=Acc|Numb=Plur">nuptias</w>
+    <w ref="7.8.9" lemma="effugio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">effugeret</w>
+    <w ref="7.8.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.8.9" lemma="dignus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">dignus</w>
+    <w ref="7.8.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="7.8.9" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="7.8.9" lemma="iterum" pos="ADV" msd="Deg=Pos">iterum</w>
+    <w ref="7.8.9" lemma="fortuna" pos="NOMcom" msd="Case=Acc|Numb=Sing">fortunam</w>
+    <w ref="7.8.9" lemma="subeo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">subeat</w>
+    <w ref="7.8.9" lemma="optio?" pos="NOMcom" msd="Case=Gen|Numb=Sing">optionis</w>
+    <w ref="7.8.9" lemma="recuso" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">recusatae</w>
+    <w ref="7.8.9" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

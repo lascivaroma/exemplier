@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Vulgate</author>, <title>Exodus</title>, <biblscope>22.16-22.22</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg002.obi-lat1:22.16-22.22" type="verse">
+    <w ref="22.19" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ana="#acte #metonymie #coeo" ref="22.19" lemma="coeo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">coierit</w>
+    <w ref="22.19" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="22.19" lemma="iumentum" pos="NOMcom" msd="Case=Abl|Numb=Sing">iumento</w>
+    <w ref="22.19" lemma="mors" pos="NOMcom" msd="Case=Abl|Numb=Sing">morte</w>
+    <w ref="22.19" lemma="morior" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3">moriatur</w>
+  </quote>
+</div>

@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Metamorphoses</title>, <biblscope>7.709-7.710</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:7.709-7.710" type="line">
+    <w ref="7.709" lemma="sacrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">Sacra</w>
+    <w ref="7.709" lemma="torus" pos="NOMcom" msd="Case=Gen|Numb=Sing">tori</w>
+    <w ana="#acte #metonymie #coeo" ref="7.709" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Plur">coitusque</w>
+    <w ref="7.709" lemma="que" pos="CON" msd="MORPH=empty">{coitusque}</w>
+    <w ref="7.709" lemma="nouus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">novos</w>
+    <w ref="7.709" lemma="thalamus" pos="NOMcom" msd="Case=Acc|Numb=Plur">thalamosque</w>
+    <w ref="7.709" lemma="que" pos="CON" msd="MORPH=empty">{thalamosque}</w>
+    <w ref="7.709" lemma="recens1" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">recentes</w>
+    <w ref="7.710" lemma="primus" pos="ADJord" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Sup">primaque</w>
+    <w ref="7.710" lemma="que" pos="CON" msd="MORPH=empty">{primaque}</w>
+    <w ref="7.710" lemma="desero2" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">deserti</w>
+    <w ref="7.710" lemma="refero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=1">referebam</w>
+    <w ref="7.710" lemma="foedus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">foedera</w>
+    <w ref="7.710" lemma="lectus1" pos="NOMcom" msd="Case=Gen|Numb=Plur">lecti</w>
+    <w ref="7.710" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,25 @@
+<div  type="fragment" corresp="adams:173" ana="#acte #metonymie #duco #prostitution">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Casina</title>, <biblscope>1015-1018</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi006.perseus-lat2:1015-1018" type="line">
+    <w ref="1015" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="1015" lemma="uos" pos="PROper" msd="Case=Acc|Numb=Plur">vos</w>
+    <w ref="1015" lemma="aequus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">aequomst</w>
+    <w ref="1015" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">{aequomst}</w>
+    <w ref="1015" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">manibus</w>
+    <w ref="1015" lemma="meritum" pos="NOMcom" msd="Case=Dat|Numb=Plur">meritis</w>
+    <w ref="1015" lemma="mereor" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem">meritam</w>
+    <w ref="1015" lemma="merces" pos="NOMcom" msd="Case=Acc|Numb=Sing">mercedem</w>
+    <w ref="1015" lemma="do" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dare</w>
+    <w ref="1015" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="1016" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="1016" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">faxit</w>
+    <w ref="1016" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1016" lemma="clam1" pos="ADV" msd="Deg=Pos">clam</w>
+    <w ref="1016" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="1016" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">ducet</w>
+    <w ref="1016" lemma="semper" pos="ADV" msd="Deg=Pos">semper</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="1016" lemma="scortum" pos="NOMcom" msd="Case=Acc|Numb=Sing">scortum</w>
+    <w ref="1016" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="1016" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">volet</w>
+  </quote>
+</div>

@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aller_en_vue_de #m2f">
+  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>32.1-32.3</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:32.1-32.3" type="line">
+    <w ref="32.1" lemma="amo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">Amabo</w>
+    <w ref="32.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="32.1" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">mea</w>
+    <w ref="32.1" lemma="dulcis" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=MascFem|Deg=Pos">dulcis</w>
+    <w ref="32.1" lemma="ipsithilla" pos="NOMcom" msd="Case=Voc|Numb=Sing">Ipsithilla</w>
+    <w ref="32.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="32.2" lemma="meus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=Fem">meae</w>
+    <w ref="32.2" lemma="delicia1" pos="NOMcom" msd="Case=Voc|Numb=Sing">deliciae</w>
+    <w ref="32.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="32.2" lemma="meus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=MascNeut">mei</w>
+    <w ref="32.2" lemma="lepor" pos="NOMcom" msd="Case=Acc|Numb=Plur">lepores</w>
+    <w ref="32.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="32.3" lemma="iubeo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">iube</w>
+    <w ref="32.3" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="32.3" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ana="#acte #metonymie #aller_en_vue_de #m2f" ref="32.3" lemma="uenio" pos="VER" msd="Case=Acc|Numb=Sing">veniam</w>
+    <w ref="32.3" lemma="meridio" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">meridiatum</w>
+    <w ref="32.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

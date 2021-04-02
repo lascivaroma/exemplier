@@ -1,0 +1,32 @@
+<div type="fragment" corresp="adams:173" ana="#acte #metonymie #duco #prostitution">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Mercator</title>, <biblscope>1021-1023</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi011.perseus-lat2:1021-1023" type="line">
+    <w ref="1021" lemma="neue2" pos="CONsub" msd="MORPH=empty">neu</w>
+    <w ref="1021" lemma="quisquam" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">quisquam</w>
+    <w ref="1021" lemma="posthac" pos="ADV" msd="Deg=Pos">posthac</w>
+    <w ref="1021" lemma="prohibeo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2">prohibeto</w>
+    <w ref="1021" lemma="adolescens1" pos="NOMcom" msd="Case=Acc|Numb=Sing">ádulescentem</w>
+    <w ref="1021" lemma="filius" pos="NOMcom" msd="Case=Acc|Numb=Sing">filium</w>
+    <w ref="1022" lemma="quin2" pos="CONsub" msd="MORPH=empty">quin</w>
+    <w ref="1022" lemma="amo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">amet</w>
+    <w ref="1022" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="1022" lemma="scortum" pos="NOMcom" msd="Case=Acc|Numb=Sing">scortum</w>
+    <w ana="#acte #metonymie #duco #prostitution" ref="1022" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">ducat</w>
+    <w ref="1022" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1022" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="1022" lemma="bonus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">bono</w>
+    <w ref="1022" lemma="fio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">fiat</w>
+    <w ref="1022" lemma="modus" pos="NOMcom" msd="Case=Abl|Numb=Sing|Deg=Pos">modo</w>
+    <w ref="1022" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="1023" lemma="siquo" pos="NOMcom" msd="Case=Abl|Numb=Plur">siquis</w>
+    <w ref="1023" lemma="prohibeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">prohibuerit</w>
+    <w ref="1023" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1023" lemma="multus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Comp">plus</w>
+    <w ref="1023" lemma="perdo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">perdet</w>
+    <w ref="1023" lemma="clam1" pos="ADV" msd="Deg=Pos">clam</w>
+    <w ref="1023" lemma="quasi1" pos="ADVrel" msd="MORPH=empty">quasi</w>
+    <w ref="1023" lemma="praehibeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">praehibuerit</w>
+    <w ref="1023" lemma="palam1" pos="ADV" msd="Deg=Pos">palam</w>
+    <w ref="1023" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

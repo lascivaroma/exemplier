@@ -1,0 +1,12 @@
+<div type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec #nu">
+  <bibl ref="#adams"><author>Juvenal</author>, <title>Satires</title>, <biblscope>6.126</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.126" type="line">
+  <w lemma="resupinus" pos="ADJqua" ref="6.126" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">resupina</w>
+	<w ana="#acte #metonymie #dormir_avec #nu" lemma="iaceo" pos="VER" ref="6.126" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">iacens</w>
+	<w lemma="cunctus" pos="ADJqua" ref="6.126" msd="Case=Gen|Numb=Plur|Gend=MascNeut|Deg=Pos">cunctorum</w>
+	<w lemma="absorbeo" pos="VER" ref="6.126" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">absorbuit</w>
+	<w lemma="ictus" pos="NOMcom" ref="6.126" msd="Case=Acc|Numb=Plur">ictus</w>
+	<w lemma="." pos="PUNC" ref="6.126" msd="MORPH=empty">.</w>
+  </quote>
+</div>

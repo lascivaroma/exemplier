@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Servius</author>, <title>In Vergilii Georgicon Libros</title>, <biblscope>3.127-3.127</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi2349.phi007.perseus-lat1:3.127-3.127" type="comment">
+    <w ref="3.127" lemma="blandus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">blando</w>
+    <w ref="3.127" lemma="labor1" pos="NOMcom" msd="Case=Dat|Numb=Sing">labori</w>
+    <w ref="3.127" lemma="periphrasus" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">periphrasis</w>
+    <w ana="#acte #metonymie #coeo" ref="3.127" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Plur">coitus</w>
+    <w ref="3.127" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>
