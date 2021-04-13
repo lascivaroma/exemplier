@@ -1,0 +1,22 @@
+<div  type="fragment" corresp="adams:183" ana="#acte #metonymie #rub">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>46.7-46.10</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:46.7-46.10" type="line">
+    <w ref="46.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="46.8" lemma="eruca" pos="NOMcom" msd="Case=Gen|Numb=Plur">erucarum</w>
+    <w ref="46.8" lemma="opus2" pos="NOMcom" msd="Case=Ind">opus</w>
+    <w ref="46.8" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="46.8" lemma="decem" pos="ADJcar" msd="Case=Ind">decem</w>
+    <w ref="46.8" lemma="manipulus" pos="NOMcom" msd="Case=Abl|Numb=Plur">maniplis</w>
+    <w ref="46.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="46.9" lemma="fossa" pos="NOMcom" msd="Case=Acc|Numb=Plur">fossas</w>
+    <w ref="46.9" lemma="inguen" pos="NOMcom" msd="Case=Gen|Numb=Sing">inguinis</w>
+    <w ref="46.9" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ana="#acte #metonymie #rub" ref="46.9" lemma="tero" pos="VER" msd="Numb=Sing|Person=1">teram</w>
+    <w ref="46.9" lemma="dolo" pos="VER" msd="Numb=Sing|Person=1">dolemque</w>
+    <w ref="46.9" lemma="que" pos="CON" msd="MORPH=empty">{dolemque}</w>
+    <w ref="46.10" lemma="cunnus" pos="NOMcom" msd="Case=Gen|Numb=Sing">cunni</w>
+    <w ref="46.10" lemma="uermiculus" pos="NOMcom" msd="Case=Acc|Numb=Plur">uermiculos</w>
+    <w ref="46.10" lemma="scaturio" pos="VER" msd="Case=Gen|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">scaturrientis</w>
+    <w ref="46.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

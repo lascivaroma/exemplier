@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:187" ana="#acte #metonymie #have #orgasm">
+  <bibl ref="#adams"><author>Lucretius</author>, <title>De Rerum Natura</title>, <biblscope>4.1073-4.1078</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:4.1073-4.1078" type="line">
+    <w ref="4.1076" lemma="etenim" pos="CONcoo" msd="MORPH=empty">etenim</w>
+    <w ana="#acte #metonymie #have" ref="4.1076" lemma="potior" pos="VER" msd="Case=Gen|Numb=Sing|Mood=Ger|Voice=Dep">potiundi</w>
+    <w ref="4.1076" lemma="tempus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">tempore</w>
+    <w ref="4.1076" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="4.1076" lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">ipso</w>
+    <w ref="4.1077" lemma="fluctuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fluctuat</w>
+    <w ref="4.1077" lemma="incertus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">incertis</w>
+    <w ref="4.1077" lemma="error" pos="NOMcom" msd="Case=Abl|Numb=Plur">erroribus</w>
+    <w ref="4.1077" lemma="ardor" pos="NOMcom" msd="Case=Nom|Numb=Sing">ardor</w>
+    <w ref="4.1077" lemma="amans1" pos="NOMcom" msd="Case=Gen|Numb=Plur">amantum</w>
+  </quote>
+</div>

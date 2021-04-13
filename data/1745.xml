@@ -1,0 +1,39 @@
+<div type="fragment" corresp="adams:183" ana="#acte #metonymie #rub">
+  <bibl ref="#adams"><author>Tertullian ca. 160-ca. 230</author>, <title>De Carnis Resurrectione</title>, <biblscope>16-16</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa026.opp-lat2:16-16" type="section">
+    <w ref="16" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="16" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="16" lemma="calix" pos="NOMcom" msd="Case=Acc|Numb=Sing">calicem</w>
+    <w ref="16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="16" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="16" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">dico</w>
+    <w ref="16" lemma="uenenaris" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut">uenenarium</w>
+    <w ref="16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="16" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="16" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+    <w ref="16" lemma="mors" pos="NOMcom" msd="Case=Nom|Numb=Sing">mors</w>
+    <w ref="16" lemma="aliquis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">aliqua</w>
+    <w ref="16" lemma="ructo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">ructarit</w>
+    <w ref="16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="16" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ana="#acte #metonymie #rub" ref="16" lemma="frictrix" pos="NOMcom" msd="Case=Abl|Numb=Sing">frictricis</w>
+    <w ref="16" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="16" lemma="archigallus" pos="NOMcom" msd="Case=Gen|Numb=Sing">archigalli</w>
+    <w ref="16" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="16" lemma="gladiator" pos="NOMcom" msd="Case=Gen|Numb=Sing">gladiatoris</w>
+    <w ref="16" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="16" lemma="carnifex" pos="NOMcom" msd="Case=Gen|Numb=Sing">carnificis</w>
+    <w ref="16" lemma="spiritus" pos="NOMcom" msd="Case=Abl|Numb=Sing">spiritu</w>
+    <w ref="16" lemma="inficio" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">infectum</w>
+    <w ref="16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="16" lemma="quaero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">quaero</w>
+    <w ref="16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="16" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="16" lemma="parum2" pos="ADV" msd="Deg=Comp">minus</w>
+    <w ref="16" lemma="damno" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">damnes</w>
+    <w ref="16" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="16" lemma="osculum" pos="NOMcom" msd="Case=Acc|Numb=Plur">oscula</w>
+    <w ref="16" lemma="ipse" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=MascNeut">ipsorum</w>
+    <w ref="16" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

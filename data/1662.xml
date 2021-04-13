@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
+  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>127-127</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.658.3ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:127-127" type="section">
+    <w ref="127" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="127" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="127" lemma="concedo1" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">concesso</w>
+    <w ana="#acte #metonymie #join" ref="127" lemma="iungo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">iunxit</w>
+    <w ref="127" lemma="amor" pos="NOMcom" msd="Case=Dat|Numb=Sing">amori</w>
+    <w ref="127" lemma="Iuppiter" pos="NOMpro" msd="Case=Nom|Numb=Sing">Iuppiter</w>
+  </quote>
+</div>

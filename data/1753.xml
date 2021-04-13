@@ -1,0 +1,17 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #fututio">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Eunuch</title>, <biblscope>371-373</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi003.perseus-lat2:371-373" type="line">
+    <w ref="372" lemma="cibus" pos="NOMcom" msd="Case=Acc|Numb=Sing">Cibum</w>
+    <w ref="372" lemma="una" pos="ADV" msd="MORPH=empty">una</w>
+    <w ref="372" lemma="capio2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">capias</w>
+    <w ref="372" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="372" lemma="assum1" pos="VER" msd="Numb=Sing|Person=2">adsis</w>
+    <w ref="372" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #toucher #fututio" ref="372" lemma="tango" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">tangas</w>
+    <w ref="372" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="372" lemma="ludo" pos="VER" msd="Case=Acc|Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">ludas</w>
+    <w ref="372" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="372" lemma="propter2" pos="PRE" msd="MORPH=empty">propter</w>
+    <w ref="372" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">dormias</w>
+  </quote>
+</div>

@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:185" ana="#acte #metonymie #have">
+  <bibl ref="#adams"><author>Cicero</author>, <title>Letters to his Friends</title>, <biblscope>9.26.2-9.26.2</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VI.3.2409.33ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi056.perseus-lat1:9.26.2-9.26.2" type="section">
+    <w ref="9.26.2" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="9.26.2" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="9.26.2" lemma="ne3" pos="ADVneg" msd="MORPH=empty">ne</w>
+    <w ref="9.26.2" lemma="Aristippus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Aristippus</w>
+    <w ref="9.26.2" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ref="9.26.2" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="9.26.2" lemma="Socraticus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Socraticus</w>
+    <w ref="9.26.2" lemma="erubesco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">erubuit</w>
+    <w ref="9.26.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.26.2" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="9.26.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">esset</w>
+    <w ref="9.26.2" lemma="obicio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">obiectum</w>
+    <w ana="#acte #metonymie #have" ref="9.26.2" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
+    <w ref="9.26.2" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eum</w>
+    <w ref="9.26.2" lemma="Laida" pos="NOMpro" msd="Case=Acc|Numb=Sing">Laida</w>
+    <w ref="9.26.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

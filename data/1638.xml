@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Arnobius of Sicca</author>, <title>Arnobii adversus nationes Libri VII</title>, <biblscope>4.22-4.22</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.l444.43ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:4.22-4.22" type="section">
+    <w ref="4.22" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="4.22" lemma="contentus1" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">contenti</w>
+    <w ref="4.22" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Masc">hos</w>
+    <w ana="#acte #metonymie #coeo" ref="4.22" lemma="coetus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coetus</w>
+    <w ref="4.22" lemma="grauitas" pos="NOMcom" msd="Case=Dat|Numb=Sing">grauitati</w>
+    <w ref="4.22" lemma="attribuo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">attribuisse</w>
+    <w ref="4.22" lemma="Saturnia" pos="NOMpro" msd="Case=Dat|Numb=Sing">Saturniae</w>
+  </quote>
+</div>

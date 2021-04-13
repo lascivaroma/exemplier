@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Augustine</author>, <title>De civitate dei</title>, <biblscope>1.18-1.18</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0040.stoa003.opp-lat3:1.18-1.18" type="chapter">
+    <w ref="1.18" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Fem">Quam</w>
+    <w ref="1.18" lemma="ob" pos="PRE" msd="MORPH=empty">ob</w>
+    <w ref="1.18" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Sing">rem</w>
+    <w ref="1.18" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.18" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habet</w>
+    <w ref="1.18" lemma="quod2" pos="CONsub" msd="Gend=Neut">quod</w>
+    <w ref="1.18" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.18" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="1.18" lemma="mors" pos="NOMcom" msd="Case=Abl|Numb=Sing">morte</w>
+    <w ref="1.18" lemma="spontaneus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">spontanea</w>
+    <w ref="1.18" lemma="punio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">puniat</w>
+    <w ref="1.18" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">femina</w>
+    <w ref="1.18" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="1.18" lemma="ullus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">ulla</w>
+    <w ref="1.18" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=Fem">sua</w>
+    <w ref="1.18" lemma="consensio" pos="NOMcom" msd="Case=Abl|Numb=Sing">consensione</w>
+    <w ref="1.18" lemma="uiolenter" pos="ADV" msd="Deg=Pos">uiolenter</w>
+    <w ref="1.18" lemma="opprimo" pos="VER" msd="Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">obpressa</w>
+    <w ref="1.18" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.18" lemma="alienus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">alieno</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="1.18" lemma="comprimo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">conpressa</w>
+    <w ref="1.18" lemma="peccatum" pos="NOMcom" msd="Case=Abl|Numb=Sing">peccato</w>
+    <w ref="1.18" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="1.18" lemma="quanto1" pos="ADVrel" msd="MORPH=empty">quanto</w>
+    <w ref="1.18" lemma="parum2" pos="ADV" msd="Deg=Comp">minus</w>
+    <w ref="1.18" lemma="antequam1" pos="CONsub" msd="MORPH=empty">antequam</w>
+    <w ref="1.18" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="1.18" lemma="fio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">fiat</w>
+    <w ref="1.18" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

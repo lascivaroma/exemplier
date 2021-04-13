@@ -1,0 +1,40 @@
+<div type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Aulularia</title>, <biblscope>686-689</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi003.perseus-lat2:686-689" type="line">
+    <w ref="686" lemma="scio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">Scis</w>
+    <w ref="686" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tute</w>
+    <w ref="686" lemma="facio" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">facta</w>
+    <w ref="686" lemma="uolo3" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">velle</w>
+    <w ref="686" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="686" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="686" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+    <w ref="686" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">velis</w>
+    <w ref="686" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="687" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="687" lemma="istic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">istúc</w>
+    <w ref="687" lemma="confido" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=1">confido</w>
+    <w ref="687" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="687" lemma="frater" pos="NOMcom" msd="Case=Abl|Numb=Sing">fratre</w>
+    <w ref="687" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="687" lemma="impetro" pos="VER" msd="Mood=Par|Tense=Fut|Voice=Act">impetrassere</w>
+    <w ref="687" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="688" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="688" lemma="causa" pos="NOMcom" msd="Case=Nom|Numb=Sing">causa</w>
+    <w ref="688" lemma="iustus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">iusta</w>
+    <w ref="688" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="688" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="688" lemma="siquidem" pos="CONsub" msd="MORPH=empty">siquidem</w>
+    <w ref="688" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+    <w ref="688" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="688" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="688" lemma="praedico1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">praedicas</w>
+    <w ref="688" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="689" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="689" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="689" lemma="comprimo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">cómpressisse</w>
+    <w ref="689" lemma="uinulentus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">vinulentum</w>
+    <w ref="689" lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Sing">virginem</w>
+    <w ref="689" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,29 @@
+<div type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Cistellaria</title>, <biblscope>157-159</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi007.perseus-lat2:157-159" type="line">
+    <w ref="157" lemma="mercator" pos="NOMcom" msd="Case=Nom|Numb=Sing">mercator</w>
+    <w ref="157" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">venit</w>
+    <w ref="157" lemma="huc" pos="ADV" msd="Deg=Pos">huc</w>
+    <w ref="157" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="157" lemma="ludus" pos="NOMcom" msd="Case=Acc|Numb=Plur">ludos</w>
+    <w ref="157" lemma="Lemnius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">Lemnius</w>
+    <w ref="157" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="158" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">isque</w>
+    <w ref="158" lemma="que" pos="CON" msd="MORPH=empty">{isque}</w>
+    <w ref="158" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="158" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">compressit</w>
+    <w ref="158" lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Sing">virginem</w>
+    <w ref="158" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="158" lemma="adolescentulus" pos="NOMcom" msd="Case=Nom|Numb=Sing">adulescentulus</w>
+    <w ref="158" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="159" lemma="uis" pos="NOMcom" msd="Case=Abl|Numb=Sing">vi</w>
+    <w ref="159" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="159" lemma="uinulentus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">vinulentus</w>
+    <w ref="159" lemma="multus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">multa</w>
+    <w ref="159" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
+    <w ref="159" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="159" lemma="uia" pos="NOMcom" msd="Case=Abl|Numb=Sing">via</w>
+    <w ref="159" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #fututio">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Brothers</title>, <biblscope>690-690</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi006.perseus-lat2:690-690" type="line">
+    <w ref="690" lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Sing">Virginem</w>
+    <w ref="690" lemma="uitio1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">vitiasti</w>
+    <w ref="690" lemma="qui1" pos="PROrel" msd="MORPH=empty">quam</w>
+    <w ref="690" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="690" lemma="ius1" pos="NOMcom" msd="Case=Nom|Numb=Sing">ius</w>
+    <w ref="690" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="690" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">fuerat</w>
+    <w ana="#acte #metonymie #toucher #fututio" ref="690" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tangere</w>
+    <w ref="690" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

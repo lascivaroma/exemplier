@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #masturbation">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>1.2.9-1.2.9</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:1.2.9-1.2.9" type="section">
+    <w ana="#acte #metonymie #toucher #masturbation" ref="1.2.9" lemma="contrecto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">contrectata</w>
+    <w ref="1.2.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
+    <w ref="1.2.9" lemma="aliquis" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">alicuius</w>
+    <w ref="1.2.9" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
+    <w ref="1.2.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.9" lemma="aliquis" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">alicuius</w>
+    <w ref="1.2.9" lemma="osculum" pos="NOMcom" msd="Case=Abl|Numb=Sing">osculo</w>
+    <w ref="1.2.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.9" lemma="aliquis" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">alicuius</w>
+    <w ref="1.2.9" lemma="amplexus" pos="NOMcom" msd="Case=Abl|Numb=Sing">amplexu</w>
+    <w ref="1.2.9" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

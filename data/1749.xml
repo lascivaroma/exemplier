@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:183" ana="#acte #metonymie #rub #masturbation">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.22.3-11.22.4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.22.3-11.22.4" type="line">
+    <w ref="11.22.3" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="11.22.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="11.22.3" lemma="satis1" pos="ADJqua" msd="Case=Ind|Deg=Pos">satis</w>
+    <w ref="11.22.3" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="11.22.3" lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur">inguina</w>
+    <w ref="11.22.3" lemma="saltem" pos="ADV" msd="Deg=Pos">saltem</w>
+    <w ref="11.22.4" lemma="parco" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">Parce</w>
+    <w ref="11.22.4" lemma="fututrix" pos="NOMcom" msd="Case=Gen|Numb=Sing|Deg=Pos">fututrici</w>
+    <w ana="#acte #metonymie #rub #masturbation" ref="11.22.4" lemma="sollicito" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">sollicitare</w>
+    <w ref="11.22.4" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
+    <w ref="11.22.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

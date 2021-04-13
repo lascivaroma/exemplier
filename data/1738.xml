@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:183" ana="#acte #metonymie #rub #cinaedus">
+  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>24-24</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:24-24" type="section">
+    <w ref="24" lemma="”" pos="PUNC" msd="MORPH=empty">”</w>
+    <w ref="24" lemma="ab" pos="PRE" msd="MORPH=empty">Ab</w>
+    <w ref="24" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">hac</w>
+    <w ref="24" lemma="uox" pos="NOMcom" msd="Case=Abl|Numb=Sing">voce</w>
+    <w ref="24" lemma="equus" pos="NOMcom" msd="Case=Acc|Numb=Sing">equum</w>
+    <w ref="24" lemma="cinaedus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">cinaedus</w>
+    <w ref="24" lemma="muto2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">mutavit</w>
+    <w ref="24" lemma="transitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">transituque</w>
+    <w ref="24" lemma="que" pos="CON" msd="MORPH=empty">{transituque}</w>
+    <w ref="24" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="24" lemma="comes" pos="NOMcom" msd="Case=Acc|Numb=Sing">comitem</w>
+    <w ref="24" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=MascNeut">meum</w>
+    <w ref="24" lemma="facio" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">facto</w>
+    <w ref="24" lemma="clunis" pos="NOMcom" msd="Case=Abl|Numb=Plur">clunibus</w>
+    <w ref="24" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eum</w>
+    <w ref="24" lemma="basium" pos="NOMcom" msd="Case=Abl|Numb=Plur">basiisque</w>
+    <w ref="24" lemma="que" pos="CON" msd="MORPH=empty">{basiisque}</w>
+    <w ana="#acte #metonymie #rub #cinaedus" ref="24" lemma="distero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">distrivit</w>
+    <w ref="24" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

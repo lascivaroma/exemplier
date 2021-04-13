@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:187" ana="#acte #metonymie #have #homosexuel">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Art of Love</title>, <biblscope>1.523-1.524</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:1.523-1.524" type="line">
+    <w ref="1.523" lemma="cetera1" pos="NOMcom" msd="Case=Acc|Numb=Plur">Cetera</w>
+    <w ref="1.523" lemma="lasciuus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">lascivae</w>
+    <w ref="1.523" lemma="facio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">faciant</w>
+    <w ref="1.523" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.523" lemma="concedo1" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">concede</w>
+    <w ref="1.523" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.523" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Plur">puellae</w>
+    <w ref="1.523" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.524" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="1.524" lemma="siquo" pos="NOMcom" msd="Case=Dat|Numb=Sing">siquis</w>
+    <w ref="1.524" lemma="male" pos="ADV" msd="Deg=Pos">male</w>
+    <w ref="1.524" lemma="uir" pos="NOMcom" msd="Case=Nom|Numb=Sing">vir</w>
+    <w ref="1.524" lemma="quaero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">quaerit</w>
+    <w ana="#acte #metonymie #have #homosexuel" ref="1.524" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
+    <w ref="1.524" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Sing">virum</w>
+    <w ref="1.524" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

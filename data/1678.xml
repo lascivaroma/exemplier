@@ -1,0 +1,21 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Amphitruo</title>, <biblscope>831-834</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi001.perseus-lat2:831-834" type="line">
+    <w ref="833" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="833" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mi</w>
+    <w ref="833" lemma="extra2" pos="PRE" msd="MORPH=empty">extra</w>
+    <w ref="833" lemma="unus" pos="ADJcar" msd="Case=Acc|Numb=Sing|Gend=MascNeut">unum</w>
+    <w ref="833" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="833" lemma="mortalis1" pos="NOMcom" msd="Case=Nom|Numb=Sing">mortalis</w>
+    <w ref="833" lemma="nemo" pos="PROind" msd="Case=Nom|Numb=Sing">nemo</w>
+    <w ana="#acte #metonymie #join" ref="833" lemma="corpus" pos="NOMcom" msd="Case=Acc|Numb=Sing">corpus</w>
+    <w ana="#acte #metonymie #join" ref="833" lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
+    <w ana="#acte #metonymie #join" ref="834" lemma="contingo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">contigit</w>
+    <w ref="834" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="834" lemma="qui2" pos="ADVrel" msd="MORPH=empty">quo</w>
+    <w ref="834" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="834" lemma="impudicus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">impudicam</w>
+    <w ref="834" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">faceret</w>
+    <w ref="834" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

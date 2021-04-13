@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:181" ana="#metonymie #acte #misceo">
+  <bibl ref="#adams"><author>Minucius Felix, Marcus</author>, <title>Octavius</title>, <biblscope>31.3-31.3</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0203.stoa001.perseus-lat2:31.3-31.3" type="section">
+    <w ref="31.3" lemma="ius1" pos="NOMcom" msd="Case=Nom|Numb=Sing">Ius</w>
+    <w ref="31.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="31.3" lemma="apud" pos="PRE" msd="MORPH=empty">apud</w>
+    <w ref="31.3" lemma="Persae" pos="NOMpro" msd="Case=Acc|Numb=Plur">Persas</w>
+    <w ana="#metonymie #acte #misceo" ref="31.3" lemma="misceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">misceri</w>
+    <w ref="31.3" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="31.3" lemma="mater" pos="NOMcom" msd="Case=Abl|Numb=Plur">matribus</w>
+  </quote>
+</div>

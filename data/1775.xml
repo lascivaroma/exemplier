@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher">
+  <bibl ref="#adams"><author>Tertullian ca. 160-ca. 230</author>, <title>De Pudicitia</title>, <biblscope>16-16</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa025.opp-lat1:16-16" type="chapter">
+    <w ref="16" lemma="de" pos="PRE" msd="MORPH=empty">De</w>
+    <w ref="16" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibus</w>
+    <w ref="16" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="16" lemma="scribo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=2">scripsistis</w>
+    <w ref="16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="16" lemma="bonus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">bonum</w>
+    <w ref="16" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="16" lemma="homo" pos="NOMcom" msd="Case=Dat|Numb=Sing">homini</w>
+    <w ref="16" lemma="mulier" pos="NOMcom" msd="Case=Acc|Numb=Sing">mulierem</w>
+    <w ref="16" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ana="#acte #metonymie #toucher" ref="16" lemma="contingo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">contingere</w>
+  </quote>
+</div>

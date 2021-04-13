@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:181" ana="#metonymie #acte #misceo">
+  <bibl ref="#adams"><author>Arnobius of Sicca</author>, <title>Arnobii adversus nationes Libri VII</title>, <biblscope>5.31-5.31</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.31-5.31" type="section">
+    <w ref="5.31" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=MascFem">quis</w>
+    <w ref="5.31" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="5.31" lemma="mater" pos="NOMcom" msd="Case=Abl|Numb=Plur">matribus</w>
+    <w ref="5.31" lemma="liberi" pos="NOMcom" msd="Case=Acc|Numb=Plur">liberos</w>
+    <w ref="5.31" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.31" lemma="quis1" pos="PROint" msd="Case=Abl|Numb=Sing|Gend=MascFem">quis</w>
+    <w ref="5.31" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="5.31" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Plur|Gend=Com">suis</w>
+    <w ref="5.31" lemma="uirgo" pos="NOMcom" msd="Case=Abl|Numb=Plur">uirginibus</w>
+    <w ref="5.31" lemma="rursus" pos="ADV" msd="Deg=Pos">rursus</w>
+    <w ref="5.31" lemma="pater" pos="NOMcom" msd="Case=Acc|Numb=Plur">patres</w>
+    <w ref="5.31" lemma="infaustus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">infaustos</w>
+    <w ana="#metonymie #acte #misceo" ref="5.31" lemma="misceo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">miscuisse</w>
+    <w ref="5.31" lemma="concubitus" pos="NOMcom" msd="Case=Acc|Numb=Plur">concubitus</w>
+    <w ref="5.31" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

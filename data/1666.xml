@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
+  <bibl ref="#adams"><author>Juvenal</author>, <title>Satires</title>, <biblscope>6.448-6.452</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.658.3ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.448-6.452" type="line">
+    <w ref="6.448" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="6.448" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">habeat</w>
+    <w ref="6.448" lemma="matrona" pos="NOMcom" msd="Case=Nom|Numb=Sing">matrona</w>
+    <w ref="6.448" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.448" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="6.448" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ana="#acte #metonymie #join" ref="6.448" lemma="iungo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">iuncta</w>
+    <w ref="6.448" lemma="recumbo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">recumbit</w>
+    <w ref="6.448" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

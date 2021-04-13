@@ -1,0 +1,27 @@
+<div type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #fututio">
+  <bibl ref="#adams"><author>Horace</author>, <title>Sermones</title>, <biblscope>1.2.28-1.2.30</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.28-1.2.30" type="line">
+    <w ref="1.2.28" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="1.2.28" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+    <w ref="1.2.28" lemma="nolo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">nolint</w>
+    <w ana="#acte #metonymie #toucher #fututio" ref="1.2.28" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">tetigisse</w>
+    <w ref="1.2.28" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ref="1.2.28" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Fem">illas</w>
+    <w ref="1.2.29" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Plur|Gend=Fem">quarum</w>
+    <w ref="1.2.29" lemma="subsuo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">subsuta</w>
+    <w ref="1.2.29" lemma="talus" pos="NOMcom" msd="Case=Acc|Numb=Plur">talos</w>
+    <w ref="1.2.29" lemma="tego" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">tegat</w>
+    <w ref="1.2.29" lemma="instita" pos="VER" msd="Case=Abl|Numb=Sing">instita</w>
+    <w ref="1.2.29" lemma="uestis" pos="NOMcom" msd="Case=Abl|Numb=Sing">veste</w>
+    <w ref="1.2.29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.30" lemma="contra2" pos="PRE" msd="Deg=Pos">contra</w>
+    <w ref="1.2.30" lemma="alius" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">alius</w>
+    <w ref="1.2.30" lemma="nullus" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">nullam</w>
+    <w ref="1.2.30" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ref="1.2.30" lemma="oleo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">olenti</w>
+    <w ref="1.2.30" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.2.30" lemma="fornix" pos="NOMcom" msd="Case=Abl|Numb=Sing">fornice</w>
+    <w ref="1.2.30" lemma="sto" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">stantem</w>
+    <w ref="1.2.30" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

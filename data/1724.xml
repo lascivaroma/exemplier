@@ -1,0 +1,28 @@
+<div  type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Apuleius</author>, <title>Metamorphoses</title>, <biblscope>10.5-10.5</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:10.5-10.5" type="chapter">
+    <w ref="10.5" lemma="sedeo" pos="VER" msd="Numb=Sing">sedi</w>
+    <w ref="10.5" lemma="frater" pos="NOMcom" msd="Case=Acc|Numb=Sing">fratrem</w>
+    <w ref="10.5" lemma="iuuenis2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp">iuniorem</w>
+    <w ref="10.5" lemma="ango" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">Angebat</w>
+    <w ref="10.5" lemma="ideo" pos="ADV" msd="Deg=Pos">ideo</w>
+    <w ref="10.5" lemma="priuignus" pos="NOMcom" msd="Case=Gen|Numb=Sing">privigni</w>
+    <w ref="10.5" lemma="scelus" pos="NOMcom" msd="Case=Abl|Numb=Sing">scelere</w>
+    <w ref="10.5" lemma="perimo" pos="VER" msd="Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">peremptum</w>
+    <w ref="10.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.5" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="10.5" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="10.5" lemma="probrosus" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=Fem|Deg=Pos">probrosae</w>
+    <w ref="10.5" lemma="libido" pos="NOMcom" msd="Case=Dat|Numb=Sing">libidini</w>
+    <w ref="10.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.5" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
+    <w ref="10.5" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="10.5" lemma="comprimo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">comprimere</w>
+    <w ref="10.5" lemma="tento" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">temptaverat</w>
+    <w ref="10.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.5" lemma="nolo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">noluisset</w>
+    <w ref="10.5" lemma="succumbo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">succumbere</w>
+    <w ref="10.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

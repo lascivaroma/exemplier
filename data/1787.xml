@@ -1,0 +1,19 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #actif">
+  <bibl ref="#adams"><author>Suetonius ca. 69-ca. 122</author>, <title>Domitianus</title>, <biblscope>1-1</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo022.perseus-lat2:1-1" type="chapter">
+    <w ref="1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #toucher #actif" ref="1" lemma="contrecto" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">contractatis</w>
+    <w ref="1" lemma="multi" pos="ADJqua" msd="Case=Gen|Numb=Plur">multorum</w>
+    <w ref="1" lemma="uxor" pos="NOMcom" msd="Case=Abl|Numb=Plur">uxoribus</w>
+    <w ref="1" lemma="Domitia" pos="NOMpro" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">Domitiam</w>
+    <w ref="1" lemma="Longina" pos="NOMpro" msd="Case=Acc|Numb=Sing">Longinam</w>
+    <w ref="1" lemma="Aelius" pos="NOMpro" msd="Case=Dat|Numb=Sing">Aelio</w>
+    <w ref="1" lemma="Lamia" pos="NOMpro" msd="Case=Dat|Numb=Sing">Lamiae</w>
+    <w ref="1" lemma="nubo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem">nuptam</w>
+    <w ref="1" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1" lemma="matrimonium" pos="NOMcom" msd="Case=Acc|Numb=Sing">matrimonium</w>
+    <w ref="1" lemma="abduco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">abduxit</w>
+    <w ref="1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

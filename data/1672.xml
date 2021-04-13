@@ -1,0 +1,17 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>3.14.21-3.14.26</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.14.21-3.14.26" type="line">
+    <w ref="3.14.21" lemma="illic2" pos="ADV" msd="Deg=Pos">Illic</w>
+    <w ref="3.14.21" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="3.14.21" lemma="tunica" pos="NOMcom" msd="Case=Acc|Numb=Sing">tunicam</w>
+    <w ref="3.14.21" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="3.14.21" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="3.14.21" lemma="pono" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">posuisse</w>
+    <w ref="3.14.21" lemma="pudor" pos="NOMcom" msd="Case=Dat|Numb=Sing">pudori</w>
+    <w ref="3.14.22" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ana="#acte #metonymie #join" ref="3.14.22" lemma="femur" pos="NOMcom" msd="Case=Dat|Numb=Sing">femori</w>
+    <w ana="#acte #metonymie #join" ref="3.14.22" lemma="impono" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">inpositum</w>
+    <w ref="3.14.22" lemma="sustineo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">sustinuisse</w>
+    <w ana="#acte #metonymie #join" ref="3.14.22" lemma="femur" pos="NOMcom" msd="Case=Acc|Numb=Sing">femur</w>
+  </quote>
+</div>

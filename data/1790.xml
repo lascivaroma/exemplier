@@ -1,0 +1,23 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #actif">
+  <bibl ref="#adams"><author>Apuleius</author>, <title>Metamorphoses</title>, <biblscope>8.7-8.7</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.774.47ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:8.7-8.7" type="chapter">
+    <w ref="8.7" lemma="cunctus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">cunctis</w>
+    <w ref="8.7" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="8.7" lemma="mentior" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">mentitae</w>
+    <w ref="8.7" lemma="pietas" pos="NOMcom" msd="Case=Gen|Numb=Sing">pietatis</w>
+    <w ref="8.7" lemma="officium" pos="NOMcom" msd="Case=Abl|Numb=Plur">officiis</w>
+    <w ref="8.7" lemma="studium" pos="NOMcom" msd="Case=Acc|Numb=Sing">studium</w>
+    <w ana="#acte #metonymie #toucher #actif" ref="8.7" lemma="contrecto" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">contrectandae</w>
+    <w ref="8.7" lemma="mulier" pos="NOMcom" msd="Case=Gen|Numb=Sing">mulieris</w>
+    <w ref="8.7" lemma="adhibeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">adhibere</w>
+    <w ref="8.7" lemma="odiosus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">odiosumque</w>
+    <w ref="8.7" lemma="que" pos="CON" msd="MORPH=empty">{odiosumque}</w>
+    <w ref="8.7" lemma="amor" pos="NOMcom" msd="Case=Acc|Numb=Sing">amorem</w>
+    <w ref="8.7" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=MascNeut">suum</w>
+    <w ref="8.7" lemma="perperam" pos="ADV" msd="Deg=Pos">perperam</w>
+    <w ref="8.7" lemma="delecto" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">delectando</w>
+    <w ref="8.7" lemma="nutrio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">nutrire</w>
+    <w ref="8.7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

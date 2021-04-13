@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:183" ana="#acte #metonymie #rub #masturbate">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.29.7-11.29.8</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.29.7-11.29.8" type="line">
+    <w ref="11.29.7" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="11.29.8" lemma="nihil" pos="PROind" msd="Case=Ind">Nil</w>
+    <w ref="11.29.8" lemma="opus2" pos="NOMcom" msd="Case=Ind">opus</w>
+    <w ref="11.29.8" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="11.29.8" lemma="digitus" pos="NOMcom" msd="Case=Abl|Numb=Plur">digitis</w>
+    <w ref="11.29.8" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="11.29.8" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+    <w ref="11.29.8" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="11.29.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.29.8" lemma="Phyllis" pos="NOMpro" msd="Case=Voc|Numb=Sing">Phylli</w>
+    <w ref="11.29.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #rub #masturbate" ref="11.29.8" lemma="frico" pos="NOMcom" msd="Case=Nom|Numb=Sing">frica</w>
+    <w ref="11.29.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

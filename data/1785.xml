@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #masturbation">
+  <bibl ref="#adams"><author>Arnobius of Sicca</author>, <title>Arnobii adversus nationes Libri VII</title>, <biblscope>5.11-5.11</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.11-5.11" type="section">
+    <w ref="5.11" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.11" lemma="postquam" pos="CONsub" msd="MORPH=empty">postquam</w>
+    <w ref="5.11" lemma="ebrietas" pos="NOMcom" msd="Case=Nom|Numb=Sing">ebrietas</w>
+    <w ref="5.11" lemma="poto" pos="NOMcom" msd="Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">potum</w>
+    <w ref="5.11" lemma="mergo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">mersit</w>
+    <w ref="5.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.11" lemma="insero2" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">inseruisse</w>
+    <w ref="5.11" lemma="caute" pos="ADV" msd="Deg=Pos">caute</w>
+    <w ref="5.11" lemma="manus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">manus</w>
+    <w ref="5.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #toucher #masturbation" ref="5.11" lemma="contrecto" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">contrectauisse</w>
+    <w ref="5.11" lemma="uirilia" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">uirilia</w>
+    <w ref="5.11" lemma="dormio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">dormientis</w>
+  </quote>
+</div>

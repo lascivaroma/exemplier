@@ -1,0 +1,17 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Pseudolus</title>, <biblscope>1259-1262</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi016.perseus-lat2:1259-1262" type="line">
+    <w ref="1259" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="1259" lemma="ubi3" pos="CONsub" msd="MORPH=empty">úbi</w>
+    <w ref="1259" lemma="amans2" pos="ADJqua" msd="Case=Nom|Numb=Sing">amans</w>
+    <w ref="1259" lemma="complexus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">complexúst</w>
+    <w ref="1259" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">{complexúst}</w>
+    <w ref="1259" lemma="amans1" pos="NOMcom" msd="Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act">amantem</w>
+    <w ref="1259" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1259" lemma="ubi3" pos="CONsub" msd="MORPH=empty">úbi</w>
+    <w ana="#acte #metonymie #join" ref="1259" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ana="#acte #metonymie #join" ref="1259" lemma="labrum1" pos="NOMcom" msd="Case=Acc|Numb=Plur">labra</w>
+    <w ana="#acte #metonymie #join" ref="1259" lemma="labellum1" pos="NOMcom" msd="Case=Acc|Numb=Plur">labélla</w>
+    <w ana="#acte #metonymie #join" ref="1259" lemma="adiungo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">adiungit</w>
+  </quote>
+</div>

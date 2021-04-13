@@ -1,0 +1,22 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Statius, P. Papinius (Publius Papinius)</author>, <title>Thebais</title>, <biblscope>4.214-4.219</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.l444.43ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1020.phi001.perseus-lat2:4.214-4.219" type="line">
+    <w ref="4.214" lemma="Taenarius" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">Taenariis</w>
+    <w ref="4.214" lemma="hic2" pos="ADV" msd="Numb=Sing|Deg=Pos">hic</w>
+    <w ref="4.214" lemma="celsus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">celsus</w>
+    <w ref="4.214" lemma="equus" pos="NOMcom" msd="Case=Abl|Numb=Plur">equis</w>
+    <w ref="4.214" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.214" lemma="quam1" pos="PROrel" msd="Case=Acc">quam</w>
+    <w ref="4.214" lemma="dispar" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">dispare</w>
+    <w ana="#acte #metonymie #coeo" ref="4.214" lemma="coetus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coetu</w>
+    <w ref="4.215" lemma="Cyllarus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Cyllarus</w>
+    <w ref="4.215" lemma="ignarus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">ignaro</w>
+    <w ref="4.215" lemma="genero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">generarat</w>
+    <w ref="4.215" lemma="Castor" pos="NOMpro" msd="Case=Abl|Numb=Sing">Castore</w>
+    <w ref="4.215" lemma="proles" pos="NOMcom" msd="Case=Acc|Numb=Sing">prolem</w>
+    <w ref="4.215" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.216" lemma="quasso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">quassat</w>
+    <w ref="4.216" lemma="humus" pos="NOMcom" msd="Case=Acc|Numb=Sing">humum</w>
+  </quote>
+</div>

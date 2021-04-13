@@ -1,0 +1,13 @@
+<div type="fragment" corresp="adams:183" ana="#acte #metonymie #rub #masturbate">
+  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>92-92</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:92-92" type="section">
+    <w ref="92" lemma="tanto" pos="ADV" msd="Deg=Pos">Tanto</w>
+    <w ref="92" lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
+    <w ref="92" lemma="expedio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">expedit</w>
+    <w ref="92" lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur">inguina</w>
+    <w ref="92" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="92" lemma="ingenium" pos="NOMcom" msd="Case=Acc|Numb=Plur">ingenia</w>
+    <w ana="#acte #metonymie #rub #masturbate" ref="92" lemma="frico" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fricare</w>
+    <w ref="92" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

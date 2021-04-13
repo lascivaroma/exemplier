@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #actif">
+  <bibl ref="#adams"><author>Prologi historiarum Philippicarum Pompei Trogi</author>, <title>Epitoma historiarum Philippicarum</title>, <biblscope>7.3.4-7.3.4</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.774.47ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0167.stoa001.digilibLT-lat1:7.3.4-7.3.4" type="section">
+    <w ref="7.3.4" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">Quae</w>
+    <w ref="7.3.4" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="7.3.4" lemma="uenio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">venerunt</w>
+    <w ref="7.3.4" lemma="Persae" pos="NOMpro" msd="Case=Abl|Numb=Plur">Persis</w>
+    <w ref="7.3.4" lemma="petulanter" pos="ADV" msd="Deg=Comp">petulantius</w>
+    <w ana="#acte #metonymie #toucher #actif" ref="7.3.4" lemma="contrecto" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">contrectantibus</w>
+    <w ref="7.3.4" lemma="filius" pos="NOMcom" msd="Case=Nom|Numb=Sing">filius</w>
+    <w ref="7.3.4" lemma="Amyntas" pos="NOMpro" msd="Case=Gen|Numb=Sing">Amyntae</w>
+    <w ref="7.3.4" lemma="Alexander" pos="NOMpro" msd="Case=Nom|Numb=Sing">Alexander</w>
+    <w ref="7.3.4" lemma="rogo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">rogat</w>
+  </quote>
+</div>

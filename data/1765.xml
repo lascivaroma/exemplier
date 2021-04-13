@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #masturbation">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>1.92.1-1.92.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.92.1-1.92.2" type="line">
+    <w ref="1.92.1" lemma="saepe" pos="ADV" msd="Deg=Pos">Saepe</w>
+    <w ref="1.92.1" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="1.92.1" lemma="queror" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">queritur</w>
+    <w ref="1.92.1" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.92.1" lemma="siccus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">siccis</w>
+    <w ref="1.92.1" lemma="cestus" pos="NOMpro" msd="Case=Nom|Numb=Plur|Gend=Masc">Cestos</w>
+    <w ref="1.92.1" lemma="ocellus" pos="NOMcom" msd="Case=Abl|Numb=Plur">ocellis</w>
+    <w ref="1.92.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #toucher #masturbation" ref="1.92.2" lemma="tango" pos="NOMpro" msd="Mood=Inf|Tense=Pres|Voice=Pass">Tangi</w>
+    <w ref="1.92.2" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="1.92.2" lemma="digitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">digito</w>
+    <w ref="1.92.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.92.2" lemma="Mamurianus" pos="NOMpro" msd="Case=Voc|Numb=Sing|Gend=Masc">Mamuriane</w>
+    <w ref="1.92.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.92.2" lemma="tuus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">tuo</w>
+    <w ref="1.92.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

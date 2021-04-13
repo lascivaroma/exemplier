@@ -1,0 +1,32 @@
+<div type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Titus Livius (Livy)</author>, <title>Ab urbe condita</title>, <biblscope>1.4.1-1.4.2</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0914.phi001.perseus-lat2:1.4.1-1.4.2" type="section">
+    <w ref="1.4.1" lemma="uis" pos="NOMcom" msd="Case=Abl|Numb=Sing">vi</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="1.4.1" lemma="comprimo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">compressa</w>
+    <w ref="1.4.1" lemma="Uestalis" pos="NOMpro" msd="Case=Nom|Numb=Sing">Vestalis</w>
+    <w ref="1.4.1" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="1.4.1" lemma="geminus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">geminum</w>
+    <w ref="1.4.1" lemma="partus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">partum</w>
+    <w ref="1.4.1" lemma="edo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">edidisset</w>
+    <w ref="1.4.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.4.2" lemma="seu1" pos="CONcoo" msd="MORPH=empty">seu</w>
+    <w ref="1.4.2" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+    <w ref="1.4.2" lemma="ratus" pos="VER" msd="Numb=Sing|Gend=Neut|Deg=Pos|Mood=Par|Tense=Perf|Voice=Dep">rata</w>
+    <w ref="1.4.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.4.2" lemma="seu1" pos="CONcoo" msd="MORPH=empty">seu</w>
+    <w ref="1.4.2" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+    <w ref="1.4.2" lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Sing">deus</w>
+    <w ref="1.4.2" lemma="auctor" pos="NOMcom" msd="Case=Nom|Numb=Sing">auctor</w>
+    <w ref="1.4.2" lemma="culpa" pos="NOMcom" msd="Case=Gen|Numb=Sing">culpae</w>
+    <w ref="1.4.2" lemma="honestus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">honestior</w>
+    <w ref="1.4.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
+    <w ref="1.4.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.4.2" lemma="Mars" pos="NOMpro" msd="Case=Acc|Numb=Sing">Martem</w>
+    <w ref="1.4.2" lemma="incertus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">incertae</w>
+    <w ref="1.4.2" lemma="stirps" pos="NOMcom" msd="Case=Gen|Numb=Sing">stirpis</w>
+    <w ref="1.4.2" lemma="pater" pos="NOMcom" msd="Case=Acc|Numb=Sing">patrem</w>
+    <w ref="1.4.2" lemma="nuncupo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">nuncupat</w>
+    <w ref="1.4.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,19 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher">
+  <bibl ref="#adams"><author>Juvenal</author>, <title>Satires</title>, <biblscope>7.83-7.87</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:7.83-7.87" type="line">
+    <w ref="7.86" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="7.86" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="7.86" lemma="frango" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fregit</w>
+    <w ref="7.86" lemma="subsellium" pos="NOMcom" msd="Case=Acc|Numb=Plur">subsellia</w>
+    <w ref="7.86" lemma="uersus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">versu</w>
+    <w ref="7.86" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.87" lemma="esurio2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">esurit</w>
+    <w ref="7.87" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #toucher" ref="7.87" lemma="intactus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">intactam</w>
+    <w ref="7.87" lemma="Paris" pos="NOMpro" msd="Case=Dat|Numb=Sing">Paridi</w>
+    <w ref="7.87" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ref="7.87" lemma="uendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vendit</w>
+    <w ref="7.87" lemma="Agaue" pos="NOMpro" msd="Case=Acc|Numb=Sing">Agauen</w>
+    <w ref="7.87" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

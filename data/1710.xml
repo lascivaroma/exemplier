@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Epidicus</title>, <biblscope>540-540</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi009.perseus-lat2:540-540" type="line">
+    <w ref="540" lemma="certo2" pos="ADV" msd="Deg=Pos">Certo</w>
+    <w ref="540" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">eást</w>
+    <w ref="540" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">{eást}</w>
+    <w ref="540" lemma="quam1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>
+    <w ref="540" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="540" lemma="Epidaurum" pos="NOMpro" msd="Case=Abl|Numb=Sing">Épidauro</w>
+    <w ref="540" lemma="pauperculus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">paupérculam</w>
+    <w ref="540" lemma="memini" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">memini</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="540" lemma="comprimo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">cómprimere</w>
+    <w ref="540" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

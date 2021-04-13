@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:187" ana="#acte #metonymie #have #homosexuel">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>1.92.3-1.92.4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.92.3-1.92.4" type="line">
+    <w ref="1.92.3" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ref="1.92.3" lemma="opus2" pos="NOMcom" msd="Case=Ind">opus</w>
+    <w ref="1.92.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1.92.3" lemma="digitus" pos="NOMcom" msd="Numb=Sing">digito</w>
+    <w ref="1.92.3" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="1.92.3" lemma="totus" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">totum</w>
+    <w ref="1.92.3" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="1.92.3" lemma="Ceston" pos="NOMpro" msd="Case=Voc|Numb=Sing">Ceston</w>
+    <w ana="#acte #metonymie #have #homosexuel" ref="1.92.3" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2">habeto</w>
+    <w ref="1.92.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.92.4" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="1.92.4" lemma="desum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">deest</w>
+    <w ref="1.92.4" lemma="nihil" pos="PROind" msd="Case=Ind">nil</w>
+    <w ref="1.92.4" lemma="alius" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">aliud</w>
+    <w ref="1.92.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.92.4" lemma="Mamurianus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Mamuriane</w>
+    <w ref="1.92.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.92.4" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="1.92.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

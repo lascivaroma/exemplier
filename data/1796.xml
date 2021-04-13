@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #have">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>Andria</title>, <biblscope>83-85</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi001.perseus-lat2:83-85" type="line">
+    <w ref="84" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="84" lemma="heus" pos="INJ" msd="MORPH=empty">Heus</w>
+    <w ref="84" lemma="puer" pos="NOMcom" msd="Case=Nom|Numb=Sing">puer</w>
+    <w ref="84" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="85" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">Dic</w>
+    <w ref="85" lemma="si" pos="CONsub" msd="MORPH=empty">sodes</w>
+    <w ref="85" lemma="audeo" pos="VER" msd="MORPH=empty">{sodes}</w>
+    <w ref="85" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="85" lemma="quis2" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">quis</w>
+    <w ref="85" lemma="heri" pos="ADV" msd="Deg=Pos">heri</w>
+    <w ref="85" lemma="Chrysides" pos="NOMpro" msd="Case=Acc|Numb=Sing">Chrysidem</w>
+    <w ana="#acte #metonymie #have" ref="85" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">habuit</w>
+    <w ref="85" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

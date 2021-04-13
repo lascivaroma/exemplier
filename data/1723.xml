@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Gellius, Aulus</author>, <title>Attic Nights</title>, <biblscope>3.16.15-3.16.15</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1254.phi001.perseus-lat2:3.16.15-3.16.15" type="section">
+    <w ref="3.16.15" lemma="Neptunus" pos="NOMpro" msd="Case=Acc|Numb=Sing">Neptunum</w>
+    <w ref="3.16.15" lemma="dico2" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">dixisse</w>
+    <w ref="3.16.15" lemma="puella" pos="NOMcom" msd="Case=Dat|Numb=Plur">puellae</w>
+    <w ref="3.16.15" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="3.16.15" lemma="sui1" pos="PROref" msd="Case=Abl|Numb=Sing">se</w>
+    <w ref="3.16.15" lemma="recens2" pos="ADV" msd="Case=Acc|Numb=Sing|Gend=Com|Deg=Pos">recens</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="3.16.15" lemma="comprimo" pos="VER" msd="Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">compressae</w>
+  </quote>
+</div>

@@ -1,0 +1,22 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #have">
+  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>130-130</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:130-130" type="section">
+    <w ref="130" lemma="tamquam2" pos="CONsub" msd="MORPH=empty">tanquam</w>
+    <w ref="130" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ea</w>
+    <w ref="130" lemma="magnus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">maior</w>
+    <w ref="130" lemma="fio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fieri</w>
+    <w ref="130" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possit</w>
+    <w ref="130" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="130" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="130" lemma="aufero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">abstulit</w>
+    <w ref="130" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="130" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="130" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="130" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="130" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="130" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ana="#acte #metonymie #have" ref="130" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
+    <w ref="130" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">potui</w>
+    <w ref="130" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

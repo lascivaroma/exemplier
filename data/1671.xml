@@ -1,0 +1,26 @@
+<div type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
+  <bibl ref="#adams"><author>Corpus Tibullianum</author>, <title>Elegiae</title>, <biblscope>1.8.24-1.8.26</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0660.phi001.perseus-lat2:1.8.24-1.8.26" type="line">
+    <w ref="1.8.24" lemma="forma" pos="NOMcom" msd="Case=Nom|Numb=Sing">Forma</w>
+    <w ref="1.8.24" lemma="nihil" pos="PROind" msd="Case=Ind">nihil</w>
+    <w ref="1.8.24" lemma="magicus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">magicis</w>
+    <w ref="1.8.24" lemma="utor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">utitur</w>
+    <w ref="1.8.24" lemma="auxilium" pos="NOMcom" msd="Case=Abl|Numb=Plur">auxiliis</w>
+    <w ref="1.8.24" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="1.8.25" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="1.8.25" lemma="corpus" pos="NOMcom" msd="Case=Acc|Numb=Sing">corpus</w>
+    <w ref="1.8.25" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">tetigisse</w>
+    <w ref="1.8.25" lemma="noceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">nocet</w>
+    <w ref="1.8.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.8.25" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="1.8.25" lemma="longus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">longa</w>
+    <w ref="1.8.25" lemma="do" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">dedisse</w>
+    <w ref="1.8.26" lemma="osculum" pos="NOMcom" msd="Case=Acc|Numb=Plur">Oscula</w>
+    <w ref="1.8.26" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.8.26" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ana="#acte #metonymie #join" ref="1.8.26" lemma="femur" pos="NOMcom" msd="Case=Dat|Numb=Sing">femori</w>
+    <w ana="#acte #metonymie #join" ref="1.8.26" lemma="consero2" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">conseruisse</w>
+    <w ana="#acte #metonymie #join" ref="1.8.26" lemma="femur" pos="NOMcom" msd="Case=Acc|Numb=Sing">femur</w>
+    <w ref="1.8.26" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

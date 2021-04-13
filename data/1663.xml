@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
+  <bibl ref="#adams"><author>Silius Italicus, Tiberius Catius</author>, <title>Punica</title>, <biblscope>15.59-15.60</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.658.3ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1345.phi001.perseus-lat2:15.59-15.60" type="line">
+    <w ref="15.59" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="15.59" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="15.59" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">sum</w>
+    <w ref="15.59" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="15.59" lemma="Anchises" pos="NOMpro" msd="Case=Gen|Numb=Sing">Anchisae</w>
+    <w ref="15.59" lemma="Uenus" pos="NOMpro" msd="Case=Acc|Numb=Sing">Venerem</w>
+    <w ref="15.59" lemma="Simois" pos="NOMpro" msd="Case=Acc|Numb=Plur">Simoentos</w>
+    <w ref="15.59" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="15.59" lemma="unda" pos="NOMcom" msd="Case=Acc|Numb=Plur">undas</w>
+    <w ref="15.60" lemma="quis1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quae</w>
+    <w ana="#acte #metonymie #join" ref="15.60" lemma="iungo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">iunxi</w>
+    <w ref="15.60" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="15.60" lemma="genus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">generis</w>
+    <w ref="15.60" lemma="uos" pos="PROper" msd="Case=Dat|Numb=Plur">uobis</w>
+    <w ref="15.60" lemma="unde1" pos="ADVrel" msd="MORPH=empty">unde</w>
+    <w ref="15.60" lemma="edo1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">editus</w>
+    <w ref="15.60" lemma="auctor" pos="NOMcom" msd="Case=Nom|Numb=Sing">auctor</w>
+    <w ref="15.60" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

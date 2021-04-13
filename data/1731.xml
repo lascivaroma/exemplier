@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Horace</author>, <title>Odes</title>, <biblscope>1.5.1-1.5.3</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi001.perseus-lat2:1.5.1-1.5.3" type="line">
+    <w ref="1.5.1" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=MascFem">Quis</w>
+    <w ref="1.5.1" lemma="multus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Fem|Deg=Pos">multa</w>
+    <w ref="1.5.1" lemma="gracilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">gracilis</w>
+    <w ref="1.5.1" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="1.5.1" lemma="puer" pos="NOMcom" msd="Case=Nom|Numb=Sing">puer</w>
+    <w ref="1.5.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.5.1" lemma="rosa" pos="NOMcom" msd="Case=Abl|Numb=Sing">rosa</w>
+    <w ref="1.5.2" lemma="perfundo2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">perfusus</w>
+    <w ref="1.5.2" lemma="liquidus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">liquidis</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="1.5.2" lemma="urgeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">urget</w>
+    <w ref="1.5.2" lemma="odor" pos="NOMcom" msd="Case=Abl|Numb=Plur">odoribus</w>
+    <w ref="1.5.3" lemma="gratus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">grato</w>
+    <w ref="1.5.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.5.3" lemma="Pyrrha" pos="NOMpro" msd="Case=Voc|Numb=Sing">Pyrrha</w>
+    <w ref="1.5.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.5.3" lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+    <w ref="1.5.3" lemma="antrum" pos="NOMcom" msd="Case=Abl|Numb=Sing">antro</w>
+    <w ref="1.5.3" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

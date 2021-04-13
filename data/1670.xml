@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Epistulae</title>, <biblscope>2.57-2.58</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi002.perseus-lat2:2.57-2.58" type="line">
+    <w ref="2.57" lemma="turpiter" pos="ADV" msd="Deg=Pos">Turpiter</w>
+    <w ref="2.57" lemma="hospitium" pos="NOMcom" msd="Case=Acc|Numb=Sing">hospitium</w>
+    <w ref="2.57" lemma="lectus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">lecto</w>
+    <w ref="2.57" lemma="cumulo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">cumulasse</w>
+    <w ref="2.57" lemma="iugalis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">iugali</w>
+    <w ref="2.58" lemma="paeniteo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Paenitet</w>
+    <w ref="2.58" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.58" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #metonymie #join" ref="2.58" lemma="latus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">lateri</w>
+    <w ana="#acte #metonymie #join" ref="2.58" lemma="consero2" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">conseruisse</w>
+    <w ana="#acte #metonymie #join" ref="2.58" lemma="latus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">latus</w>
+    <w ref="2.58" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

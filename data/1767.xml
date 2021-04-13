@@ -1,0 +1,21 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Mother-in-Law</title>, <biblscope>147-152</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi005.perseus-lat2:147-152" type="line">
+    <w ref="150" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="150" lemma="cam" pos="PRE" msd="Numb=Sing">cam</w>
+    <w ref="150" lemma="ludibrium" pos="NOMcom" msd="Case=Dat|Numb=Sing">ludibrio</w>
+    <w ref="150" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">haberi</w>
+    <w ref="150" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="150" lemma="Parmenon" pos="NOMpro" msd="Case=Voc|Numb=Sing">Parmeno</w>
+    <w ref="150" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="151" lemma="quin2" pos="CONsub" msd="Deg=Pos">Quin</w>
+    <w ana="#acte #metonymie #toucher" ref="151" lemma="integer" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">integram</w>
+    <w ref="151" lemma="itidem" pos="ADV" msd="Deg=Pos">itidem</w>
+    <w ref="151" lemma="reddo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1">reddam</w>
+    <w ref="151" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="151" lemma="accipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">accepi</w>
+    <w ref="151" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="151" lemma="sui2" pos="PROpos.ref" msd="Case=Abl|Numb=Plur|Gend=Com">suis</w>
+    <w ref="151" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

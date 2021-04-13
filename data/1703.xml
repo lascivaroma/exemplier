@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Aulularia</title>, <biblscope>28-28</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi003.perseus-lat2:28-28" type="line">
+    <w ref="28" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="28" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="28" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">compressit</w>
+    <w ref="28" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="28" lemma="superus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Sup">summo</w>
+    <w ref="28" lemma="adolescens1" pos="NOMcom" msd="Case=Nom|Numb=Sing">adulescens</w>
+    <w ref="28" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Sing">loco</w>
+    <w ref="28" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

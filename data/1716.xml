@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Mother-in-Law</title>, <biblscope>830-831</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi005.perseus-lat2:830-831" type="line">
+    <w ref="830" lemma="homo" pos="NOMcom" msd="Case=Nom|Numb=Sing">Homo</w>
+    <w ref="830" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="830" lemma="fateor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">fatetur</w>
+    <w ref="830" lemma="uis" pos="NOMcom" msd="Case=Abl|Numb=Sing">vi</w>
+    <w ref="830" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="830" lemma="uia" pos="NOMcom" msd="Case=Abl|Numb=Sing">via</w>
+    <w ref="830" lemma="nescio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">nescio</w>
+    <w ref="830" lemma="qui1" pos="PROrel" msd="Numb=Sing|Gend=Fem">quam</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="830" lemma="comprimo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">compressisse</w>
+    <w ref="830" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+  </quote>
+</div>

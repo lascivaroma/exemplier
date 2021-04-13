@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:180" ana="#metonymie #acte #misceo">
+  <bibl ref="#adams"><author>Lucius Ampelius</author>, <title>Liber memorialis</title>, <biblscope>9-9</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0024.stoa001.digilibLT-lat1:9-9" type="unknown">
+    <w ref="9" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="9" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="9" lemma="Mars" pos="NOMpro" msd="Case=Abl|Numb=Sing">Marte</w>
+    <w ref="9" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ana="#metonymie #acte #misceo" ref="9" lemma="misceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">miscuit</w>
+    <w ref="9" lemma="unde1" pos="ADVrel" msd="MORPH=empty">unde</w>
+    <w ref="9" lemma="Cupido" pos="NOMpro" msd="Case=Nom|Numb=Sing">Cupido</w>
+    <w ref="9" lemma="nascor" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">natus</w>
+    <w ref="9" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="9" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">dicitur</w>
+  </quote>
+</div>

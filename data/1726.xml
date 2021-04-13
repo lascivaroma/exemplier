@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Caius Iulius Hyginus</author>, <title>Fabvlae</title>, <biblscope>VII.1-VII.1</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1263.phi001.corpuscorporum-lat1:VII.1-VII.1" type="chapter">
+    <w ref="VII.1" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">hanc</w>
+    <w ref="VII.1" lemma="uiduus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uiduam</w>
+    <w ref="VII.1" lemma="Iuppiter" pos="NOMpro" msd="Case=Nom|Numb=Sing">Iuppiter</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="VII.1" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">compressit</w>
+    <w ref="VII.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

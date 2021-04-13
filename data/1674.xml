@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
+  <bibl ref="#adams"><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblscope>2.14.21-2.14.22</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.14.21-2.14.22" type="line">
+    <w ref="2.14.21" lemma="pulso" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3">pulsabant</w>
+    <w ref="2.14.21" lemma="alius" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Masc">alii</w>
+    <w ref="2.14.21" lemma="frustra" pos="ADV" msd="Deg=Pos">frustra</w>
+    <w ref="2.14.21" lemma="domina" pos="NOMcom" msd="Case=Acc|Numb=Sing">dominamque</w>
+    <w ref="2.14.21" lemma="que" pos="CON" msd="MORPH=empty">{dominamque}</w>
+    <w ref="2.14.21" lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3">vocabant</w>
+    <w ref="2.14.21" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.14.22" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">mecum</w>
+    <w ref="2.14.22" lemma="cum3" pos="CON" msd="MORPH=empty">{mecum}</w>
+    <w ref="2.14.22" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">habuit</w>
+    <w ana="#acte #metonymie #join" ref="2.14.22" lemma="pono" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">positum</w>
+    <w ref="2.14.22" lemma="lentus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">lenta</w>
+    <w ref="2.14.22" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
+    <w ana="#acte #metonymie #join" ref="2.14.22" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+    <w ref="2.14.22" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

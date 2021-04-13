@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:180" ana="#metonymie #acte #misceo">
+  <bibl ref="#adams"><author>Iustinianus</author>, <title>Digesta Iustiniani Augusti</title>, <biblscope>23.2.43-23.2.43</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0168.stoa001b.corpuscorporum-lat1:23.2.43-23.2.43" type="section">
+    <w ref="23.2.43" lemma="item" pos="ADV" msd="Deg=Pos">Item</w>
+    <w ref="23.2.43" lemma="quod1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="23.2.43" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="23.2.43" lemma="unus" pos="ADJcar" msd="Case=Abl|Numb=Sing|Gend=MascNeut">uno</w>
+    <w ref="23.2.43" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="23.2.43" lemma="alter" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">altero</w>
+    <w ref="23.2.43" lemma="pecunia" pos="NOMcom" msd="Case=Abl|Numb=Sing">pecunia</w>
+    <w ref="23.2.43" lemma="accipio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">accepta</w>
+    <w ana="#metonymie #acte #misceo" ref="23.2.43" lemma="commisceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">commiscuit</w>
+    <w ref="23.2.43" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23.2.43" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="23.2.43" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">uidetur</w>
+    <w ref="23.2.43" lemma="palam1" pos="ADV" msd="Deg=Pos">palam</w>
+    <w ref="23.2.43" lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
+    <w ref="23.2.43" lemma="quaestus" pos="NOMcom" msd="Case=Acc|Numb=Sing">quaestum</w>
+    <w ref="23.2.43" lemma="facio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">facere</w>
+    <w ref="23.2.43" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

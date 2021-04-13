@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #fututio">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>1.73.1-1.73.4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.73.1-1.73.4" type="line">
+    <w ref="1.73.1" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">Nullus</w>
+    <w ref="1.73.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.73.1" lemma="urbs" pos="NOMcom" msd="Case=Abl|Numb=Sing">urbe</w>
+    <w ref="1.73.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="1.73.1" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">tota</w>
+    <w ref="1.73.1" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ana="#acte #metonymie #toucher #fututio" ref="1.73.1" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tangere</w>
+    <w ref="1.73.1" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">vellet</w>
+    <w ref="1.73.2" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">Uxorem</w>
+    <w ref="1.73.2" lemma="gratis" pos="ADV" msd="Deg=Pos">gratis</w>
+    <w ref="1.73.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.73.2" lemma="Caecilianus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Caeciliane</w>
+    <w ref="1.73.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.73.2" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">tuam</w>
+    <w ref="1.73.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

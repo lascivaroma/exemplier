@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:185" ana="#acte #metonymie #have">
+  <bibl ref="#adams"><author>Pseudo-Acro</author>, <title>Commentum in Horati Epistulas</title>, <biblscope>1.17.36-1.17.36</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0004a.stoa005.horatiusNet-lat1:1.17.36-1.17.36" type="comment">
+    <w ref="1.17.36" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">Qui</w>
+    <w ref="1.17.36" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="1.17.36" lemma="prae2" pos="PRE" msd="MORPH=empty">prae</w>
+    <w ref="1.17.36" lemma="sui1" pos="PROref" msd="Case=Abl|Numb=Sing">se</w>
+    <w ref="1.17.36" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">ferret</w>
+    <w ref="1.17.36" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.17.36" lemma="qui1" pos="CONsub" msd="Numb=Sing">quod</w>
+    <w ref="1.17.36" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.17.36" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">esset</w>
+    <w ref="1.17.36" lemma="capio2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">captus</w>
+    <w ref="1.17.36" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="1.17.36" lemma="ceteri" pos="NOMcom" msd="Case=Nom|Numb=Plur">ceteri</w>
+    <w ref="1.17.36" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.17.36" lemma="dico2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">dictum</w>
+    <w ref="1.17.36" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1.17.36" lemma="is" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">ei</w>
+    <w ref="1.17.36" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.17.36" lemma="quoniam" pos="CONsub" msd="MORPH=empty">quoniam</w>
+    <w ref="1.17.36" lemma="meretrix" pos="NOMcom" msd="Case=Acc|Numb=Sing">meretricem</w>
+    <w ana="#acte #metonymie #have" ref="1.17.36" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">habuisset</w>
+    <w ref="1.17.36" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="1.17.36" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="1.17.36" lemma="respondeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">respondit</w>
+    <w ref="1.17.36" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="1.17.36" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="1.17.36" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">habui</w>
+    <w ref="1.17.36" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.17.36" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.17.36" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=1">habeor</w>
+    <w ref="1.17.36" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

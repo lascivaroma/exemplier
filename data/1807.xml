@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:187" ana="#acte #metonymie #have">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.40.1-11.40.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.40.1-11.40.2" type="line">
+    <w ref="11.40.1" lemma="formosus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">Formosam</w>
+    <w ref="11.40.1" lemma="Glycera" pos="NOMpro" msd="Case=Acc|Numb=Sing">Glyceran</w>
+    <w ref="11.40.1" lemma="amo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">amat</w>
+    <w ref="11.40.1" lemma="Lupercus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Lupercus</w>
+    <w ref="11.40.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="11.40.2" lemma="solus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">solus</w>
+    <w ana="#acte #metonymie #have" ref="11.40.2" lemma="teneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tenet</w>
+    <w ref="11.40.2" lemma="impero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">imperatque</w>
+    <w ref="11.40.2" lemma="que" pos="CON" msd="MORPH=empty">{imperatque}</w>
+    <w ref="11.40.2" lemma="solus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">solus</w>
+    <w ref="11.40.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

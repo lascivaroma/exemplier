@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #have">
+  <bibl ref="#adams"><author>Vulgate</author>, <title>Ezekiel</title>, <biblscope>23.3-23.6</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VI.3.2409.33ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg053.obi-lat1:23.3-23.6" type="verse">
+    <w ana="#acte #metonymie #have" ref="23.4" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">habui</w>
+    <w ref="23.4" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Fem">eas</w>
+    <w ref="23.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="23.4" lemma="pario2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">pepererunt</w>
+    <w ref="23.4" lemma="filius" pos="NOMcom" msd="Case=Acc|Numb=Plur">filios</w>
+    <w ref="23.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+  </quote>
+</div>

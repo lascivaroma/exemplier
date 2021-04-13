@@ -1,0 +1,39 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Lactantius ca. 240-ca. 320</author>, <title>Divinarum Institutionum</title>, <biblscope>1.8.6-1.8.6</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1566.64ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0171.stoa009.opp-lat1:1.8.6-1.8.6" type="section">
+    <w ref="1.8.6" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="1.8.6" lemma="profecto" pos="ADV" msd="Deg=Pos">profecto</w>
+    <w ref="1.8.6" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.8.6" lemma="homo" pos="NOMcom" msd="Case=Abl|Numb=Plur">hominibus</w>
+    <w ref="1.8.6" lemma="ceterus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">ceterisque</w>
+    <w ref="1.8.6" lemma="que" pos="CON" msd="MORPH=empty">{ceterisque}</w>
+    <w ref="1.8.6" lemma="animans1" pos="NOMcom" msd="Case=Abl|Numb=Plur">animantibus</w>
+    <w ref="1.8.6" lemma="diuersitas" pos="NOMcom" msd="Case=Nom|Numb=Sing">diuersitas</w>
+    <w ref="1.8.6" lemma="sexus" pos="NOMcom" msd="Case=Nom|Numb=Sing">sexus</w>
+    <w ref="1.8.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #metonymie #coeo" ref="1.8.6" lemma="coitio" pos="NOMcom" msd="Case=Nom|Numb=Sing">coitio</w>
+    <w ref="1.8.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.8.6" lemma="generatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">generatio</w>
+    <w ref="1.8.6" lemma="nullus" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">nullam</w>
+    <w ref="1.8.6" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habet</w>
+    <w ref="1.8.6" lemma="alius" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">aliam</w>
+    <w ref="1.8.6" lemma="ratio" pos="NOMcom" msd="Case=Acc|Numb=Sing">rationem</w>
+    <w ref="1.8.6" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ref="1.8.6" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="1.8.6" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Neut">omnia</w>
+    <w ref="1.8.6" lemma="genus1" pos="NOMcom" msd="Case=Nom|Numb=Plur">genera</w>
+    <w ref="1.8.6" lemma="uiuo" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">uiuentium</w>
+    <w ref="1.8.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.8.6" lemma="quoniam" pos="CONsub" msd="MORPH=empty">quoniam</w>
+    <w ref="1.8.6" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="1.8.6" lemma="condicio" pos="NOMcom" msd="Case=Abl|Numb=Sing">condicione</w>
+    <w ref="1.8.6" lemma="mortalitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">mortalitatis</w>
+    <w ref="1.8.6" lemma="obeo1" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Neut|Mood=Par|Tense=Fut|Voice=Act">obitura</w>
+    <w ref="1.8.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.8.6" lemma="mutuus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Neut|Deg=Pos">mutua</w>
+    <w ref="1.8.6" lemma="possum1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possint</w>
+    <w ref="1.8.6" lemma="successio" pos="NOMcom" msd="Case=Abl|Numb=Sing">successione</w>
+    <w ref="1.8.6" lemma="seruo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">seruari</w>
+  </quote>
+</div>

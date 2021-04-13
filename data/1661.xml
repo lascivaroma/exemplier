@@ -1,0 +1,28 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
+  <bibl ref="#adams"><author>Titus Livius (Livy)</author>, <title>Ab urbe condita</title>, <biblscope>1.46.7-1.46.7</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.658.3ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0914.phi001.perseus-lat2:1.46.7-1.46.7" type="section">
+    <w ref="1.46.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.46.7" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="1.46.7" lemma="rectus" pos="ADV" msd="Deg=Comp">rectius</w>
+    <w ref="1.46.7" lemma="uiduus" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">viduam</w>
+    <w ref="1.46.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.46.7" lemma="iliumillus" pos="NOMcom" msd="Case=Acc|Numb=Sing|Deg=Pos">iliumillum</w>
+    <w ref="1.46.7" lemma="caelebs" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">caelibem</w>
+    <w ref="1.46.7" lemma="sum1" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Fut|Voice=Act">futurum</w>
+    <w ref="1.46.7" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">fuisse</w>
+    <w ref="1.46.7" lemma="contendo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">contendere</w>
+    <w ref="1.46.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.46.7" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="1.46.7" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="1.46.7" lemma="impar" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">inpari</w>
+    <w ana="#acte #metonymie #join" ref="1.46.7" lemma="iungo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">iungi</w>
+    <w ref="1.46.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.46.7" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="1.46.7" lemma="elanguesco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">elanguescendum</w>
+    <w ref="1.46.7" lemma="alienus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">aliena</w>
+    <w ref="1.46.7" lemma="ignauia" pos="NOMcom" msd="Case=Nom|Numb=Sing">ignavia</w>
+    <w ref="1.46.7" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">esset</w>
+    <w ref="1.46.7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

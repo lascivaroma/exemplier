@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #fututio">
+  <bibl ref="#adams"><author>Horace</author>, <title>Sermones</title>, <biblscope>1.2.53-1.2.57</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.53-1.2.57" type="line">
+    <w ref="1.2.54" lemma="‘" pos="PUNC" msd="MORPH=empty">‘</w>
+    <w ref="1.2.54" lemma="matrona" pos="NOMcom" msd="Case=Acc|Numb=Sing">matronam</w>
+    <w ref="1.2.54" lemma="nullus" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">nullam</w>
+    <w ref="1.2.54" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ana="#acte #metonymie #toucher #fututio" ref="1.2.54" lemma="tango" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">tango</w>
+    <w ref="1.2.54" lemma="’" pos="PUNC" msd="MORPH=empty">’</w>
+    <w ref="1.2.54" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

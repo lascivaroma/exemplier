@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Truculentus</title>, <biblscope>262-262</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi020.perseus-lat2:262-262" type="line">
+    <w ana="#acte #male #metonymie #acte #embrace" ref="262" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">Comprime</w>
+    <w ref="262" lemma="si" pos="CONsub" msd="MORPH=empty">sis</w>
+    <w ref="262" lemma="uolo" pos="" msd="MORPH=empty">{sis}</w>
+    <w ref="262" lemma="ei" pos="VER" msd="Case=Acc|Numb=Sing">eiram</w>
+    <w ref="262" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

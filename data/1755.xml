@@ -1,0 +1,41 @@
+<div type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #fututio">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Poenulus</title>, <biblscope>96-101</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi015.perseus-lat2:96-101" type="line">
+    <w ref="96" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=Fem">earum</w>
+    <w ref="96" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">híc</w>
+    <w ref="96" lemma="adolescens1" pos="NOMcom" msd="Case=Nom|Numb=Sing">adulescens</w>
+    <w ref="96" lemma="alter" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">alteram</w>
+    <w ref="96" lemma="efflictim" pos="ADV" msd="Case=Acc|Deg=Pos">efflictim</w>
+    <w ref="96" lemma="pereo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">perit</w>
+    <w ref="96" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="97" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=Fem">suam</w>
+    <w ref="97" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">síbi</w>
+    <w ref="97" lemma="cognatus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem">cognatam</w>
+    <w ref="97" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="97" lemma="imprudens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">imprudens</w>
+    <w ref="97" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="97" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="97" lemma="scio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">scit</w>
+    <w ref="97" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="97" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">siet</w>
+    <w ref="98" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="98" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
+    <w ref="98" lemma="umquam" pos="ADV" msd="Deg=Pos">umquam</w>
+    <w ana="#acte #metonymie #toucher #fututio" ref="98" lemma="tango" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tetigit</w>
+    <w ref="98" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="98" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+    <w ref="98" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eum</w>
+    <w ref="98" lemma="leno1" pos="NOMcom" msd="Case=Nom|Numb=Sing">leno</w>
+    <w ref="98" lemma="macero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">macerat</w>
+    <w ref="98" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="101" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+    <w ref="101" lemma="amo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">amare</w>
+    <w ref="101" lemma="cerno" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cernit</w>
+    <w ref="101" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="101" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tangere</w>
+    <w ref="101" lemma="homo" pos="NOMcom" msd="Case=Acc|Numb=Sing">hominem</w>
+    <w ref="101" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">volt</w>
+    <w ref="101" lemma="bolus" pos="NOMcom" msd="Case=Abl|Numb=Sing">bolo</w>
+    <w ref="101" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

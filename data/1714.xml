@@ -1,0 +1,19 @@
+<div  type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>Phormio</title>, <biblscope>1017-1018</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi004.perseus-lat2:1017-1018" type="line">
+    <w ref="1017" lemma="uinolentus1" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Vinolentus</w>
+    <w ref="1017" lemma="fere" pos="ADV" msd="Deg=Pos">fere</w>
+    <w ref="1017" lemma="abhinc" pos="ADV" msd="Deg=Pos">abhinc</w>
+    <w ref="1017" lemma="annus" pos="NOMcom" msd="Case=Acc|Numb=Plur">annos</w>
+    <w ref="1017" lemma="quindecim" pos="ADJcar" msd="Case=Ind">quindecim</w>
+    <w ref="1017" lemma="muliercula" pos="NOMcom" msd="Case=Acc|Numb=Sing">mulierculam</w>
+    <w ref="1018" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">Eam</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="1018" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">compressit</w>
+    <w ref="1018" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1018" lemma="unde1" pos="ADVrel" msd="MORPH=empty">unde</w>
+    <w ref="1018" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">haec</w>
+    <w ref="1018" lemma="nascor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">nata</w>
+    <w ref="1018" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+  </quote>
+</div>

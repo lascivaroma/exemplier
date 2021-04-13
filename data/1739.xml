@@ -1,0 +1,19 @@
+<div  type="fragment" corresp="adams:183" ana="#acte #metonymie #rub #fututio">
+  <bibl ref="#adams"><author>Anthologia Latina</author>, <title>Anthologia Latina</title>, <biblscope>148.5-148.8</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:148.5-148.8" type="line">
+    <w ref="148.7" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">Hanc</w>
+    <w ref="148.7" lemma="foueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fouet</w>
+    <w ref="148.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="148.7" lemma="amplexus" pos="NOMcom" msd="Case=Abl|Numb=Sing">amplexu</w>
+    <w ref="148.7" lemma="molior" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">molitur</w>
+    <w ref="148.7" lemma="dum" pos="CONsub" msd="MORPH=empty">dumque</w>
+    <w ref="148.7" lemma="que" pos="CON" msd="MORPH=empty">{dumque}</w>
+    <w ref="148.7" lemma="caballus" pos="NOMcom" msd="Case=Gen|Numb=Sing">caballae</w>
+    <w ana="#acte #metonymie #rub #fututio" ref="148.8" lemma="attero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Adterit</w>
+    <w ref="148.8" lemma="assiduus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">adsiduo</w>
+    <w ref="148.8" lemma="penis" pos="NOMcom" msd="Case=Abl|Numb=Sing">pene</w>
+    <w ref="148.8" lemma="fututor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fututor</w>
+    <w ref="148.8" lemma="hebes" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">hebes</w>
+    <w ref="148.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

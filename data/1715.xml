@@ -1,0 +1,19 @@
+<div  type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Mother-in-Law</title>, <biblscope>573-574</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi005.perseus-lat2:573-574" type="line">
+    <w ref="573" lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
+    <w ref="573" lemma="cum3" pos="CONsub" msd="MORPH=empty">quum</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="573" lemma="comprimo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">compressa</w>
+    <w ref="573" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="573" lemma="nascor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem">nata</w>
+    <w ref="573" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="573" lemma="forma" pos="NOMcom" msd="Case=Nom|Numb=Sing">forma</w>
+    <w ref="573" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="573" lemma="tenebrae" pos="NOMcom" msd="Case=Abl|Numb=Plur">tenebris</w>
+    <w ref="573" lemma="nosco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">nosci</w>
+    <w ref="573" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="573" lemma="quitam" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Fem">quita</w>
+    <w ref="573" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+  </quote>
+</div>

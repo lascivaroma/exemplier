@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Cistellaria</title>, <biblscope>162-163</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi007.perseus-lat2:162-163" type="line">
+    <w ref="162" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ílla</w>
+    <w ref="162" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="162" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">compresserat</w>
+    <w ref="163" lemma="decimus" pos="ADJord" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">decumo</w>
+    <w ref="163" lemma="post1" pos="ADV" msd="Deg=Pos">post</w>
+    <w ref="163" lemma="mensis" pos="NOMcom" msd="Case=Abl|Numb=Sing">mense</w>
+    <w ref="163" lemma="exigo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">exacto</w>
+    <w ref="163" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
+    <w ref="163" lemma="pario2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">peperit</w>
+    <w ref="163" lemma="filia" pos="NOMcom" msd="Case=Acc|Numb=Sing">filiam</w>
+    <w ref="163" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

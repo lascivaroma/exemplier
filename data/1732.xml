@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:183" ana="#acte #metonymie #rub">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Captivi</title>, <biblscope>888b-889</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi005.perseus-lat2:888b-889" type="line">
+    <w ref="888b" lemma="at2" pos="CONcoo" msd="MORPH=empty">At</w>
+    <w ref="888b" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="888b" lemma="Siculus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Siculus</w>
+    <w ref="888b" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="888b" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="888b" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="888b" lemma="Boius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Boius</w>
+    <w ref="888b" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="888b" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="888b" lemma="Boia" pos="NOMpro" msd="Case=Acc|Numb=Sing">Boiam</w>
+    <w ana="#acte #metonymie #rub" ref="888b" lemma="tero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">terit</w>
+  </quote>
+</div>

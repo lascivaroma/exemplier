@@ -1,0 +1,40 @@
+<div type="fragment" corresp="adams:183" ana="#acte #metonymie #rub #futuo">
+  <bibl ref="#adams"><author>Macrobius</author>, <title>Saturnalia</title>, <biblscope>1.15-1.15</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0186.stoa001.thayer-lat1:1.15-1.15" type="chapter">
+    <w ref="1.15" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="1.15" lemma="Uerres" pos="NOMpro" msd="Case=Acc|Numb=Sing">Verrium</w>
+    <w ref="1.15" lemma="Flaccus" pos="NOMpro" msd="Case=Acc|Numb=Sing">Flaccum</w>
+    <w ref="1.15" lemma="ius1" pos="NOMcom" msd="Case=Gen|Numb=Sing">iuris</w>
+    <w ref="1.15" lemma="pontificius" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">pontificii</w>
+    <w ref="1.15" lemma="peritus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Sup">peritissimum</w>
+    <w ref="1.15" lemma="dico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dicere</w>
+    <w ref="1.15" lemma="soleo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=SemDep">solitum</w>
+    <w ref="1.15" lemma="refero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">refert</w>
+    <w ref="1.15" lemma="Uarro" pos="NOMpro" msd="Case=Nom|Numb=Sing">Varro</w>
+    <w ref="1.15" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.15" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+    <w ref="1.15" lemma="feriae" pos="NOMcom" msd="Case=Dat|Numb=Plur">feriis</w>
+    <w ana="#acte #metonymie #rub #futuo" ref="1.15" lemma="tergo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tergere</w>
+    <w ref="1.15" lemma="uetus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">veteres</w>
+    <w ref="1.15" lemma="fossa" pos="NOMcom" msd="Case=Acc|Numb=Plur">fossas</w>
+    <w ref="1.15" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">liceret</w>
+    <w ref="1.15" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.15" lemma="nouus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">novas</w>
+    <w ref="1.15" lemma="facio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">facere</w>
+    <w ref="1.15" lemma="ius1" pos="NOMcom" msd="Case=Nom|Numb=Sing">ius</w>
+    <w ref="1.15" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.15" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">esset</w>
+    <w ref="1.15" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.15" lemma="ideo" pos="ADV" msd="Deg=Pos">ideo</w>
+    <w ref="1.15" lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
+    <w ref="1.15" lemma="uiduus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">viduis</w>
+    <w ref="1.15" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="1.15" lemma="uirgo" pos="NOMcom" msd="Case=Dat|Numb=Plur">virginibus</w>
+    <w ref="1.15" lemma="idoneus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">idoneas</w>
+    <w ref="1.15" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="1.15" lemma="feriae" pos="NOMcom" msd="Case=Acc|Numb=Plur">ferias</w>
+    <w ref="1.15" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="1.15" lemma="nubo" pos="VER" msd="Case=Acc|Numb=Sing|Mood=Ger|Voice=Act">nubendum</w>
+    <w ref="1.15" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

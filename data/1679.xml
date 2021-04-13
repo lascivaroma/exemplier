@@ -1,0 +1,19 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
+  <bibl ref="#adams"><author>Lucretius</author>, <title>De Rerum Natura</title>, <biblscope>4.1192-4.1196</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:4.1192-4.1196" type="line">
+    <w ref="4.1192" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ref="4.1192" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>
+    <w ref="4.1192" lemma="semper" pos="ADV" msd="Deg=Pos">semper</w>
+    <w ref="4.1192" lemma="fictus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">ficto</w>
+    <w ref="4.1192" lemma="suspiro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">suspirat</w>
+    <w ref="4.1192" lemma="amor" pos="NOMcom" msd="Case=Abl|Numb=Sing">amore</w>
+    <w ref="4.1192" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.1193" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="4.1193" lemma="complector" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">conplexa</w>
+    <w ref="4.1193" lemma="uir" pos="NOMcom" msd="Case=Gen|Numb=Sing">viri</w>
+    <w ana="#acte #metonymie #join" ref="4.1193" lemma="corpus" pos="NOMcom" msd="Case=Acc|Numb=Sing">corpus</w>
+    <w ana="#acte #metonymie #join" ref="4.1193" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ana="#acte #metonymie #join" ref="4.1193" lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
+    <w ana="#acte #metonymie #join" ref="4.1193" lemma="iungo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iungit</w>
+  </quote>
+</div>

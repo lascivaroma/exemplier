@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
+  <bibl ref="#adams"><author>Appendix Vergiliana, Lydia.</author>, <title>Appendix Vergiliana, Lydia - Dirae</title>, <biblscope>138-139</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.658.3ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0692.phi002.remacle-lat1:138-139" type="line">
+    <w ref="138" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="138" lemma="mas" pos="NOMcom" msd="Case=Acc|Numb=Sing">mas</w>
+    <w ref="138" lemma="quicumque1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quodcumque</w>
+    <w ref="138" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="138" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="138" lemma="ille" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">illi</w>
+    <w ref="138" lemma="suus" pos="PROpos.ref" msd="Case=Nom|Numb=Sing|Gend=Fem">sua</w>
+    <w ref="138" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">femina</w>
+    <w ana="#acte #metonymie #join" ref="138" lemma="iungo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">iuncta</w>
+    <w ref="139" lemma="interpello" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">interpellatos</w>
+    <w ref="139" lemma="numquam" pos="ADVneg" msd="MORPH=empty">numquam</w>
+    <w ref="139" lemma="ploro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">ploravit</w>
+    <w ref="139" lemma="amor" pos="NOMcom" msd="Case=Acc|Numb=Plur">amores</w>
+    <w ref="139" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

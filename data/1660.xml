@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Metamorphoses</title>, <biblscope>14.761-14.762</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.658.3ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:14.761-14.762" type="line">
+    <w ref="14.761" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+    <w ref="14.761" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Plur|Gend=MascNeut">Quorum</w>
+    <w ref="14.761" lemma="memor" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">memor</w>
+    <w ref="14.761" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.761" lemma="o" pos="INJ" msd="MORPH=empty">o</w>
+    <w ref="14.761" lemma="meus" pos="PROpos" msd="Case=Voc|Numb=Sing|Gend=Fem">mea</w>
+    <w ref="14.761" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.761" lemma="lentus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">lentos</w>
+    <w ref="14.762" lemma="pono" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">pone</w>
+    <w ref="14.762" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.762" lemma="precor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">precor</w>
+    <w ref="14.762" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.762" lemma="fastus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">fastus</w>
+    <w ref="14.762" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="14.762" lemma="amans1" pos="NOMcom" msd="Case=Dat|Numb=Sing|Gend=Com">amanti</w>
+    <w ana="#acte #metonymie #join" ref="14.762" lemma="iungo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">iungere</w>
+    <w ref="14.762" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.762" lemma="nympha" pos="NOMcom" msd="Case=Voc|Numb=Sing">nymphe</w>
+    <w ref="14.762" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

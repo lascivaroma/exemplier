@@ -1,0 +1,44 @@
+<div type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Augustine</author>, <title>De civitate dei</title>, <biblscope>6.9-6.9</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0040.stoa003.opp-lat3:6.9-6.9" type="chapter">
+    <w ref="6.9" lemma="assum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">adest</w>
+    <w ref="6.9" lemma="uirginiensis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">Virginiensis</w>
+    <w ref="6.9" lemma="dea" pos="NOMcom" msd="Case=Nom|Numb=Sing">dea</w>
+    <w ref="6.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.9" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="6.9" lemma="uirgo" pos="NOMcom" msd="Case=Dat|Numb=Sing">uirgini</w>
+    <w ref="6.9" lemma="zona" pos="NOMcom" msd="Case=Nom|Numb=Sing">zona</w>
+    <w ref="6.9" lemma="soluo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">soluatur</w>
+    <w ref="6.9" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="6.9" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="6.9" lemma="assum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">adest</w>
+    <w ref="6.9" lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Sing">deus</w>
+    <w ref="6.9" lemma="subigus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Subigus</w>
+    <w ref="6.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.9" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="6.9" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Sing">uiro</w>
+    <w ref="6.9" lemma="subigo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">subigatur</w>
+    <w ref="6.9" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="6.9" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="6.9" lemma="assum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">adest</w>
+    <w ref="6.9" lemma="dea" pos="NOMcom" msd="Case=Nom|Numb=Sing">dea</w>
+    <w ref="6.9" lemma="premo" pos="VER" msd="Case=Nom|Numb=Sing|Person=2">Prema</w>
+    <w ref="6.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.9" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="6.9" lemma="subigo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">subacta</w>
+    <w ref="6.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.9" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="6.9" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="6.9" lemma="commoueo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">commoueat</w>
+    <w ref="6.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="6.9" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">conprimatur</w>
+    <w ref="6.9" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="6.9" lemma="dea" pos="NOMcom" msd="Case=Nom|Numb=Sing">dea</w>
+    <w ref="6.9" lemma="pertundo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Imp|Tense=Pres|Voice=Act">Pertunda</w>
+    <w ref="6.9" lemma="ibi" pos="ADV" msd="Deg=Pos">ibi</w>
+    <w ref="6.9" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="6.9" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
+    <w ref="6.9" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

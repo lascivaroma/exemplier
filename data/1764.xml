@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #masturbation">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Art of Love</title>, <biblscope>2.719-2.720</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:2.719-2.720" type="line">
+    <w ref="2.719" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+    <w ref="2.719" lemma="locus" pos="NOMcom" msd="Case=Acc|Numb=Plur">loca</w>
+    <w ref="2.719" lemma="reperio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">reppereris</w>
+    <w ref="2.719" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.719" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Neut">quae</w>
+    <w ana="#acte #metonymie #toucher #masturbation" ref="2.719" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">tangi</w>
+    <w ref="2.719" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">femina</w>
+    <w ref="2.719" lemma="gaudeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3">gaudet</w>
+    <w ref="2.719" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.720" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ref="2.720" lemma="obsto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">obstet</w>
+    <w ref="2.720" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.720" lemma="tango" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">tangas</w>
+    <w ref="2.720" lemma="quo1" pos="ADVrel" msd="MORPH=empty">quo</w>
+    <w ref="2.720" lemma="parum2" pos="ADV" msd="Deg=Comp">minus</w>
+    <w ref="2.720" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Fem">illa</w>
+    <w ref="2.720" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.720" lemma="pudor" pos="NOMcom" msd="Case=Nom|Numb=Sing">pudor</w>
+    <w ref="2.720" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

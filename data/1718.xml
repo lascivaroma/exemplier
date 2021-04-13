@@ -1,0 +1,23 @@
+<div  type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblscope>2.26b.26-2.26b.29</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.26b.26-2.26b.29" type="line">
+    <w ref="2.26b.28" lemma="testis1" pos="NOMcom" msd="Case=Nom|Numb=Sing">testis</w>
+    <w ref="2.26b.28" lemma="Amymone" pos="NOMpro" msd="Case=Nom|Numb=Sing">Amymone</w>
+    <w ref="2.26b.28" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.26b.28" lemma="latex" pos="NOMcom" msd="Case=Acc|Numb=Plur">latices</w>
+    <w ref="2.26b.28" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
+    <w ref="2.26b.28" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">ferret</w>
+    <w ref="2.26b.28" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.26b.28" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.26b.28" lemma="aruum" pos="NOMcom" msd="Case=Abl|Numb=Plur">arvis</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="2.26b.29" lemma="comprimo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">compressa</w>
+    <w ref="2.26b.29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.26b.29" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.26b.29" lemma="Lerna" pos="NOMpro" msd="Case=Gen|Numb=Sing">Lernae</w>
+    <w ref="2.26b.29" lemma="pello" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">pulsa</w>
+    <w ref="2.26b.29" lemma="tridens1" pos="VER" msd="Case=Abl|Numb=Sing">tridente</w>
+    <w ref="2.26b.29" lemma="palus2" pos="NOMcom" msd="Case=Nom|Numb=Sing">palus</w>
+    <w ref="2.26b.29" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

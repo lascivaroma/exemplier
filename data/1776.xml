@@ -1,0 +1,23 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher">
+  <bibl ref="#adams"><author>Eugraphius</author>, <title>Commentum Heauton Hecyra</title>, <biblscope>153-153</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0119a.stoa001e.digilibLT-lat1:153-153" type="comment">
+    <w ref="153" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="153" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="153" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="153" lemma="fio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fieri</w>
+    <w ref="153" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="153" lemma="debeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">debeat</w>
+    <w ref="153" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="153" lemma="diu" pos="ADV" msd="Deg=Pos">diu</w>
+    <w ref="153" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">fuisse</w>
+    <w ref="153" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="153" lemma="maritus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">marito</w>
+    <w ref="153" lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Sing">uirginem</w>
+    <w ref="153" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="153" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="153" lemma="Pamphilus" pos="NOMpro" msd="Case=Abl|Numb=Sing">Pamphilo</w>
+    <w ref="153" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ana="#acte #metonymie #toucher" ref="153" lemma="tango" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">tactam</w>
+    <w ref="153" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,19 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #masturbation">
+  <bibl ref="#adams"><author>Maximianus 6th cent.</author>, <title>Elegiae</title>, <biblscope>5.55-5.60</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0196.stoa001.latinlibrary-lat1:5.55-5.60" type="line">
+    <w ana="#acte #metonymie #toucher #masturbation" ref="5.57" lemma="contrecto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">contrectare</w>
+    <w ref="5.57" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
+    <w ref="5.57" lemma="coepio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">coepit</w>
+    <w ref="5.57" lemma="flagro" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act">flagrantia</w>
+    <w ref="5.57" lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
+    <w ref="5.59" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="5.60" lemma="persto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">perstitit</w>
+    <w ref="5.60" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="5.60" lemma="medius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut">medio</w>
+    <w ref="5.60" lemma="frigus" pos="NOMcom" msd="Case=Nom|Numb=Sing">frigus</w>
+    <w ref="5.60" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="5.60" lemma="ante1" pos="ADV" msd="Deg=Pos">ante</w>
+    <w ref="5.60" lemma="focus" pos="NOMcom" msd="Case=Abl|Numb=Sing">foco</w>
+    <w ref="5.60" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

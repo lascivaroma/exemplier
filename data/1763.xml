@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #masturbation">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Art of Love</title>, <biblscope>2.713-2.714</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:2.713-2.714" type="line">
+    <w ref="2.713" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">Illis</w>
+    <w ref="2.713" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="2.713" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">manibus</w>
+    <w ana="#acte #metonymie #toucher #masturbation" ref="2.713" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">tangi</w>
+    <w ref="2.713" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.713" lemma="Briseis" pos="NOMpro" msd="Case=Voc|Numb=Sing">Briseï</w>
+    <w ref="2.713" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.713" lemma="sino" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2">sinebas</w>
+    <w ref="2.713" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.714" lemma="imbuo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">Imbutae</w>
+    <w ref="2.714" lemma="Phrygia" pos="NOMpro" msd="Case=Acc|Numb=Plur|Deg=Pos">Phrygia</w>
+    <w ref="2.714" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Fem">quae</w>
+    <w ref="2.714" lemma="nex" pos="NOMcom" msd="Case=Abl|Numb=Sing">nece</w>
+    <w ref="2.714" lemma="semper" pos="ADV" msd="Deg=Pos">semper</w>
+    <w ref="2.714" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erant</w>
+    <w ref="2.714" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

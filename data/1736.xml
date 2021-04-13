@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:183" ana="#acte #metonymie #rub #masturbation">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>82.33-82.34</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:82.33-82.34" type="line">
+    <w ref="82.33" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">Licebit</w>
+    <w ref="82.33" lemma="aeger2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">aeger</w>
+    <w ref="82.33" lemma="anguis" pos="NOMcom" msd="Case=Abl|Numb=Sing">angue</w>
+    <w ref="82.33" lemma="lentus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">lentior</w>
+    <w ref="82.33" lemma="cubo" pos="NOMcom" msd="Numb=Sing|Person=2">cubes</w>
+    <w ref="82.33" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #rub #masturbation" ref="82.34" lemma="tero" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass">tereris</w>
+    <w ref="82.34" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+    <w ref="82.34" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="82.34" lemma="donec" pos="CONsub" msd="MORPH=empty">donec</w>
+  </quote>
+</div>

@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #male">
+  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>138-139</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:138-139" type="section">
+    <w ref="139" lemma="torus" pos="NOMcom" msd="Case=Acc|Numb=Sing">Torum</w>
+    <w ref="139" lemma="frequens" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">frequenti</w>
+    <w ana="#acte #metonymie #toucher #male" ref="139" lemma="tractatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">tractatione</w>
+    <w ref="139" lemma="uexo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">vexavi</w>
+    <w ref="139" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="139" lemma="amor" pos="NOMcom" msd="Case=Gen|Numb=Sing">amoris</w>
+    <w ref="139" lemma="meus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=MascNeut">mei</w>
+    <w ref="139" lemma="quasi1" pos="ADVrel" msd="MORPH=empty">quasi</w>
+    <w ref="139" lemma="quidam" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">quandam</w>
+    <w ref="139" lemma="imago" pos="NOMcom" msd="Case=Acc|Numb=Sing">imaginem</w>
+    <w ref="139" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

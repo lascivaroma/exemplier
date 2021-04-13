@@ -1,0 +1,10 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #futuo">
+  <bibl ref="#adams"><author>Suetonius ca. 69-ca. 122</author>, <title>Nero</title>, <biblscope>26-26</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo016.perseus-lat2:26-26" type="chapter">
+    <w ref="26" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="26" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
+    <w ref="26" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
+    <w ana="#acte #metonymie #toucher #futuo" ref="26" lemma="attrecto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">adtrectauerat</w>
+    <w ref="26" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

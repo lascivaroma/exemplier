@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Asinaria</title>, <biblscope>292-292</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi002.perseus-lat2:292-292" type="line">
+    <w ref="292" lemma="edepol" pos="INJ" msd="MORPH=empty">Edepol</w>
+    <w ref="292" lemma="homo" pos="NOMcom" msd="Case=Acc|Numb=Sing">hominem</w>
+    <w ref="292" lemma="infelix" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">ínfelicem</w>
+    <w ref="292" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="292" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="292" lemma="patrona" pos="NOMcom" msd="Case=Acc|Numb=Sing">patronam</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="292" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">comprimat</w>
+    <w ref="292" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

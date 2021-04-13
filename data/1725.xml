@@ -1,0 +1,41 @@
+<div type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Iulius Solinus</author>, <title>Collectanea Rerum Memorabilium</title>, <biblscope>1.15-1.15</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0264.stoa001.digilibLT-lat1:1.15-1.15" type="chapter">
+    <w ref="1.15" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Sunt</w>
+    <w ref="1.15" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+    <w ref="1.15" lemma="uolo3" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">velint</w>
+    <w ref="1.15" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="1.15" lemma="balatus" pos="NOMcom" msd="Case=Abl|Numb=Plur">balatibus</w>
+    <w ref="1.15" lemma="ouis" pos="NOMcom" msd="Case=Gen|Numb=Plur">ovium</w>
+    <w ref="1.15" lemma="muto2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">mutata</w>
+    <w ref="1.15" lemma="littera" pos="NOMcom" msd="Case=Abl|Numb=Sing">littera</w>
+    <w ref="1.15" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.15" lemma="uel1" pos="ADV" msd="MORPH=empty">vel</w>
+    <w ref="1.15" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="1.15" lemma="Pales" pos="NOMpro" msd="Case=Abl|Numb=Sing">Pale</w>
+    <w ref="1.15" lemma="pastoralis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">pastorali</w>
+    <w ref="1.15" lemma="dea" pos="NOMcom" msd="Case=Abl|Numb=Sing">dea</w>
+    <w ref="1.15" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.15" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="1.15" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="1.15" lemma="Silenus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Silenus</w>
+    <w ref="1.15" lemma="probo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">probat</w>
+    <w ref="1.15" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="1.15" lemma="Palanthus" pos="NOMpro" msd="Case=Abl|Numb=Sing">Palantho</w>
+    <w ref="1.15" lemma="Hyperboreius" pos="NOMpro" msd="Case=Gen|Numb=Sing|Deg=Pos">Hyperborei</w>
+    <w ref="1.15" lemma="filia" pos="NOMcom" msd="Case=Nom|Numb=Sing">filia</w>
+    <w ref="1.15" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.15" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>
+    <w ref="1.15" lemma="Hercules" pos="NOMpro" msd="Case=Nom|Numb=Sing">Hercules</w>
+    <w ref="1.15" lemma="ibi" pos="ADV" msd="Deg=Pos">ibi</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="1.15" lemma="comprimo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">conpressisse</w>
+    <w ref="1.15" lemma="uideo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">visus</w>
+    <w ref="1.15" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1.15" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.15" lemma="nomen" pos="NOMcom" msd="Case=Nom|Numb=Sing">nomen</w>
+    <w ref="1.15" lemma="mons" pos="NOMcom" msd="Case=Dat|Numb=Sing">monti</w>
+    <w ref="1.15" lemma="adopto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">adoptatum</w>
+    <w ref="1.15" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

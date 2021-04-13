@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:183" ana="#acte #metonymie #rub">
+  <bibl ref="#adams"><author>Tertullian ca. 160-ca. 230</author>, <title>De Pallio</title>, <biblscope>4-4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa022.opp-lat1:4-4" type="chapter">
+    <w ref="4" lemma="aspicio" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">Aspice</w>
+    <w ref="4" lemma="lupa" pos="NOMcom" msd="Case=Acc|Numb=Plur">lupas</w>
+    <w ref="4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4" lemma="popularis2" pos="ADJqua" msd="Case=Gen|Numb=Plur">popularium</w>
+    <w ref="4" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Plur">libidinum</w>
+    <w ref="4" lemma="nundinae" pos="NOMcom" msd="Case=Acc|Numb=Plur">nundinas</w>
+    <w ref="4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4" lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Fem">ipsas</w>
+    <w ref="4" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ana="#acte #metonymie #rub" ref="4" lemma="frictrix" pos="NOMcom" msd="Case=Acc|Numb=Plur">frictrices</w>
+    <w ref="4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="4" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="4" lemma="praesto1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">praestat</w>
+    <w ref="4" lemma="oculus" pos="NOMcom" msd="Case=Acc|Numb=Plur">oculos</w>
+    <w ref="4" lemma="abduco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">abducere</w>
+    <w ref="4" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="4" lemma="eiusmodi" pos="ADV" msd="Deg=Pos">eiusmodi</w>
+    <w ref="4" lemma="propudium" pos="NOMcom" msd="Case=Abl|Numb=Plur">propudiis</w>
+    <w ref="4" lemma="occido2" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">occisae</w>
+    <w ref="4" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="4" lemma="publicum" pos="NOMcom" msd="Case=Abl|Numb=Sing">publico</w>
+    <w ref="4" lemma="castitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">castitatis</w>
+    <w ref="4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4" lemma="aspicio" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">aspice</w>
+    <w ref="4" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="4" lemma="uel2" pos="CONcoo" msd="Deg=Pos">vel</w>
+    <w ref="4" lemma="sublimis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">sublimis</w>
+    <w ref="4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="4" lemma="matrona" pos="NOMcom" msd="Case=Acc|Numb=Plur">matronas</w>
+    <w ref="4" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">videbis</w>
+    <w ref="4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

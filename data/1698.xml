@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:180" ana="#metonymie #acte #misceo">
+  <bibl ref="#adams"><author>Jerome Saint d. 419 or 20</author>, <title>Commentaria in Isaiam libri octo et decem (in Iesaiam Commentarii)</title>, <biblscope>57-57</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0162.stoa023.corpuscorporum-lat1:57-57" type="chapter">
+    <w ref="57" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="57" lemma="multiplico" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">multiplicavit</w>
+    <w ref="57" lemma="fornicatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">fornicationem</w>
+    <w ref="57" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=Fem">suam</w>
+    <w ref="57" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="57" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="57" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="57" lemma="semel" pos="ADJadv.mul" msd="MORPH=empty">semel</w>
+    <w ref="57" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="57" lemma="unus" pos="ADJcar" msd="Case=Abl|Numb=Sing|Gend=MascNeut">uno</w>
+    <w ref="57" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="57" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="57" lemma="frequenter" pos="ADV" msd="Deg=Pos">frequenter</w>
+    <w ref="57" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="57" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="57" lemma="multus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Sup">plurimis</w>
+    <w ana="#metonymie #acte #misceo" ref="57" lemma="misceo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">misceretur</w>
+    <w ref="57" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

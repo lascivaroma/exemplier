@@ -1,0 +1,10 @@
+<div  type="fragment" corresp="adams:181" ana="#metonymie #acte #misceo">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Metamorphoses</title>, <biblscope>13.865-13.866</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:13.865-13.866" type="line">
+    <w ref="13.866" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+    <w ref="13.866" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="13.866" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ana="#metonymie #acte #misceo" ref="13.866" lemma="misceo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">misceat</w>
+    <w ref="13.866" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

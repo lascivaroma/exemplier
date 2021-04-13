@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #fututio">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Art of Love</title>, <biblscope>3.680-3.682</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:3.680-3.682" type="line">
+    <w ref="3.680" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="3.681" lemma="praecipue" pos="ADV" msd="Deg=Pos">Praecipue</w>
+    <w ref="3.681" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="3.681" lemma="cultus1" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Masc">cultus</w>
+    <w ref="3.681" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
+    <w ref="3.681" lemma="speculum" pos="NOMcom" msd="Case=Dat|Numb=Sing">speculoque</w>
+    <w ref="3.681" lemma="que" pos="CON" msd="MORPH=empty">{speculoque}</w>
+    <w ref="3.681" lemma="placeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">placebit</w>
+    <w ref="3.681" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.682" lemma="possum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Posse</w>
+    <w ref="3.682" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=MascNeut">suo</w>
+    <w ana="#acte #metonymie #toucher #fututio" ref="3.682" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">tangi</w>
+    <w ref="3.682" lemma="credo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">credet</w>
+    <w ref="3.682" lemma="amor" pos="NOMcom" msd="Case=Abl|Numb=Sing">amore</w>
+    <w ref="3.682" lemma="dea" pos="NOMcom" msd="Case=Acc|Numb=Plur">deas</w>
+    <w ref="3.682" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

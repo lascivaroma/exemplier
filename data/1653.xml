@@ -1,0 +1,21 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
+  <bibl ref="#adams"><author>Virgil</author>, <title>Aeneid</title>, <biblscope>4.189-4.194</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.658.3ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi003.perseus-lat2:4.189-4.194" type="line">
+    <w ref="4.191" lemma="uenio" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">venisse</w>
+    <w ref="4.191" lemma="Aeneas" pos="NOMpro" msd="Case=Acc|Numb=Sing">Aenean</w>
+    <w ref="4.191" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.191" lemma="Troianus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">Troiano</w>
+    <w ref="4.191" lemma="sanguis" pos="NOMcom" msd="Case=Abl|Numb=Sing">sanguine</w>
+    <w ref="4.191" lemma="cresco" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">cretum</w>
+    <w ref="4.191" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.192" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
+    <w ref="4.192" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="4.192" lemma="pulcher" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">pulchra</w>
+    <w ref="4.192" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Sing">viro</w>
+    <w ref="4.192" lemma="dignor" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3">dignetur</w>
+    <w ana="#acte #metonymie #join" ref="4.192" lemma="iungo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">iungere</w>
+    <w ref="4.192" lemma="Dido" pos="NOMpro" msd="Case=Nom|Numb=Sing">Dido</w>
+    <w ref="4.192" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+  </quote>
+</div>

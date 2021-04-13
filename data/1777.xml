@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #masturbation">
+  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>140-140</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:140-140" type="section">
+    <w ref="140" lemma="at2" pos="CONcoo" msd="MORPH=empty">At</w>
+    <w ref="140" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="140" lemma="primo" pos="ADJadv.ord" msd="Deg=Sup">primo</w>
+    <w ref="140" lemma="exhorreo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">exhorruit</w>
+    <w ref="140" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="140" lemma="deinde" pos="ADV" msd="Deg=Pos">deinde</w>
+    <w ref="140" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="140" lemma="multum2" pos="ADV" msd="Numb=Sing|Deg=Sup">plurimum</w>
+    <w ref="140" lemma="credo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">crederet</w>
+    <w ref="140" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="140" lemma="uterque" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">utraque</w>
+    <w ref="140" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
+    <w ref="140" lemma="deus" pos="NOMcom" msd="Case=Gen|Numb=Plur">deorum</w>
+    <w ref="140" lemma="beneficium" pos="NOMcom" msd="Case=Acc|Numb=Plur">beneficia</w>
+    <w ana="#acte #metonymie #toucher #masturbation" ref="140" lemma="tracto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tractat</w>
+  </quote>
+</div>

@@ -1,0 +1,22 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams"><author>Iulius Solinus</author>, <title>Collectanea Rerum Memorabilium</title>, <biblscope>49.12-49.12</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1566.64ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0264.stoa001.digilibLT-lat1:49.12-49.12" type="chapter">
+    <w ref="49.12" lemma="ad2" pos="PRE" msd="MORPH=empty">Ad</w>
+    <w ref="49.12" lemma="bellum" pos="NOMcom" msd="Case=Acc|Numb=Plur">bella</w>
+    <w ref="49.12" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">feminae</w>
+    <w ref="49.12" lemma="praeparo2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">praeparantur</w>
+    <w ref="49.12" lemma="inuenio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">inventumque</w>
+    <w ref="49.12" lemma="que" pos="CON" msd="MORPH=empty">{inventumque}</w>
+    <w ref="49.12" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="49.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="49.12" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="49.12" lemma="desiderium" pos="NOMcom" msd="Case=Nom|Numb=Sing">desiderium</w>
+    <w ref="49.12" lemma="is" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">eis</w>
+    <w ana="#acte #metonymie #coeo" ref="49.12" lemma="coitio" pos="NOMcom" msd="Case=Gen|Numb=Sing">coitionis</w>
+    <w ref="49.12" lemma="quidam" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">quadam</w>
+    <w ref="49.12" lemma="castratio" pos="NOMcom" msd="Case=Abl|Numb=Sing">castratione</w>
+    <w ref="49.12" lemma="exseco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">execaretur</w>
+    <w ref="49.12" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+  </quote>
+</div>

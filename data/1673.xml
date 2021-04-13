@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Poenulus</title>, <biblscope>292b-292b</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi015.perseus-lat2:292b-292b" type="line">
+    <w ref="292b" lemma="at2" pos="CONcoo" msd="MORPH=empty">At</w>
+    <w ref="292b" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">vide</w>
+    <w ref="292b" lemma="si" pos="CONsub" msd="MORPH=empty">sis</w>
+    <w ref="292b" lemma="uolo" pos="" msd="MORPH=empty">{sis}</w>
+    <w ref="292b" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #join" ref="292b" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="292b" lemma="illac" pos="ADV" msd="Case=Abl|Gend=Fem">illac</w>
+    <w ref="292b" lemma="numquam" pos="ADVneg" msd="MORPH=empty">numquam</w>
+    <w ana="#acte #metonymie #join" ref="292b" lemma="limo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">limavi</w>
+    <w ana="#acte #metonymie #join" ref="292b" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+    <w ref="292b" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

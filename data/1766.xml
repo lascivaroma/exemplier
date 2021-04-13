@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Mother-in-Law</title>, <biblscope>144-150</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi005.perseus-lat2:144-150" type="line">
+    <w ref="146" lemma="narro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Narratque</w>
+    <w ref="146" lemma="que" pos="CON" msd="MORPH=empty">{Narratque}</w>
+    <w ref="146" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="146" lemma="uirgo" pos="NOMcom" msd="Case=Nom|Numb=Sing">virgo</w>
+    <w ref="146" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="146" lemma="sui1" pos="PROref" msd="Case=Abl|Numb=Sing">se</w>
+    <w ana="#acte #metonymie #toucher" ref="146" lemma="integer" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">integra</w>
+    <w ref="146" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="146" lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>
+    <w ref="146" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">siet</w>
+    <w ref="146" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+  </quote>
+</div>

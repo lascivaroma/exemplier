@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>3.14.9-3.14.12</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.14.9-3.14.12" type="line">
+    <w ref="3.14.9" lemma="ignotus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">Ignoto</w>
+    <w ref="3.14.9" lemma="meretrix" pos="NOMcom" msd="Case=Nom|Numb=Sing">meretrix</w>
+    <w ana="#acte #metonymie #join" ref="3.14.9" lemma="corpus" pos="NOMcom" msd="Case=Acc|Numb=Sing">corpus</w>
+    <w ana="#acte #metonymie #join" ref="3.14.9" lemma="iunctura" pos="NOMcom" msd="Case=Nom|Numb=Sing">iunctura</w>
+    <w ref="3.14.9" lemma="Quiris" pos="NOMpro" msd="Case=Dat|Numb=Sing">Quiriti</w>
+    <w ref="3.14.10" lemma="oppono" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">Opposita</w>
+    <w ref="3.14.10" lemma="populus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">populum</w>
+    <w ref="3.14.10" lemma="submoueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">summovet</w>
+    <w ref="3.14.10" lemma="ante1" pos="ADV" msd="Deg=Pos">ante</w>
+    <w ref="3.14.10" lemma="sera1" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">sera</w>
+  </quote>
+</div>

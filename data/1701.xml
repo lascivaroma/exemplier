@@ -1,0 +1,29 @@
+<div type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace #pedicator">
+  <bibl ref="#adams"><author>Ausonius, Decimus Magnus</author>, <title>Epigrammaton Liber</title>, <biblscope>77.5-77.8</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:77.5-77.8" type="line">
+    <w ref="77.5" lemma="&quot;" pos="PUNC" msd="MORPH=empty">"</w>
+    <w ref="77.5" lemma="&quot;" pos="PUNC" msd="MORPH=empty">"</w>
+    <w ref="77.5" lemma="fel" pos="NOMpro" msd="Case=Nom|Numb=Sing">Feles</w>
+    <w ref="77.5" lemma="nuper" pos="ADV" msd="Deg=Pos">nuper</w>
+    <w ref="77.5" lemma="pullaris" pos="NOMcom" msd="Case=Acc|Numb=Plur">pullaria</w>
+    <w ref="77.5" lemma="dico2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">dictus</w>
+    <w ref="77.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="77.6" lemma="corrumpo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">corrupit</w>
+    <w ref="77.6" lemma="totus" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascNeut">totum</w>
+    <w ref="77.6" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="77.6" lemma="puerilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">puerile</w>
+    <w ref="77.6" lemma="secus2" pos="ADV" msd="Deg=Pos">secus</w>
+    <w ref="77.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="77.7" lemma="peruerto" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">perversae</w>
+    <w ref="77.7" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
+    <w ref="77.7" lemma="posticum" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">postico</w>
+    <w ref="77.7" lemma="uulnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulnere</w>
+    <w ref="77.7" lemma="fossor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fossor</w>
+    <w ref="77.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="77.8" lemma="Lucilius" pos="NOMpro" msd="Case=Gen|Numb=Sing">Lucili</w>
+    <w ref="77.8" lemma="uates" pos="NOMcom" msd="Case=Gen|Numb=Sing">vatis</w>
+    <w ref="77.8" lemma="subpilo" pos="ADJqua" msd="Case=Abl|Numb=Sing">subpilo</w>
+    <w ana="#acte #male #metonymie #acte #embrace #pedicator" ref="77.8" lemma="pullipremo" pos="NOMcom" msd="Numb=Sing|Gend=MascNeut|Deg=Sup">pullipremo</w>
+    <w ref="77.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

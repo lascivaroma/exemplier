@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:183" ana="#acte #metonymie #rub #masturbation">
+  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>20-20</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:20-20" type="section">
+    <w ana="#acte #metonymie #rub #masturbation" ref="20" lemma="sollicito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Sollicitavit</w>
+    <w ref="20" lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur">inguina</w>
+    <w ref="20" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Neut">mea</w>
+    <w ref="20" lemma="mille" pos="ADJcar" msd="Case=Ind">mille</w>
+    <w ref="20" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="20" lemma="mors" pos="NOMcom" msd="Case=Abl|Numb=Plur">mortibus</w>
+    <w ref="20" lemma="frigidus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">frigida</w>
+  </quote>
+</div>

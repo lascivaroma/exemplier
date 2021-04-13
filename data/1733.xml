@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:183" ana="#acte #metonymie #rub">
+  <bibl ref="#adams"><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblscope>3.11.29-3.11.32</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:3.11.29-3.11.32" type="line">
+    <w ref="3.11.29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.11.30" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.11.30" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.11.30" lemma="famulus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">famulos</w>
+    <w ref="3.11.30" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="3.11.30" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">femina</w>
+    <w ana="#acte #metonymie #rub" ref="3.11.30" lemma="tero" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">trita</w>
+    <w ref="3.11.30" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Plur|Gend=Masc">suos</w>
+    <w ref="3.11.30" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

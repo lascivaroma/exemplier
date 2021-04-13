@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher">
+  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>89.5-89.6</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:89.5-89.6" type="line">
+    <w ref="89.5" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="89.5" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="89.5" lemma="nihil" pos="PROind" msd="Case=Ind">nihil</w>
+    <w ana="#acte #metonymie #toucher" ref="89.5" lemma="attingo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">attingat</w>
+    <w ref="89.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="89.5" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ref="89.5" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="89.5" lemma="fas" pos="NOMcom" msd="Case=Ind">fas</w>
+    <w ref="89.5" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tangere</w>
+    <w ref="89.5" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="89.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="89.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="89.6" lemma="quantumuis2" pos="CONsub" msd="Deg=Pos">quantumvis</w>
+    <w ref="89.6" lemma="quare2" pos="ADVint" msd="MORPH=empty">quare</w>
+    <w ref="89.6" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="89.6" lemma="macer" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">macer</w>
+    <w ref="89.6" lemma="inuenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">invenies</w>
+    <w ref="89.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

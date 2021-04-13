@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:181" ana="#metonymie #acte #misceo">
+  <bibl ref="#adams"><author>Apuleius</author>, <title>Metamorphoses</title>, <biblscope>9.24-9.24</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:9.24-9.24" type="chapter">
+    <w ref="9.24" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.24" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="9.24" lemma="idem" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eodem</w>
+    <w ref="9.24" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">illo</w>
+    <w ref="9.24" lemma="iuuenis1" pos="NOMcom" msd="Case=Abl|Numb=Sing">iuvene</w>
+    <w ana="#metonymie #acte #misceo" ref="9.24" lemma="misceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Pass|Person=3">miscebatur</w>
+    <w ref="9.24" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="9.24" lemma="Uenus" pos="NOMpro" msd="Case=Acc|Numb=Sing">Venerem</w>
+    <w ref="9.24" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

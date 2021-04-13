@@ -1,0 +1,11 @@
+<div  type="fragment" corresp="adams:187" ana="#acte #metonymie #have #orgasm">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Metamorphoses</title>, <biblscope>9.750-9.754</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:9.750-9.754" type="line">
+    <w ref="9.753" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="9.753" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="9.753" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ana="#acte #metonymie #have #orgasm" ref="9.753" lemma="potior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Dep">potienda</w>
+    <w ref="9.753" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="9.753" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

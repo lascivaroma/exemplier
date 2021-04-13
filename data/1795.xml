@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:185" ana="#acte #metonymie #have #futuo">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>12.20.1-12.20.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.20.1-12.20.2" type="line">
+    <w ref="12.20.1" lemma="quare2" pos="ADVint" msd="MORPH=empty">Quare</w>
+    <w ref="12.20.1" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ana="#acte #metonymie #have #futuo" ref="12.20.1" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">habeat</w>
+    <w ref="12.20.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.20.1" lemma="Fabullus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Fabulle</w>
+    <w ref="12.20.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.20.1" lemma="quaero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">quaeris</w>
+    <w ref="12.20.2" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">Uxorem</w>
+    <w ref="12.20.2" lemma="Themison" pos="NOMpro" msd="Case=Acc|Numb=Sing">Themison</w>
+    <w ref="12.20.2" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

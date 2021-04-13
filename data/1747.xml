@@ -1,0 +1,17 @@
+<div  type="fragment" corresp="adams:183" ana="#acte #metonymie #rub #masturbation">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>3.7.73-3.7.77</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.73-3.7.77" type="line">
+    <w ref="3.7.73" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">Hanc</w>
+    <w ref="3.7.73" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="3.7.73" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="3.7.73" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="3.7.73" lemma="meus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">mea</w>
+    <w ref="3.7.73" lemma="dedignor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">dedignata</w>
+    <w ref="3.7.73" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
+    <w ref="3.7.74" lemma="molliter" pos="ADV" msd="Deg=Pos">Molliter</w>
+    <w ref="3.7.74" lemma="admoueo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">admota</w>
+    <w ana="#acte #metonymie #rub #masturbation" ref="3.7.74" lemma="sollicito" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">sollicitare</w>
+    <w ref="3.7.74" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
+    <w ref="3.7.74" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+  </quote>
+</div>

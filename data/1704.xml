@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Aulularia</title>, <biblscope>29-30</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi003.perseus-lat2:29-30" type="line">
+    <w ref="29" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">is</w>
+    <w ref="29" lemma="scio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">scit</w>
+    <w ref="29" lemma="adolescens1" pos="NOMcom" msd="Case=Nom|Numb=Sing">adulescens</w>
+    <w ref="29" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="29" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="29" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>
+    <w ana="#acte #male #metonymie #acte #embrace" ref="29" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">compresserit</w>
+    <w ref="29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="30" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="30" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">illum</w>
+    <w ref="30" lemma="nescio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">nescit</w>
+    <w ref="30" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="30" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="30" lemma="comprimo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">compressam</w>
+    <w ref="30" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="30" lemma="pater" pos="NOMcom" msd="Case=Nom|Numb=Sing">pater</w>
+    <w ref="30" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>
