@@ -1,0 +1,19 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Servius</author>, <title>In Vergilii carmina commentarii</title>, <biblscope>2.604-2.604</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi2349.phi005.perseus-lat1:2.604-2.604" type="comment">
+    <w ref="2.604" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="2.604" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="2.604" lemma="theologicus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">theologica</w>
+    <w ref="2.604" lemma="ratio" pos="NOMcom" msd="Case=Nom|Numb=Sing">ratio</w>
+    <w ref="2.604" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.604" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+    <w ref="2.604" lemma="ignoro" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">ignorantes</w>
+    <w ana="#acte #metonymie #amo" ref="2.604" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #metonymie #amo" ref="2.604" lemma="uenerius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">Venerium</w>
+    <w ref="2.604" lemma="uideo" pos="VER" msd="Mood=Ind|Tense=Perf|Voice=Act|Person=3">videre</w>
+    <w ref="2.604" lemma="dico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">dicuntur</w>
+    <w ref="2.604" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.604" lemma="numen" pos="NOMcom" msd="Case=Acc|Numb=Plur">numina</w>
+  </quote>
+</div>

@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:190" ana="#acte #metonymie #enter">
+  <bibl ref="#adams"><author>Severus, Sulpicius</author>, <title>Chronica</title>, <biblscope>1.5.3-1.5.3</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.451.68ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0270.stoa001.opp-lat1:1.5.3-1.5.3" type="section">
+    <w ref="1.5.3" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="1.5.3" lemma="oppidum" pos="NOMcom" msd="Case=Nom|Numb=Sing">oppidum</w>
+    <w ref="1.5.3" lemma="infamis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">infame</w>
+    <w ref="1.5.3" lemma="incola" pos="NOMcom" msd="Case=Dat|Numb=Plur">incolis</w>
+    <w ref="1.5.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.5.3" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Plur">uiris</w>
+    <w ref="1.5.3" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.5.3" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Plur">uiros</w>
+    <w ana="#acte #metonymie #enter" ref="1.5.3" lemma="irruo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">irruentibus</w>
+    <w ref="1.5.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.5.3" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="1.5.3" lemma="ob" pos="PRE" msd="MORPH=empty">ob</w>
+    <w ref="1.5.3" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">id</w>
+    <w ref="1.5.3" lemma="inuisus1" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">inuisum</w>
+    <w ref="1.5.3" lemma="deus" pos="NOMcom" msd="Case=Dat|Numb=Sing">Deo</w>
+    <w ref="1.5.3" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">fuisse</w>
+    <w ref="1.5.3" lemma="trado" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">traditur</w>
+    <w ref="1.5.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

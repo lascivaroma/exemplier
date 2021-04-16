@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:190" ana="#acte #metonymie #enter">
+  <bibl ref="#adams"><author>Tertullian ca. 160-ca. 230</author>, <title>De Pudicitia</title>, <biblscope>4-4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa025.opp-lat1:4-4" type="chapter">
+    <w ref="4" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ref="4" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="4" lemma="intersum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">interest</w>
+    <w ref="4" lemma="nubo" pos="NOMcom" msd="Case=Acc|Numb=Sing">nuptam</w>
+    <w ref="4" lemma="alienus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">alienam</w>
+    <w ref="4" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="4" lemma="uiduus" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">viduam</w>
+    <w ref="4" lemma="quis2" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">quis</w>
+    <w ana="#acte #metonymie #enter" ref="4" lemma="incurso" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">incurset</w>
+    <w ref="4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
+    <w ref="4" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="4" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=Fem">suam</w>
+    <w ref="4" lemma="femina" pos="NOMcom" msd="Case=Acc|Numb=Sing">feminam</w>
+    <w ref="4" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+  </quote>
+</div>

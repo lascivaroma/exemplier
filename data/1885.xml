@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Lucretius</author>, <title>De Rerum Natura</title>, <biblscope>4.1197-4.1200</biblscope></bibl>
+  <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>12</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:4.1197-4.1200" type="line">
+    <w ref="4.1197" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="4.1197" lemma="ratio" pos="NOMcom" msd="Case=Abl|Numb=Sing">ratione</w>
+    <w ref="4.1197" lemma="alius" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">alia</w>
+    <w ref="4.1197" lemma="uolucris" pos="NOMcom" msd="Case=Nom|Numb=Plur|Gend=MascFem">volucres</w>
+    <w ref="4.1197" lemma="armentum" pos="NOMcom" msd="Case=Nom|Numb=Plur">armenta</w>
+    <w ref="4.1197" lemma="fera" pos="NOMcom" msd="Case=Nom|Numb=Plur">feraeque</w>
+    <w ref="4.1197" lemma="que" pos="CON" msd="MORPH=empty">{feraeque}</w>
+    <w ref="4.1198" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="4.1198" lemma="pecus2" pos="NOMcom" msd="Case=Nom|Numb=Plur">pecudes</w>
+    <w ref="4.1198" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="4.1198" lemma="equa" pos="NOMcom" msd="Case=Nom|Numb=Plur">equae</w>
+    <w ref="4.1198" lemma="mas" pos="NOMcom" msd="Case=Dat|Numb=Plur">maribus</w>
+    <w ref="4.1198" lemma="subsido" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">subsidere</w>
+    <w ref="4.1198" lemma="possum1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">possent</w>
+    <w ref="4.1198" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.1199" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="4.1199" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="4.1199" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.1199" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ref="4.1199" lemma="quod2" pos="PROrel" msd="Case=Nom|Gend=Neut">quod</w>
+    <w ref="4.1199" lemma="ille" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=Fem">illarum</w>
+    <w ref="4.1199" lemma="subo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">subat</w>
+    <w ref="4.1199" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.1199" lemma="ardeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ardet</w>
+    <w ref="4.1199" lemma="abundans2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">abundans</w>
+    <w ref="4.1200" lemma="natura" pos="NOMcom" msd="Case=Nom|Numb=Sing">natura</w>
+    <w ref="4.1200" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #metonymie #amo" ref="4.1200" lemma="uenus1" pos="NOMpro" msd="Case=Acc|Numb=Sing">Venerem</w>
+    <w ref="4.1200" lemma="salio1" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">salientum</w>
+    <w ref="4.1200" lemma="laetus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">laeta</w>
+    <w ref="4.1200" lemma="retracto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">retractat</w>
+    <w ref="4.1200" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

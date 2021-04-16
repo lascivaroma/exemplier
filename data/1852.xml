@@ -1,0 +1,42 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Caelius Aurelianus</author>, <title>Celerum passionum libri III</title>, <biblscope>3.175-3.176</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:3.175-3.176" type="part">
+    <w ref="3.175" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="3.175" lemma="antecedo1" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">antecedentes</w>
+    <w ref="3.175" lemma="iste" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">istius</w>
+    <w ref="3.175" lemma="passio" pos="NOMcom" msd="Case=Gen|Numb=Sing">passionis</w>
+    <w ref="3.175" lemma="causa" pos="NOMcom" msd="Case=Nom|Numb=Sing">causae</w>
+    <w ref="3.175" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="3.175" lemma="epoto" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">epota</w>
+    <w ref="3.175" lemma="medicamen" pos="NOMcom" msd="Case=Nom|Numb=Plur">medicamina</w>
+    <w ref="3.175" lemma="ob" pos="PRE" msd="MORPH=empty">ob</w>
+    <w ana="#acte #metonymie #amo" ref="3.175" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #metonymie #amo" ref="3.175" lemma="uenerius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerium</w>
+    <w ref="3.175" lemma="excito1" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">excitandum</w>
+    <w ref="3.175" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.175" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="3.175" lemma="satyricus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Deg=Pos">satyrica</w>
+    <w ref="3.175" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="3.175" lemma="entaticus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">entatica</w>
+    <w ref="3.175" lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">uocant</w>
+    <w ref="3.175" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.176" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="3.176" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="3.176" lemma="acer2" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">acria</w>
+    <w ref="3.176" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="3.176" lemma="incentiuus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">incentiua</w>
+    <w ref="3.176" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.176" lemma="neruus" pos="NOMcom" msd="Case=Dat|Numb=Plur">neruis</w>
+    <w ref="3.176" lemma="improbus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">improba</w>
+    <w ref="3.176" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.176" lemma="item" pos="ADV" msd="Deg=Pos">item</w>
+    <w ref="3.176" lemma="immodicus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">inmodicus</w>
+    <w ref="3.176" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="3.176" lemma="intemporalis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">intemporalis</w>
+    <w ref="3.176" lemma="usus" pos="VER" msd="Case=Nom|Numb=Sing">usus</w>
+    <w ref="3.176" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="3.176" lemma="Uenus" pos="NOMpro" msd="Case=Acc|Numb=Sing">uenerem</w>
+    <w ref="3.176" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

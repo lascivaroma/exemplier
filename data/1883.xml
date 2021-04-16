@@ -1,0 +1,39 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Theodorus Priscianus</author>, <title>Euporiston</title>, <biblscope>2.11-2.11</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1:2.11-2.11" type="chapter">
+    <w ref="2.11" lemma="fricatio" pos="NOMcom" msd="Case=Abl|Numb=Plur">Fricationibus</w>
+    <w ref="2.11" lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">inquam</w>
+    <w ref="2.11" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="2.11" lemma="magis2" pos="ADV" msd="Deg=Sup">maxime</w>
+    <w ref="2.11" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Sing">loco</w>
+    <w ref="2.11" lemma="rum" pos="NOMcom" msd="Case=Acc|Numb=Sing">rum</w>
+    <w ref="2.11" lemma="inferus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Comp">inferiorum</w>
+    <w ref="2.11" lemma="inguen" pos="NOMcom" msd="Case=Gen|Numb=Plur">inguinum</w>
+    <w ref="2.11" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.11" lemma="femur" pos="NOMcom" msd="Case=Gen|Numb=Plur">femorum</w>
+    <w ref="2.11" lemma="unguentum" pos="NOMcom" msd="Case=Abl|Numb=Plur">unguentis</w>
+    <w ref="2.11" lemma="calidus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp">calidioribus</w>
+    <w ref="2.11" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.11" lemma="mordeo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">mordentibus</w>
+    <w ref="2.11" lemma="nitrum" pos="NOMcom" msd="Case=Gen|Numb=Sing">nitri</w>
+    <w ref="2.11" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="2.11" lemma="piper" pos="NOMcom" msd="Case=Gen|Numb=Sing">piperis</w>
+    <w ref="2.11" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="2.11" lemma="euforbium" pos="NOMcom" msd="Case=Gen|Numb=Sing|Deg=Pos">euforbii</w>
+    <w ref="2.11" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="2.11" lemma="similis" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos">similium</w>
+    <w ref="2.11" lemma="species" pos="NOMcom" msd="Case=Gen|Numb=Plur">specierum</w>
+    <w ref="2.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.11" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="2.11" lemma="erigo" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">erigendo</w>
+    <w ref="2.11" lemma="uapor" pos="NOMcom" msd="Case=Acc|Numb=Sing">vaporem</w>
+    <w ref="2.11" lemma="desiderium" pos="NOMcom" msd="Case=Acc|Numb=Sing">desiderium</w>
+    <w ref="2.11" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ana="#acte #metonymie #amo" ref="2.11" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #metonymie #amo" ref="2.11" lemma="uenerius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">venerium</w>
+    <w ref="2.11" lemma="ualeo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">valeant</w>
+    <w ref="2.11" lemma="ministro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ministrare</w>
+    <w ref="2.11" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

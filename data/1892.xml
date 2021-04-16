@@ -1,0 +1,10 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Remède à l'amour</title>, <biblscope>805-806</biblscope></bibl>
+  <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>14</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi005.perseus-lat2:805-806" type="line">
+    <w ref="805" lemma="uinum" pos="NOMcom" msd="Case=Nom|Numb=Plur">Vina</w>
+    <w ref="805" lemma="paro2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">parant</w>
+    <w ref="805" lemma="animus" pos="NOMcom" msd="Case=Acc|Numb=Sing">animum</w>
+    <w ana="#acte #metonymie #amo" ref="805" lemma="Uenus" pos="NOMpro" msd="Case=Dat|Numb=Sing">Veneri</w>
+  </quote>
+</div>

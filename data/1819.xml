@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Metamorphoses</title>, <biblscope>9.483-9.484</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:9.483-9.484" type="line">
+    <w ref="9.483" lemma="quam2" pos="ADVint" msd="Gend=Fem">quam</w>
+    <w ref="9.483" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="9.483" lemma="manifestus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">manifesta</w>
+    <w ana="#acte #metonymie #amo #futuo" ref="9.483" lemma="libido" pos="NOMcom" msd="Case=Nom|Numb=Sing">libido</w>
+    <w ref="9.484" lemma="contingo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">contigit</w>
+    <w ref="9.484" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

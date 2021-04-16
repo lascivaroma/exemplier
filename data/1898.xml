@@ -1,0 +1,26 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Columella, Lucius Junius Moderatus</author>, <title>Res Rustica</title>, <biblscope>6.37.1-6.37.1</biblscope></bibl>
+  <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>14</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:6.37.1-6.37.1" type="section">
+    <w ref="6.37.1" lemma="quod1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">Quod</w>
+    <w ref="6.37.1" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="6.37.1" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">faciat</w>
+    <w ref="6.37.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.37.1" lemma="paulisper" pos="ADV" msd="Deg=Pos">paulisper</w>
+    <w ref="6.37.1" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="6.37.1" lemma="mola" pos="NOMcom" msd="Case=Acc|Numb=Sing">molam</w>
+    <w ref="6.37.1" lemma="uincio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">vinctus</w>
+    <w ref="6.37.1" lemma="amor" pos="NOMcom" msd="Case=Gen|Numb=Sing">amoris</w>
+    <w ref="6.37.1" lemma="saeuitia" pos="NOMcom" msd="Case=Acc|Numb=Sing">saevitiam</w>
+    <w ref="6.37.1" lemma="labor1" pos="NOMcom" msd="Case=Abl|Numb=Sing">labore</w>
+    <w ref="6.37.1" lemma="3" pos="ADJcar" msd="MORPH=empty">3</w>
+    <w ref="6.37.1" lemma="tempero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">temperat</w>
+    <w ref="6.37.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.37.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.37.1" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+    <w ana="#acte #metonymie #amo" ref="6.37.1" lemma="Uenus" pos="NOMpro" msd="Case=Dat|Numb=Sing">veneri</w>
+    <w ref="6.37.1" lemma="modestus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">modestior</w>
+    <w ref="6.37.1" lemma="admitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">admittitur</w>
+    <w ref="6.37.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

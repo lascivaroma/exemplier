@@ -1,0 +1,11 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Virgil</author>, <title>Georgics</title>, <biblscope>3.63-3.65</biblscope></bibl>
+  <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>12</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi002.perseus-lat2:3.63-3.65" type="line">
+    <w ref="3.64" lemma="mitto" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">mitte</w>
+    <w ref="3.64" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#acte #metonymie #amo" ref="3.64" lemma="Uenus" pos="NOMpro" msd="Case=Acc|Numb=Sing">Venerem</w>
+    <w ref="3.64" lemma="pecuaria" pos="NOMcom" msd="Case=Acc|Numb=Plur">pecuaria</w>
+    <w ref="3.64" lemma="primus" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Sup">primus</w>
+  </quote>
+</div>

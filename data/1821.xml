@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Suetonius ca. 69-ca. 122</author>, <title>Tiberius</title>, <biblscope>11-11</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo013.perseus-lat2:11-11" type="chapter">
+    <w ref="11" lemma="comperio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Comperit</w>
+    <w ref="11" lemma="deinde" pos="ADV" msd="Deg=Pos">deinde</w>
+    <w ref="11" lemma="Iulia" pos="NOMpro" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">Iuliam</w>
+    <w ref="11" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
+    <w ref="11" lemma="ob" pos="PRE" msd="MORPH=empty">ob</w>
+    <w ana="#acte #metonymie #amo #futuo" ref="11" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Plur">libidines</w>
+    <w ref="11" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="11" lemma="adulterium" pos="NOMcom" msd="Case=Acc|Numb=Plur">adulteria</w>
+    <w ref="11" lemma="damno" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">damnatam</w>
+  </quote>
+</div>

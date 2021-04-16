@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Jerome Saint d. 419 or 20</author>, <title>Epistolae</title>, <biblscope>22.8.5-22.8.5</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0162.stoa004.opp-lat1:22.8.5-22.8.5" type="section">
+    <w ref="22.8.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="22.8.5" lemma="licet3" pos="CONsub" msd="MORPH=empty">licet</w>
+    <w ref="22.8.5" lemma="puto" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">putarent</w>
+    <w ref="22.8.5" lemma="genus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">genus</w>
+    <w ref="22.8.5" lemma="homo" pos="NOMcom" msd="Case=Gen|Numb=Plur">hominum</w>
+    <w ref="22.8.5" lemma="deficio" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">defecisse</w>
+    <w ref="22.8.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="22.8.5" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="22.8.5" lemma="facio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">facerent</w>
+    <w ref="22.8.5" lemma="liberi" pos="NOMcom" msd="Case=Gen|Numb=Plur">liberorum</w>
+    <w ref="22.8.5" lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
+    <w ref="22.8.5" lemma="desiderium" pos="NOMcom" msd="Case=Abl|Numb=Sing">desiderio</w>
+    <w ref="22.8.5" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ana="#acte #metonymie #amo" ref="22.8.5" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
+  </quote>
+</div>

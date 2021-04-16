@@ -1,0 +1,11 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblscope>V.7-V.7</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:V.7-V.7" type="part">
+    <w ref="V.7" lemma="phantasia" pos="NOMcom" msd="Case=Abl|Numb=Sing">phantasia</w>
+    <w ref="V.7" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#acte #metonymie #amo" ref="V.7" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #metonymie #amo" ref="V.7" lemma="uenerius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerium</w>
+    <w ref="V.7" lemma="prouoco" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">prouocante</w>
+  </quote>
+</div>

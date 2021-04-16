@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:189" ana="#acte #metonymie #patior">
+  <bibl ref="#adams"><author>Sallust</author>, <title>Catilinae Coniuratio</title>, <biblscope>13-13</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0631.phi001.perseus-lat3:13-13" type="chapter">
+    <w ref="13" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="13" lemma="libido" pos="NOMcom" msd="Case=Nom|Numb=Sing">lubido</w>
+    <w ref="13" lemma="stuprum" pos="NOMcom" msd="Case=Gen|Numb=Sing">stupri</w>
+    <w ref="13" lemma="ganea" pos="NOMcom" msd="Case=Gen|Numb=Sing">ganeae</w>
+    <w ref="13" lemma="ceterus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=MascNeut|Deg=Pos">ceterique</w>
+    <w ref="13" lemma="que" pos="CON" msd="MORPH=empty">{ceterique}</w>
+    <w ref="13" lemma="cultus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">cultus</w>
+    <w ref="13" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="13" lemma="paruus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">minor</w>
+    <w ref="13" lemma="incedo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">incesserat</w>
+    <w ref="13" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="13" lemma="uir" pos="NOMcom" msd="Case=Nom|Numb=Sing">viri</w>
+    <w ref="13" lemma="muliebris" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">muliebria</w>
+    <w ana="#acte #metonymie #patior" ref="13" lemma="patior" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">pati</w>
+    <w ref="13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

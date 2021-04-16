@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Caelius Aurelianus</author>, <title>Celerum passionum libri III</title>, <biblscope>3.176-3.176</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:3.176-3.176" type="part">
+    <w ref="3.176" lemma="hortor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">hortatur</w>
+    <w ref="3.176" lemma="etenim" pos="CONcoo" msd="MORPH=empty">etenim</w>
+    <w ref="3.176" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#acte #metonymie #amo" ref="3.176" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #metonymie #amo" ref="3.176" lemma="Uenereus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerium</w>
+    <w ref="3.176" lemma="prouoco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">prouocans</w>
+    <w ref="3.176" lemma="aetas" pos="NOMcom" msd="Case=Gen|Numb=Sing">aetatis</w>
+    <w ref="3.176" lemma="uigor" pos="NOMcom" msd="Case=Nom|Numb=Sing">uigor</w>
+    <w ref="3.176" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

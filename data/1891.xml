@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Art of Love</title>, <biblscope>3.805-3.806</biblscope></bibl>
+  <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>13</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:3.805-3.806" type="line">
+    <w ref="3.805" lemma="gaudium" pos="NOMcom" msd="Case=Acc|Numb=Plur">Gaudia</w>
+    <w ref="3.805" lemma="post2" pos="PRE" msd="MORPH=empty">post</w>
+    <w ana="#acte #metonymie #amo" ref="3.805" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
+    <w ref="3.805" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Fem">quae</w>
+    <w ref="3.805" lemma="posco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">poscet</w>
+    <w ref="3.805" lemma="munus" pos="NOMcom" msd="Case=Acc|Numb=Sing">munus</w>
+    <w ref="3.805" lemma="amans1" pos="NOMcom" msd="Case=Acc|Numb=Sing">amantem</w>
+    <w ref="3.805" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.806" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">Illa</w>
+    <w ref="3.806" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Plur|Gend=Fem">suas</w>
+    <w ref="3.806" lemma="nolo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">nolet</w>
+    <w ref="3.806" lemma="pondus" pos="NOMcom" msd="Case=Acc|Numb=Sing">pondus</w>
+    <w ref="3.806" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
+    <w ref="3.806" lemma="prex" pos="NOMcom" msd="Case=Acc|Numb=Plur">preces</w>
+    <w ref="3.806" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,17 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Florus, Lucius Annaeus</author>, <title>Epitome Rerum Romanorum</title>, <biblscope>2.21.11.2-2.21.11.2</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1242.phi001.perseus-lat1:2.21.11.2-2.21.11.2" type="section">
+    <w ref="2.21.11.2" lemma="hinc" pos="ADV" msd="Deg=Pos">Hinc</w>
+    <w ref="2.21.11.2" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>
+    <w ref="2.21.11.2" lemma="Aegyptius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Aegyptia</w>
+    <w ref="2.21.11.2" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="2.21.11.2" lemma="ebrius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">ebrio</w>
+    <w ref="2.21.11.2" lemma="imperator" pos="NOMcom" msd="Case=Abl|Numb=Sing">imperatore</w>
+    <w ref="2.21.11.2" lemma="pretium" pos="NOMcom" msd="Case=Acc|Numb=Sing">pretium</w>
+    <w ana="#acte #metonymie #amo" ref="2.21.11.2" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Plur">libidinum</w>
+    <w ref="2.21.11.2" lemma="Romanus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">Romanum</w>
+    <w ref="2.21.11.2" lemma="imperium" pos="NOMcom" msd="Case=Acc|Numb=Sing">imperium</w>
+    <w ref="2.21.11.2" lemma="peto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">petit</w>
+  </quote>
+</div>

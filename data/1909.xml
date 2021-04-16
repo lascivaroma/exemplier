@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:189" ana="#acte #metonymie #patior">
+  <bibl ref="#adams"><author>Cicero</author>, <title>Philippics</title>, <biblscope>2.86-2.86</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi035.perseus-lat2:2.86-2.86" type="section">
+    <w ref="2.86" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="2.86" lemma="unus" pos="ADJcar" msd="Case=Dat|Numb=Sing|Gend=Com">uni</w>
+    <w ref="2.86" lemma="peto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2">peteres</w>
+    <w ref="2.86" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="2.86" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+    <w ref="2.86" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="2.86" lemma="puer" pos="NOMcom" msd="Case=Abl|Numb=Sing">puero</w>
+    <w ref="2.86" lemma="uiuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=2">vixeras</w>
+    <w ref="2.86" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="2.86" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Neut">omnia</w>
+    <w ana="#acte #metonymie #patior" ref="2.86" lemma="patior" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Dep|Person=2">paterere</w>
+    <w ref="2.86" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.86" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="2.86" lemma="facile" pos="ADV" msd="Deg=Pos">facile</w>
+    <w ref="2.86" lemma="seruio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2">servires</w>
+  </quote>
+</div>

@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblscope>I.13-I.13</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.13-I.13" type="part">
+    <w ref="I.13" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="I.13" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ref="I.13" lemma="cohitus" pos="NOMcom" msd="Case=Nom|Numb=Sing">cohitus</w>
+    <w ref="I.13" lemma="uir" pos="NOMcom" msd="Case=Gen|Numb=Plur">virorum</w>
+    <w ref="I.13" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #metonymie #amo" ref="I.13" lemma="usus" pos="NOMcom" msd="Case=Nom|Numb=Sing">usus</w>
+    <w ana="#acte #metonymie #amo" ref="I.13" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">veneris</w>
+    <w ref="I.13" lemma="efficio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">efficitur</w>
+  </quote>
+</div>

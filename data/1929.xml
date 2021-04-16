@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:190" ana="#acte #metonymie #enter">
+  <bibl ref="#adams"><author>Vopiscus, Flavius fl. 3./4. Jh.</author>, <title>Commodus Antoninus</title>, <biblscope>5-5</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi007.perseus-lat2:5-5" type="chapter">
+    <w ref="5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ana="#acte #metonymie #enter" ref="5" lemma="irruo" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">inruentium</w>
+    <w ref="5" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="5" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="5" lemma="iuuenis1" pos="NOMcom" msd="Case=Gen|Numb=Plur">iuvenum</w>
+    <w ref="5" lemma="careo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">carebat</w>
+    <w ref="5" lemma="infamia" pos="NOMcom" msd="Case=Nom|Numb=Sing">infamia</w>
+  </quote>
+</div>

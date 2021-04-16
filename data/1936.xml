@@ -1,0 +1,45 @@
+<div type="fragment" corresp="adams:190" ana="#acte #metonymie #enter">
+  <bibl ref="#adams"><author>Tertullian ca. 160-ca. 230</author>, <title>Ad Nationes Libri Duo</title>, <biblscope>1.16-1.16</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa002.opp-lat1:1.16-1.16" type="chapter">
+    <w ref="1.16" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="1.16" lemma="libido" pos="NOMcom" msd="Case=Abl|Numb=Sing">libidine</w>
+    <w ref="1.16" lemma="temperatus2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">temperatis</w>
+    <w ref="1.16" lemma="quicumque1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quocunque</w>
+    <w ref="1.16" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Sing">loco</w>
+    <w ref="1.16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.16" lemma="domus" pos="NOMcom" msd="Case=Loc|Numb=Sing">domi</w>
+    <w ref="1.16" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="1.16" lemma="peregre" pos="ADV" msd="Deg=Pos">peregre</w>
+    <w ref="1.16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.16" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="1.16" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.16" lemma="dispersio" pos="NOMcom" msd="Case=Nom|Numb=Sing">dispersio</w>
+    <w ref="1.16" lemma="semen1" pos="NOMcom" msd="Case=Gen|Numb=Plur">seminum</w>
+    <w ref="1.16" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.16" lemma="saltus2" pos="NOMcom" msd="Case=Nom|Numb=Sing">saltus</w>
+    <w ref="1.16" lemma="ubique" pos="ADV" msd="Deg=Pos">ubique</w>
+    <w ref="1.16" lemma="luxuria" pos="NOMcom" msd="Case=Gen|Numb=Sing">luxuriae</w>
+    <w ref="1.16" lemma="nescio" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">nescientibus</w>
+    <w ref="1.16" lemma="filius" pos="NOMcom" msd="Case=Acc|Numb=Plur">filios</w>
+    <w ref="1.16" lemma="edo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">edat</w>
+    <w ref="1.16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.16" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Masc">quos</w>
+    <w ref="1.16" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="1.16" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Masc">ipsi</w>
+    <w ref="1.16" lemma="postmodum" pos="ADV" msd="Deg=Pos">postmodum</w>
+    <w ref="1.16" lemma="parens1" pos="NOMcom" msd="Case=Nom|Numb=Plur">parentes</w>
+    <w ref="1.16" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="1.16" lemma="alius" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Masc">alii</w>
+    <w ref="1.16" lemma="filius" pos="NOMcom" msd="Case=Nom|Numb=Plur">filii</w>
+    <w ana="#acte #metonymie #enter" ref="1.16" lemma="incurso" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">incursent</w>
+    <w ref="1.16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.16" lemma="quando3" pos="CONsub" msd="MORPH=empty">quando</w>
+    <w ref="1.16" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="1.16" lemma="aetas" pos="NOMcom" msd="Case=Gen|Numb=Plur">aetatum</w>
+    <w ref="1.16" lemma="moderatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">moderatio</w>
+    <w ref="1.16" lemma="libido" pos="NOMcom" msd="Case=Abl|Numb=Sing">libidine</w>
+    <w ref="1.16" lemma="excludo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">exclusa</w>
+    <w ref="1.16" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="1.16" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

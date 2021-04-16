@@ -1,0 +1,33 @@
+<div type="fragment" corresp="adams:189" ana="#acte #metonymie #patior">
+  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>9-9</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:9-9" type="section">
+    <w ref="9" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="9" lemma="”" pos="PUNC" msd="MORPH=empty">”</w>
+    <w ref="9" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">Quibus</w>
+    <w ref="9" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="9" lemma="audio" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">auditis</w>
+    <w ref="9" lemma="intento" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">intentavi</w>
+    <w ref="9" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="9" lemma="oculus" pos="NOMcom" msd="Case=Acc|Numb=Plur">oculos</w>
+    <w ref="9" lemma="Ascyltus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Ascylti</w>
+    <w ref="9" lemma="manus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">manus</w>
+    <w ref="9" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9" lemma="“" pos="PUNC" msd="MORPH=empty">“</w>
+    <w ref="9" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">Quid</w>
+    <w ref="9" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">dicis</w>
+    <w ref="9" lemma="”" pos="PUNC" msd="MORPH=empty">”</w>
+    <w ref="9" lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">inquam</w>
+    <w ref="9" lemma="“" pos="PUNC" msd="MORPH=empty">“</w>
+    <w ref="9" lemma="muliebris" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Com|Deg=Pos">muliebris</w>
+    <w ana="#acte #metonymie #patior" ref="9" lemma="patientia" pos="NOMcom" msd="Case=Gen|Numb=Sing">patientiae</w>
+    <w ref="9" lemma="scortum" pos="NOMcom" msd="Case=Nom|Numb=Sing">scortum</w>
+    <w ref="9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
+    <w ref="9" lemma="ne3" pos="ADVneg" msd="MORPH=empty">ne</w>
+    <w ref="9" lemma="spiritus" pos="NOMcom" msd="Case=Nom|Numb=Sing">spiritus</w>
+    <w ref="9" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ref="9" lemma="purus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">purus</w>
+    <w ref="9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="9" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

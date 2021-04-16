@@ -1,0 +1,31 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Marcellus Empiricus</author>, <title>De medicamentis liber</title>, <biblscope>book.33.65-book.33.65</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1:book.33.65-book.33.65" type="part">
+    <w ref="book.33.65" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="book.33.65" lemma="quis2" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+    <w ref="book.33.65" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ana="#acte #metonymie #amo" ref="book.33.65" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #metonymie #amo" ref="book.33.65" lemma="Uenereus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerium</w>
+    <w ref="book.33.65" lemma="infirmus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">infirmum</w>
+    <w ref="book.33.65" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">uolueris</w>
+    <w ref="book.33.65" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="book.33.65" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="book.33.65" lemma="ubicumque1" pos="ADVrel" msd="MORPH=empty">ubicumque</w>
+    <w ref="book.33.65" lemma="mingo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">minxerit</w>
+    <w ref="book.33.65" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="book.33.65" lemma="supra2" pos="PRE" msd="MORPH=empty">supra</w>
+    <w ref="book.33.65" lemma="lotium" pos="NOMcom" msd="Case=Acc|Numb=Sing">lotium</w>
+    <w ref="book.33.65" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="book.33.65" lemma="obicio" pos="VER" msd="Case=Acc|Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act">obicem</w>
+    <w ref="book.33.65" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="book.33.65" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="book.33.65" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="book.33.65" lemma="axedo" pos="NOMcom" msd="Case=Acc|Numb=Sing">axedonem</w>
+    <w ref="book.33.65" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="book.33.65" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="book.33.65" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ref="book.33.65" lemma="figo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">figes</w>
+    <w ref="book.33.65" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

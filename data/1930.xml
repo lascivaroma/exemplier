@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:190" ana="#acte #metonymie #enter">
+  <bibl ref="#adams"><author>Philastrius Saint, Bishop of Brescia active 383-391</author>, <title>Diversarum hereseon liber</title>, <biblscope>33.4-33.4</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.451.68ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0122a.stoa001.opp-lat1:33.4-33.4" type="section">
+    <w ref="33.4" lemma="tunc" pos="ADV" msd="Deg=Pos">Tunc</w>
+    <w ref="33.4" lemma="ergo2" pos="CONcoo" msd="MORPH=empty">ergo</w>
+    <w ref="33.4" lemma="tenebrae" pos="NOMcom" msd="Case=Nom|Numb=Plur">tenebrae</w>
+    <w ana="#acte #metonymie #enter" ref="33.4" lemma="irruo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">inruentes</w>
+    <w ref="33.4" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="33.4" lemma="spiritus" pos="NOMcom" msd="Case=Acc|Numb=Sing">spiritum</w>
+    <w ref="33.4" lemma="gigno" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">genuerunt</w>
+    <w ref="33.4" lemma="quatuor" pos="ADJcar" msd="Case=Ind">quattuor</w>
+    <w ref="33.4" lemma="Aeonas" pos="NOMpro" msd="Case=Acc|Numb=Plur">Aeonas</w>
+    <w ref="33.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="33.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="33.4" lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Masc">isti</w>
+    <w ref="33.4" lemma="quatuor" pos="ADJcar" msd="Case=Ind">quattuor</w>
+    <w ref="33.4" lemma="gigno" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">genuerunt</w>
+    <w ref="33.4" lemma="alius" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Masc">alios</w>
+    <w ref="33.4" lemma="quatuor" pos="ADJcar" msd="Case=Ind">quattuor</w>
+    <w ref="33.4" lemma="Aeona" pos="NOMpro" msd="Case=Acc|Numb=Plur">Aeonas</w>
+    <w ref="33.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

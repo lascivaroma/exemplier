@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>45.21-45.24</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:45.21-45.24" type="line">
+    <w ref="45.23" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="45.23" lemma="Septimius" pos="NOMpro" msd="Case=Abl|Numb=Sing">Septimio</w>
+    <w ref="45.23" lemma="fidelis2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">fidelis</w>
+    <w ref="45.23" lemma="Acme" pos="NOMpro" msd="Case=Nom|Numb=Sing">Acme</w>
+    <w ref="45.24" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
+    <w ref="45.24" lemma="delicia1" pos="NOMcom" msd="Case=Acc|Numb=Plur">delicias</w>
+    <w ana="#acte #metonymie #amo #futuo" ref="45.24" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Plur">libidinesque</w>
+    <w ref="45.24" lemma="que" pos="CON" msd="MORPH=empty">{libidinesque}</w>
+    <w ref="45.24" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

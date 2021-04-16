@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblscope>23.1-23.1</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:23.1-23.1" type="chapter">
+    <w ref="23.1" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="23.1" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="23.1" lemma="partus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">partu</w>
+    <w ref="23.1" lemma="abortuus" pos="VER" msd="Numb=Sing">abortuve</w>
+    <w ref="23.1" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="23.1" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ana="#acte #metonymie #amo" ref="23.1" lemma="libido" pos="NOMcom" msd="Case=Abl|Numb=Sing">libidine</w>
+    <w ref="23.1" lemma="aegroto" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">aegrotantibus</w>
+  </quote>
+</div>

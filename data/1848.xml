@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Paris, Julius</author>, <title>Facta et Dicta Memorabilia</title>, <biblscope>4.3.3-4.3.3</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1038.phi001.perseus-lat1:4.3.3-4.3.3" type="section">
+    <w ref="4.3.3" lemma="consisto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">constitit</w>
+    <w ana="#acte #metonymie #amo" ref="4.3.3" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #metonymie #amo" ref="4.3.3" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">ueneris</w>
+    <w ref="4.3.3" lemma="intra2" pos="PRE" msd="MORPH=empty">intra</w>
+    <w ref="4.3.3" lemma="coniux" pos="NOMcom" msd="Case=Gen|Numb=Sing">coniugis</w>
+    <w ref="4.3.3" lemma="caritas" pos="NOMcom" msd="Case=Acc|Numb=Sing">caritatem</w>
+    <w ref="4.3.3" lemma="claudo1" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">clausum</w>
+    <w ref="4.3.3" lemma="teneo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">tenuisse</w>
+    <w ref="4.3.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

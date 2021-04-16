@@ -1,0 +1,27 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblscope>I.5-I.5</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:I.5-I.5" type="part">
+    <w ref="I.5" lemma="dehinc" pos="ADV" msd="Deg=Pos">dehinc</w>
+    <w ref="I.5" lemma="etiamsi" pos="CONsub" msd="MORPH=empty">etiamsi</w>
+    <w ref="I.5" lemma="amor" pos="NOMcom" msd="Case=Nom|Numb=Sing">amor</w>
+    <w ref="I.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">fuerit</w>
+    <w ref="I.5" lemma="acquiro" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Masc">acquisitus</w>
+    <w ref="I.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.5" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="I.5" lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
+    <w ref="I.5" lemma="probo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1">probemus</w>
+    <w ref="I.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
+    <w ref="I.5" lemma="incertus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">incertum</w>
+    <w ref="I.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.5" lemma="utrumne" pos="ADVint" msd="MORPH=empty">utrumne</w>
+    <w ref="I.5" lemma="prohibeo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Adj|Voice=Pass">prohibendus</w>
+    <w ref="I.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ana="#acte #metonymie #amo" ref="I.5" lemma="usus" pos="NOMcom" msd="Case=Nom|Numb=Sing">usus</w>
+    <w ana="#acte #metonymie #amo" ref="I.5" lemma="Uenereus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">uenerius</w>
+    <w ref="I.5" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="I.5" lemma="admitto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Adj|Voice=Pass">admittendus</w>
+    <w ref="I.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

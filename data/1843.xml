@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblscope>33.praef-33.praef</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:33.praef-33.praef" type="chapter">
+    <w ref="33.praef" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="33.praef" lemma="poculum" pos="NOMcom" msd="Case=Abl|Numb=Plur">poculis</w>
+    <w ana="#acte #metonymie #amo" ref="33.praef" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Plur">libidines</w>
+    <w ref="33.praef" lemma="caelo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">caelare</w>
+    <w ref="33.praef" lemma="iuuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">iuvit</w>
+    <w ref="33.praef" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="33.praef" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="33.praef" lemma="obscenitas" pos="NOMcom" msd="Case=Acc|Numb=Plur">obscenitates</w>
+    <w ref="33.praef" lemma="bibo2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">bibere</w>
+    <w ref="33.praef" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

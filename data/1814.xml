@@ -1,0 +1,23 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo #futuo">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>3.58.33-3.58.38</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:3.58.33-3.58.38" type="line">
+    <w ref="3.58.35" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="3.58.36" lemma="somniculosus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">Somniculosos</w>
+    <w ref="3.58.36" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="3.58.36" lemma="porrigo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">porrigit</w>
+    <w ref="3.58.36" lemma="glis" pos="NOMcom" msd="Case=Acc|Numb=Plur">glires</w>
+    <w ref="3.58.36" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.58.37" lemma="hic2" pos="ADV" msd="Deg=Pos">Hic</w>
+    <w ref="3.58.37" lemma="uagio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem">vagientem</w>
+    <w ref="3.58.37" lemma="mater" pos="NOMcom" msd="Case=Gen|Numb=Sing">matris</w>
+    <w ref="3.58.37" lemma="hispidus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">hispidae</w>
+    <w ref="3.58.37" lemma="fetus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">fetum</w>
+    <w ref="3.58.37" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.58.38" lemma="alius" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">Alius</w>
+    <w ref="3.58.38" lemma="cogo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">coactos</w>
+    <w ref="3.58.38" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ana="#acte #metonymie #amo #futuo" ref="3.58.38" lemma="amo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">amare</w>
+    <w ref="3.58.38" lemma="capo" pos="NOMcom" msd="Case=Acc|Numb=Plur">capones</w>
+    <w ref="3.58.38" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

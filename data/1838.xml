@@ -1,0 +1,31 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Epistulae</title>, <biblscope>24.16-24.16</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi015.perseus-lat2:24.16-24.16" type="section">
+    <w ref="24.16" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Fem">Ipsae</w>
+    <w ref="24.16" lemma="uoluptas" pos="NOMcom" msd="Case=Nom|Numb=Plur">voluptates</w>
+    <w ref="24.16" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="24.16" lemma="tormentum" pos="NOMcom" msd="Case=Acc|Numb=Plur">tormenta</w>
+    <w ref="24.16" lemma="uerto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">vertuntur</w>
+    <w ref="24.16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="24.16" lemma="epulae" pos="NOMcom" msd="Case=Nom|Numb=Plur">epulae</w>
+    <w ref="24.16" lemma="cruditas" pos="NOMcom" msd="Case=Acc|Numb=Sing">cruditatem</w>
+    <w ref="24.16" lemma="affero" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">adferunt</w>
+    <w ref="24.16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="24.16" lemma="ebrietas" pos="NOMcom" msd="Case=Nom|Numb=Plur">ebrietates</w>
+    <w ref="24.16" lemma="neruus" pos="NOMcom" msd="Case=Gen|Numb=Plur">nervorum</w>
+    <w ref="24.16" lemma="torpor" pos="NOMcom" msd="Case=Acc|Numb=Sing">torporem</w>
+    <w ref="24.16" lemma="tremor" pos="NOMcom" msd="Case=Acc|Numb=Sing">tremoremque</w>
+    <w ref="24.16" lemma="que" pos="CON" msd="MORPH=empty">{tremoremque}</w>
+    <w ref="24.16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #amo" ref="24.16" lemma="libido" pos="NOMcom" msd="Case=Nom|Numb=Plur">libidines</w>
+    <w ref="24.16" lemma="pes" pos="NOMcom" msd="Case=Gen|Numb=Plur">pedum</w>
+    <w ref="24.16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="24.16" lemma="manus1" pos="NOMcom" msd="Case=Gen|Numb=Plur">manuum</w>
+    <w ref="24.16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="24.16" lemma="articulus" pos="NOMcom" msd="Case=Gen|Numb=Plur">articulorum</w>
+    <w ref="24.16" lemma="omnis" pos="PROind" msd="Case=Gen|Numb=Plur|Gend=Com">omnium</w>
+    <w ref="24.16" lemma="deprauatio" pos="NOMcom" msd="Case=Acc|Numb=Plur">depravationes</w>
+    <w ref="24.16" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

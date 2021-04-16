@@ -1,0 +1,43 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Theodorus Priscianus</author>, <title>Euporiston</title>, <biblscope>1.21-1.21</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1:1.21-1.21" type="chapter">
+    <w ref="1.21" lemma="ab" pos="PRE" msd="MORPH=empty">A</w>
+    <w ref="1.21" lemma="lauacrum" pos="NOMcom" msd="Case=Abl|Numb=Plur">lavacris</w>
+    <w ref="1.21" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
+    <w ref="1.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.21" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="1.21" lemma="focus" pos="NOMcom" msd="Case=Gen|Numb=Sing">foci</w>
+    <w ref="1.21" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="1.21" lemma="sol" pos="NOMcom" msd="Case=Gen|Numb=Sing">solis</w>
+    <w ref="1.21" lemma="calor" pos="NOMcom" msd="Case=Abl|Numb=Sing">calore</w>
+    <w ref="1.21" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="1.21" lemma="aes" pos="NOMcom" msd="Case=Gen|Numb=Sing">aeris</w>
+    <w ref="1.21" lemma="frigus" pos="NOMcom" msd="Case=Abl|Numb=Sing">frigore</w>
+    <w ref="1.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.21" lemma="clamor" pos="NOMcom" msd="Case=Abl|Numb=Sing">clamore</w>
+    <w ref="1.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.21" lemma="uinolentia" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">vinolentia</w>
+    <w ref="1.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #amo" ref="1.21" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ana="#acte #metonymie #amo" ref="1.21" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">venerio</w>
+    <w ref="1.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.21" lemma="iracundia" pos="NOMcom" msd="Case=Abl|Numb=Sing">iracundia</w>
+    <w ref="1.21" lemma="custodio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">custodiantur</w>
+    <w ref="1.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.21" lemma="necubi" pos="CONsub" msd="MORPH=empty">necubi</w>
+    <w ref="1.21" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="1.21" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="1.21" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="1.21" lemma="colligo3" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">collectum</w>
+    <w ref="1.21" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="1.21" lemma="glutinatus" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut">glutinatum</w>
+    <w ref="1.21" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1.21" lemma="os1" pos="NOMcom" msd="Case=Nom|Numb=Sing">os</w>
+    <w ref="1.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.21" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">his</w>
+    <w ref="1.21" lemma="occasio" pos="NOMcom" msd="Case=Abl|Numb=Plur">occasionibus</w>
+    <w ref="1.21" lemma="resoluo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">resolvatur</w>
+    <w ref="1.21" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

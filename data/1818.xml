@@ -1,0 +1,24 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Epistulae</title>, <biblscope>77.6-77.6</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi015.perseus-lat2:77.6-77.6" type="section">
+    <w ref="77.6" lemma="cogito" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">Cogita</w>
+    <w ref="77.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="77.6" lemma="quamdiu2" pos="ADVint" msd="MORPH=empty">quamdiu</w>
+    <w ref="77.6" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="77.6" lemma="idem" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">idem</w>
+    <w ref="77.6" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">facias</w>
+    <w ref="77.6" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="77.6" lemma="cibus" pos="NOMcom" msd="Case=Nom|Numb=Sing">cibus</w>
+    <w ref="77.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="77.6" lemma="somnus" pos="NOMcom" msd="Case=Nom|Numb=Sing">somnus</w>
+    <w ref="77.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #amo #futuo" ref="77.6" lemma="libido" pos="NOMcom" msd="Case=Nom|Numb=Sing">libido</w>
+    <w ref="77.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="77.6" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="77.6" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">hunc</w>
+    <w ref="77.6" lemma="circulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">circulum</w>
+    <w ref="77.6" lemma="curro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">curritur</w>
+    <w ref="77.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

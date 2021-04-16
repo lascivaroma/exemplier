@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblscope>2.16.13-2.16.14</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.16.13-2.16.14" type="line">
+    <w ref="2.16.13" lemma="at2" pos="CONcoo" msd="MORPH=empty">at</w>
+    <w ref="2.16.13" lemma="tu" pos="PROper" msd="Case=Voc|Numb=Sing">tu</w>
+    <w ref="2.16.13" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="2.16.13" lemma="noster" pos="PROpos" msd="Case=Dat|Numb=Sing|Gend=MascNeut">nostro</w>
+    <w ref="2.16.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.16.13" lemma="Uenus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Venus</w>
+    <w ref="2.16.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.16.13" lemma="o" pos="INJ" msd="MORPH=empty">o</w>
+    <w ref="2.16.13" lemma="succurro" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">succurre</w>
+    <w ref="2.16.13" lemma="dolor" pos="NOMcom" msd="Case=Dat|Numb=Sing">dolori</w>
+    <w ref="2.16.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.16.14" lemma="rumpo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">rumpat</w>
+    <w ref="2.16.14" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="2.16.14" lemma="assiduus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">assiduis</w>
+    <w ref="2.16.14" lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
+    <w ana="#acte #metonymie #amo" ref="2.16.14" lemma="libido" pos="NOMcom" msd="Case=Abl|Numb=Plur">libidinibus</w>
+    <w ref="2.16.14" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

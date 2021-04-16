@@ -1,0 +1,31 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Theodorus Priscianus</author>, <title>Euporiston</title>, <biblscope>2.11-2.11</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1:2.11-2.11" type="chapter">
+    <w ref="2.11" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">Quibus</w>
+    <w ref="2.11" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
+    <w ref="2.11" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="2.11" lemma="aetas" pos="NOMcom" msd="Case=Gen|Numb=Sing">aetatis</w>
+    <w ref="2.11" lemma="uergo" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">vergentis</w>
+    <w ref="2.11" lemma="defectio" pos="NOMcom" msd="Case=Abl|Numb=Sing">defectione</w>
+    <w ref="2.11" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="2.11" lemma="morbus" pos="NOMcom" msd="Case=Abl|Numb=Plur">morbis</w>
+    <w ref="2.11" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
+    <w ref="2.11" lemma="resideo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">residentibus</w>
+    <w ref="2.11" lemma="uelut1" pos="ADVrel" msd="MORPH=empty">veluti</w>
+    <w ref="2.11" lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Plur">partes</w>
+    <w ref="2.11" lemma="frigo1" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">frigantes</w>
+    <w ana="#acte #metonymie #amo" ref="2.11" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usus</w>
+    <w ana="#acte #metonymie #amo" ref="2.11" lemma="Uenereus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Masc|Deg=Pos">venerii</w>
+    <w ref="2.11" lemma="officium" pos="NOMcom" msd="Case=Acc|Numb=Sing">officium</w>
+    <w ref="2.11" lemma="pernego" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Perf|Voice=Act|Person=3">pernegarint</w>
+    <w ref="2.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.11" lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
+    <w ref="2.11" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+    <w ref="2.11" lemma="contrarius" pos="ADJqua" msd="Case=Abl|Numb=Sing">contrario</w>
+    <w ref="2.11" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">his</w>
+    <w ref="2.11" lemma="adiutorium" pos="NOMcom" msd="Case=Abl|Numb=Plur">adiutoriis</w>
+    <w ref="2.11" lemma="famulor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=1">famulabor</w>
+    <w ref="2.11" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Columella, Lucius Junius Moderatus</author>, <title>Res Rustica</title>, <biblscope>6.37.9-6.37.9</biblscope></bibl>
+  <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>14</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:6.37.9-6.37.9" type="section">
+    <w ref="6.37.9" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="6.37.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.37.9" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="6.37.9" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="6.37.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="6.37.9" lemma="equa" pos="NOMcom" msd="Case=Nom|Numb=Sing">equa</w>
+    <w ana="#acte #metonymie #amo" ref="6.37.9" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">veneris</w>
+    <w ref="6.37.9" lemma="patiens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">patiens</w>
+    <w ref="6.37.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.37.9" lemma="confestim" pos="ADV" msd="Deg=Pos">confestim</w>
+    <w ref="6.37.9" lemma="abigo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">abacto</w>
+    <w ref="6.37.9" lemma="uilis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Comp">viliore</w>
+    <w ref="6.37.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.37.9" lemma="pretiosus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">pretioso</w>
+    <w ref="6.37.9" lemma="mare" pos="NOMcom" msd="Case=Abl|Numb=Sing">mari</w>
+    <w ref="6.37.9" lemma="subigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">subigitur</w>
+    <w ref="6.37.9" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Muscio</author>, <title>Gynaecia</title>, <biblscope>8-8</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0205b.stoa001.bolton-lat1:8-8" type="unknown">
+    <w ref="8" lemma="intus1" pos="ADV" msd="Deg=Pos">intus</w>
+    <w ref="8" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="8" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="8" lemma="spatiosus" pos="ADJqua" msd="Numb=Sing|Gend=Masc|Deg=Sup">spatiosissimus</w>
+    <w ref="8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8" lemma="foris2" pos="ADV" msd="Deg=Pos">foris</w>
+    <w ref="8" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
+    <w ref="8" lemma="congustus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc">congustus</w>
+    <w ref="8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="8" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ref="8" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Sing">coitus</w>
+    <w ref="8" lemma="uir" pos="NOMcom" msd="Case=Gen|Numb=Plur">virorum</w>
+    <w ref="8" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #metonymie #amo" ref="8" lemma="usus" pos="NOMcom" msd="Case=Nom|Numb=Sing">usus</w>
+    <w ana="#acte #metonymie #amo" ref="8" lemma="Uenereus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">venerius</w>
+    <w ref="8" lemma="efficio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">efficitur</w>
+    <w ref="8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,35 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Caelius Aurelianus</author>, <title>Celerum passionum libri III</title>, <biblscope>3.175-3.175</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:3.175-3.175" type="part">
+    <w ref="3.175" lemma="uoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">uocatur</w>
+    <w ref="3.175" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="3.175" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.175" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="3.175" lemma="quidam" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Masc">quidam</w>
+    <w ref="3.175" lemma="uolo3" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">uolunt</w>
+    <w ref="3.175" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.175" lemma="translatio" pos="VER" msd="Case=Nom|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">translatiue</w>
+    <w ref="3.175" lemma="ue" pos="CON" msd="MORPH=empty">{translatiue}</w>
+    <w ref="3.175" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="3.175" lemma="satyrus" pos="NOMcom" msd="Case=Gen|Numb=Plur">satyrorum</w>
+    <w ref="3.175" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.175" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Masc">quos</w>
+    <w ref="3.175" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.175" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="3.175" lemma="uulgus" pos="NOMcom" msd="Case=Nom|Numb=Sing">uulgus</w>
+    <w ref="3.175" lemma="loquor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">loquitur</w>
+    <w ref="3.175" lemma="siue2" pos="CONsub" msd="MORPH=empty">siue</w>
+    <w ref="3.175" lemma="fabula1" pos="NOMcom" msd="Case=Nom|Numb=Sing">fabula</w>
+    <w ref="3.175" lemma="fingo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fingit</w>
+    <w ref="3.175" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.175" lemma="uinolentus1" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">uinolentos</w>
+    <w ref="3.175" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="3.175" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#acte #metonymie #amo" ref="3.175" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #metonymie #amo" ref="3.175" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">ueneris</w>
+    <w ref="3.175" lemma="pronus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">pronos</w>
+    <w ref="3.175" lemma="daemon" pos="NOMcom" msd="Case=Acc|Numb=Plur">daemones</w>
+    <w ref="3.175" lemma="accipio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">accipimus</w>
+  </quote>
+</div>

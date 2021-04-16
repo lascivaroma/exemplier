@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:190" ana="#acte #metonymie #enter">
+  <bibl ref="#adams"><author>Prudentius b. 348</author>, <title>Liber Peristephanon</title>, <biblscope>14.25-14.30</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.451.68ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0238.stoa001.perseus-lat2:14.25-14.30" type="line">
+    <w ref="14.29" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">omnis</w>
+    <w ref="14.29" lemma="iuuentus" pos="NOMcom" msd="Case=Nom|Numb=Sing">iuventus</w>
+    <w ana="#acte #metonymie #enter" ref="14.29" lemma="irruo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">inruet</w>
+    <w ref="14.29" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="14.29" lemma="nouus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">novum</w>
+    <w ref="14.30" lemma="ludibrium" pos="NOMcom" msd="Case=Gen|Numb=Plur">ludibriorum</w>
+    <w ref="14.30" lemma="mancipium" pos="NOMcom" msd="Case=Acc|Numb=Sing">mancipium</w>
+    <w ref="14.30" lemma="peto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">petet</w>
+    <w ref="14.30" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

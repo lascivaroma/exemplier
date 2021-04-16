@@ -1,0 +1,17 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Apuleius</author>, <title>Pro Se De Magia Liber</title>, <biblscope>50-50</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi001.perseus-lat1:50-50" type="section">
+    <w ref="50" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="50" lemma="quis1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
+    <w ref="50" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">hoc</w>
+    <w ana="#acte #metonymie #amo" ref="50" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ana="#acte #metonymie #amo" ref="50" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">uenerit</w>
+    <w ref="50" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="50" lemma="numquam" pos="ADVneg" msd="MORPH=empty">numquam</w>
+    <w ref="50" lemma="postea" pos="ADV" msd="Deg=Pos">postea</w>
+    <w ref="50" lemma="comitialis2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">comitiali</w>
+    <w ref="50" lemma="morbus" pos="NOMcom" msd="Case=Abl|Numb=Sing">morbo</w>
+    <w ref="50" lemma="attento" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">adtemptatur</w>
+  </quote>
+</div>

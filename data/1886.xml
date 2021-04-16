@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Virgil</author>, <title>Georgics</title>, <biblscope>2.328-2.333</biblscope></bibl>
+  <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>12</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi002.perseus-lat2:2.328-2.333" type="line">
+    <w ref="2.329" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #metonymie #amo" ref="2.329" lemma="Uenus" pos="NOMpro" msd="Case=Acc|Numb=Sing">Venerem</w>
+    <w ref="2.329" lemma="certus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">certis</w>
+    <w ref="2.329" lemma="repeto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">repetunt</w>
+    <w ref="2.329" lemma="armentum" pos="NOMcom" msd="Case=Acc|Numb=Plur">armenta</w>
+    <w ref="2.329" lemma="dies" pos="NOMcom" msd="Case=Abl|Numb=Plur">diebus</w>
+  </quote>
+</div>

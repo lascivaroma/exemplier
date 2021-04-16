@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>1.10.33-1.10.34</biblscope></bibl>
+  <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>13</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.33-1.10.34" type="line">
+    <w ref="1.10.33" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">Quae</w>
+    <w ana="#acte #metonymie #amo" ref="1.10.33" lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Venus</w>
+    <w ref="1.10.33" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="1.10.33" lemma="aequum" pos="NOMcom" msd="Case=Abl|Numb=Sing">aequo</w>
+    <w ref="1.10.33" lemma="uenio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">ventura</w>
+    <w ref="1.10.33" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1.10.33" lemma="gratus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">grata</w>
+    <w ref="1.10.33" lemma="duo" pos="ADJcar" msd="Case=Dat|Numb=Plur|Gend=MascNeut">duobus</w>
+    <w ref="1.10.33" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.10.34" lemma="alter" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">Altera</w>
+    <w ref="1.10.34" lemma="cur" pos="ADVint" msd="MORPH=empty">cur</w>
+    <w ref="1.10.34" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
+    <w ref="1.10.34" lemma="uendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vendit</w>
+    <w ref="1.10.34" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.10.34" lemma="alter" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">alter</w>
+    <w ref="1.10.34" lemma="emo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">emit</w>
+    <w ref="1.10.34" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

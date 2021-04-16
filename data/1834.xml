@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblscope>1.pr-1.pr</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat5:1.pr-1.pr" type="chapter">
+    <w ref="1.pr" lemma="intersum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Interest</w>
+    <w ref="1.pr" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="1.pr" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.pr" lemma="fatigatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">fatigatio</w>
+    <w ref="1.pr" lemma="morbus" pos="NOMcom" msd="Case=Acc|Numb=Sing">morbum</w>
+    <w ref="1.pr" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.pr" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="1.pr" lemma="sitis" pos="NOMcom" msd="Case=Nom|Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act">sitis</w>
+    <w ref="1.pr" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.pr" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="1.pr" lemma="frigus" pos="NOMcom" msd="Case=Nom|Numb=Sing">frigus</w>
+    <w ref="1.pr" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.pr" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="1.pr" lemma="calor" pos="NOMcom" msd="Case=Nom|Numb=Sing">calor</w>
+    <w ref="1.pr" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.pr" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="1.pr" lemma="uigilia" pos="NOMcom" msd="Case=Nom|Numb=Sing">vigilia</w>
+    <w ref="1.pr" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.pr" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="1.pr" lemma="fames" pos="NOMcom" msd="Case=Nom|Numb=Sing">fames</w>
+    <w ref="1.pr" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">fecerit</w>
+    <w ref="1.pr" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.pr" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="1.pr" lemma="cibus" pos="NOMcom" msd="Case=Gen|Numb=Sing">cibi</w>
+    <w ref="1.pr" lemma="uinum" pos="NOMcom" msd="Case=Gen|Numb=Sing">vinique</w>
+    <w ref="1.pr" lemma="que" pos="CON" msd="MORPH=empty">{vinique}</w>
+    <w ref="1.pr" lemma="abundantia" pos="NOMcom" msd="Case=Nom|Numb=Sing">abundantia</w>
+    <w ref="1.pr" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.pr" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="1.pr" lemma="intemperantia" pos="NOMcom" msd="Case=Nom|Numb=Sing">intemperantia</w>
+    <w ana="#acte #metonymie #amo" ref="1.pr" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
+    <w ref="1.pr" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,38 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblscope>1.pr-1.pr</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat6:1.pr-1.pr" type="chapter">
+    <w ref="1.pr" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="1.pr" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+    <w ref="1.pr" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.pr" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="1.pr" lemma="disputo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">disputant</w>
+    <w ref="1.pr" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.pr" lemma="quemadmodum1" pos="ADVrel" msd="MORPH=empty">quemadmodum</w>
+    <w ref="1.pr" lemma="sanus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">sanis</w>
+    <w ref="1.pr" lemma="homo" pos="NOMcom" msd="Case=Dat|Numb=Plur">hominibus</w>
+    <w ref="1.pr" lemma="ago" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">agendum</w>
+    <w ref="1.pr" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="1.pr" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.pr" lemma="praecipio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">praecipiunt</w>
+    <w ref="1.pr" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.pr" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="1.pr" lemma="grauis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">grauibus</w>
+    <w ref="1.pr" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="1.pr" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
+    <w ref="1.pr" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="1.pr" lemma="tempus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">temporibus</w>
+    <w ref="1.pr" lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
+    <w ref="1.pr" lemma="uito" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">uitetur</w>
+    <w ref="1.pr" lemma="frigus" pos="NOMcom" msd="Case=Nom|Numb=Sing">frigus</w>
+    <w ref="1.pr" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.pr" lemma="aestus" pos="NOMcom" msd="Case=Gen|Numb=Sing">aestus</w>
+    <w ref="1.pr" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.pr" lemma="satietas" pos="NOMcom" msd="Case=Nom|Numb=Sing">satietas</w>
+    <w ref="1.pr" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.pr" lemma="labor1" pos="NOMcom" msd="Case=Nom|Numb=Sing">labor</w>
+    <w ref="1.pr" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #amo" ref="1.pr" lemma="libido" pos="NOMcom" msd="Case=Nom|Numb=Sing">libido</w>
+    <w ref="1.pr" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+  </quote>
+</div>

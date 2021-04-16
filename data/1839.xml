@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Epistulae</title>, <biblscope>59.17-59.17</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi015.perseus-lat2:59.17-59.17" type="section">
+    <w ref="59.17" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+    <w ref="59.17" lemma="fatigo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fatigaverunt</w>
+    <w ref="59.17" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="59.17" lemma="uinum" pos="NOMcom" msd="Case=Abl|Numb=Sing">vino</w>
+    <w ref="59.17" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ana="#acte #metonymie #amo" ref="59.17" lemma="libido" pos="NOMcom" msd="Case=Abl|Numb=Plur">libidinibus</w>
+  </quote>
+</div>

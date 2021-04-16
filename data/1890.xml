@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Art of Love</title>, <biblscope>3.793-3.794</biblscope></bibl>
+  
+  <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>13</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:3.793-3.794" type="line">
+    <w ref="3.793" lemma="sentio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">Sentiat</w>
+    <w ref="3.793" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="3.793" lemma="inferus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Sup">imis</w>
+    <w ana="#acte #metonymie #amo" ref="3.793" lemma="Uenus" pos="NOMpro" msd="Case=Acc|Numb=Sing">venerem</w>
+    <w ref="3.793" lemma="resoluo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">resoluta</w>
+    <w ref="3.793" lemma="medulla" pos="NOMcom" msd="Case=Abl|Numb=Plur">medullis</w>
+    <w ref="3.794" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">Femina</w>
+    <w ref="3.794" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.794" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.794" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="3.794" lemma="aequum" pos="NOMcom" msd="Case=Abl|Numb=Sing">aequo</w>
+    <w ref="3.794" lemma="res" pos="NOMcom" msd="Case=Nom|Numb=Sing">res</w>
+    <w ref="3.794" lemma="iuuo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">iuvet</w>
+    <w ref="3.794" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="3.794" lemma="duo" pos="ADJcar" msd="Case=Acc|Numb=Plur|Gend=Masc">duos</w>
+    <w ref="3.794" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

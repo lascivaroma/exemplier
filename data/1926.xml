@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:190" ana="#acte #metonymie #enter">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>52.1-52.5</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:52.1-52.5" type="line">
+    <w ref="52.3" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="52.3" lemma="primum" pos="ADJadv.ord" msd="Deg=Sup">primum</w>
+    <w ref="52.3" lemma="stator" pos="NOMcom" msd="Case=Nom|Numb=Sing">stator</w>
+    <w ref="52.3" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
+    <w ref="52.3" lemma="libidinosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">libidinosus</w>
+    <w ref="52.4" lemma="alternis" pos="ADV" msd="Deg=Pos">alternis</w>
+    <w ref="52.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #metonymie #enter" ref="52.4" lemma="eo1" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">eundo</w>
+    <w ref="52.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="52.4" lemma="exeo1" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Ger|Voice=Act">exeundo</w>
+    <w ref="52.5" lemma="porta" pos="NOMcom" msd="Case=Abl|Numb=Sing">porta</w>
+    <w ref="52.5" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="52.5" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">faciet</w>
+    <w ref="52.5" lemma="patens" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp">patentiorem</w>
+    <w ref="52.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

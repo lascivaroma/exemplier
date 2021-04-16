@@ -1,0 +1,22 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Columella, Lucius Junius Moderatus</author>, <title>Res Rustica</title>, <biblscope>6.27.8-6.27.8</biblscope></bibl>
+  <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>14</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:6.27.8-6.27.8" type="section">
+    <w ref="6.27.8" lemma="roboro" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Adj|Voice=Pass">roborandus</w>
+    <w ref="6.27.8" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="6.27.8" lemma="largus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">largo</w>
+    <w ref="6.27.8" lemma="cibus" pos="NOMcom" msd="Case=Abl|Numb=Sing">cibo</w>
+    <w ref="6.27.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.27.8" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.27.8" lemma="appropinquo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">appropinquante</w>
+    <w ref="6.27.8" lemma="uer" pos="NOMcom" msd="Case=Abl|Numb=Sing|Deg=Pos">vere</w>
+    <w ref="6.27.8" lemma="hordeum" pos="NOMcom" msd="Case=Abl|Numb=Sing">hordeo</w>
+    <w ref="6.27.8" lemma="eruum" pos="NOMcom" msd="Case=Abl|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act">ervoque</w>
+    <w ref="6.27.8" lemma="que" pos="CON" msd="MORPH=empty">{ervoque}</w>
+    <w ref="6.27.8" lemma="sagino" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Adj|Voice=Pass">saginandus</w>
+    <w ref="6.27.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.27.8" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ana="#acte #metonymie #amo" ref="6.27.8" lemma="Uenus" pos="NOMpro" msd="Case=Dat|Numb=Sing">veneri</w>
+    <w ref="6.27.8" lemma="supersum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">supersit</w>
+  </quote>
+</div>

@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:190" ana="#acte #metonymie #enter">
+  <bibl ref="#adams"><author>Suetonius ca. 69-ca. 122</author>, <title>Divus Augustus</title>, <biblscope>69-69</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo012.perseus-lat2:69-69" type="unknown">
+    <w ref="69" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+    <w ref="69" lemma="deinde" pos="ADV" msd="Deg=Pos">deinde</w>
+    <w ref="69" lemma="solus" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">solam</w>
+    <w ref="69" lemma="Drusilla" pos="NOMpro" msd="Case=Acc|Numb=Sing">Drusillam</w>
+    <w ana="#acte #metonymie #enter" ref="69" lemma="inio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act">inis</w>
+    <w ref="69" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

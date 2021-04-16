@@ -1,0 +1,21 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Cicero</author>, <title>Philippics</title>, <biblscope>2.45-2.45</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi035.perseus-lat2:2.45-2.45" type="section">
+    <w ref="2.45" lemma="nemo" pos="PROind" msd="Case=Nom|Numb=Sing">nemo</w>
+    <w ref="2.45" lemma="umquam" pos="ADV" msd="Deg=Pos">umquam</w>
+    <w ref="2.45" lemma="puer" pos="NOMcom" msd="Case=Nom|Numb=Sing">puer</w>
+    <w ref="2.45" lemma="emo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">emptus</w>
+    <w ana="#acte #metonymie #amo #futuo" ref="2.45" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
+    <w ref="2.45" lemma="causa" pos="NOMcom" msd="Case=Abl|Numb=Sing">causa</w>
+    <w ref="2.45" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+    <w ref="2.45" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="2.45" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.45" lemma="dominus" pos="NOMcom" msd="Case=Gen|Numb=Sing">domini</w>
+    <w ref="2.45" lemma="potestas" pos="NOMcom" msd="Case=Abl|Numb=Sing">potestate</w>
+    <w ref="2.45" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="2.45" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+    <w ref="2.45" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.45" lemma="Curio" pos="NOMpro" msd="Case=Gen|Numb=Sing">Curionis</w>
+    <w ref="2.45" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

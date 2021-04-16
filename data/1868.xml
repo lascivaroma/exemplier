@@ -1,0 +1,36 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Marcellus Empiricus</author>, <title>De medicamentis liber</title>, <biblscope>book.33.68-book.33.68</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1:book.33.68-book.33.68" type="part">
+    <w ref="book.33.68" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="book.33.68" lemma="quis2" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+    <w ref="book.33.68" lemma="coeo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">coire</w>
+    <w ref="book.33.68" lemma="nolo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">noles</w>
+    <w ref="book.33.68" lemma="fio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fierique</w>
+    <w ref="book.33.68" lemma="que" pos="CON" msd="MORPH=empty">{fierique}</w>
+    <w ref="book.33.68" lemma="cupio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">cupies</w>
+    <w ref="book.33.68" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#acte #metonymie #amo" ref="book.33.68" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ana="#acte #metonymie #amo" ref="book.33.68" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerio</w>
+    <w ref="book.33.68" lemma="tardus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp">tardiorem</w>
+    <w ref="book.33.68" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="book.33.68" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="book.33.68" lemma="lucerna" pos="NOMcom" msd="Case=Abl|Numb=Sing">lucerna</w>
+    <w ref="book.33.68" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="book.33.68" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="book.33.68" lemma="spons" pos="ADV" msd="MORPH=empty">sponte</w>
+    <w ref="book.33.68" lemma="exstinguo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">extinguetur</w>
+    <w ref="book.33.68" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="book.33.68" lemma="fungus" pos="NOMcom" msd="Case=Acc|Numb=Plur">fungos</w>
+    <w ref="book.33.68" lemma="adhuc" pos="ADV" msd="Deg=Pos">adhuc</w>
+    <w ref="book.33.68" lemma="uiuo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">uiuentes</w>
+    <w ref="book.33.68" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="book.33.68" lemma="potio1" pos="NOMcom" msd="Case=Abl|Numb=Sing">potione</w>
+    <w ref="book.33.68" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="book.33.68" lemma="exstinguo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">extingue</w>
+    <w ref="book.33.68" lemma="bibo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">bibendamque</w>
+    <w ref="book.33.68" lemma="que" pos="CON" msd="MORPH=empty">{bibendamque}</w>
+    <w ref="book.33.68" lemma="inscius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">inscio</w>
+    <w ref="book.33.68" lemma="trado" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">trade</w>
+  </quote>
+</div>

@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>2.7.1-2.7.2</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:2.7.1-2.7.2" type="section">
+    <w ref="2.7.2" lemma="quemadmodum2" pos="ADVint" msd="MORPH=empty">quemadmodum</w>
+    <w ref="2.7.2" lemma="assiduus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">adsidua</w>
+    <w ref="2.7.2" lemma="satietas" pos="NOMcom" msd="Case=Abl|Numb=Sing">satietate</w>
+    <w ref="2.7.2" lemma="cotidianus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">cottidianae</w>
+    <w ref="2.7.2" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="2.7.2" lemma="dies" pos="NOMcom" msd="Case=Acc|Numb=Sing">diem</w>
+    <w ref="2.7.2" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Sing">noctemque</w>
+    <w ref="2.7.2" lemma="que" pos="CON" msd="MORPH=empty">{noctemque}</w>
+    <w ana="#acte #metonymie #amo" ref="2.7.2" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
+    <w ref="2.7.2" lemma="exhaurio" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">exhaustis</w>
+    <w ref="2.7.2" lemma="uis" pos="NOMcom" msd="Case=Abl|Numb=Plur">uiribus</w>
+    <w ref="2.7.2" lemma="pereo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">perierit</w>
+  </quote>
+</div>

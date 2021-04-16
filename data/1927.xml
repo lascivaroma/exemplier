@@ -1,0 +1,25 @@
+<div  type="fragment" corresp="adams:190" ana="#acte #metonymie #enter">
+  <bibl ref="#adams"><author>Cassian, John ca. 360-ca. 435</author>, <title>De Incarnatione Domini Contra Nestorum</title>, <biblscope>1.5.5-1.5.5</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0076c.stoa003.opp-lat1:1.5.5-1.5.5" type="section">
+    <w ref="1.5.5" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.5.5" lemma="ergo2" pos="CONcoo" msd="MORPH=empty">ergo</w>
+    <w ref="1.5.5" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="1.5.5" lemma="intelligentia" pos="NOMcom" msd="Case=Acc|Numb=Sing">intellegentiam</w>
+    <w ref="1.5.5" lemma="imbecillitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">inbecillitatis</w>
+    <w ref="1.5.5" lemma="noster" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=Fem">nostrae</w>
+    <w ref="1.5.5" lemma="secundum2" pos="PRE" msd="Deg=Pos">secundum</w>
+    <w ref="1.5.5" lemma="experimentum" pos="NOMcom" msd="Case=Gen|Numb=Plur">experimentorum</w>
+    <w ref="1.5.5" lemma="uisibilis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">uisibilia</w>
+    <w ref="1.5.5" lemma="documentum" pos="NOMcom" msd="Case=Acc|Numb=Plur">documenta</w>
+    <w ref="1.5.5" lemma="facio" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">facientes</w>
+    <w ref="1.5.5" lemma="coniectura" pos="NOMcom" msd="Case=Acc|Numb=Sing">coniecturam</w>
+    <w ref="1.5.5" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="1.5.5" lemma="aequalis1" pos="NOMcom" msd="Case=Abl|Numb=Plur">aequalibus</w>
+    <w ref="1.5.5" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="1.5.5" lemma="inuicem" pos="ADV" msd="Deg=Pos">inuicem</w>
+    <w ana="#acte #metonymie #enter" ref="1.5.5" lemma="ingredior" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">ingredientibus</w>
+    <w ana="#acte #metonymie #enter" ref="1.5.5" lemma="creo" pos="NOMcom" msd="Case=Abl|Numb=Plur|Mood=Par|Tense=Fut|Voice=Act">creaturis</w>
+    <w ref="1.5.5" lemma="puto" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1">putemus</w>
+    <w ref="1.5.5" lemma="deus" pos="NOMcom" msd="Case=Acc|Numb=Sing">deum</w>
+  </quote>
+</div>

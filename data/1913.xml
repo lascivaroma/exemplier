@@ -1,0 +1,40 @@
+<div  type="fragment" corresp="adams:189" ana="#acte #metonymie #patior #male">
+  <bibl ref="#adams"><author>Juvenal</author>, <title>Satires</title>, <biblscope>2.95-2.103</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:2.95-2.103" type="line">
+    <w ref="2.99" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="2.99" lemma="teneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tenet</w>
+    <w ref="2.99" lemma="speculum" pos="NOMcom" msd="Case=Acc|Numb=Sing">speculum</w>
+    <w ref="2.99" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #patior" ref="2.99" lemma="pathicus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">pathici</w>
+    <w ref="2.99" lemma="gestamen" pos="NOMcom" msd="Case=Acc|Numb=Sing">gestamen</w>
+    <w ref="2.99" lemma="Otho" pos="NOMpro" msd="Case=Gen|Numb=Sing">Othonis</w>
+    <w ref="2.99" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.100" lemma="Actor" pos="NOMpro" msd="Case=Gen|Numb=Sing">Actoris</w>
+    <w ref="2.100" lemma="Auruncus" pos="NOMpro" msd="Case=Gen|Numb=Sing|Gend=MascNeut">Aurunci</w>
+    <w ref="2.100" lemma="spolium" pos="NOMcom" msd="Case=Acc|Numb=Sing">spolium</w>
+    <w ref="2.100" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.100" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ref="2.100" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="2.100" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="2.100" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">videbat</w>
+    <w ref="2.101" lemma="armatus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">armatum</w>
+    <w ref="2.101" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.101" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="2.101" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="2.101" lemma="tollo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">tolli</w>
+    <w ref="2.101" lemma="uexillum" pos="NOMcom" msd="Case=Acc|Numb=Plur">vexilla</w>
+    <w ref="2.101" lemma="iubeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">iuberet</w>
+    <w ref="2.101" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.102" lemma="res" pos="NOMcom" msd="Case=Nom|Numb=Sing">res</w>
+    <w ref="2.102" lemma="memoro" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">memoranda</w>
+    <w ref="2.102" lemma="nouus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">novis</w>
+    <w ref="2.102" lemma="annalis1" pos="NOMcom" msd="Case=Abl|Numb=Plur">annalibus</w>
+    <w ref="2.102" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="2.102" lemma="recens1" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">recenti</w>
+    <w ref="2.103" lemma="historia" pos="NOMcom" msd="Case=Abl|Numb=Sing">historia</w>
+    <w ref="2.103" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.103" lemma="speculum" pos="NOMcom" msd="Case=Acc|Numb=Sing">speculum</w>
+    <w ref="2.103" lemma="ciuilis" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Com|Deg=Pos">civilis</w>
+    <w ref="2.103" lemma="sarcina" pos="NOMcom" msd="Case=Nom|Numb=Sing">sarcina</w>
+  </quote>
+</div>

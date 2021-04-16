@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Apuleius</author>, <title>Metamorphoses</title>, <biblscope>10.4-10.4</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:10.4-10.4" type="chapter">
+    <w ref="10.4" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">Quo</w>
+    <w ref="10.4" lemma="factum" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">facto</w>
+    <w ref="10.4" lemma="maturo" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">maturatae</w>
+    <w ref="10.4" lemma="spes" pos="NOMcom" msd="Case=Gen|Numb=Sing">spei</w>
+    <w ref="10.4" lemma="uesania" pos="NOMcom" msd="Case=Nom|Numb=Sing">vesania</w>
+    <w ref="10.4" lemma="praeceps2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">praeceps</w>
+    <w ref="10.4" lemma="promitto" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem">promissae</w>
+    <w ana="#acte #metonymie #amo" ref="10.4" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
+    <w ref="10.4" lemma="flagito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">flagitat</w>
+    <w ref="10.4" lemma="uadimonium" pos="NOMcom" msd="Case=Acc|Numb=Sing">vadimonium</w>
+  </quote>
+</div>

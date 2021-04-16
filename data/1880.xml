@@ -1,0 +1,37 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Muscio</author>, <title>Gynaecia</title>, <biblscope>158-158</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0205b.stoa001.bolton-lat1:158-158" type="unknown">
+    <w ref="158" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="158" lemma="inde" pos="ADV" msd="Deg=Pos">inde</w>
+    <w ref="158" lemma="semen1" pos="NOMcom" msd="Case=Nom|Numb=Sing">semen</w>
+    <w ref="158" lemma="ipse" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">ipsius</w>
+    <w ref="158" lemma="tenuis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">tenue</w>
+    <w ref="158" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="158" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="158" lemma="aquor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">aquatum</w>
+    <w ref="158" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="158" lemma="ualde" pos="ADV" msd="Deg=Pos">valde</w>
+    <w ref="158" lemma="frigidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">frigidum</w>
+    <w ref="158" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="158" lemma="multus" pos="ADJqua" msd="Case=Nom|Gend=Neut|Deg=Comp">plus</w>
+    <w ref="158" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="158" lemma="iustum" pos="NOMcom" msd="Case=Abl|Numb=Sing">iusto</w>
+    <w ref="158" lemma="calidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">calidum</w>
+    <w ref="158" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="158" lemma="corrumpo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">corruptum</w>
+    <w ref="158" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="158" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="158" lemma="luxuria" pos="NOMcom" msd="Case=Abl|Numb=Sing">luxuria</w>
+    <w ref="158" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=Fem">sua</w>
+    <w ref="158" lemma="frequens" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">frequenti</w>
+    <w ana="#acte #metonymie #amo" ref="158" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ana="#acte #metonymie #amo" ref="158" lemma="Uenereus" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Deg=Pos">venerio</w>
+    <w ref="158" lemma="eneruatus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">enervatus</w>
+    <w ref="158" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="158" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="158" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="158" lemma="uis" pos="NOMcom" msd="Case=Abl|Numb=Plur">viribus</w>
+    <w ref="158" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

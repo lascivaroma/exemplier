@@ -1,0 +1,32 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblscope>V.4-V.4</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:V.4-V.4" type="part">
+    <w ref="V.4" lemma="hic1" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">his</w>
+    <w ref="V.4" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="V.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.4" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+    <w ref="V.4" lemma="ob" pos="PRE" msd="MORPH=empty">ob</w>
+    <w ref="V.4" lemma="uesica" pos="NOMcom" msd="Case=Gen|Numb=Sing">uesicae</w>
+    <w ref="V.4" lemma="paralysis" pos="NOMcom" msd="Case=Acc|Numb=Sing">paralysin</w>
+    <w ref="V.4" lemma="propter2" pos="PRE" msd="MORPH=empty">propter</w>
+    <w ref="V.4" lemma="officium" pos="NOMcom" msd="Case=Acc|Numb=Sing">officium</w>
+    <w ref="V.4" lemma="suscito1" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">suscitandum</w>
+    <w ana="#acte #metonymie #amo" ref="V.4" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #metonymie #amo" ref="V.4" lemma="uenerius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerium</w>
+    <w ref="V.4" lemma="probo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">probauerunt</w>
+    <w ref="V.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.4" lemma="consentio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">consentiendum</w>
+    <w ref="V.4" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="V.4" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="V.4" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="V.4" lemma="traho" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">trahit</w>
+    <w ref="V.4" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="V.4" lemma="sui" pos="PROref" msd="Case=Abl|Numb=Sing">secum</w>
+    <w ref="V.4" lemma="cum3" pos="CON" msd="MORPH=empty">{secum}</w>
+    <w ref="V.4" lemma="totus" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">totius</w>
+    <w ref="V.4" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
+    <w ref="V.4" lemma="uexatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">uexationem</w>
+    <w ref="V.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

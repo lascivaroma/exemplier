@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Columella, Lucius Junius Moderatus</author>, <title>Res Rustica</title>, <biblscope>8.11.6-8.11.6</biblscope></bibl>
+  <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>14</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:8.11.6-8.11.6" type="section">
+    <w ref="8.11.6" lemma="ultimus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">Ultima</w>
+    <w ref="8.11.6" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing">parte</w>
+    <w ref="8.11.6" lemma="hiems" pos="NOMcom" msd="Case=Gen|Numb=Sing">hiemis</w>
+    <w ref="8.11.6" lemma="concito1" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">concitantibus</w>
+    <w ref="8.11.6" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing">libidinem</w>
+    <w ref="8.11.6" lemma="cibus" pos="NOMcom" msd="Case=Dat|Numb=Plur">cibis</w>
+    <w ref="8.11.6" lemma="uterque" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">utriusque</w>
+    <w ref="8.11.6" lemma="sexus" pos="NOMcom" msd="Case=Gen|Numb=Sing">sexus</w>
+    <w ref="8.11.6" lemma="accendo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">accendenda</w>
+    <w ana="#acte #metonymie #amo" ref="8.11.6" lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing">venus</w>
+    <w ref="8.11.6" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="8.11.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

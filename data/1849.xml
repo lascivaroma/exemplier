@@ -1,0 +1,23 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Paris, Julius</author>, <title>Facta et Dicta Memorabilia</title>, <biblscope>9.12.8-9.12.8</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1038.phi001.perseus-lat1:9.12.8-9.12.8" type="section">
+    <w ref="9.12.8" lemma="Cornelius" pos="NOMpro" msd="Case=Nom|Numb=Sing">Cornelius</w>
+    <w ref="9.12.8" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="9.12.8" lemma="Gallus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Gallus</w>
+    <w ref="9.12.8" lemma="praetorius1" pos="NOMcom" msd="Case=Nom|Numb=Sing">praetorius</w>
+    <w ref="9.12.8" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.12.8" lemma="Titus" pos="NOMpro" msd="Case=Nom|Numb=Sing">T.</w>
+    <w ref="9.12.8" lemma="Etereius" pos="NOMpro" msd="Case=Nom|Numb=Sing">Etereius</w>
+    <w ref="9.12.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.12.8" lemma="eques" pos="NOMcom" msd="Case=Nom|Numb=Sing">eques</w>
+    <w ref="9.12.8" lemma="Romanus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Romanus</w>
+    <w ref="9.12.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.12.8" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ana="#acte #metonymie #amo" ref="9.12.8" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #metonymie #amo" ref="9.12.8" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">ueneris</w>
+    <w ref="9.12.8" lemma="absumo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">absumpti</w>
+    <w ref="9.12.8" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="9.12.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

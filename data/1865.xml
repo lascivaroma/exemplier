@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Cassius Felix</author>, <title>De medicina</title>, <biblscope>54.1-54.1</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:54.1-54.1" type="paragraph">
+    <w ref="54.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="54.1" lemma="contingo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">contingit</w>
+    <w ref="54.1" lemma="frequenter" pos="ADV" msd="Deg=Pos">frequenter</w>
+    <w ref="54.1" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="54.1" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="54.1" lemma="frigus" pos="NOMcom" msd="Case=Abl|Numb=Sing">frigore</w>
+    <w ref="54.1" lemma="nimis" pos="ADV" msd="Deg=Pos">nimis</w>
+    <w ref="54.1" lemma="acutus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">acuto</w>
+    <w ref="54.1" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="54.1" lemma="uinolentia" pos="NOMcom" msd="Case=Abl|Numb=Sing|Deg=Pos">uinolentia</w>
+    <w ref="54.1" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="54.1" lemma="indigestio" pos="NOMcom" msd="Case=Abl|Numb=Sing">indigestione</w>
+    <w ref="54.1" lemma="frequens" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">frequenti</w>
+    <w ref="54.1" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="54.1" lemma="immodicus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">immodico</w>
+    <w ana="#acte #metonymie #amo" ref="54.1" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ana="#acte #metonymie #amo" ref="54.1" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerio</w>
+    <w ref="54.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

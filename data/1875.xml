@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblscope>II.58-II.58</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.58-II.58" type="part">
+    <w ref="II.58" lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
+    <w ref="II.58" lemma="accipio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">acceptum</w>
+    <w ref="II.58" lemma="semen1" pos="NOMcom" msd="Case=Nom|Numb=Sing">semen</w>
+    <w ref="II.58" lemma="post2" pos="PRE" msd="MORPH=empty">post</w>
+    <w ana="#acte #metonymie #amo" ref="II.58" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #metonymie #amo" ref="II.58" lemma="Uenereus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">venerium</w>
+    <w ref="II.58" lemma="quidam" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">quibusdam</w>
+    <w ref="II.58" lemma="mox" pos="ADV" msd="Deg=Pos">mox</w>
+  </quote>
+</div>

@@ -1,0 +1,34 @@
+<div type="fragment" corresp="adams:189" ana="#acte #metonymie #patior">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Naturales quaestiones</title>, <biblscope>1.16.2-1.16.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi016.corpuscorporum-lat1:1.16.2-1.16.2" type="section">
+    <w ref="1.16.2" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">Haec</w>
+    <w ref="1.16.2" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="1.16.2" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+    <w ref="1.16.2" lemma="dispono" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">disponebat</w>
+    <w ref="1.16.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.16.2" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="1.16.2" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="1.16.2" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Sing">uirum</w>
+    <w ref="1.16.2" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ana="#acte #metonymie #patior" ref="1.16.2" lemma="patior" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Dep|Person=3">pateretur</w>
+    <w ref="1.16.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.16.2" lemma="auersus" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc">auersus</w>
+    <w ref="1.16.2" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=MascFem">omnes</w>
+    <w ref="1.16.2" lemma="admissarius" pos="NOMcom" msd="Case=Gen|Numb=Sing">admissarii</w>
+    <w ref="1.16.2" lemma="suus" pos="PROpos.ref" msd="Case=Gen|Numb=Sing|Gend=MascNeut">sui</w>
+    <w ref="1.16.2" lemma="motus" pos="NOMcom" msd="Case=Acc|Numb=Plur">motus</w>
+    <w ref="1.16.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.16.2" lemma="speculum" pos="NOMcom" msd="Case=Abl|Numb=Sing">speculo</w>
+    <w ref="1.16.2" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">uideret</w>
+    <w ref="1.16.2" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="1.16.2" lemma="deinde" pos="ADV" msd="Deg=Pos">deinde</w>
+    <w ref="1.16.2" lemma="falsus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">falsa</w>
+    <w ref="1.16.2" lemma="magnitudo" pos="NOMcom" msd="Case=Abl|Numb=Sing">magnitudine</w>
+    <w ref="1.16.2" lemma="ipse" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">ipsius</w>
+    <w ref="1.16.2" lemma="membrum" pos="NOMcom" msd="Case=Gen|Numb=Sing">membri</w>
+    <w ref="1.16.2" lemma="tamquam1" pos="ADVrel" msd="MORPH=empty">tamquam</w>
+    <w ref="1.16.2" lemma="uerus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem">uera</w>
+    <w ref="1.16.2" lemma="gaudeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=SemDep|Person=3">gaudebat</w>
+    <w ref="1.16.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

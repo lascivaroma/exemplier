@@ -1,0 +1,44 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Caelius Aurelianus</author>, <title>Celerum passionum libri III</title>, <biblscope>2.87-2.87</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:2.87-2.87" type="part">
+    <w ref="2.87" lemma="fio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fit</w>
+    <w ref="2.87" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="2.87" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="2.87" lemma="uarius" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">uariis</w>
+    <w ref="2.87" lemma="antecedo1" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">antecedentibus</w>
+    <w ref="2.87" lemma="causa" pos="NOMcom" msd="Case=Abl|Numb=Plur">causis</w>
+    <w ref="2.87" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.87" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="2.87" lemma="ceterus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">ceterae</w>
+    <w ref="2.87" lemma="passio" pos="NOMcom" msd="Case=Nom|Numb=Plur">passiones</w>
+    <w ref="2.87" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.87" lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
+    <w ref="2.87" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="2.87" lemma="profundus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">profunda</w>
+    <w ref="2.87" lemma="perfrictio" pos="NOMcom" msd="Case=Abl|Numb=Sing">perfrictione</w>
+    <w ref="2.87" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="2.87" lemma="uinolentia" pos="NOMcom" msd="Case=Abl|Numb=Sing">uinolentia</w>
+    <w ref="2.87" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ana="#acte #metonymie #amo" ref="2.87" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ana="#acte #metonymie #amo" ref="2.87" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerio</w>
+    <w ref="2.87" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.87" lemma="multus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Sup">plurimo</w>
+    <w ref="2.87" lemma="nimis" pos="ADV" msd="Deg=Pos">nimis</w>
+    <w ref="2.87" lemma="potus2" pos="NOMcom" msd="Case=Abl|Numb=Sing">potu</w>
+    <w ref="2.87" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.87" lemma="indigestio" pos="NOMcom" msd="Case=Abl|Numb=Sing">indigestione</w>
+    <w ref="2.87" lemma="continuus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">continua</w>
+    <w ref="2.87" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="2.87" lemma="percussus" pos="NOMcom" msd="Case=Abl|Numb=Sing">percussu</w>
+    <w ref="2.87" lemma="uehemens" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">uehementi</w>
+    <w ref="2.87" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="2.87" lemma="pondus" pos="NOMcom" msd="Case=Gen|Numb=Sing">ponderis</w>
+    <w ref="2.87" lemma="magnus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">magni</w>
+    <w ref="2.87" lemma="subuectio" pos="NOMcom" msd="Case=Abl|Numb=Sing">subuectione</w>
+    <w ref="2.87" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="2.87" lemma="cursus" pos="NOMcom" msd="Case=Abl|Numb=Sing">cursu</w>
+    <w ref="2.87" lemma="uehemens" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=Com|Deg=Pos">uehementi</w>
+    <w ref="2.87" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

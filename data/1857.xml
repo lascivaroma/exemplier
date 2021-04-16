@@ -1,0 +1,45 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblscope>I.4-I.4</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:I.4-I.4" type="part">
+    <w ref="I.4" lemma="inquio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inquiunt</w>
+    <w ref="I.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.4" lemma="tertius" pos="ADJadv.ord" msd="Deg=Pos">tertio</w>
+    <w ref="I.4" lemma="parum2" pos="ADV" msd="Gend=Neut|Deg=Comp">minus</w>
+    <w ref="I.4" lemma="singulus" pos="ADJdis" msd="Case=Abl|Numb=Plur|Gend=Com">singulis</w>
+    <w ref="I.4" lemma="mensis" pos="NOMcom" msd="Case=Abl|Numb=Plur">mensibus</w>
+    <w ref="I.4" lemma="offero" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Adj|Voice=Pass">offerenda</w>
+    <w ref="I.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.4" lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
+    <w ref="I.4" lemma="caput" pos="NOMcom" msd="Case=Gen|Numb=Sing">capitis</w>
+    <w ref="I.4" lemma="diuido" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">diuisuram</w>
+    <w ref="I.4" lemma="accuratus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">accuratam</w>
+    <w ref="I.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.4" lemma="quam1" pos="ADVrel" msd="Numb=Sing">quam</w>
+    <w ref="I.4" lemma="chiasmus" pos="NOMcom" msd="Case=Acc|Numb=Sing">chiasmum</w>
+    <w ref="I.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.4" lemma="dehinc" pos="ADV" msd="Deg=Pos">dehinc</w>
+    <w ref="I.4" lemma="scarosis" pos="NOMcom" msd="Case=Nom|Numb=Sing">scarosin</w>
+    <w ref="I.4" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="I.4" lemma="medicamen" pos="NOMcom" msd="Case=Abl">medicamine</w>
+    <w ref="I.4" lemma="siue1" pos="CONcoo" msd="MORPH=empty">siue</w>
+    <w ref="I.4" lemma="ignis" pos="NOMcom" msd="Case=Gen|Numb=Sing">ignis</w>
+    <w ref="I.4" lemma="ustura" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Neut|Mood=Par|Tense=Fut|Voice=Act">ustura</w>
+    <w ref="I.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.4" lemma="item" pos="ADV" msd="Deg=Pos">item</w>
+    <w ref="I.4" lemma="terebratio" pos="NOMcom" msd="Case=Acc|Numb=Sing">terebrationem</w>
+    <w ref="I.4" lemma="testa" pos="NOMcom" msd="Case=Gen|Numb=Sing">testae</w>
+    <w ref="I.4" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="I.4" lemma="arteriotomia" pos="NOMcom" msd="Case=Acc|Numb=Sing">arteriotomiam</w>
+    <w ref="I.4" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ana="#acte #metonymie #amo" ref="I.4" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #metonymie #amo" ref="I.4" lemma="uenerius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerium</w>
+    <w ref="I.4" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="I.4" lemma="ex" pos="PRE" msd="MORPH=empty">e</w>
+    <w ref="I.4" lemma="contrarium" pos="NOMcom" msd="Case=Abl|Numb=Sing">contrario</w>
+    <w ref="I.4" lemma="eunuchismus" pos="NOMcom" msd="Case=Acc|Numb=Sing">eunuchismum</w>
+    <w ref="I.4" lemma="facio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">faciendum</w>
+    <w ref="I.4" lemma="probo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">probantes</w>
+    <w ref="I.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Suetonius ca. 69-ca. 122</author>, <title>Caligula</title>, <biblscope>41-41</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo014.perseus-lat2:41-41" type="chapter">
+    <w ref="41" lemma="mitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">misit</w>
+    <w ref="41" lemma="circum1" pos="ADV" msd="MORPH=empty">circum</w>
+    <w ref="41" lemma="forum1" pos="NOMcom" msd="Case=Acc|Numb=Plur">fora</w>
+    <w ref="41" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="41" lemma="basilica" pos="NOMcom" msd="Case=Acc|Numb=Plur">basilicas</w>
+    <w ref="41" lemma="nomenclator" pos="NOMcom" msd="Case=Acc|Numb=Plur">nomenculatores</w>
+    <w ref="41" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="41" lemma="inuito" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Adj|Voice=Pass">inuitandos</w>
+    <w ref="41" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ana="#acte #metonymie #amo #futuo" ref="41" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing">libidinem</w>
+    <w ref="41" lemma="iuuenis1" pos="NOMcom" msd="Case=Nom|Numb=Plur">iuuenes</w>
+    <w ref="41" lemma="senex" pos="NOMcom" msd="Case=Nom|Numb=Plur">senesque</w>
+    <w ref="41" lemma="que" pos="CON" msd="MORPH=empty">{senesque}</w>
+    <w ref="41" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+  </quote>
+</div>

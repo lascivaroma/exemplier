@@ -1,0 +1,26 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblscope>I.127-I.127</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.127-I.127" type="part">
+    <w ref="I.127" lemma="pudicus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">pudicam</w>
+    <w ref="I.127" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="I.127" lemma="nutrix" pos="NOMcom" msd="Case=Acc|Numb=Sing">nutricem</w>
+    <w ref="I.127" lemma="queror" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">querimus</w>
+    <w ref="I.127" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="I.127" lemma="quo1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ref="I.127" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="I.127" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ana="#acte #metonymie #amo" ref="I.127" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ana="#acte #metonymie #amo" ref="I.127" lemma="uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">venereo</w>
+    <w ref="I.127" lemma="abstineo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">abstineat</w>
+    <w ref="I.127" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="I.127" lemma="ebrietas" pos="NOMcom" msd="Case=Abl|Numb=Sing">ebrietate</w>
+    <w ref="I.127" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="I.127" lemma="libido" pos="NOMcom" msd="Case=Abl|Numb=Sing">libidine</w>
+    <w ref="I.127" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="I.127" lemma="quilibet" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">qualibet</w>
+    <w ref="I.127" lemma="illecebra" pos="ADJqua" msd="Case=Gen|Numb=Sing">illecebri</w>
+    <w ref="I.127" lemma="dulcedo" pos="NOMcom" msd="Case=Abl|Numb=Sing">dulcedine</w>
+    <w ref="I.127" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

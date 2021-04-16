@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Vopiscus, Flavius fl. 3./4. Jh.</author>, <title>Antoninus Heliogobalus</title>, <biblscope>32-32</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi017.perseus-lat2:32-32" type="chapter">
+    <w ref="32" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="32" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="32" lemma="omnis" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">omnibus</w>
+    <w ref="32" lemma="meretrix" pos="NOMcom" msd="Case=Abl|Numb=Plur">meretricibus</w>
+    <w ref="32" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="32" lemma="effectus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">effectu</w>
+    <w ana="#acte #metonymie #amo" ref="32" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
+    <w ref="32" lemma="aureus2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">aureos</w>
+  </quote>
+</div>

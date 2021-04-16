@@ -1,0 +1,12 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>9.73.2-9.73.6</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.73.2-9.73.6" type="line">
+    <w ana="#acte #metonymie #amo" ref="9.73.6" lemma="prurio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">pruris</w>
+    <w ref="9.73.6" lemma="dominus" pos="NOMcom" msd="Case=Gen|Numb=Sing">domini</w>
+    <w ref="9.73.6" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="9.73.6" lemma="Ganymedes" pos="NOMpro" msd="Case=Abl|Numb=Sing">Ganymede</w>
+    <w ref="9.73.6" lemma="tuus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=Masc">tui</w>
+    <w ref="9.73.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,32 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblscope>V.1-V.1</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:V.1-V.1" type="part">
+    <w ref="V.1" lemma="audeo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=SemDep">Ausi</w>
+    <w ref="V.1" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="V.1" lemma="praeterea" pos="ADV" msd="Deg=Pos">praeterea</w>
+    <w ref="V.1" lemma="quidam" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Masc">quidam</w>
+    <w ref="V.1" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="V.1" lemma="Uenus" pos="NOMpro" msd="Case=Acc|Numb=Sing">uenerem</w>
+    <w ref="V.1" lemma="adhibeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">adhibere</w>
+    <w ref="V.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="V.1" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">his</w>
+    <w ref="V.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.1" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+    <w ref="V.1" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="V.1" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ana="#acte #metonymie #amo" ref="V.1" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ana="#acte #metonymie #amo" ref="V.1" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerio</w>
+    <w ref="V.1" lemma="ischiadicus" pos="NOMcom" msd="Case=Gen|Numb=Plur|Gend=Masc">ischiadici</w>
+    <w ref="V.1" lemma="facio" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Masc">facti</w>
+    <w ref="V.1" lemma="uideo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">uidentur</w>
+    <w ref="V.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.1" lemma="quo5" pos="ADVrel" msd="MORPH=empty">quo</w>
+    <w ref="V.1" lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
+    <w ref="V.1" lemma="uexo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">uexata</w>
+    <w ref="V.1" lemma="neruositas" pos="NOMcom" msd="Case=Nom|Numb=Sing">neruositas</w>
+    <w ref="V.1" lemma="gemino" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">geminet</w>
+    <w ref="V.1" lemma="causa" pos="NOMcom" msd="Case=Acc|Numb=Sing">causam</w>
+    <w ref="V.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

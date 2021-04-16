@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:190" ana="#acte #metonymie #enter">
+  <bibl ref="#adams"><author>Tertullian ca. 160-ca. 230</author>, <title>Ad Nationes Libri Duo</title>, <biblscope>1.7-1.7</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa002.opp-lat1:1.7-1.7" type="chapter">
+    <w ref="1.7" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.7" lemma="erro2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">erres</w>
+    <w ref="1.7" lemma="extraneus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">extraneam</w>
+    <w ana="#acte #metonymie #enter" ref="1.7" lemma="incurso" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">incursans</w>
+    <w ref="1.7" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="1.7" lemma="piaculum" pos="NOMcom" msd="Case=Acc|Numb=Sing">piaculum</w>
+    <w ref="1.7" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2">feceris</w>
+    <w ref="1.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.7" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ref="1.7" lemma="incestum" pos="NOMcom" msd="Case=Acc|Numb=Sing">incestum</w>
+    <w ref="1.7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

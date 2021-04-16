@@ -1,0 +1,26 @@
+<div  type="fragment" corresp="adams:190" ana="#acte #metonymie #enter">
+  <bibl ref="#adams"><author>Prudentius b. 348</author>, <title>Liber Peristephanon</title>, <biblscope>14.74-14.78</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.451.68ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0238.stoa001.perseus-lat2:14.74-14.78" type="line">
+    <w ref="14.74" lemma="hic1" pos="PROdem" msd="Deg=Pos">hic</w>
+    <w ref="14.74" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.74" lemma="hic2" pos="ADV" msd="Deg=Pos">hic</w>
+    <w ref="14.74" lemma="amator" pos="NOMcom" msd="Case=Nom|Numb=Sing">amator</w>
+    <w ref="14.74" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="14.74" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.74" lemma="fateor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">fateor</w>
+    <w ref="14.74" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.74" lemma="placeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">placet</w>
+    <w ref="14.74" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="14.75" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">ibo</w>
+    <w ana="#acte #metonymie #enter" ref="14.75" lemma="irruo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">inruentis</w>
+    <w ref="14.75" lemma="gressus" pos="NOMcom" msd="Case=Abl|Numb=Plur">gressibus</w>
+    <w ref="14.75" lemma="obuiam" pos="ADV" msd="Deg=Pos">obviam</w>
+    <w ref="14.75" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.76" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="14.76" lemma="demoror1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=1">demorabor</w>
+    <w ref="14.76" lemma="uotum" pos="NOMcom" msd="Case=Acc|Numb=Plur">vota</w>
+    <w ref="14.76" lemma="caleo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act">calentia</w>
+    <w ref="14.76" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+  </quote>
+</div>

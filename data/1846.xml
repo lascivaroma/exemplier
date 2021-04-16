@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>88.1-88.2</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:88.1-88.2" type="line">
+    <w ref="88.1" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">Quid</w>
+    <w ref="88.1" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
+    <w ref="88.1" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">is</w>
+    <w ref="88.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="88.1" lemma="Gellius" pos="NOMpro" msd="Case=Voc|Numb=Sing">Gelli</w>
+    <w ref="88.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="88.1" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="88.1" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="88.1" lemma="mater" pos="NOMcom" msd="Case=Abl|Numb=Sing">matre</w>
+    <w ref="88.1" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="88.1" lemma="soror" pos="NOMcom" msd="Case=Abl|Numb=Sing">sorore</w>
+    <w ana="#acte #metonymie #amo" ref="88.2" lemma="prurio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">prurit</w>
+    <w ref="88.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="88.2" lemma="abicio" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">abiectis</w>
+    <w ref="88.2" lemma="peruigilo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pervigilat</w>
+    <w ref="88.2" lemma="tunica" pos="NOMcom" msd="Case=Abl|Numb=Plur">tunicis</w>
+    <w ref="88.2" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

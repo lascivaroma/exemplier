@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:189" ana="#acte #metonymie #patior">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Epistulae</title>, <biblscope>95.21-95.21</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi015.perseus-lat2:95.21-95.21" type="section">
+    <w ref="95.21" lemma="libido" pos="NOMcom" msd="Case=Abl|Numb=Sing">Libidine</w>
+    <w ref="95.21" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
+    <w ref="95.21" lemma="ne3" pos="ADVneg" msd="MORPH=empty">ne</w>
+    <w ref="95.21" lemma="mas" pos="NOMcom" msd="Case=Dat|Numb=Plur">maribus</w>
+    <w ref="95.21" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ref="95.21" lemma="cedo1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cedunt</w>
+    <w ref="95.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #patior" ref="95.21" lemma="patior" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">pati</w>
+    <w ref="95.21" lemma="nata" pos="NOMcom" msd="Case=Nom|Numb=Plur|Gend=Fem">natae</w>
+    <w ref="95.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="95.21" lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Plur">di</w>
+    <w ref="95.21" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Fem">illas</w>
+    <w ref="95.21" lemma="dea" pos="NOMcom" msd="Case=Nom|Numb=Plur">deaeque</w>
+    <w ref="95.21" lemma="que" pos="CON" msd="MORPH=empty">{deaeque}</w>
+    <w ref="95.21" lemma="male" pos="ADV" msd="Deg=Pos">male</w>
+    <w ref="95.21" lemma="perdo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">perdant</w>
+    <w ref="95.21" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

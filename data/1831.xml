@@ -1,0 +1,29 @@
+<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Jerome Saint d. 419 or 20</author>, <title>Epistolae</title>, <biblscope>55.4.2-55.4.2</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0162.stoa004.opp-lat1:55.4.2-55.4.2" type="section">
+    <w ref="55.4.2" lemma="\" pos="PUNC" msd="MORPH=empty">\</w>
+    <w ref="55.4.2" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="55.4.2" lemma="uis" pos="NOMcom" msd="Case=Acc|Numb=Sing">uim</w>
+    <w ref="55.4.2" lemma="patior" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">patior</w>
+    <w ref="55.4.2" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
+    <w ref="55.4.2" lemma="meus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=MascNeut">mei</w>
+    <w ref="55.4.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="55.4.2" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ana="#acte #metonymie #amo" ref="55.4.2" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing">libidinem</w>
+    <w ref="55.4.2" lemma="ardor" pos="NOMcom" msd="Case=Nom|Numb=Sing">ardor</w>
+    <w ref="55.4.2" lemma="impello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inpellit</w>
+    <w ref="55.4.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="55.4.2" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ref="55.4.2" lemma="organum" pos="NOMcom" msd="Case=Nom|Numb=Sing">organa</w>
+    <w ref="55.4.2" lemma="membrum" pos="NOMcom" msd="Case=Gen|Numb=Plur">membrorum</w>
+    <w ref="55.4.2" lemma="genitalis" pos="NOMcom" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos">genitalium</w>
+    <w ref="55.4.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="55.4.2" lemma="compositio" pos="NOMcom" msd="Case=Nom|Numb=Sing">conpositio</w>
+    <w ref="55.4.2" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
+    <w ref="55.4.2" lemma="femineus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">femineos</w>
+    <w ref="55.4.2" lemma="quaero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">quaerit</w>
+    <w ref="55.4.2" lemma="amplexus" pos="NOMcom" msd="Case=Acc|Numb=Plur">amplexus</w>
+    <w ref="55.4.2" lemma="\" pos="PUNC" msd="MORPH=empty">\</w>
+  </quote>
+</div>

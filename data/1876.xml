@@ -1,0 +1,27 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Isidore de Séville</author>, <title>Étymologies</title>, <biblscope>12.1-12.1</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0159.stoa004.thayer-lat1:12.1-12.1" type="entry">
+    <w ref="12.1" lemma="etenim" pos="CONcoo" msd="MORPH=empty">Etenim</w>
+    <w ref="12.1" lemma="animal" pos="NOMcom" msd="Case=Acc|Numb=Sing">animal</w>
+    <w ref="12.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#acte #metonymie #amo" ref="12.1" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ana="#acte #metonymie #amo" ref="12.1" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">Venerio</w>
+    <w ref="12.1" lemma="forma" pos="NOMcom" msd="Case=Acc|Numb=Plur">formas</w>
+    <w ref="12.1" lemma="extrinsecus" pos="ADV" msd="Deg=Pos">extrinsecus</w>
+    <w ref="12.1" lemma="intus1" pos="ADV" msd="Deg=Pos">intus</w>
+    <w ref="12.1" lemma="transmitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">transmittit</w>
+    <w ref="12.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.1" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=MascNeut">eorumque</w>
+    <w ref="12.1" lemma="que" pos="CON" msd="MORPH=empty">{eorumque}</w>
+    <w ref="12.1" lemma="satio2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">satiata</w>
+    <w ref="12.1" lemma="typa" pos="NOMcom" msd="Case=Abl|Numb=Sing">typis</w>
+    <w ref="12.1" lemma="rapio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">rapit</w>
+    <w ref="12.1" lemma="species" pos="NOMcom" msd="Case=Nom|Numb=Sing">species</w>
+    <w ref="12.1" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=MascNeut">eorum</w>
+    <w ref="12.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="12.1" lemma="proprius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">propriam</w>
+    <w ref="12.1" lemma="qualitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">qualitatem</w>
+    <w ref="12.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

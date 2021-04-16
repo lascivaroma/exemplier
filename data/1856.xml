@@ -1,0 +1,44 @@
+<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
+  <bibl ref="#adams"><author>Caelius Aurelianus</author>, <title>Celerum passionum libri III</title>, <biblscope>3.182-3.182</biblscope></bibl>
+
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:3.182-3.182" type="part">
+    <w ref="3.182" lemma="at2" pos="CONcoo" msd="MORPH=empty">at</w>
+    <w ref="3.182" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="3.182" lemma="febris" pos="NOMcom" msd="Case=Nom|Numb=Plur">febres</w>
+    <w ref="3.182" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="3.182" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Perf|Voice=Act|Person=3">fuerint</w>
+    <w ref="3.182" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.182" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="3.182" lemma="ceterus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">ceteris</w>
+    <w ref="3.182" lemma="accidens" pos="NOMcom" msd="Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act">accidentibus</w>
+    <w ref="3.182" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.182" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="3.182" lemma="Graeci" pos="NOMpro" msd="Case=Nom|Numb=Plur">Graeci</w>
+    <w ref="3.182" lemma="symptoma" pos="NOMcom" msd="Case=Acc|Numb=Plur">symptomata</w>
+    <w ref="3.182" lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">uocant</w>
+    <w ref="3.182" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.182" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="3.182" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">ea</w>
+    <w ref="3.182" lemma="indulgens" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Comp">indulgentiora</w>
+    <w ref="3.182" lemma="uideo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=FutAnt|Voice=Act|Person=1">uiderimus</w>
+    <w ref="3.182" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.182" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="3.182" lemma="rubor" pos="NOMcom" msd="Case=Acc|Numb=Sing">ruborem</w>
+    <w ref="3.182" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.182" lemma="feruor" pos="NOMcom" msd="Case=Acc|Numb=Sing">feruorem</w>
+    <w ref="3.182" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.182" lemma="pruritus" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=MascNeut">pruritum</w>
+    <w ref="3.182" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="3.182" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#acte #metonymie #amo" ref="3.182" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #metonymie #amo" ref="3.182" lemma="uenerium" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerium</w>
+    <w ref="3.182" lemma="cupiditas" pos="NOMcom" msd="Case=Acc|Numb=Sing">cupiditatem</w>
+    <w ref="3.182" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="3.182" lemma="genitalis" pos="ADJqua" msd="Case=Gen|Numb=Plur|Deg=Pos">genitalium</w>
+    <w ref="3.182" lemma="tentigo" pos="NOMcom" msd="Case=Acc|Numb=Sing">tentiginem</w>
+    <w ref="3.182" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+    <w ref="3.182" lemma="hic1" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">his</w>
+    <w ref="3.182" lemma="similis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">similia</w>
+    <w ref="3.182" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

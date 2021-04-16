@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:190" ana="#acte #metonymie #know">
+  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>72.1-72.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:72.1-72.2" type="line">
+    <w ref="72.1" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2">Dicebas</w>
+    <w ref="72.1" lemma="quondam" pos="ADV" msd="Deg=Pos">quondam</w>
+    <w ref="72.1" lemma="solus" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascNeut">solum</w>
+    <w ref="72.1" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ana="#acte #metonymie #know" ref="72.1" lemma="nosco" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">nosse</w>
+    <w ref="72.1" lemma="Catullus" pos="NOMpro" msd="Case=Acc|Numb=Sing">Catullum</w>
+    <w ref="72.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="72.2" lemma="Lesbia" pos="NOMpro" msd="Case=Voc|Numb=Sing">Lesbia</w>
+    <w ref="72.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="72.2" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="72.2" lemma="prae2" pos="PRE" msd="MORPH=empty">prae</w>
+    <w ref="72.2" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">me</w>
+    <w ref="72.2" lemma="uolo3" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">velle</w>
+    <w ref="72.2" lemma="teneo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tenere</w>
+    <w ref="72.2" lemma="Iuppiter" pos="NOMpro" msd="Case=Acc|Numb=Sing">Iovem</w>
+    <w ref="72.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>
