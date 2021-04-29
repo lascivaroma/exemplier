@@ -1,0 +1,35 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence #irrumatio">
+  <bibl ref="#adams"><author>Suetonius ca. 69-ca. 122</author>, <title>Nero</title>, <biblscope>35-35</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo016.perseus-lat2:35-35" type="chapter">
+    <w ref="35" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="35" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibus</w>
+    <w ref="35" lemma="Aulus" pos="NOMpro" msd="Case=Acc|Numb=Sing">Aulum</w>
+    <w ref="35" lemma="Plautius" pos="NOMpro" msd="Case=Acc|Numb=Sing">Plautium</w>
+    <w ref="35" lemma="iuuenis1" pos="NOMcom" msd="Case=Acc|Numb=Sing">iuuenem</w>
+    <w ref="35" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="35" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+    <w ref="35" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="35" lemma="ante2" pos="PRE" msd="MORPH=empty">ante</w>
+    <w ref="35" lemma="mors" pos="NOMcom" msd="Case=Acc|Numb=Sing">mortem</w>
+    <w ref="35" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="35" lemma="uis" pos="NOMcom" msd="Case=Acc|Numb=Sing">uim</w>
+    <w ana="#acte #metonymie #violence #irrumatio" ref="35" lemma="conspurco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">conspurcasset</w>
+    <w ref="35" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="35" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="35" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">eat</w>
+    <w ref="35" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="35" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="35" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="35" lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inquit</w>
+    <w ref="35" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="35" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="35" lemma="mater" pos="NOMcom" msd="Case=Nom|Numb=Sing">mater</w>
+    <w ref="35" lemma="meus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">mea</w>
+    <w ref="35" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="35" lemma="successor" pos="NOMcom" msd="Case=Acc|Numb=Sing">successorem</w>
+    <w ref="35" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=MascNeut">meum</w>
+    <w ref="35" lemma="osculor" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3">osculetur</w>
+    <w ref="35" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="35" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+  </quote>
+</div>

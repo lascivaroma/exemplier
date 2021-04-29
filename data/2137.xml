@@ -1,0 +1,40 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>79-79</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VII.1.1670.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:79-79" type="section">
+    <w ref="79" lemma="tor" pos="NOMcom" msd="Case=Nom|Numb=Sing">tor</w>
+    <w ref="79" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="79" lemma="subduco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">subduxit</w>
+    <w ref="79" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="79" lemma="nox" pos="NOMcom" msd="MORPH=empty">nocte</w>
+    <w ref="79" lemma="puer" pos="NOMcom" msd="Case=Acc|Numb=Sing">puerum</w>
+    <w ref="79" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="79" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="79" lemma="lectus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">lectum</w>
+    <w ref="79" lemma="transfero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">transtulit</w>
+    <w ref="79" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=MascNeut">suum</w>
+    <w ref="79" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="79" lemma="uoluto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">volutatusque</w>
+    <w ref="79" lemma="que" pos="CON" msd="MORPH=empty">{volutatusque}</w>
+    <w ref="79" lemma="libere" pos="ADV" msd="Deg=Comp">liberius</w>
+    <w ref="79" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="79" lemma="frater" pos="NOMcom" msd="Case=Abl|Numb=Sing">fratre</w>
+    <w ref="79" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="79" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=MascNeut">suo</w>
+    <w ref="79" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="79" lemma="siue1" pos="CONcoo" msd="MORPH=empty">sive</w>
+    <w ref="79" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="79" lemma="sentio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">sentiente</w>
+    <w ana="#acte #metonymie #violence" ref="79" lemma="iniuria" pos="NOMcom" msd="Case=Acc|Numb=Sing">iniuriam</w>
+    <w ref="79" lemma="siue1" pos="CONcoo" msd="MORPH=empty">sive</w>
+    <w ref="79" lemma="dissimulo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">dissimulante</w>
+    <w ref="79" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="79" lemma="indormisco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">indormivit</w>
+    <w ref="79" lemma="alienus2" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">alienis</w>
+    <w ref="79" lemma="amplexus" pos="NOMcom" msd="Case=Abl|Numb=Plur">amplexibus</w>
+    <w ref="79" lemma="obliuiscor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">oblitus</w>
+    <w ref="79" lemma="ius1" pos="NOMcom" msd="Case=Gen|Numb=Sing">iuris</w>
+    <w ref="79" lemma="humanus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">humani</w>
+    <w ref="79" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

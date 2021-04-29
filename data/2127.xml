@@ -1,0 +1,33 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Cicero</author>, <title>De Republica</title>, <biblscope>2.46-2.46</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VII.1.1670.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi043.perseus-lat1:2.46-2.46" type="section">
+    <w ref="2.46" lemma="itaque" pos="CONcoo" msd="MORPH=empty">Itaque</w>
+    <w ref="2.46" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="2.46" lemma="magnus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">maior</w>
+    <w ref="2.46" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="2.46" lemma="filius" pos="NOMcom" msd="Case=Nom|Numb=Sing">filius</w>
+    <w ref="2.46" lemma="Lucretia" pos="NOMpro" msd="Case=Gen|Numb=Sing">Lucretiae</w>
+    <w ref="2.46" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.46" lemma="Tricipitinus" pos="NOMpro" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">Tricipitini</w>
+    <w ref="2.46" lemma="filia" pos="NOMcom" msd="Case=Dat|Numb=Sing">filiae</w>
+    <w ref="2.46" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.46" lemma="Collatinus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">Conlatini</w>
+    <w ref="2.46" lemma="uxor" pos="NOMcom" msd="Case=Dat|Numb=Sing">uxori</w>
+    <w ref="2.46" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.46" lemma="uis" pos="NOMcom" msd="Case=Acc|Numb=Sing">vim</w>
+    <w ref="2.46" lemma="affero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">attulisset</w>
+    <w ref="2.46" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulierque</w>
+    <w ref="2.46" lemma="que" pos="CON" msd="MORPH=empty">{mulierque}</w>
+    <w ref="2.46" lemma="pudens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">pudens</w>
+    <w ref="2.46" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.46" lemma="nobilis2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">nobilis</w>
+    <w ref="2.46" lemma="ob" pos="PRE" msd="MORPH=empty">ob</w>
+    <w ref="2.46" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
+    <w ana="#acte #metonymie #violence" ref="2.46" lemma="iniuria" pos="NOMcom" msd="Case=Acc|Numb=Sing">iniuriam</w>
+    <w ana="#acte #metonymie #violence" ref="2.46" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">sese</w>
+    <w ref="2.46" lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ref="2.46" lemma="mors" pos="NOMcom" msd="Case=Abl|Numb=Sing">morte</w>
+    <w ref="2.46" lemma="multo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">multavisset</w>
+  </quote>
+</div>

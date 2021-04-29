@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:24" ana="#mentula #metaphore #pointu #agriculture">
+  <bibl ref="#adams"><author>Lucretius</author>, <title>De Rerum Natura</title>, <biblscope>4.1269-4.1273</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:4.1269-4.1273" type="line">
+    <w ref="4.1271" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="4.1272" lemma="eicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">eicit</w>
+    <w ref="4.1272" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="4.1272" lemma="sulcus" pos="NOMcom" msd="Case=Acc|Numb=Sing">sulcum</w>
+    <w ref="4.1272" lemma="rectus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">recta</w>
+    <w ref="4.1272" lemma="regio" pos="NOMcom" msd="Case=Abl|Numb=Sing">regione</w>
+    <w ref="4.1272" lemma="uia" pos="NOMcom" msd="Case=Abl|Numb=Sing">viaque</w>
+    <w ref="4.1272" lemma="que" pos="CON" msd="MORPH=empty">{viaque}</w>
+    <w ana="#mentula #metaphore #pointu #agriculture" ref="4.1273" lemma="uomer" pos="NOMcom" msd="Case=Nom|Numb=Sing">vomeris</w>
+    <w ref="4.1273" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="4.1273" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
+    <w ref="4.1273" lemma="auerto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">avertit</w>
+    <w ref="4.1273" lemma="semen1" pos="NOMcom" msd="Case=Gen|Numb=Sing">seminis</w>
+    <w ref="4.1273" lemma="ictus" pos="NOMcom" msd="Case=Acc|Numb=Sing">ictum</w>
+    <w ref="4.1273" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

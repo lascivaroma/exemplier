@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:208" ana="#acte #oral">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>12.71.1-12.71.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.71.1-12.71.2" type="line">
+    <w ref="12.71.2" lemma="at2" pos="CONcoo" msd="MORPH=empty">At</w>
+    <w ref="12.71.2" lemma="quondam" pos="ADV" msd="Deg=Pos">quondam</w>
+    <w ref="12.71.2" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="12.71.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.71.2" lemma="Lygdus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Lygde</w>
+    <w ref="12.71.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #oral" ref="12.71.2" lemma="nihil" pos="PROind" msd="Case=Ind">nil</w>
+    <w ana="#acte #oral" ref="12.71.2" lemma="nego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2">negabas</w>
+    <w ref="12.71.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

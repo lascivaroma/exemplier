@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:193" ana="#acte #metonymie #movement">
+  <bibl ref="#adams"><author>Apuleius</author>, <title>Metamorphoses</title>, <biblscope>9.5-9.5</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:9.5-9.5" type="chapter">
+    <w ref="9.5" lemma="quanto2" pos="ADVint" msd="MORPH=empty">Quanto</w>
+    <w ref="9.5" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="9.5" lemma="felix" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">felicior</w>
+    <w ref="9.5" lemma="Daphnis" pos="NOMpro" msd="Case=Abl|Numb=Sing">Daphne</w>
+    <w ref="9.5" lemma="uicinus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">vicina</w>
+    <w ref="9.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.5" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="9.5" lemma="merus" pos="NOMcom" msd="Case=Abl|Numb=Sing">mero</w>
+    <w ref="9.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.5" lemma="prandium" pos="NOMcom" msd="Case=Abl|Numb=Sing">prandio</w>
+    <w ref="9.5" lemma="matutinus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">matutino</w>
+    <w ref="9.5" lemma="saucius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">saucia</w>
+    <w ref="9.5" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="9.5" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Plur|Gend=Com">suis</w>
+    <w ref="9.5" lemma="adulter1" pos="NOMcom" msd="Case=Abl|Numb=Plur">adulteris</w>
+    <w ana="#acte #metonymie #movement" ref="9.5" lemma="uoluto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">volutatur</w>
+    <w ref="9.5" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

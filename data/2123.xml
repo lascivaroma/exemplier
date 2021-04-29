@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Aulularia</title>, <biblscope>794-795</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VII.1.1670.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi003.perseus-lat2:794-795" type="line">
+    <w ref="794" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="794" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ana="#acte #metonymie #violence" ref="794" lemma="iniuria" pos="NOMcom" msd="Case=Acc|Numb=Sing">iniuriam</w>
+    <w ref="794" lemma="facio" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">fecisse</w>
+    <w ref="794" lemma="filia" pos="NOMcom" msd="Case=Dat|Numb=Sing">filiae</w>
+    <w ref="794" lemma="fateor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">fateor</w>
+    <w ref="794" lemma="tuus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=Fem">tuae</w>
+    <w ref="794" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="795" lemma="Ceres" pos="NOMpro" msd="Case=Gen|Numb=Sing">Cereris</w>
+    <w ref="795" lemma="uigilia" pos="NOMcom" msd="Case=Abl|Numb=Plur">vigiliis</w>
+    <w ref="795" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="795" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="795" lemma="uinum" pos="NOMcom" msd="Case=Acc|Numb=Sing">vinum</w>
+    <w ref="795" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="795" lemma="impulsus" pos="NOMcom" msd="Case=Abl|Numb=Sing">impulsu</w>
+    <w ref="795" lemma="adolescentia" pos="NOMcom" msd="Case=Gen|Numb=Sing">adulescentiae</w>
+    <w ref="795" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

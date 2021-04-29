@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>70.5-70.8</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.5-70.8" type="line">
+    <w ref="70.7" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="70.7" lemma="libamen" pos="NOMcom" msd="Case=Abl|Numb=Sing">libamine</w>
+    <w ana="#mentula" ref="70.7" lemma="mentula" pos="NOMcom" msd="Case=Gen|Numb=Sing">mentulae</w>
+    <w ref="70.7" lemma="comedo2" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Ind|Tense=Pres|Voice=Act">comeso</w>
+    <w ref="70.8" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">tota</w>
+    <w ref="70.8" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
+    <w ref="70.8" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="70.8" lemma="lito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">litat</w>
+    <w ref="70.8" lemma="rigeo" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">rigendo</w>
+    <w ref="70.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

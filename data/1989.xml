@@ -1,0 +1,21 @@
+<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences">
+  <bibl ref="#adams"><author>Quintilian</author>, <title>Institutio Oratoria</title>, <biblscope>6.3.75-6.3.75</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1002.phi001.perseus-lat2:6.3.75-6.3.75" type="section">
+    <w ref="6.3.75" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="6.3.75" lemma="Cicero" pos="NOMpro" msd="Case=Nom|Numb=Sing">Cicero</w>
+    <w ref="6.3.75" lemma="obiurgo" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">obiurgantibus</w>
+    <w ref="6.3.75" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.3.75" lemma="quod2" pos="CONsub" msd="Case=Acc">quod</w>
+    <w ref="6.3.75" lemma="sexagenarius" pos="NOMcom" msd="Case=Nom|Numb=Sing">sexagenarius</w>
+    <w ref="6.3.75" lemma="Publilia" pos="ADJqua" msd="Case=Acc|Numb=Sing">Publiliam</w>
+    <w ref="6.3.75" lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Sing">virginem</w>
+    <w ref="6.3.75" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">duxisset</w>
+    <w ref="6.3.75" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.3.75" lemma="cras2" pos="ADV" msd="Deg=Pos">cras</w>
+    <w ana="#acte #metonymie #consequences" ref="6.3.75" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>
+    <w ref="6.3.75" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
+    <w ref="6.3.75" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.3.75" lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inquit</w>
+    <w ref="6.3.75" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

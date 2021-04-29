@@ -1,0 +1,13 @@
+<div type="fragment" corresp="adams:206" ana="#acte #animals #salio">
+  <bibl ref="#adams"><author>Columella, Lucius Junius Moderatus</author>, <title>Res Rustica</title>, <biblscope>8.2.9-8.2.9</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:8.2.9-8.2.9" type="section">
+    <w ref="8.2.9" lemma="gallinaceus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">Gallinaceos</w>
+    <w ref="8.2.9" lemma="mas" pos="NOMcom" msd="Case=Acc|Numb=Plur">mares</w>
+    <w ref="8.2.9" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ana="#acte #animals #salio" ref="8.2.9" lemma="salax" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Sup">salacissimos</w>
+    <w ref="8.2.9" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
+    <w ref="8.2.9" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="8.2.9" lemma="expedio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">expedit</w>
+    <w ref="8.2.9" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

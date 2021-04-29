@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:206" ana="#acte #animals #salio #femme">
+  <bibl ref="#adams"><author>Varro, Marcus Terentius</author>, <title>Rerum rusticarum</title>, <biblscope>2.4.7-2.4.7</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0684.phi002.ogl-lat1:2.4.7-2.4.7" type="section">
+    <w ref="2.4.7" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="2.4.7" lemma="paruus2" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Comp">minores</w>
+    <w ana="#acte #animals #salio #femme" ref="2.4.7" lemma="admitto" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Adj|Voice=Pass">admittendae</w>
+    <w ref="2.4.7" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="2.4.7" lemma="anniculus" pos="NOMcom" msd="Case=Nom|Numb=Plur|Deg=Pos">anniculae</w>
+    <w ref="2.4.7" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.4.7" lemma="bene" pos="ADV" msd="Deg=Comp">melius</w>
+    <w ref="2.4.7" lemma="uiginti" pos="ADJcar" msd="Case=Ind">viginti</w>
+    <w ref="2.4.7" lemma="mensis" pos="NOMcom" msd="Case=Nom|Numb=Plur">menses</w>
+    <w ref="2.4.7" lemma="exspecto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">expectare</w>
+    <w ref="2.4.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.4.7" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="2.4.7" lemma="bimus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">bimae</w>
+    <w ref="2.4.7" lemma="pario2" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">pariant</w>
+    <w ref="2.4.7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

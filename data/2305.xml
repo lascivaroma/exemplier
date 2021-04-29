@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:12" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>7.82.3-7.82.6</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:7.82.3-7.82.6" type="line">
+    <w ref="7.82.6" lemma="delabor2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">Delapsa</w>
+    <w ref="7.82.6" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.82.6" lemma="miser" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Deg=Pos">misero</w>
+    <w ref="7.82.6" lemma="fibula" pos="NOMcom" msd="Case=Nom|Numb=Sing">fibula</w>
+    <w ref="7.82.6" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ana="#mentula" ref="7.82.6" lemma="uerpus" pos="NOMcom" msd="Case=Nom|Numb=Sing">verpus</w>
+    <w ref="7.82.6" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
+    <w ref="7.82.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

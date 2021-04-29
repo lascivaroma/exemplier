@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:14" ana="#mentula #metaphore #pointu">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.51.1-11.51.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.51.1-11.51.2" type="line">
+    <w ref="11.51.1" lemma="tantus" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">Tanta</w>
+    <w ref="11.51.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="11.51.1" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="11.51.1" lemma="Titius" pos="NOMpro" msd="Case=Dat|Numb=Sing">Titio</w>
+    <w ana="#mentula #metaphore #pointu" ref="11.51.1" lemma="columna" pos="NOMcom" msd="Case=Nom|Numb=Sing">columna</w>
+    <w ref="11.51.1" lemma="pendeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pendet</w>
+    <w ref="11.51.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.51.2" lemma="quantus1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">Quantam</w>
+    <w ref="11.51.2" lemma="Lampsacia" pos="ADJqua" msd="Case=Dat|Numb=Plur|Deg=Pos">Lampsaciae</w>
+    <w ref="11.51.2" lemma="colo2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">colunt</w>
+    <w ref="11.51.2" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Plur">puellae</w>
+    <w ref="11.51.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

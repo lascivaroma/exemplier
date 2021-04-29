@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:206" ana="#acte #animals #salio #femme">
+  <bibl ref="#adams"><author>Varro, Marcus Terentius</author>, <title>Rerum rusticarum</title>, <biblscope>2.2.14-2.2.14</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0684.phi002.ogl-lat1:2.2.14-2.2.14" type="section">
+    <w ref="2.2.14" lemma="quam2" pos="ADVint" msd="MORPH=empty">quam</w>
+    <w ref="2.2.14" lemma="diu" pos="ADV" msd="Deg=Pos">diu</w>
+    <w ana="#acte #animals #salio #femme" ref="2.2.14" lemma="admitto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">admissura</w>
+    <w ref="2.2.14" lemma="fio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fit</w>
+    <w ref="2.2.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.2.14" lemma="idem" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">eadem</w>
+    <w ref="2.2.14" lemma="aqua" pos="NOMcom" msd="Case=Nom|Numb=Sing">aqua</w>
+    <w ref="2.2.14" lemma="utor" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">uti</w>
+    <w ref="2.2.14" lemma="oportet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">oportet</w>
+    <w ref="2.2.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.2.14" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="2.2.14" lemma="commutatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">commutatio</w>
+    <w ref="2.2.14" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.2.14" lemma="lana" pos="NOMcom" msd="Case=Acc|Numb=Sing">lanam</w>
+    <w ref="2.2.14" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
+    <w ref="2.2.14" lemma="uarius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">variam</w>
+    <w ref="2.2.14" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.2.14" lemma="corrumpo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">corrumpit</w>
+    <w ref="2.2.14" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ref="2.2.14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

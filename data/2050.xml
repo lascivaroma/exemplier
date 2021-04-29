@@ -1,0 +1,26 @@
+<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>Phormio</title>, <biblscope>413-414</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL I.241.68ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi004.perseus-lat2:413-414" type="line">
+    <w ref="413" lemma="ita" pos="ADV" msd="Deg=Pos">Itane</w>
+    <w ref="413" lemma="ne2" pos="ADV" msd="MORPH=empty">{Itane}</w>
+    <w ref="413" lemma="tandem" pos="ADV" msd="Deg=Pos">tandem</w>
+    <w ref="413" lemma="quaeso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">quæso</w>
+    <w ref="413" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="413" lemma="item" pos="ADV" msd="Deg=Pos">item</w>
+    <w ref="413" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="413" lemma="meretrix" pos="NOMcom" msd="Case=Acc|Numb=Sing">meretricem</w>
+    <w ref="413" lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
+    <w ana="#acte #metonymie #pleasure" ref="413" lemma="abutor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">abusus</w>
+    <w ref="413" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">sis</w>
+    <w ref="413" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="414" lemma="merces" pos="NOMcom" msd="Case=Acc|Numb=Sing">Mercedem</w>
+    <w ref="414" lemma="do" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dare</w>
+    <w ref="414" lemma="lex" pos="NOMcom" msd="Case=Nom|Numb=Sing">lex</w>
+    <w ref="414" lemma="iubeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iubet</w>
+    <w ref="414" lemma="is" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">ei</w>
+    <w ref="414" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="414" lemma="amitto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">amittere</w>
+    <w ref="414" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

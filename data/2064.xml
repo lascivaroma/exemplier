@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Varro, Marcus Terentius</author>, <title>De Lingua Latina</title>, <biblscope>6.80-6.80</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0684.phi001.remacle-lat1:6.80-6.80" type="chapter">
+    <w ref="6.80" lemma="ab" pos="PRE" msd="MORPH=empty">A</w>
+    <w ref="6.80" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ref="6.80" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ana="#acte #metonymie #violence" ref="6.80" lemma="uiolo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">violavit</w>
+    <w ref="6.80" lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Sing">virginem</w>
+    <w ref="6.80" lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>
+    <w ref="6.80" lemma="uitio1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">vitiavit</w>
+    <w ref="6.80" lemma="dico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3">dicebant</w>
+  </quote>
+</div>

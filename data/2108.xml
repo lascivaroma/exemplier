@@ -1,0 +1,23 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Suetonius ca. 69-ca. 122</author>, <title>Divus Julius</title>, <biblscope>50-50</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo011.perseus-lat2:50-50" type="unknown">
+    <w ref="50" lemma="pronus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">pronum</w>
+    <w ref="50" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="50" lemma="sumptuosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">sumptuosum</w>
+    <w ref="50" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="50" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Plur">libidines</w>
+    <w ref="50" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">fuisse</w>
+    <w ref="50" lemma="constans" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">constans</w>
+    <w ref="50" lemma="opinio" pos="NOMcom" msd="Case=Nom|Numb=Sing">opinio</w>
+    <w ref="50" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="50" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="50" lemma="multus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Sup">plurimasque</w>
+    <w ref="50" lemma="que" pos="CON" msd="MORPH=empty">{plurimasque}</w>
+    <w ref="50" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="50" lemma="illustris" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">illustres</w>
+    <w ref="50" lemma="femina" pos="NOMcom" msd="Case=Acc|Numb=Plur">feminas</w>
+    <w ana="#acte #metonymie #violence" ref="50" lemma="corrumpo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">corrupisse</w>
+    <w ref="50" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

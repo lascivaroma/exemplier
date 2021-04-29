@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Corpus Tibullianum</author>, <title>Elegiae</title>, <biblscope>2.1.11-2.1.12</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0660.phi001.perseus-lat2:2.1.11-2.1.12" type="line">
+    <w ref="2.1.11" lemma="uos" pos="PROper" msd="Case=Voc|Numb=Plur">uos</w>
+    <w ref="2.1.11" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="2.1.11" lemma="absum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">abesse</w>
+    <w ref="2.1.11" lemma="procul" pos="ADV" msd="Deg=Pos">procul</w>
+    <w ref="2.1.11" lemma="iubeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">iubeo</w>
+    <w ref="2.1.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.1.11" lemma="discedo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">discedat</w>
+    <w ref="2.1.11" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="2.1.11" lemma="ara" pos="NOMcom" msd="Case=Abl|Numb=Plur">aris</w>
+    <w ref="2.1.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.1.12" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
+    <w ref="2.1.12" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tulit</w>
+    <w ref="2.1.12" lemma="hesternus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">hesterna</w>
+    <w ana="#acte #metonymie #pleasure" ref="2.1.12" lemma="gaudium" pos="NOMcom" msd="Case=Acc|Numb=Plur">gaudia</w>
+    <w ref="2.1.12" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
+    <w ref="2.1.12" lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Venus</w>
+    <w ref="2.1.12" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:14" ana="#mentula #metaphore #pointu #armes">
+  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>130-130</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:130-130" type="section">
+    <w ref="130" lemma="paratus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Paratus</w>
+    <w ref="130" lemma="miles" pos="NOMcom" msd="Case=Nom|Numb=Sing">miles</w>
+    <w ana="#mentula #metaphore #pointu #armes" ref="130" lemma="arma" pos="NOMcom" msd="Case=Acc|Numb=Plur">arma</w>
+    <w ref="130" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="130" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">habui</w>
+    <w ref="130" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

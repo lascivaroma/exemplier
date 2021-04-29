@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:200" ana="#acte #metonymie #insulter">
+  <bibl ref="#adams"><author>Suetonius ca. 69-ca. 122</author>, <title>Tiberius</title>, <biblscope>45-45</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo013.perseus-lat2:45-45" type="chapter">
+    <w ref="45" lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Plur">feminarum</w>
+    <w ref="45" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="45" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="45" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="45" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ref="45" lemma="illustris" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos">illustrium</w>
+    <w ref="45" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="45" lemma="caput" pos="NOMcom" msd="Case=Abl|Numb=Plur">capitibus</w>
+    <w ref="45" lemma="quantus1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quanto</w>
+    <w ref="45" lemma="opus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">opere</w>
+    <w ref="45" lemma="soleo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=SemDep">solitus</w>
+    <w ref="45" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ana="#acte #metonymie #insulter" ref="45" lemma="illudo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">inludere</w>
+  </quote>
+</div>

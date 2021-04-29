@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:208" ana="#acte #masturbor">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Art of Love</title>, <biblscope>2.705-2.706</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:2.705-2.706" type="line">
+    <w ref="2.706" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ana="#acte #masturbor" ref="2.706" lemma="manus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">manus</w>
+    <w ref="2.706" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.706" lemma="lectus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">lecto</w>
+    <w ref="2.706" lemma="laeuus" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Fem">laeva</w>
+    <w ref="2.706" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">iacebit</w>
+    <w ref="2.706" lemma="iners" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">iners</w>
+    <w ref="2.706" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>3.76.3-3.76.3</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:3.76.3-3.76.3" type="line">
+    <w ref="3.76.3" lemma="hic2" pos="ADV" msd="Deg=Pos">Hic</w>
+    <w ref="3.76.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.76.3" lemma="rogo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">rogo</w>
+    <w ref="3.76.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.76.3" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="3.76.3" lemma="furor1" pos="NOMcom" msd="Case=Nom|Numb=Sing">furor</w>
+    <w ref="3.76.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="3.76.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.76.3" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="3.76.3" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">haec</w>
+    <w ref="3.76.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ana="#mentula" ref="3.76.3" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="3.76.3" lemma="demens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">demens</w>
+    <w ref="3.76.3" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

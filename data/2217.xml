@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:205" ana="#acte #euphemism #ellipse #actus">
+  <bibl ref="#adams"><author>Ambrose, Saint, Bishop of Milan</author>, <title>De lapsus virginis</title>, <biblscope>6.22-6.22</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0022.stoa036.corpuscorporum-lat1:6.22-6.22" type="chapter">
+    <w ref="6.22" lemma="quomodo2" pos="ADVint" msd="MORPH=empty">Quomodo</w>
+    <w ref="6.22" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="6.22" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#acte #euphemism #ellipse #actus" ref="6.22" lemma="actus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">actu</w>
+    <w ref="6.22" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">illo</w>
+    <w ref="6.22" lemma="ignominiosus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">ignominioso</w>
+    <w ref="6.22" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="6.22" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">veniebat</w>
+    <w ref="6.22" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="6.22" lemma="mens" pos="NOMcom" msd="Case=Acc|Numb=Sing">mentem</w>
+    <w ref="6.22" lemma="habitus?" pos="VER" msd="Case=Nom|Numb=Sing">habitus</w>
+    <w ref="6.22" lemma="uirginalis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">virginalis</w>
+    <w ref="6.22" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.22" lemma="procedo1" pos="NOMcom" msd="Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">processus</w>
+    <w ref="6.22" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="6.22" lemma="Ecclesia" pos="NOMpro" msd="Case=Acc|Numb=Sing">Ecclesiam</w>
+    <w ref="6.22" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="6.22" lemma="uirgineus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">virgineos</w>
+    <w ref="6.22" lemma="chorus" pos="NOMcom" msd="Case=Acc|Numb=Plur">choros</w>
+    <w ref="6.22" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

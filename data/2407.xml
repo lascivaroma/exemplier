@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:19" ana="#mentula #metaphore #pointu #armes">
+  <bibl ref="#adams"><author>Ausonius, Decimus Magnus</author>, <title>Cento Nuptialis</title>, <biblscope>115-117</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:115-117" type="line">
+    <w ref="115" lemma="huc" pos="ADV" msd="Deg=Pos">huc</w>
+    <w ref="115" lemma="iuuenis1" pos="NOMcom" msd="Case=Nom|Numb=Sing">iuvenis</w>
+    <w ref="115" lemma="notus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">nota</w>
+    <w ref="115" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">fertur</w>
+    <w ref="115" lemma="regio" pos="NOMcom" msd="Case=Abl|Numb=Sing">regione</w>
+    <w ref="115" lemma="uia" pos="NOMcom" msd="Case=Gen|Numb=Plur">viarum</w>
+    <w ref="116" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="116" lemma="super1" pos="ADV" msd="Deg=Pos">super</w>
+    <w ref="116" lemma="incumbo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">incumbens</w>
+    <w ref="116" lemma="nodus" pos="NOMcom" msd="Case=Abl|Numb=Plur">nodis</w>
+    <w ref="116" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="116" lemma="cortex" pos="NOMcom" msd="Case=Abl|Numb=Sing">cortice</w>
+    <w ref="116" lemma="crudus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">crudo</w>
+    <w ref="117" lemma="intorqueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">intorquet</w>
+    <w ref="117" lemma="superus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Sup">summis</w>
+    <w ref="117" lemma="annitor2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">adnixus</w>
+    <w ref="117" lemma="uis" pos="NOMcom" msd="Case=Abl|Numb=Plur">viribus</w>
+    <w ana="#mentula #metaphore #pointu #armes" ref="117" lemma="hasta" pos="NOMcom" msd="Case=Acc|Numb=Sing">hastam</w>
+    <w ref="117" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

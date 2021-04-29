@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>2.45.1-2.45.1</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:2.45.1-2.45.1" type="line">
+    <w ref="2.45.1" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">Quae</w>
+    <w ref="2.45.1" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="2.45.1" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="2.45.1" lemma="sto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">stabat</w>
+    <w ref="2.45.1" lemma="praecido2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">praecisa</w>
+    <w ref="2.45.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ana="#mentula" ref="2.45.1" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="2.45.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.45.1" lemma="Glypta" pos="NOMpro" msd="Case=Nom|Numb=Sing">Glypte</w>
+    <w ref="2.45.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,9 @@
+<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences">
+  <bibl ref="#adams"><author>Nonius Marcellus</author>, <title>De compendiosa doctrina libri XX</title>, <biblscope>II.m.39-II.m.39</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0213a.stoa001.digilibLT-lat1:II.m.39-II.m.39" type="section">
+    <w ref="II.m.39" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
+    <w ref="II.m.39" lemma="ephebus" pos="NOMcom" msd="Case=Acc|Numb=Sing">ephebum</w>
+    <w ana="#acte #metonymie #consequences" ref="II.m.39" lemma="muliero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">mulieravit</w>
+    <w ref="II.m.39" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+  </quote>
+</div>

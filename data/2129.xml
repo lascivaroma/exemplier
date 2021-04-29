@@ -1,0 +1,27 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Titus Livius (Livy)</author>, <title>Ab urbe condita</title>, <biblscope>3.48.3-3.48.3</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VII.1.1670.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0914.phi001.perseus-lat2:3.48.3-3.48.3" type="section">
+    <w ref="3.48.3" lemma="”" pos="PUNC" msd="MORPH=empty">”</w>
+    <w ref="3.48.3" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="3.48.3" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">haec</w>
+    <w ref="3.48.3" lemma="intono" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">intonuisset</w>
+    <w ref="3.48.3" lemma="plenus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">plenus</w>
+    <w ref="3.48.3" lemma="ira" pos="NOMcom" msd="Case=Gen|Numb=Sing">irae</w>
+    <w ref="3.48.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.48.3" lemma="multitudo" pos="NOMcom" msd="Case=Nom|Numb=Sing">multitudo</w>
+    <w ref="3.48.3" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ref="3.48.3" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="3.48.3" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=Fem">sua</w>
+    <w ref="3.48.3" lemma="sponte" pos="NOMcom" msd="Case=Abl|Numb=Sing">sponte</w>
+    <w ref="3.48.3" lemma="dimoueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">dimovit</w>
+    <w ref="3.48.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.48.3" lemma="desero" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">desertaque</w>
+    <w ref="3.48.3" lemma="que" pos="CON" msd="MORPH=empty">{desertaque}</w>
+    <w ref="3.48.3" lemma="praeda" pos="NOMcom" msd="Case=Abl|Numb=Sing">praeda</w>
+    <w ana="#acte #metonymie #violence" ref="3.48.3" lemma="iniuria" pos="NOMcom" msd="Case=Gen|Numb=Sing">iniuriae</w>
+    <w ref="3.48.3" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
+    <w ref="3.48.3" lemma="sto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">stabat</w>
+    <w ref="3.48.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

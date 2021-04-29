@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>79.3-79.4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:79.3-79.4" type="line">
+    <w ref="79.3" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="79.3" lemma="miser" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">miserum</w>
+    <w ref="79.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="79.3" lemma="cupidus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">cupidas</w>
+    <w ref="79.3" lemma="fallo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fallit</w>
+    <w ref="79.3" lemma="mensura" pos="NOMcom" msd="Case=Nom|Numb=Sing">mensura</w>
+    <w ref="79.3" lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Plur">puellas</w>
+    <w ref="79.3" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="79.4" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="79.4" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habet</w>
+    <w ref="79.4" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Fem">haec</w>
+    <w ref="79.4" lemma="aliquis" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">aliquid</w>
+    <w ana="#mentula" ref="79.4" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="79.4" lemma="magnus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp">maius</w>
+    <w ref="79.4" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">ero</w>
+    <w ref="79.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #concomitant">
+  <bibl ref="#adams"><author>Juvenal</author>, <title>Satires</title>, <biblscope>6.21-6.22</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.21-6.22" type="line">
+    <w ref="6.21" lemma="antiquus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">Anticum</w>
+    <w ref="6.21" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.21" lemma="uetus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">vetus</w>
+    <w ref="6.21" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="6.21" lemma="alienus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">alienum</w>
+    <w ref="6.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.21" lemma="Postumus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Postume</w>
+    <w ref="6.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #concomitant" ref="6.21" lemma="lectus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">lectum</w>
+    <w ref="6.22" lemma="concutio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">concutere</w>
+  </quote>
+</div>

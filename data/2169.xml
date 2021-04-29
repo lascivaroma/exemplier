@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:200" ana="#acte #metonymie #harass">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>8.46.7-8.46.8</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:8.46.7-8.46.8" type="line">
+    <w ref="8.46.7" lemma="felix" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">Felix</w>
+    <w ref="8.46.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8.46.7" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="8.46.7" lemma="tener" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">tenerum</w>
+    <w ana="#acte #metonymie #harass" ref="8.46.7" lemma="uexo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">vexabit</w>
+    <w ref="8.46.7" lemma="sponsa" pos="NOMcom" msd="Case=Nom|Numb=Sing">sponsa</w>
+    <w ref="8.46.7" lemma="maritus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">maritum</w>
+    <w ref="8.46.8" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="8.46.8" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="8.46.8" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="8.46.8" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">faciet</w>
+    <w ref="8.46.8" lemma="primus" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Sup">prima</w>
+    <w ref="8.46.8" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
+    <w ref="8.46.8" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Sing">virum</w>
+    <w ref="8.46.8" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

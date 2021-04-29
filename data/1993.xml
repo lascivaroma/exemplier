@@ -1,0 +1,46 @@
+<div type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences">
+  <bibl ref="#adams"><author>Cicero</author>, <title>Against Verres</title>, <biblscope>2.1.9-2.1.9</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi005.perseus-lat2:2.1.9-2.1.9" type="section">
+    <w ref="2.1.9" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="2.1.9" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="2.1.9" lemma="fur" pos="NOMcom" msd="Case=Acc|Numb=Sing">furem</w>
+    <w ref="2.1.9" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="2.1.9" lemma="ereptor" pos="NOMcom" msd="Case=Acc|Numb=Sing">ereptorem</w>
+    <w ref="2.1.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.1.9" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="2.1.9" lemma="adulter1" pos="NOMcom" msd="Case=Acc|Numb=Sing">adulterum</w>
+    <w ref="2.1.9" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ana="#acte #metonymie #consequences" ref="2.1.9" lemma="expugnator" pos="NOMcom" msd="Case=Acc|Numb=Sing">expugnatorem</w>
+    <w ana="#acte #metonymie #consequences" ref="2.1.9" lemma="pudicitia" pos="NOMcom" msd="Case=Gen|Numb=Sing">pudicitiae</w>
+    <w ref="2.1.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.1.9" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="2.1.9" lemma="sacrilegus1" pos="NOMcom" msd="Case=Acc|Numb=Sing|Deg=Pos">sacrilegum</w>
+    <w ref="2.1.9" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="2.1.9" lemma="hostis" pos="NOMcom" msd="Case=Acc|Numb=Sing">hostem</w>
+    <w ref="2.1.9" lemma="sacrum" pos="NOMcom" msd="Case=Gen|Numb=Plur">sacrorum</w>
+    <w ref="2.1.9" lemma="religio" pos="NOMcom" msd="Case=Gen|Numb=Plur">religionumque</w>
+    <w ref="2.1.9" lemma="que" pos="CON" msd="MORPH=empty">{religionumque}</w>
+    <w ref="2.1.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.1.9" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="2.1.9" lemma="sicarius" pos="NOMcom" msd="Case=Acc|Numb=Sing">sicarium</w>
+    <w ref="2.1.9" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="2.1.9" lemma="crudelis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Sup">crudelissimum</w>
+    <w ref="2.1.9" lemma="carnifex" pos="NOMcom" msd="Case=Acc|Numb=Sing">carnificem</w>
+    <w ref="2.1.9" lemma="ciuis" pos="NOMcom" msd="Case=Gen|Numb=Plur">civium</w>
+    <w ref="2.1.9" lemma="socius" pos="NOMcom" msd="Case=Gen|Numb=Plur">sociorumque</w>
+    <w ref="2.1.9" lemma="que" pos="CON" msd="MORPH=empty">{sociorumque}</w>
+    <w ref="2.1.9" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.1.9" lemma="uester" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=MascNeut">vestrum</w>
+    <w ref="2.1.9" lemma="iudicium" pos="NOMcom" msd="Case=Acc|Numb=Sing">iudicium</w>
+    <w ref="2.1.9" lemma="adduco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1">adduximus</w>
+    <w ref="2.1.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.1.9" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="2.1.9" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="2.1.9" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">hunc</w>
+    <w ref="2.1.9" lemma="unus" pos="ADJcar" msd="Case=Acc|Numb=Sing|Gend=MascNeut">unum</w>
+    <w ref="2.1.9" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="2.1.9" lemma="modus" pos="NOMcom" msd="Case=Gen|Numb=Sing">modi</w>
+    <w ref="2.1.9" lemma="reus" pos="NOMcom" msd="Case=Acc|Numb=Sing">reum</w>
+    <w ref="2.1.9" lemma="post2" pos="PRE" msd="MORPH=empty">post</w>
+  </quote>
+</div>

@@ -1,0 +1,48 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Augustine</author>, <title>De civitate dei</title>, <biblscope>7.24-7.24</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.630.82ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0040.stoa003.opp-lat3:7.24-7.24" type="chapter">
+    <w ref="7.24" lemma="sicut1" pos="ADVrel" msd="MORPH=empty">sicut</w>
+    <w ref="7.24" lemma="aliquando" pos="ADV" msd="Deg=Pos">aliquando</w>
+    <w ref="7.24" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="7.24" lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Fem">ipsas</w>
+    <w ref="7.24" lemma="uilis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Sup">uilissimas</w>
+    <w ref="7.24" lemma="femina" pos="NOMcom" msd="Case=Acc|Numb=Plur">feminas</w>
+    <w ref="7.24" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=Fem">earum</w>
+    <w ref="7.24" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.24" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">quas</w>
+    <w ref="7.24" lemma="libido" pos="NOMcom" msd="Case=Abl|Numb=Sing">libidine</w>
+    <w ref="7.24" lemma="quaero" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">quaesierunt</w>
+    <w ref="7.24" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.24" lemma="taedet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">taedet</w>
+    <w ref="7.24" lemma="paeniteo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">paenitetque</w>
+    <w ref="7.24" lemma="que" pos="CON" msd="MORPH=empty">{paenitetque}</w>
+    <w ref="7.24" lemma="turba" pos="NOMcom" msd="Case=Gen|Numb=Plur">turbarum</w>
+    <w ref="7.24" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="7.24" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+    <w ref="7.24" lemma="anima" pos="NOMcom" msd="Case=Acc|Numb=Sing">animam</w>
+    <w ref="7.24" lemma="uilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">uilem</w>
+    <w ref="7.24" lemma="facio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">factam</w>
+    <w ref="7.24" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="7.24" lemma="immundus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">inmundis</w>
+    <w ref="7.24" lemma="spiritus" pos="NOMcom" msd="Case=Abl|Numb=Plur">spiritibus</w>
+    <w ref="7.24" lemma="prostituo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">prostitutam</w>
+    <w ref="7.24" lemma="deus" pos="NOMcom" msd="Case=Acc|Numb=Plur">deos</w>
+    <w ref="7.24" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="7.24" lemma="multiplico" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">multiplicare</w>
+    <w ref="7.24" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.24" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Plur|Gend=Com">quibus</w>
+    <w ana="#acte #metonymie #violence" ref="7.24" lemma="contamino" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">contaminanda</w>
+    <w ref="7.24" lemma="prosterno" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">prosterneretur</w>
+    <w ref="7.24" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.24" lemma="sicut1" pos="ADVrel" msd="MORPH=empty">sicut</w>
+    <w ref="7.24" lemma="multum2" pos="ADV" msd="Deg=Sup">plurimum</w>
+    <w ref="7.24" lemma="libet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">libuit</w>
+    <w ref="7.24" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.24" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+    <w ref="7.24" lemma="aliquando" pos="ADV" msd="Deg=Pos">aliquando</w>
+    <w ref="7.24" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="7.24" lemma="piget" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">piguit</w>
+    <w ref="7.24" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:14" ana="#mentula #metaphore #pointu #armes">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>1.9.25-1.9.26</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.9.25-1.9.26" type="line">
+    <w ref="1.9.25" lemma="nempe" pos="ADV" msd="Deg=Pos">Nempe</w>
+    <w ref="1.9.25" lemma="maritus1" pos="NOMcom" msd="Case=Gen|Numb=Plur">maritorum</w>
+    <w ref="1.9.25" lemma="somnus" pos="NOMcom" msd="Case=Abl|Numb=Plur">somnis</w>
+    <w ref="1.9.25" lemma="utor" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">utuntur</w>
+    <w ref="1.9.25" lemma="amans1" pos="NOMcom" msd="Case=Nom|Numb=Plur">amantes</w>
+    <w ref="1.9.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.9.26" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="1.9.26" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Plur|Gend=Neut">sua</w>
+    <w ref="1.9.26" lemma="sopio" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">sopitis</w>
+    <w ref="1.9.26" lemma="hostis" pos="NOMcom" msd="Case=Abl|Numb=Plur">hostibus</w>
+    <w ana="#mentula #metaphore #pointu #armes" ref="1.9.26" lemma="arma" pos="NOMcom" msd="Case=Acc|Numb=Plur">arma</w>
+    <w ref="1.9.26" lemma="moueo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">movent</w>
+    <w ref="1.9.26" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

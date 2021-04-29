@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:206" ana="#acte #animals #salio #femme">
+  <bibl ref="#adams"><author>Columella, Lucius Junius Moderatus</author>, <title>Res Rustica</title>, <biblscope>8.11.5-8.11.5</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:8.11.5-8.11.5" type="section">
+    <w ref="8.11.5" lemma="masculus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Masculus</w>
+    <w ref="8.11.5" lemma="pauus" pos="NOMcom" msd="Case=Dat|Numb=Sing">pavo</w>
+    <w ref="8.11.5" lemma="gallinaceus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">gallinaceam</w>
+    <w ana="#acte #animals #salio #femme" ref="8.11.5" lemma="salacitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">salacitatem</w>
+    <w ref="8.11.5" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habet</w>
+    <w ref="8.11.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8.11.5" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="8.11.5" lemma="ideo" pos="ADV" msd="Deg=Pos">ideo</w>
+    <w ref="8.11.5" lemma="quinque" pos="ADJcar" msd="Case=Ind">quinque</w>
+    <w ref="8.11.5" lemma="femina" pos="NOMcom" msd="Case=Acc|Numb=Plur">feminas</w>
+    <w ref="8.11.5" lemma="desidero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">desiderat</w>
+    <w ref="8.11.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

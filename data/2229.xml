@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:206" ana="#acte #animals #salio">
+  <bibl ref="#adams"><author>Varro, Marcus Terentius</author>, <title>Rerum rusticarum</title>, <biblscope>3.9.5-3.9.5</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0684.phi002.thayer-lat1:3.9.5-3.9.5" type="section">
+    <w ref="3.9.5" lemma="Galli" pos="NOMpro" msd="Case=Acc|Numb=Plur">Gallos</w>
+    <w ana="#acte #animals #salio" ref="3.9.5" lemma="salax" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">salaces</w>
+    <w ref="3.9.5" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+    <w ref="3.9.5" lemma="animaduerto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">animadvertunt</w>
+    <w ref="3.9.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.9.5" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="3.9.5" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="3.9.5" lemma="lacertosus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">lacertosi</w>
+  </quote>
+</div>

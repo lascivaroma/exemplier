@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:206" ana="#acte #animals #salio">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Book of Days</title>, <biblscope>4.771-4.772</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi007.perseus-lat2:4.771-4.772" type="line">
+    <w ref="4.771" lemma="sum" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sitque</w>
+    <w ref="4.771" lemma="que" pos="CON" msd="MORPH=empty">{sitque}</w>
+    <w ana="#acte #animals #salio" ref="4.771" lemma="salax" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">salax</w>
+    <w ref="4.771" lemma="aries" pos="NOMcom" msd="Case=Nom|Numb=Sing">aries</w>
+    <w ref="4.771" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.771" lemma="concipio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">conceptaque</w>
+    <w ref="4.771" lemma="que" pos="CON" msd="MORPH=empty">{conceptaque}</w>
+    <w ref="4.771" lemma="semen1" pos="NOMcom" msd="Case=Acc|Numb=Plur">semina</w>
+    <w ref="4.771" lemma="coniux" pos="NOMcom" msd="Case=Nom|Numb=Sing">coniunx</w>
+    <w ref="4.772" lemma="reddo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">reddat</w>
+  </quote>
+</div>

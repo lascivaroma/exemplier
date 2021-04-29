@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>7.6.16-7.6.16</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:7.6.16-7.6.16" type="section">
+    <w ref="7.6.16" lemma="Uarius" pos="NOMpro" msd="Case=Nom|Numb=Sing">VARIVS</w>
+    <w ref="7.6.16" lemma="Geminus" pos="NOMpro" msd="Case=Nom|Numb=Sing">GEMINVS</w>
+    <w ref="7.6.16" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="7.6.16" lemma="abstinentia" pos="NOMcom" msd="Case=Abl|Numb=Sing">abstinentia</w>
+    <w ref="7.6.16" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+    <w ref="7.6.16" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ana="#acte #metonymie #violence" ref="7.6.16" lemma="contamino" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">contaminare</w>
+    <w ref="7.6.16" lemma="domina" pos="NOMcom" msd="Case=Acc|Numb=Sing">dominam</w>
+    <w ref="7.6.16" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=Fem">suam</w>
+    <w ref="7.6.16" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="7.6.16" lemma="traho" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">trahere</w>
+    <w ref="7.6.16" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="7.6.16" lemma="cella" pos="NOMcom" msd="Case=Acc|Numb=Sing">cellam</w>
+    <w ref="7.6.16" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="7.6.16" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.6.16" lemma="audeo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=SemDep">ausus</w>
+    <w ref="7.6.16" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

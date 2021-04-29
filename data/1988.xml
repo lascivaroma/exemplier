@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences">
+  <bibl ref="#adams"><author>Vopiscus, Flavius fl. 3./4. Jh.</author>, <title>Firmus Saturninus, Proculus et Bonosus</title>, <biblscope>12-12</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi029.perseus-lat2:12-12" type="chapter">
+    <w ref="12" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="12" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=MascFem">omnes</w>
+    <w ref="12" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12" lemma="quod1" pos="PROrel" msd="Case=Nom|Gend=Neut">quod</w>
+    <w ref="12" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="12" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">me</w>
+    <w ref="12" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
+    <w ref="12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #consequences" ref="12" lemma="mulier" pos="NOMcom" msd="Case=Acc|Numb=Plur">mulieres</w>
+    <w ref="12" lemma="intra2" pos="PRE" msd="MORPH=empty">intra</w>
+    <w ref="12" lemma="dies" pos="NOMcom" msd="Case=Acc|Numb=Plur">dies</w>
+    <w ref="12" lemma="quindecim" pos="ADJcar" msd="Case=Ind">quindecim</w>
+    <w ref="12" lemma="reddo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">reddidi</w>
+    <w ref="12" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

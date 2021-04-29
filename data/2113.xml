@@ -1,0 +1,23 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Apuleius</author>, <title>Metamorphoses</title>, <biblscope>9.28-9.28</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:9.28-9.28" type="chapter">
+    <w ref="9.28" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.28" lemma="pudicus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Sup">pudicissima</w>
+    <w ref="9.28" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="9.28" lemma="uxor" pos="NOMcom" msd="Case=Abl|Numb=Sing">uxore</w>
+    <w ref="9.28" lemma="altrorsum" pos="ADV" msd="Gend=Masc|Deg=Pos">altrorsus</w>
+    <w ref="9.28" lemma="discludo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">disclusa</w>
+    <w ref="9.28" lemma="solus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">solus</w>
+    <w ref="9.28" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ref="9.28" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="9.28" lemma="puer" pos="NOMcom" msd="Case=Abl|Numb=Sing">puero</w>
+    <w ref="9.28" lemma="cubo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">cubans</w>
+    <w ref="9.28" lemma="gratus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Sup">gratissima</w>
+    <w ana="#acte #metonymie #violence" ref="9.28" lemma="corrumpo" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">corruptarum</w>
+    <w ref="9.28" lemma="nuptiae" pos="NOMcom" msd="Case=Gen|Numb=Plur">nuptiarum</w>
+    <w ref="9.28" lemma="uindicta" pos="NOMcom" msd="Case=Nom|Numb=Sing">vindicta</w>
+    <w ref="9.28" lemma="perfruor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Dep|Person=3">perfruebatur</w>
+    <w ref="9.28" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

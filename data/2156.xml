@@ -1,0 +1,19 @@
+<div  type="fragment" corresp="adams:200" ana="#acte #metonymie #insulter">
+  <bibl ref="#adams"><author>Tacitus, Cornelius</author>, <title>Annales</title>, <biblscope>13.17-13.17</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1351.phi005.lascivaroma-lat1:13.17-13.17" type="chapter">
+    <w ref="13.17" lemma="trado" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tradunt</w>
+    <w ref="13.17" lemma="plerique" pos="NOMcom" msd="Case=Nom|Numb=Plur|Gend=Masc">plerique</w>
+    <w ref="13.17" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=MascNeut">eorum</w>
+    <w ref="13.17" lemma="tempus1" pos="NOMcom" msd="Case=Gen|Numb=Plur">temporum</w>
+    <w ref="13.17" lemma="scriptor" pos="NOMcom" msd="Case=Nom|Numb=Plur">scriptores</w>
+    <w ref="13.17" lemma="creber" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">crebris</w>
+    <w ref="13.17" lemma="ante2" pos="PRE" msd="MORPH=empty">ante</w>
+    <w ref="13.17" lemma="exitium" pos="NOMcom" msd="Case=Acc|Numb=Sing">exitium</w>
+    <w ref="13.17" lemma="dies" pos="NOMcom" msd="Case=Abl|Numb=Plur">diebus</w>
+    <w ana="#acte #metonymie #insulter" ref="13.17" lemma="illudo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Masc">illusum</w>
+    <w ref="13.17" lemma="eo1" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">isse</w>
+    <w ref="13.17" lemma="pueritia" pos="NOMcom" msd="Case=Dat|Numb=Sing">pueritiae</w>
+    <w ref="13.17" lemma="Britannicus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Britannici</w>
+    <w ref="13.17" lemma="Nero" pos="NOMpro" msd="Case=Acc|Numb=Sing">Neronem</w>
+  </quote>
+</div>

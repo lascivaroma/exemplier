@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Eunuch</title>, <biblscope>653-653</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi003.perseus-lat2:653-653" type="line">
+    <w ref="653" lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Sing">Virginem</w>
+    <w ref="653" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="653" lemma="hera" pos="NOMcom" msd="Case=Dat|Numb=Sing">herae</w>
+    <w ref="653" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>
+    <w ref="653" lemma="donum" pos="NOMcom" msd="Case=Dat|Numb=Sing">dono</w>
+    <w ref="653" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">dederat</w>
+    <w ref="653" lemma="miles" pos="NOMcom" msd="Case=Nom|Numb=Sing">miles</w>
+    <w ref="653" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #violence" ref="653" lemma="uitio1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">vitiavit</w>
+    <w ref="653" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

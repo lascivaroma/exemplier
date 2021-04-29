@@ -1,0 +1,17 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Cicero</author>, <title>On the Responses of the Haruspices</title>, <biblscope>38-38</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VII.1.1670.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi021.perseus-lat2:38-38" type="section">
+    <w ref="38" lemma="homo" pos="NOMcom" msd="Case=Dat|Numb=Plur">hominibus</w>
+    <w ana="#acte #metonymie #violence" ref="38" lemma="iniuria" pos="NOMcom" msd="Case=Nom|Numb=Sing">iniuria</w>
+    <w ref="38" lemma="tuus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=MascNeut">tui</w>
+    <w ref="38" lemma="stuprum" pos="NOMcom" msd="Case=Gen|Numb=Sing">stupri</w>
+    <w ref="38" lemma="infero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">inlata</w>
+    <w ref="38" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="38" lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Masc">ipsos</w>
+    <w ref="38" lemma="dolor" pos="NOMcom" msd="Case=Dat|Numb=Sing">dolori</w>
+    <w ref="38" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="38" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="38" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

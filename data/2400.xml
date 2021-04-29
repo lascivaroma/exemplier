@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:19" ana="#mentula #metaphore #pointu #armes">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>9.1-9.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:9.1-9.2" type="line">
+    <w ref="9.1" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="9.2" lemma="quaero" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">quaere</w>
+    <w ref="9.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.2" lemma="tego" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">tegat</w>
+    <w ref="9.2" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">nullus</w>
+    <w ref="9.2" lemma="cur" pos="ADVint" msd="MORPH=empty">cur</w>
+    <w ref="9.2" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Plur|Gend=Neut">sua</w>
+    <w ana="#mentula #metaphore #pointu #armes" ref="9.2" lemma="telum" pos="NOMcom" msd="Case=Acc|Numb=Plur">tela</w>
+    <w ref="9.2" lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Sing">deus</w>
+    <w ref="9.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

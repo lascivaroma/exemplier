@@ -1,0 +1,19 @@
+<div  type="fragment" corresp="adams:206" ana="#acte #animals #salio #homme">
+  <bibl ref="#adams"><author>Cicero</author>, <title>Against Piso</title>, <biblscope>69-69</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi027.perseus-lat2:69-69" type="section">
+    <w ref="69" lemma="itaque" pos="CONcoo" msd="MORPH=empty">itaque</w>
+    <w ana="#acte #animals #salio #homme" ref="69" lemma="admissarius" pos="NOMcom" msd="Case=Nom|Numb=Sing">admissarius</w>
+    <w ref="69" lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">iste</w>
+    <w ref="69" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="69" lemma="simul1" pos="ADV" msd="Deg=Pos">simul</w>
+    <w ref="69" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="69" lemma="audio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">audivit</w>
+    <w ref="69" lemma="uoluptas" pos="NOMcom" msd="Case=Acc|Numb=Sing">voluptatem</w>
+    <w ref="69" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="69" lemma="philosophus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">philosopho</w>
+    <w ref="69" lemma="tantus" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">tanto</w>
+    <w ref="69" lemma="opus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">opere</w>
+    <w ref="69" lemma="laudo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">laudari</w>
+    <w ref="69" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

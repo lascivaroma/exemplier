@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:191" ana="#acte #metonymie #position">
+  <bibl ref="#adams"><author>Apuleius</author>, <title>Metamorphoses</title>, <biblscope>9.7-9.7</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:9.7-9.7" type="chapter">
+    <w ref="9.7" lemma="at2" pos="CONcoo" msd="MORPH=empty">At</w>
+    <w ref="9.7" lemma="uero3" pos="ADV" msd="Deg=Pos">vero</w>
+    <w ref="9.7" lemma="adulter1" pos="NOMcom" msd="Case=Nom|Numb=Sing">adulter</w>
+    <w ref="9.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.7" lemma="1" pos="ADJcar" msd="MORPH=empty">I</w>
+    <w ref="9.7" lemma="bellus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Sup">bellissimus</w>
+    <w ref="9.7" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="9.7" lemma="pusio" pos="NOMcom" msd="Case=Nom|Numb=Sing">pusio</w>
+    <w ref="9.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.7" lemma="inclino" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">inclinatam</w>
+    <w ref="9.7" lemma="dolium" pos="NOMcom" msd="Case=Abl|Numb=Sing">dolio</w>
+    <w ref="9.7" lemma="pronus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">pronam</w>
+    <w ref="9.7" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
+    <w ref="9.7" lemma="faber1" pos="NOMcom" msd="Case=Gen|Numb=Sing">fabri</w>
+    <w ana="#acte #metonymie #position" ref="9.7" lemma="superincuruo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">superincurvatus</w>
+    <w ref="9.7" lemma="secure" pos="ADV" msd="Deg=Pos">secure</w>
+    <w ref="9.7" lemma="dedolo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">dedolabat</w>
+    <w ref="9.7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

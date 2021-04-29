@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences">
+  <bibl ref="#adams"><author>Caius Iulius Hyginus</author>, <title>Fabvlae</title>, <biblscope>XXIII.3-XXIII.3</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1263.phi001.corpuscorporum-lat1:XXIII.3-XXIII.3" type="chapter">
+    <w ref="XXIII.3" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="XXIII.3" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="XXIII.3" lemma="audio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">audiuit</w>
+    <w ref="XXIII.3" lemma="Aretes" pos="NOMpro" msd="Case=Nom|Numb=Sing">Arete</w>
+    <w ref="XXIII.3" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="XXIII.3" lemma="coniux" pos="NOMcom" msd="Case=Abl|Numb=Sing">coniuge</w>
+    <w ref="XXIII.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="XXIII.3" lemma="mitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">mittit</w>
+    <w ref="XXIII.3" lemma="nuntius1" pos="NOMcom" msd="Case=Acc|Numb=Sing">nuntium</w>
+    <w ref="XXIII.3" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="XXIII.3" lemma="Iason" pos="NOMpro" msd="Case=Acc|Numb=Sing">Iasonem</w>
+    <w ref="XXIII.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="XXIII.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="XXIII.3" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">is</w>
+    <w ref="XXIII.3" lemma="Medea" pos="NOMpro" msd="Case=Acc|Numb=Sing">Medeam</w>
+    <w ref="XXIII.3" lemma="noctu" pos="ADV" msd="Deg=Pos">noctu</w>
+    <w ref="XXIII.3" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="XXIII.3" lemma="antrum" pos="NOMcom" msd="Case=Abl|Numb=Sing">antro</w>
+    <w ana="#acte #metonymie #consequences" ref="XXIII.3" lemma="deuirgino" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">deuirginauit</w>
+    <w ref="XXIII.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

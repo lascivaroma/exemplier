@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:208" ana="#acte #masturbor">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>9.41.1-9.41.3</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.41.1-9.41.3" type="line">
+    <w ref="9.41.1" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="9.41.1" lemma="pellex" pos="NOMcom" msd="Case=Abl|Numb=Sing">paelice</w>
+    <w ref="9.41.1" lemma="laeuus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem">laeva</w>
+    <w ref="9.41.2" lemma="utor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2">Uteris</w>
+    <w ref="9.41.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.41.2" lemma="Uenus" pos="NOMpro" msd="Case=Dat|Numb=Sing">Veneri</w>
+    <w ref="9.41.2" lemma="seruio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">servit</w>
+    <w ref="9.41.2" lemma="amica" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem">amica</w>
+    <w ana="#acte #masturbor" ref="9.41.2" lemma="manus1" pos="NOMcom" msd="Case=Nom|Numb=Plur">manus</w>
+    <w ref="9.41.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

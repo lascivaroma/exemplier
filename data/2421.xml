@@ -1,0 +1,22 @@
+<div  type="fragment" corresp="adams:14" ana="#mentula #metaphore #pointu #armes">
+  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>134-134</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:134-134" type="section">
+    <w ref="134" lemma="“" pos="PUNC" msd="MORPH=empty">“</w>
+    <w ref="134" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ref="134" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">illud</w>
+    <w ref="134" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+    <w ref="134" lemma="rigidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">rigidum</w>
+    <w ref="134" lemma="reddo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=1">reddidero</w>
+    <w ref="134" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ana="#mentula #metaphore #pointu #armes" ref="134" lemma="cornu" pos="NOMcom" msd="Case=Abl|Numb=Sing">cornu</w>
+    <w ref="134" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="134" lemma="quisquis1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">Quicquid</w>
+    <w ref="134" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="134" lemma="orbis" pos="NOMcom" msd="Case=Abl|Numb=Sing">orbe</w>
+    <w ref="134" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">vides</w>
+    <w ref="134" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="134" lemma="paro2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">paret</w>
+    <w ref="134" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="134" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

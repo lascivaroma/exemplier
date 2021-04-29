@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Tacitus, Cornelius</author>, <title>Annales</title>, <biblscope>13.42-13.42</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1351.phi005.lascivaroma-lat1:13.42-13.42" type="chapter">
+    <w ref="13.42" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="13.42" lemma="grauiter" pos="ADJqua" msd="Case=Acc|Gend=Neut|Deg=Comp">gravius</w>
+    <w ref="13.42" lemma="aestimo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">aestimandum</w>
+    <w ref="13.42" lemma="sponte" pos="ADV" msd="Deg=Pos">sponte</w>
+    <w ref="13.42" lemma="litigator" pos="NOMcom" msd="Case=Gen|Numb=Sing">litigatoris</w>
+    <w ref="13.42" lemma="praemium" pos="NOMcom" msd="Case=Acc|Numb=Sing">praemium</w>
+    <w ref="13.42" lemma="honestus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">honestae</w>
+    <w ref="13.42" lemma="opera" pos="NOMcom" msd="Case=Gen|Numb=Sing">operae</w>
+    <w ref="13.42" lemma="assequor" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">adsequi</w>
+    <w ref="13.42" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ana="#acte #metonymie #violence" ref="13.42" lemma="corrumpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">corrumpere</w>
+    <w ref="13.42" lemma="cubiculum" pos="NOMcom" msd="Case=Acc|Numb=Plur">cubicula</w>
+    <w ref="13.42" lemma="princeps1" pos="NOMcom" msd="Case=Gen|Numb=Plur">principum</w>
+    <w ref="13.42" lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Plur">feminarum</w>
+    <w ref="13.42" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

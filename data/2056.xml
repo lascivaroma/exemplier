@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Self-Tormenter</title>, <biblscope>1019-1022</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi002.perseus-lat2:1019-1022" type="line">
+    <w ref="1022" lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
+    <w ref="1022" lemma="ille" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">illi</w>
+    <w ref="1022" lemma="nihil" pos="PROind" msd="Case=Ind">nihil</w>
+    <w ana="#acte #metonymie #violence" ref="1022" lemma="uitium" pos="NOMcom" msd="Case=Gen|Numb=Sing">viti</w>
+    <w ref="1022" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1022" lemma="relinquo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">relictum</w>
+    <w ref="1022" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1022" lemma="quin2" pos="CONsub" msd="MORPH=empty">quin</w>
+    <w ref="1022" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="1022" lemma="et1" pos="ADV" msd="Deg=Pos">et</w>
+    <w ref="1022" lemma="idem" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=MascNeut">idem</w>
+    <w ref="1022" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="1022" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

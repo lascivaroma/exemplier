@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:204" ana="#acte #euphemism #ellipse #facio">
+  <bibl ref="#adams"><author>Ausonius, Decimus Magnus</author>, <title>Epigrammaton Liber</title>, <biblscope>59.3-59.4</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>Vl.121.40ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:59.3-59.4" type="line">
+    <w ref="59.3" lemma="“" pos="PUNC" msd="MORPH=empty">“</w>
+    <w ref="59.3" lemma="fallo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=2">Falleris</w>
+    <w ref="59.3" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="59.3" lemma="exter" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Sup">extremis</w>
+    <w ref="59.3" lemma="do" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">da</w>
+    <w ref="59.3" lemma="singulus" pos="ADJdis" msd="Case=Acc|Numb=Plur|Gend=Neut">singula</w>
+    <w ref="59.3" lemma="crimen" pos="NOMcom" msd="Case=Acc|Numb=Plur">crimina</w>
+    <w ref="59.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="59.3" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">illum</w>
+    <w ref="59.4" lemma="bis" pos="ADJadv.mul" msd="MORPH=empty">bis</w>
+    <w ref="59.4" lemma="numero1" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">numera</w>
+    <w ref="59.4" lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">medium</w>
+    <w ref="59.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="59.4" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ana="#acte #euphemism #ellipse #facio" ref="59.4" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
+    <w ana="#acte #euphemism #ellipse #facio" ref="59.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="59.4" lemma="patior" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">patitur</w>
+    <w ref="59.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

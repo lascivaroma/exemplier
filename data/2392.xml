@@ -1,0 +1,24 @@
+<div  type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Cicero</author>, <title>Letters to his Friends</title>, <biblscope>9.22.2-9.22.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi056.perseus-lat1:9.22.2-9.22.2" type="section">
+    <w ref="9.22.2" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="9.22.2" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="9.22.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.22.2" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+    <w ref="9.22.2" lemma="multi" pos="NOMcom" msd="Case=Nom|Numb=Plur">multi</w>
+    <w ref="9.22.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.22.2" lemma="facio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">factum</w>
+    <w ref="9.22.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="9.22.2" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+    <w ref="9.22.2" lemma="obscenus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">obscenum</w>
+    <w ref="9.22.2" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ana="#mentula" ref="9.22.2" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ana="#mentula" ref="9.22.2" lemma="uerbum" pos="NOMcom" msd="Case=Nom|Numb=Sing">verbum</w>
+    <w ref="9.22.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.22.2" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ref="9.22.2" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+    <w ref="9.22.2" lemma="utor" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Masc">usus</w>
+    <w ref="9.22.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
+    <w ref="9.22.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

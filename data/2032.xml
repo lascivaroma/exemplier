@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Amphitruo</title>, <biblscope>112-115</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi001.perseus-lat2:112-115" type="line">
+    <w ref="114" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
+    <w ref="114" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="114" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="114" lemma="qui" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">quacum</w>
+    <w ref="114" lemma="cum3" pos="CON" msd="MORPH=empty">{quacum}</w>
+    <w ref="114" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">volt</w>
+    <w ana="#acte #metonymie #pleasure" ref="114" lemma="uoluptas" pos="NOMcom" msd="Case=Acc|Numb=Sing">voluptatem</w>
+    <w ana="#acte #metonymie #pleasure" ref="114" lemma="capio2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">capit</w>
+  </quote>
+</div>

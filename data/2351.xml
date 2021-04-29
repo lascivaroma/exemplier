@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.20.7-11.20.8</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.20.7-11.20.8" type="line">
+    <w ref="11.20.7" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">Quid</w>
+    <w ref="11.20.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.20.7" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="11.20.7" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="11.20.7" lemma="uita" pos="NOMcom" msd="Case=Nom|Numb=Sing">vita</w>
+    <w ref="11.20.8" lemma="carus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">Carior</w>
+    <w ref="11.20.8" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="11.20.8" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ana="#mentula" ref="11.20.8" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="11.20.8" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

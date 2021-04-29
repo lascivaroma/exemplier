@@ -1,0 +1,17 @@
+<div  type="fragment" corresp="adams:200" ana="#acte #metonymie #insulter">
+  <bibl ref="#adams"><author>Arnobius of Sicca</author>, <title>Arnobii adversus nationes Libri VII</title>, <biblscope>2.45-2.45</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:2.45-2.45" type="section">
+    <w ref="2.45" lemma="uos" pos="PROper" msd="Case=Acc|Numb=Plur">uos</w>
+    <w ref="2.45" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="2.45" lemma="liberi" pos="NOMcom" msd="Case=Abl|Numb=Plur">liberis</w>
+    <w ref="2.45" lemma="facio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">facerent</w>
+    <w ref="2.45" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #insulter" ref="2.45" lemma="insulto" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">insultarent</w>
+    <w ref="2.45" lemma="uirgo" pos="NOMcom" msd="Case=Abl|Numb=Plur">uirginibus</w>
+    <w ref="2.45" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.45" lemma="matrimonium" pos="NOMcom" msd="Case=Abl|Numb=Plur">matrimoniis</w>
+    <w ref="2.45" lemma="\" pos="PUNC" msd="MORPH=empty">\</w>
+    <w ref="2.45" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="2.45" lemma="alienus2" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">alienis</w>
+  </quote>
+</div>

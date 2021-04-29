@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:202" ana="#acte #metonymie #pecco #illicit">
+  <bibl ref="#adams"><author>Horace</author>, <title>Sermones</title>, <biblscope>1.2.62-1.2.63</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.62-1.2.63" type="line">
+    <w ref="1.2.62" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="1.2.62" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="1.2.62" lemma="-" pos="PUNC" msd="MORPH=empty">-</w>
+    <w ref="1.2.63" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1.2.63" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.2.63" lemma="matrona" pos="NOMcom" msd="Case=Abl|Numb=Sing">matrona</w>
+    <w ref="1.2.63" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.63" lemma="ancilla" pos="NOMcom" msd="Case=Abl|Numb=Sing">ancilla</w>
+    <w ana="#acte #metonymie #pecco #illicit" ref="1.2.63" lemma="pecco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">peccesne</w>
+    <w ref="1.2.63" lemma="ne2" pos="ADV" msd="MORPH=empty">{peccesne}</w>
+    <w ref="1.2.63" lemma="togatus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">togata</w>
+    <w ref="1.2.63" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

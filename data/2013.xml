@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences #tired">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>3.11a.13-3.11a.16</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.11a.13-3.11a.16" type="line">
+    <w ref="3.11a.13" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">Vidi</w>
+    <w ref="3.11a.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.11a.13" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="3.11a.13" lemma="foris1" pos="NOMcom" msd="Case=Abl|Numb=Plur">foribus</w>
+    <w ana="#acte #metonymie #consequences #tired" ref="3.11a.13" lemma="lassus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">lassus</w>
+    <w ref="3.11a.13" lemma="prodeo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">prodiret</w>
+    <w ref="3.11a.13" lemma="amator" pos="NOMcom" msd="Case=Nom|Numb=Sing">amator</w>
+  </quote>
+</div>

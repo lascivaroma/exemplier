@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:191" ana="#acte #metonymie #position">
+  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>15.14-15.19</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:15.14-15.19" type="line">
+    <w ref="15.18" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+    <w ref="15.18" lemma="attraho" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">attractis</w>
+    <w ana="#acte #metonymie #position" ref="15.18" lemma="pes" pos="NOMcom" msd="Case=Abl|Numb=Plur">pedibus</w>
+    <w ref="15.18" lemma="pateo" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">patente</w>
+    <w ref="15.18" lemma="porta" pos="NOMcom" msd="Case=Abl|Numb=Sing">porta</w>
+    <w ref="15.19" lemma="percurro" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3">percurrent</w>
+    <w ref="15.19" lemma="raphanus" pos="NOMcom" msd="Case=Nom|Numb=Plur">raphanique</w>
+    <w ref="15.19" lemma="que" pos="CON" msd="MORPH=empty">{raphanique}</w>
+    <w ref="15.19" lemma="mugilis" pos="NOMcom" msd="Case=Nom|Numb=Plur">mugilesque</w>
+    <w ref="15.19" lemma="que" pos="CON" msd="MORPH=empty">{mugilesque}</w>
+    <w ref="15.19" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

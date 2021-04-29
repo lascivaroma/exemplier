@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Vulgate</author>, <title>Genesis</title>, <biblscope>19.5-19.9</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg001.obi-lat1:19.5-19.9" type="verse">
+    <w ref="19.8" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">habeo</w>
+    <w ref="19.8" lemma="duo" pos="ADJcar" msd="Case=Acc|Numb=Plur|Gend=Fem">duas</w>
+    <w ref="19.8" lemma="filia" pos="NOMcom" msd="Case=Acc|Numb=Plur">filias</w>
+    <w ref="19.8" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Fem">quae</w>
+    <w ref="19.8" lemma="necdum1" pos="ADVneg" msd="MORPH=empty">necdum</w>
+    <w ref="19.8" lemma="cognosco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">cognoverunt</w>
+    <w ref="19.8" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Sing">virum</w>
+    <w ref="19.8" lemma="educo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">educam</w>
+    <w ref="19.8" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Fem">eas</w>
+    <w ref="19.8" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="19.8" lemma="uos" pos="PROper" msd="Case=Acc|Numb=Plur">vos</w>
+    <w ref="19.8" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #metonymie #pleasure" ref="19.8" lemma="abutor" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=2">abutimini</w>
+    <w ref="19.8" lemma="is" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Masc">eis</w>
+    <w ref="19.8" lemma="sicut1" pos="ADVrel" msd="MORPH=empty">sicut</w>
+    <w ref="19.8" lemma="placeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">placuerit</w>
+    <w ref="19.8" lemma="uos" pos="PROper" msd="Case=Dat|Numb=Plur">vobis</w>
+    <w ref="19.8" lemma="dummodo" pos="CONsub" msd="MORPH=empty">dummodo</w>
+    <w ref="19.8" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Plur">viris</w>
+    <w ref="19.8" lemma="iste" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Masc">istis</w>
+    <w ref="19.8" lemma="nihil" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">nihil</w>
+    <w ref="19.8" lemma="facio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=2">faciatis</w>
+    <w ref="19.8" lemma="malus3" pos="NOMcom" msd="Case=Gen|Numb=Plur|Gend=Masc|Deg=Pos">mali</w>
+    <w ref="19.8" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+    <w ref="19.8" lemma="ingredior" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">ingressi</w>
+    <w ref="19.8" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="19.8" lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+    <w ref="19.8" lemma="umbraculum" pos="NOMcom" msd="Case=Acc|Numb=Sing">umbraculum</w>
+    <w ref="19.8" lemma="tegimen" pos="NOMcom" msd="Case=Gen|Numb=Sing">tegminis</w>
+    <w ref="19.8" lemma="ego" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=MascNeut">mei</w>
+  </quote>
+</div>

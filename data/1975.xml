@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:193" ana="#acte #metonymie #movement">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>2.4.11-2.4.14</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.11-2.4.14" type="line">
+    <w ref="2.4.14" lemma="spes" pos="NOMcom" msd="Case=Acc|Numb=Sing">Spemque</w>
+    <w ref="2.4.14" lemma="que" pos="CON" msd="MORPH=empty">{Spemque}</w>
+    <w ref="2.4.14" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dat</w>
+    <w ref="2.4.14" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.4.14" lemma="mollis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">molli</w>
+    <w ana="#acte #metonymie #movement" ref="2.4.14" lemma="mobilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">mobilis</w>
+    <w ref="2.4.14" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="2.4.14" lemma="torus" pos="NOMcom" msd="Case=Abl|Numb=Sing">toro</w>
+    <w ref="2.4.14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

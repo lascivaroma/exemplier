@@ -1,0 +1,11 @@
+<div  type="fragment" corresp="adams:206" ana="#acte #animals #salio">
+  <bibl ref="#adams"><author>Columella, Lucius Junius Moderatus</author>, <title>Res Rustica</title>, <biblscope>6.37.2-6.37.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:6.37.2-6.37.2" type="section">
+    <w ref="6.37.2" lemma="uehetus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp">vegetioremque</w>
+    <w ref="6.37.2" lemma="que" pos="CON" msd="MORPH=empty">{vegetioremque}</w>
+    <w ref="6.37.2" lemma="facio" pos="VER" msd="Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">factum</w>
+    <w ref="6.37.2" lemma="mas" pos="NOMcom" msd="Case=Acc|Numb=Sing">marem</w>
+    <w ref="6.37.2" lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Sing">feminae</w>
+    <w ana="#acte #animals #salio" ref="6.37.2" lemma="iniungo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">iniungi</w>
+  </quote>
+</div>

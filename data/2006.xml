@@ -1,0 +1,11 @@
+<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences #tired">
+  <bibl ref="#adams"><author>Corpus Tibullianum</author>, <title>Elegiae</title>, <biblscope>1.9.53-1.9.56</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0660.phi001.perseus-lat2:1.9.53-1.9.56" type="line">
+    <w ref="1.9.55" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="1.9.55" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="1.9.55" lemma="furtiuus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">furtivo</w>
+    <w ref="1.9.55" lemma="iuuenis1" pos="NOMcom" msd="Case=Acc|Numb=Sing">iuvenem</w>
+    <w ana="#acte #metonymie #consequences #tired" ref="1.9.55" lemma="lasso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">lassaverit</w>
+    <w ref="1.9.55" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+  </quote>
+</div>

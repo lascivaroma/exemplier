@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>7.55.4-7.55.8</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:7.55.4-7.55.8" type="line">
+    <w ref="7.55.7" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="7.55.7" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="7.55.7" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="7.55.7" lemma="solymus" pos="NOMpro" msd="Case=Abl|Numb=Plur">Solymis</w>
+    <w ref="7.55.7" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">venit</w>
+    <w ref="7.55.7" lemma="peruro" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">perustis</w>
+    <w ref="7.55.8" lemma="damno" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">Damnatam</w>
+    <w ref="7.55.8" lemma="modo1" pos="ADV" msd="Deg=Pos">modo</w>
+    <w ana="#mentula" ref="7.55.8" lemma="mentula" pos="NOMcom" msd="Case=Acc|Numb=Sing">mentulam</w>
+    <w ref="7.55.8" lemma="tributum" pos="NOMcom" msd="Case=Abl|Numb=Plur">tributis</w>
+    <w ref="7.55.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

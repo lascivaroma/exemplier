@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.70.5-11.70.6</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.70.5-11.70.6" type="line">
+    <w ref="11.70.5" lemma="tunica" pos="NOMcom" msd="Case=Nom|Numb=Sing">tunica</w>
+    <w ref="11.70.5" lemma="pateo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">patet</w>
+    <w ref="11.70.5" lemma="inguen" pos="NOMcom" msd="Case=Nom|Numb=Sing">inguen</w>
+    <w ref="11.70.5" lemma="utrimque" pos="ADV" msd="Deg=Pos">utrimque</w>
+    <w ref="11.70.5" lemma="leuo1" pos="VER" msd="Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">levata</w>
+    <w ref="11.70.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.70.6" lemma="inspicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">Inspiciturque</w>
+    <w ref="11.70.6" lemma="que" pos="CON" msd="MORPH=empty">{Inspiciturque}</w>
+    <w ref="11.70.6" lemma="tuus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=Fem">tua</w>
+    <w ana="#mentula" ref="11.70.6" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="11.70.6" lemma="facio" pos="VER" msd="Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">facta</w>
+    <w ref="11.70.6" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
+    <w ref="11.70.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

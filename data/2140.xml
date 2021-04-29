@@ -1,0 +1,32 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Statius, P. Papinius (Publius Papinius)</author>, <title>Achilleis</title>, <biblscope>1.910-1.916</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VII.1.1670.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1020.phi003.perseus-lat2:1.910-1.916" type="line">
+    <w ref="1.910" lemma="’" pos="PUNC" msd="MORPH=empty">’</w>
+    <w ref="1.910" lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
+    <w ref="1.910" lemma="et1" pos="ADV" msd="Deg=Pos">et</w>
+    <w ref="1.910" lemma="Danai" pos="NOMpro" msd="Case=Gen|Numb=Sing">Danai</w>
+    <w ref="1.910" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="1.910" lemma="sacrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">sacra</w>
+    <w ref="1.910" lemma="fides" pos="NOMcom" msd="Case=Acc|Numb=Sing">fidemque</w>
+    <w ref="1.910" lemma="que" pos="CON" msd="MORPH=empty">{fidemque}</w>
+    <w ref="1.911" lemma="hospitium" pos="NOMcom" msd="Case=Gen|Numb=Sing">hospitii</w>
+    <w ref="1.911" lemma="blandus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">blandusque</w>
+    <w ref="1.911" lemma="que" pos="CON" msd="MORPH=empty">{blandusque}</w>
+    <w ref="1.911" lemma="prex" pos="NOMcom" msd="Case=Gen|Numb=Plur">precum</w>
+    <w ref="1.911" lemma="compello2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">compellit</w>
+    <w ref="1.911" lemma="Ulixes" pos="NOMpro" msd="Case=Nom|Numb=Sing">Ulixes</w>
+    <w ref="1.911" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.912" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="1.912" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.912" lemma="etsi2" pos="CONsub" msd="MORPH=empty">etsi</w>
+    <w ref="1.912" lemma="carus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">carae</w>
+    <w ref="1.912" lemma="comperio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">comperta</w>
+    <w ana="#acte #metonymie #violence" ref="1.912" lemma="iniuria" pos="NOMcom" msd="Case=Nom|Numb=Sing">iniuria</w>
+    <w ref="1.912" lemma="nata" pos="NOMcom" msd="Case=Gen|Numb=Sing">natae</w>
+    <w ref="1.913" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.913" lemma="Thetis" pos="NOMpro" msd="Case=Gen|Numb=Sing">Thetidis</w>
+    <w ref="1.913" lemma="mandatum" pos="NOMcom" msd="Case=Nom|Numb=Plur">mandata</w>
+    <w ref="1.913" lemma="moueo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">movent</w>
+  </quote>
+</div>

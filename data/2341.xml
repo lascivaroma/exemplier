@@ -1,0 +1,17 @@
+<div  type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>9.27.1-9.27.6</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.27.1-9.27.6" type="line">
+    <w ref="9.27.1" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+    <w ref="9.27.1" lemma="depilo1" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">depilatos</w>
+    <w ref="9.27.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.27.1" lemma="Chrestus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Chreste</w>
+    <w ref="9.27.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.27.1" lemma="coleus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coleos</w>
+    <w ref="9.27.1" lemma="porto" pos="NOMcom" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">portes</w>
+    <w ref="9.27.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="9.27.2" lemma="Uulturinus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">vulturino</w>
+    <w ana="#mentula" ref="9.27.2" lemma="mentula" pos="NOMcom" msd="Case=Acc|Numb=Sing">mentulam</w>
+    <w ref="9.27.2" lemma="par2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">parem</w>
+    <w ref="9.27.2" lemma="collum" pos="NOMcom" msd="Case=Abl|Numb=Sing">collo</w>
+  </quote>
+</div>

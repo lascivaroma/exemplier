@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>114.1-114.3</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:114.1-114.3" type="line">
+    <w ref="114.1" lemma="Firmanus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Firmanus</w>
+    <w ref="114.1" lemma="saltus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">saltu</w>
+    <w ref="114.1" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="114.1" lemma="falsus" pos="ADV" msd="Case=Abl|Deg=Pos">falso</w>
+    <w ana="#mentula" ref="114.1" lemma="Mentula" pos="NOMpro" msd="Case=Voc|Numb=Sing">Mentula</w>
+    <w ref="114.1" lemma="diues" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">dives</w>
+    <w ref="114.2" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">fertur</w>
+    <w ref="114.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

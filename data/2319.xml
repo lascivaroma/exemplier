@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>1.96.11-1.96.13</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.96.11-1.96.13" type="line">
+    <w ref="1.96.11" lemma="unus" pos="ADV" msd="Case=Nom|Numb=Sing">Una</w>
+    <w ref="1.96.11" lemma="lauo1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=1">lavamur</w>
+    <w ref="1.96.11" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="1.96.11" lemma="aspicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">aspicit</w>
+    <w ref="1.96.11" lemma="nihil" pos="PROind" msd="Case=Ind">nihil</w>
+    <w ref="1.96.11" lemma="sursum" pos="ADV" msd="Deg=Pos">sursum</w>
+    <w ref="1.96.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.96.12" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="1.96.12" lemma="specto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">spectat</w>
+    <w ref="1.96.12" lemma="oculus" pos="NOMcom" msd="Case=Abl|Numb=Plur">oculis</w>
+    <w ref="1.96.12" lemma="deuoro" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">devorantibus</w>
+    <w ref="1.96.12" lemma="draucus" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Masc">draucos</w>
+    <w ref="1.96.13" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ref="1.96.13" lemma="otiosus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">otiosis</w>
+    <w ana="#mentula" ref="1.96.13" lemma="mentula" pos="NOMcom" msd="Case=Acc|Numb=Plur">mentulas</w>
+    <w ref="1.96.13" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">videt</w>
+    <w ref="1.96.13" lemma="labrum1" pos="NOMcom" msd="Case=Abl|Numb=Plur">labris</w>
+    <w ref="1.96.13" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

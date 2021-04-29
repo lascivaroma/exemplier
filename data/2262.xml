@@ -1,0 +1,17 @@
+<div  type="fragment" corresp="adams:208" ana="#acte #masturbor">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>82.21-82.25</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:82.21-82.25" type="line">
+    <w ref="82.24" lemma="puella" pos="NOMcom" msd="Case=Abl|Numb=Sing">puella</w>
+    <w ref="82.24" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="82.24" lemma="iocosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">iocosa</w>
+    <w ref="82.24" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="82.24" lemma="leuis1" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">leui</w>
+    <w ref="82.24" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
+    <w ana="#acte #masturbor" ref="82.25" lemma="foueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">fouebit</w>
+    <w ref="82.25" lemma="apprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">apprimetue</w>
+    <w ref="82.25" lemma="ue" pos="CON" msd="MORPH=empty">{apprimetue}</w>
+    <w ref="82.25" lemma="lucidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">lucidum</w>
+    <w ref="82.25" lemma="femur" pos="NOMcom" msd="Case=Acc|Numb=Sing">femur</w>
+    <w ref="82.25" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

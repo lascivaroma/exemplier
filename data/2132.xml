@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Titus Livius (Livy)</author>, <title>Ab urbe condita</title>, <biblscope>38.24.9-38.24.11</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VII.1.1670.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0914.phi001.perseus-lat2:38.24.9-38.24.11" type="section">
+    <w ref="38.24.10" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #metonymie #violence" ref="38.24.10" lemma="iniuria" pos="NOMcom" msd="Case=Acc|Numb=Sing">iniuriam</w>
+    <w ref="38.24.10" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
+    <w ref="38.24.10" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="38.24.10" lemma="ultio" pos="NOMcom" msd="Case=Acc|Numb=Sing">ultionem</w>
+    <w ref="38.24.10" lemma="uiolo" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">violatae</w>
+    <w ref="38.24.10" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="38.24.10" lemma="uis" pos="NOMcom" msd="Case=Acc|Numb=Sing">vim</w>
+    <w ref="38.24.10" lemma="pudicitia" pos="NOMcom" msd="Case=Dat|Numb=Sing">pudicitiae</w>
+    <w ref="38.24.10" lemma="confiteor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">confessa</w>
+    <w ref="38.24.10" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Sing">viro</w>
+    <w ref="38.24.10" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+  </quote>
+</div>

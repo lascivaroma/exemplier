@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:14" ana="#mentula #metaphore #pointu">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>63.13-63.14</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:63.13-63.14" type="line">
+    <w ref="63.13" lemma="accedo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">accedit</w>
+    <w ref="63.13" lemma="iste" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">istis</w>
+    <w ref="63.13" lemma="impudentia" pos="NOMcom" msd="Case=Gen|Numb=Sing">impudentiae</w>
+    <w ref="63.13" lemma="signum" pos="NOMcom" msd="Case=Nom|Numb=Sing">signum</w>
+    <w ref="63.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="63.14" lemma="libidinosus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">libidinoso</w>
+    <w ref="63.14" lemma="tendo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">tenta</w>
+    <w ana="#mentula #metaphore #pointu" ref="63.14" lemma="pyramis" pos="NOMcom" msd="Case=Nom|Numb=Sing">pyramis</w>
+    <w ref="63.14" lemma="neruus" pos="NOMcom" msd="Case=Abl|Numb=Sing">neruo</w>
+    <w ref="63.14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

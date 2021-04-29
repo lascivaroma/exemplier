@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:193" ana="#acte #metonymie #movement">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>1.2.13-1.2.13</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:1.2.13-1.2.13" type="section">
+    <w ref="1.2.13" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="1.2.13" lemma="etiamsi" pos="CONsub" msd="MORPH=empty">etiamsi</w>
+    <w ref="1.2.13" lemma="citra2" pos="PRE" msd="MORPH=empty">citra</w>
+    <w ref="1.2.13" lemma="stuprum" pos="NOMcom" msd="Case=Acc|Numb=Sing">stuprum</w>
+    <w ref="1.2.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.13" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="1.2.13" lemma="uir" pos="NOMcom" msd="Case=Abl|Numb=Plur">uiris</w>
+    <w ref="1.2.13" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ana="#acte #metonymie #movement" ref="1.2.13" lemma="uoluto" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">uolutatam</w>
+  </quote>
+</div>

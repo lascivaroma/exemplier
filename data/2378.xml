@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>52.11-52.12</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:52.11-52.12" type="line">
+    <w ref="52.11" lemma="quare1" pos="ADVrel" msd="MORPH=empty">quare</w>
+    <w ref="52.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="52.11" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="52.11" lemma="sapio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">sapiet</w>
+    <w ref="52.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="52.11" lemma="malus3" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">malus</w>
+    <w ref="52.11" lemma="caueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">cauebit</w>
+    <w ref="52.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="52.12" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="52.12" lemma="tantum1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=MascNeut">tantum</w>
+    <w ref="52.12" lemma="scio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sciat</w>
+    <w ref="52.12" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ana="#mentula" ref="52.12" lemma="mentula" pos="NOMcom" msd="Case=Gen|Numb=Plur">mentularum</w>
+    <w ref="52.12" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

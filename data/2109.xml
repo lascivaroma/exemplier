@@ -1,0 +1,23 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Apuleius</author>, <title>Metamorphoses</title>, <biblscope>9.28-9.28</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:9.28-9.28" type="chapter">
+    <w ref="9.28" lemma="mulier" pos="NOMcom" msd="Case=Acc|Numb=Plur">mulieres</w>
+    <w ref="9.28" lemma="appeto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">appetis</w>
+    <w ref="9.28" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="9.28" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Fem">eas</w>
+    <w ref="9.28" lemma="liber2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem">liberas</w>
+    <w ref="9.28" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.28" lemma="connubium" pos="NOMcom" msd="Case=Abl|Numb=Plur|Gend=Fem">connubia</w>
+    <w ref="9.28" lemma="lex" pos="NOMcom" msd="Case=Abl|Numb=Sing">lege</w>
+    <w ref="9.28" lemma="socio" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">sociata</w>
+    <w ana="#acte #metonymie #violence" ref="9.28" lemma="corrumpo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">corrumpis</w>
+    <w ref="9.28" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.28" lemma="intempestiuus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">intempestivum</w>
+    <w ref="9.28" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="9.28" lemma="nomen" pos="NOMcom" msd="Case=Acc|Numb=Sing">nomen</w>
+    <w ref="9.28" lemma="adulter1" pos="NOMcom" msd="Case=Gen|Numb=Sing">adulteri</w>
+    <w ref="9.28" lemma="uindico" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">vindicas</w>
+    <w ref="9.28" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

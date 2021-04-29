@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:206" ana="#acte #animals #salio">
+  <bibl ref="#adams"><author>Columella, Lucius Junius Moderatus</author>, <title>Res Rustica</title>, <biblscope>7.2.5-7.2.5</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.652.32ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:7.2.5-7.2.5" type="section">
+    <w ref="7.2.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.2.5" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+    <w ref="7.2.5" lemma="deinde" pos="ADV" msd="Deg=Pos">deinde</w>
+    <w ref="7.2.5" lemma="et1" pos="ADV" msd="Deg=Pos">et</w>
+    <w ref="7.2.5" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Masc">ipsi</w>
+    <w ref="7.2.5" lemma="Tarentinus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">Tarentinis</w>
+    <w ref="7.2.5" lemma="ouis" pos="NOMcom" msd="Case=Dat|Numb=Plur">ovibus</w>
+    <w ana="#acte #animals #salio" ref="7.2.5" lemma="impono" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">impositi</w>
+  </quote>
+</div>

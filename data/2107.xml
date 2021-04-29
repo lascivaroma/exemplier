@@ -1,0 +1,35 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Suetonius ca. 69-ca. 122</author>, <title>Domitianus</title>, <biblscope>22-22</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo022.perseus-lat2:22-22" type="chapter">
+    <w ref="22" lemma="frater" pos="NOMcom" msd="Case=Gen|Numb=Sing">fratris</w>
+    <w ref="22" lemma="filia" pos="NOMcom" msd="Case=Acc|Numb=Sing">filiam</w>
+    <w ref="22" lemma="adhuc" pos="ADV" msd="Deg=Pos">adhuc</w>
+    <w ref="22" lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Sing">uirginem</w>
+    <w ref="22" lemma="offero" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">oblatam</w>
+    <w ref="22" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="22" lemma="matrimonium" pos="NOMcom" msd="Case=Acc|Numb=Sing">matrimonium</w>
+    <w ref="22" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="22" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="22" lemma="deuincio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">deuinctus</w>
+    <w ref="22" lemma="Domitia" pos="NOMpro" msd="Case=Gen|Numb=Sing">Domitiae</w>
+    <w ref="22" lemma="nuptiae" pos="NOMcom" msd="Case=Abl|Numb=Plur">nuptiis</w>
+    <w ref="22" lemma="pertinaciter" pos="ADV" msd="Deg=Sup">pertinacissime</w>
+    <w ref="22" lemma="recuso" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">recusasset</w>
+    <w ref="22" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="22" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="22" lemma="multo2" pos="ADV" msd="Deg=Pos">multo</w>
+    <w ref="22" lemma="post1" pos="ADV" msd="Deg=Pos">post</w>
+    <w ref="22" lemma="alius" pos="PROind" msd="Case=Dat|Numb=Sing|Gend=Com">alii</w>
+    <w ref="22" lemma="colloco" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">conlocatam</w>
+    <w ana="#acte #metonymie #violence" ref="22" lemma="corrumpo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">corrupit</w>
+    <w ref="22" lemma="ultro" pos="ADV" msd="Deg=Pos">ultro</w>
+    <w ref="22" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="22" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ref="22" lemma="uiuus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">uiuo</w>
+    <w ref="22" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="22" lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>
+    <w ref="22" lemma="Titus" pos="NOMpro" msd="Case=Abl|Numb=Sing">Tito</w>
+    <w ref="22" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+  </quote>
+</div>

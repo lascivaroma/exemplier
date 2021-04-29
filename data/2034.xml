@@ -1,0 +1,17 @@
+<div  type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Arnobius of Sicca</author>, <title>Arnobii adversus nationes Libri VII</title>, <biblscope>5.9-5.9</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.9-5.9" type="section">
+    <w ref="5.9" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="5.9" lemma="impetus" pos="NOMcom" msd="Case=Acc|Numb=Sing">inpetum</w>
+    <w ref="5.9" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="5.9" lemma="uerto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">uertit</w>
+    <w ref="5.9" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.9" lemma="quoniam" pos="CONsub" msd="MORPH=empty">quoniam</w>
+    <w ref="5.9" lemma="rapio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">rapere</w>
+    <w ana="#acte #metonymie #pleasure" ref="5.9" lemma="uoluptas" pos="NOMcom" msd="Case=Acc|Numb=Sing">uoluptatem</w>
+    <w ref="5.9" lemma="insidiosus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">insidiosa</w>
+    <w ref="5.9" lemma="fraus" pos="NOMcom" msd="Case=Abl|Numb=Sing">fraude</w>
+    <w ref="5.9" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="5.9" lemma="queo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">quiuit</w>
+  </quote>
+</div>

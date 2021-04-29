@@ -1,0 +1,10 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>7.5.4-7.5.4</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:7.5.4-7.5.4" type="section">
+    <w ref="7.5.4" lemma="quis1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
+    <w ref="7.5.4" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
+    <w ana="#acte #metonymie #violence" ref="7.5.4" lemma="corrumpo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">corrupi</w>
+    <w ref="7.5.4" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

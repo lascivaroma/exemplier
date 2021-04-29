@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:206" ana="#acte #animals #salio">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Art of Love</title>, <biblscope>2.481-2.488</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:2.481-2.488" type="line">
+    <w ref="2.485" lemma="laetus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Laeta</w>
+    <w ana="#acte #animals #salio" ref="2.485" lemma="salio2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">salitur</w>
+    <w ref="2.485" lemma="ouis" pos="NOMcom" msd="Case=Nom|Numb=Sing">ovis</w>
+    <w ref="2.485" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.485" lemma="taurus" pos="NOMcom" msd="Case=Abl|Numb=Sing">tauro</w>
+    <w ref="2.485" lemma="quoque" pos="ADVrel" msd="Deg=Pos">quoque</w>
+    <w ref="2.485" lemma="laetus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">laeta</w>
+    <w ref="2.485" lemma="iuuenca" pos="NOMcom" msd="Case=Nom|Numb=Sing">iuvenca</w>
+    <w ref="2.485" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+  </quote>
+</div>

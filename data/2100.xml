@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblscope>10.37-10.37</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:10.37-10.37" type="chapter">
+    <w ref="10.37" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="10.37" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="10.37" lemma="ars" pos="NOMcom" msd="Case=Nom|Numb=Sing">ars</w>
+    <w ref="10.37" lemma="ille" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">illis</w>
+    <w ref="10.37" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="10.37" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="10.37" lemma="blandior" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">blandiri</w>
+    <w ref="10.37" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #metonymie #violence" ref="10.37" lemma="corrumpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">corrumpere</w>
+    <w ref="10.37" lemma="alias" pos="ADV" msd="Numb=Plur">alias</w>
+    <w ref="10.37" lemma="furtum" pos="NOMcom" msd="Case=Abl|Numb=Sing">furtoque</w>
+    <w ref="10.37" lemma="que" pos="CON" msd="MORPH=empty">{furtoque}</w>
+    <w ref="10.37" lemma="comitatus2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Comp">comitatiores</w>
+    <w ref="10.37" lemma="reuertor" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">reverti</w>
+    <w ref="10.37" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

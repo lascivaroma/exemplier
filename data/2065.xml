@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Cicero</author>, <title>Letters to his Friends</title>, <biblscope>9.22.1-9.22.1</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi056.perseus-lat1:9.22.1-9.22.1" type="section">
+    <w ref="9.22.1" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="9.22.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="9.22.1" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="9.22.1" lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Sing">virginem</w>
+    <w ref="9.22.1" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="9.22.1" lemma="quondam" pos="ADV" msd="Deg=Pos">quondam</w>
+    <w ref="9.22.1" lemma="inuitus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">invitam</w>
+    <w ref="9.22.1" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="9.22.1" lemma="uis" pos="NOMcom" msd="Case=Acc|Numb=Sing">vim</w>
+    <w ana="#acte #metonymie #violence" ref="9.22.1" lemma="uiolo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">violat</w>
+    <w ref="9.22.1" lemma="Iuppiter" pos="NOMpro" msd="Case=Nom|Numb=Sing">Iuppiter</w>
+    <w ref="9.22.1" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="9.22.1" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:203" ana="#acte #euphemism #ellipse #res #prostitution">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>5.61.14-5.61.14</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:5.61.14-5.61.14" type="line">
+    <w ana="#acte #euphemism #ellipse #res #prostitution" ref="5.61.14" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Sing">Res</w>
+    <w ref="5.61.14" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="5.61.14" lemma="uxor" pos="NOMcom" msd="Case=Gen|Numb=Sing">uxoris</w>
+    <w ref="5.61.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.61.14" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Plur">res</w>
+    <w ref="5.61.14" lemma="ago" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">agit</w>
+    <w ref="5.61.14" lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">iste</w>
+    <w ref="5.61.14" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Fem">tuas</w>
+    <w ref="5.61.14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

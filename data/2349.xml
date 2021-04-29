@@ -1,0 +1,19 @@
+<div  type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.18.17-11.18.22</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.18.17-11.18.22" type="line">
+    <w ref="11.18.21" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="11.18.21" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="11.18.21" lemma="sto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">stet</w>
+    <w ref="11.18.21" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="11.18.21" lemma="falx" pos="NOMcom" msd="Case=Abl|Numb=Sing">falce</w>
+    <w ana="#mentula" ref="11.18.21" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentulaque</w>
+    <w ref="11.18.21" lemma="que" pos="CON" msd="MORPH=empty">{mentulaque}</w>
+    <w ref="11.18.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.18.22" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ref="11.18.22" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="11.18.22" lemma="dimidius" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Deg=Pos">dimidio</w>
+    <w ref="11.18.22" lemma="locus" pos="NOMcom" msd="Case=Nom|Numb=Sing">locus</w>
+    <w ref="11.18.22" lemma="Priapus" pos="NOMpro" msd="Case=Dat|Numb=Sing">Priapo</w>
+    <w ref="11.18.22" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

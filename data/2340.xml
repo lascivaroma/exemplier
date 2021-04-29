@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>9.2.13-9.2.14</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.2.13-9.2.14" type="line">
+    <w ref="9.2.13" lemma="1" pos="ADJcar" msd="MORPH=empty">I</w>
+    <w ref="9.2.13" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="9.2.13" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.2.13" lemma="miser" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">miseros</w>
+    <w ref="9.2.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.2.13" lemma="Cybele" pos="NOMpro" msd="Case=Voc|Numb=Sing">Cybele</w>
+    <w ref="9.2.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.2.13" lemma="praecido2" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">praecide</w>
+    <w ref="9.2.13" lemma="cinaedus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">cinaedos</w>
+    <w ref="9.2.13" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="9.2.14" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">Haec</w>
+    <w ref="9.2.14" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
+    <w ref="9.2.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.2.14" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">haec</w>
+    <w ref="9.2.14" lemma="culter" pos="NOMcom" msd="Case=Dat|Numb=Plur">cultris</w>
+    <w ana="#mentula" ref="9.2.14" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="9.2.14" lemma="dignus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">digna</w>
+    <w ref="9.2.14" lemma="tuus" pos="PROpos" msd="Case=Dat|Numb=Plur|Gend=Com">tuis</w>
+    <w ref="9.2.14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

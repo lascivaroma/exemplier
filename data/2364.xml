@@ -1,0 +1,12 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>14.74.2-14.74.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:14.74.2-14.74.2" type="line">
+    <w ref="14.74.2" lemma="in" pos="PRE" msd="MORPH=empty">In</w>
+    <w ref="14.74.2" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+    <w ref="14.74.2" lemma="intro1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">intravit</w>
+    <w ana="#mentula" ref="14.74.2" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="14.74.2" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">nulla</w>
+    <w ref="14.74.2" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=MascNeut">tuum</w>
+    <w ref="14.74.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

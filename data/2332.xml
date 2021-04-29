@@ -1,0 +1,17 @@
+<div  type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>6.73.5-6.73.8</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:6.73.5-6.73.8" type="line">
+    <w ref="6.73.7" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="6.73.7" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="6.73.7" lemma="perpetuus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">perpetua</w>
+    <w ref="6.73.7" lemma="numquam" pos="ADVneg" msd="MORPH=empty">numquam</w>
+    <w ref="6.73.7" lemma="morior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Dep">moritura</w>
+    <w ref="6.73.7" lemma="cupressus" pos="NOMcom" msd="Case=Abl|Numb=Sing">cupresso</w>
+    <w ref="6.73.8" lemma="Phidiacus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">Phidiaca</w>
+    <w ref="6.73.8" lemma="rigeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">rigeat</w>
+    <w ana="#mentula" ref="6.73.8" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="6.73.8" lemma="dignus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">digna</w>
+    <w ref="6.73.8" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
+    <w ref="6.73.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

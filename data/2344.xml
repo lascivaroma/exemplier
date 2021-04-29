@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>9.37.9-9.37.10</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.37.9-9.37.10" type="line">
+    <w ref="9.37.9" lemma="promitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">Promittis</w>
+    <w ref="9.37.9" lemma="sescenti" pos="ADJcar" msd="Case=Acc|Numb=Sing|Gend=Fem">sescenta</w>
+    <w ref="9.37.9" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="9.37.9" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="9.37.9" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ana="#mentula" ref="9.37.9" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="9.37.9" lemma="surdus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">surda</w>
+    <w ref="9.37.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="9.37.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.37.10" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="9.37.10" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="9.37.10" lemma="luscus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">lusca</w>
+    <w ref="9.37.10" lemma="licet3" pos="CONsub" msd="Mood=Ind|Tense=Pres|Voice=Act">licet</w>
+    <w ref="9.37.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.37.10" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="9.37.10" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="9.37.10" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="9.37.10" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">videt</w>
+    <w ref="9.37.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

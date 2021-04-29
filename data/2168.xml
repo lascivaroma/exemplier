@@ -1,0 +1,26 @@
+<div  type="fragment" corresp="adams:200" ana="#acte #metonymie #harass">
+  <bibl ref="#adams"><author>Ausonius, Decimus Magnus</author>, <title>Epigrammaton Liber</title>, <biblscope>106.13-106.18</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:106.13-106.18" type="line">
+    <w ref="106.13" lemma="deseco" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">desectos</w>
+    <w ref="106.13" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+    <w ref="106.13" lemma="fama" pos="NOMcom" msd="Case=Nom|Numb=Sing">fama</w>
+    <w ref="106.13" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Plur">viros</w>
+    <w ref="106.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="106.13" lemma="ubi1" pos="ADVrel" msd="MORPH=empty">ubi</w>
+    <w ref="106.13" lemma="cassus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">cassa</w>
+    <w ref="106.13" lemma="libido" pos="NOMcom" msd="Case=Nom|Numb=Sing">libido</w>
+    <w ref="106.14" lemma="femineus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">femineos</w>
+    <w ref="106.14" lemma="coetus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coetus</w>
+    <w ref="106.14" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="106.14" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="106.14" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Plur|Gend=Neut">sua</w>
+    <w ref="106.14" lemma="bellum" pos="NOMcom" msd="Case=Acc|Numb=Plur">bella</w>
+    <w ref="106.14" lemma="lacesso" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">lacessiti</w>
+    <w ref="106.15" lemma="irritus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">irrita</w>
+    <w ana="#acte #metonymie #harass" ref="106.15" lemma="uexo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">vexato</w>
+    <w ref="106.15" lemma="consumo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act|Person=3">consumere</w>
+    <w ref="106.15" lemma="gaudium" pos="NOMcom" msd="Case=Acc|Numb=Plur">gaudia</w>
+    <w ref="106.15" lemma="lectus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">lecto</w>
+    <w ref="106.15" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

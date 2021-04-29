@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Excerpta Valesiana pars posterior</author>, <title>Origo Constantini imperatoris (= Excerpta Valesiana pars prior)</title>, <biblscope>5.10-5.10</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0318.stoa002.digilibLT-lat1:5.10-5.10" type="paragraph">
+    <w ref="5.10" lemma="occido2" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">occisis</w>
+    <w ref="5.10" lemma="ob" pos="PRE" msd="MORPH=empty">ob</w>
+    <w ref="5.10" lemma="diuitiae" pos="NOMcom" msd="Case=Acc|Numb=Plur">divitias</w>
+    <w ref="5.10" lemma="multus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp">pluribus</w>
+    <w ref="5.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.10" lemma="uxor" pos="NOMcom" msd="Case=Abl|Numb=Plur">uxoribus</w>
+    <w ref="5.10" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=MascNeut">eorum</w>
+    <w ana="#acte #metonymie #violence" ref="5.10" lemma="corrumpo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">corruptis</w>
+    <w ref="5.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

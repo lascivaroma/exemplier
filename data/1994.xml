@@ -1,0 +1,32 @@
+<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences">
+  <bibl ref="#adams"><author>Cicero</author>, <title>For Marcus Caelius</title>, <biblscope>49-49</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi024.perseus-lat2:49-49" type="unknown">
+    <w ref="49" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="49" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">hac</w>
+    <w ref="49" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="49" lemma="quis2" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="49" lemma="adolescens1" pos="NOMcom" msd="Case=Nom|Numb=Sing">adulescens</w>
+    <w ref="49" lemma="forte" pos="ADV" msd="Deg=Pos">forte</w>
+    <w ref="49" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">fuerit</w>
+    <w ref="49" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="49" lemma="utrum" pos="ADVint" msd="MORPH=empty">utrum</w>
+    <w ref="49" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
+    <w ref="49" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="49" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="49" lemma="Lucius" pos="NOMpro" msd="Case=Gen|Numb=Sing">Luci</w>
+    <w ref="49" lemma="Herennius" pos="NOMpro" msd="Case=Gen|Numb=Sing">Herenni</w>
+    <w ref="49" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="49" lemma="adulter1" pos="NOMcom" msd="Case=Nom|Numb=Sing">adulter</w>
+    <w ref="49" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="49" lemma="amator" pos="NOMcom" msd="Case=Nom|Numb=Sing">amator</w>
+    <w ref="49" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #consequences" ref="49" lemma="expugno" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">expugnare</w>
+    <w ana="#acte #metonymie #consequences" ref="49" lemma="pudicitia" pos="NOMcom" msd="Case=Acc|Numb=Sing">pudicitiam</w>
+    <w ref="49" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="49" lemma="expleo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">explere</w>
+    <w ref="49" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing">libidinem</w>
+    <w ref="49" lemma="uolo3" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">voluisse</w>
+    <w ref="49" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">videatur</w>
+    <w ref="49" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:203" ana="#acte #euphemism #ellipse #res #prostitution">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Self-Tormenter</title>, <biblscope>388-388</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi002.perseus-lat2:388-388" type="line">
+    <w ref="388" lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
+    <w ref="388" lemma="expedio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">expedit</w>
+    <w ref="388" lemma="bonus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">bonas</w>
+    <w ref="388" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="388" lemma="uos" pos="PROper" msd="Case=Dat|Numb=Plur">vobis</w>
+    <w ref="388" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="388" lemma="nos" pos="PROper" msd="Case=Acc|Numb=Plur">nos</w>
+    <w ref="388" lemma="qui" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibuscum</w>
+    <w ref="388" lemma="cum3" pos="CON" msd="MORPH=empty">{quibuscum}</w>
+    <w ref="388" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ana="#acte #euphemism #ellipse #res #prostitution" ref="388" lemma="res" pos="NOMcom" msd="Case=Nom|Numb=Plur">res</w>
+    <w ref="388" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="388" lemma="sino" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sinunt</w>
+    <w ref="388" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

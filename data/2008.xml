@@ -1,0 +1,25 @@
+<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences #tired">
+  <bibl ref="#adams"><author>Vopiscus, Flavius fl. 3./4. Jh.</author>, <title>Maximini Duo</title>, <biblscope>4-4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi019.perseus-lat2:4-4" type="chapter">
+    <w ref="4" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=2">Diceris</w>
+    <w ref="4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4" lemma="magnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">Maximine</w>
+    <w ref="4" lemma="ne2" pos="ADV" msd="MORPH=empty">{Maximine}</w>
+    <w ref="4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4" lemma="sedecim" pos="ADJcar" msd="Case=Ind">sedecim</w>
+    <w ref="4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="4" lemma="uiginti" pos="ADJcar" msd="Case=Ind">viginti</w>
+    <w ref="4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="4" lemma="triginta" pos="ADJcar" msd="Case=Ind">triginta</w>
+    <w ref="4" lemma="miles" pos="NOMcom" msd="Case=Acc|Numb=Plur">milites</w>
+    <w ref="4" lemma="aliquando" pos="ADV" msd="Deg=Pos">aliquando</w>
+    <w ana="#acte #metonymie #consequences #tired" ref="4" lemma="lasso" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">lassasse</w>
+    <w ref="4" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="4" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">potes</w>
+    <w ref="4" lemma="tricies" pos="NOMcom" msd="Case=Acc">tricies</w>
+    <w ref="4" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="4" lemma="mulier" pos="NOMcom" msd="Case=Abl|Numb=Sing">muliere</w>
+    <w ref="4" lemma="perficio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">perficere</w>
+    <w ref="4" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

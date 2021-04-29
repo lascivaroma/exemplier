@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:206" ana="#acte #animals #salio #homme">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Naturales quaestiones</title>, <biblscope>1.16.2-1.16.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi016.corpuscorporum-lat1:1.16.2-1.16.2" type="section">
+    <w ref="1.16.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.16.2" lemma="auersus" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc">auersus</w>
+    <w ref="1.16.2" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=MascFem">omnes</w>
+    <w ana="#acte #animals #salio #homme" ref="1.16.2" lemma="admissarius" pos="NOMcom" msd="Case=Gen|Numb=Sing">admissarii</w>
+    <w ref="1.16.2" lemma="suus" pos="PROpos.ref" msd="Case=Gen|Numb=Sing|Gend=MascNeut">sui</w>
+    <w ref="1.16.2" lemma="motus" pos="NOMcom" msd="Case=Acc|Numb=Plur">motus</w>
+    <w ref="1.16.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.16.2" lemma="speculum" pos="NOMcom" msd="Case=Abl|Numb=Sing">speculo</w>
+    <w ref="1.16.2" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">uideret</w>
+  </quote>
+</div>

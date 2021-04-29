@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>106-106</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:106-106" type="section">
+    <w ref="106" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="106" lemma="Lichas" pos="NOMpro" msd="Case=Nom|Numb=Sing">Lichas</w>
+    <w ref="106" lemma="memor" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">memor</w>
+    <w ref="106" lemma="adhuc" pos="ADV" msd="Deg=Pos">adhuc</w>
+    <w ref="106" lemma="uxor" pos="NOMcom" msd="Case=Gen|Numb=Sing">uxoris</w>
+    <w ana="#acte #metonymie #violence" ref="106" lemma="corrumpo" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">corruptae</w>
+    <w ref="106" lemma="contumelia" pos="NOMcom" msd="Case=Gen|Numb=Plur">contumeliarumque</w>
+    <w ref="106" lemma="que" pos="CON" msd="MORPH=empty">{contumeliarumque}</w>
+  </quote>
+</div>

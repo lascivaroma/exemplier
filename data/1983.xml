@@ -1,0 +1,24 @@
+<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #concomitant">
+  <bibl ref="#adams"><author>Apuleius</author>, <title>Metamorphoses</title>, <biblscope>2.7-2.8</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:2.7-2.8" type="chapter">
+    <w ref="2.7" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">quae</w>
+    <w ref="2.7" lemma="dulcis" pos="ADV" msd="Case=Acc|Deg=Pos">dulce</w>
+    <w ref="2.7" lemma="condio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">condiens</w>
+    <w ref="2.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.7" lemma="aula2" pos="NOMcom" msd="Case=Acc|Numb=Sing">ollam</w>
+    <w ref="2.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #metonymie #concomitant" ref="2.7" lemma="lectulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">lectulum</w>
+    <w ref="2.7" lemma="suaue" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos">suave</w>
+    <w ref="2.7" lemma="quatio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">quatere</w>
+    <w ref="2.7" lemma="nosco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">novi</w>
+    <w ref="2.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.8" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">Haec</w>
+    <w ref="2.8" lemma="dico2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">dicens</w>
+    <w ref="2.8" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.8" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="2.8" lemma="respicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">respexit</w>
+    <w ref="2.8" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.8" lemma="rideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">risit</w>
+    <w ref="2.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

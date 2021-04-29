@@ -1,0 +1,36 @@
+<div type="fragment" corresp="adams:203" ana="#acte #euphemism #ellipse #res">
+  <bibl ref="#adams"><author>Lucretius</author>, <title>De Rerum Natura</title>, <biblscope>5.845-5.848</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:5.845-5.848" type="line">
+    <w ref="5.845" lemma="cetera?" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut">cetera</w>
+    <w ref="5.845" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="5.845" lemma="genus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">genere</w>
+    <w ref="5.845" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=MascNeut">hoc</w>
+    <w ref="5.845" lemma="monstrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">monstra</w>
+    <w ref="5.845" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="5.845" lemma="portentum" pos="NOMcom" msd="Case=Acc|Numb=Plur">portenta</w>
+    <w ref="5.845" lemma="creo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">creabat</w>
+    <w ref="5.845" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.846" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="5.846" lemma="quisquam" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Com">quiquam</w>
+    <w ref="5.846" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.846" lemma="quoniam" pos="CONsub" msd="MORPH=empty">quoniam</w>
+    <w ref="5.846" lemma="natura" pos="NOMcom" msd="Case=Nom|Numb=Sing">natura</w>
+    <w ref="5.846" lemma="absterreo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">absterruit</w>
+    <w ref="5.846" lemma="augeo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">auctum</w>
+    <w ref="5.847" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="5.847" lemma="possum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">potuere</w>
+    <w ref="5.847" lemma="cupio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">cupitum</w>
+    <w ref="5.847" lemma="aetas" pos="NOMcom" msd="Case=Gen|Numb=Sing">aetatis</w>
+    <w ref="5.847" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tangere</w>
+    <w ref="5.847" lemma="flos" pos="NOMcom" msd="Case=Acc|Numb=Sing">florem</w>
+    <w ref="5.848" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="5.848" lemma="reperio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">reperire</w>
+    <w ref="5.848" lemma="cibus" pos="NOMcom" msd="Case=Acc|Numb=Sing">cibum</w>
+    <w ref="5.848" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="5.848" lemma="iungo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">iungi</w>
+    <w ref="5.848" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="5.848" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
+    <w ana="#acte #euphemism #ellipse #res" ref="5.848" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Plur">res</w>
+    <w ref="5.848" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

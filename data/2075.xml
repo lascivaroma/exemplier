@@ -1,0 +1,23 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Thyestes</title>, <biblscope>236-241</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi008.perseus-lat2:236-241" type="line">
+    <w ref="236" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="237" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="237" lemma="regnum" pos="NOMcom" msd="Case=Acc|Numb=Plur">regna</w>
+    <w ref="237" lemma="trepidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">trepidus</w>
+    <w ref="237" lemma="exsul" pos="NOMcom" msd="Case=Nom|Numb=Sing">exul</w>
+    <w ref="237" lemma="erro2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">erravi</w>
+    <w ref="237" lemma="meus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">mea</w>
+    <w ref="237" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="238" lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing">pars</w>
+    <w ref="238" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">nulla</w>
+    <w ref="238" lemma="genus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">generis</w>
+    <w ref="238" lemma="tutus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">tuta</w>
+    <w ref="238" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="238" lemma="insidiae" pos="NOMcom" msd="Case=Abl|Numb=Plur">insidiis</w>
+    <w ref="238" lemma="uaco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vacat</w>
+    <w ref="238" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #violence" ref="239" lemma="corrumpo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">corrupta</w>
+  </quote>
+</div>

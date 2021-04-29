@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences">
+  <bibl ref="#adams"><author>Arnobius of Sicca</author>, <title>Arnobii adversus nationes Libri VII</title>, <biblscope>5.22-5.22</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.22-5.22" type="section">
+    <w ref="5.22" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="5.22" lemma="mulier" pos="NOMcom" msd="Case=Gen|Numb=Sing">mulieris</w>
+    <w ref="5.22" lemma="nomen" pos="NOMcom" msd="Case=Acc|Numb=Sing">nomen</w>
+    <w ref="5.22" lemma="propero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">properauit</w>
+    <w ref="5.22" lemma="Europa" pos="NOMpro" msd="Case=Nom|Numb=Sing">Europa</w>
+    <w ref="5.22" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ana="#acte #metonymie #consequences" ref="5.22" lemma="expugnator" pos="NOMcom" msd="Case=Nom|Numb=Sing">expugnator</w>
+    <w ana="#acte #metonymie #consequences" ref="5.22" lemma="pudicitia" pos="NOMcom" msd="Case=Gen|Numb=Sing">pudicitiae</w>
+    <w ref="5.22" lemma="idem" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=MascNeut">idem</w>
+    <w ref="5.22" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="5.22" lemma="iacto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">iactatur</w>
+    <w ref="5.22" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

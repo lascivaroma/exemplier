@@ -1,0 +1,29 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>2.7.3-2.7.3</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:2.7.3-2.7.3" type="section">
+    <w ref="2.7.3" lemma="erro2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">Erratis</w>
+    <w ref="2.7.3" lemma="uos" pos="PROper" msd="Case=Nom|Numb=Plur">uos</w>
+    <w ref="2.7.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.7.3" lemma="iudex" pos="NOMcom" msd="Case=Voc|Numb=Plur">iudices</w>
+    <w ref="2.7.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.7.3" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="2.7.3" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="2.7.3" lemma="magnus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Comp">maius</w>
+    <w ref="2.7.3" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="2.7.3" lemma="sollicito" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">sollicitandam</w>
+    <w ref="2.7.3" lemma="matrona" pos="NOMcom" msd="Case=Acc|Numb=Sing">matronam</w>
+    <w ref="2.7.3" lemma="puto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">putatis</w>
+    <w ref="2.7.3" lemma="irritamentum" pos="NOMcom" msd="Case=Acc|Numb=Sing">inritamentum</w>
+    <w ref="2.7.3" lemma="spes" pos="NOMcom" msd="Case=Acc|Numb=Sing">spem</w>
+    <w ana="#acte #metonymie #violence" ref="2.7.3" lemma="corrumpo" pos="VER" msd="Case=Gen|Numb=Sing|Mood=Ger|Voice=Act">corrumpendi</w>
+    <w ref="2.7.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.7.3" lemma="quis1" pos="ADVrel" msd="Gend=Fem">quam</w>
+    <w ref="2.7.3" lemma="facies" pos="NOMcom" msd="Case=Acc|Numb=Sing">faciem</w>
+    <w ref="2.7.3" lemma="quamuis1" pos="ADVrel" msd="MORPH=empty">quamuis</w>
+    <w ref="2.7.3" lemma="amabilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">amabilem</w>
+    <w ref="2.7.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.7.3" lemma="uenustus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">uenustam</w>
+    <w ref="2.7.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

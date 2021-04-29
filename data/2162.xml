@@ -1,0 +1,31 @@
+<div  type="fragment" corresp="adams:200" ana="#acte #metonymie #insulter">
+  <bibl ref="#adams"><author>Apuleius</author>, <title>Metamorphoses</title>, <biblscope>1.12-1.12</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1. 389.76ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:1.12-1.12" type="chapter">
+    <w ref="1.12" lemma="infio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Infit</w>
+    <w ref="1.12" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="1.12" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="1.12" lemma="gladius" pos="NOMcom" msd="Case=Abl|Numb=Sing">gladio</w>
+    <w ref="1.12" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">Hic</w>
+    <w ref="1.12" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.12" lemma="soror" pos="NOMcom" msd="Case=Nom|Numb=Sing">soror</w>
+    <w ref="1.12" lemma="Panthia" pos="NOMpro" msd="Case=Nom|Numb=Sing">Panthia</w>
+    <w ref="1.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.12" lemma="carus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">carus</w>
+    <w ref="1.12" lemma="Endymion" pos="NOMpro" msd="Case=Nom|Numb=Sing">Endymion</w>
+    <w ref="1.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.12" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
+    <w ref="1.12" lemma="Catamitus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Catamitus</w>
+    <w ref="1.12" lemma="meus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Masc">meus</w>
+    <w ref="1.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.12" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="1.12" lemma="dies" pos="NOMcom" msd="Case=Abl|Numb=Plur">diebus</w>
+    <w ref="1.12" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="1.12" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Plur">noctibus</w>
+    <w ana="#acte #metonymie #insulter" ref="1.12" lemma="illudo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">illusit</w>
+    <w ref="1.12" lemma="aetatula" pos="NOMcom" msd="Case=Acc|Numb=Sing">aetatulam</w>
+    <w ref="1.12" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">meam</w>
+    <w ref="1.12" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+  </quote>
+</div>

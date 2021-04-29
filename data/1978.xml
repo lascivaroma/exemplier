@@ -1,0 +1,21 @@
+<div  type="fragment" corresp="adams:193" ana="#acte #metonymie #movement">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.104.11-11.104.15</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.104.11-11.104.15" type="line">
+    <w ref="11.104.11" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ana="#acte #metonymie #movement" ref="11.104.11" lemma="motus" pos="NOMcom" msd="Case=Abl|Numb=Sing">motu</w>
+    <w ref="11.104.11" lemma="dignor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2">dignaris</w>
+    <w ref="11.104.11" lemma="opus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">opus</w>
+    <w ref="11.104.11" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="11.104.11" lemma="uox" pos="NOMcom" msd="Case=Abl|Numb=Sing">voce</w>
+    <w ref="11.104.11" lemma="iuuo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">iuvare</w>
+    <w ref="11.104.12" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ref="11.104.12" lemma="digitus" pos="NOMcom" msd="Case=Abl|Numb=Plur">digitis</w>
+    <w ref="11.104.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.104.12" lemma="tamquam1" pos="ADVrel" msd="MORPH=empty">tamquam</w>
+    <w ref="11.104.12" lemma="tus" pos="NOMcom" msd="Case=Acc|Numb=Plur">tura</w>
+    <w ref="11.104.12" lemma="merum" pos="NOMcom" msd="Case=Acc|Numb=Sing">merumque</w>
+    <w ref="11.104.12" lemma="que" pos="CON" msd="MORPH=empty">{merumque}</w>
+    <w ref="11.104.12" lemma="par2" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">pares</w>
+    <w ref="11.104.12" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+  </quote>
+</div>

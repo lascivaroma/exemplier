@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Apuleius</author>, <title>Metamorphoses</title>, <biblscope>8.7-8.7</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:8.7-8.7" type="chapter">
+    <w ref="8.7" lemma="eiulatus" pos="NOMcom" msd="Case=Acc|Numb=Sing">eiulatum</w>
+    <w ref="8.7" lemma="coerceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">coercere</w>
+    <w ref="8.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8.7" lemma="uerbum" pos="NOMcom" msd="Case=Abl|Numb=Plur">verbis</w>
+    <w ref="8.7" lemma="palpo2" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">palpantibus</w>
+    <w ref="8.7" lemma="stimulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">stimulum</w>
+    <w ref="8.7" lemma="dolor" pos="NOMcom" msd="Case=Gen|Numb=Sing">doloris</w>
+    <w ref="8.7" lemma="obtundo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">obtundere</w>
+    <w ref="8.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8.7" lemma="uarius" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">variis</w>
+    <w ref="8.7" lemma="exemplum" pos="NOMcom" msd="Case=Abl|Numb=Plur">exemplis</w>
+    <w ref="8.7" lemma="multiuagus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Deg=Pos">multivagi</w>
+    <w ref="8.7" lemma="casus" pos="NOMcom" msd="Case=Gen|Numb=Plur">casus</w>
+    <w ref="8.7" lemma="solacium" pos="NOMcom" msd="Case=Acc|Numb=Plur">solacia</w>
+    <w ref="8.7" lemma="necto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">nectere</w>
+    <w ref="8.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8.7" lemma="cunctus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">cunctis</w>
+    <w ref="8.7" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="8.7" lemma="mentior" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">mentitae</w>
+    <w ref="8.7" lemma="pietas" pos="NOMcom" msd="Case=Gen|Numb=Sing">pietatis</w>
+    <w ref="8.7" lemma="officium" pos="NOMcom" msd="Case=Abl|Numb=Plur">officiis</w>
+    <w ref="8.7" lemma="studium" pos="NOMcom" msd="Case=Acc|Numb=Sing">studium</w>
+    <w ref="8.7" lemma="contrecto" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">contrectandae</w>
+    <w ref="8.7" lemma="mulier" pos="NOMcom" msd="Case=Gen|Numb=Sing">mulieris</w>
+    <w ref="8.7" lemma="adhibeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">adhibere</w>
+    <w ref="8.7" lemma="odiosus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">odiosumque</w>
+    <w ref="8.7" lemma="que" pos="CON" msd="MORPH=empty">{odiosumque}</w>
+    <w ref="8.7" lemma="amor" pos="NOMcom" msd="Case=Acc|Numb=Sing">amorem</w>
+    <w ref="8.7" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=MascNeut">suum</w>
+    <w ref="8.7" lemma="perperam" pos="ADV" msd="Deg=Pos">perperam</w>
+    <w ana="#acte #metonymie #pleasure" ref="8.7" lemma="delecto" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">delectando</w>
+    <w ref="8.7" lemma="nutrio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">nutrire</w>
+    <w ref="8.7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

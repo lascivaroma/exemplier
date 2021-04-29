@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Titus Livius (Livy)</author>, <title>Ab urbe condita</title>, <biblscope>1.59.1-1.59.1</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VII.1.1670.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0914.phi001.perseus-lat2:1.59.1-1.59.1" type="section">
+    <w ref="1.59.1" lemma="castus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Sup">castissimum</w>
+    <w ref="1.59.1" lemma="ante2" pos="PRE" msd="MORPH=empty">ante</w>
+    <w ref="1.59.1" lemma="regius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos">regiam</w>
+    <w ana="#acte #metonymie #violence" ref="1.59.1" lemma="iniuria" pos="NOMcom" msd="Case=Acc|Numb=Sing">iniuriam</w>
+    <w ref="1.59.1" lemma="sanguis" pos="NOMcom" msd="Case=Acc|Numb=Sing">sanguinem</w>
+    <w ref="1.59.1" lemma="iuro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">iuro</w>
+  </quote>
+</div>

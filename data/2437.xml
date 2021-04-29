@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:26" ana="#mentula #metaphore #botanique">
+  <bibl ref="#adams"><author>Prudentius b. 348</author>, <title>Contra Orationem Symmachia</title>, <biblscope>1.1.111-1.1.115</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0238.stoa007.perseus-lat2:1.1.111-1.1.115" type="line">
+    <w ref="1.1.114" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.1.115" lemma="turpiter" pos="ADV" msd="Deg=Pos">turpiter</w>
+    <w ref="1.1.115" lemma="affigo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">adfixo</w>
+    <w ref="1.1.115" lemma="pudeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">pudeat</w>
+    <w ref="1.1.115" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+    <w ref="1.1.115" lemma="uiso" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">visere</w>
+    <w ana="#mentula #metaphore #botanique" ref="1.1.115" lemma="ramus" pos="NOMcom" msd="Case=Abl|Numb=Sing">ramo</w>
+    <w ref="1.1.115" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

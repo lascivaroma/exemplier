@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>23.1-23.6</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:23.1-23.6" type="line">
+    <w ref="23.5" lemma="precor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">precor</w>
+    <w ref="23.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23.5" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+    <w ana="#mentula" ref="23.5" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentulaque</w>
+    <w ref="23.5" lemma="que" pos="CON" msd="MORPH=empty">{mentulaque}</w>
+    <w ref="23.6" lemma="nequicquam" pos="ADV" msd="Deg=Pos">nequicquam</w>
+    <w ref="23.6" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="23.6" lemma="pulso" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">pulset</w>
+    <w ref="23.6" lemma="umbilicus" pos="NOMcom" msd="Case=Acc|Numb=Sing">umbilicum</w>
+    <w ref="23.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

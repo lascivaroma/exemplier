@@ -1,0 +1,25 @@
+<div  type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Severus, Sulpicius</author>, <title>Chronica</title>, <biblscope>2.16.3-2.16.3</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL I.241.68ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0270.stoa001.opp-lat1:2.16.3-2.16.3" type="section">
+    <w ref="2.16.3" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="2.16.3" lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
+    <w ref="2.16.3" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="2.16.3" lemma="triduum" pos="NOMcom" msd="Case=Acc|Numb=Sing">triduum</w>
+    <w ref="2.16.3" lemma="egredior" pos="VER" msd="Case=Gen|Numb=Sing|Mood=Ger|Voice=Dep">egrediendi</w>
+    <w ref="2.16.3" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="2.16.3" lemma="redeo1" pos="VER" msd="Case=Gen|Numb=Sing|Mood=Ger|Voice=Act">redeundi</w>
+    <w ref="2.16.3" lemma="consuetudo" pos="NOMcom" msd="Case=Acc|Numb=Sing">consuetudinem</w>
+    <w ref="2.16.3" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="2.16.3" lemma="barbarus1" pos="NOMcom" msd="Case=Dat|Numb=Plur">barbaris</w>
+    <w ref="2.16.3" lemma="fides2" pos="NOMcom" msd="Case=Acc|Numb=Sing">fidem</w>
+    <w ref="2.16.3" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fecit</w>
+    <w ref="2.16.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.16.3" lemma="Holopernes" pos="ADJqua" msd="Case=Acc|Numb=Sing">Holofernem</w>
+    <w ref="2.16.3" lemma="cupido" pos="NOMcom" msd="Case=Nom|Numb=Sing">cupido</w>
+    <w ref="2.16.3" lemma="incedo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">incessit</w>
+    <w ref="2.16.3" lemma="dediticius2" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">dediticiae</w>
+    <w ref="2.16.3" lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
+    <w ana="#acte #metonymie #pleasure" ref="2.16.3" lemma="abutor" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">abuti</w>
+  </quote>
+</div>

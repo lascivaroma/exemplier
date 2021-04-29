@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:206" ana="#acte #animals #salio #humain">
+  <bibl ref="#adams"><author>Lucan</author>, <title>Civil War</title>, <biblscope>8.409-8.410</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0917.phi001.perseus-lat2:8.409-8.410" type="line">
+    <w ref="8.409" lemma="quis1" pos="PROint" msd="Case=Dat|Numb=Sing|Gend=Com">Cui</w>
+    <w ref="8.409" lemma="fas" pos="NOMcom" msd="Case=Ind">fas</w>
+    <w ana="#acte #animals #salio #humain" ref="8.409" lemma="impleo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">implere</w>
+    <w ref="8.409" lemma="parens1" pos="NOMcom" msd="Case=Acc|Numb=Sing">parentem</w>
+    <w ref="8.409" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8.410" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">Quid</w>
+    <w ref="8.410" lemma="reor" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=1">rear</w>
+    <w ref="8.410" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="8.410" lemma="nefas" pos="NOMcom" msd="Case=Ind">nefas</w>
+    <w ref="8.410" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

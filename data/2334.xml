@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>7.18.12-7.18.12</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:7.18.12-7.18.12" type="line">
+    <w ref="7.18.12" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+    <w ref="7.18.12" lemma="sono1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sonat</w>
+    <w ref="7.18.12" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
+    <w ref="7.18.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.18.12" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
+    <w ref="7.18.12" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ana="#mentula" ref="7.18.12" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="7.18.12" lemma="mens" pos="NOMcom" msd="Case=Nom|Numb=Sing">mensque</w>
+    <w ref="7.18.12" lemma="que" pos="CON" msd="MORPH=empty">{mensque}</w>
+    <w ref="7.18.12" lemma="cado" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cadit</w>
+    <w ref="7.18.12" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

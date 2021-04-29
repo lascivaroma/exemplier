@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:200" ana="#acte #metonymie #harass">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.81.1-11.81.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.81.1-11.81.2" type="line">
+    <w ref="11.81.1" lemma="cum2" pos="PRE" msd="MORPH=empty">Cum</w>
+    <w ref="11.81.1" lemma="senex1" pos="NOMcom" msd="Case=Abl|Numb=Sing">sene</w>
+    <w ref="11.81.1" lemma="communis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">communem</w>
+    <w ana="#acte #metonymie #harass" ref="11.81.1" lemma="uexo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vexat</w>
+    <w ref="11.81.1" lemma="spado" pos="NOMcom" msd="Case=Nom|Numb=Sing">spado</w>
+    <w ref="11.81.1" lemma="Dindymus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Dindymus</w>
+    <w ref="11.81.1" lemma="Aegle" pos="NOMpro" msd="Case=Acc|Numb=Sing">Aeglen</w>
+    <w ref="11.81.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.81.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="11.81.2" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iacet</w>
+    <w ref="11.81.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="11.81.2" lemma="medius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">medio</w>
+    <w ref="11.81.2" lemma="siccus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">sicca</w>
+    <w ref="11.81.2" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
+    <w ref="11.81.2" lemma="torus" pos="NOMcom" msd="Case=Abl|Numb=Sing">toro</w>
+    <w ref="11.81.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

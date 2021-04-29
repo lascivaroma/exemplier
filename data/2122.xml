@@ -1,0 +1,10 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>1.2.2-1.2.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:1.2.2-1.2.2" type="section">
+    <w ref="1.2.2" lemma="“" pos="PUNC" msd="MORPH=empty">“</w>
+    <w ref="1.2.2" lemma="uis" pos="NOMcom" msd="Case=Acc|Numb=Sing">uim</w>
+    <w ana="#acte #metonymie #violence" ref="1.2.2" lemma="affero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">adferebat</w>
+    <w ref="1.2.2" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="1.2.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

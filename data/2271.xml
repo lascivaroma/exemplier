@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:208" ana="#acte #masturbor">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>6.23.3-6.23.4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:6.23.3-6.23.4" type="line">
+    <w ref="6.23.3" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">Tu</w>
+    <w ref="6.23.3" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">licet</w>
+    <w ref="6.23.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #masturbor" ref="6.23.3" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">manibus</w>
+    <w ref="6.23.3" lemma="blandus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">blandis</w>
+    <w ref="6.23.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.23.3" lemma="uox" pos="NOMcom" msd="Case=Abl|Numb=Plur">vocibus</w>
+    <w ref="6.23.3" lemma="insto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">instes</w>
+    <w ref="6.23.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

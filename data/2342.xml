@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>9.32.5-9.32.6</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.32.5-9.32.6" type="line">
+    <w ref="9.32.5" lemma="posco" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">Poscentem</w>
+    <w ref="9.32.5" lemma="numus" pos="NOMcom" msd="Case=Acc|Numb=Plur">nummos</w>
+    <w ref="9.32.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.32.5" lemma="grandis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">grandia</w>
+    <w ref="9.32.5" lemma="uerbum" pos="NOMcom" msd="Case=Acc|Numb=Plur">verba</w>
+    <w ref="9.32.5" lemma="sono1" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">sonantem</w>
+    <w ref="9.32.6" lemma="possideo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">Possideat</w>
+    <w ref="9.32.6" lemma="crassus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">crassae</w>
+    <w ana="#mentula" ref="9.32.6" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="9.32.6" lemma="burdigala" pos="ADJqua" msd="Case=Gen|Numb=Sing|Deg=Pos">Burdigalae</w>
+    <w ref="9.32.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

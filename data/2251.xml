@@ -1,0 +1,26 @@
+<div type="fragment" corresp="adams:206" ana="#acte #animals #salio">
+  <bibl ref="#adams"><author>Columella, Lucius Junius Moderatus</author>, <title>Res Rustica</title>, <biblscope>6.37.9-6.37.9</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:6.37.9-6.37.9" type="section">
+    <w ref="6.37.9" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">Id</w>
+    <w ref="6.37.9" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="6.37.9" lemma="fio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">fiat</w>
+    <w ref="6.37.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.37.9" lemma="degener" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">degener</w>
+    <w ref="6.37.9" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="6.37.9" lemma="uulgaris" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">vulgaris</w>
+    <w ref="6.37.9" lemma="asellus" pos="NOMcom" msd="Case=Nom|Numb=Sing">asellus</w>
+    <w ana="#acte #animals #salio" ref="6.37.9" lemma="admoueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">admovetur</w>
+    <w ref="6.37.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.37.9" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="6.37.9" lemma="solicito" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">solicitet</w>
+    <w ref="6.37.9" lemma="obsequium" pos="NOMcom" msd="Case=Acc|Numb=Plur">obsequia</w>
+    <w ref="6.37.9" lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Sing">feminae</w>
+    <w ref="6.37.9" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="6.37.9" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="6.37.9" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">is</w>
+    <w ref="6.37.9" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="6.37.9" lemma="ineo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">inire</w>
+    <w ref="6.37.9" lemma="sino" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">sinitur</w>
+    <w ref="6.37.9" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

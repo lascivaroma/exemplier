@@ -1,0 +1,50 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Ambrose, Saint, Bishop of Milan</author>, <title>De lapsu virginis consecratae</title>, <biblscope>9.39-9.39</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0022.stoa036.corpuscorporum-lat1:9.39-9.39" type="chapter">
+    <w ref="9.39" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
+    <w ref="9.39" lemma="angelus" pos="NOMcom" msd="Case=Gen|Numb=Sing">angeli</w>
+    <w ref="9.39" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
+    <w ref="9.39" lemma="percutio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">percussus</w>
+    <w ref="9.39" lemma="crudelis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">crudeli</w>
+    <w ref="9.39" lemma="mors" pos="NOMcom" msd="Case=Abl|Numb=Sing">morte</w>
+    <w ref="9.39" lemma="punio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">punitus</w>
+    <w ref="9.39" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="9.39" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="9.39" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="9.39" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="9.39" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">te</w>
+    <w ref="9.39" lemma="arbitror" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2">arbitraris</w>
+    <w ref="9.39" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.39" lemma="perdite" pos="ADV" msd="Case=Voc|Numb=Plur|Deg=Pos|Mood=Imp|Tense=Pres|Voice=Act">perdite</w>
+    <w ref="9.39" lemma="pariter" pos="ADV" msd="Deg=Pos">pariter</w>
+    <w ref="9.39" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.39" lemma="perditor" pos="NOMcom" msd="Case=Voc|Numb=Sing">perditor</w>
+    <w ref="9.39" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.39" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="9.39" lemma="uas2" pos="NOMcom" msd="Case=Acc|Numb=Sing">vas</w>
+    <w ref="9.39" lemma="rationabilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">rationabile</w>
+    <w ref="9.39" lemma="consecro" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">consecratum</w>
+    <w ref="9.39" lemma="Christus" pos="NOMpro" msd="Case=Dat|Numb=Sing">Christo</w>
+    <w ref="9.39" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.39" lemma="sanctifico" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">sanctificatum</w>
+    <w ref="9.39" lemma="spiritus" pos="NOMcom" msd="Case=Dat|Numb=Sing">Spiritui</w>
+    <w ref="9.39" lemma="sanctus" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Deg=Pos">sancto</w>
+    <w ref="9.39" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.39" lemma="impie" pos="ADV" msd="Deg=Pos">impie</w>
+    <w ana="#acte #metonymie #violence" ref="9.39" lemma="temero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">temerasti</w>
+    <w ref="9.39" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.39" lemma="polluo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">polluisti</w>
+    <w ref="9.39" lemma="sacrilege" pos="NOMcom" msd="Case=Acc|Numb=Sing|Deg=Pos">sacrilege</w>
+    <w ref="9.39" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.39" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.39" lemma="tuus" pos="PROpos" msd="Case=Gen|Numb=Plur|Gend=MascNeut">tui</w>
+    <w ref="9.39" lemma="propositum" pos="NOMcom" msd="Case=Gen|Numb=Sing">propositi</w>
+    <w ref="9.39" lemma="immemor" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">immemor</w>
+    <w ref="9.39" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.39" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.39" lemma="iudicium" pos="NOMcom" msd="Case=Gen|Numb=Sing">judicii</w>
+    <w ref="9.39" lemma="diuinus2" pos="NOMcom" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">divini</w>
+    <w ref="9.39" lemma="contemplor" pos="ADJqua" msd="Case=Nom|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">contempior</w>
+    <w ref="9.39" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

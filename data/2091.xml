@@ -1,0 +1,26 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>1.2.20-1.2.20</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:1.2.20-1.2.20" type="section">
+    <w ref="1.2.20" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">potest</w>
+    <w ref="1.2.20" lemma="aliquis" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">aliquam</w>
+    <w ana="#acte #metonymie #violence" ref="1.2.20" lemma="corrumpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">corrumpere</w>
+    <w ref="1.2.20" lemma="prolabor2" pos="VER" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Dep">prolapsi</w>
+    <w ref="1.2.20" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.2.20" lemma="uitium" pos="NOMcom" msd="Case=Acc|Numb=Plur">uitia</w>
+    <w ref="1.2.20" lemma="seculus" pos="NOMcom" msd="Case=Gen|Numb=Sing">seculi</w>
+    <w ref="1.2.20" lemma="prauus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">praua</w>
+    <w ref="1.2.20" lemma="consuetudo" pos="NOMcom" msd="Case=Nom|Numb=Sing">consuetudo</w>
+    <w ref="1.2.20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.20" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="1.2.20" lemma="matrona" pos="NOMcom" msd="Case=Gen|Numb=Plur">matronarum</w>
+    <w ref="1.2.20" lemma="multum2" pos="ADV" msd="Numb=Sing|Deg=Pos">multum</w>
+    <w ref="1.2.20" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.2.20" lemma="libido" pos="NOMcom" msd="Case=Abl|Numb=Sing">libidine</w>
+    <w ref="1.2.20" lemma="magisterium" pos="NOMcom" msd="Case=Acc|Numb=Sing">magisterium</w>
+    <w ref="1.2.20" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="1.2.20" lemma="pudicus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">pudica</w>
+    <w ref="1.2.20" lemma="permaneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">permanebit</w>
+    <w ref="1.2.20" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

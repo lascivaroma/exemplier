@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:202" ana="#acte #metonymie #pecco #illicit">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>3.85.2-3.85.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:3.85.2-3.85.2" type="line">
+    <w ref="3.85.2" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ref="3.85.2" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">hac</w>
+    <w ana="#acte #metonymie #pecco #illicit" ref="3.85.2" lemma="pecco" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">peccatum</w>
+    <w ref="3.85.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="3.85.2" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing">parte</w>
+    <w ref="3.85.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.85.2" lemma="maritus1" pos="NOMcom" msd="Case=Voc|Numb=Sing">marite</w>
+    <w ref="3.85.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.85.2" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="3.85.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,13 @@
+<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Lucretius</author>, <title>De Rerum Natura</title>, <biblscope>4.1263-4.1263</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:4.1263-4.1263" type="line">
+    <w ref="4.1263" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="4.1263" lemma="qui1" pos="PROint" msd="Case=Abl|Numb=Plur|Gend=Com">quibus</w>
+    <w ref="4.1263" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ref="4.1263" lemma="modus" pos="NOMcom" msd="Case=Abl|Numb=Plur">modis</w>
+    <w ref="4.1263" lemma="tracto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">tractetur</w>
+    <w ref="4.1263" lemma="blandus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">blanda</w>
+    <w ana="#acte #metonymie #pleasure" ref="4.1263" lemma="uoluptas" pos="NOMcom" msd="Case=Nom|Numb=Sing">voluptas</w>
+    <w ref="4.1263" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

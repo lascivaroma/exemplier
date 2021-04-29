@@ -1,0 +1,28 @@
+<div  type="fragment" corresp="adams:19" ana="#mentula #metaphore #pointu #armes">
+  <bibl ref="#adams"><author>Ausonius, Decimus Magnus</author>, <title>Cento Nuptialis</title>, <biblscope>90-95</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:90-95" type="line">
+    <w ref="90" lemma="”" pos="PUNC" msd="MORPH=empty">”</w>
+    <w ref="91" lemma="talis" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">Talia</w>
+    <w ref="91" lemma="dico2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">dicentem</w>
+    <w ref="91" lemma="iamdudum" pos="ADV" msd="Deg=Pos">iamdudum</w>
+    <w ref="91" lemma="auersus" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut">aversa</w>
+    <w ref="91" lemma="tueor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">tuetur</w>
+    <w ref="92" lemma="cunctor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">cunctaturque</w>
+    <w ref="92" lemma="que" pos="CON" msd="MORPH=empty">{cunctaturque}</w>
+    <w ref="92" lemma="metus" pos="NOMcom" msd="Case=Abl|Numb=Sing">metu</w>
+    <w ana="#mentula #metaphore #pointu #armes" ref="92" lemma="telum" pos="NOMcom" msd="Case=Acc|Numb=Sing">telumque</w>
+    <w ref="92" lemma="que" pos="CON" msd="MORPH=empty">{telumque}</w>
+    <w ref="92" lemma="insto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">instare</w>
+    <w ref="92" lemma="tremisco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tremiscit</w>
+    <w ref="93" lemma="spes" pos="NOMcom" msd="Case=Acc|Numb=Sing">spemque</w>
+    <w ref="93" lemma="que" pos="CON" msd="MORPH=empty">{spemque}</w>
+    <w ref="93" lemma="metus" pos="NOMcom" msd="Case=Acc|Numb=Sing">metumque</w>
+    <w ref="93" lemma="que" pos="CON" msd="MORPH=empty">{metumque}</w>
+    <w ref="93" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="93" lemma="fundo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">funditque</w>
+    <w ref="93" lemma="que" pos="CON" msd="MORPH=empty">{funditque}</w>
+    <w ref="93" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Fem">has</w>
+    <w ref="93" lemma="os1" pos="NOMcom" msd="Case=Abl|Numb=Sing">ore</w>
+    <w ref="93" lemma="loquela" pos="NOMcom" msd="Case=Acc|Numb=Plur">loquelas</w>
+  </quote>
+</div>

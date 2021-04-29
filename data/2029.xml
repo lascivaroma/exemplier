@@ -1,0 +1,36 @@
+<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Juvenal</author>, <title>Satires</title>, <biblscope>6.399O-6.368</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.399O-6.368" type="line">
+    <w ref="6.399O" lemma="crimen" pos="NOMcom" msd="Case=Nom|Numb=Sing">crimen</w>
+    <w ref="6.399O" lemma="communis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">commune</w>
+    <w ref="6.399O" lemma="taceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">tacetur</w>
+    <w ref="6.399O" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="6.400O" lemma="prospicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">prospicit</w>
+    <w ref="6.400O" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="6.400O" lemma="prudens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">prudens</w>
+    <w ref="6.400O" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.400O" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="6.400O" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">illis</w>
+    <w ref="6.400O" lemma="incipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">incipit</w>
+    <w ref="6.400O" lemma="uxor" pos="NOMcom" msd="Case=Nom|Numb=Sing">uxor</w>
+    <w ref="6.366" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Sunt</w>
+    <w ref="6.366" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">quas</w>
+    <w ref="6.366" lemma="eunuchus" pos="NOMcom" msd="Case=Nom|Numb=Plur">eunuchi</w>
+    <w ref="6.366" lemma="imbellis" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">inbelles</w>
+    <w ref="6.366" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="6.366" lemma="mollis" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">mollia</w>
+    <w ref="6.366" lemma="semper" pos="ADV" msd="Deg=Pos">semper</w>
+    <w ref="6.367" lemma="osculum" pos="NOMcom" msd="Case=Nom|Numb=Plur">oscula</w>
+    <w ana="#acte #metonymie #pleasure" ref="6.367" lemma="delecto" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">delectent</w>
+    <w ref="6.367" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.367" lemma="desperatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">desperatio</w>
+    <w ref="6.367" lemma="barba" pos="NOMcom" msd="Case=Gen|Numb=Sing">barbae</w>
+    <w ref="6.368" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.368" lemma="qui2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="6.368" lemma="abortiuus" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Deg=Pos">abortivo</w>
+    <w ref="6.368" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="6.368" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="6.368" lemma="opus2" pos="NOMcom" msd="Case=Ind">opus</w>
+    <w ref="6.368" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

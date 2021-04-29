@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Cicero</author>, <title>Letters to his Friends</title>, <biblscope>9.22.2-9.22.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi056.perseus-lat1:9.22.2-9.22.2" type="section">
+    <w ref="9.22.2" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="9.22.2" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="9.22.2" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+    <w ref="9.22.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="9.22.2" lemma="epistola" pos="NOMcom" msd="Case=Abl|Numb=Sing">epistula</w>
+    <w ref="9.22.2" lemma="appello1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">appellas</w>
+    <w ana="#mentula" ref="9.22.2" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=MascNeut">suo</w>
+    <w ana="#mentula" ref="9.22.2" lemma="nomen" pos="NOMcom" msd="Case=Abl|Numb=Sing">nomine</w>
+    <w ref="9.22.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.22.2" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="9.22.2" lemma="tecte" pos="ADJqua" msd="Deg=Comp">tectius</w>
+    <w ref="9.22.2" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="9.22.2" lemma="penis" pos="NOMcom" msd="Numb=Sing">penem</w>
+  </quote>
+</div>

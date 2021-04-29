@@ -1,0 +1,21 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Titus Livius (Livy)</author>, <title>Ab urbe condita</title>, <biblscope>5.33.2-5.33.4</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0914.phi001.perseus-lat2:5.33.2-5.33.4" type="section">
+    <w ref="5.33.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.33.3" lemma="inueho" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">invexisse</w>
+    <w ref="5.33.3" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="5.33.3" lemma="Gallia" pos="NOMpro" msd="Case=Acc|Numb=Sing">Galliam</w>
+    <w ref="5.33.3" lemma="uinum" pos="NOMcom" msd="Case=Acc|Numb=Sing">vinum</w>
+    <w ref="5.33.3" lemma="illicio" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">inliciendae</w>
+    <w ref="5.33.3" lemma="gens" pos="NOMcom" msd="Case=Gen|Numb=Sing">gentis</w>
+    <w ref="5.33.3" lemma="causa" pos="NOMcom" msd="Case=Abl|Numb=Sing">causa</w>
+    <w ref="5.33.3" lemma="Arruns" pos="NOMpro" msd="Case=Acc|Numb=Sing">Arruntem</w>
+    <w ref="5.33.3" lemma="Clusinus" pos="NOMpro" msd="Case=Acc|Numb=Sing">Clusinum</w>
+    <w ref="5.33.3" lemma="ira" pos="NOMcom" msd="Case=Abl|Numb=Sing">ira</w>
+    <w ana="#acte #metonymie #violence" ref="5.33.3" lemma="corrumpo" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">corruptae</w>
+    <w ref="5.33.3" lemma="uxor" pos="NOMcom" msd="Case=Gen|Numb=Sing">uxoris</w>
+    <w ref="5.33.3" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="5.33.3" lemma="Lucumon" pos="NOMpro" msd="Case=Abl|Numb=Sing">Lucumone</w>
+  </quote>
+</div>

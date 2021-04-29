@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:19" ana="#mentula #metaphore #pointu #armes">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>55.3-55.6</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:55.3-55.6" type="line">
+    <w ref="55.3" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="55.3" lemma="moueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">mouet</w>
+    <w ref="55.3" lemma="amitto" pos="VER" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">amissi</w>
+    <w ref="55.3" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+    <w ref="55.3" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="55.3" lemma="iactura" pos="NOMcom" msd="Case=Nom|Numb=Sing">iactura</w>
+    <w ref="55.3" lemma="pudor" pos="NOMcom" msd="Case=Nom|Numb=Sing">pudorque</w>
+    <w ref="55.3" lemma="que" pos="CON" msd="MORPH=empty">{pudorque}</w>
+    <w ref="55.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="55.4" lemma="qui2" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="55.4" lemma="praebeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">praebent</w>
+    <w ref="55.4" lemma="iustus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">iustos</w>
+    <w ref="55.4" lemma="alter" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Neut">altera</w>
+    <w ana="#mentula #metaphore #pointu #armes" ref="55.4" lemma="telum" pos="NOMcom" msd="Case=Nom|Numb=Plur">tela</w>
+    <w ref="55.4" lemma="metus" pos="NOMcom" msd="Case=Acc|Numb=Plur">metus</w>
+  </quote>
+</div>

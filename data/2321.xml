@@ -1,0 +1,23 @@
+<div  type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>2.62.1-2.62.3</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:2.62.1-2.62.3" type="line">
+    <w ref="2.62.1" lemma="quis1" pos="CONsub" msd="Numb=Sing">Quod</w>
+    <w ref="2.62.1" lemma="pectus" pos="NOMcom" msd="Case=Acc|Numb=Sing">pectus</w>
+    <w ref="2.62.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.62.1" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="2.62.1" lemma="crus" pos="NOMcom" msd="Case=Acc|Numb=Plur">crura</w>
+    <w ref="2.62.1" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="2.62.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.62.1" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="2.62.1" lemma="brachium" pos="NOMcom" msd="Case=Acc|Numb=Plur">bracchia</w>
+    <w ref="2.62.1" lemma="uello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">vellis</w>
+    <w ref="2.62.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.62.2" lemma="quod2" pos="CONsub" msd="MORPH=empty">Quod</w>
+    <w ref="2.62.2" lemma="cingo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">cincta</w>
+    <w ref="2.62.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="2.62.2" lemma="breuis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">brevibus</w>
+    <w ana="#mentula" ref="2.62.2" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="2.62.2" lemma="tondeo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem">tonsa</w>
+    <w ref="2.62.2" lemma="pila?" pos="NOMcom" msd="Case=Abl|Numb=Plur">pilis</w>
+  </quote>
+</div>

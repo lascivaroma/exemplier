@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>39.5-39.8</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:39.5-39.8" type="line">
+    <w ref="39.5" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="39.5" lemma="pulcher" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">pulcra</w>
+    <w ref="39.5" lemma="fateor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">fateor</w>
+    <w ref="39.5" lemma="careo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">carere</w>
+    <w ref="39.5" lemma="forma" pos="NOMcom" msd="Case=Abl|Numb=Sing">forma</w>
+    <w ref="39.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="39.6" lemma="uerum4" pos="CONcoo" msd="MORPH=empty">uerum</w>
+    <w ana="#mentula" ref="39.6" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="39.6" lemma="luculentus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">luculenta</w>
+    <w ref="39.6" lemma="noster" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">nostra</w>
+    <w ref="39.6" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+  </quote>
+</div>

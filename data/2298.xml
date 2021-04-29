@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:208" ana="#acte #oral #allusion #impure">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>2.12.1-2.12.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:2.12.1-2.12.2" type="line">
+    <w ref="2.12.1" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Esse</w>
+    <w ref="2.12.1" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="2.12.1" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="2.12.1" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1">dicam</w>
+    <w ref="2.12.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.12.1" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="2.12.1" lemma="oleo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">olent</w>
+    <w ref="2.12.1" lemma="tuus" pos="PROpos" msd="Case=Nom|Numb=Plur|Gend=Neut">tua</w>
+    <w ana="#acte #oral #allusion #impure" ref="2.12.1" lemma="basium" pos="NOMcom" msd="Case=Nom|Numb=Plur">basia</w>
+    <w ref="2.12.1" lemma="myrrha" pos="NOMcom" msd="Case=Acc|Numb=Sing">murram</w>
+    <w ref="2.12.2" lemma="qui" pos="PROrel" msd="Case=Nom|Gend=Neut">Quodque</w>
+    <w ref="2.12.2" lemma="que" pos="CON" msd="MORPH=empty">{Quodque}</w>
+    <w ref="2.12.2" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="2.12.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="2.12.2" lemma="numquam" pos="ADVneg" msd="MORPH=empty">numquam</w>
+    <w ref="2.12.2" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="2.12.2" lemma="alienus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">alienus</w>
+    <w ref="2.12.2" lemma="odor" pos="NOMcom" msd="Case=Nom|Numb=Sing">odor</w>
+    <w ref="2.12.2" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

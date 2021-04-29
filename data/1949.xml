@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:191" ana="#acte #metonymie #position">
+  <bibl ref="#adams"><author>Juvenal</author>, <title>Satires</title>, <biblscope>8.171-8.178</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:8.171-8.178" type="line">
+    <w ref="8.175" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="8.175" lemma="carnifex" pos="NOMcom" msd="Case=Acc|Numb=Plur">carnifices</w>
+    <w ref="8.175" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="8.175" lemma="faber1" pos="NOMcom" msd="Case=Acc|Numb=Plur">fabros</w>
+    <w ref="8.175" lemma="sandapila" pos="NOMcom" msd="Case=Gen|Numb=Plur">sandapilarum</w>
+    <w ref="8.176" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #metonymie #position" ref="8.176" lemma="resupino" pos="VER" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">resupinati</w>
+    <w ref="8.176" lemma="cesso" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act">cessantia</w>
+    <w ref="8.176" lemma="tympanum" pos="NOMcom" msd="Case=Acc|Numb=Plur">tympana</w>
+    <w ref="8.176" lemma="gallus" pos="NOMcom" msd="Case=Gen|Numb=Sing">galli</w>
+  </quote>
+</div>

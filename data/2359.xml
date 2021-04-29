@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.75.4-11.75.4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.75.4-11.75.4" type="line">
+    <w ref="11.75.4" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ref="11.75.4" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">vis</w>
+    <w ref="11.75.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.75.4" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="11.75.4" lemma="puto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">puto</w>
+    <w ref="11.75.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#mentula" ref="11.75.4" lemma="mentula" pos="NOMcom" msd="Case=Acc|Numb=Sing">mentulam</w>
+    <w ref="11.75.4" lemma="uideo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">videre</w>
+    <w ref="11.75.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

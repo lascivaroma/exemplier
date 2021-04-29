@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:208" ana="#acte #masturbor">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.29.1-11.29.4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.29.1-11.29.4" type="line">
+    <w ref="11.29.1" lemma="languidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">Languida</w>
+    <w ref="11.29.1" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="11.29.1" lemma="uetulus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">vetula</w>
+    <w ref="11.29.1" lemma="tracto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tractare</w>
+    <w ref="11.29.1" lemma="uirilis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">virilia</w>
+    <w ana="#acte #masturbor" ref="11.29.1" lemma="dextera" pos="NOMcom" msd="Case=Abl|Numb=Sing">dextra</w>
+    <w ref="11.29.2" lemma="coepio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">Coepisti</w>
+  </quote>
+</div>

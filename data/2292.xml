@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:208" ana="#acte #oral #irrumatio">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>2.72.2-2.72.6</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:2.72.2-2.72.6" type="line">
+    <w ref="2.72.2" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+    <w ana="#acte #oral #irrumatio" ref="2.72.3" lemma="os1" pos="NOMcom" msd="Case=Nom|Numb=Sing">Os</w>
+    <w ref="2.72.3" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ana="#acte #oral #irrumatio" ref="2.72.3" lemma="percido2" pos="VER" msd="Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">percisum</w>
+    <w ref="2.72.3" lemma="quanto1" pos="PROrel" msd="Case=Abl|Numb=Sing">quanto</w>
+    <w ref="2.72.3" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="2.72.3" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ref="2.72.3" lemma="Latinus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Latinus</w>
+    <w ref="2.72.4" lemma="uilis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">Vilia</w>
+    <w ref="2.72.4" lemma="Panniculus" pos="NOMpro" msd="Case=Gen|Numb=Sing|Gend=MascNeut">Panniculi</w>
+    <w ref="2.72.4" lemma="percutio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">percutit</w>
+    <w ref="2.72.4" lemma="os1" pos="NOMcom" msd="Case=Acc|Numb=Plur">ora</w>
+    <w ref="2.72.4" lemma="sonus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sono</w>
+  </quote>
+</div>

@@ -1,0 +1,28 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Tacitus, Cornelius</author>, <title>Annales</title>, <biblscope>14.20-14.20</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1351.phi005.lascivaroma-lat1:14.20-14.20" type="chapter">
+    <w ref="14.20" lemma="ceterum2" pos="ADV" msd="Deg=Pos">ceterum</w>
+    <w ref="14.20" lemma="aboleo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">abolitos</w>
+    <w ref="14.20" lemma="paulatim" pos="ADV" msd="Deg=Pos">paulatim</w>
+    <w ref="14.20" lemma="patrius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">patrios</w>
+    <w ref="14.20" lemma="mos" pos="NOMcom" msd="Case=Acc|Numb=Plur">mores</w>
+    <w ref="14.20" lemma="funditus" pos="ADV" msd="Deg=Pos">funditus</w>
+    <w ref="14.20" lemma="euerto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">everti</w>
+    <w ref="14.20" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="14.20" lemma="accio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">accitam</w>
+    <w ref="14.20" lemma="lasciuia" pos="NOMcom" msd="Case=Acc|Numb=Sing">lasciviam</w>
+    <w ref="14.20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.20" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="14.20" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="14.20" lemma="usquam" pos="ADV" msd="Deg=Pos">usquam</w>
+    <w ana="#acte #metonymie #violence" ref="14.20" lemma="corrumpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">corrumpi</w>
+    <w ref="14.20" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="14.20" lemma="corrumpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">corrumpere</w>
+    <w ref="14.20" lemma="queo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">queat</w>
+    <w ref="14.20" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="14.20" lemma="urbs" pos="NOMcom" msd="Case=Abl|Numb=Sing">urbe</w>
+    <w ref="14.20" lemma="uiso" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">visatur</w>
+    <w ref="14.20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

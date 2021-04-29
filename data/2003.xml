@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences">
+  <bibl ref="#adams"><author>Scribonius Largus</author>, <title>Compositions Médicales</title>, <biblscope>18-18</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1011.phi001.lascivaroma-lat1:18-18" type="section">
+    <w ref="18" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Plur">viros</w>
+    <w ref="18" lemma="facile" pos="ADV" msd="Deg=Comp">facilius</w>
+    <w ref="18" lemma="mulier" pos="NOMcom" msd="Case=Abl|Numb=Plur">mulieribus</w>
+    <w ref="18" lemma="remedior" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">remediari</w>
+    <w ref="18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="18" lemma="puer" pos="NOMcom" msd="Case=Acc|Numb=Plur">pueros</w>
+    <w ref="18" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="18" lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Plur">virgines</w>
+    <w ref="18" lemma="libero" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">liberari</w>
+    <w ref="18" lemma="post2" pos="PRE" msd="MORPH=empty">post</w>
+    <w ref="18" lemma="complexus" pos="NOMcom" msd="Case=Acc|Numb=Sing">complexum</w>
+    <w ref="18" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="18" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #metonymie #consequences" ref="18" lemma="deuirginatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">devirginationem</w>
+    <w ref="18" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

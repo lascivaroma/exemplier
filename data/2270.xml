@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:208" ana="#acte #masturbor">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>2.43.13-2.43.14</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:2.43.13-2.43.14" type="line">
+    <w ref="2.43.14" lemma="at2" pos="CONcoo" msd="MORPH=empty">At</w>
+    <w ref="2.43.14" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="2.43.14" lemma="succurro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">succurrit</w>
+    <w ref="2.43.14" lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>
+    <w ref="2.43.14" lemma="Ganymedes" pos="NOMpro" msd="Case=Abl|Numb=Sing">Ganymede</w>
+    <w ana="#acte #masturbor" ref="2.43.14" lemma="manus1" pos="NOMcom" msd="Case=Nom|Numb=Plur">manus</w>
+    <w ref="2.43.14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

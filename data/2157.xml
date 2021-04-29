@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:200" ana="#acte #metonymie #insulter">
+  <bibl ref="#adams"><author>Tacitus, Cornelius</author>, <title>Annales</title>, <biblscope>15.72-15.73</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1351.phi005.lascivaroma-lat1:15.72-15.73" type="chapter">
+    <w ref="15.72" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="15.72" lemma="mater" pos="NOMcom" msd="Case=Dat|Numb=Sing">matri</w>
+    <w ref="15.72" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ana="#acte #metonymie #insulter" ref="15.72" lemma="illudo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">inlusit</w>
+    <w ref="15.73" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="15.73" lemma="Nero" pos="NOMpro" msd="Case=Nom|Numb=Sing">Nero</w>
+    <w ref="15.73" lemma="uoco" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">vocato</w>
+    <w ref="15.73" lemma="senatus" pos="NOMcom" msd="Case=Abl|Numb=Sing">senatu</w>
+    <w ref="15.73" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

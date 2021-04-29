@@ -1,0 +1,19 @@
+<div  type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Anthologia Latina</author>, <title>Anthologia Latina</title>, <biblscope>929.10-929.14</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:929.10-929.14" type="line">
+    <w ref="929.13" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">Illa</w>
+    <w ref="929.13" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+    <w ref="929.13" lemma="roseus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">roseum</w>
+    <w ref="929.13" lemma="florens" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">florenti</w>
+    <w ref="929.13" lemma="sandice" pos="NOMcom" msd="Case=Abl|Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act">sandice</w>
+    <w ref="929.13" lemma="cingo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">cincta</w>
+    <w ref="929.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="929.14" lemma="languidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Languida</w>
+    <w ref="929.14" lemma="caeruleus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">caeruleo</w>
+    <w ana="#mentula" ref="929.14" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="929.14" lemma="uinco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">uicta</w>
+    <w ref="929.14" lemma="situs1" pos="NOMcom" msd="Case=Abl|Numb=Sing">situ</w>
+    <w ref="929.14" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="929.14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

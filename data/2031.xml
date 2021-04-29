@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>87-87</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:87-87" type="section">
+    <w ref="87" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ref="87" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="87" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="87" lemma="patior" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Dep|Person=3">pateretur</w>
+    <w ana="#acte #metonymie #pleasure" ref="87" lemma="satis1" pos="ADJqua" msd="Deg=Pos">satis</w>
+    <w ana="#acte #metonymie #pleasure" ref="87" lemma="fio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fieri</w>
+    <w ref="87" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="87" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="87" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="87" lemma="cetera1" pos="NOMcom" msd="Case=Acc|Numb=Plur">cetera</w>
+    <w ref="87" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="87" lemma="libido" pos="NOMcom" msd="Case=Nom|Numb=Sing">libido</w>
+    <w ref="87" lemma="distentus?" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">distenta</w>
+    <w ref="87" lemma="dicto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dictat</w>
+    <w ref="87" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

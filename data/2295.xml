@@ -1,0 +1,19 @@
+<div  type="fragment" corresp="adams:208" ana="#acte #oral">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.49.11-11.49.12</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.49.11-11.49.12" type="line">
+    <w ref="11.49.12" lemma="nihil" pos="PROind" msd="Case=Ind">Nil</w>
+    <w ref="11.49.12" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="11.49.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.49.12" lemma="Phyllis" pos="NOMpro" msd="Case=Voc|Numb=Sing">Phylli</w>
+    <w ref="11.49.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.49.12" lemma="nego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">nego</w>
+    <w ref="11.49.12" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ana="#acte #oral" ref="11.49.12" lemma="nihil" pos="PROind" msd="Case=Ind">nil</w>
+    <w ref="11.49.12" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="11.49.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.49.12" lemma="Phyllis" pos="NOMpro" msd="Case=Voc|Numb=Sing">Phylli</w>
+    <w ref="11.49.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #oral" ref="11.49.12" lemma="nego" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">nega</w>
+    <w ref="11.49.12" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

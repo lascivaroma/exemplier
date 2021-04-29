@@ -1,0 +1,13 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Anthologia Latina</author>, <title>Anthologia Latina</title>, <biblscope>902.6-902.6</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:902.6-902.6" type="line">
+    <w ref="902.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="902.6" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="902.6" lemma="laudo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">laudatur</w>
+    <w ana="#mentula" ref="902.6" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="902.6" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="902.6" lemma="merdaceus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">merdacea</w>
+    <w ref="902.6" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="902.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,31 @@
+<div  type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Mother-in-Law</title>, <biblscope>66-69</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi005.perseus-lat2:66-69" type="line">
+    <w ref="67" lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
+    <w ref="67" lemma="nemo" pos="PROind" msd="Case=Nom|Numb=Sing">nemo</w>
+    <w ref="67" lemma="ille" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=MascNeut">illorum</w>
+    <w ref="67" lemma="quisquam" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">quisquam</w>
+    <w ref="67" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="67" lemma="scio" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2">scito</w>
+    <w ref="67" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="67" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="67" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="67" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">venit</w>
+    <w ref="68" lemma="quin2" pos="CONsub" msd="MORPH=empty">Quin</w>
+    <w ref="68" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+    <w ref="68" lemma="paro2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">paret</w>
+    <w ref="68" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">sese</w>
+    <w ref="68" lemma="ab" pos="PRE" msd="MORPH=empty">abs</w>
+    <w ref="68" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">te</w>
+    <w ref="68" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="68" lemma="blanditia" pos="NOMcom" msd="Case=Dat|Numb=Plur">blanditiis</w>
+    <w ref="68" lemma="suus" pos="PROpos.ref" msd="Case=Dat|Numb=Plur|Gend=Com">suis</w>
+    <w ref="69" lemma="quam1" pos="ADVrel" msd="MORPH=empty">Quam</w>
+    <w ref="69" lemma="paruus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Sup">minimo</w>
+    <w ref="69" lemma="pretium" pos="NOMcom" msd="Case=Abl|Numb=Sing">pretio</w>
+    <w ref="69" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=Fem">suam</w>
+    <w ana="#acte #metonymie #pleasure" ref="69" lemma="uoluptas" pos="NOMcom" msd="Case=Acc|Numb=Sing">voluptatem</w>
+    <w ana="#acte #metonymie #pleasure" ref="69" lemma="expleo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">expleat</w>
+    <w ref="69" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

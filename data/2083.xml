@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Paris, Julius</author>, <title>Facta et Dicta Memorabilia</title>, <biblscope>8.1a.8-8.1a.8</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1038.phi001.perseus-lat1:8.1a.8-8.1a.8" type="section">
+    <w ref="8.1a.8" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ref="8.1a.8" lemma="puer" pos="NOMcom" msd="Case=Acc|Numb=Sing">puerum</w>
+    <w ref="8.1a.8" lemma="praetextatus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">praetextatum</w>
+    <w ref="8.1a.8" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="8.1a.8" lemma="ingenuus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">ingenuam</w>
+    <w ref="8.1a.8" lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Sing">uirginem</w>
+    <w ref="8.1a.8" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ana="#acte #metonymie #violence" ref="8.1a.8" lemma="sui1" pos="PROref" msd="Case=Abl|Numb=Sing">se</w>
+    <w ana="#acte #metonymie #violence" ref="8.1a.8" lemma="corrumpo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">corruptam</w>
+    <w ref="8.1a.8" lemma="poeticus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">poetico</w>
+    <w ref="8.1a.8" lemma="iocus" pos="NOMcom" msd="Case=Abl|Numb=Sing">ioco</w>
+    <w ref="8.1a.8" lemma="significo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">significauerat</w>
+  </quote>
+</div>

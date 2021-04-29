@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:206" ana="#acte #animals #salio #humain">
+  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>68b.77-68b.78</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:68b.77-68b.78" type="line">
+    <w ref="68b.77" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="68b.77" lemma="tuus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Masc">tuus</w>
+    <w ref="68b.77" lemma="altus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">altus</w>
+    <w ref="68b.77" lemma="amor" pos="NOMcom" msd="Case=Nom|Numb=Sing">amor</w>
+    <w ref="68b.77" lemma="barathrum" pos="NOMcom" msd="Case=Dat|Numb=Sing">barathro</w>
+    <w ref="68b.77" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="68b.77" lemma="altus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">altior</w>
+    <w ref="68b.77" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">illo</w>
+    <w ref="68b.77" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="68b.78" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="68b.78" lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
+    <w ref="68b.78" lemma="indomitus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">indomitam</w>
+    <w ana="#acte #animals #salio #humain" ref="68b.78" lemma="fero" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ferre</w>
+    <w ana="#acte #animals #salio #humain" ref="68b.78" lemma="iugum" pos="NOMcom" msd="Case=Acc|Numb=Sing">iugum</w>
+    <w ref="68b.78" lemma="doceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">docuit</w>
+    <w ref="68b.78" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

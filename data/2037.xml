@@ -1,0 +1,28 @@
+<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Metamorphoses</title>, <biblscope>4.327-4.328</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:4.327-4.328" type="line">
+    <w ref="4.327" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">Haec</w>
+    <w ref="4.327" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="4.327" lemma="siue2" pos="CONsub" msd="MORPH=empty">sive</w>
+    <w ref="4.327" lemma="aliquis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">aliqua</w>
+    <w ref="4.327" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="4.327" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.327" lemma="meus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">mea</w>
+    <w ref="4.327" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+    <w ref="4.327" lemma="furtiuus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">furtiva</w>
+    <w ana="#acte #metonymie #pleasure" ref="4.327" lemma="uoluptas" pos="NOMcom" msd="Case=Nom|Numb=Sing">voluptas</w>
+    <w ref="4.327" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.328" lemma="seu1" pos="CONcoo" msd="MORPH=empty">seu</w>
+    <w ref="4.328" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">nulla</w>
+    <w ref="4.328" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="4.328" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.328" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="4.328" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1">sim</w>
+    <w ref="4.328" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.328" lemma="thalamus" pos="NOMcom" msd="Case=Acc|Numb=Sing">thalamumque</w>
+    <w ref="4.328" lemma="que" pos="CON" msd="MORPH=empty">{thalamumque}</w>
+    <w ref="4.328" lemma="ineo1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1">ineamus</w>
+    <w ref="4.328" lemma="idem" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eundem</w>
+    <w ref="4.328" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

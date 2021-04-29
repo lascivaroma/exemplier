@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:193" ana="#acte #metonymie #movement">
+  <bibl ref="#adams"><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblscope>2.29b.13-2.29b.14</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.29b.13-2.29b.14" type="line">
+    <w ref="2.29b.13" lemma="appareo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">apparent</w>
+    <w ref="2.29b.13" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="2.29b.13" lemma="ullus" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Neut">ulla</w>
+    <w ref="2.29b.13" lemma="torus" pos="NOMcom" msd="Case=Abl|Numb=Sing">toro</w>
+    <w ref="2.29b.13" lemma="uestigium" pos="NOMcom" msd="Case=Nom|Numb=Plur">vestigia</w>
+    <w ref="2.29b.13" lemma="premo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">presso</w>
+    <w ref="2.29b.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.29b.14" lemma="signum" pos="NOMcom" msd="Case=Nom|Numb=Plur">signa</w>
+    <w ana="#acte #metonymie #movement" ref="2.29b.14" lemma="uoluto" pos="VER" msd="Case=Acc|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">volutantis</w>
+    <w ref="2.29b.14" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="2.29b.14" lemma="iaceo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">iacuisse</w>
+    <w ref="2.29b.14" lemma="duo" pos="ADJcar" msd="Case=Acc|Numb=Plur|Gend=Masc">duos</w>
+    <w ref="2.29b.14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

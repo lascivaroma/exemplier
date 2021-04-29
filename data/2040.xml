@@ -1,0 +1,30 @@
+<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>61.107-61.112</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:61.107-61.112" type="line">
+    <w ref="61.107" lemma="o" pos="INJ" msd="MORPH=empty">o</w>
+    <w ref="61.107" lemma="cubile" pos="NOMcom" msd="Case=Voc|Numb=Sing">cubile</w>
+    <w ref="61.107" lemma="quod2" pos="CONsub" msd="Gend=Neut">quod</w>
+    <w ref="61.107" lemma="omnis" pos="PROind" msd="Case=Dat|Numb=Plur|Gend=Com">omnibus</w>
+    <w ref="61.108" lemma="candidus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">candido</w>
+    <w ref="61.108" lemma="pes" pos="NOMcom" msd="Case=Abl|Numb=Sing">pede</w>
+    <w ref="61.108" lemma="lectus1" pos="NOMcom" msd="Case=Voc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">lecti</w>
+    <w ref="61.108" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="61.109" lemma="qui1" pos="PROint" msd="Case=Nom|Numb=Plur|Gend=Fem">quae</w>
+    <w ref="61.109" lemma="tuus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">tuo</w>
+    <w ref="61.109" lemma="uenio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">veniunt</w>
+    <w ref="61.109" lemma="sum1" pos="NOMcom" msd="Case=Dat|Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act">ero</w>
+    <w ref="61.109" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="61.110" lemma="quantus2" pos="PROint" msd="Case=Nom|Numb=Plur|Gend=Neut">quanta</w>
+    <w ana="#acte #metonymie #pleasure" ref="61.110" lemma="gaudium" pos="NOMcom" msd="Case=Nom|Numb=Plur">gaudia</w>
+    <w ref="61.110" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="61.110" lemma="quac" pos="PROint" msd="Case=Abl|Numb=Sing">quac</w>
+    <w ref="61.110" lemma="uagus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">vaga</w>
+    <w ref="61.111" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
+    <w ref="61.111" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="61.111" lemma="qui1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="61.111" lemma="medius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">medio</w>
+    <w ref="61.111" lemma="dies" pos="NOMcom" msd="Case=Abl|Numb=Sing">die</w>
+    <w ref="61.112" lemma="gaudeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=SemDep|Person=3">gaudeat</w>
+    <w ref="61.112" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

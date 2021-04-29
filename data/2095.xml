@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Paris, Julius</author>, <title>Facta et Dicta Memorabilia</title>, <biblscope>4.3e.3-4.3e.3</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1038.phi001.perseus-lat1:4.3e.3-4.3e.3" type="section">
+    <w ref="4.3e.3" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="4.3e.3" lemma="temperantia" pos="NOMcom" msd="Case=Acc|Numb=Sing">temperantiam</w>
+    <w ref="4.3e.3" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ana="#acte #metonymie #violence" ref="4.3e.3" lemma="corrumpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">corrumpere</w>
+    <w ref="4.3e.3" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">posset</w>
+    <w ref="4.3e.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

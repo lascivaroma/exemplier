@@ -1,0 +1,10 @@
+<div  type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>37.1-37.5</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:37.1-37.5" type="line">
+    <w ref="37.3" lemma="sol" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">solis</w>
+    <w ref="37.3" lemma="puto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">putatis</w>
+    <w ref="37.3" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ana="#mentula" ref="37.3" lemma="mentula" pos="NOMcom" msd="Case=Acc|Numb=Plur">mentulas</w>
+    <w ref="37.3" lemma="uos" pos="PROper" msd="Case=Dat|Numb=Plur">vobis</w>
+  </quote>
+</div>

@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>2.70.4-2.70.5</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:2.70.4-2.70.5" type="line">
+    <w ref="2.70.4" lemma="primus" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Sup">Primus</w>
+    <w ref="2.70.4" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="2.70.4" lemma="licet1" pos="VER" msd="Mood=Ind|Tense=Pres|Voice=Act|Person=3">licet</w>
+    <w ref="2.70.4" lemma="abluo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">abluas</w>
+    <w ref="2.70.4" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.70.4" lemma="necesse" pos="ADJqua" msd="Case=Ind|Deg=Pos">necesse</w>
+    <w ref="2.70.4" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="2.70.5" lemma="ante2" pos="PRE" msd="Deg=Pos">Ante</w>
+    <w ref="2.70.5" lemma="hic1" pos="PROdem" msd="Gend=Masc|Deg=Pos">hic</w>
+    <w ana="#mentula" ref="2.70.5" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="2.70.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.70.5" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="2.70.5" lemma="caput" pos="NOMcom" msd="Case=Nom|Numb=Sing">caput</w>
+    <w ref="2.70.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.70.5" lemma="lauo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">lavetur</w>
+    <w ref="2.70.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

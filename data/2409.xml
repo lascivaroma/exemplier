@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:14" ana="#mentula #metaphore #pointu #armes">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Casina</title>, <biblscope>910-910</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi006.perseus-lat2:910-910" type="line">
+<w ref="908" lemma="ferrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">ferrum</w>
+    <w ref="908" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="908" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">haberet</w>
+    <w ref="908" lemma="metuo" pos="VER" msd="Numb=Sing|Mood=Inf|Tense=Pres|Voice=Pass">metui</w>
+    <w ref="908" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="908" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">id</w>
+    <w ref="908" lemma="quaero" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">quaerere</w>
+    <w ref="908" lemma="occipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">occepi</w>
+    <w ref="909" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
+    <w ana="#mentula #metaphore #pointu #armes" ref="909" lemma="gladius" pos="NOMcom" msd="Case=Acc|Numb=Sing">gladium</w>
+    <w ref="909" lemma="quaero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">quaero</w>
+    <w ref="909" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="909" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="909" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">habeat</w>
+    <w ref="909" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="909" lemma="arripio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">arripio</w>
+    <w ref="909" lemma="capulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">capulum</w>
+    <w ref="909" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+    <w ref="910" lemma="sed" pos="CONcoo" msd="MORPH=empty">séd</w>
+    <w ref="910" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="910" lemma="cogito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">cogitó</w>
+    <w ref="910" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="910" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="910" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">habuit</w>
+    <w ana="#mentula #metaphore #pointu #armes" ref="910" lemma="gladius" pos="NOMcom" msd="Case=Acc|Numb=Sing">gládium</w>
+    <w ref="910" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="910" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="910" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">esset</w>
+    <w ref="910" lemma="frigidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">frígidus</w>
+    <w ref="910" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

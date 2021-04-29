@@ -1,0 +1,29 @@
+<div type="fragment" corresp="adams:206" ana="#acte #animals #salio">
+  <bibl ref="#adams"><author>Varro, Marcus Terentius</author>, <title>Rerum rusticarum</title>, <biblscope>2.4.8-2.4.8</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0684.phi002.ogl-lat1:2.4.8-2.4.8" type="section">
+    <w ref="2.4.8" lemma="Uerres" pos="NOMpro" msd="Case=Gen|Numb=Sing">verris</w>
+    <w ref="2.4.8" lemma="octo" pos="ADJcar" msd="Case=Ind">octo</w>
+    <w ref="2.4.8" lemma="mensis" pos="NOMcom" msd="Case=Gen|Numb=Plur">mensum</w>
+    <w ref="2.4.8" lemma="incipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">incipit</w>
+    <w ana="#acte #animals #salio" ref="2.4.8" lemma="salio1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">salire</w>
+    <w ref="2.4.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.4.8" lemma="permaneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">permanet</w>
+    <w ref="2.4.8" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="2.4.8" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">id</w>
+    <w ref="2.4.8" lemma="recte" pos="ADV" msd="Deg=Pos">recte</w>
+    <w ref="2.4.8" lemma="facio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">facere</w>
+    <w ref="2.4.8" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possit</w>
+    <w ref="2.4.8" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="2.4.8" lemma="trimus" pos="NOMcom" msd="Case=Acc|Numb=Sing|Deg=Pos">trimum</w>
+    <w ref="2.4.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.4.8" lemma="deinde" pos="ADV" msd="Deg=Pos">deinde</w>
+    <w ref="2.4.8" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">it</w>
+    <w ref="2.4.8" lemma="retro1" pos="ADV" msd="Deg=Pos">retro</w>
+    <w ref="2.4.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.4.8" lemma="quad" pos="PROrel" msd="MORPH=empty">quaad</w>
+    <w ref="2.4.8" lemma="peruenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pervenit</w>
+    <w ref="2.4.8" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="2.4.8" lemma="lanius" pos="NOMcom" msd="Case=Acc|Numb=Sing">lanium</w>
+    <w ref="2.4.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,26 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Cicero</author>, <title>Against Verres</title>, <biblscope>2.1.67-2.1.67</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi005.perseus-lat2:2.1.67-2.1.67" type="section">
+    <w ref="2.1.67" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="2.1.67" lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
+    <w ref="2.1.67" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="2.1.67" lemma="intelligo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">intellexit</w>
+    <w ref="2.1.67" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.1.67" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">id</w>
+    <w ref="2.1.67" lemma="ago" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">agi</w>
+    <w ref="2.1.67" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="2.1.67" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">id</w>
+    <w ref="2.1.67" lemma="paro2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">parari</w>
+    <w ref="2.1.67" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="2.1.67" lemma="filia" pos="NOMcom" msd="Case=Dat|Numb=Sing">filiae</w>
+    <w ref="2.1.67" lemma="suus" pos="PROpos.ref" msd="Case=Dat|Numb=Sing|Gend=Fem">suae</w>
+    <w ref="2.1.67" lemma="uis" pos="NOMcom" msd="Case=Nom|Numb=Sing">vis</w>
+    <w ana="#acte #metonymie #violence" ref="2.1.67" lemma="affero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">adferretur</w>
+    <w ref="2.1.67" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.1.67" lemma="seruus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">servos</w>
+    <w ref="2.1.67" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Plur|Gend=Masc">suos</w>
+    <w ref="2.1.67" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="2.1.67" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="2.1.67" lemma="uoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vocat</w>
+  </quote>
+</div>

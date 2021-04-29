@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Vulgate</author>, <title>Psalmi Salomonis</title>, <biblscope>8.4-8.6</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg035.obi-lat1:8.4-8.6" type="verse">
+    <w ref="8.5" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="8.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="8.5" lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ista</w>
+    <w ref="8.5" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="8.5" lemma="ascendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ascendit</w>
+    <w ref="8.5" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="8.5" lemma="desertum" pos="ADJqua" msd="Case=Abl|Numb=Sing">deserto</w>
+    <w ref="8.5" lemma="delicia1" pos="NOMcom" msd="Case=Abl|Numb=Plur">deliciis</w>
+    <w ref="8.5" lemma="affluo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">affluens</w>
+    <w ref="8.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="8.5" lemma="nitor2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">nixa</w>
+    <w ref="8.5" lemma="super2" pos="PRE" msd="MORPH=empty">super</w>
+    <w ref="8.5" lemma="dilectus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">dilectum</w>
+    <w ref="8.5" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=MascNeut">suum</w>
+    <w ref="8.5" lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+    <w ref="8.5" lemma="arbor" pos="NOMcom" msd="Case=Abl|Numb=Sing">arbore</w>
+    <w ref="8.5" lemma="malus3" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">malo</w>
+    <w ref="8.5" lemma="suscito1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">suscitavi</w>
+    <w ref="8.5" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="8.5" lemma="ibi" pos="ADV" msd="Deg=Pos">ibi</w>
+    <w ana="#acte #metonymie #violence" ref="8.5" lemma="corrumpo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">corrupta</w>
+    <w ref="8.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="8.5" lemma="mater" pos="NOMcom" msd="Case=Nom|Numb=Sing">mater</w>
+    <w ref="8.5" lemma="tuus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">tua</w>
+    <w ref="8.5" lemma="ibi" pos="ADV" msd="Deg=Pos">ibi</w>
+    <w ref="8.5" lemma="uiolo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">violata</w>
+    <w ref="8.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="8.5" lemma="genetrix" pos="NOMcom" msd="Case=Voc|Numb=Sing">genetrix</w>
+    <w ref="8.5" lemma="tuus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">tua</w>
+  </quote>
+</div>

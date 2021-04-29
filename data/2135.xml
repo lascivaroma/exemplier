@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Paris, Julius</author>, <title>Facta et Dicta Memorabilia</title>, <biblscope>9.1.6-9.1.6</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VII.1.1670.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1038.phi001.perseus-lat1:9.1.6-9.1.6" type="section">
+    <w ref="9.1.6" lemma="consimilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">Consimilis</w>
+    <w ref="9.1.6" lemma="mutatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">mutatio</w>
+    <w ref="9.1.6" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="9.1.6" lemma="domus" pos="NOMcom" msd="Case=Abl|Numb=Sing">domo</w>
+    <w ref="9.1.6" lemma="Curio" pos="NOMpro" msd="Case=Gen|Numb=Plur">Curionum</w>
+    <w ref="9.1.6" lemma="exsisto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">extitit</w>
+    <w ref="9.1.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.1.6" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="9.1.6" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ref="9.1.6" lemma="forum1" pos="NOMcom" msd="Case=Acc|Numb=Sing">forum</w>
+    <w ref="9.1.6" lemma="noster" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=MascNeut">nostrum</w>
+    <w ref="9.1.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.1.6" lemma="pater" pos="NOMcom" msd="Case=Gen|Numb=Sing">patris</w>
+    <w ref="9.1.6" lemma="grauis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Sup">grauissimum</w>
+    <w ref="9.1.6" lemma="supercilium" pos="NOMcom" msd="Case=Nom|Numb=Sing">supercilium</w>
+    <w ref="9.1.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.1.6" lemma="filius" pos="NOMcom" msd="Case=Gen|Numb=Sing">filii</w>
+    <w ref="9.1.6" lemma="sescentiens" pos="ADJadv.mul" msd="MORPH=empty">sescenties</w>
+    <w ref="9.1.6" lemma="sestertium" pos="NOMcom" msd="Case=Acc|Numb=Sing">sestertium</w>
+    <w ref="9.1.6" lemma="aes" pos="NOMcom" msd="Case=Gen|Numb=Sing">aeris</w>
+    <w ref="9.1.6" lemma="alienus2" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">alieni</w>
+    <w ref="9.1.6" lemma="aspicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">aspexit</w>
+    <w ref="9.1.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.1.6" lemma="contraho" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">contractum</w>
+    <w ref="9.1.6" lemma="famosus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">famosa</w>
+    <w ana="#acte #metonymie #violence" ref="9.1.6" lemma="iniuria" pos="NOMcom" msd="Case=Abl|Numb=Sing">iniuria</w>
+    <w ref="9.1.6" lemma="nobilis2" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos">nobilium</w>
+    <w ref="9.1.6" lemma="iuuenis1" pos="NOMcom" msd="Case=Gen|Numb=Plur">iuuenum</w>
+    <w ref="9.1.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

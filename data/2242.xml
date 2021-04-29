@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:206" ana="#acte #animals #salio">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Naturales quaestiones</title>, <biblscope>1.16.5-1.16.5</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi016.corpuscorporum-lat1:1.16.5-1.16.5" type="section">
+    <w ref="1.16.5" lemma="specto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">Spectabat</w>
+    <w ref="1.16.5" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
+    <w ref="1.16.5" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing">libidinem</w>
+    <w ref="1.16.5" lemma="os1" pos="NOMcom" msd="Case=Gen|Numb=Sing">oris</w>
+    <w ref="1.16.5" lemma="sui2" pos="PROpos.ref" msd="Case=Gen|Numb=Sing|Gend=MascNeut">sui</w>
+    <w ref="1.16.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.16.5" lemma="specto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">spectabat</w>
+    <w ana="#acte #animals #salio" ref="1.16.5" lemma="admitto" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">admissos</w>
+    <w ref="1.16.5" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="1.16.5" lemma="pariter" pos="ADV" msd="Deg=Pos">pariter</w>
+    <w ref="1.16.5" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.16.5" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Neut">omnia</w>
+    <w ref="1.16.5" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Plur">uiros</w>
+  </quote>
+</div>

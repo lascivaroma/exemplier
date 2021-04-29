@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences">
+  <bibl ref="#adams"><author>Cicero</author>, <title>For Milo</title>, <biblscope>9-9</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi031.perseus-lat2:9-9" type="section">
+    <w ana="#acte #metonymie #consequences" ref="9" lemma="pudicitia" pos="NOMcom" msd="Case=Acc|Numb=Sing">pudicitiam</w>
+    <w ref="9" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ana="#acte #metonymie #consequences" ref="9" lemma="eripio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">eriperet</w>
+    <w ref="9" lemma="miles" pos="NOMcom" msd="Case=Dat|Numb=Sing">militi</w>
+    <w ref="9" lemma="tribunus" pos="NOMcom" msd="Case=Nom|Numb=Sing">tribunus</w>
+    <w ref="9" lemma="militaris" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">militaris</w>
+    <w ref="9" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="9" lemma="exercitus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">exercitu</w>
+    <w ref="9" lemma="Gaius" pos="NOMpro" msd="Case=Gen|Numb=Sing">C.</w>
+    <w ref="9" lemma="Marius" pos="NOMpro" msd="Case=Gen|Numb=Sing">Mari</w>
+    <w ref="9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9" lemma="propinquus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">propinquus</w>
+    <w ref="9" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+  </quote>
+</div>

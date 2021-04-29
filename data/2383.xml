@@ -1,0 +1,33 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>69.1-69.4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:69.1-69.4" type="line">
+    <w ref="69.1" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+    <w ref="69.1" lemma="ficus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">fici</w>
+    <w ref="69.1" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="69.1" lemma="suauitas" pos="NOMcom" msd="Case=Nom|Numb=Sing">suauitas</w>
+    <w ref="69.1" lemma="subeo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">subibit</w>
+    <w ref="69.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="69.2" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="69.2" lemma="porrigo2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">porrigere</w>
+    <w ref="69.2" lemma="huc" pos="ADV" msd="Deg=Pos">huc</w>
+    <w ref="69.2" lemma="manus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">manum</w>
+    <w ref="69.2" lemma="libet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">libebit</w>
+    <w ref="69.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="69.3" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="69.3" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="69.3" lemma="respicio" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">respice</w>
+    <w ref="69.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="69.3" lemma="fur" pos="NOMcom" msd="Case=Voc|Numb=Sing">fur</w>
+    <w ref="69.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="69.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="69.3" lemma="aestimo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2">aestimato</w>
+    <w ref="69.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="69.4" lemma="quot2" pos="PROint" msd="Case=Ind">quot</w>
+    <w ref="69.4" lemma="pondo" pos="NOMcom" msd="Case=Ind">pondo</w>
+    <w ref="69.4" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="69.4" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ana="#mentula" ref="69.4" lemma="mentula" pos="NOMcom" msd="Case=Acc|Numb=Sing">mentulam</w>
+    <w ref="69.4" lemma="caco" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">cacandum</w>
+    <w ref="69.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

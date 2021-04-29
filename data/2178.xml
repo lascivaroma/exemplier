@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:200" ana="#acte #metonymie #disgrace">
+  <bibl ref="#adams"><author>Augustine</author>, <title>De civitate dei</title>, <biblscope>1.19-1.19</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0040.stoa003.opp-lat3:1.19-1.19" type="chapter">
+    <w ref="1.19" lemma="pudeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Puduit</w>
+    <w ref="1.19" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="1.19" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
+    <w ana="#acte #metonymie #disgrace" ref="1.19" lemma="turpitudo" pos="NOMcom" msd="Case=Gen|Numb=Sing">turpitudinis</w>
+    <w ref="1.19" lemma="alienus2" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">alienae</w>
+    <w ref="1.19" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.19" lemma="sui1" pos="PROref" msd="Case=Abl|Numb=Sing">se</w>
+    <w ref="1.19" lemma="committo" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">commissae</w>
+    <w ref="1.19" lemma="etiamsi" pos="CONsub" msd="MORPH=empty">etiamsi</w>
+    <w ref="1.19" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.19" lemma="sui" pos="PROref" msd="Case=Abl|Numb=Sing">secum</w>
+    <w ref="1.19" lemma="cum3" pos="CON" msd="MORPH=empty">{secum}</w>
+    <w ref="1.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Titus Livius (Livy)</author>, <title>Ab urbe condita</title>, <biblscope>26.49.12-26.49.12</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VII.1.1670.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0914.phi001.perseus-lat2:26.49.12-26.49.12" type="section">
+    <w ref="26.49.12" lemma="alius" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">alia</w>
+    <w ref="26.49.12" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="26.49.12" lemma="cura" pos="NOMcom" msd="Case=Abl|Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act">cura</w>
+    <w ref="26.49.12" lemma="aetas" pos="NOMcom" msd="Case=Acc|Numb=Sing">aetatem</w>
+    <w ref="26.49.12" lemma="hic1" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=Fem">harum</w>
+    <w ref="26.49.12" lemma="intueor" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Dep">intuentem</w>
+    <w ref="26.49.12" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+    <w ref="26.49.12" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="26.49.12" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ref="26.49.12" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="26.49.12" lemma="extra2" pos="PRE" msd="MORPH=empty">extra</w>
+    <w ref="26.49.12" lemma="periculum" pos="NOMcom" msd="Case=Acc|Numb=Sing">periculum</w>
+    <w ana="#acte #metonymie #violence" ref="26.49.12" lemma="iniuria" pos="NOMcom" msd="Case=Gen|Numb=Sing">iniuriae</w>
+    <w ref="26.49.12" lemma="muliebris" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascFem|Deg=Pos">muliebris</w>
+    <w ref="26.49.12" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">sum</w>
+    <w ref="26.49.12" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+    <w ref="26.49.12" lemma="stimulo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">stimulat</w>
+    <w ref="26.49.12" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

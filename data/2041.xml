@@ -1,0 +1,13 @@
+<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>3.7.63-3.7.63</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.63-3.7.63" type="line">
+    <w ref="3.7.63" lemma="at2" pos="CONcoo" msd="MORPH=empty">At</w>
+    <w ref="3.7.63" lemma="qui1" pos="PROint" msd="Case=Acc|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="3.7.63" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="3.7.63" lemma="tacitus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">tacita</w>
+    <w ref="3.7.63" lemma="formo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">formavi</w>
+    <w ana="#acte #metonymie #pleasure" ref="3.7.63" lemma="gaudium" pos="NOMcom" msd="Case=Acc|Numb=Plur">gaudia</w>
+    <w ref="3.7.63" lemma="mens" pos="NOMcom" msd="Case=Abl|Numb=Sing">mente</w>
+    <w ref="3.7.63" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:25" ana="#mentula #metaphore #pointu #nautique">
+  <bibl ref="#adams"><author>Ausonius, Decimus Magnus</author>, <title>Cento Nuptialis</title>, <biblscope>124-125</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:124-125" type="line">
+    <w ref="124" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="124" lemma="mora" pos="NOMcom" msd="Case=Nom|Numb=Sing">mora</w>
+    <w ref="124" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="124" lemma="requies" pos="NOMcom" msd="Case=Nom|Numb=Sing">requies</w>
+    <w ref="124" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ana="#mentula #metaphore #pointu #nautique" ref="124" lemma="clauus" pos="NOMcom" msd="Case=Acc|Numb=Sing">clavumque</w>
+    <w ref="124" lemma="que" pos="CON" msd="MORPH=empty">{clavumque}</w>
+    <w ref="124" lemma="affigo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">adfixus</w>
+    <w ref="124" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="124" lemma="haereo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">haerens</w>
+    <w ref="125" lemma="nusquam" pos="ADVneg" msd="MORPH=empty">nusquam</w>
+    <w ref="125" lemma="amitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">amittebat</w>
+    <w ref="125" lemma="oculus" pos="NOMcom" msd="Case=Acc|Numb=Plur">oculosque</w>
+    <w ref="125" lemma="que" pos="CON" msd="MORPH=empty">{oculosque}</w>
+    <w ref="125" lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+    <w ref="125" lemma="astrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">astra</w>
+    <w ref="125" lemma="teneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">tenebat</w>
+    <w ref="125" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

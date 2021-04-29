@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:23" ana="#mentula #metaphore #pointu #poles">
+  <bibl ref="#adams"><author>Horace</author>, <title>Sermones</title>, <biblscope>1.8.3-1.8.7</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.8.3-1.8.7" type="line">
+    <w ref="1.8.4" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="1.8.4" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+    <w ref="1.8.4" lemma="fur" pos="NOMcom" msd="Case=Acc|Numb=Plur">fures</w>
+    <w ref="1.8.4" lemma="dextera" pos="NOMcom" msd="Case=Abl|Numb=Sing">dextra</w>
+    <w ref="1.8.4" lemma="coerceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">coercet</w>
+    <w ref="1.8.5" lemma="obscenus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">obscaenoque</w>
+    <w ref="1.8.5" lemma="que" pos="CON" msd="MORPH=empty">{obscaenoque}</w>
+    <w ref="1.8.5" lemma="ruber" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">ruber</w>
+    <w ref="1.8.5" lemma="porrigo2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">porrectus</w>
+    <w ref="1.8.5" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="1.8.5" lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Sing">inguine</w>
+    <w ana="#mentula #metaphore #pointu #poles" ref="1.8.5" lemma="palus2" pos="NOMcom" msd="Case=Nom|Numb=Sing">palus</w>
+    <w ref="1.8.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

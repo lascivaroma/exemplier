@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>1.58.3-1.58.4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.58.3-1.58.4" type="line">
+    <w ref="1.58.3" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">Hoc</w>
+    <w ref="1.58.3" lemma="doleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dolet</w>
+    <w ref="1.58.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.58.3" lemma="queror" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">queritur</w>
+    <w ref="1.58.3" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="1.58.3" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">me</w>
+    <w ref="1.58.3" lemma="meus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">mea</w>
+    <w ana="#mentula" ref="1.58.3" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="1.58.3" lemma="sui" pos="PROref" msd="Case=Abl|Numb=Sing">secum</w>
+    <w ref="1.58.3" lemma="cum3" pos="CON" msd="MORPH=empty">{secum}</w>
+    <w ref="1.58.4" lemma="laudo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">Laudaturque</w>
+    <w ref="1.58.4" lemma="que" pos="CON" msd="MORPH=empty">{Laudaturque}</w>
+    <w ref="1.58.4" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">meam</w>
+    <w ref="1.58.4" lemma="Phoebus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Phoebus</w>
+    <w ref="1.58.4" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.58.4" lemma="inuidia" pos="NOMcom" msd="Case=Acc|Numb=Sing">invidiam</w>
+    <w ref="1.58.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

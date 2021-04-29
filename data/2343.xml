@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>9.33.1-9.33.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.33.1-9.33.2" type="line">
+    <w ref="9.33.1" lemma="audio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">Audieris</w>
+    <w ref="9.33.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="9.33.1" lemma="quis1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ref="9.33.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.33.1" lemma="Flaccus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Flacce</w>
+    <w ref="9.33.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.33.1" lemma="balineum" pos="NOMcom" msd="Case=Abl|Numb=Sing">balneo</w>
+    <w ref="9.33.1" lemma="plausus" pos="NOMcom" msd="Case=Acc|Numb=Sing">plausum</w>
+    <w ref="9.33.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.33.2" lemma="Maro" pos="NOMpro" msd="Case=Gen|Numb=Sing">Maronis</w>
+    <w ref="9.33.2" lemma="illic2" pos="ADV" msd="Deg=Pos">illic</w>
+    <w ref="9.33.2" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ana="#mentula" ref="9.33.2" lemma="mentula" pos="NOMcom" msd="Case=Acc|Numb=Sing">mentulam</w>
+    <w ref="9.33.2" lemma="scio" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2">scito</w>
+    <w ref="9.33.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

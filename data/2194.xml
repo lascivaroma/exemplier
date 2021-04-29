@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:203" ana="#acte #euphemism #ellipse #res">
+  <bibl ref="#adams"><author>Lucretius</author>, <title>De Rerum Natura</title>, <biblscope>2.168-2.174</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:2.168-2.174" type="line">
+    <w ref="2.173" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #euphemism #ellipse #res" ref="2.173" lemma="res" pos="NOMcom" msd="Case=Nom|Numb=Sing">res</w>
+    <w ref="2.173" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="2.173" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
+    <w ref="2.173" lemma="blandior" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">blanditur</w>
+    <w ref="2.173" lemma="saeculum" pos="NOMcom" msd="Case=Acc|Numb=Plur">saecla</w>
+    <w ref="2.173" lemma="propago2" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">propagent</w>
+    <w ref="2.173" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.174" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="2.174" lemma="genus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">genus</w>
+    <w ref="2.174" lemma="occido1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">occidat</w>
+    <w ref="2.174" lemma="humanus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">humanum</w>
+    <w ref="2.174" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

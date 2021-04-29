@@ -1,0 +1,10 @@
+<div  type="fragment" corresp="adams:14" ana="#mentula #metaphore #pointu">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>72.3-72.4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:72.3-72.4" type="line">
+    <w ref="72.4" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ana="#mentula #metaphore #pointu" ref="72.4" lemma="brachium" pos="NOMcom" msd="Case=Acc|Numb=Plur">brachia</w>
+    <w ana="#mentula #metaphore #pointu" ref="72.4" lemma="macer" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">macra</w>
+    <w ref="72.4" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">dabo</w>
+    <w ref="72.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

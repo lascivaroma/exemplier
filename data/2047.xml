@@ -1,0 +1,23 @@
+<div  type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Pseudo-Acro</author>, <title>Commentum in Horati Epistulas</title>, <biblscope>1.17.36-1.17.36</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0004a.stoa005.horatiusNet-lat1:1.17.36-1.17.36" type="comment">
+    <w ref="1.17.36" lemma="Aristippus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Aristippus</w>
+    <w ref="1.17.36" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="1.17.36" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">hac</w>
+    <w ref="1.17.36" lemma="fama" pos="NOMcom" msd="Case=Abl|Numb=Sing">fama</w>
+    <w ref="1.17.36" lemma="ille" pos="PROdem" msd="Numb=Sing|Gend=MascNeut">illo</w>
+    <w ref="1.17.36" lemma="perduco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">perductus</w>
+    <w ref="1.17.36" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1.17.36" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.17.36" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #metonymie #pleasure" ref="1.17.36" lemma="utor" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">usus</w>
+    <w ref="1.17.36" lemma="Lais" pos="NOMcom" msd="Case=Abl|Numb=Sing">Laide</w>
+    <w ref="1.17.36" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.17.36" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="1.17.36" lemma="amor" pos="NOMcom" msd="Case=Abl|Numb=Sing">amore</w>
+    <w ref="1.17.36" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="1.17.36" lemma="deuincio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">deuinctus</w>
+    <w ref="1.17.36" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1.17.36" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

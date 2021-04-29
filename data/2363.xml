@@ -1,0 +1,28 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>12.97.6-12.97.9</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.97.6-12.97.9" type="line">
+    <w ref="12.97.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="12.97.6" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+    <w ref="12.97.6" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="12.97.6" lemma="domina" pos="NOMcom" msd="Case=Acc|Numb=Sing">dominam</w>
+    <w ref="12.97.6" lemma="reuertor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">reversa</w>
+    <w ref="12.97.6" lemma="langueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">languet</w>
+    <w ref="12.97.7" lemma="multus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Deg=Pos">Multis</w>
+    <w ana="#mentula" ref="12.97.7" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="12.97.7" lemma="mille" pos="ADJcar" msd="Case=Abl|Numb=Plur|Gend=Com">milibus</w>
+    <w ref="12.97.7" lemma="redimo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">redempta</w>
+    <w ref="12.97.7" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="12.97.8" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="12.97.8" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="12.97.8" lemma="uox" pos="NOMcom" msd="Case=Abl|Numb=Plur">vocibus</w>
+    <w ref="12.97.8" lemma="excito1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">excitata</w>
+    <w ref="12.97.8" lemma="blandus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">blandis</w>
+    <w ref="12.97.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.97.9" lemma="mollis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">Molli</w>
+    <w ref="12.97.9" lemma="pollex" pos="NOMcom" msd="Case=Abl|Numb=Sing">pollice</w>
+    <w ref="12.97.9" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="12.97.9" lemma="rogo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">rogata</w>
+    <w ref="12.97.9" lemma="surgo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">surgit</w>
+    <w ref="12.97.9" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

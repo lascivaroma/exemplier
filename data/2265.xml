@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:208" ana="#acte #masturbor">
+  <bibl ref="#adams"><author>Apuleius</author>, <title>Metamorphoses</title>, <biblscope>2.7-2.7</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:2.7-2.7" type="chapter">
+    <w ref="2.7" lemma="felix" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">Felix</w>
+    <w ref="2.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.7" lemma="certus" pos="ADV" msd="Numb=Sing|Deg=Comp">certius</w>
+    <w ref="2.7" lemma="beatus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">beatus</w>
+    <w ref="2.7" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
+    <w ref="2.7" lemma="permitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">permiseris</w>
+    <w ref="2.7" lemma="illuc" pos="ADV" msd="Deg=Pos">illuc</w>
+    <w ana="#acte #masturbor" ref="2.7" lemma="digitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">digitum</w>
+    <w ana="#acte #masturbor" ref="2.7" lemma="intingo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">intingere</w>
+    <w ref="2.7" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

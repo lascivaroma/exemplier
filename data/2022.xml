@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>7.6.7-7.6.7</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:7.6.7-7.6.7" type="section">
+    <w ref="7.6.7" lemma="seruus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">Seruus</w>
+    <w ref="7.6.7" lemma="noster" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Masc">noster</w>
+    <w ref="7.6.7" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="7.6.7" lemma="stultus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">stultus</w>
+    <w ref="7.6.7" lemma="tergus" pos="NOMcom" msd="Case=Acc|Numb=Sing">tergus</w>
+    <w ref="7.6.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="7.6.7" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+    <w ref="7.6.7" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=MascNeut">suum</w>
+    <w ana="#acte #metonymie #pleasure" ref="7.6.7" lemma="delicia1" pos="NOMcom" msd="Case=Abl|Numb=Plur">deliciis</w>
+    <w ref="7.6.7" lemma="praesens" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos|Mood=Par|Tense=Pres|Voice=Act">praesentibus</w>
+    <w ref="7.6.7" lemma="praefero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">praetulit</w>
+    <w ref="7.6.7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

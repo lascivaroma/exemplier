@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:208" ana="#acte #oral">
+  <bibl ref="#adams"><author>Apuleius</author>, <title>Metamorphoses</title>, <biblscope>8.29-8.29</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:8.29-8.29" type="chapter">
+    <w ref="8.29" lemma="nudo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">nudatum</w>
+    <w ref="8.29" lemma="supino" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">supinatumque</w>
+    <w ref="8.29" lemma="que" pos="CON" msd="MORPH=empty">{supinatumque}</w>
+    <w ref="8.29" lemma="iuuenis1" pos="NOMcom" msd="Case=Acc|Numb=Sing">iuvenem</w>
+    <w ana="#acte #oral" ref="8.29" lemma="exsecrandus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos|Mood=Adj|Voice=Dep">execrandis</w>
+    <w ana="#acte #oral" ref="8.29" lemma="os1" pos="NOMcom" msd="Case=Abl|Numb=Plur">oribus</w>
+    <w ref="8.29" lemma="flagito" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3">flagitabant</w>
+    <w ref="8.29" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

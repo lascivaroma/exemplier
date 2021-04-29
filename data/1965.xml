@@ -1,0 +1,26 @@
+<div type="fragment" corresp="adams:193" ana="#acte #metonymie #movement">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>1.2.6-1.2.6</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:1.2.6-1.2.6" type="section">
+    <w ref="1.2.6" lemma="numquid" pos="ADVint" msd="MORPH=empty">Numquid</w>
+    <w ref="1.2.6" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="1.2.6" lemma="nego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">negas</w>
+    <w ref="1.2.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.6" lemma="colluctor" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">conluctatam</w>
+    <w ref="1.2.6" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="1.2.6" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="1.2.6" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="1.2.6" lemma="uir" pos="NOMcom" msd="Case=Abl|Numb=Sing">uiro</w>
+    <w ref="1.2.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.6" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+    <w ref="1.2.6" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.2.6" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">illa</w>
+    <w ana="#acte #metonymie #movement" ref="1.2.6" lemma="uolutatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">uolutatione</w>
+    <w ref="1.2.6" lemma="necesse" pos="ADJqua" msd="Case=Ind|Deg=Pos">necesse</w>
+    <w ref="1.2.6" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1.2.6" lemma="prius" pos="ADJadv.ord" msd="Deg=Comp">prius</w>
+    <w ref="1.2.6" lemma="super2" pos="PRE" msd="MORPH=empty">super</w>
+    <w ref="1.2.6" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="1.2.6" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">fuisse</w>
+    <w ref="1.2.6" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:191" ana="#acte #metonymie #position #futuor">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Cistellaria</title>, <biblscope>657-657</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi007.perseus-lat2:657-657" type="line">
+    <w ref="657" lemma="facio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">faciundum</w>
+    <w ref="657" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="657" lemma="puerilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">puerile</w>
+    <w ref="657" lemma="officium" pos="NOMcom" msd="Case=Nom|Numb=Sing">officium</w>
+    <w ref="657" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ana="#acte #metonymie #position #futuor" ref="657" lemma="conquinisco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act">conquiniscam</w>
+    <w ref="657" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="657" lemma="cistula" pos="NOMcom" msd="Case=Acc|Numb=Sing">cistulam</w>
+    <w ref="657" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

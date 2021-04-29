@@ -1,0 +1,23 @@
+<div  type="fragment" corresp="adams:23" ana="#mentula #metaphore #pointu #poles">
+  <bibl ref="#adams"><author>Caelius Aurelianus</author>, <title>Celerum passionum libri III</title>, <biblscope>3.114-3.115</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:3.114-3.115" type="part">
+    <w ref="3.114" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="3.115" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="3.115" lemma="tentigo" pos="NOMcom" msd="Case=Nom|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act">tentigo</w>
+    <w ref="3.115" lemma="frequens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">frequens</w>
+    <w ref="3.115" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="3.115" lemma="ultra2" pos="PRE" msd="MORPH=empty">ultra</w>
+    <w ref="3.115" lemma="natura" pos="NOMcom" msd="Case=Acc|Numb=Sing">naturam</w>
+    <w ref="3.115" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.115" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ref="3.115" lemma="uirilis" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut">uirilia</w>
+    <w ref="3.115" lemma="siue2" pos="CONsub" msd="MORPH=empty">siue</w>
+    <w ana="#mentula #metaphore #pointu #poles" ref="3.115" lemma="radius" pos="NOMcom" msd="Case=Nom|Numb=Sing">radius</w>
+    <w ana="#mentula #metaphore #pointu #poles" ref="3.115" lemma="uirilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">uirilis</w>
+    <w ref="3.115" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">fuerit</w>
+    <w ref="3.115" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="3.115" lemma="tumor" pos="NOMcom" msd="Case=Abl|Numb=Sing">tumore</w>
+    <w ref="3.115" lemma="constituo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">constitutus</w>
+    <w ref="3.115" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

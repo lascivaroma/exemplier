@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:14" ana="#mentula #metaphore #pointu #armes">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>25.2-25.7</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:25.2-25.7" type="line">
+    <w ref="25.6" lemma="intra2" pos="PRE" msd="MORPH=empty">intra</w>
+    <w ref="25.6" lemma="uiscus2" pos="NOMcom" msd="Case=Acc|Numb=Plur">uiscera</w>
+    <w ref="25.6" lemma="fur" pos="NOMcom" msd="Case=Abl|Numb=Sing">furis</w>
+    <w ref="25.6" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">ibit</w>
+    <w ref="25.6" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+    <w ref="25.7" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="25.7" lemma="pubes1" pos="NOMcom" msd="Case=Acc|Numb=Sing">pubem</w>
+    <w ana="#mentula #metaphore #pointu #armes" ref="25.7" lemma="capulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">capulumque</w>
+    <w ref="25.7" lemma="que" pos="CON" msd="MORPH=empty">{capulumque}</w>
+    <w ref="25.7" lemma="coleus" pos="NOMcom" msd="Case=Gen|Numb=Plur">coleorum</w>
+    <w ref="25.7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>9.63.2-9.63.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.63.2-9.63.2" type="line">
+    <w ana="#mentula" ref="9.63.2" lemma="Mentula" pos="NOMpro" msd="Case=Nom|Numb=Sing">Mentula</w>
+    <w ref="9.63.2" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+    <w ref="9.63.2" lemma="pasco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pascit</w>
+    <w ref="9.63.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.63.2" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="9.63.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.63.2" lemma="puto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">puto</w>
+    <w ref="9.63.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9.63.2" lemma="purus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">purus</w>
+    <w ref="9.63.2" lemma="homo" pos="NOMcom" msd="Case=Nom|Numb=Sing">homo</w>
+    <w ref="9.63.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="9.63.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

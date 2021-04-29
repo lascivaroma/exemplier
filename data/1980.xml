@@ -1,0 +1,21 @@
+<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #concomitant">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>3.14.19-3.14.20</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.14.19-3.14.20" type="line">
+    <w ref="3.14.19" lemma="hinc" pos="ADV" msd="Deg=Pos">Hinc</w>
+    <w ref="3.14.19" lemma="simul3" pos="CONsub" msd="MORPH=empty">simul</w>
+    <w ref="3.14.19" lemma="exeo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">exieris</w>
+    <w ref="3.14.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.14.19" lemma="lasciuia" pos="NOMcom" msd="Case=Nom|Numb=Sing">lascivia</w>
+    <w ref="3.14.19" lemma="protinus" pos="ADV" msd="Deg=Pos">protinus</w>
+    <w ref="3.14.19" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">omnis</w>
+    <w ref="3.14.20" lemma="absum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">Absit</w>
+    <w ref="3.14.20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.14.20" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="3.14.20" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#acte #metonymie #concomitant" ref="3.14.20" lemma="lectus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">lecto</w>
+    <w ref="3.14.20" lemma="crimen" pos="NOMcom" msd="Case=Acc|Numb=Plur">crimina</w>
+    <w ref="3.14.20" lemma="pono" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">pone</w>
+    <w ref="3.14.20" lemma="tuus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">tuo</w>
+    <w ref="3.14.20" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

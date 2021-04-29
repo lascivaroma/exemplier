@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:200" ana="#acte #metonymie #disgrace">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Amphitruo</title>, <biblscope>882-883</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi001.perseus-lat2:882-883" type="line">
+    <w ref="882" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+    <w ref="882" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="882" lemma="probrum" pos="NOMcom" msd="Case=Gen|Numb=Sing">probri</w>
+    <w ref="882" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="883" lemma="stuprum" pos="NOMcom" msd="Case=Gen|Numb=Sing">stupri</w>
+    <w ref="883" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #disgrace" ref="883" lemma="dedecor" pos="VER" msd="Case=Gen|Numb=Sing">dedecoris</w>
+    <w ref="883" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="883" lemma="uir" pos="NOMcom" msd="Case=Abl|Numb=Sing">viro</w>
+    <w ref="883" lemma="argutus" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">argutam</w>
+    <w ref="883" lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">meo</w>
+    <w ref="883" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences">
+  <bibl ref="#adams"><author>Caius Iulius Hyginus</author>, <title>Fabvlae</title>, <biblscope>XXXIII.1-XXXIII.1</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1263.phi001.corpuscorporum-lat1:XXXIII.1-XXXIII.1" type="chapter">
+    <w ref="XXXIII.1" lemma="Hercules" pos="NOMpro" msd="Case=Nom|Numb=Sing">Hercules</w>
+    <w ref="XXXIII.1" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="XXXIII.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="XXXIII.1" lemma="hospitium" pos="NOMcom" msd="Case=Acc|Numb=Sing">hospitium</w>
+    <w ref="XXXIII.1" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="XXXIII.1" lemma="Dexamenus" pos="NOMpro" msd="Case=Acc|Numb=Sing">Dexamenum</w>
+    <w ref="XXXIII.1" lemma="rex" pos="NOMcom" msd="Case=Acc|Numb=Sing">regem</w>
+    <w ref="XXXIII.1" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">uenisset</w>
+    <w ref="XXXIII.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="XXXIII.1" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eiusque</w>
+    <w ref="XXXIII.1" lemma="que" pos="CON" msd="MORPH=empty">{eiusque}</w>
+    <w ref="XXXIII.1" lemma="filia" pos="NOMcom" msd="Case=Acc|Numb=Sing">filiam</w>
+    <w ref="XXXIII.1" lemma="Deianira" pos="NOMpro" msd="Case=Acc|Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act">Deianiram</w>
+    <w ana="#acte #metonymie #consequences" ref="XXXIII.1" lemma="deuirgino" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">deuirginasset</w>
+    <w ref="XXXIII.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

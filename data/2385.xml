@@ -1,0 +1,13 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>73.2-73.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:73.2-73.2" type="line">
+    <w ref="73.2" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="73.2" lemma="sto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">stat</w>
+    <w ref="73.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="73.2" lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Plur">inguinibus</w>
+    <w ana="#mentula" ref="73.2" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="73.2" lemma="tendo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">tenta</w>
+    <w ref="73.2" lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Plur|Gend=Com">meis</w>
+    <w ref="73.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

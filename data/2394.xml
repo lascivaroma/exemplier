@@ -1,0 +1,32 @@
+<div  type="fragment" corresp="adams:14" ana="#mentula #metaphore #pointu">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>6.49.1-6.49.6</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:6.49.1-6.49.6" type="line">
+    <w ref="6.49.1" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
+    <w ref="6.49.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">sum</w>
+    <w ref="6.49.1" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="6.49.1" lemma="fragilis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">fragili</w>
+    <w ref="6.49.1" lemma="dolo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">dolatus</w>
+    <w ref="6.49.1" lemma="ulmus" pos="NOMcom" msd="Case=Abl|Numb=Sing">ulmo</w>
+    <w ref="6.49.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.49.2" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ref="6.49.2" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="6.49.2" lemma="sto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">stat</w>
+    <w ref="6.49.2" lemma="rigidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">rigida</w>
+    <w ref="6.49.2" lemma="supinus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">supina</w>
+    <w ref="6.49.2" lemma="uena" pos="NOMcom" msd="Case=Nom|Numb=Sing">vena</w>
+    <w ref="6.49.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.49.3" lemma="de" pos="PRE" msd="MORPH=empty">De</w>
+    <w ref="6.49.3" lemma="lignum" pos="NOMcom" msd="Case=Abl|Numb=Sing">ligno</w>
+    <w ref="6.49.3" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="6.49.3" lemma="quilibet" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quolibet</w>
+    <w ana="#mentula #metaphore #pointu" ref="6.49.3" lemma="columna" pos="NOMcom" msd="Case=Nom|Numb=Sing">columna</w>
+    <w ref="6.49.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="6.49.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.49.4" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+    <w ref="6.49.4" lemma="uiuus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">viva</w>
+    <w ref="6.49.4" lemma="genero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">generata</w>
+    <w ref="6.49.4" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="6.49.4" lemma="cupressus" pos="NOMcom" msd="Case=Abl|Numb=Sing">cupressu</w>
+    <w ref="6.49.4" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+  </quote>
+</div>

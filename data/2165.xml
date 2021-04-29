@@ -1,0 +1,17 @@
+<div  type="fragment" corresp="adams:200" ana="#acte #metonymie #insulter">
+  <bibl ref="#adams"><author>Claudianus Mamertus -approximately 474</author>, <title>De Statu Animae</title>, <biblscope>2.11-2.11</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1. 389.76ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0089a.stoa001.opp-lat1:2.11-2.11" type="chapter">
+    <w ref="2.11" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="2.11" lemma="scelus" pos="NOMcom" msd="Case=Abl|Numb=Sing">scelere</w>
+    <w ref="2.11" lemma="polluo" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">pollutus</w>
+    <w ref="2.11" lemma="incestum" pos="ADJqua" msd="Case=Gen|Numb=Sing">incesti</w>
+    <w ref="2.11" lemma="nouercalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">nouercalem</w>
+    <w ref="2.11" lemma="torus" pos="NOMcom" msd="Case=Acc|Numb=Sing">torum</w>
+    <w ref="2.11" lemma="penis" pos="NOMcom" msd="Case=Abl|Numb=Sing">pene</w>
+    <w ref="2.11" lemma="mater" pos="NOMcom" msd="Case=Gen|Numb=Sing">matris</w>
+    <w ref="2.11" lemma="stuprator" pos="NOMcom" msd="Case=Nom|Numb=Sing">stuprator</w>
+    <w ana="#acte #metonymie #insulter" ref="2.11" lemma="illudo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">inluserat</w>
+    <w ref="2.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

@@ -1,0 +1,10 @@
+<div  type="fragment" corresp="adams:191" ana="#acte #metonymie #position #male #passive">
+  <bibl ref="#adams"><author>Juvenal</author>, <title>Satires</title>, <biblscope>9.24-9.26</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:9.24-9.26" type="line">
+    <w ref="9.26" lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Masc">ipsos</w>
+    <w ref="9.26" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ana="#acte #metonymie #position #male #passive" ref="9.26" lemma="inclino" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">inclinare</w>
+    <w ref="9.26" lemma="maritus1" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Masc">maritos</w>
+    <w ref="9.26" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

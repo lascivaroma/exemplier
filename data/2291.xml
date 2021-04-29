@@ -1,0 +1,19 @@
+<div  type="fragment" corresp="adams:208" ana="#acte #oral">
+  <bibl ref="#adams"><author>Lactantius ca. 240-ca. 320</author>, <title>Divinarum Institutionum</title>, <biblscope>6.23.11-6.23.11</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0171.stoa009.opp-lat1:6.23.11-6.23.11" type="section">
+    <w ref="6.23.11" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="6.23.11" lemma="iste" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">istis</w>
+    <w ref="6.23.11" lemma="loquor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">loquor</w>
+    <w ref="6.23.11" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Plur|Gend=MascNeut">quorum</w>
+    <w ref="6.23.11" lemma="teter" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Sup">teterrima</w>
+    <w ref="6.23.11" lemma="libido" pos="NOMcom" msd="Case=Nom|Numb=Sing">libido</w>
+    <w ref="6.23.11" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="6.23.11" lemma="exsecrabilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">execrabilis</w>
+    <w ref="6.23.11" lemma="furor1" pos="NOMcom" msd="Case=Nom|Numb=Sing">furor</w>
+    <w ref="6.23.11" lemma="ne3" pos="ADVneg" msd="MORPH=empty">ne</w>
+    <w ana="#acte #oral" ref="6.23.11" lemma="caput" pos="NOMcom" msd="Case=Dat|Numb=Sing">capiti</w>
+    <w ref="6.23.11" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ref="6.23.11" lemma="parco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">parcit</w>
+    <w ref="6.23.11" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

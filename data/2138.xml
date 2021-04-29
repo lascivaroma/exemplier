@@ -1,0 +1,28 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>133-133</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VII.1.1670.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:133-133" type="section">
+    <w ref="133" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">ea</w>
+    <w ref="133" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
+    <w ref="133" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="133" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
+    <w ref="133" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="133" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="133" lemma="Ascyltus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Ascyltos</w>
+    <w ref="133" lemma="subduco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">subduxit</w>
+    <w ref="133" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="133" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+    <w ref="133" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#acte #metonymie #violence" ref="133" lemma="iniuria" pos="NOMcom" msd="Case=Acc|Numb=Sing">iniuriam</w>
+    <w ref="133" lemma="uigilo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">vigilavit</w>
+    <w ref="133" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="133" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="133" lemma="contentus1" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">contentus</w>
+    <w ref="133" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="133" lemma="uiduus" pos="NOMcom" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">vidua</w>
+    <w ref="133" lemma="pudicus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">pudicaque</w>
+    <w ref="133" lemma="que" pos="CON" msd="MORPH=empty">{pudicaque}</w>
+    <w ref="133" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
+    <w ref="133" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

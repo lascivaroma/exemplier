@@ -1,0 +1,23 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence #irrumatio">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Truculentus</title>, <biblscope>379b-381</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi020.perseus-lat2:379b-381" type="line">
+    <w ref="379b" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="380" lemma="uerum4" pos="CONcoo" msd="Numb=Sing">verum</w>
+    <w ref="380" lemma="tempestas" pos="NOMcom" msd="Case=Nom|Numb=Sing">tempestas</w>
+    <w ref="380" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="380" lemma="memini" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">memini</w>
+    <w ref="380" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="380" lemma="quondam" pos="ADV" msd="Deg=Pos">quondam</w>
+    <w ref="380" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="380" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="380" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="381" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="381" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="381" lemma="nos" pos="PROper" msd="Case=Acc|Numb=Plur">nos</w>
+    <w ana="#acte #metonymie #violence #irrumatio" ref="381" lemma="sordeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=1">sordebamus</w>
+    <w ref="381" lemma="alter" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">alter</w>
+    <w ref="381" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="381" lemma="alter" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">altero</w>
+    <w ref="381" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

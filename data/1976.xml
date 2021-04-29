@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:193" ana="#acte #metonymie #movement">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>2.10.35-2.10.38</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.10.35-2.10.38" type="line">
+    <w ref="2.10.35" lemma="at2" pos="CONcoo" msd="MORPH=empty">At</w>
+    <w ref="2.10.35" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="2.10.35" lemma="contingo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">contingat</w>
+    <w ref="2.10.35" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
+    <w ref="2.10.35" lemma="languesco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">languescere</w>
+    <w ana="#acte #metonymie #movement" ref="2.10.35" lemma="motus" pos="NOMcom" msd="Case=Abl|Numb=Sing">motu</w>
+    <w ref="2.10.35" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

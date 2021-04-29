@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Phaedrus</author>, <title>Fables</title>, <biblscope>appendix.13.18-appendix.13.19</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0975.phi001.perseus-lat2:appendix.13.18-appendix.13.19" type="line">
+    <w ana="#acte #metonymie #violence" ref="appendix.13.18" lemma="corrumpo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">Corruptus</w>
+    <w ref="appendix.13.18" lemma="animus" pos="NOMcom" msd="Case=Nom|Numb=Sing">animus</w>
+    <w ref="appendix.13.18" lemma="illico" pos="ADV" msd="Deg=Pos">ilico</w>
+    <w ref="appendix.13.18" lemma="succendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">succenditur</w>
+    <w ref="appendix.13.19" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="appendix.13.19" lemma="uro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">uritur</w>
+    <w ref="appendix.13.19" lemma="impudens" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Com|Deg=Pos">impudentis</w>
+    <w ref="appendix.13.19" lemma="sensim" pos="ADV" msd="Deg=Pos">sensim</w>
+    <w ref="appendix.13.19" lemma="cupiditas" pos="NOMcom" msd="Case=Nom|Numb=Sing">cupiditas</w>
+    <w ref="appendix.13.19" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

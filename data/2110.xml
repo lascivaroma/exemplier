@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Apuleius</author>, <title>Metamorphoses</title>, <biblscope>4.30-4.30</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:4.30-4.30" type="chapter">
+    <w ref="4.30" lemma="omnis" pos="PROind" msd="Case=Gen|Numb=Plur|Gend=Com">omnium</w>
+    <w ref="4.30" lemma="matrimonium" pos="NOMcom" msd="Case=Acc|Numb=Plur">matrimonia</w>
+    <w ana="#acte #metonymie #violence" ref="4.30" lemma="corrumpo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">corrumpens</w>
+    <w ref="4.30" lemma="impune" pos="ADV" msd="Deg=Pos">impune</w>
+    <w ref="4.30" lemma="committo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">committit</w>
+    <w ref="4.30" lemma="tantus" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">tanta</w>
+    <w ref="4.30" lemma="flagitium" pos="NOMcom" msd="Case=Acc|Numb=Plur">flagitia</w>
+  </quote>
+</div>

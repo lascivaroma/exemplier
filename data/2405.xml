@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:19" ana="#mentula #metaphore #pointu #armes">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.78.5-11.78.8</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.78.5-11.78.8" type="line">
+    <w ref="11.78.5" lemma="pedico" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Pedicare</w>
+    <w ref="11.78.5" lemma="semel" pos="ADJadv.mul" msd="MORPH=empty">semel</w>
+    <w ref="11.78.5" lemma="cupidus" pos="NOMcom" msd="Case=Nom|Numb=Sing|Deg=Pos">cupido</w>
+    <w ref="11.78.5" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">dabit</w>
+    <w ref="11.78.5" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="11.78.5" lemma="maritus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">marito</w>
+    <w ref="11.78.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.78.6" lemma="dum2" pos="CONsub" msd="MORPH=empty">Dum</w>
+    <w ref="11.78.6" lemma="metuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">metuit</w>
+    <w ana="#mentula #metaphore #pointu #armes" ref="11.78.6" lemma="telum" pos="NOMcom" msd="Case=Gen|Numb=Sing">teli</w>
+    <w ref="11.78.6" lemma="uulnus" pos="NOMcom" msd="Case=Acc|Numb=Plur">vulnera</w>
+    <w ref="11.78.6" lemma="primus" pos="ADJord" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Sup">prima</w>
+    <w ref="11.78.6" lemma="nouus" pos="VER" msd="Case=Gen|Numb=Sing|Gend=MascNeut">novi</w>
+  </quote>
+</div>

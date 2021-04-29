@@ -1,0 +1,32 @@
+<div  type="fragment" corresp="adams:14" ana="#mentula #metaphore #pointu #armes">
+  <bibl ref="#adams"><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblscope>V.9-V.9</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:V.9-V.9" type="part">
+    <w ref="V.9" lemma="aio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ait</w>
+    <w ref="V.9" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="V.9" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="V.9" lemma="uideo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">uidisse</w>
+    <w ref="V.9" lemma="senex1" pos="NOMcom" msd="Case=Acc|Numb=Sing|Deg=Pos">senem</w>
+    <w ref="V.9" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="V.9" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">semet</w>
+    <w ref="V.9" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
+    <w ref="V.9" lemma="operor" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Dep">operantem</w>
+    <w ref="V.9" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="V.9" lemma="quisquam" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">quicquam</w>
+    <w ref="V.9" lemma="possum1" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">potuisse</w>
+    <w ref="V.9" lemma="perago" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">peragere</w>
+    <w ref="V.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.9" lemma="tensio" pos="NOMcom" msd="Case=Acc|Numb=Sing">tensionem</w>
+    <w ref="V.9" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="V.9" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">fuisse</w>
+    <w ref="V.9" lemma="uereter" pos="NOMcom" msd="Case=Gen|Numb=Sing">ueretri</w>
+    <w ref="V.9" lemma="nimius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">nimiam</w>
+    <w ref="V.9" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="V.9" lemma="paruus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">paruo</w>
+    <w ref="V.9" lemma="dolor" pos="NOMcom" msd="Case=Abl|Numb=Sing">dolore</w>
+    <w ref="V.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="V.9" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ana="#mentula #metaphore #pointu #armes" ref="V.9" lemma="cornu" pos="NOMcom" msd="Case=Nom|Numb=Sing">cornu</w>
+    <w ref="V.9" lemma="puto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">putaretur</w>
+    <w ref="V.9" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+  </quote>
+</div>

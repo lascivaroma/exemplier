@@ -1,0 +1,21 @@
+<div  type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Horace</author>, <title>Odes</title>, <biblscope>3.6.25-3.6.32</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi001.perseus-lat2:3.6.25-3.6.32" type="line">
+    <w ref="3.6.25" lemma="mox" pos="ADV" msd="Deg=Pos">mox</w>
+    <w ref="3.6.25" lemma="iuuenis2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Comp">iuniores</w>
+    <w ref="3.6.25" lemma="quaero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">quaerit</w>
+    <w ref="3.6.25" lemma="adulter1" pos="NOMcom" msd="Case=Acc|Numb=Plur">adulteros</w>
+    <w ref="3.6.26" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="3.6.26" lemma="maritus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">mariti</w>
+    <w ref="3.6.26" lemma="uinum" pos="NOMcom" msd="Case=Acc|Numb=Plur">vina</w>
+    <w ref="3.6.26" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="3.6.26" lemma="eligo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">eligit</w>
+    <w ref="3.6.27" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
+    <w ref="3.6.27" lemma="dono" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">donet</w>
+    <w ref="3.6.27" lemma="impermissus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">inpermissa</w>
+    <w ref="3.6.27" lemma="raptim" pos="ADV" msd="Deg=Pos">raptim</w>
+    <w ana="#acte #metonymie #pleasure" ref="3.6.28" lemma="gaudium" pos="NOMcom" msd="Case=Acc|Numb=Plur">gaudia</w>
+    <w ref="3.6.28" lemma="lumen" pos="NOMcom" msd="Case=Abl|Numb=Plur">luminibus</w>
+    <w ref="3.6.28" lemma="remoueo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">remotis</w>
+  </quote>
+</div>

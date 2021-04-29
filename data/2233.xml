@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:206" ana="#acte #animals #salio">
+  <bibl ref="#adams"><author>Columella, Lucius Junius Moderatus</author>, <title>Res Rustica</title>, <biblscope>8.2.12-8.2.12</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:8.2.12-8.2.12" type="section">
+    <w ref="8.2.12" lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
+    <w ref="8.2.12" lemma="Rhodii" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut">Rhodii</w>
+    <w ref="8.2.12" lemma="genus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">generis</w>
+    <w ref="8.2.12" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="8.2.12" lemma="medicus2" pos="ADJqua" msd="Case=Gen|Numb=Sing">Medici</w>
+    <w ref="8.2.12" lemma="propter2" pos="PRE" msd="MORPH=empty">propter</w>
+    <w ref="8.2.12" lemma="grauitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">gravitatem</w>
+    <w ref="8.2.12" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+    <w ref="8.2.12" lemma="pater" pos="NOMcom" msd="Case=Nom|Numb=Plur">patres</w>
+    <w ref="8.2.12" lemma="nimis" pos="ADV" msd="Deg=Pos">nimis</w>
+    <w ana="#acte #animals #salio" ref="8.2.12" lemma="salax" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">salaces</w>
+    <w ref="8.2.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8.2.12" lemma="nec" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="8.2.12" lemma="fecundus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">fecundae</w>
+    <w ref="8.2.12" lemma="mater" pos="NOMcom" msd="Case=Nom|Numb=Plur">matres</w>
+  </quote>
+</div>

@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:200" ana="#acte #metonymie #disgrace">
+  <bibl ref="#adams"><author>Cicero</author>, <title>Philippics</title>, <biblscope>2.99-2.99</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi035.perseus-lat2:2.99-2.99" type="section">
+    <w ref="2.99" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="2.99" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="2.99" lemma="satis1" pos="ADJqua" msd="Case=Ind|Deg=Pos">satis</w>
+    <w ref="2.99" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ana="#acte #metonymie #disgrace" ref="2.99" lemma="probrum" pos="NOMcom" msd="Case=Gen|Numb=Sing">probri</w>
+    <w ref="2.99" lemma="insimulo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">insimulasti</w>
+    <w ref="2.99" lemma="pudicus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Sup">pudicissimam</w>
+    <w ref="2.99" lemma="femina" pos="NOMcom" msd="Case=Acc|Numb=Sing">feminam</w>
+    <w ref="2.99" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

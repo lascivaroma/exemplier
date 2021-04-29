@@ -1,0 +1,26 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Hilary Saint, Bishop of Poitiers -367?</author>, <title>Oratio Synodi Sardicensis ad Constantium Imperatorem</title>, <biblscope>1.2.2-1.2.2</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0149b.stoa007.opp-lat1:1.2.2-1.2.2" type="section">
+    <w ref="1.2.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.2.2" lemma="bene" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp">melius</w>
+    <w ref="1.2.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1.2.2" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="1.2.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.2.2" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">hoc</w>
+    <w ref="1.2.2" lemma="saeculum" pos="NOMcom" msd="Case=Abl|Numb=Sing">saeculo</w>
+    <w ref="1.2.2" lemma="morior" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">mori</w>
+    <w ref="1.2.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.2" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="1.2.2" lemma="aliquis" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">alicuius</w>
+    <w ref="1.2.2" lemma="priuatus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">priuati</w>
+    <w ref="1.2.2" lemma="potentia" pos="NOMcom" msd="Case=Abl|Numb=Sing">potentia</w>
+    <w ref="1.2.2" lemma="dominor" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">dominante</w>
+    <w ref="1.2.2" lemma="castus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">castam</w>
+    <w ref="1.2.2" lemma="ueritas" pos="NOMcom" msd="Case=Gen|Numb=Sing">ueritatis</w>
+    <w ana="#acte #metonymie #violence" ref="1.2.2" lemma="uirginitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">uirginitatem</w>
+    <w ana="#acte #metonymie #violence" ref="1.2.2" lemma="corrumpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">corrumpere</w>
+    <w ref="1.2.2" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="1.2.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

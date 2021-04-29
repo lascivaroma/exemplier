@@ -1,0 +1,25 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Phaedrus</author>, <title>Fables</title>, <biblscope>appendix.25.1-appendix.25.5</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0975.phi001.perseus-lat2:appendix.25.1-appendix.25.5" type="line">
+    <w ref="appendix.25.1" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+    <w ref="appendix.25.1" lemma="seruus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">servus</w>
+    <w ref="appendix.25.1" lemma="nequam2" pos="ADJqua" msd="Case=Ind|Deg=Pos">nequam</w>
+    <w ref="appendix.25.1" lemma="Socrates" pos="NOMpro" msd="Case=Dat|Numb=Sing">Socrati</w>
+    <w ref="appendix.25.1" lemma="maledico2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">malediceret</w>
+    <w ref="appendix.25.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="appendix.25.2" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">Uxorem</w>
+    <w ref="appendix.25.2" lemma="dominus" pos="NOMcom" msd="Case=Gen|Numb=Sing">domini</w>
+    <w ref="appendix.25.2" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ana="#acte #metonymie #violence" ref="appendix.25.2" lemma="corrumpo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">corrupisset</w>
+    <w ref="appendix.25.2" lemma="sui2" pos="PROpos.ref" msd="Case=Gen|Numb=Sing|Gend=MascNeut">sui</w>
+    <w ref="appendix.25.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="appendix.25.3" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">Idque</w>
+    <w ref="appendix.25.3" lemma="que" pos="CON" msd="MORPH=empty">{Idque}</w>
+    <w ref="appendix.25.3" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="appendix.25.3" lemma="scio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">sciret</w>
+    <w ref="appendix.25.3" lemma="notus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">notum</w>
+    <w ref="appendix.25.3" lemma="circumsto" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">circumstantibus</w>
+    <w ref="appendix.25.3" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+  </quote>
+</div>

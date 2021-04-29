@@ -1,0 +1,19 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Ambrose, Saint, Bishop of Milan</author>, <title>De lapsu virginis consecratae</title>, <biblscope>4.13-4.13</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0022.stoa036.corpuscorporum-lat1:4.13-4.13" type="chapter">
+    <w ref="4.13" lemma="ubi1" pos="ADVrel" msd="MORPH=empty">ubi</w>
+    <w ref="4.13" lemma="totiens" pos="PROdem" msd="Deg=Pos">toties</w>
+    <w ref="4.13" lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
+    <w ref="4.13" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">illa</w>
+    <w ref="4.13" lemma="dico1" pos="VER" msd="Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">dicata</w>
+    <w ref="4.13" lemma="Christus" pos="NOMpro" msd="Case=Dat|Numb=Sing">Christo</w>
+    <w ref="4.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.13" lemma="scelestus" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Deg=Sup">scelestissimo</w>
+    <w ref="4.13" lemma="moechus" pos="NOMcom" msd="Case=Dat|Numb=Sing">moecho</w>
+    <w ref="4.13" lemma="suus" pos="PROpos.ref" msd="Case=Dat|Numb=Plur|Gend=Com">suis</w>
+    <w ref="4.13" lemma="uiscus2" pos="NOMcom" msd="Case=Dat|Numb=Plur">visceribus</w>
+    <w ana="#acte #metonymie #violence" ref="4.13" lemma="polluo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Adj|Voice=Pass">polluenda</w>
+    <w ref="4.13" lemma="praebeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">praebuisti</w>
+    <w ref="4.13" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

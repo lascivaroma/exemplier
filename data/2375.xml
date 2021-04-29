@@ -1,0 +1,41 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>45.3-45.7</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:45.3-45.7" type="line">
+    <w ref="45.3" lemma="puella" pos="NOMcom" msd="Case=Gen|Numb=Sing">puellae</w>
+    <w ref="45.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="45.4" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="45.4" lemma="heus" pos="INJ" msd="MORPH=empty">heus</w>
+    <w ref="45.4" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="45.4" lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inquit</w>
+    <w ref="45.4" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="45.4" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="45.4" lemma="dico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">dicimus</w>
+    <w ref="45.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="45.4" lemma="cinaedus2" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=Masc|Deg=Pos">cinaede</w>
+    <w ref="45.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="45.5" lemma="uro" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">uras</w>
+    <w ref="45.5" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="45.5" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">licet</w>
+    <w ref="45.5" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+    <w ref="45.5" lemma="torqueo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">torqueasque</w>
+    <w ref="45.5" lemma="que" pos="CON" msd="MORPH=empty">{torqueasque}</w>
+    <w ref="45.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="45.6" lemma="num" pos="ADVint" msd="MORPH=empty">num</w>
+    <w ref="45.6" lemma="tandem" pos="ADV" msd="Deg=Pos">tandem</w>
+    <w ref="45.6" lemma="prior" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">prior</w>
+    <w ref="45.6" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
+    <w ref="45.6" lemma="puella" pos="NOMcom" msd="Case=Voc|Numb=Sing">puella</w>
+    <w ref="45.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="45.6" lemma="quaeso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">quaeso</w>
+    <w ref="45.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="45.7" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="45.7" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+    <w ref="45.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#mentula" ref="45.7" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Plur">mentula</w>
+    <w ref="45.7" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Masc">quos</w>
+    <w ref="45.7" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habet</w>
+    <w ref="45.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="45.7" lemma="capillus" pos="NOMcom" msd="Case=Nom|Numb=Plur">capilli</w>
+    <w ref="45.7" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

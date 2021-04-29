@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Persa</title>, <biblscope>127-128</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi014.perseus-lat2:127-128" type="line">
+    <w ref="127" lemma="iam" pos="ADV" msd="Deg=Pos">Iam</w>
+    <w ref="127" lemma="nolo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">nolo</w>
+    <w ref="127" lemma="argentum" pos="NOMcom" msd="Case=Acc|Numb=Sing">argentum</w>
+    <w ref="127" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="127" lemma="filia" pos="NOMcom" msd="Case=Acc|Numb=Sing">filiam</w>
+    <w ana="#acte #metonymie #pleasure" ref="127" lemma="utor" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Dep">utendam</w>
+    <w ref="127" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">tuam</w>
+    <w ref="128" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="128" lemma="do" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">da</w>
+    <w ref="128" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

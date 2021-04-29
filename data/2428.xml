@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:23" ana="#mentula #metaphore #pointu #poles">
+  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>28.6-28.10</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:28.6-28.10" type="line">
+    <w ref="28.9" lemma="“" pos="PUNC" msd="MORPH=empty">“</w>
+    <w ref="28.9" lemma="o" pos="INJ" msd="MORPH=empty">o</w>
+    <w ref="28.9" lemma="Memmius" pos="NOMpro" msd="Case=Voc|Numb=Sing">Memmi</w>
+    <w ref="28.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="28.9" lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
+    <w ref="28.9" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+    <w ref="28.9" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="28.9" lemma="diu" pos="ADV" msd="Deg=Pos">diu</w>
+    <w ref="28.9" lemma="supinus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">supinum</w>
+    <w ref="28.10" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">tota</w>
+    <w ref="28.10" lemma="iste" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">ista</w>
+    <w ana="#mentula #metaphore #pointu #poles" ref="28.10" lemma="trabs" pos="NOMcom" msd="Case=Abl|Numb=Sing">trabe</w>
+    <w ref="28.10" lemma="lentus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">lentus</w>
+    <w ref="28.10" lemma="irrumo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">irrumasti</w>
+    <w ref="28.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>29.11-29.14</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:29.11-29.14" type="line">
+    <w ref="29.13" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="29.13" lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ista</w>
+    <w ref="29.13" lemma="uester" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">vestra</w>
+    <w ref="29.13" lemma="diffutuo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">diffututa</w>
+    <w ana="#mentula" ref="29.13" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="29.14" lemma="ducentiens" pos="ADJadv.mul" msd="MORPH=empty">ducenties</w>
+    <w ref="29.14" lemma="comedo2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">comesset</w>
+    <w ref="29.14" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="29.14" lemma="trecentiens" pos="ADJadv.mul" msd="MORPH=empty">trecenties</w>
+    <w ref="29.14" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

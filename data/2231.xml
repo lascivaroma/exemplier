@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:206" ana="#acte #animals #salio">
+  <bibl ref="#adams"><author>Columella, Lucius Junius Moderatus</author>, <title>Res Rustica</title>, <biblscope>7.9.1-7.9.1</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:7.9.1-7.9.1" type="section">
+    <w ref="7.9.1" lemma="magis" pos="ADV" msd="Deg=Sup">Maximeque</w>
+    <w ref="7.9.1" lemma="que" pos="CON" msd="MORPH=empty">{Maximeque}</w>
+    <w ref="7.9.1" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="7.9.1" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Sing">rem</w>
+    <w ref="7.9.1" lemma="pertineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pertinet</w>
+    <w ref="7.9.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.9.1" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ana="#acte #animals #salio" ref="7.9.1" lemma="salax" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Sup">salacissimos</w>
+    <w ref="7.9.1" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="7.9.1" lemma="ineo1" pos="VER" msd="Case=Acc|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">ineuntes</w>
+    <w ref="7.9.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

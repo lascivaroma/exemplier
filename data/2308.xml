@@ -1,0 +1,8 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>94.1-94.1</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:94.1-94.1" type="line">
+    <w ana="#mentula" ref="94.1" lemma="Mentula" pos="NOMpro" msd="Case=Nom|Numb=Sing">Mentula</w>
+    <w ref="94.1" lemma="moechor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">moechatur</w>
+    <w ref="94.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

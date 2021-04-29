@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Firmicus Maternus, Julius</author>, <title>De errore profanarum religionum</title>, <biblscope>12.2-12.2</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0123a.stoa001.opp-lat1:12.2-12.2" type="section">
+    <w ref="12.2" lemma="qui1" pos="CONsub" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="12.2" lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Sing">deus</w>
+    <w ref="12.2" lemma="suus" pos="PROpos.ref" msd="Case=Nom|Numb=Sing|Gend=Masc">suus</w>
+    <w ref="12.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="12.2" lemma="cycnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">cygno</w>
+    <w ref="12.2" lemma="fallo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fallit</w>
+    <w ref="12.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="12.2" lemma="taurus" pos="NOMcom" msd="Case=Abl|Numb=Sing">tauro</w>
+    <w ref="12.2" lemma="rapio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">rapit</w>
+    <w ref="12.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.2" lemma="ludo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ludit</w>
+    <w ref="12.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="12.2" lemma="satyrus" pos="NOMcom" msd="Case=Abl|Numb=Sing">satyro</w>
+    <w ref="12.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="12.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.2" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="12.2" lemma="liberalis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">liberalis</w>
+    <w ref="12.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="12.2" lemma="flagitium" pos="NOMcom" msd="Case=Abl|Numb=Plur">flagitiis</w>
+    <w ref="12.2" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="12.2" lemma="consuesco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">consuescat</w>
+    <w ref="12.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.2" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="12.2" lemma="includo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">inclusam</w>
+    <w ref="12.2" lemma="regia" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">regiam</w>
+    <w ref="12.2" lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Sing">uirginem</w>
+    <w ref="12.2" lemma="aurum" pos="NOMcom" msd="Case=Abl|Numb=Sing">auro</w>
+    <w ref="12.2" lemma="largiter" pos="ADV" msd="Deg=Pos">largiter</w>
+    <w ref="12.2" lemma="fluo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">fluente</w>
+    <w ana="#acte #metonymie #violence" ref="12.2" lemma="corrumpo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">corruperit</w>
+    <w ref="12.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

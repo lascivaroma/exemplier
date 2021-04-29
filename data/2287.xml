@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:208" ana="#acte #oral">
+  <bibl ref="#adams"><author>Ausonius, Decimus Magnus</author>, <title>Cento Nuptialis</title>, <biblscope>101-108</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:101-108" type="line">
+    <w ref="104" lemma="facies" pos="NOMcom" msd="Case=Acc|Numb=Sing">faciemque</w>
+    <w ref="104" lemma="que" pos="CON" msd="MORPH=empty">{faciemque}</w>
+    <w ref="104" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="104" lemma="pes" pos="NOMcom" msd="Case=Acc|Numb=Sing">pedem</w>
+    <w ref="104" lemma="pes" pos="NOMcom" msd="Case=Abl|Numb=Sing">pede</w>
+    <w ref="104" lemma="feruidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">fervidus</w>
+    <w ref="104" lemma="urgeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">urget</w>
+    <w ref="104" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="105" lemma="perfidus1" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">perfidus</w>
+    <w ana="#acte #oral" ref="105" lemma="altus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">alta</w>
+    <w ana="#acte #oral" ref="105" lemma="peto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">petens</w>
+  </quote>
+</div>

@@ -1,0 +1,36 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>1.5.1-1.5.1</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VII.1.1670.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:1.5.1-1.5.1" type="section">
+    <w ref="1.5.1" lemma="coeo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">coit</w>
+    <w ref="1.5.1" lemma="populus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">populus</w>
+    <w ref="1.5.1" lemma="uelut1" pos="ADVrel" msd="MORPH=empty">uelut</w>
+    <w ref="1.5.1" lemma="publicus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">publico</w>
+    <w ref="1.5.1" lemma="metus" pos="NOMcom" msd="Case=Abl|Numb=Sing">metu</w>
+    <w ref="1.5.1" lemma="exterreo" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">exterritus</w>
+    <w ref="1.5.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.5.1" lemma="uix" pos="ADV" msd="Deg=Pos">uix</w>
+    <w ref="1.5.1" lemma="credo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">credit</w>
+    <w ref="1.5.1" lemma="duo" pos="ADJcar" msd="Case=Acc|Numb=Plur|Gend=Masc">duos</w>
+    <w ref="1.5.1" lemma="tantum1" pos="PROdem" msd="Deg=Pos">tantum</w>
+    <w ref="1.5.1" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">fuisse</w>
+    <w ref="1.5.1" lemma="raptor" pos="NOMcom" msd="Case=Acc|Numb=Plur">raptores</w>
+    <w ref="1.5.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.5.1" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="1.5.1" lemma="interim" pos="ADV" msd="Deg=Pos">interim</w>
+    <w ref="1.5.1" lemma="produco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">producitur</w>
+    <w ref="1.5.1" lemma="publicus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">publicus</w>
+    <w ref="1.5.1" lemma="pudicitia" pos="NOMcom" msd="Case=Gen|Numb=Sing">pudicitiae</w>
+    <w ref="1.5.1" lemma="hostis" pos="NOMcom" msd="Case=Nom|Numb=Sing">hostis</w>
+    <w ref="1.5.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.5.1" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+    <w ref="1.5.1" lemma="unus" pos="ADJcar" msd="Case=Abl|Numb=Sing|Gend=Fem">una</w>
+    <w ref="1.5.1" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
+    <w ref="1.5.1" lemma="unus" pos="ADJcar" msd="Case=Gen|Numb=Sing|Gend=Com">unius</w>
+    <w ref="1.5.1" lemma="uirgo" pos="NOMcom" msd="Case=Gen|Numb=Sing">uirginis</w>
+    <w ana="#acte #metonymie #violence" ref="1.5.1" lemma="iniuria" pos="NOMcom" msd="Case=Abl|Numb=Sing">iniuria</w>
+    <w ref="1.5.1" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.5.1" lemma="fatigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">fatigauerat</w>
+    <w ref="1.5.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

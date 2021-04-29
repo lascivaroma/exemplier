@@ -1,0 +1,43 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.27.1-11.27.5</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.27.1-11.27.5" type="line">
+    <w ref="11.27.1" lemma="ferreus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Ferreus</w>
+    <w ref="11.27.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
+    <w ref="11.27.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.27.1" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="11.27.1" lemma="sto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">stare</w>
+    <w ref="11.27.1" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">potest</w>
+    <w ref="11.27.1" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ana="#mentula" ref="11.27.1" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="11.27.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.27.1" lemma="Flaccus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Flacce</w>
+    <w ref="11.27.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.27.2" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+    <w ref="11.27.2" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="11.27.2" lemma="sex" pos="ADJcar" msd="Case=Ind">sex</w>
+    <w ref="11.27.2" lemma="cyathus" pos="NOMcom" msd="Case=Acc|Numb=Plur">cyathos</w>
+    <w ref="11.27.2" lemma="oro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">orat</w>
+    <w ref="11.27.2" lemma="amicus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">amica</w>
+    <w ref="11.27.2" lemma="garum" pos="NOMcom" msd="MORPH=empty">gari</w>
+    <w ref="11.27.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.27.3" lemma="uel2" pos="CONcoo" msd="MORPH=empty">Vel</w>
+    <w ref="11.27.3" lemma="duo" pos="ADJcar" msd="Case=Acc|Numb=Plur|Gend=MascNeut">duo</w>
+    <w ref="11.27.3" lemma="frustum" pos="NOMcom" msd="Case=Acc|Numb=Plur">frusta</w>
+    <w ref="11.27.3" lemma="rogo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">rogat</w>
+    <w ref="11.27.3" lemma="cybius" pos="NOMcom" msd="Case=Gen|Numb=Sing">cybii</w>
+    <w ref="11.27.3" lemma="tenuis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">tenuemve</w>
+    <w ref="11.27.3" lemma="ue" pos="CON" msd="MORPH=empty">{tenuemve}</w>
+    <w ref="11.27.3" lemma="lacertus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">lacertum</w>
+    <w ref="11.27.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.27.4" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ref="11.27.4" lemma="dignus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">dignam</w>
+    <w ref="11.27.4" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">toto</w>
+    <w ref="11.27.4" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="11.27.4" lemma="botryo" pos="NOMcom" msd="Case=Abl|Numb=Sing">botryone</w>
+    <w ref="11.27.4" lemma="puto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">putat</w>
+    <w ref="11.27.4" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="11.27.5" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">Cui</w>
+    <w ref="11.27.5" lemma="porto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">portat</w>
+    <w ref="11.27.5" lemma="gaudeo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=SemDep">gaudens</w>
+  </quote>
+</div>

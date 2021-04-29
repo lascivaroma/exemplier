@@ -1,0 +1,17 @@
+<div  type="fragment" corresp="adams:204" ana="#acte #euphemism #ellipse #facio #femaleSubject">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>3.4.3-3.4.4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.3-3.4.4" type="line">
+    <w ref="3.4.4" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">Quae</w>
+    <w ref="3.4.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.4.4" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+    <w ref="3.4.4" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="3.4.4" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">liceat</w>
+    <w ref="3.4.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.4.4" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ana="#acte #euphemism #ellipse #facio #femaleSubject" ref="3.4.4" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
+    <w ref="3.4.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.4.4" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="3.4.4" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
+    <w ref="3.4.4" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

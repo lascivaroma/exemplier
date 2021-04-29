@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences">
+  <bibl ref="#adams"><author>Historia Apollonii regis Tyri recensio B</author>, <title>Historia Apollonii regis Tyri recensio B</title>, <biblscope>1.2-1.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0323.stoa001.digilibLT-lat1:1.2-1.2" type="paragraph">
+    <w ref="1.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2" lemma="stimulo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">stimulante</w>
+    <w ref="1.2" lemma="furor1" pos="NOMcom" msd="Case=Abl|Numb=Sing">furore</w>
+    <w ref="1.2" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
+    <w ref="1.2" lemma="diu" pos="ADV" msd="Deg=Pos">diu</w>
+    <w ref="1.2" lemma="repugno" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">repugnante</w>
+    <w ref="1.2" lemma="filia" pos="NOMcom" msd="Case=Abl|Numb=Sing">filia</w>
+    <w ref="1.2" lemma="nodus" pos="NOMcom" msd="Case=Acc|Numb=Sing">nodum</w>
+    <w ana="#acte #metonymie #consequences" ref="1.2" lemma="uirginitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">uirginitatis</w>
+    <w ana="#acte #metonymie #consequences" ref="1.2" lemma="eripio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">eripuit</w>
+    <w ref="1.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

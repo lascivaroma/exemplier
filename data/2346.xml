@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>10.63.7-10.63.8</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:10.63.7-10.63.8" type="line">
+    <w ref="10.63.7" lemma="contingo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Contigit</w>
+    <w ref="10.63.7" lemma="et2" pos="CONcoo" msd="Deg=Pos">et</w>
+    <w ref="10.63.7" lemma="thalamus" pos="NOMcom" msd="Case=Gen|Numb=Sing">thalami</w>
+    <w ref="10.63.7" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="10.63.7" lemma="gloria" pos="NOMcom" msd="Case=Nom|Numb=Sing">gloria</w>
+    <w ref="10.63.7" lemma="rarus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">rara</w>
+    <w ref="10.63.7" lemma="sum" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuitque</w>
+    <w ref="10.63.7" lemma="que" pos="CON" msd="MORPH=empty">{fuitque}</w>
+    <w ref="10.63.8" lemma="unus" pos="ADJcar" msd="Case=Nom|Numb=Sing|Gend=Fem">Una</w>
+    <w ref="10.63.8" lemma="pudicitia" pos="NOMcom" msd="Case=Gen|Numb=Sing">pudicitiae</w>
+    <w ana="#mentula" ref="10.63.8" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="10.63.8" lemma="nota" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">nota</w>
+    <w ref="10.63.8" lemma="meus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=Fem">meae</w>
+    <w ref="10.63.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

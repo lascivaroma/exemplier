@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>2.5.14-2.5.14</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:2.5.14-2.5.14" type="section">
+    <w ref="2.5.14" lemma="hic1" pos="PROdem" msd="Case=Nom|Deg=Pos">hic</w>
+    <w ref="2.5.14" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="2.5.14" lemma="torqueo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">torta</w>
+    <w ref="2.5.14" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="2.5.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.5.14" lemma="hic1" pos="PROdem" msd="Case=Nom|Gend=Masc">hic</w>
+    <w ref="2.5.14" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ref="2.5.14" lemma="maritus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">maritus</w>
+    <w ref="2.5.14" lemma="occupatus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">occupatus</w>
+    <w ref="2.5.14" lemma="tyrannicidius" pos="NOMcom" msd="Case=Dat|Numb=Sing">tyrannicidio</w>
+    <w ref="2.5.14" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="2.5.14" lemma="uaco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">uacauit</w>
+    <w ref="2.5.14" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.5.14" lemma="uxor" pos="NOMcom" msd="Case=Gen|Numb=Sing">uxoris</w>
+    <w ana="#acte #metonymie #pleasure" ref="2.5.14" lemma="uoluptas" pos="NOMcom" msd="Case=Gen|Numb=Sing">uoluptatis</w>
+    <w ref="2.5.14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,24 @@
+<div  type="fragment" corresp="adams:14" ana="#mentula #metaphore #pointu #armes">
+  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>67.20-67.26</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:67.20-67.26" type="line">
+    <w ref="67.20" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="67.20" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
+    <w ref="67.20" lemma="uir" pos="NOMcom" msd="Case=Nom|Numb=Sing">vir</w>
+    <w ref="67.20" lemma="prior" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">prior</w>
+    <w ref="67.20" lemma="attingo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">attigerit</w>
+    <w ref="67.20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="67.21" lemma="languidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">languidior</w>
+    <w ref="67.21" lemma="tener" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">tenera</w>
+    <w ref="67.21" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
+    <w ref="67.21" lemma="pendeo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">pendens</w>
+    <w ana="#mentula #metaphore #pointu #armes" ref="67.21" lemma="sicula" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">sicula</w>
+    <w ref="67.21" lemma="beta2" pos="NOMcom" msd="Case=Abl|Numb=Sing">beta</w>
+    <w ref="67.22" lemma="numquam" pos="ADVneg" msd="MORPH=empty">nunquam</w>
+    <w ref="67.22" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="67.22" lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">mediam</w>
+    <w ref="67.22" lemma="tollo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">sustulit</w>
+    <w ref="67.22" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="67.22" lemma="tunica" pos="NOMcom" msd="Case=Acc|Numb=Sing">tunicam</w>
+    <w ref="67.22" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+  </quote>
+</div>

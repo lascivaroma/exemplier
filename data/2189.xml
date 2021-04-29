@@ -1,0 +1,30 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Ambrose, Saint, Bishop of Milan</author>, <title>De lapsu virginis consecratae</title>, <biblscope>5.21-5.21</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0022.stoa036.corpuscorporum-lat1:5.21-5.21" type="chapter">
+    <w ref="5.21" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="5.21" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="5.21" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+    <w ref="5.21" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="5.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.21" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="5.21" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="5.21" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="5.21" lemma="dico2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">dicendum</w>
+    <w ref="5.21" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="5.21" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+    <w ref="5.21" lemma="occultus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">occulta</w>
+    <w ref="5.21" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.21" lemma="furtiuus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">furtiva</w>
+    <w ana="#acte #metonymie #violence" ref="5.21" lemma="turpitudo" pos="NOMcom" msd="Case=Abl|Numb=Sing">turpitudine</w>
+    <w ref="5.21" lemma="constupro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">constupratur</w>
+    <w ref="5.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.21" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.21" lemma="fingo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fingit</w>
+    <w ref="5.21" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="5.21" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="5.21" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing">quod</w>
+    <w ref="5.21" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="5.21" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="5.21" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

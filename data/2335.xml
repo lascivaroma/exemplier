@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>7.30.7-7.30.8</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:7.30.7-7.30.8" type="line">
+    <w ref="7.30.7" lemma="quis1" pos="PROint" msd="Case=Abl|Numb=Sing|Gend=Fem">Qua</w>
+    <w ref="7.30.7" lemma="ratio" pos="NOMcom" msd="Case=Abl|Numb=Sing">ratione</w>
+    <w ref="7.30.7" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">facis</w>
+    <w ref="7.30.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.30.7" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="7.30.7" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">sis</w>
+    <w ref="7.30.7" lemma="Romanus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Romana</w>
+    <w ref="7.30.7" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
+    <w ref="7.30.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.30.8" lemma="quod2" pos="CONsub" msd="MORPH=empty">Quod</w>
+    <w ref="7.30.8" lemma="Romanus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Romana</w>
+    <w ref="7.30.8" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ana="#mentula" ref="7.30.8" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="7.30.8" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">nulla</w>
+    <w ref="7.30.8" lemma="placeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">placet</w>
+    <w ref="7.30.8" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

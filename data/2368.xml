@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>12.2-12.7</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.2-12.7" type="line">
+    <w ref="12.2" lemma="Sibylla" pos="NOMpro" msd="Case=Gen|Numb=Sing">Sibyllae</w>
+    <w ref="12.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.3" lemma="aequalis2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">aequalis</w>
+    <w ref="12.3" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="12.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.3" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>
+    <w ref="12.3" lemma="domus" pos="NOMcom" msd="Case=Acc|Numb=Sing">domum</w>
+    <w ref="12.3" lemma="reuertor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">reuertens</w>
+    <w ref="12.4" lemma="Theseus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Theseus</w>
+    <w ref="12.4" lemma="reperio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">repperit</w>
+    <w ref="12.4" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="12.4" lemma="rogus" pos="NOMcom" msd="Case=Abl|Numb=Sing">rogo</w>
+    <w ref="12.4" lemma="iaceo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">iacentem</w>
+    <w ref="12.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.5" lemma="infirmus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">infirmo</w>
+    <w ref="12.5" lemma="soleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3">solet</w>
+    <w ref="12.5" lemma="huc" pos="ADV" msd="Deg=Pos">huc</w>
+    <w ref="12.5" lemma="gradus" pos="NOMcom" msd="Case=Abl|Numb=Sing">gradu</w>
+    <w ref="12.5" lemma="uenio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">uenire</w>
+    <w ref="12.6" lemma="rugosus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">rugosasque</w>
+    <w ref="12.6" lemma="que" pos="CON" msd="MORPH=empty">{rugosasque}</w>
+    <w ref="12.6" lemma="manus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">manus</w>
+    <w ref="12.6" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="12.6" lemma="astrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">astra</w>
+    <w ref="12.6" lemma="tollo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">tollens</w>
+    <w ref="12.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12.7" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="12.7" lemma="desum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">desit</w>
+    <w ref="12.7" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="12.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#mentula" ref="12.7" lemma="mentula" pos="NOMcom" msd="Case=Acc|Numb=Sing">mentulam</w>
+    <w ref="12.7" lemma="rogo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">rogare</w>
+    <w ref="12.7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

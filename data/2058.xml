@@ -1,0 +1,13 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Eunuch</title>, <biblscope>703-703</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi003.perseus-lat2:703-703" type="line">
+    <w ref="703" lemma="iam" pos="ADV" msd="Deg=Pos">Iam</w>
+    <w ref="703" lemma="satis2" pos="ADV" msd="Deg=Pos">satis</w>
+    <w ref="703" lemma="certus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">certum</w>
+    <w ref="703" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="703" lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Sing">virginem</w>
+    <w ana="#acte #metonymie #violence" ref="703" lemma="uitio1" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem">vitiatam</w>
+    <w ref="703" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="703" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

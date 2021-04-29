@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:200" ana="#acte #metonymie #insulter">
+  <bibl ref="#adams"><author>Minucius Felix, Marcus</author>, <title>Octavius</title>, <biblscope>25.3-25.3</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0203.stoa001.opp-lat2:25.3-25.3" type="section">
+    <w ref="25.3" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+    <w ref="25.3" lemma="destino" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Fem">destinatas</w>
+    <w ref="25.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="25.3" lemma="nonnullus" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Fem">nonnullas</w>
+    <w ref="25.3" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="25.3" lemma="matrimonium" pos="NOMcom" msd="Case=Abl|Numb=Sing">matrimonio</w>
+    <w ref="25.3" lemma="muliercula" pos="NOMcom" msd="Case=Acc|Numb=Plur">mulierculas</w>
+    <w ref="25.3" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="25.3" lemma="mos" pos="NOMcom" msd="Case=Abl|Numb=Sing">more</w>
+    <w ref="25.3" lemma="rapio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">rapuit</w>
+    <w ref="25.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="25.3" lemma="uiolo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">uiolauit</w>
+    <w ref="25.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #metonymie #insulter" ref="25.3" lemma="illudo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">inlusit</w>
+    <w ref="25.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

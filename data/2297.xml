@@ -1,0 +1,13 @@
+<div type="fragment" corresp="adams:208" ana="#acte #oral">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>1.94.2-1.94.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.94.2-1.94.2" type="line">
+    <w ref="1.94.2" lemma="iam" pos="ADV" msd="Deg=Pos">Iam</w>
+    <w ref="1.94.2" lemma="canto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">cantas</w>
+    <w ref="1.94.2" lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
+    <w ref="1.94.2" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ana="#acte #oral" ref="1.94.2" lemma="basio" pos="VER" msd="Case=Voc|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">basianda</w>
+    <w ref="1.94.2" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.94.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
+    <w ref="1.94.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

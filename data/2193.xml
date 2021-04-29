@@ -1,0 +1,29 @@
+<div type="fragment" corresp="adams:203" ana="#acte #euphemism #ellipse #res">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Eunuch</title>, <biblscope>740-741</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi003.perseus-lat2:740-741" type="line">
+    <w ref="740" lemma="usque" pos="ADV" msd="Deg=Pos">Usque</w>
+    <w ref="740" lemma="adeo2" pos="ADV" msd="Deg=Pos">adeo</w>
+    <w ref="740" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="740" lemma="ille" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">illius</w>
+    <w ref="740" lemma="fero" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ferre</w>
+    <w ref="740" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">possum</w>
+    <w ref="740" lemma="ineptiae" pos="NOMcom" msd="Case=Acc|Numb=Plur">ineptias</w>
+    <w ref="740" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="740" lemma="magnificus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">magnifica</w>
+    <w ref="740" lemma="uerbum" pos="NOMcom" msd="Case=Acc|Numb=Plur">verba</w>
+    <w ref="740" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="741" lemma="uerbum" pos="NOMcom" msd="Case=Acc|Numb=Plur">Verba</w>
+    <w ref="741" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
+    <w ref="741" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sint</w>
+    <w ref="741" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="741" lemma="uerum?" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">verum</w>
+    <w ref="741" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="741" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="741" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ana="#acte #euphemism #ellipse #res" ref="741" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Sing">rem</w>
+    <w ref="741" lemma="confero" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">conferentur</w>
+    <w ref="741" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="741" lemma="uapulo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">vapulabit</w>
+    <w ref="741" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

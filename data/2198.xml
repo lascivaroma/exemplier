@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:203" ana="#acte #euphemism #ellipse #res #prostitution">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Truculentus</title>, <biblscope>93-94</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi020.perseus-lat2:93-94" type="line">
+    <w ref="93" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="93" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">haec</w>
+    <w ref="93" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+    <w ref="93" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="93" lemma="Astaphius" pos="NOMpro" msd="Case=Nom|Numb=Sing|Deg=Pos">Astaphium</w>
+    <w ref="93" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="93" lemma="ancillula" pos="NOMcom" msd="Case=Nom|Numb=Sing">ancillula</w>
+    <w ref="93" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="94" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="94" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ea</w>
+    <w ref="94" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="94" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="94" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="94" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ana="#acte #euphemism #ellipse #res #prostitution" ref="94" lemma="commercium" pos="NOMcom" msd="Case=Nom|Numb=Sing">commercium</w>
+    <w ref="94" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

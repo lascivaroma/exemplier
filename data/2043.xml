@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Asinaria</title>, <biblscope>917-918</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi002.perseus-lat2:917-918" type="line">
+    <w ref="917" lemma="Argyrippus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Argyrippus</w>
+    <w ref="917" lemma="exoro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">exorari</w>
+    <w ref="917" lemma="spero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">spero</w>
+    <w ref="917" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">poterit</w>
+    <w ref="917" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="917" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="917" lemma="sino" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sinat</w>
+    <w ref="918" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">sese</w>
+    <w ref="918" lemma="alternus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">alternas</w>
+    <w ref="918" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="918" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">illo</w>
+    <w ref="918" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Plur">noctes</w>
+    <w ref="918" lemma="hic1" pos="PROdem" msd="Case=Abl|Gend=Fem|Deg=Pos">hac</w>
+    <w ana="#acte #metonymie #pleasure" ref="918" lemma="fruor" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">frui</w>
+    <w ref="918" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

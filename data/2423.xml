@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:23" ana="#mentula #metaphore #pointu #poles">
+  <bibl ref="#adams"><author>Caelius Aurelianus</author>, <title>Tardarum passionum libri V</title>, <biblscope>II.1-II.1</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:II.1-II.1" type="part">
+    <w ana="#mentula #metaphore #pointu #poles" ref="II.1" lemma="radius" pos="NOMpro" msd="Case=Nom|Numb=Sing">Radius</w>
+    <w ana="#mentula #metaphore #pointu #poles" ref="II.1" lemma="uirilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">uirilis</w>
+    <w ref="II.1" lemma="paralysis" pos="NOMcom" msd="Case=Gen|Numb=Sing">paralysi</w>
+    <w ref="II.1" lemma="uitio1" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">uitiatus</w>
+    <w ref="II.1" lemma="solitum" pos="NOMcom" msd="Case=Abl|Numb=Sing">solito</w>
+    <w ref="II.1" lemma="magnus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">maior</w>
+    <w ref="II.1" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="II.1" lemma="paruus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">minor</w>
+    <w ref="II.1" lemma="efficio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">efficitur</w>
+    <w ref="II.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="II.1" lemma="nullus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">nulla</w>
+    <w ref="II.1" lemma="tentigo" pos="NOMcom" msd="Case=Abl|Numb=Sing">tentigine</w>
+    <w ref="II.1" lemma="prouoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">prouocatur</w>
+    <w ref="II.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

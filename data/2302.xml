@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:12" ana="#mentula">
+  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>47.1-47.4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:47.1-47.4" type="line">
+    <w ref="47.3" lemma="uos" pos="PROper" msd="Case=Acc|Numb=Plur">vos</w>
+    <w ref="47.3" lemma="Ueraniolus" pos="NOMpro" msd="Case=Dat|Numb=Sing">Veraniolo</w>
+    <w ref="47.3" lemma="meus" pos="PROpos" msd="Case=Dat|Numb=Sing|Gend=MascNeut">meo</w>
+    <w ref="47.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="47.3" lemma="Fabullus" pos="NOMpro" msd="Case=Dat|Numb=Sing">Fabullo</w>
+    <w ana="#mentula" ref="47.4" lemma="uerpus" pos="NOMcom" msd="Case=Nom|Numb=Sing">verpus</w>
+    <w ref="47.4" lemma="praepono" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">praeposuit</w>
+    <w ref="47.4" lemma="Priapus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Priapus</w>
+    <w ref="47.4" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
+    <w ref="47.4" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

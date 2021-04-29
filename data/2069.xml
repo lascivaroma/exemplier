@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblscope>2.32.33-2.32.34</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.32.33-2.32.34" type="line">
+    <w ref="2.32.33" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ref="2.32.33" lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Venus</w>
+    <w ref="2.32.33" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">fertur</w>
+    <w ana="#acte #metonymie #violence" ref="2.32.33" lemma="corrumpo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">corrupta</w>
+    <w ref="2.32.33" lemma="libido" pos="NOMcom" msd="Case=Abl|Numb=Sing">libidine</w>
+    <w ref="2.32.33" lemma="Mars" pos="NOMpro" msd="Case=Gen|Numb=Sing">Martis</w>
+  </quote>
+</div>

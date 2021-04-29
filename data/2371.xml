@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>29.3-29.5</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:29.3-29.5" type="line">
+    <w ref="29.3" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="29.3" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ref="29.3" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+    <w ref="29.3" lemma="pono" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">posito</w>
+    <w ref="29.3" lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Sing">deus</w>
+    <w ref="29.3" lemma="pudor" pos="NOMcom" msd="Case=Abl|Numb=Sing">pudore</w>
+    <w ref="29.4" lemma="ostendo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">ostendas</w>
+    <w ref="29.4" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="29.4" lemma="coleus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coleos</w>
+    <w ref="29.4" lemma="pateo" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos|Mood=Par|Tense=Pres|Voice=Act">patentes</w>
+    <w ref="29.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="29.5" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="29.5" lemma="cunnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">cunno</w>
+    <w ref="29.5" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ana="#mentula" ref="29.5" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="29.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="29.5" lemma="uoco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">uocanda</w>
+    <w ref="29.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

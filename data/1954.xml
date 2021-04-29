@@ -1,0 +1,19 @@
+<div  type="fragment" corresp="adams:191" ana="#acte #metonymie #position #futuor">
+  <bibl ref="#adams"><author>Cicero</author>, <title>Letters to Atticus</title>, <biblscope>2.1.5-2.1.5</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi057.perseus-lat1:2.1.5-2.1.5" type="section">
+    <w ref="2.1.5" lemma="nolo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">noli</w>
+    <w ref="2.1.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.1.5" lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">inquam</w>
+    <w ref="2.1.5" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="2.1.5" lemma="unus" pos="ADJcar" msd="Case=Abl|Numb=Sing|Gend=MascNeut">uno</w>
+    <w ana="#acte #metonymie #position #futuor" ref="2.1.5" lemma="pes" pos="NOMcom" msd="Case=Abl|Numb=Sing">pede</w>
+    <w ref="2.1.5" lemma="soror" pos="NOMcom" msd="Case=Gen|Numb=Sing">sororis</w>
+    <w ref="2.1.5" lemma="queror" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">queri</w>
+    <w ref="2.1.5" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.1.5" lemma="licet3" pos="CONsub" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">licet</w>
+    <w ref="2.1.5" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="2.1.5" lemma="alter" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascNeut">alterum</w>
+    <w ana="#acte #metonymie #position #futuor" ref="2.1.5" lemma="tollo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">tollas</w>
+    <w ref="2.1.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

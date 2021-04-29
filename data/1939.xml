@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:191" ana="#acte #metonymie #position">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.43.5-11.43.6</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.43.5-11.43.6" type="line">
+    <w ana="#acte #metonymie #position" ref="11.43.5" lemma="incuruo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">Incurvabat</w>
+    <w ref="11.43.5" lemma="Hylas" pos="NOMpro" msd="Case=Acc|Numb=Sing">Hylan</w>
+    <w ref="11.43.5" lemma="pono" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">posito</w>
+    <w ref="11.43.5" lemma="Tirynthius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc">Tirynthius</w>
+    <w ref="11.43.5" lemma="arcus" pos="NOMcom" msd="Case=Abl|Numb=Sing">arcu</w>
+    <w ref="11.43.5" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="11.43.6" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">Tu</w>
+    <w ref="11.43.6" lemma="Megaran" pos="NOMpro" msd="Case=Acc|Numb=Sing">Megaran</w>
+    <w ref="11.43.6" lemma="credo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">credis</w>
+    <w ref="11.43.6" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="11.43.6" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">habuisse</w>
+    <w ref="11.43.6" lemma="natus1" pos="NOMcom" msd="Case=Dat|Numb=Plur">natis</w>
+    <w ref="11.43.6" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

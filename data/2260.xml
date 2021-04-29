@@ -1,0 +1,11 @@
+<div type="fragment" corresp="adams:206" ana="#acte #animals #salio #humain">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Curculio</title>, <biblscope>50b-50b</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi008.perseus-lat2:50b-50b" type="line">
+    <w ref="50b" lemma="iam" pos="ADV" msd="Deg=Pos">Iamne</w>
+    <w ref="50b" lemma="ne2" pos="ADV" msd="MORPH=empty">{Iamne}</w>
+    <w ref="50b" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ea</w>
+    <w ana="#acte #animals #salio #humain" ref="50b" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fert</w>
+    <w ana="#acte #animals #salio #humain" ref="50b" lemma="iugum" pos="NOMcom" msd="Case=Acc|Numb=Sing">iugum</w>
+    <w ref="50b" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

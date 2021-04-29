@@ -1,0 +1,19 @@
+<div type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences #tired">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>3.7.79-3.7.80</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.79-3.7.80" type="line">
+    <w ref="3.7.79" lemma="aut" pos="CONcoo" msd="MORPH=empty">Aut</w>
+    <w ref="3.7.79" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+    <w ref="3.7.79" lemma="traicio" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">traiectis</w>
+    <w ref="3.7.79" lemma="Aeaeus" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=Fem|Deg=Pos">Aeaea</w>
+    <w ref="3.7.79" lemma="uenefica" pos="NOMcom" msd="Case=Nom|Numb=Sing">venefica</w>
+    <w ref="3.7.79" lemma="lana" pos="NOMcom" msd="Case=Abl|Numb=Plur">lanis</w>
+    <w ref="3.7.80" lemma="deuoueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Devovet</w>
+    <w ref="3.7.80" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.7.80" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="3.7.80" lemma="alius" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">alio</w>
+    <w ana="#acte #metonymie #consequences #tired" ref="3.7.80" lemma="lassus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">lassus</w>
+    <w ref="3.7.80" lemma="amor" pos="NOMcom" msd="Case=Abl|Numb=Sing">amore</w>
+    <w ref="3.7.80" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">venis</w>
+    <w ref="3.7.80" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

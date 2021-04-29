@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>49.1-49.4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:49.1-49.4" type="line">
+    <w ref="49.3" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="49.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ana="#mentula" ref="49.4" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="49.4" lemma="subduco" pos="VER" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">subducti</w>
+    <w ref="49.4" lemma="noster" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">nostra</w>
+    <w ref="49.4" lemma="supercilium" pos="NOMcom" msd="Case=Gen|Numb=Sing">supercilii</w>
+    <w ref="49.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

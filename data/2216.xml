@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:205" ana="#acte #euphemism #ellipse #actus">
+  <bibl ref="#adams"><author>Pseudo-Acro</author>, <title>Commentum in Horati Sermones</title>, <biblscope>1.2.35-1.2.35</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0004a.stoa004.horatiusNet-lat1:1.2.35-1.2.35" type="comment">
+    <w ref="1.2.35" lemma="subigito" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Subigitare</w>
+    <w ref="1.2.35" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.35" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="1.2.35" lemma="habeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">habemus</w>
+    <w ref="1.2.35" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.2.35" lemma="Terentius" pos="NOMpro" msd="Case=Abl|Numb=Sing">Terentio</w>
+    <w ref="1.2.35" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ref="1.2.35" lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">ipso</w>
+    <w ana="#acte #euphemism #ellipse #actus" ref="1.2.35" lemma="actus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">actu</w>
+    <w ref="1.2.35" lemma="turpis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">turpi</w>
+    <w ref="1.2.35" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dicit</w>
+    <w ref="1.2.35" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

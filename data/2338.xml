@@ -1,0 +1,15 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>7.91.3-7.91.4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:7.91.3-7.91.4" type="line">
+    <w ref="7.91.3" lemma="ceterus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut">Cetera</w>
+    <w ref="7.91.3" lemma="lasciuus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">lascivis</w>
+    <w ref="7.91.3" lemma="dono" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">donavit</w>
+    <w ref="7.91.3" lemma="pomum" pos="NOMcom" msd="Case=Acc|Numb=Plur">poma</w>
+    <w ref="7.91.3" lemma="puella" pos="NOMcom" msd="Case=Dat|Numb=Plur">puellis</w>
+    <w ana="#mentula" ref="7.91.4" lemma="Mentula" pos="NOMpro" msd="Case=Nom|Numb=Sing">Mentula</w>
+    <w ref="7.91.4" lemma="custos" pos="NOMcom" msd="Case=Gen|Numb=Sing">custodis</w>
+    <w ref="7.91.4" lemma="luxuriosus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">luxuriosa</w>
+    <w ref="7.91.4" lemma="deus" pos="NOMcom" msd="Case=Gen|Numb=Sing">dei</w>
+    <w ref="7.91.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

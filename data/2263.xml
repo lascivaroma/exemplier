@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:208" ana="#acte #masturbor">
+  <bibl ref="#adams"><author>Juvenal</author>, <title>Satires</title>, <biblscope>10.202-10.206</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:10.202-10.206" type="line">
+    <w ref="10.206" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="10.206" lemma="quamuis2" pos="CONsub" msd="MORPH=empty">quamvis</w>
+    <w ref="10.206" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">tota</w>
+    <w ana="#acte #masturbor" ref="10.206" lemma="palpo2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">palpetur</w>
+    <w ref="10.206" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
+    <w ref="10.206" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.206" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">iacebit</w>
+    <w ref="10.206" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

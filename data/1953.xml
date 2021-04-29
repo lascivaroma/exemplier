@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:191" ana="#acte #metonymie #position #oral">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Naturales quaestiones</title>, <biblscope>1.16.4-1.16.4</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi016.corpuscorporum-lat1:1.16.4-1.16.4" type="section">
+    <w ref="1.16.4" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ana="#acte #metonymie #position #oral" ref="1.16.4" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+    <w ana="#acte #metonymie #position #oral" ref="1.16.4" lemma="mergo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">merserat</w>
+    <w ref="1.16.4" lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Plur">inguinibusque</w>
+    <w ref="1.16.4" lemma="que" pos="CON" msd="MORPH=empty">{inguinibusque}</w>
+    <w ref="1.16.4" lemma="alienus2" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">alienis</w>
+    <w ref="1.16.4" lemma="obhaereo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">obhaeserat</w>
+  </quote>
+</div>

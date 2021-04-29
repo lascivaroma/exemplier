@@ -1,0 +1,16 @@
+<div  type="fragment" corresp="adams:203" ana="#acte #euphemism #ellipse #res #prostitution">
+  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Bacchides</title>, <biblscope>563-565</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi004.perseus-lat2:563-565" type="line">
+    <w ref="563" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+    <w ref="563" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="563" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
+    <w ref="563" lemma="meretrix" pos="NOMcom" msd="Case=Gen|Numb=Plur">meretricum</w>
+    <w ref="563" lemma="alius" pos="PROind" msd="Case=Gen|Numb=Plur|Gend=Fem">aliarum</w>
+    <w ref="563" lemma="Athenae" pos="NOMpro" msd="Case=Abl|Numb=Plur">Athenis</w>
+    <w ref="563" lemma="copia" pos="NOMcom" msd="Case=Nom|Numb=Sing">copia</w>
+    <w ref="564" lemma="qui" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibuscum</w>
+    <w ref="564" lemma="cum3" pos="CON" msd="MORPH=empty">{quibuscum}</w>
+    <w ana="#acte #euphemism #ellipse #res #prostitution" ref="564" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2">haberes</w>
+    <w ana="#acte #euphemism #ellipse #res #prostitution" ref="564" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Sing">rem</w>
+  </quote>
+</div>

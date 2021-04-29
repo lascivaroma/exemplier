@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:206" ana="#acte #animals #salio #humain">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Metamorphoses</title>, <biblscope>11.264-11.265</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:11.264-11.265" type="line">
+    <w ref="11.264" lemma="confiteor" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">Confessam</w>
+    <w ref="11.264" lemma="amplector" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">amplectitur</w>
+    <w ref="11.264" lemma="heros" pos="NOMcom" msd="Case=Nom|Numb=Sing">heros</w>
+    <w ref="11.265" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="11.265" lemma="potior" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">potitur</w>
+    <w ref="11.265" lemma="uotum" pos="NOMcom" msd="Case=Abl|Numb=Plur">votis</w>
+    <w ref="11.265" lemma="ingens" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">ingentique</w>
+    <w ref="11.265" lemma="que" pos="CON" msd="MORPH=empty">{ingentique}</w>
+    <w ana="#acte #animals #salio #humain" ref="11.265" lemma="impleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">implet</w>
+    <w ref="11.265" lemma="Achilles" pos="NOMpro" msd="Case=Nom|Numb=Sing">Achille</w>
+    <w ref="11.265" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

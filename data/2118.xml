@@ -1,0 +1,17 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Hilary Saint, Bishop of Poitiers -367?</author>, <title>Epistola seu libellus</title>, <biblscope>12-12</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0149b.stoa023.corpuscorporum-lat1:12-12" type="letter">
+    <w ref="12" lemma="custodio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">Custodiendum</w>
+    <w ref="12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="12" lemma="obseruo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">observandum</w>
+    <w ref="12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="12" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="12" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="12" lemma="caeter" pos="NOMcom" msd="Case=Abl|Numb=Plur">caeteris</w>
+    <w ref="12" lemma="aetas" pos="NOMcom" msd="Case=Abl|Numb=Plur">aetatibus</w>
+    <w ana="#acte #metonymie #violence" ref="12" lemma="corrumpo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">corrumpantur</w>
+    <w ref="12" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

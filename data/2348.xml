@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.15.5-11.15.10</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.15.5-11.15.10" type="line">
+    <w ref="11.15.5" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="11.15.5" lemma="erubesco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">erubescat</w>
+    <w ref="11.15.6" lemma="pinguis" pos="ADJqua" msd="Case=Abl|Gend=Com|Deg=Pos">Pingui</w>
+    <w ref="11.15.6" lemma="sordidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">sordidus</w>
+    <w ref="11.15.6" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="11.15.6" lemma="Cosmianus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">Cosmiano</w>
+    <w ref="11.15.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.15.7" lemma="ludo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">Ludat</w>
+    <w ref="11.15.7" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="11.15.7" lemma="puer" pos="NOMcom" msd="Case=Abl|Numb=Plur">pueris</w>
+    <w ref="11.15.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.15.7" lemma="amo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">amet</w>
+    <w ref="11.15.7" lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Plur">puellas</w>
+    <w ref="11.15.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.15.8" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ref="11.15.8" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="11.15.8" lemma="circuitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">circuitus</w>
+    <w ref="11.15.8" lemma="loquor" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3">loquatur</w>
+    <w ref="11.15.8" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
+    <w ref="11.15.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.15.9" lemma="ex" pos="PRE" msd="MORPH=empty">Ex</w>
+    <w ref="11.15.9" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
+    <w ref="11.15.9" lemma="nascor" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">nascimur</w>
+    <w ref="11.15.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.15.9" lemma="omnis" pos="PROind" msd="Case=Gen|Numb=Plur|Gend=Com">omnium</w>
+    <w ref="11.15.9" lemma="parens1" pos="NOMcom" msd="Case=Acc|Numb=Sing">parentem</w>
+    <w ref="11.15.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.15.10" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">Quam</w>
+    <w ref="11.15.10" lemma="sanctus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">sanctus</w>
+    <w ref="11.15.10" lemma="Numa" pos="NOMpro" msd="Case=Nom|Numb=Sing">Numa</w>
+    <w ana="#mentula" ref="11.15.10" lemma="mentula" pos="NOMcom" msd="Case=Acc|Numb=Sing">mentulam</w>
+    <w ref="11.15.10" lemma="uoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">vocabat</w>
+    <w ref="11.15.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

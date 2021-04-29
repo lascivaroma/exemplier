@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #concomitant">
+  <bibl ref="#adams"><author>Juvenal</author>, <title>Satires</title>, <biblscope>9.74-9.78</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:9.74-9.78" type="line">
+    <w ref="9.78" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="9.78" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+    <w ref="9.78" lemma="peruenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">pervenit</w>
+    <w ana="#acte #metonymie #concomitant" ref="9.78" lemma="lectus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">lecti</w>
+    <w ref="9.78" lemma="sonus" pos="NOMcom" msd="Case=Nom|Numb=Sing">sonus</w>
+    <w ref="9.78" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.78" lemma="domina" pos="NOMcom" msd="Case=Gen|Numb=Sing">dominae</w>
+    <w ref="9.78" lemma="uox" pos="NOMcom" msd="Case=Nom|Numb=Sing">vox</w>
+    <w ref="9.78" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:200" ana="#acte #metonymie #disgrace">
+  <bibl ref="#adams"><author>Columella, Lucius Junius Moderatus</author>, <title>Res Rustica</title>, <biblscope>7.6.3-7.6.3</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:7.6.3-7.6.3" type="section">
+    <w ref="7.6.3" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="7.6.3" lemma="quoniam" pos="CONsub" msd="MORPH=empty">quoniam</w>
+    <w ref="7.6.3" lemma="immodicus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">immodicus</w>
+    <w ref="7.6.3" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
+    <w ref="7.6.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.6.3" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
+    <w ref="7.6.3" lemma="adhuc" pos="ADV" msd="Deg=Pos">adhuc</w>
+    <w ref="7.6.3" lemma="uber1" pos="NOMcom" msd="Case=Dat|Numb=Plur">uberibus</w>
+    <w ref="7.6.3" lemma="alo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">alitur</w>
+    <w ref="7.6.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="7.6.3" lemma="mater" pos="NOMcom" msd="Case=Acc|Numb=Sing">matrem</w>
+    <w ana="#acte #metonymie #disgrace" ref="7.6.3" lemma="stuprum" pos="NOMcom" msd="Case=Abl|Numb=Sing">stupro</w>
+    <w ref="7.6.3" lemma="superuenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">supervenit</w>
+  </quote>
+</div>

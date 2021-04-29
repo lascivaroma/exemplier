@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:14" ana="#mentula #metaphore #pointu #armes">
+  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>9-9</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:9-9" type="section">
+    <w ref="9" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+    <w ref="9" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+    <w ref="9" lemma="proclamo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1">proclamarem</w>
+    <w ref="9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#mentula #metaphore #pointu #armes" ref="9" lemma="gladius" pos="NOMcom" msd="Case=Acc|Numb=Sing">gladium</w>
+    <w ref="9" lemma="stringo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">strinxit</w>
+    <w ref="9" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="9" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="9" lemma="Lucretia" pos="NOMpro" msd="Case=Nom|Numb=Sing">Lucretia</w>
+    <w ref="9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
+    <w ref="9" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="9" lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inquit</w>
+    <w ref="9" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+    <w ref="9" lemma="Tarquinius" pos="NOMpro" msd="Case=Acc|Numb=Sing">Tarquinium</w>
+    <w ref="9" lemma="inuenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">invenisti</w>
+    <w ref="9" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

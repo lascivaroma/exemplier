@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:191" ana="#acte #metonymie #position">
+  <bibl ref="#adams"><author>Lucretius</author>, <title>De Rerum Natura</title>, <biblscope>2.243-2.245</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:2.243-2.245" type="line">
+    <w ref="2.243" lemma="quare1" pos="ADVrel" msd="MORPH=empty">quare</w>
+    <w ref="2.243" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="2.243" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+    <w ref="2.243" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="2.243" lemma="paulum2" pos="ADV" msd="Deg=Pos">paulum</w>
+    <w ana="#acte #metonymie #position" ref="2.243" lemma="inclino" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">inclinare</w>
+    <w ref="2.243" lemma="necesse" pos="ADJqua" msd="Case=Ind|Deg=Pos">necessest</w>
+    <w ref="2.243" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">{necessest}</w>
+    <w ref="2.244" lemma="corpus" pos="NOMcom" msd="Case=Acc|Numb=Plur">corpora</w>
+    <w ref="2.244" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+  </quote>
+</div>

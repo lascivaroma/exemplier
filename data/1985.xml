@@ -1,0 +1,19 @@
+<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #concomitant">
+  <bibl ref="#adams"><author>Corpus Tibullianum</author>, <title>Elegiae</title>, <biblscope>1.8.35-1.8.38</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0660.phi001.perseus-lat2:1.8.35-1.8.38" type="line">
+    <w ref="1.8.37" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="1.8.37" lemma="do" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dare</w>
+    <w ana="#acte #metonymie #concomitant" ref="1.8.37" lemma="anhelo" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">anhelanti</w>
+    <w ref="1.8.37" lemma="pugno" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">pugnantibus</w>
+    <w ref="1.8.37" lemma="humidus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">umida</w>
+    <w ref="1.8.37" lemma="lingua" pos="NOMcom" msd="Case=Abl|Numb=Plur">linguis</w>
+    <w ref="1.8.38" lemma="osculum" pos="NOMcom" msd="Case=Acc|Numb=Plur">Oscula</w>
+    <w ref="1.8.38" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.8.38" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.8.38" lemma="collum" pos="NOMcom" msd="Case=Abl|Numb=Sing">collo</w>
+    <w ref="1.8.38" lemma="figo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">figere</w>
+    <w ref="1.8.38" lemma="dens" pos="NOMcom" msd="Case=Abl|Numb=Sing">dente</w>
+    <w ref="1.8.38" lemma="nota" pos="NOMcom" msd="Case=Acc|Numb=Plur">notas</w>
+    <w ref="1.8.38" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

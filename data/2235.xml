@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:206" ana="#acte #animals #salio #femme">
+  <bibl ref="#adams"><author>Columella, Lucius Junius Moderatus</author>, <title>Res Rustica</title>, <biblscope>8.2.13-8.2.13</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:8.2.13-8.2.13" type="section">
+    <w ref="8.2.13" lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
+    <w ref="8.2.13" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="8.2.13" lemma="paternus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">paternam</w>
+    <w ref="8.2.13" lemma="species" pos="NOMcom" msd="Case=Acc|Numb=Sing">speciem</w>
+    <w ref="8.2.13" lemma="gero" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">gerunt</w>
+    <w ref="8.2.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8.2.13" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #animals #salio #femme" ref="8.2.13" lemma="salacitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">salacitatem</w>
+    <w ref="8.2.13" lemma="fecunditas" pos="NOMcom" msd="Case=Acc|Numb=Sing">fecunditatemque</w>
+    <w ref="8.2.13" lemma="que" pos="CON" msd="MORPH=empty">{fecunditatemque}</w>
+    <w ref="8.2.13" lemma="uernaculus1" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">vernaculam</w>
+    <w ref="8.2.13" lemma="retineo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">retinent</w>
+    <w ref="8.2.13" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

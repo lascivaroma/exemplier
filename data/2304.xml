@@ -1,0 +1,12 @@
+<div  type="fragment" corresp="adams:12" ana="#mentula">
+  <bibl ref="#adams"><author>Juvenal</author>, <title>Satires</title>, <biblscope>14.100-14.104</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:14.100-14.104" type="line">
+    <w ref="14.104" lemma="quaero" pos="VER" msd="Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">quaesitum</w>
+    <w ref="14.104" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="14.104" lemma="fons" pos="NOMcom" msd="Case=Acc|Numb=Sing">fontem</w>
+    <w ref="14.104" lemma="solus" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Masc">solos</w>
+    <w ref="14.104" lemma="deduco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">deducere</w>
+    <w ana="#mentula" ref="14.104" lemma="uerpus" pos="NOMcom" msd="Case=Acc|Numb=Plur">verpos</w>
+    <w ref="14.104" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

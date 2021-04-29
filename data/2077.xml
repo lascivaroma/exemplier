@@ -1,0 +1,13 @@
+<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>4.5.3-4.5.9</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:4.5.3-4.5.9" type="line">
+    <w ref="4.5.5" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ref="4.5.5" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">potes</w>
+    <w ref="4.5.5" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
+    <w ref="4.5.5" lemma="carus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Masc|Deg=Pos">cari</w>
+    <w ana="#acte #metonymie #violence" ref="4.5.5" lemma="corrumpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">corrumpere</w>
+    <w ref="4.5.5" lemma="amicus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">amici</w>
+    <w ref="4.5.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>68.9-68.10</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:68.9-68.10" type="line">
+    <w ref="68.9" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">Qui</w>
+    <w ref="68.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="68.9" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ref="68.9" lemma="Taenarius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">Taenario</w>
+    <w ref="68.9" lemma="placeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">placuisset</w>
+    <w ref="68.9" lemma="Troicus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Troica</w>
+    <w ref="68.9" lemma="cunnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">cunno</w>
+    <w ana="#mentula" ref="68.10" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+    <w ref="68.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="68.10" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="68.10" lemma="cano" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">caneret</w>
+    <w ref="68.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="68.10" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="68.10" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">habuisset</w>
+    <w ref="68.10" lemma="opus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">opus</w>
+    <w ref="68.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

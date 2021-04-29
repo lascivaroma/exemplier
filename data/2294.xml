@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:208" ana="#acte #oral">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>4.12.1-4.12.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:4.12.1-4.12.2" type="line">
+    <w ref="4.12.2" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">Hoc</w>
+    <w ref="4.12.2" lemma="saltem" pos="ADV" msd="Deg=Pos">saltem</w>
+    <w ref="4.12.2" lemma="pudeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">pudeat</w>
+    <w ref="4.12.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.12.2" lemma="Thais" pos="NOMpro" msd="Case=Gen|Numb=Sing">Thai</w>
+    <w ref="4.12.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#acte #oral" ref="4.12.2" lemma="nego" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">negare</w>
+    <w ana="#acte #oral" ref="4.12.2" lemma="nihil" pos="PROind" msd="Case=Ind">nihil</w>
+    <w ref="4.12.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

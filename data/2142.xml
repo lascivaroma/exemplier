@@ -1,0 +1,16 @@
+<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
+  <bibl ref="#adams"><author>Calpurnius Flaccus</author>, <title>Declamationum excerpta</title>, <biblscope>V-V</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VII.1.1670.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0072.stoa001.digilibLT-lat1:V-V" type="declamatio">
+    <w ref="V" lemma="&quot;" pos="PUNC" msd="MORPH=empty">"</w>
+    <w ref="V" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Neut">Quid</w>
+    <w ref="V" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="V" lemma="alius" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">aliud</w>
+    <w ref="V" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="V" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">his</w>
+    <w ref="V" lemma="quam1" pos="ADVrel" msd="Case=Acc">quam</w>
+    <w ana="#acte #metonymie #violence" ref="V" lemma="iniuria" pos="NOMcom" msd="Case=Acc|Numb=Sing">iniuriam</w>
+    <w ref="V" lemma="uendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">vendis</w>
+    <w ref="V" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

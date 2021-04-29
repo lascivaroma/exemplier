@@ -1,0 +1,11 @@
+<div  type="fragment" corresp="adams:9" ana="#mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>7.14.6-7.14.10</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:7.14.6-7.14.10" type="line">
+    <w ana="#mentula" ref="7.14.10" lemma="Mentula" pos="NOMpro" msd="Case=Nom|Numb=Sing">Mentula</w>
+    <w ref="7.14.10" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
+    <w ref="7.14.10" lemma="nondum" pos="ADVneg" msd="MORPH=empty">nondum</w>
+    <w ref="7.14.10" lemma="sesquipedalis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">sesquipedalis</w>
+    <w ref="7.14.10" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
+    <w ref="7.14.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>
