@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:" ana="#acte #fellatio #acte #actor">
+<div type="fragment" corresp="adams:130" ana="#acte #fellatio #acte #actor">
   <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>I.123-I.123</biblScope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.123-I.123" type="part">
     <w ref="I.123" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>

@@ -1,4 +1,4 @@
-<div type="fragment" corresp="adams:" ana="#metaphore #acte #manger">
+<div type="fragment" corresp="adams:141" ana="#metaphore #acte #manger">
   <bibl><author>Cicero</author>, <title>On His House</title>, <biblScope>47-47</biblScope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi020.perseus-lat2:47-47" type="section">
     <w ref="47" lemma="sextus" pos="ADJcar" msd="Case=Ind">Sexte</w>

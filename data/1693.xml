@@ -1,4 +1,4 @@
-<div  type="fragment" corresp="adams:" ana="#metonymie #acte #misceo">
+<div  type="fragment" corresp="adams:180" ana="#metonymie #acte #misceo">
   <bibl ref="#adams"><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblscope>I.50-I.50</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.50-I.50" type="part">
     <w ref="I.50" lemma="equus" pos="NOMcom" msd="Case=Gen|Numb=Plur">equorum</w>
