@@ -1,17 +1,20 @@
-<div type="fragment" corresp="adams:47"  ana="#male #euphemisms #voisinage">
+<div  type="fragment" corresp="adams:47" ana="#male #euphemisms #voisinage #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi002.perseus-lat2:3.280-3.281">
-        <w lemma="hic(nominatif masculin singulier)|hic(-)">Hic</w> 
-        <w lemma="demos(accusatif singulier)|demum(-)">demum</w>, 
-        <w lemma="">hippomanes</w> 
-        <w lemma="Uerus(datif singulier)|Uerus(ablatif singulier)|uerus(datif masculin singulier)|uerus(ablatif masculin singulier)|uerus(datif neutre singulier)|uerus(ablatif neutre singulier)|uero(1ère singulier indicatif présent actif)|uerum(datif singulier)|uerum(ablatif singulier)|uerum(datif singulier)|uerum(ablatif singulier)|uero(-)|uero(nominatif singulier)|uero(vocatif singulier)">vero</w> 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="nomen(ablatif singulier)|nomos(génitif singulier)|nomos(nominatif pluriel)|nomos(vocatif pluriel)|Nomios(génitif singulier)|Nomios(nominatif pluriel)|Nomios(vocatif pluriel)">nomine</w> 
-        <w lemma="dico(3ème pluriel indicatif présent actif)">dicunt</w> 
-        <w lemma="Pastor(nominatif pluriel)|Pastor(vocatif pluriel)|Pastor(accusatif pluriel)|pastor(nominatif pluriel)|pastor(vocatif pluriel)|pastor(accusatif pluriel)">pastores</w>, 
-        <w lemma="leo(génitif masculin pluriel participe présent actif)|leo(génitif féminin pluriel participe présent actif)|leo(génitif neutre pluriel participe présent actif)|lentus(accusatif masculin singulier)|lentus(nominatif neutre singulier)|lentus(vocatif neutre singulier)|lentus(accusatif neutre singulier)">lentum</w> 
-        <w lemma="destillo(3ème singulier indicatif présent actif)">destillat</w> 
-        <w lemma="a(-)">ab</w> 
-        <w lemma="inguen(ablatif singulier)">inguine</w> 
-        <w lemma="uirus(vocatif singulier)|uirus(accusatif singulier)|uirus(nominatif singulier)">virus</w>,    
+        <w lemma="hic2" pos="ADV" msd="Deg=Pos">Hic</w>
+        <w lemma="demum" pos="ADV" msd="Deg=Pos">demum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="hippomanes" pos="NOMcom" msd="Case=Nom|Numb=Sing">hippomanes</w>
+        <w lemma="uero4" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">vero</w>
+        <w lemma="qui1" pos="CONsub" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+        <w lemma="nomen" pos="NOMcom" msd="Case=Abl|Numb=Sing">nomine</w>
+        <w lemma="dico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dicunt</w>
+        <w lemma="pastor" pos="NOMcom" msd="Case=Acc|Numb=Plur">pastores</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="lentus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">lentum</w>
+        <w lemma="destillo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">destillat</w>
+        <w lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #euphemisms #voisinage #mentula">inguine</w>
+        <w lemma="uirus" pos="NOMcom" msd="Case=Nom|Numb=Sing">virus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

@@ -1,9 +1,10 @@
-<div type="fragment" corresp="adams:46"  ana="#male #specialisation">
+<div  type="fragment" corresp="adams:46" ana="#male #specialisation #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:78.4">
-        <w lemma="uxor(génitif singulier)|uxorius(datif masculin pluriel)|uxorius(ablatif masculin pluriel)|uxorius(datif féminin pluriel)|uxorius(ablatif féminin pluriel)|uxorius(datif neutre pluriel)|uxorius(ablatif neutre pluriel)|uxorium(datif pluriel)|uxorium(ablatif pluriel)">uxoris</w> 
-        <w lemma="coepio(3ème singulier indicatif parfait actif)|coepio(3ème singulier indicatif présent actif)">coepit</w> 
-        <w lemma="lingo(infinitif présent actif)|lingo(2ème singulier indicatif présent passif)|lingo(2ème singulier indicatif futur passif)|lingo(2ème singulier impératif présent passif)">lingere</w> 
-        <w lemma="membrum(nominatif pluriel)|membrum(vocatif pluriel)|membrum(accusatif pluriel)|membro(2ème singulier impératif présent actif)">membra</w> 
-        <w lemma="suus(génitif féminin singulier)|suus(datif féminin singulier)|suus(nominatif féminin pluriel)|suus(vocatif féminin pluriel)|Sue(génitif singulier)|Sue(datif singulier)|Sue(nominatif pluriel)|Sue(vocatif pluriel)">suae</w>.    
+        <w lemma="uxor" pos="NOMcom" msd="Case=Gen|Numb=Sing">uxoris</w>
+        <w lemma="coepio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">coepit</w>
+        <w lemma="lingo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">lingere</w>
+        <w lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #specialisation #euphemism #mentula">membra</w>
+        <w lemma="suus" pos="PROpos.ref" msd="Case=Gen|Numb=Sing|Gend=Fem">suae</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

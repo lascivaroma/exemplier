@@ -1,16 +1,20 @@
-<div type="fragment" corresp="adams:35"  ana="#male #anatomie">
+<div  type="fragment" corresp="adams:35" ana="#male #anatomie #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:33.1-33.2">
-        <w lemma="">Naidas</w> 
-        <w lemma="antiqui(nominatif pluriel)|antiqui(vocatif pluriel)|antiquum(génitif singulier)|antiquus(génitif masculin singulier)|antiquus(nominatif masculin pluriel)|antiquus(vocatif masculin pluriel)|antiquus(génitif neutre singulier)">antiqui</w> 
-        <w lemma="">Dryadasque</w> 
-        <w lemma="habeo(3ème pluriel indicatif parfait actif)">habuere</w> 
-        <w lemma="Priapus(génitif singulier)|Priapus(nominatif pluriel)|Priapus(vocatif pluriel)|Priapos(génitif singulier)|Priapos(nominatif pluriel)|Priapos(vocatif pluriel)">Priapi</w>,  
-        <w lemma="et(-)">et</w> 
-        <w lemma="qui(ablatif masculin singulier)|qui(ablatif neutre singulier)|quis(ablatif masculin singulier)|quis(ablatif neutre singulier)|quo(-)">quo</w> 
-        <w lemma="tempto(2ème singulier impératif présent actif)|tendo(nominatif féminin singulier participe parfait passif)|tendo(vocatif féminin singulier participe parfait passif)|tendo(ablatif féminin singulier participe parfait passif)|tendo(nominatif neutre pluriel participe parfait passif)|tendo(vocatif neutre pluriel participe parfait passif)|tendo(accusatif neutre pluriel participe parfait passif)|teneo(nominatif féminin singulier participe parfait passif)|teneo(vocatif féminin singulier participe parfait passif)|teneo(ablatif féminin singulier participe parfait passif)|teneo(nominatif neutre pluriel participe parfait passif)|teneo(vocatif neutre pluriel participe parfait passif)|teneo(accusatif neutre pluriel participe parfait passif)|tenta(nominatif pluriel)|tenta(vocatif pluriel)|tenta(accusatif pluriel)">tenta</w> 
-        <w lemma="deus(nominatif pluriel)|deus(vocatif pluriel)|deus(génitif singulier)|deeo(2ème singulier impératif présent actif)">dei</w> 
-        <w lemma="uena(nominatif singulier)|uena(vocatif singulier)|uena(ablatif singulier)|venum(nominatif pluriel)|venum(vocatif pluriel)|venum(accusatif pluriel)|ueno(2ème singulier impératif présent actif)">uena</w> 
-        <w lemma="subeo(3ème singulier subjonctif imparfait actif)">subiret</w>, 
-        <w lemma="obverto(3ème singulier indicatif PQP actif)|sum(3ème singulier indicatif imparfait actif)">erat</w>.    
+        <w lemma="Nais" pos="NOMpro" msd="Case=Acc|Numb=Plur">Naidas</w>
+        <w lemma="antiquus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">antiqui</w>
+        <w lemma="Dryades" pos="NOMpro" msd="Case=Acc|Numb=Plur">Dryadasque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{Dryadasque}</w>
+        <w lemma="habeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">habuere</w>
+        <w lemma="Priapus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Priapi</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="quo2" pos="PROrel" msd="Numb=Sing">quo</w>
+        <w lemma="tendo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">tenta</w>
+        <w lemma="deus" pos="NOMcom" msd="Case=Gen|Numb=Sing">dei</w>
+        <w lemma="uena" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #anatomie">uena</w>
+        <w lemma="subeo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">subiret</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

@@ -1,8 +1,9 @@
-<div type="fragment" corresp="adams:48"  ana="#male #euphemisms #voisinage #copulation">
+<div  type="fragment" corresp="adams:48" ana="#male #euphemisms #voisinage #copulation">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:19.4">
-        <w lemma="criso(3ème singulier indicatif futur actif)">crisabit</w> 
-        <w lemma="tu(datif masculin singulier)|tu(datif féminin singulier)">tibi</w> 
-        <w lemma="fluctuo(ablatif masculin singulier participe présent actif)|fluctuo(ablatif féminin singulier participe présent actif)|fluctuo(ablatif neutre singulier participe présent actif)|fluctuor(ablatif masculin singulier participe présent actif)|fluctuor(ablatif féminin singulier participe présent actif)|fluctuor(ablatif neutre singulier participe présent actif)">fluctuante</w> 
-        <w lemma="lumbus(datif singulier)|lumbus(ablatif singulier)|lumbo(nominatif singulier)|lumbo(vocatif singulier)">lumbo</w>:    
+        <w lemma="crisso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">crisabit</w>
+        <w lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+        <w lemma="fluctuor" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">fluctuante</w>
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #euphemisms #voisinage #copulation">lumbo</w>
+        <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     </quote>
  </div>

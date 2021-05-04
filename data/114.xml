@@ -1,16 +1,20 @@
-<div type="fragment" corresp="adams:45"  ana="#male #specialisation">
+<div  type="fragment" corresp="adams:45" ana="#male #specialisation #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0299.stoa001.opp-lat1:317.6-317.7">
-        <w lemma="ille(accusatif féminin singulier)">Illam</w>, 
-        <w lemma="qui(ablatif féminin singulier)|quis(ablatif féminin singulier)|qua(-)">qua</w> 
-        <w lemma="mulier(nominatif singulier)|mulier(vocatif singulier)">mulier</w> 
-        <w lemma="probo(2ème singulier indicatif présent passif)|probo(2ème singulier indicatif futur antérieur actif)|probo(2ème singulier subjonctif parfait actif)">probaris</w> 
-        <w lemma="esse(infinitif présent actif)|sum(infinitif présent actif)">esse</w>,
-
-        <w lemma="pars(accusatif singulier)">Partem</w> 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="dedo(2ème singulier indicatif présent passif)|dedo(2ème singulier indicatif futur passif)|do(2ème singulier indicatif futur antérieur actif)|do(2ème singulier subjonctif parfait actif)">dederis</w>, 
-        <w lemma="puella(nominatif singulier)|puella(vocatif singulier)|puella(ablatif singulier)">puella</w> 
-        <w lemma="tunc(-)">tunc</w> 
-        <w lemma="sum(2ème singulier subjonctif présent actif)|sion(datif pluriel)|sion(ablatif pluriel)|sis(positif)">sis</w>.    
+        <w lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">Illam</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
+        <w lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>
+        <w lemma="probo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">probaris</w>
+        <w lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #specialisation #euphemism #mentula">Partem</w>
+        <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+        <w lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">dederis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
+        <w lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
+        <w lemma="si" pos="CONsub" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">sis</w>
+        <w lemma="uolo" pos="" msd="MORPH=empty">{sis}</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

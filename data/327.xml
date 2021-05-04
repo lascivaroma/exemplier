@@ -1,12 +1,12 @@
-<div type="fragment" corresp="adams:59"  ana="#male #natura">
+<div  type="fragment" corresp="adams:59" ana="#neutral #natura #euphemism">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0224c.stoa001.digilibLT-lat1:152">
-        <w lemma="ito(2ème singulier impératif présent actif)|ita(-)">ita</w> 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="spongia(accusatif pluriel)|Spongia(accusatif pluriel)|spongio(2ème singulier indicatif présent actif)|spongius(accusatif féminin pluriel)">spongias</w> 
-        <w lemma="calda(accusatif pluriel)|calidus(accusatif féminin pluriel)|calido(2ème singulier indicatif présent actif)">calidas</w> 
-        <w lemma="locum(datif pluriel)|locum(ablatif pluriel)|locus(datif pluriel)|locus(ablatif pluriel)|loca(datif pluriel)|loca(ablatif pluriel)">locis</w> 
-        <w lemma="omne(datif pluriel)|omne(ablatif pluriel)|omnis(datif masculin pluriel)|omnis(ablatif masculin pluriel)|omnis(datif féminin pluriel)|omnis(ablatif féminin pluriel)|omnis(datif neutre pluriel)|omnis(ablatif neutre pluriel)|omnia(datif pluriel)|omnia(ablatif pluriel)">omnibus</w> 
-        <w lemma="naturalis(datif masculin pluriel)|naturalis(ablatif masculin pluriel)|naturalis(datif féminin pluriel)|naturalis(ablatif féminin pluriel)|naturalis(datif neutre pluriel)|naturalis(ablatif neutre pluriel)|naturale(datif pluriel)|naturale(ablatif pluriel)|naturalia(datif pluriel)|naturalia(ablatif pluriel)">naturalibus</w> 
-        <w lemma="admoveo(2ème singulier subjonctif présent actif)">admoveas</w>    
+        <w lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="spongia" pos="NOMcom" msd="Case=Acc|Numb=Plur">spongias</w>
+        <w lemma="calidus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">calidas</w>
+        <w lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
+        <w lemma="omnis" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">omnibus</w>
+        <w lemma="naturalis" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos" ana="#male #natura">naturalibus</w>
+        <w lemma="admoueo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">admoveas</w>
     </quote>
  </div>

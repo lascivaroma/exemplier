@@ -1,19 +1,23 @@
-<div type="fragment" corresp="adams:38"  ana="#male #anatomie">
+<div  type="fragment" corresp="adams:38" ana="#male #anatomie #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001:134.1.1-134.2.1">
-        <w lemma="vae(-)">uae</w> 
-        <w lemma="strigo(2ème singulier subjonctif présent actif)|strix(nominatif pluriel)|strix(vocatif pluriel)|strix(accusatif pluriel)">striges</w> 
-        <w lemma="comedo(3ème pluriel indicatif parfait actif)">comederunt</w> 
-        <w lemma="nervus(accusatif pluriel)">nervos</w> 
-        <w lemma="tuus(accusatif masculin pluriel)|tui(accusatif pluriel)">tuos</w>, 
-        <w lemma="aut(-)">aut</w> 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="purgamentum(nominatif singulier)|purgamentum(vocatif singulier)|purgamentum(accusatif singulier)">purgamentum</w> [
-        <w lemma="in(-)">in</w>] 
-        <w lemma="nox(ablatif singulier)|nocte(-)">nocte</w> 
-        <w lemma="calco(2ème singulier indicatif parfait actif)">calcasti</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="trivium(datif singulier)|trivium(ablatif singulier)|Trivius(datif singulier)|Trivius(ablatif singulier)|triuius(datif masculin singulier)|triuius(ablatif masculin singulier)|triuius(datif neutre singulier)|triuius(ablatif neutre singulier)">trivio</w> 
-        <w lemma="aut(-)">aut</w> 
-        <w lemma="cadaver(accusatif singulier)|cadaver(nominatif singulier)|cadaver(vocatif singulier)">cadaver</w>?    
+        <w lemma="uae" pos="INJ" msd="MORPH=empty">uae</w>
+        <w lemma="strix" pos="NOMcom" msd="Case=Nom|Numb=Plur">striges</w>
+        <w lemma="comedo2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">comederunt</w>
+        <w lemma="neruus" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #anatomie">nervos</w>
+        <w lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Masc">tuos</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+        <w lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+        <w lemma="purgamentum" pos="NOMcom" msd="Case=Nom|Numb=Sing">purgamentum</w>
+        <w lemma="[" pos="PUNC" msd="MORPH=empty">[</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="]" pos="PUNC" msd="MORPH=empty">]</w>
+        <w lemma="nocte" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
+        <w lemma="calco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">calcasti</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="triuium" pos="NOMcom" msd="Case=Abl|Numb=Sing">trivio</w>
+        <w lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+        <w lemma="cadauer" pos="NOMcom" msd="Case=Acc|Numb=Sing">cadaver</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>
  </div>

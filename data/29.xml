@@ -1,10 +1,10 @@
-<div type="fragment" corresp="adams:30"  ana="#male #personnification">
+<div  type="fragment" corresp="adams:30" ana="#male #personnification">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0196.stoa001:5.83">
-        <w lemma="ast(-)|a(-)|a(-)|a(-)">Ast</w> 
-        <w lemma="Ubii(nominatif pluriel)|Ubii(vocatif pluriel)|Ubius(génitif masculin singulier)|Ubius(nominatif masculin pluriel)|Ubius(vocatif masculin pluriel)|Ubius(génitif neutre singulier)|ubi(-)">ubi</w> 
-        <w lemma="dilectus(génitif masculin singulier)|dilectus(nominatif masculin pluriel)|dilectus(vocatif masculin pluriel)|dilectus(génitif neutre singulier)|diligo(génitif masculin singulier participe parfait passif)|diligo(nominatif masculin pluriel participe parfait passif)|diligo(vocatif masculin pluriel participe parfait passif)|diligo(génitif neutre singulier participe parfait passif)|dilectus(génitif singulier)|dilectus(nominatif pluriel)|dilectus(vocatif pluriel)">dilecti</w> 
-        <w lemma="persentio(3ème singulier indicatif parfait actif)">persensit</w> 
-        <w lemma="funero(2ème singulier impératif présent actif)|funus(nominatif pluriel)|funus(vocatif pluriel)|funus(accusatif pluriel)|funera(nominatif singulier)|funera(vocatif singulier)|funera(ablatif singulier)">funera</w> 
-        <w lemma="membrum(génitif singulier)">membri</w>    
+        <w lemma="at2" pos="CONcoo" msd="MORPH=empty">Ast</w>
+        <w lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
+        <w lemma="dilectus2" pos="VER" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">dilecti</w>
+        <w lemma="persentio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">persensit</w>
+        <w lemma="funus" pos="NOMcom" msd="Case=Acc|Numb=Plur">funera</w>
+        <w lemma="membrum" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #personnification">membri</w>
     </quote>
  </div>

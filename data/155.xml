@@ -1,8 +1,10 @@
-<div type="fragment" corresp="adams:47"  ana="#male #specialisation #milieu">
+<div  type="fragment" corresp="adams:47" ana="#male #specialisation #milieu #euphemism">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001:129.6">
-        <w lemma="medie(comparatif)|medius(nominatif masculin singulier)|Medus(nominatif neutre singulier comparatif)|Medus(vocatif neutre singulier comparatif)|Medus(accusatif neutre singulier comparatif)|medius(nominatif singulier)">medius</w> [
-        <w lemma="fide(comparatif)|Fidius(nominatif singulier)|fidus(nominatif neutre singulier comparatif)|fidus(vocatif neutre singulier comparatif)|fidus(accusatif neutre singulier comparatif)">fidius</w>] 
-        <w lemma="Ia(accusatif singulier)|jam(-)">iam</w> 
-        <w lemma="pereo(2ème singulier indicatif parfait actif)">peristi</w>    
+        <w lemma="medius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" ana="#male #specialisation #milieu #euphemism">medius</w>
+        <w lemma="[" pos="PUNC" msd="MORPH=empty">[</w>
+        <w lemma="fidet" pos="ADV" msd="Case=Nom|Numb=Sing|Deg=Comp">fidius</w>
+        <w lemma="]" pos="PUNC" msd="MORPH=empty">]</w>
+        <w lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+        <w lemma="pereo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">peristi</w>
     </quote>
  </div>

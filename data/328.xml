@@ -1,23 +1,25 @@
-<div type="fragment" corresp="adams:61"  ana="#male #natura">
+<div  type="fragment" corresp="adams:61" ana="#female #natura #cunnus #euphemism">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0167.stoa001.digilibLT-lat1:1.4.2">
-        <w lemma="hic(nominatif masculin singulier)|hic(-)">Hic</w>
-                        
-        <w lemma="per(-)">per</w> 
-        <w lemma="somnus(accusatif singulier)">somnum</w> 
-        <w lemma="uideo(3ème singulier indicatif parfait actif)">vidit</w> 
-        <w lemma="ex(-)">ex</w> 
-        <w lemma="naturalis(datif masculin pluriel)|naturalis(ablatif masculin pluriel)|naturalis(datif féminin pluriel)|naturalis(ablatif féminin pluriel)|naturalis(datif neutre pluriel)|naturalis(ablatif neutre pluriel)|naturale(datif pluriel)|naturale(ablatif pluriel)|naturalia(datif pluriel)|naturalia(ablatif pluriel)">naturalibus</w> 
-        <w lemma="filia(génitif singulier)|filia(datif singulier)|filia(nominatif pluriel)|filia(vocatif pluriel)">filiae</w>, 
-        <w lemma="qui(accusatif féminin singulier)|quis(accusatif féminin singulier)|quam(-)|quam(-)">quam</w> 
-        <w lemma="unicus(accusatif féminin singulier)">unicam</w> 
-        <w lemma="habeo(3ème singulier indicatif imparfait actif)">habebat</w>, 
-        <w lemma="vitis(accusatif singulier)|uito(1ère singulier subjonctif présent actif)">vitem</w> 
-        <w lemma="enascor(accusatif féminin singulier participe parfait actif)|eno(accusatif féminin singulier participe parfait passif)|enatus(accusatif féminin singulier)">enatam</w>,
-                        
-        <w lemma="qui(génitif masculin singulier)|qui(génitif féminin singulier)|qui(génitif neutre singulier)|quis(génitif masculin singulier)|quis(génitif féminin singulier)|quis(génitif neutre singulier)">cuius</w> 
-        <w lemma="palmes(ablatif singulier)">palmite</w> 
-        <w lemma="omne(génitif singulier)|omnis(génitif masculin singulier)|omnis(accusatif masculin pluriel)|omnis(génitif féminin singulier)|omnis(accusatif féminin pluriel)|omnis(génitif neutre singulier)|omnis(nominatif masculin singulier)|omnis(vocatif masculin singulier)|omnis(nominatif féminin singulier)|omnis(vocatif féminin singulier)">omnis</w> 
-        <w lemma="Asia(nominatif singulier)|Asia(vocatif singulier)|Asia(ablatif singulier)|Asius(nominatif féminin singulier)|Asius(vocatif féminin singulier)|Asius(ablatif féminin singulier)|Asius(nominatif neutre pluriel)|Asius(vocatif neutre pluriel)|Asius(accusatif neutre pluriel)|Asium(nominatif pluriel)|Asium(vocatif pluriel)|Asium(accusatif pluriel)|asia(nominatif singulier)|asia(vocatif singulier)|asia(ablatif singulier)">Asia</w> 
-        <w lemma="obumbro(3ème singulier subjonctif imparfait passif)">obumbraretur</w>.     
+        <w lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">Hic</w>
+        <w lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+        <w lemma="somnus" pos="NOMcom" msd="Case=Acc|Numb=Sing">somnum</w>
+        <w lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">vidit</w>
+        <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+        <w lemma="naturalis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#male #natura">naturalibus</w>
+        <w lemma="filia" pos="NOMcom" msd="Case=Gen|Numb=Sing">filiae</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="quam1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>
+        <w lemma="unicus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">unicam</w>
+        <w lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">habebat</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="uitis" pos="NOMcom" msd="Case=Acc|Numb=Sing">vitem</w>
+        <w lemma="enascor" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">enatam</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
+        <w lemma="palmes" pos="NOMcom" msd="Case=Abl|Numb=Sing">palmite</w>
+        <w lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">omnis</w>
+        <w lemma="Asia" pos="NOMpro" msd="Case=Nom|Numb=Sing">Asia</w>
+        <w lemma="obumbro" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">obumbraretur</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

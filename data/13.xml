@@ -1,30 +1,40 @@
-<div type="fragment" corresp="adams:30"  ana="#male #personnification">
+<div type="fragment" corresp="adams:30" ana="#male #personnification">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:38">
-        <w lemma="simpliciter(positif)">Simpliciter</w> 
-        <w lemma="tu(datif masculin singulier)|tu(datif féminin singulier)">tibi</w> 
-        <w lemma="ego(accusatif masculin singulier)|ego(ablatif masculin singulier)|ego(accusatif féminin singulier)|ego(ablatif féminin singulier)">me</w>, 
-        <w lemma="quicumque(nominatif neutre singulier)|quicumque(accusatif neutre singulier)">quodcumque</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w>, 
-        <w lemma="dico(infinitif présent actif)|dico(2ème singulier indicatif présent passif)|dico(2ème singulier indicatif futur passif)|dico(2ème singulier impératif présent passif)|dico(2ème singulier subjonctif présent passif)">dicere</w> 
-        <w lemma="oporteo(3ème singulier indicatif présent actif)">oportet</w>,  
-        <w lemma="nascor(nominatif féminin singulier participe futur actif)|nascor(vocatif féminin singulier participe futur actif)|nascor(ablatif féminin singulier participe futur actif)|nascor(nominatif neutre pluriel participe futur actif)|nascor(vocatif neutre pluriel participe futur actif)|nascor(accusatif neutre pluriel participe futur actif)|no(nominatif féminin singulier participe futur actif)|no(vocatif féminin singulier participe futur actif)|no(ablatif féminin singulier participe futur actif)|no(nominatif neutre pluriel participe futur actif)|no(vocatif neutre pluriel participe futur actif)|no(accusatif neutre pluriel participe futur actif)|natura(nominatif singulier)|natura(vocatif singulier)|natura(ablatif singulier)">natura</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
-        <w lemma="quoniam(-)">quoniam</w> 
-        <w lemma="semper(-)">semper</w> 
-        <w lemma="aperio(nominatif féminin singulier participe parfait passif)|aperio(vocatif féminin singulier participe parfait passif)|aperio(ablatif féminin singulier participe parfait passif)|aperio(nominatif neutre pluriel participe parfait passif)|aperio(vocatif neutre pluriel participe parfait passif)|aperio(accusatif neutre pluriel participe parfait passif)|apertum(nominatif pluriel)|apertum(vocatif pluriel)|apertum(accusatif pluriel)|apertus(nominatif féminin singulier)|apertus(vocatif féminin singulier)|apertus(ablatif féminin singulier)|apertus(nominatif neutre pluriel)|apertus(vocatif neutre pluriel)|apertus(accusatif neutre pluriel)|Aperta(nominatif singulier)|Aperta(vocatif singulier)|Aperta(ablatif singulier)|aperto(2ème singulier impératif présent actif)">aperta</w> 
-        <w lemma="ego(datif masculin singulier)|ego(datif féminin singulier)">mihi</w>: 
-        <w lemma="pedico(infinitif présent actif)|pedico(2ème singulier indicatif présent passif)|pedico(2ème singulier impératif présent passif)">pedicare</w> 
-        <w lemma="uolo(1ère singulier indicatif présent actif)|uolo(1ère singulier indicatif présent actif)|uolo(nominatif singulier)|uolo(vocatif singulier)">uolo</w>, 
-        <w lemma="tu(nominatif masculin singulier)|tu(nominatif féminin singulier)">tu</w> 
-        <w lemma="uolo(2ème singulier indicatif présent actif)|uia(datif pluriel)|uia(ablatif pluriel)|uis(nominatif singulier)|uis(vocatif singulier)">uis</w> 
-        <w lemma="decerpo(infinitif présent actif)|decerpo(2ème singulier indicatif présent passif)|decerpo(2ème singulier indicatif futur passif)|decerpo(2ème singulier impératif présent passif)">decerpere</w> 
-        <w lemma="pomum(nominatif pluriel)|pomum(vocatif pluriel)|pomum(accusatif pluriel)">poma</w>;  
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="peto(1ère singulier indicatif présent actif)">peto</w>, 
-        <w lemma="sion(génitif singulier)|si(-)">si</w> 
-        <w lemma="dedo(2ème singulier indicatif présent passif)|dedo(2ème singulier indicatif futur passif)|do(2ème singulier indicatif futur antérieur actif)|do(2ème singulier subjonctif parfait actif)">dederis</w>, 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="peto(2ème singulier indicatif présent actif)|Peta(datif pluriel)|Peta(ablatif pluriel)">petis</w>, 
-        <w lemma="accipio(2ème singulier indicatif futur actif)">accipies</w>.    
+        <w lemma="simpliciter" pos="ADV" msd="Deg=Pos">Simpliciter</w>
+        <w lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+        <w lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="quicumque1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quodcumque</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="dico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dicere</w>
+        <w lemma="oportet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">oportet</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="natura" pos="NOMcom" msd="Case=Nom|Numb=Sing">natura</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="quoniam" pos="CONsub" msd="MORPH=empty">quoniam</w>
+        <w lemma="semper" pos="ADV" msd="Deg=Pos">semper</w>
+        <w lemma="apertus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">aperta</w>
+        <w lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+        <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+        <w lemma="paedico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">pedicare</w>
+        <w lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">uolo</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+        <w lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">uis</w>
+        <w lemma="decerpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">decerpere</w>
+        <w lemma="pomum" pos="NOMcom" msd="Case=Acc|Numb=Plur">poma</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+        <w lemma="peto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">peto</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+        <w lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">dederis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+        <w lemma="peto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">petis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="accipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">accipies</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

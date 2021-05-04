@@ -1,14 +1,14 @@
-<div type="fragment" corresp="adams:54"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:54" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:4.10">
-        <w lemma="ceteri(vocatif neutre pluriel)|ceteri(accusatif neutre pluriel)|ceterum(nominatif pluriel)|ceterum(vocatif pluriel)|ceterum(accusatif pluriel)|ceterus(nominatif féminin singulier)|ceterus(vocatif féminin singulier)|ceterus(ablatif féminin singulier)|ceterus(nominatif neutre pluriel)|ceterus(vocatif neutre pluriel)|ceterus(accusatif neutre pluriel)|cetera(-)">ceteraque</w> 
-        <w lemma="alium(nominatif pluriel)|alium(vocatif pluriel)|alium(accusatif pluriel)|alius(nominatif féminin singulier)|alius(vocatif féminin singulier)|alius(ablatif féminin singulier)|alius(nominatif neutre pluriel)|alius(vocatif neutre pluriel)|alius(accusatif neutre pluriel)|Alia(nominatif singulier)|Alia(vocatif singulier)|Alia(ablatif singulier)|Alius(nominatif féminin singulier)|Alius(vocatif féminin singulier)|Alius(ablatif féminin singulier)|Alius(nominatif neutre pluriel)|Alius(vocatif neutre pluriel)|Alius(accusatif neutre pluriel)|alia(-)">alia</w> 
-        <w lemma="locum(datif pluriel)|locum(ablatif pluriel)|locus(datif pluriel)|locus(ablatif pluriel)|loca(datif pluriel)|loca(ablatif pluriel)">locis</w> 
-        <w lemma="pono(nominatif féminin singulier participe parfait passif)|pono(vocatif féminin singulier participe parfait passif)|pono(ablatif féminin singulier participe parfait passif)|pono(nominatif neutre pluriel participe parfait passif)|pono(vocatif neutre pluriel participe parfait passif)|pono(accusatif neutre pluriel participe parfait passif)|positus(nominatif féminin singulier)|positus(vocatif féminin singulier)|positus(ablatif féminin singulier)|positus(nominatif neutre pluriel)|positus(vocatif neutre pluriel)|positus(accusatif neutre pluriel)">posita</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="obscurum(datif pluriel)|obscurum(ablatif pluriel)|obscurus(datif masculin pluriel)|obscurus(ablatif masculin pluriel)|obscurus(datif féminin pluriel)|obscurus(ablatif féminin pluriel)|obscurus(datif neutre pluriel)|obscurus(ablatif neutre pluriel)">obscuris</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="verecundus(datif masculin pluriel comparatif)|verecundus(ablatif masculin pluriel comparatif)|verecundus(datif féminin pluriel comparatif)|verecundus(ablatif féminin pluriel comparatif)|verecundus(datif neutre pluriel comparatif)|verecundus(ablatif neutre pluriel comparatif)">uerecundioribus</w> 
-            
-        <w lemma="pars(datif pluriel)|pars(ablatif pluriel)|partus(datif pluriel)|partus(ablatif pluriel)">partibus</w>    
+        <w lemma="ceterus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Deg=Pos">ceteraque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{ceteraque}</w>
+        <w lemma="alius" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Neut">alia</w>
+        <w lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
+        <w lemma="pono" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">posita</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="obscurus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com">obscuris</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="uerecundus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp" ana="#male #euphemisms #aidoion">uerecundioribus</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Plur">partibus</w>
     </quote>
  </div>

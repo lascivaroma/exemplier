@@ -1,13 +1,13 @@
-<div type="fragment" corresp="adams:59"  ana="#male #natura">
+<div  type="fragment" corresp="adams:59" ana="#male #natura #euphemism #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat6:2.7">
-        <w lemma="femina(génitif singulier)|femina(datif singulier)|femina(nominatif pluriel)|femina(vocatif pluriel)">Feminae</w> 
-        <w lemma="Uerus(datif singulier)|Uerus(ablatif singulier)|uerus(datif masculin singulier)|uerus(ablatif masculin singulier)|uerus(datif neutre singulier)|uerus(ablatif neutre singulier)|uero(1ère singulier indicatif présent actif)|uerum(datif singulier)|uerum(ablatif singulier)|uerum(datif singulier)|uerum(ablatif singulier)|uero(-)|uero(nominatif singulier)|uero(vocatif singulier)">uero</w> 
-        <w lemma="Ora(accusatif pluriel)|ora(accusatif pluriel)|oro(2ème singulier indicatif présent actif)">oras</w> 
-        <w lemma="naturalis(génitif masculin pluriel)|naturalis(génitif féminin pluriel)|naturalis(génitif neutre pluriel)|naturale(génitif pluriel)|naturalia(génitif pluriel)">naturalium</w> 
-        <w lemma="suum(génitif pluriel)|suus(génitif masculin pluriel)|suus(génitif neutre pluriel)|sui(génitif pluriel)">suorum</w> 
-        <w lemma="Manes(datif pluriel)|Manes(ablatif pluriel)|manis(datif pluriel)|manis(ablatif pluriel)|manus(datif pluriel)|manus(ablatif pluriel)">manibus</w> 
-        <w lemma="admoveo(datif masculin pluriel participe parfait passif)|admoveo(ablatif masculin pluriel participe parfait passif)|admoveo(datif féminin pluriel participe parfait passif)|admoveo(ablatif féminin pluriel participe parfait passif)|admoveo(datif neutre pluriel participe parfait passif)|admoveo(ablatif neutre pluriel participe parfait passif)|admotus(datif masculin pluriel)|admotus(ablatif masculin pluriel)|admotus(datif féminin pluriel)|admotus(ablatif féminin pluriel)|admotus(datif neutre pluriel)|admotus(ablatif neutre pluriel)">admotis</w> 
-        <w lemma="scabo(3ème pluriel indicatif parfait actif)|scabo(infinitif présent actif)|scabo(2ème singulier indicatif présent passif)|scabo(2ème singulier indicatif futur passif)|scabo(2ème singulier impératif présent passif)">scabere</w> 
-        <w lemma="cogo(3ème pluriel indicatif présent passif)">coguntur</w>    
+        <w lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Plur">Feminae</w>
+        <w lemma="uero4" pos="CONcoo" msd="MORPH=empty">uero</w>
+        <w lemma="ora" pos="NOMcom" msd="Case=Acc|Numb=Plur">oras</w>
+        <w lemma="naturalis" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos" ana="#male #natura #euphemism #cunnus">naturalium</w>
+        <w lemma="suus" pos="PROpos.ref" msd="Case=Gen|Numb=Plur|Gend=MascNeut">suorum</w>
+        <w lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">manibus</w>
+        <w lemma="admoueo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">admotis</w>
+        <w lemma="scabo" pos="VER" msd="Numb=Sing|Mood=Inf|Tense=Pres|Voice=Act|Person=2">scabere</w>
+        <w lemma="cogo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">coguntur</w>
     </quote>
  </div>

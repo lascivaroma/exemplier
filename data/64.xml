@@ -1,41 +1,40 @@
-<div type="fragment" corresp="adams:36"  ana="#male #anatomie">
+<div  type="fragment" corresp="adams:36" ana="#male #anatomie #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.336-6.341">
-        <w lemma="sed(-)|sed(-)">sed</w> 
-        <w lemma="omnis(nominatif masculin pluriel)|omnis(vocatif masculin pluriel)|omnis(accusatif masculin pluriel)|omnis(nominatif féminin pluriel)|omnis(vocatif féminin pluriel)|omnis(accusatif féminin pluriel)">omnes</w> 	
-
-        <w lemma="nosco(3ème pluriel indicatif parfait actif)">nouerunt</w> 
-        <w lemma="Mauri(nominatif pluriel)|Mauri(vocatif pluriel)|Maurus(génitif masculin singulier)|Maurus(nominatif masculin pluriel)|Maurus(vocatif masculin pluriel)|Maurus(génitif neutre singulier)|Maurus(génitif singulier)|Maurus(nominatif pluriel)|Maurus(vocatif pluriel)">Mauri</w> 
-        <w lemma="atque(-)|at(-)">atque</w> 
-        <w lemma="Indi(nominatif pluriel)|Indi(vocatif pluriel)|indo(infinitif présent passif)|Indus(génitif singulier)|Indus(nominatif pluriel)|Indus(vocatif pluriel)|Indus(génitif masculin singulier)|Indus(nominatif masculin pluriel)|Indus(vocatif masculin pluriel)|Indus(génitif neutre singulier)">Indi</w> 
-        <w lemma="qui(nominatif féminin singulier)|qui(nominatif féminin pluriel)|qui(nominatif neutre pluriel)|qui(accusatif neutre pluriel)|quis(nominatif féminin singulier)|quis(nominatif féminin pluriel)|quis(nominatif neutre pluriel)|quis(accusatif neutre pluriel)">quae</w> 
-        <w lemma="psaltria(nominatif singulier)|psaltria(vocatif singulier)|psaltria(ablatif singulier)">psaltria</w> 
-        <w lemma="penis(accusatif singulier)">penem</w> 	
-
-        <w lemma="magnus(accusatif masculin singulier comparatif)|magnus(accusatif féminin singulier comparatif)">maiorem</w> 
-        <w lemma="qui(accusatif féminin singulier)|quis(accusatif féminin singulier)|quam(-)|quam(-)">quam</w> 
-        <w lemma="sum(3ème pluriel indicatif présent actif)">sunt</w> 
-        <w lemma="duo(nominatif masculin pluriel)|duo(nominatif neutre pluriel)|duo(accusatif neutre pluriel)">duo</w> 
-        <w lemma="Caesar(génitif singulier)|caesar(génitif singulier)|Caesaria(datif pluriel)|Caesaria(ablatif pluriel)|Caesarius(datif pluriel)|Caesarius(ablatif pluriel)">Caesaris</w> 
-        <w lemma="Anticato(nominatif pluriel)|Anticato(vocatif pluriel)|Anticato(accusatif pluriel)|Anticatones(nominatif pluriel)|Anticatones(vocatif pluriel)|Anticatones(accusatif pluriel)">Anticatones</w> 	
-
-        <w lemma="illuc(-)">illuc</w>, 
-        <w lemma="testiculus(génitif singulier)|testiculus(nominatif pluriel)|testiculus(vocatif pluriel)">testiculi</w> 
-        <w lemma="se(datif masculin singulier)|se(datif masculin pluriel)|se(datif féminin singulier)|se(datif féminin pluriel)|se(datif neutre singulier)|se(datif neutre pluriel)|sibus(génitif masculin singulier)|sibus(nominatif masculin pluriel)|sibus(vocatif masculin pluriel)|sibus(génitif neutre singulier)|Sibi(-)">sibi</w> 
-        <w lemma="conscius(nominatif masculin singulier)|conscius(nominatif singulier)">conscius</w> 
-        <w lemma="unde(-)">unde</w> 
-        <w lemma="fugio(3ème singulier indicatif parfait actif)|fugio(3ème singulier indicatif présent actif)">fugit</w> 
-        <w lemma="Mus(nominatif singulier)|Mus(vocatif singulier)|mus(nominatif singulier)|mus(vocatif singulier)">mus</w>, 	
-
-        <w lemma="infero(3ème singulier indicatif futur antérieur actif)|infero(3ème singulier subjonctif parfait actif)">intulerit</w>, 
-        <w lemma="Ubii(nominatif pluriel)|Ubii(vocatif pluriel)|Ubius(génitif masculin singulier)|Ubius(nominatif masculin pluriel)|Ubius(vocatif masculin pluriel)|Ubius(génitif neutre singulier)|ubi(-)">ubi</w> 
-        <w lemma="uelo(infinitif présent passif)|uelaris(datif masculin singulier)|uelaris(ablatif masculin singulier)|uelaris(datif féminin singulier)|uelaris(ablatif féminin singulier)|uelaris(datif neutre singulier)|uelaris(ablatif neutre singulier)|uelarius(vocatif singulier)|uelarium(génitif singulier)|uelarius(génitif singulier)|uelarius(nominatif pluriel)|uelarius(vocatif pluriel)">uelari</w> 
-        <w lemma="pingo(nominatif féminin singulier participe futur actif)|pingo(vocatif féminin singulier participe futur actif)|pingo(ablatif féminin singulier participe futur actif)|pingo(nominatif neutre pluriel participe futur actif)|pingo(vocatif neutre pluriel participe futur actif)|pingo(accusatif neutre pluriel participe futur actif)|pictura(nominatif singulier)|pictura(vocatif singulier)|pictura(ablatif singulier)">pictura</w> 
-        <w lemma="iubeo(3ème singulier indicatif présent passif)">iubetur</w>
-
-        <w lemma="quicumque(nominatif féminin singulier)|quicumque(nominatif féminin pluriel)|quicumque(nominatif neutre pluriel)|quicumque(accusatif neutre pluriel)">quaecumque</w> 
-        <w lemma="alter(génitif masculin singulier)|alter(génitif féminin singulier)|alter(génitif neutre singulier)">alterius</w> 
-        <w lemma="sexus(nominatif singulier)|sexus(vocatif singulier)|sexus(génitif singulier)|sexus(nominatif pluriel)|sexus(vocatif pluriel)|sexus(accusatif pluriel)">sexus</w> 
-        <w lemma="imitor(nominatif féminin singulier participe parfait actif)|imitor(vocatif féminin singulier participe parfait actif)|imitor(ablatif féminin singulier participe parfait actif)|imitor(nominatif neutre pluriel participe parfait actif)|imitor(vocatif neutre pluriel participe parfait actif)|imitor(accusatif neutre pluriel participe parfait actif)|imitatus(nominatif féminin singulier)|imitatus(vocatif féminin singulier)|imitatus(ablatif féminin singulier)|imitatus(nominatif neutre pluriel)|imitatus(vocatif neutre pluriel)|imitatus(accusatif neutre pluriel)|imito(nominatif féminin singulier participe parfait passif)|imito(vocatif féminin singulier participe parfait passif)|imito(ablatif féminin singulier participe parfait passif)|imito(nominatif neutre pluriel participe parfait passif)|imito(vocatif neutre pluriel participe parfait passif)|imito(accusatif neutre pluriel participe parfait passif)">imitata</w> 
-        <w lemma="figura(accusatif pluriel)|figuro(2ème singulier indicatif présent actif)">figuras</w>.    
+        <w lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+        <w lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=MascFem">omnes</w>
+        <w lemma="nosco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">nouerunt</w>
+        <w lemma="Mauri" pos="NOMpro" msd="Case=Nom|Numb=Plur">Mauri</w>
+        <w lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+        <w lemma="Indi" pos="NOMpro" msd="Case=Nom|Numb=Plur">Indi</w>
+        <w lemma="qui1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Neut">quae</w>
+        <w lemma="psaltria" pos="NOMcom" msd="Case=Nom|Numb=Sing">psaltria</w>
+        <w lemma="penis" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #anatomie">penem</w>
+        <w lemma="magnus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp">maiorem</w>
+        <w lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+        <w lemma="duo" pos="ADJcar" msd="Case=Nom|Numb=Plur|Gend=MascNeut">duo</w>
+        <w lemma="Caesar" pos="NOMpro" msd="Case=Gen|Numb=Sing">Caesaris</w>
+        <w lemma="Anticato" pos="NOMpro" msd="Case=Nom|Numb=Plur">Anticatones</w>
+        <w lemma="illuc" pos="ADV" msd="Deg=Pos">illuc</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="testiculus" pos="NOMcom" msd="Case=Gen|Numb=Sing">testiculi</w>
+        <w lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+        <w lemma="conscius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">conscius</w>
+        <w lemma="unde1" pos="ADVrel" msd="MORPH=empty">unde</w>
+        <w lemma="fugio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fugit</w>
+        <w lemma="mus" pos="NOMcom" msd="Case=Nom|Numb=Sing">mus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="infero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">intulerit</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ubi1" pos="ADVrel" msd="MORPH=empty">ubi</w>
+        <w lemma="uelo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">uelari</w>
+        <w lemma="pictura" pos="NOMcom" msd="Case=Nom|Numb=Sing">pictura</w>
+        <w lemma="iubeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">iubetur</w>
+        <w lemma="quicumque1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quaecumque</w>
+        <w lemma="alter" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">alterius</w>
+        <w lemma="sexus" pos="NOMcom" msd="Case=Gen|Numb=Sing">sexus</w>
+        <w lemma="imitor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">imitata</w>
+        <w lemma="figura" pos="NOMcom" msd="Case=Acc|Numb=Plur">figuras</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

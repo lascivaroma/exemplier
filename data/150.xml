@@ -1,11 +1,12 @@
-<div type="fragment" corresp="adams:46"  ana="#male #specialisation #erection">
+<div  type="fragment" corresp="adams:46" ana="#male #specialisation #erection  #euphemism">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:68.32">
-        <w lemma="hic(nominatif féminin singulier)|hic(nominatif neutre pluriel)|hic(accusatif neutre pluriel)">haec</w> 
-        <w lemma="edo(2ème singulier indicatif présent actif)|Megisto(nominatif pluriel)|Megisto(vocatif pluriel)|Megisto(accusatif pluriel)|sum(2ème singulier indicatif présent actif)|sum(2ème singulier impératif présent actif)">es</w> 
-        <w lemma="ad(-)">ad</w> 
-        <w lemma="adrigo(accusatif masculin pluriel participe parfait passif)|adrectus(accusatif masculin pluriel)">arrectos</w> 
-        <w lemma="verbum(nominatif pluriel)|verbum(vocatif pluriel)|verbum(accusatif pluriel)">uerba</w> 
-        <w lemma="loquor(nominatif féminin singulier participe parfait actif)|loquor(vocatif féminin singulier participe parfait actif)|loquor(ablatif féminin singulier participe parfait actif)|loquor(nominatif neutre pluriel participe parfait actif)|loquor(vocatif neutre pluriel participe parfait actif)|loquor(accusatif neutre pluriel participe parfait actif)|locutus(nominatif féminin singulier)|locutus(vocatif féminin singulier)|locutus(ablatif féminin singulier)|locutus(nominatif neutre pluriel)|locutus(vocatif neutre pluriel)|locutus(accusatif neutre pluriel)">locuta</w> 
-        <w lemma="procus(accusatif pluriel)">procos</w>:    
+        <w lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Neut">haec</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+        <w lemma="arrigo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass" ana="#male #specialisation #erection">arrectos</w>
+        <w lemma="uerbum" pos="NOMcom" msd="Case=Nom|Numb=Plur">uerba</w>
+        <w lemma="loquor" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">locuta</w>
+        <w lemma="procus" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #specialisation #erection">procos</w>
+        <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     </quote>
  </div>

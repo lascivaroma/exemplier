@@ -1,15 +1,17 @@
-<div type="fragment" corresp="adams:47"  ana="#male #specialisation #bouche">
+<div  type="fragment" corresp="adams:47" ana="#male #specialisation #bouche #euphemism">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:28.4-28.5">
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="sion(génitif singulier)|si(-)">si</w> 
-        <w lemma="tam(-)|tam(positif)">tam</w> 
-        <w lemma="gravis(génitif masculin singulier)|gravis(accusatif masculin pluriel)|gravis(génitif féminin singulier)|gravis(accusatif féminin pluriel)|gravis(génitif neutre singulier)|gravis(nominatif masculin singulier)|gravis(vocatif masculin singulier)|gravis(nominatif féminin singulier)|gravis(vocatif féminin singulier)">grauis</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="molesto(2ème singulier impératif présent actif)|molestus(nominatif féminin singulier)|molestus(vocatif féminin singulier)|molestus(ablatif féminin singulier)|molestus(nominatif neutre pluriel)|molestus(vocatif neutre pluriel)|molestus(accusatif neutre pluriel)">molesta</w> 
-        <w lemma="poena(nominatif singulier)|poena(vocatif singulier)|poena(ablatif singulier)|Poenus(nominatif féminin singulier)|Poenus(vocatif féminin singulier)|Poenus(ablatif féminin singulier)|Poenus(nominatif neutre pluriel)|Poenus(vocatif neutre pluriel)|Poenus(accusatif neutre pluriel)">poena</w> 
-        <w lemma="non(-)">non</w> 
-        <w lemma="proficio(3ème singulier indicatif futur antérieur actif)|proficio(3ème singulier subjonctif parfait actif)">profecerit</w>, 
-        <w lemma="altus(nominatif neutre pluriel comparatif)|altus(vocatif neutre pluriel comparatif)|altus(accusatif neutre pluriel comparatif)">altiora</w> 
-        <w lemma="tango(1ère singulier indicatif futur actif)|tango(1ère singulier subjonctif présent actif)">tangam</w>.    
+        <w lemma="quod1" pos="CONcoo" msd="MORPH=empty">quod</w>
+        <w lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+        <w lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+        <w lemma="grauis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">grauis</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="molestus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">molesta</w>
+        <w lemma="poena" pos="NOMcom" msd="Case=Nom|Numb=Sing">poena</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="proficio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">profecerit</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="altus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Comp" ana="#male #specialisation #bouche #euphemism">altiora</w>
+        <w lemma="tango" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">tangam</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

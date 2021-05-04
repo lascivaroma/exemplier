@@ -1,53 +1,54 @@
-<div type="fragment" corresp="adams:54"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:54" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1:31.23">
-        <w lemma="ad(-)">Ad</w> 
-        <w lemma="fistula(accusatif pluriel)|fistulo(2ème singulier indicatif présent actif)">fistulas</w> 
-        <w lemma="vulnus(génitif pluriel)">uulnerum</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="anus(datif singulier)|anus(ablatif singulier)">ano</w> 
-        <w lemma="uel(-)">uel</w> 
-        <w lemma="qui(nominatif féminin singulier)|qui(nominatif féminin pluriel)|qui(nominatif neutre pluriel)|qui(accusatif neutre pluriel)|quis(nominatif féminin singulier)|quis(nominatif féminin pluriel)|quis(nominatif neutre pluriel)|quis(accusatif neutre pluriel)">quae</w> 
-        <w lemma="nascor(3ème pluriel indicatif présent actif)|nasco(3ème pluriel indicatif présent passif)">nascuntur</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="locum(datif pluriel)|locum(ablatif pluriel)|locus(datif pluriel)|locus(ablatif pluriel)|loca(datif pluriel)|loca(ablatif pluriel)">locis</w> 
-        <w lemma="verecundus(datif masculin pluriel comparatif)|verecundus(ablatif masculin pluriel comparatif)|verecundus(datif féminin pluriel comparatif)|verecundus(ablatif féminin pluriel comparatif)|verecundus(datif neutre pluriel comparatif)|verecundus(ablatif neutre pluriel comparatif)">uerecundioribus</w>
-      
-        <w lemma="Terra(locatif)|Terra(génitif singulier)|Terra(datif singulier)|Terra(nominatif pluriel)|Terra(vocatif pluriel)|terra(génitif singulier)|terra(datif singulier)|terra(nominatif pluriel)|terra(vocatif pluriel)">terrae</w> 
-        <w lemma="malum(génitif singulier)|malum(génitif singulier)|malus(génitif masculin singulier)|malus(nominatif masculin pluriel)|malus(vocatif masculin pluriel)|malus(génitif neutre singulier)|malis(datif singulier)|malus(génitif singulier)|malus(nominatif pluriel)|malus(vocatif pluriel)|malus(génitif singulier)|malus(nominatif pluriel)|malus(vocatif pluriel)|Malius(génitif masculin singulier)|Malius(nominatif masculin pluriel)|Malius(vocatif masculin pluriel)|Malius(génitif neutre singulier)">mali</w> 
-        <w lemma="radix(nominatif singulier)|radix(vocatif singulier)">radix</w> 
-        <w lemma="contundo(nominatif féminin singulier participe parfait passif)|contundo(vocatif féminin singulier participe parfait passif)|contundo(ablatif féminin singulier participe parfait passif)|contundo(nominatif neutre pluriel participe parfait passif)|contundo(vocatif neutre pluriel participe parfait passif)|contundo(accusatif neutre pluriel participe parfait passif)|contusum(nominatif pluriel)|contusum(vocatif pluriel)|contusum(accusatif pluriel)|contusus(nominatif féminin singulier)|contusus(vocatif féminin singulier)|contusus(ablatif féminin singulier)|contusus(nominatif neutre pluriel)|contusus(vocatif neutre pluriel)|contusus(accusatif neutre pluriel)">contusa</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="fistula(génitif singulier)|fistula(datif singulier)|fistula(nominatif pluriel)|fistula(vocatif pluriel)">fistulae</w> 
-        <w lemma="insero(nominatif féminin singulier participe parfait passif)|insero(vocatif féminin singulier participe parfait passif)|insero(ablatif féminin singulier participe parfait passif)|insero(nominatif neutre pluriel participe parfait passif)|insero(vocatif neutre pluriel participe parfait passif)|insero(accusatif neutre pluriel participe parfait passif)|inserto(2ème singulier impératif présent actif)|inserta(nominatif singulier)|inserta(vocatif singulier)|inserta(ablatif singulier)|insertus(nominatif féminin singulier)|insertus(vocatif féminin singulier)|insertus(ablatif féminin singulier)|insertus(nominatif neutre pluriel)|insertus(vocatif neutre pluriel)|insertus(accusatif neutre pluriel)">inserta</w> 
-        <w lemma="aut(-)">aut</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="pulvis(accusatif singulier)|pulver(accusatif singulier)|pulvero(1ère singulier subjonctif présent actif)">puluerem</w> 
-        <w lemma="redigo(nominatif féminin singulier participe parfait passif)|redigo(vocatif féminin singulier participe parfait passif)|redigo(ablatif féminin singulier participe parfait passif)|redigo(nominatif neutre pluriel participe parfait passif)|redigo(vocatif neutre pluriel participe parfait passif)|redigo(accusatif neutre pluriel participe parfait passif)|redactus(nominatif féminin singulier)|redactus(vocatif féminin singulier)|redactus(ablatif féminin singulier)|redactus(nominatif neutre pluriel)|redactus(vocatif neutre pluriel)|redactus(accusatif neutre pluriel)">redacta</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="vinum(datif singulier)|vinum(ablatif singulier)|uinus(datif singulier)|uinus(ablatif singulier)">uino</w> 
-        <w lemma="veto(2ème singulier subjonctif présent passif)|uetera(ablatif singulier)|Uetera(ablatif singulier)|Uetus(ablatif singulier)|uetus(ablatif masculin singulier)|uetus(ablatif féminin singulier)|uetus(ablatif neutre singulier)|ueter(ablatif masculin singulier)|ueter(ablatif féminin singulier)|ueter(ablatif neutre singulier)">uetere</w>
-      
-        <w lemma="inspergo(nominatif féminin singulier participe parfait passif)|inspergo(vocatif féminin singulier participe parfait passif)|inspergo(ablatif féminin singulier participe parfait passif)|inspergo(nominatif neutre pluriel participe parfait passif)|inspergo(vocatif neutre pluriel participe parfait passif)|inspergo(accusatif neutre pluriel participe parfait passif)|inspersus(nominatif féminin singulier)|inspersus(vocatif féminin singulier)|inspersus(ablatif féminin singulier)|inspersus(nominatif neutre pluriel)|inspersus(vocatif neutre pluriel)|inspersus(accusatif neutre pluriel)">inspersa</w> 
-        <w lemma="ito(2ème singulier impératif présent actif)|ita(-)">ita</w> 
-        <w lemma="prosum(3ème singulier indicatif présent actif)|prodo(2ème singulier impératif présent actif)">prodest</w>, 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="celeriter(positif)">celeriter</w> 
-        <w lemma="expurgo(3ème singulier subjonctif présent actif)">expurget</w>, 
-        <w lemma="solido(3ème singulier subjonctif présent actif)">solidet</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="ad(-)">ad</w> 
-        <w lemma="omnis(accusatif masculin singulier)|omnis(accusatif féminin singulier)">omnem</w> 
-        <w lemma="sanitas(accusatif singulier)">sanitatem</w> 
-        <w lemma="perduco(3ème singulier subjonctif présent actif)">perducat</w>, 
-        <w lemma="Sinis(ablatif singulier)|sino(2ème singulier impératif présent actif)|sinus(vocatif singulier)|sine(-)|sion(génitif singulier)|si(-)">sine</w> 
-        <w lemma="qui(ablatif féminin singulier)|quis(ablatif féminin singulier)|qua(-)">qua</w>
-      
-        <w lemma="nec(-)">nec</w> 
-        <w lemma="Medicus(génitif masculin singulier)|Medicus(nominatif masculin pluriel)|Medicus(vocatif masculin pluriel)|Medicus(génitif neutre singulier)|medicus(génitif masculin singulier)|medicus(nominatif masculin pluriel)|medicus(vocatif masculin pluriel)|medicus(génitif neutre singulier)|medicus(génitif singulier)|medicus(nominatif pluriel)|medicus(vocatif pluriel)|medix(datif singulier)">medici</w> 
-        <w lemma="hujusmodi(-)">huiusmodi</w> 
-        <w lemma="causa(accusatif pluriel)">causas</w> 
-        <w lemma="curo(infinitif présent actif)|curo(2ème singulier indicatif présent passif)|curo(2ème singulier impératif présent passif)">curare</w> 
-        <w lemma="possum(3ème pluriel indicatif présent actif)">possunt</w>.     
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty">Ad</w>
+        <w lemma="fistula" pos="NOMcom" msd="Case=Acc|Numb=Plur">fistulas</w>
+        <w lemma="uulnus" pos="NOMcom" msd="Case=Gen|Numb=Plur">uulnerum</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="anus?" pos="NOMcom" msd="Case=Abl|Numb=Sing">ano</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
+        <w lemma="nascor" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">nascuntur</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
+        <w lemma="uerecundus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp" ana="#male #euphemisms #aidoion #uerecunda">uerecundioribus</w>
+        <w lemma="terra" pos="NOMcom" msd="Case=Gen|Numb=Sing">terrae</w>
+        <w lemma="malum1" pos="NOMcom" msd="Case=Gen|Numb=Sing">mali</w>
+        <w lemma="radix" pos="NOMcom" msd="Case=Nom|Numb=Sing">radix</w>
+        <w lemma="contundo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">contusa</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="fistula" pos="NOMcom" msd="Case=Gen|Numb=Sing">fistulae</w>
+        <w lemma="insero2" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">inserta</w>
+        <w lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="puluis" pos="NOMcom" msd="Case=Acc|Numb=Sing">puluerem</w>
+        <w lemma="redigo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">redacta</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+        <w lemma="uinum" pos="NOMcom" msd="Case=Abl|Numb=Sing">uino</w>
+        <w lemma="uetus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">uetere</w>
+        <w lemma="inspergo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">inspersa</w>
+        <w lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+        <w lemma="prosum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">prodest</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="celeriter" pos="ADV" msd="Deg=Pos">celeriter</w>
+        <w lemma="expurgo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">expurget</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="solido" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">solidet</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+        <w lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascFem">omnem</w>
+        <w lemma="sanitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">sanitatem</w>
+        <w lemma="perduco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">perducat</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
+        <w lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+        <w lemma="medicus1" pos="NOMcom" msd="Case=Nom|Numb=Plur">medici</w>
+        <w lemma="huiusmodi" pos="ADV" msd="Deg=Pos">huiusmodi</w>
+        <w lemma="causa" pos="NOMcom" msd="Case=Acc|Numb=Plur">causas</w>
+        <w lemma="curo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">curare</w>
+        <w lemma="possum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">possunt</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

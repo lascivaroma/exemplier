@@ -1,12 +1,13 @@
-<div type="fragment" corresp="adams:53"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:53" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.opp-lat1:1.27">
-        <w lemma="ueretrum(génitif singulier)">veretri</w> 
-        <w lemma="dolor(nominatif pluriel)|dolor(vocatif pluriel)|dolor(accusatif pluriel)">dolores</w> 
-        <w lemma="fel(accusatif singulier)|fel(nominatif singulier)|fel(vocatif singulier)">fel</w> 
-        <w lemma="Taurinus(accusatif masculin singulier)|Taurinus(nominatif neutre singulier)|Taurinus(vocatif neutre singulier)|Taurinus(accusatif neutre singulier)|taurinus(accusatif masculin singulier)|taurinus(nominatif neutre singulier)|taurinus(vocatif neutre singulier)|taurinus(accusatif neutre singulier)|Taurinus(accusatif singulier)">taurinum</w> 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="nitrum(datif singulier)|nitrum(ablatif singulier)">nitro</w> 
-        <w lemma="contero(supin en -um)|contero(accusatif masculin singulier participe parfait passif)|contero(nominatif neutre singulier participe parfait passif)|contero(vocatif neutre singulier participe parfait passif)|contero(accusatif neutre singulier participe parfait passif)|contritus(accusatif masculin singulier)|contritus(nominatif neutre singulier)|contritus(vocatif neutre singulier)|contritus(accusatif neutre singulier)">contritum</w> 
-        <w lemma="curo(3ème singulier indicatif présent actif)">curat</w>.    
+        <w lemma="ueretrum" pos="NOMcom" msd="Case=Gen|Numb=Sing|Deg=Pos" ana="#male #euphemisms #aidoion #mentula">veretri</w>
+        <w lemma="dolor" pos="NOMcom" msd="Case=Nom|Numb=Plur">dolores</w>
+        <w lemma="fel" pos="NOMcom" msd="Case=Nom|Numb=Sing">fel</w>
+        <w lemma="taurinus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">taurinum</w>
+        <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+        <w lemma="nitrum" pos="NOMcom" msd="Case=Abl|Numb=Sing">nitro</w>
+        <w lemma="contritus" pos="VER" msd="Case=Acc|Numb=Sing|Deg=Pos">contritum</w>
+        <w lemma="curo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">curat</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

@@ -1,13 +1,14 @@
-<div type="fragment" corresp="adams:56"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:56" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi074:8.22">
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="is(nominatif féminin singulier)|is(ablatif féminin singulier)|is(nominatif neutre pluriel)|is(accusatif neutre pluriel)|Eus(nominatif féminin singulier)|Eus(vocatif féminin singulier)|Eus(ablatif féminin singulier)|Eus(nominatif neutre pluriel)|Eus(vocatif neutre pluriel)|Eus(accusatif neutre pluriel)|ea(-)">ea</w> 
-        <w lemma="dica(accusatif singulier)|dico(1ère singulier indicatif futur actif)|dico(1ère singulier subjonctif présent actif)|Dice(accusatif singulier)">dicam</w>, 
-        <w lemma="sion(génitif singulier)|si(-)">si</w> 
-        <w lemma="qui(ablatif féminin singulier)|quis(ablatif féminin singulier)|qua(-)">qua</w> 
-        <w lemma="Egus(datif singulier)|Egus(ablatif singulier)|ego(nominatif masculin singulier)|ego(nominatif féminin singulier)">ego</w> 
-        <w lemma="honeste(positif)|honestus(vocatif masculin singulier)">honeste</w> 
-        <w lemma="effor(infinitif présent actif)">effari</w> 
-        <w lemma="possum(1ère singulier subjonctif présent actif)">possim</w>    
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="is" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">ea</w>
+        <w lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1">dicam</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+        <w lemma="quis2" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut" ana="#male #euphemisms #aidoion">qua</w>
+        <w lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+        <w lemma="honeste" pos="ADV" msd="Deg=Pos" ana="#male #euphemisms #aidoion">honeste</w>
+        <w lemma="effor" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">effari</w>
+        <w lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1">possim</w>
     </quote>
  </div>

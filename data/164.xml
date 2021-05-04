@@ -1,10 +1,12 @@
-<div type="fragment" corresp="adams:47"  ana="#male #specialisation #bouche">
+<div  type="fragment" corresp="adams:47" ana="#male #specialisation #bouche #euphemism">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.46.6">
-        <w lemma="summa(nominatif singulier)|summa(vocatif singulier)|summa(ablatif singulier)|summum(nominatif pluriel)|summum(vocatif pluriel)|summum(accusatif pluriel)|summus(nominatif féminin singulier)|summus(vocatif féminin singulier)|summus(ablatif féminin singulier)|summus(nominatif neutre pluriel)|summus(vocatif neutre pluriel)|summus(accusatif neutre pluriel)|summo(2ème singulier impératif présent actif)">Summa</w> 
-        <w lemma="peto(2ème singulier subjonctif présent actif)|Peta(accusatif pluriel)">petas</w>: 
-        <w lemma="illic(-)">illic</w> 
-        <w lemma="mentula(nominatif singulier)|mentula(vocatif singulier)|mentula(ablatif singulier)">mentula</w> 
-        <w lemma="uiuo(3ème singulier indicatif présent actif)">vivit</w> 
-        <w lemma="anus(nominatif singulier)|anus(nominatif singulier)|anus(vocatif singulier)|anus(génitif singulier)|anus(nominatif pluriel)|anus(vocatif pluriel)|anus(accusatif pluriel)">anus</w>.     
+        <w lemma="superus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Sup" ana="#male #specialisation #bouche #euphemism">Summa</w>
+        <w lemma="peto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">petas</w>
+        <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+        <w lemma="illic2" pos="ADV" msd="Deg=Pos">illic</w>
+        <w lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+        <w lemma="uiuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vivit</w>
+        <w lemma="anus2" pos="NOMcom" msd="Case=Nom|Numb=Sing">anus</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

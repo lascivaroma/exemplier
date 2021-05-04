@@ -1,22 +1,37 @@
-<div type="fragment" corresp="adams:59"  ana="#male #natura">
+<div  type="fragment" corresp="adams:59" ana="#natura #euphemism #neutral">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat6:1.9">
-        <w lemma="frigus(accusatif singulier)|frigus(nominatif singulier)|frigus(vocatif singulier)">Frigus</w> 
-        <w lemma="inimicus(accusatif singulier)|inimicus(accusatif masculin singulier)|inimicus(nominatif neutre singulier)|inimicus(vocatif neutre singulier)|inimicus(accusatif neutre singulier)">inimicum</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
-        <w lemma="senex(datif masculin singulier)|senex(datif féminin singulier)|senex(datif neutre singulier)|senex(datif singulier)|seni(nominatif masculin pluriel)|seni(vocatif masculin pluriel)|senus(génitif masculin singulier)|senus(nominatif masculin pluriel)|senus(vocatif masculin pluriel)|senus(génitif neutre singulier)|Senum(génitif singulier)|senius(vocatif singulier)|senium(génitif singulier)|senius(génitif singulier)|senius(nominatif pluriel)|senius(vocatif pluriel)">seni</w>, 
-        <w lemma="teneo(1ère singulier indicatif parfait actif)|tenue(ablatif singulier)|tenue(datif singulier)|tenuis(datif masculin singulier)|tenuis(ablatif masculin singulier)|tenuis(datif féminin singulier)|tenuis(ablatif féminin singulier)|tenuis(datif neutre singulier)|tenuis(ablatif neutre singulier)">tenui</w>, 
-        <w lemma="vulnus(datif singulier)">uulneri</w>, 
-        <w lemma="praecordia(datif pluriel)|praecordia(ablatif pluriel)|praecordium(datif pluriel)|praecordium(ablatif pluriel)">praecordiis</w>, 
-        <w lemma="intestinae(datif pluriel)|intestinae(ablatif pluriel)|intestina(datif pluriel)|intestina(ablatif pluriel)|intestinum(datif pluriel)|intestinum(ablatif pluriel)|intestinus(datif masculin pluriel)|intestinus(ablatif masculin pluriel)|intestinus(datif féminin pluriel)|intestinus(ablatif féminin pluriel)|intestinus(datif neutre pluriel)|intestinus(ablatif neutre pluriel)|intestini(datif pluriel)|intestini(ablatif pluriel)">intestinis</w>, 
-        <w lemma="uesica(génitif singulier)|uesica(datif singulier)|uesica(nominatif pluriel)|uesica(vocatif pluriel)">uesicae</w>, 
-        <w lemma="auris(datif pluriel)|auris(ablatif pluriel)">auribus</w>, 
-        <w lemma="coxa(datif pluriel)|coxa(ablatif pluriel)">coxis</w>, 
-        <w lemma="Scapula(datif pluriel)|Scapula(ablatif pluriel)|scapula(datif pluriel)|scapula(ablatif pluriel)|scapulae(datif pluriel)|scapulae(ablatif pluriel)">scapulis</w>, 
-        <w lemma="naturalis(datif masculin pluriel)|naturalis(ablatif masculin pluriel)|naturalis(datif féminin pluriel)|naturalis(ablatif féminin pluriel)|naturalis(datif neutre pluriel)|naturalis(ablatif neutre pluriel)|naturale(datif pluriel)|naturale(ablatif pluriel)|naturalia(datif pluriel)|naturalia(ablatif pluriel)">naturalibus</w>, 
-        <w lemma="os(datif pluriel)|os(ablatif pluriel)">ossibus</w>, 
-        <w lemma="dens(datif pluriel)|dens(ablatif pluriel)">dentibus</w>, 
-        <w lemma="Nerva(datif pluriel)|Nerva(ablatif pluriel)|nervus(datif pluriel)|nervus(ablatif pluriel)|nervia(datif pluriel)|nervia(ablatif pluriel)|Nervii(datif pluriel)|Nervii(ablatif pluriel)|Nervius(datif masculin pluriel)|Nervius(ablatif masculin pluriel)|Nervius(datif féminin pluriel)|Nervius(ablatif féminin pluriel)|Nervius(datif neutre pluriel)|Nervius(ablatif neutre pluriel)|nerviae(datif pluriel)|nerviae(ablatif pluriel)">neruis</w>, 
-        <w lemma="vulva(génitif singulier)|vulva(datif singulier)|vulva(nominatif pluriel)|vulva(vocatif pluriel)">uuluae</w>, 
-        <w lemma="cerebrum(datif singulier)|cerebrum(ablatif singulier)">cerebro</w>.    
+        <w lemma="frigus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Frigus</w>
+        <w lemma="inimicus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">inimicum</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="senex1" pos="NOMcom" msd="Case=Dat|Numb=Sing">seni</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="tenuis" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=Com|Deg=Pos">tenui</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="uulnus" pos="NOMcom" msd="Case=Dat|Numb=Sing">uulneri</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="praecordia" pos="NOMcom" msd="Case=Dat|Numb=Plur">praecordiis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="intestinus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Deg=Pos">intestinis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="uesica" pos="NOMcom" msd="Case=Gen|Numb=Sing">uesicae</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="auris" pos="NOMcom" msd="Case=Abl|Numb=Plur">auribus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="coxa" pos="NOMcom" msd="Case=Abl|Numb=Plur|Deg=Pos">coxis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="scapula" pos="NOMcom" msd="Case=Dat|Numb=Plur">scapulis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="naturalis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#natura #euphemism #neutral">naturalibus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="os2" pos="NOMcom" msd="Case=Abl|Numb=Plur">ossibus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="dens" pos="NOMcom" msd="Case=Abl|Numb=Plur">dentibus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="neruus" pos="NOMcom" msd="Case=Abl|Numb=Plur">neruis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="uulua" pos="NOMcom" msd="Case=Gen|Numb=Sing">uuluae</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="cerebrum" pos="NOMcom" msd="Case=Dat|Numb=Sing">cerebro</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

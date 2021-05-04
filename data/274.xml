@@ -1,15 +1,17 @@
-<div type="fragment" corresp="adams:56"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:56" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.23">
-        <w lemma="secerno(nominatif féminin singulier participe parfait passif)|secerno(vocatif féminin singulier participe parfait passif)|secerno(ablatif féminin singulier participe parfait passif)|secerno(nominatif neutre pluriel participe parfait passif)|secerno(vocatif neutre pluriel participe parfait passif)|secerno(accusatif neutre pluriel participe parfait passif)|secretum(nominatif pluriel)|secretum(vocatif pluriel)|secretum(accusatif pluriel)|secretus(nominatif féminin singulier)|secretus(vocatif féminin singulier)|secretus(ablatif féminin singulier)|secretus(nominatif neutre pluriel)|secretus(vocatif neutre pluriel)|secretus(accusatif neutre pluriel)">secreta</w> 
-        <w lemma="rimor(accusatif masculin singulier participe présent actif)|rimor(accusatif féminin singulier participe présent actif)|rimo(accusatif masculin singulier participe présent actif)|rimo(accusatif féminin singulier participe présent actif)">rimantem</w> [
-        <w lemma="ferveo(datif masculin singulier participe présent actif)|ferveo(datif féminin singulier participe présent actif)|ferveo(datif neutre singulier participe présent actif)|fervo(datif masculin singulier participe présent actif)|fervo(datif féminin singulier participe présent actif)|fervo(datif neutre singulier participe présent actif)|fervens(datif masculin singulier)|fervens(ablatif masculin singulier)|fervens(datif féminin singulier)|fervens(ablatif féminin singulier)|fervens(datif neutre singulier)|fervens(ablatif neutre singulier)">feruenti</w> 
-        <w lemma="nullus(accusatif féminin pluriel)">nullas</w>] 
-        <w lemma="">summotisque</w> 
-        <w lemma="arbiter(datif pluriel)|arbiter(ablatif pluriel)|arbitra(datif pluriel)|arbitra(ablatif pluriel)|Arbiter(datif pluriel)|Arbiter(ablatif pluriel)|arbitrium(datif pluriel)|arbitrium(ablatif pluriel)">arbitris</w> 
-        <w lemma="circumjicio(accusatif féminin pluriel participe parfait passif)|circumjectus(accusatif féminin pluriel)">circumiectas</w> 
-            
-        <w lemma="proles(datif pluriel)|proles(ablatif pluriel)">prolibus</w> 
-        <w lemma="diripio(accusatif masculin singulier participe présent actif)|diripio(accusatif féminin singulier participe présent actif)">diripientem</w> 
-        <w lemma="membranula(accusatif pluriel)">membranulas</w>    
+        <w lemma="secretum" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #euphemisms #aidoion">secreta</w>
+        <w lemma="rimor" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Dep">rimantem</w>
+        <w lemma="[" pos="PUNC" msd="MORPH=empty">[</w>
+        <w lemma="feruens" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Deg=Pos">feruenti</w>
+        <w lemma="nullus" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Fem">nullas</w>
+        <w lemma="]" pos="PUNC" msd="MORPH=empty">]</w>
+        <w lemma="submoueo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">summotisque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{summotisque}</w>
+        <w lemma="arbiter" pos="NOMcom" msd="Case=Abl|Numb=Plur">arbitris</w>
+        <w lemma="circumicio" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">circumiectas</w>
+        <w lemma="proles" pos="NOMcom" msd="Case=Abl|Numb=Plur">prolibus</w>
+        <w lemma="diripio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">diripientem</w>
+        <w lemma="membranulus" pos="NOMcom" msd="Case=Acc|Numb=Plur">membranulas</w>
     </quote>
  </div>

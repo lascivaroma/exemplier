@@ -1,9 +1,10 @@
-<div type="fragment" corresp="adams:43"  ana="#male #proprieteprivee">
+<div  type="fragment" corresp="adams:43" ana="#male #proprieteprivee #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat1:8.3">
-        <w lemma="profero(datif masculin singulier participe parfait passif)|profero(ablatif masculin singulier participe parfait passif)|profero(datif neutre singulier participe parfait passif)|profero(ablatif neutre singulier participe parfait passif)|prolato(1ère singulier indicatif présent actif)|prolatus(datif masculin singulier)|prolatus(ablatif masculin singulier)|prolatus(datif neutre singulier)|prolatus(ablatif neutre singulier)">prolatoque</w> 
-        <w lemma="peculium(datif singulier)|peculium(ablatif singulier)|peculio(1ère singulier indicatif présent actif)">peculio</w> 
-        <w lemma="coepio(3ème singulier indicatif parfait actif)|coepio(3ème singulier indicatif présent actif)">coepit</w> 
-        <w lemma="rogo(infinitif présent actif)|rogo(2ème singulier indicatif présent passif)|rogo(2ème singulier impératif présent passif)">rogare</w> 
-        <w lemma="stuprum(nominatif singulier)|stuprum(vocatif singulier)|stuprum(accusatif singulier)">stuprum</w>    
+        <w lemma="profero" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">prolatoque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{prolatoque}</w>
+        <w lemma="peculium" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #proprieteprivee #metaphore #mentula">peculio</w>
+        <w lemma="coepio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">coepit</w>
+        <w lemma="rogo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">rogare</w>
+        <w lemma="stuprum" pos="NOMcom" msd="Case=Acc|Numb=Sing">stuprum</w>
     </quote>
  </div>

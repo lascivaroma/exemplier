@@ -1,19 +1,23 @@
-<div type="fragment" corresp="adams:46"  ana="#male #specialisation">
+<div  type="fragment" corresp="adams:46" ana="#male #specialisation #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa008.opp-lat2:1">
-        <w lemma="ceterum(nominatif singulier)|ceterum(vocatif singulier)|ceterum(accusatif singulier)|ceterus(accusatif masculin singulier)|ceterus(nominatif neutre singulier)|ceterus(vocatif neutre singulier)|ceterus(accusatif neutre singulier)|ceterum(-)">Ceterum</w> 
-        <w lemma="totum(nominatif pluriel)|totum(vocatif pluriel)|totum(accusatif pluriel)|totus(nominatif féminin singulier)|totus(vocatif féminin singulier)|totus(ablatif féminin singulier)|totus(nominatif neutre pluriel)|totus(vocatif neutre pluriel)|totus(accusatif neutre pluriel)|totus(nominatif féminin singulier)|totus(vocatif féminin singulier)|totus(ablatif féminin singulier)|totus(nominatif neutre pluriel)|totus(vocatif neutre pluriel)|totus(accusatif neutre pluriel)">tota</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="adytum(datif pluriel)|adytum(ablatif pluriel)">adytis</w> 
-        <w lemma="diuinitas(nominatif singulier)|diuinitas(vocatif singulier)">divinitas</w>, 
-        <w lemma="totum(nominatif pluriel)|totum(vocatif pluriel)|totum(accusatif pluriel)|totus(nominatif féminin singulier)|totus(vocatif féminin singulier)|totus(ablatif féminin singulier)|totus(nominatif neutre pluriel)|totus(vocatif neutre pluriel)|totus(accusatif neutre pluriel)|totus(nominatif féminin singulier)|totus(vocatif féminin singulier)|totus(ablatif féminin singulier)|totus(nominatif neutre pluriel)|totus(vocatif neutre pluriel)|totus(accusatif neutre pluriel)">tota</w> 
-        <w lemma="suspirium(nominatif pluriel)|suspirium(vocatif pluriel)|suspirium(accusatif pluriel)">suspiria</w> 
-        <w lemma="epopta(génitif pluriel)|epoptae(génitif pluriel)|epoptes(génitif pluriel)">epoptarum</w>, 
-        <w lemma="totum(nominatif singulier)|totum(vocatif singulier)|totum(accusatif singulier)|totus(accusatif masculin singulier)|totus(nominatif neutre singulier)|totus(vocatif neutre singulier)|totus(accusatif neutre singulier)|totus(accusatif masculin singulier)|totus(nominatif neutre singulier)|totus(vocatif neutre singulier)|totus(accusatif neutre singulier)">totum</w> 
-        <w lemma="signaculum(nominatif singulier)|signaculum(vocatif singulier)|signaculum(accusatif singulier)">signaculum</w> 
-        <w lemma="lingua(génitif singulier)|lingua(datif singulier)|lingua(nominatif pluriel)|lingua(vocatif pluriel)">linguae</w>, 
-        <w lemma="simulacrum(nominatif singulier)|simulacrum(vocatif singulier)|simulacrum(accusatif singulier)">simulacrum</w> 
-        <w lemma="membrum(génitif singulier)">membri</w> 
-        <w lemma="virilis(génitif masculin singulier)|virilis(accusatif masculin pluriel)|virilis(génitif féminin singulier)|virilis(accusatif féminin pluriel)|virilis(génitif neutre singulier)|virilis(nominatif masculin singulier)|virilis(vocatif masculin singulier)|virilis(nominatif féminin singulier)|virilis(vocatif féminin singulier)">virilis</w> 
-        <w lemma="reuelo(3ème singulier indicatif présent passif)">revelatur</w>.    
+        <w lemma="ceterum2" pos="ADV" msd="Deg=Pos">Ceterum</w>
+        <w lemma="totus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">tota</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="adytum" pos="NOMcom" msd="Case=Abl|Numb=Plur">adytis</w>
+        <w lemma="diuinitas" pos="NOMcom" msd="Case=Nom|Numb=Sing">divinitas</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="totus" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Neut">tota</w>
+        <w lemma="suspirium" pos="NOMcom" msd="Case=Nom|Numb=Plur">suspiria</w>
+        <w lemma="epopta" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Fem">epoptarum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="totus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">totum</w>
+        <w lemma="signaculum" pos="NOMcom" msd="Case=Nom|Numb=Sing">signaculum</w>
+        <w lemma="lingua" pos="NOMcom" msd="Case=Gen|Numb=Sing">linguae</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="simulacrum" pos="NOMcom" msd="Case=Nom|Numb=Sing">simulacrum</w>
+        <w lemma="membrum" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #specialisation #euphemism #mentula">membri</w>
+        <w lemma="uirilis" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Com|Deg=Pos">virilis</w>
+        <w lemma="reuelo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">revelatur</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

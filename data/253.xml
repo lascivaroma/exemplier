@@ -1,48 +1,56 @@
-<div type="fragment" corresp="adams:56"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:56" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi013.perseus-lat2:7.2.2">
-        <w lemma="voluptas(nominatif singulier)|voluptas(vocatif singulier)">Voluptas</w> 
-        <w lemma="fragilis(génitif masculin singulier)|fragilis(accusatif masculin pluriel)|fragilis(génitif féminin singulier)|fragilis(accusatif féminin pluriel)|fragilis(génitif neutre singulier)|fragilis(nominatif masculin singulier)|fragilis(vocatif masculin singulier)|fragilis(nominatif féminin singulier)|fragilis(vocatif féminin singulier)">fragilis</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w>, 
-        <w lemma="breue(génitif singulier)|brevis(génitif masculin singulier)|brevis(accusatif masculin pluriel)|brevis(génitif féminin singulier)|brevis(accusatif féminin pluriel)|brevis(génitif neutre singulier)|breuis(accusatif pluriel)|breuis(génitif singulier)|breuis(accusatif pluriel)|breuis(génitif singulier)|brevis(nominatif masculin singulier)|brevis(vocatif masculin singulier)|brevis(nominatif féminin singulier)|brevis(vocatif féminin singulier)|breuis(nominatif singulier)|breuis(vocatif singulier)|breuis(nominatif singulier)|breuis(vocatif singulier)">brevis</w>, 
-        <w lemma="fastidio(1ère singulier indicatif présent actif)|fastidium(datif singulier)|fastidium(ablatif singulier)">fastidio</w> 
-        <w lemma="obicio(nominatif féminin singulier participe parfait passif)|obicio(vocatif féminin singulier participe parfait passif)|obicio(ablatif féminin singulier participe parfait passif)|obicio(nominatif neutre pluriel participe parfait passif)|obicio(vocatif neutre pluriel participe parfait passif)|obicio(accusatif neutre pluriel participe parfait passif)|objecta(nominatif pluriel)|objecta(vocatif pluriel)|objecta(accusatif pluriel)|objecto(2ème singulier impératif présent actif)|objicio(nominatif féminin singulier participe parfait passif)|objicio(vocatif féminin singulier participe parfait passif)|objicio(ablatif féminin singulier participe parfait passif)|objicio(nominatif neutre pluriel participe parfait passif)|objicio(vocatif neutre pluriel participe parfait passif)|objicio(accusatif neutre pluriel participe parfait passif)|objectus(nominatif féminin singulier)|objectus(vocatif féminin singulier)|objectus(ablatif féminin singulier)|objectus(nominatif neutre pluriel)|objectus(vocatif neutre pluriel)|objectus(accusatif neutre pluriel)">obiecta</w>, 
-        <w lemma="qui(ablatif masculin singulier)|qui(ablatif neutre singulier)|quis(ablatif masculin singulier)|quis(ablatif neutre singulier)|quo(-)">quo</w> 
-        <w lemma="auide(comparatif)|Auidius(nominatif singulier)|auidus(nominatif neutre singulier comparatif)|auidus(vocatif neutre singulier comparatif)|auidus(accusatif neutre singulier comparatif)">avidius</w> 
-        <w lemma="haurio(nominatif féminin singulier participe parfait passif)|haurio(vocatif féminin singulier participe parfait passif)|haurio(ablatif féminin singulier participe parfait passif)|haurio(nominatif neutre pluriel participe parfait passif)|haurio(vocatif neutre pluriel participe parfait passif)|haurio(accusatif neutre pluriel participe parfait passif)|haustus(nominatif féminin singulier)|haustus(vocatif féminin singulier)|haustus(ablatif féminin singulier)|haustus(nominatif neutre pluriel)|haustus(vocatif neutre pluriel)|haustus(accusatif neutre pluriel)">hausta</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
-        <w lemma="cite(comparatif)|cito(comparatif)|citus(nominatif neutre singulier comparatif)|citus(vocatif neutre singulier comparatif)|citus(accusatif neutre singulier comparatif)|Citius(nominatif singulier)">citius</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="contrarium(nominatif singulier)|contrarium(vocatif singulier)|contrarium(accusatif singulier)|contrarius(accusatif masculin singulier)|contrarius(nominatif neutre singulier)|contrarius(vocatif neutre singulier)|contrarius(accusatif neutre singulier)|contrarius(accusatif singulier)">contrarium</w> 
-        <w lemma="recido(nominatif masculin singulier participe présent actif)|recido(vocatif masculin singulier participe présent actif)|recido(nominatif féminin singulier participe présent actif)|recido(vocatif féminin singulier participe présent actif)|recido(nominatif neutre singulier participe présent actif)|recido(vocatif neutre singulier participe présent actif)|recido(accusatif neutre singulier participe présent actif)|recido(nominatif masculin singulier participe présent actif)|recido(vocatif masculin singulier participe présent actif)|recido(nominatif féminin singulier participe présent actif)|recido(vocatif féminin singulier participe présent actif)|recido(nominatif neutre singulier participe présent actif)|recido(vocatif neutre singulier participe présent actif)|recido(accusatif neutre singulier participe présent actif)">recidens</w>, 
-        <w lemma="qui(génitif masculin singulier)|qui(génitif féminin singulier)|qui(génitif neutre singulier)|quis(génitif masculin singulier)|quis(génitif féminin singulier)|quis(génitif neutre singulier)">cuius</w> 
-        <w lemma="subindo(2ème singulier impératif présent actif)|subinde(-)">subinde</w> 
-        <w lemma="necesse(-)">necesse</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
-        <w lemma="aut(-)">aut</w> 
-        <w lemma="paeniteo(3ème singulier subjonctif présent actif)">paeniteat</w> 
-        <w lemma="aut(-)">aut</w> 
-        <w lemma="pudeo(3ème singulier subjonctif présent actif)">pudeat</w>, 
-        <w lemma="in(-)">in</w> 
-        <w lemma="qui(ablatif féminin singulier)|quis(ablatif féminin singulier)|qua(-)">qua</w> 
-        <w lemma="nihil(nominatif neutre singulier)|nihil(accusatif neutre singulier)">nihil</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
-        <w lemma="magnificus(accusatif masculin singulier)|magnificus(nominatif neutre singulier)|magnificus(vocatif neutre singulier)|magnificus(accusatif neutre singulier)">magnificum</w> 
-        <w lemma="aut(-)">aut</w> 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="nascor(accusatif féminin singulier participe futur actif)|no(accusatif féminin singulier participe futur actif)|natura(accusatif singulier)">naturam</w> 
-        <w lemma="homo(génitif singulier)">hominis</w> 
-        <w lemma="deus(datif pluriel)|deus(ablatif pluriel)|Dia(datif pluriel)|Dia(ablatif pluriel)|Dion(datif pluriel)|Dion(ablatif pluriel)|Dios(datif pluriel)|Dios(ablatif pluriel)|dius(datif masculin pluriel)|dius(ablatif masculin pluriel)|dius(datif féminin pluriel)|dius(ablatif féminin pluriel)|dius(datif neutre pluriel)|dius(ablatif neutre pluriel)|Dium(datif pluriel)|Dium(ablatif pluriel)|Dius(datif pluriel)|Dius(ablatif pluriel)|dia(datif pluriel)|dia(ablatif pluriel)|dis(nominatif neutre singulier)|dis(vocatif neutre singulier)|dis(accusatif neutre singulier)|dis(nominatif masculin singulier)|dis(vocatif masculin singulier)|dis(nominatif féminin singulier)|dis(vocatif féminin singulier)|Dis(nominatif singulier)|Dis(vocatif singulier)">dis</w> 
-        <w lemma="propinquus(génitif masculin singulier superlatif)|propinquus(nominatif masculin pluriel superlatif)|propinquus(vocatif masculin pluriel superlatif)|propinquus(génitif neutre singulier superlatif)|proximum(génitif singulier)|proximus(génitif masculin singulier)|proximus(nominatif masculin pluriel)|proximus(vocatif masculin pluriel)|proximus(génitif neutre singulier)|proximi(nominatif pluriel)|proximi(vocatif pluriel)|proximus(génitif singulier)|proximus(nominatif pluriel)|proximus(vocatif pluriel)">proximi</w> 
-        <w lemma="decet(3ème singulier subjonctif présent actif)">deceat</w>, 
-        <w lemma="res(nominatif singulier)|res(vocatif singulier)|res(nominatif pluriel)|res(vocatif pluriel)|res(accusatif pluriel)">res</w> 
-        <w lemma="humilis(génitif masculin singulier)|humilis(accusatif masculin pluriel)|humilis(génitif féminin singulier)|humilis(accusatif féminin pluriel)|humilis(génitif neutre singulier)|humile(génitif singulier)|humilis(nominatif masculin singulier)|humilis(vocatif masculin singulier)|humilis(nominatif féminin singulier)|humilis(vocatif féminin singulier)">humilis</w>, 
-        <w lemma="membrum(génitif pluriel)">membrorum</w> 
-        <w lemma="turpe(génitif pluriel)|turpis(génitif masculin pluriel)|turpis(génitif féminin pluriel)|turpis(génitif neutre pluriel)">turpium</w> 
-        <w lemma="aut(-)">aut</w> 
-        <w lemma="vilis(génitif masculin pluriel)|vilis(génitif féminin pluriel)|vilis(génitif neutre pluriel)">vilium</w> 
-        <w lemma="ministerium(datif singulier)|ministerium(ablatif singulier)">ministerio</w> 
-        <w lemma="ueneo(nominatif masculin singulier participe présent actif)|ueneo(vocatif masculin singulier participe présent actif)|ueneo(nominatif féminin singulier participe présent actif)|ueneo(vocatif féminin singulier participe présent actif)|ueneo(nominatif neutre singulier participe présent actif)|ueneo(vocatif neutre singulier participe présent actif)|ueneo(accusatif neutre singulier participe présent actif)|uenio(nominatif masculin singulier participe présent actif)|uenio(vocatif masculin singulier participe présent actif)|uenio(nominatif féminin singulier participe présent actif)|uenio(vocatif féminin singulier participe présent actif)|uenio(nominatif neutre singulier participe présent actif)|uenio(vocatif neutre singulier participe présent actif)|uenio(accusatif neutre singulier participe présent actif)">veniens</w>, 
-        <w lemma="exeo(supin en -u)|exitus(ablatif singulier)">exitu</w> 
-        <w lemma="foedo(2ème singulier impératif présent actif)|foedus(nominatif féminin singulier)|foedus(vocatif féminin singulier)|foedus(ablatif féminin singulier)|foedus(nominatif neutre pluriel)|foedus(vocatif neutre pluriel)|foedus(accusatif neutre pluriel)">foeda</w>    
+        <w lemma="uoluptas" pos="NOMcom" msd="Case=Nom|Numb=Sing">Voluptas</w>
+        <w lemma="fragilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">fragilis</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="breuis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">brevis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="fastidium" pos="NOMcom" msd="Case=Dat|Numb=Sing">fastidio</w>
+        <w lemma="obicio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">obiecta</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui2" pos="ADVrel" msd="MORPH=empty">quo</w>
+        <w lemma="auide" pos="ADV" msd="Deg=Comp">avidius</w>
+        <w lemma="haurio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem">hausta</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="cito2" pos="ADV" msd="Deg=Comp">citius</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="contrarium" pos="NOMcom" msd="Case=Acc|Numb=Sing">contrarium</w>
+        <w lemma="recido1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">recidens</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
+        <w lemma="subinde" pos="ADV" msd="Deg=Pos">subinde</w>
+        <w lemma="necesse" pos="ADJqua" msd="Case=Ind|Deg=Pos">necesse</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+        <w lemma="paeniteo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">paeniteat</w>
+        <w lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+        <w lemma="pudeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">pudeat</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
+        <w lemma="nihil" pos="PROind" msd="Case=Ind">nihil</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="magnificus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">magnificum</w>
+        <w lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+        <w lemma="natura" pos="NOMcom" msd="Case=Acc|Numb=Sing">naturam</w>
+        <w lemma="homo" pos="NOMcom" msd="Case=Gen|Numb=Sing">hominis</w>
+        <w lemma="deus" pos="NOMcom" msd="Case=Dat|Numb=Plur">dis</w>
+        <w lemma="propior" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">proximi</w>
+        <w lemma="decet" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">deceat</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="res" pos="NOMcom" msd="Case=Nom|Numb=Sing">res</w>
+        <w lemma="humilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">humilis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="membrum" pos="NOMcom" msd="Case=Gen|Numb=Plur">membrorum</w>
+        <w lemma="turpis" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos" ana="#male #euphemisms #aidoion #mentula">turpium</w>
+        <w lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+        <w lemma="uilis" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos">vilium</w>
+        <w lemma="ministerium" pos="NOMcom" msd="Case=Abl|Numb=Sing">ministerio</w>
+        <w lemma="uenio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">veniens</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="exitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">exitu</w>
+        <w lemma="foedus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">foeda</w>
     </quote>
  </div>

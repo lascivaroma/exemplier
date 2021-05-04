@@ -1,11 +1,11 @@
-<div type="fragment" corresp="adams:46"  ana="#male #specialisation">
+<div  type="fragment" corresp="adams:46" ana="#male #specialisation #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.13">
-        <w lemma="tango(nominatif féminin singulier participe parfait passif)|tango(vocatif féminin singulier participe parfait passif)|tango(ablatif féminin singulier participe parfait passif)|tango(nominatif neutre pluriel participe parfait passif)|tango(vocatif neutre pluriel participe parfait passif)|tango(accusatif neutre pluriel participe parfait passif)|tactus(nominatif féminin singulier)|tactus(vocatif féminin singulier)|tactus(ablatif féminin singulier)|tactus(nominatif neutre pluriel)|tactus(vocatif neutre pluriel)|tactus(accusatif neutre pluriel)">Tacta</w> 
-        <w lemma="tamen(-)">tamen</w> 
-        <w lemma="ueluti(-)">veluti</w> 
-        <w lemma="gelidus(nominatif féminin singulier)|gelidus(vocatif féminin singulier)|gelidus(ablatif féminin singulier)|gelidus(nominatif neutre pluriel)|gelidus(vocatif neutre pluriel)|gelidus(accusatif neutre pluriel)|gelida(nominatif singulier)|gelida(vocatif singulier)|gelida(ablatif singulier)">gelida</w> 
-        <w lemma="meo(2ème singulier impératif présent actif)|meum(nominatif pluriel)|meum(vocatif pluriel)|meum(accusatif pluriel)|meus(nominatif féminin singulier)|meus(vocatif féminin singulier)|meus(ablatif féminin singulier)|meus(nominatif neutre pluriel)|meus(vocatif neutre pluriel)|meus(accusatif neutre pluriel)|Meum(nominatif pluriel)|Meum(vocatif pluriel)|Meum(accusatif pluriel)|meum(nominatif pluriel)|meum(vocatif pluriel)|meum(accusatif pluriel)">mea</w> 
-        <w lemma="membrum(nominatif pluriel)|membrum(vocatif pluriel)|membrum(accusatif pluriel)|membro(2ème singulier impératif présent actif)">membra</w> 
-        <w lemma="Cicuta(nominatif singulier)|Cicuta(vocatif singulier)|Cicuta(ablatif singulier)|cicuta(nominatif singulier)|cicuta(vocatif singulier)|cicuta(ablatif singulier)">cicuta</w>    
+        <w lemma="tango" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">Tacta</w>
+        <w lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+        <w lemma="uelut1" pos="ADVrel" msd="MORPH=empty">veluti</w>
+        <w lemma="gelidus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Fem|Deg=Pos">gelida</w>
+        <w lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Plur|Gend=Neut">mea</w>
+        <w lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #specialisation #euphemism #mentula">membra</w>
+        <w lemma="cicuta" pos="NOMcom" msd="Case=Abl|Numb=Sing">cicuta</w>
     </quote>
  </div>

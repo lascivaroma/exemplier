@@ -1,14 +1,16 @@
-<div type="fragment" corresp="adams:42"  ana="#male #contenants">
+<div  type="fragment" corresp="adams:42" ana="#male #contenants #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:68.23-68.24">
-        <w lemma="hic(nominatif masculin singulier)|hic(-)">hic</w> 
-        <w lemma="lego(1ère pluriel indicatif parfait actif)|lego(1ère pluriel indicatif présent actif)">legimus</w> 
-        <w lemma="circen(accusatif singulier)|circen(nominatif singulier)|circen(vocatif singulier)">Circen</w> 
-        <w lemma="Atlantias(accusatif singulier)">Atlantiademque</w> 
-        <w lemma="">Calypson</w>  
-        <w lemma="grandis(nominatif neutre pluriel)|grandis(vocatif neutre pluriel)|grandis(accusatif neutre pluriel)">grandia</w> 
-        <w lemma="Dulichium(génitif singulier)|Dulichius(génitif masculin singulier)|Dulichius(nominatif masculin pluriel)|Dulichius(vocatif masculin pluriel)|Dulichius(génitif neutre singulier)">Dulichii</w> 
-        <w lemma="uasa(nominatif pluriel)|uasa(vocatif pluriel)|uasa(accusatif pluriel)|uas(nominatif pluriel)|uas(vocatif pluriel)|uas(accusatif pluriel)|vasum(nominatif pluriel)|vasum(vocatif pluriel)|vasum(accusatif pluriel)">uasa</w> 
-        <w lemma="peto(infinitif parfait actif)|petisso(2ème singulier impératif présent actif)">petisse</w> 
-        <w lemma="uir(génitif singulier)|uir(nominatif pluriel)|uir(vocatif pluriel)|uirus(génitif singulier)|Uirius(vocatif singulier)|Uirius(génitif singulier)|Uirius(nominatif pluriel)|Uirius(vocatif pluriel)">uiri</w>.    
+        <w lemma="hic2" pos="ADV" msd="Deg=Pos">hic</w>
+        <w lemma="lego2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1">legimus</w>
+        <w lemma="Circe" pos="NOMpro" msd="Case=Acc|Numb=Sing">Circen</w>
+        <w lemma="Atlantides" pos="NOMpro" msd="Case=Acc|Numb=Sing">Atlantiademque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{Atlantiademque}</w>
+        <w lemma="Calypso" pos="NOMpro" msd="Case=Acc|Numb=Sing">Calypson</w>
+        <w lemma="grandis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">grandia</w>
+        <w lemma="Dulichius" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">Dulichii</w>
+        <w lemma="uas2" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #contenants #metaphore #mentula">uasa</w>
+        <w lemma="peto" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">petisse</w>
+        <w lemma="uir" pos="NOMcom" msd="Case=Gen|Numb=Sing">uiri</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

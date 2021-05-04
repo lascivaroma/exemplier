@@ -1,9 +1,10 @@
-<div type="fragment" corresp="adams:51"  ana="#male #euphemisms #voisinage">
-    <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi001.perseus-lat2:7.26"> 
-        <w lemma="invidia(nominatif singulier)|invidia(vocatif singulier)|invidia(ablatif singulier)">invidia</w> 
-        <w lemma="rumpo(3ème pluriel subjonctif présent passif)">rumpantur</w> 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="ilia(nominatif pluriel)|ilia(vocatif pluriel)|ilia(accusatif pluriel)|ile(nominatif pluriel)|ile(vocatif pluriel)|ile(accusatif pluriel)|Ilia(nominatif singulier)|Ilia(vocatif singulier)|Ilia(ablatif singulier)|Ilium(nominatif pluriel)|Ilium(vocatif pluriel)|Ilium(accusatif pluriel)|Ilius(nominatif féminin singulier)|Ilius(vocatif féminin singulier)|Ilius(ablatif féminin singulier)|Ilius(nominatif neutre pluriel)|Ilius(vocatif neutre pluriel)|Ilius(accusatif neutre pluriel)|Ilion(nominatif pluriel)|Ilion(vocatif pluriel)|Ilion(accusatif pluriel)|ilium(nominatif pluriel)|ilium(vocatif pluriel)|ilium(accusatif pluriel)">ilia</w> 
-        <w lemma="Codrus(datif singulier)|Codrus(ablatif singulier)">Codro</w>;    
+<div  type="fragment" corresp="adams:51" ana="#male #euphemisms #voisinage #mentula">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi001.perseus-lat2:7.26">
+        <w lemma="inuidia" pos="NOMcom" msd="Case=Abl|Numb=Sing">invidia</w>
+        <w lemma="rumpo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">rumpantur</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="ilia" pos="NOMcom" msd="Case=Nom|Numb=Plur" ana="#male #euphemisms #voisinage #mentula">ilia</w>
+        <w lemma="Codrus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Codro</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     </quote>
  </div>

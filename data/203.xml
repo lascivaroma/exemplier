@@ -1,9 +1,10 @@
-<div type="fragment" corresp="adams:49"  ana="#male #euphemisms #voisinage">
+<div  type="fragment" corresp="adams:49" ana="#male #euphemisms #voisinage #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:6.13">
-        <w lemma="non(-)">non</w> 
-        <w lemma="tam(-)|tam(positif)">tam</w> 
-        <w lemma="latus(nominatif pluriel)|latus(vocatif pluriel)|latus(accusatif pluriel)|latero(2ème singulier impératif présent actif)">latera</w> 
-        <w lemma="ecfutuo(nominatif féminin singulier participe parfait passif)|ecfutuo(vocatif féminin singulier participe parfait passif)|ecfutuo(ablatif féminin singulier participe parfait passif)|ecfutuo(nominatif neutre pluriel participe parfait passif)|ecfutuo(vocatif neutre pluriel participe parfait passif)|ecfutuo(accusatif neutre pluriel participe parfait passif)">ecfututa</w> 
-        <w lemma="pando(2ème singulier subjonctif présent actif)|pandus(accusatif féminin pluriel)|Panda(accusatif pluriel)|Panda(accusatif pluriel)|Pandae(accusatif pluriel)|pando(2ème singulier indicatif présent actif)">pandas</w>,    
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+        <w lemma="latus1" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #euphemisms #voisinage #mentula">latera</w>
+        <w lemma="effutuo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">ecfututa</w>
+        <w lemma="pandus" pos="VER" msd="Numb=Sing">pandas</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

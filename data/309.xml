@@ -1,15 +1,16 @@
-<div type="fragment" corresp="adams:59"  ana="#male #natura">
+<div  type="fragment" corresp="adams:59" ana="#male #natura #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:28.11">
-        <w lemma="auris(datif pluriel)|auris(ablatif pluriel)">auribus</w> 
-        <w lemma="fractus(datif masculin pluriel)|fractus(ablatif masculin pluriel)|fractus(datif féminin pluriel)|fractus(ablatif féminin pluriel)|fractus(datif neutre pluriel)|fractus(ablatif neutre pluriel)|frango(datif masculin pluriel participe parfait passif)|frango(ablatif masculin pluriel participe parfait passif)|frango(datif féminin pluriel participe parfait passif)|frango(ablatif féminin pluriel participe parfait passif)|frango(datif neutre pluriel participe parfait passif)|frango(ablatif neutre pluriel participe parfait passif)">fractis</w> 
-        <w lemma="gluten(génitif pluriel)|glutinum(nominatif singulier)|glutinum(vocatif singulier)|glutinum(accusatif singulier)">glutinum</w> 
-        <w lemma="Megisto(ablatif singulier)|e(-)">e</w> 
-        <w lemma="nascor(datif masculin pluriel participe futur actif)|nascor(ablatif masculin pluriel participe futur actif)|nascor(datif féminin pluriel participe futur actif)|nascor(ablatif féminin pluriel participe futur actif)|nascor(datif neutre pluriel participe futur actif)|nascor(ablatif neutre pluriel participe futur actif)|no(datif masculin pluriel participe futur actif)|no(ablatif masculin pluriel participe futur actif)|no(datif féminin pluriel participe futur actif)|no(ablatif féminin pluriel participe futur actif)|no(datif neutre pluriel participe futur actif)|no(ablatif neutre pluriel participe futur actif)|natura(datif pluriel)|natura(ablatif pluriel)">naturis</w> 
-        <w lemma="uitulus(génitif pluriel)|Uitulus(génitif pluriel)">vitulorum</w> 
-        <w lemma="facio(supin en -um)|factum(nominatif singulier)|factum(vocatif singulier)|factum(accusatif singulier)|factus(accusatif singulier)|fio(supin en -um)|fio(accusatif masculin singulier participe parfait passif)|fio(nominatif neutre singulier participe parfait passif)|fio(vocatif neutre singulier participe parfait passif)|fio(accusatif neutre singulier participe parfait passif)|factus(accusatif masculin singulier)|factus(nominatif neutre singulier)|factus(vocatif neutre singulier)|factus(accusatif neutre singulier)">factum</w>  
-        <w lemma="et(-)">et</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="aqua(nominatif singulier)|aqua(vocatif singulier)|aqua(ablatif singulier)">aqua</w> 
-        <w lemma="liquo(supin en -um)|liquo(accusatif masculin singulier participe parfait passif)|liquo(nominatif neutre singulier participe parfait passif)|liquo(vocatif neutre singulier participe parfait passif)|liquo(accusatif neutre singulier participe parfait passif)|liquor(supin en -um)|liquor(accusatif masculin singulier participe parfait actif)|liquor(nominatif neutre singulier participe parfait actif)|liquor(vocatif neutre singulier participe parfait actif)|liquor(accusatif neutre singulier participe parfait actif)|liquatus(accusatif masculin singulier)|liquatus(nominatif neutre singulier)|liquatus(vocatif neutre singulier)|liquatus(accusatif neutre singulier)">liquatum</w>;    
+        <w lemma="auris" pos="NOMcom" msd="Case=Abl|Numb=Plur">auribus</w>
+        <w lemma="frango" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">fractis</w>
+        <w lemma="glutinus" pos="NOMcom" msd="Case=Nom|Numb=Sing">glutinum</w>
+        <w lemma="ex" pos="PRE" msd="MORPH=empty">e</w>
+        <w lemma="natura" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#male #natura #euphemism #mentula">naturis</w>
+        <w lemma="uitulus" pos="NOMcom" msd="Case=Gen|Numb=Plur">vitulorum</w>
+        <w lemma="facio" pos="VER" msd="Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">factum</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="aqua" pos="NOMcom" msd="Case=Abl|Numb=Sing">aqua</w>
+        <w lemma="liquo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">liquatum</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     </quote>
  </div>

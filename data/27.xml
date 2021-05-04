@@ -1,28 +1,33 @@
-<div type="fragment" corresp="adams:30"  ana="#male #personnification">
+<div  type="fragment" corresp="adams:30" ana="#male #personnification">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat1:129.1">
-        <w lemma="Encolpius(nominatif singulier)">Encolpius</w> 
-        <w lemma="ad(-)">ad</w> 
-        <w lemma="">Gitonem</w> '
-        <w lemma="credo(2ème singulier impératif présent actif)">crede</w> 
-        <w lemma="ego(datif masculin singulier)|ego(datif féminin singulier)">mihi</w>, 
-        <w lemma="frater(nominatif singulier)|frater(vocatif singulier)">frater</w>, 
-        <w lemma="non(-)">non</w>
-
-        <w lemma="intellego(1ère singulier indicatif présent actif)">intellego</w> 
-        <w lemma="ego(accusatif masculin singulier)|ego(ablatif masculin singulier)|ego(accusatif féminin singulier)|ego(ablatif féminin singulier)">me</w> 
-        <w lemma="uir(accusatif singulier)">virum</w> 
-        <w lemma="esse(infinitif présent actif)|sum(infinitif présent actif)">esse</w>, 
-        <w lemma="non(-)">non</w> 
-        <w lemma="sentio(1ère singulier indicatif présent actif)|Sentius(datif singulier)|Sentius(ablatif singulier)">sentio</w>. 
-        <w lemma="funero(nominatif féminin singulier participe parfait passif)|funero(vocatif féminin singulier participe parfait passif)|funero(ablatif féminin singulier participe parfait passif)|funero(nominatif neutre pluriel participe parfait passif)|funero(vocatif neutre pluriel participe parfait passif)|funero(accusatif neutre pluriel participe parfait passif)|funeratus(nominatif féminin singulier)|funeratus(vocatif féminin singulier)|funeratus(ablatif féminin singulier)|funeratus(nominatif neutre pluriel)|funeratus(vocatif neutre pluriel)|funeratus(accusatif neutre pluriel)|funeror(nominatif féminin singulier participe parfait actif)|funeror(vocatif féminin singulier participe parfait actif)|funeror(ablatif féminin singulier participe parfait actif)|funeror(nominatif neutre pluriel participe parfait actif)|funeror(vocatif neutre pluriel participe parfait actif)|funeror(accusatif neutre pluriel participe parfait actif)">funerata</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
-        <w lemma="ille(nominatif féminin singulier)|ille(ablatif féminin singulier)|ille(nominatif neutre pluriel)|ille(accusatif neutre pluriel)|illa(-)">illa</w> 	
-
-        <w lemma="pars(nominatif singulier)|pars(vocatif singulier)">pars</w> 
-        <w lemma="corpus(génitif singulier)">corporis</w>, 
-        <w lemma="qui(ablatif féminin singulier)|quis(ablatif féminin singulier)|qua(-)">qua</w> 
-        <w lemma="quondam(-)">quondam</w> 
-        <w lemma="Achilles(accusatif pluriel)|Achilles(nominatif pluriel)|Achilles(vocatif pluriel)|Achilles(nominatif singulier)|Achilles(vocatif singulier)">Achilles</w> 
-        <w lemma="obverto(1ère singulier indicatif PQP actif)|sum(1ère singulier indicatif imparfait actif)|era(accusatif singulier)|era(accusatif singulier)">eram</w>'    
+        <w lemma="Encolpius" pos="NOMpro" msd="Case=Nom|Numb=Sing">Encolpius</w>
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+        <w lemma="Giton" pos="NOMpro" msd="Case=Acc|Numb=Sing">Gitonem</w>
+        <w lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+        <w lemma="credo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">crede</w>
+        <w lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="frater" pos="NOMcom" msd="Case=Voc|Numb=Sing">frater</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="intelligo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">intellego</w>
+        <w lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+        <w lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Sing">virum</w>
+        <w lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="sentio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">sentio</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+        <w lemma="funero" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem" ana="#male #personnification">funerata</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #personnification">pars</w>
+        <w lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #personnification">corporis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
+        <w lemma="quondam" pos="ADV" msd="Deg=Pos">quondam</w>
+        <w lemma="Achilles" pos="NOMpro" msd="Case=Nom|Numb=Sing">Achilles</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=1">eram</w>
+        <w lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
     </quote>
  </div>

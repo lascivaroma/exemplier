@@ -1,16 +1,19 @@
-<div type="fragment" corresp="adams:55"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:55" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:2.617-2.618">
-        <w lemma="convenio(3ème pluriel indicatif présent actif)">Conveniunt</w> 
-        <w lemma="thalamus(génitif singulier)|thalamus(nominatif pluriel)|thalamus(vocatif pluriel)">thalami</w> 
-        <w lemma="furtum(datif pluriel)|furtum(ablatif pluriel)">furtis</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="ianua(nominatif singulier)|ianua(vocatif singulier)|ianua(ablatif singulier)">ianua</w> 
-        <w lemma="noster(datif masculin pluriel)|noster(ablatif masculin pluriel)|noster(datif féminin pluriel)|noster(ablatif féminin pluriel)|noster(datif neutre pluriel)|noster(ablatif neutre pluriel)">nostris</w>, 
-        <w lemma="pars(nominatif singulier)|pars(vocatif singulier)">Parsque</w> 
-        <w lemma="sub(-)">sub</w> 
-        <w lemma="inicio(nominatif féminin singulier participe parfait passif)|inicio(vocatif féminin singulier participe parfait passif)|inicio(ablatif féminin singulier participe parfait passif)|inicio(nominatif neutre pluriel participe parfait passif)|inicio(vocatif neutre pluriel participe parfait passif)|inicio(accusatif neutre pluriel participe parfait passif)|injicio(nominatif féminin singulier participe parfait passif)|injicio(vocatif féminin singulier participe parfait passif)|injicio(ablatif féminin singulier participe parfait passif)|injicio(nominatif neutre pluriel participe parfait passif)|injicio(vocatif neutre pluriel participe parfait passif)|injicio(accusatif neutre pluriel participe parfait passif)|injecto(2ème singulier impératif présent actif)|injectus(nominatif féminin singulier)|injectus(vocatif féminin singulier)|injectus(ablatif féminin singulier)|injectus(nominatif neutre pluriel)|injectus(vocatif neutre pluriel)|injectus(accusatif neutre pluriel)">iniecta</w> 
-        <w lemma="vestis(ablatif singulier)">veste</w> 
-        <w lemma="pudeo(nominatif féminin singulier adjectif verbal)|pudeo(vocatif féminin singulier adjectif verbal)|pudeo(ablatif féminin singulier adjectif verbal)|pudeo(nominatif neutre pluriel adjectif verbal)|pudeo(vocatif neutre pluriel adjectif verbal)|pudeo(accusatif neutre pluriel adjectif verbal)|pudenda(nominatif pluriel)|pudenda(vocatif pluriel)|pudenda(accusatif pluriel)|pudendus(nominatif féminin singulier)|pudendus(vocatif féminin singulier)|pudendus(ablatif féminin singulier)|pudendus(nominatif neutre pluriel)|pudendus(vocatif neutre pluriel)|pudendus(accusatif neutre pluriel)">pudenda</w> 
-        <w lemma="lateo(3ème singulier indicatif présent actif)">latet</w>:    
+        <w lemma="conuenio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Conveniunt</w>
+        <w lemma="thalamus" pos="NOMcom" msd="Case=Nom|Numb=Sing">thalami</w>
+        <w lemma="furtum" pos="NOMcom" msd="Case=Abl|Numb=Plur">furtis</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="ianua" pos="NOMcom" msd="Case=Nom|Numb=Sing">ianua</w>
+        <w lemma="noster" pos="PROpos" msd="Case=Dat|Numb=Plur|Gend=Com">nostris</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing">Parsque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{Parsque}</w>
+        <w lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+        <w lemma="inicio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">iniecta</w>
+        <w lemma="uestis" pos="NOMcom" msd="Case=Abl|Numb=Sing">veste</w>
+        <w lemma="pudendus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" ana="#male #euphemisms #aidoion">pudenda</w>
+        <w lemma="lateo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">latet</w>
+        <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     </quote>
  </div>

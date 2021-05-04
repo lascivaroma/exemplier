@@ -1,11 +1,10 @@
-<div type="fragment" corresp="adams:58"  ana="#male #descriptive-functional">
+<div  type="fragment" corresp="adams:58" ana="#male #descriptive-functional #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:3.176">
-        <w lemma="sequor(3ème singulier indicatif présent actif)|sequo(3ème singulier indicatif présent passif)">Sequitur</w> 
-        <w lemma="autem(-)">autem</w>
-            
-        <w lemma="aegroto(nominatif masculin pluriel participe présent actif)|aegroto(vocatif masculin pluriel participe présent actif)|aegroto(accusatif masculin pluriel participe présent actif)|aegroto(nominatif féminin pluriel participe présent actif)|aegroto(vocatif féminin pluriel participe présent actif)|aegroto(accusatif féminin pluriel participe présent actif)">aegrotantes</w> 
-        <w lemma="vehemens(nominatif masculin singulier)|vehemens(vocatif masculin singulier)|vehemens(nominatif féminin singulier)|vehemens(vocatif féminin singulier)">uehemens</w> 
-        <w lemma="genitale(génitif pluriel)|Genitalis(génitif pluriel)|genitalis(génitif masculin pluriel)|genitalis(génitif féminin pluriel)|genitalis(génitif neutre pluriel)">genitalium</w> 
-        <w lemma="tentigo(nominatif singulier)|tentigo(vocatif singulier)">tentigo</w>    
+        <w lemma="sequor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">Sequitur</w>
+        <w lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+        <w lemma="aegroto" pos="VER" msd="Case=Acc|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">aegrotantes</w>
+        <w lemma="uehemens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">uehemens</w>
+        <w lemma="genitalis" pos="NOMcom" msd="Case=Gen|Numb=Plur" ana="#male #descriptive-functional">genitalium</w>
+        <w lemma="tentigo" pos="NOMcom" msd="Case=Nom|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act">tentigo</w>
     </quote>
  </div>

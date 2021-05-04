@@ -1,10 +1,10 @@
-<div type="fragment" corresp="adams:58"  ana="#male #descriptive-functional">
+<div  type="fragment" corresp="adams:58" ana="#male #descriptive-functional #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1:33.49">
-        <w lemma="nascor(nominatif féminin singulier participe futur actif)|nascor(vocatif féminin singulier participe futur actif)|nascor(ablatif féminin singulier participe futur actif)|nascor(nominatif neutre pluriel participe futur actif)|nascor(vocatif neutre pluriel participe futur actif)|nascor(accusatif neutre pluriel participe futur actif)|no(nominatif féminin singulier participe futur actif)|no(vocatif féminin singulier participe futur actif)|no(ablatif féminin singulier participe futur actif)|no(nominatif neutre pluriel participe futur actif)|no(vocatif neutre pluriel participe futur actif)|no(accusatif neutre pluriel participe futur actif)|natura(nominatif singulier)|natura(vocatif singulier)|natura(ablatif singulier)">Natura</w> 
-        <w lemma="genitale(génitif singulier)|Genitalis(accusatif pluriel)|Genitalis(génitif singulier)|genitalis(génitif masculin singulier)|genitalis(accusatif masculin pluriel)|genitalis(génitif féminin singulier)|genitalis(accusatif féminin pluriel)|genitalis(génitif neutre singulier)|Genitalis(nominatif singulier)|Genitalis(vocatif singulier)|genitalis(nominatif masculin singulier)|genitalis(vocatif masculin singulier)|genitalis(nominatif féminin singulier)|genitalis(vocatif féminin singulier)">genitalis</w> 
-        <w lemma="magnus(nominatif masculin singulier comparatif)|magnus(vocatif masculin singulier comparatif)|magnus(nominatif féminin singulier comparatif)|magnus(vocatif féminin singulier comparatif)">maior</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="solidus(nominatif masculin singulier comparatif)|solidus(vocatif masculin singulier comparatif)|solidus(nominatif féminin singulier comparatif)|solidus(vocatif féminin singulier comparatif)">solidior</w> 
-        <w lemma="uideo(3ème singulier indicatif futur passif)|videor(3ème singulier indicatif futur actif)">uidebitur</w>    
+        <w lemma="natura" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #descriptive-functional #euphemism #mentula">Natura</w>
+        <w lemma="genitalis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos" ana="#male #descriptive-functional #euphemism #mentula">genitalis</w>
+        <w lemma="magnus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">maior</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="solidus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">solidior</w>
+        <w lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">uidebitur</w>
     </quote>
  </div>

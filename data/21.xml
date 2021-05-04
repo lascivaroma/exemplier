@@ -1,10 +1,11 @@
-<div type="fragment" corresp="adams:30"  ana="#male #personnification">
+<div  type="fragment" corresp="adams:30" ana="#male #personnification">
     <quote xml:lang="lat" source="Hist Apoll Try 34">
-        <w lemma="non(-)">non</w> 
-        <w lemma="possum(3ème singulier indicatif présent actif)|potis(nominatif neutre singulier)|potis(vocatif neutre singulier)|potis(accusatif neutre singulier)|poto(vocatif masculin singulier participe parfait passif)|potus(vocatif masculin singulier)|pote(-)">potest</w> 
-        <w lemma="bonus(nominatif neutre singulier comparatif)|bonus(vocatif neutre singulier comparatif)|bonus(accusatif neutre singulier comparatif)|Melius(vocatif masculin singulier)|Melius(nominatif masculin singulier)|Melius(nominatif singulier)">melius</w>: 
-        <w lemma="usque(-)">usque</w> 
-        <w lemma="ad(-)">ad</w> 
-        <w lemma="lacrima(accusatif pluriel)|lacrimo(2ème singulier indicatif présent actif)">lacrimas</w>    
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">potest</w>
+        <w lemma="bene" pos="ADV" msd="Case=Nom|Gend=Neut|Deg=Comp">melius</w>
+        <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+        <w lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty" ana="#male #personnification">ad</w>
+        <w lemma="lacrima" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #personnification">lacrimas</w>
     </quote>
  </div>

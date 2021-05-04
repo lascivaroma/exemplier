@@ -1,12 +1,13 @@
-<div type="fragment" corresp="adams:48"  ana="#male #euphemisms #voisinage #copulation">
+<div  type="fragment" corresp="adams:48" ana="#male #euphemisms #voisinage #copulation">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:5.78.27-5.78.28">
-        <w lemma="vibro(3ème pluriel indicatif futur actif)">Vibrabunt</w> 
-        <w lemma="Sinis(ablatif singulier)|sino(2ème singulier impératif présent actif)|sinus(vocatif singulier)|sine(-)|sion(génitif singulier)|si(-)">sine</w> 
-        <w lemma="finis(ablatif singulier)|fio(2ème singulier impératif présent actif)|fi(-)">fine</w> 
-        <w lemma="prurio(nominatif masculin pluriel participe présent actif)|prurio(vocatif masculin pluriel participe présent actif)|prurio(accusatif masculin pluriel participe présent actif)|prurio(nominatif féminin pluriel participe présent actif)|prurio(vocatif féminin pluriel participe présent actif)|prurio(accusatif féminin pluriel participe présent actif)">prurientes</w>  
-        <w lemma="lascivus(accusatif masculin pluriel)">Lascivos</w> 
-        <w lemma="docilis(datif masculin singulier)|docilis(ablatif masculin singulier)|docilis(datif féminin singulier)|docilis(ablatif féminin singulier)|docilis(datif neutre singulier)|docilis(ablatif neutre singulier)">docili</w> 
-        <w lemma="tremor(ablatif singulier)">tremore</w> 
-        <w lemma="lumbus(accusatif pluriel)">lumbos</w>;     
+        <w lemma="uibro" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3">Vibrabunt</w>
+        <w lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+        <w lemma="finis" pos="NOMcom" msd="Case=Abl|Numb=Sing">fine</w>
+        <w lemma="prurio" pos="VER" msd="Case=Acc|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">prurientes</w>
+        <w lemma="lasciuus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc">Lascivos</w>
+        <w lemma="docilis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">docili</w>
+        <w lemma="tremor" pos="NOMcom" msd="Case=Abl|Numb=Sing">tremore</w>
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #euphemisms #voisinage #copulation">lumbos</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     </quote>
  </div>

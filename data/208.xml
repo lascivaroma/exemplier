@@ -1,10 +1,14 @@
-<div type="fragment" corresp="adams:49"  ana="#male #euphemisms #voisinage">
+<div  type="fragment" corresp="adams:49" ana="#male #euphemisms #voisinage #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.97.4">
-        <w lemma="rumpo(2ème singulier indicatif présent actif)|rumpus(datif pluriel)|rumpus(ablatif pluriel)|rumpia(datif pluriel)|rumpia(ablatif pluriel)">Rumpis</w>, 
-        <w lemma="Bassus(vocatif singulier)|bassus(vocatif masculin singulier)">Basse</w>, 
-        <w lemma="fero(nominatif masculin singulier participe parfait passif)|Lato(génitif singulier)|latus(nominatif masculin singulier)|latus(accusatif singulier)|latus(nominatif singulier)|latus(vocatif singulier)">latus</w>, 
-        <w lemma="sed(-)|sed(-)">sed</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="como(2ème pluriel indicatif présent actif)|como(2ème pluriel subjonctif présent actif)|Comata(datif pluriel)|Comata(ablatif pluriel)|comatus(datif masculin pluriel)|comatus(ablatif masculin pluriel)|comatus(datif féminin pluriel)|comatus(ablatif féminin pluriel)|comatus(datif neutre pluriel)|comatus(ablatif neutre pluriel)|como(datif masculin pluriel participe parfait passif)|como(ablatif masculin pluriel participe parfait passif)|como(datif féminin pluriel participe parfait passif)|como(ablatif féminin pluriel participe parfait passif)|como(datif neutre pluriel participe parfait passif)|como(ablatif neutre pluriel participe parfait passif)|Comatius(datif pluriel)|Comatius(ablatif pluriel)">comatis</w>,     
+        <w lemma="rumpo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">Rumpis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="Bassus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Basse</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="latus1" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #voisinage #mentula">latus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="comatus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">comatis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

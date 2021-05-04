@@ -1,8 +1,8 @@
-<div type="fragment" corresp="adams:50"  ana="#male #euphemisms #voisinage #cuisine">
+<div  type="fragment" corresp="adams:50" ana="#male #euphemisms #voisinage #cuisine  #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001:76.1">
-        <w lemma="ecce(-)">ecce</w> 
-        <w lemma="capio(1ère singulier indicatif parfait actif)|Cepi(nominatif pluriel)|Cepi(vocatif pluriel)|Cepis(datif singulier)|cepe(ablatif singulier)|cepe(datif singulier)">cepi</w> 
-        <w lemma="ipsimus(génitif singulier)|ipsimus(nominatif pluriel)|ipsimus(vocatif pluriel)">ipsimi</w> 
-        <w lemma="cerebellum(nominatif singulier)|cerebellum(vocatif singulier)|cerebellum(accusatif singulier)">cerebellum</w>    
+        <w lemma="ecce" pos="INJ" msd="MORPH=empty">ecce</w>
+        <w lemma="capio2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">cepi</w>
+        <w lemma="ipse" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Masc|Deg=Sup">ipsimi</w>
+        <w lemma="cerebellum" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #euphemisms #voisinage #cuisine  #mentula">cerebellum</w>
     </quote>
  </div>

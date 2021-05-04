@@ -1,17 +1,20 @@
-<div type="fragment" corresp="adams:58"  ana="#male #descriptive-functional">
+<div  type="fragment" corresp="adams:58" ana="#female #descriptive-functional #euphemism #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:4.1">
-        <w lemma="in(-)">in</w> 
-        <w lemma="femen(génitif singulier)|femina(datif pluriel)|femina(ablatif pluriel)">feminis</w> 
-        <w lemma="supo(1ère singulier subjonctif présent passif)|supo(1ère singulier subjonctif présent passif)|super(nominatif masculin singulier)|super(vocatif masculin singulier)|super(-)">super</w> 
-        <w lemma="genitale(nominatif singulier)|genitale(vocatif singulier)|genitale(accusatif singulier)|Genitalis(ablatif singulier)|genitalis(nominatif neutre singulier)|genitalis(vocatif neutre singulier)|genitalis(accusatif neutre singulier)">genitale</w> 
-        <w lemma="is(génitif féminin pluriel)|Eus(génitif féminin pluriel)">earum</w> 
-        <w lemma="sino(nominatif féminin singulier participe parfait passif)|sino(vocatif féminin singulier participe parfait passif)|sino(ablatif féminin singulier participe parfait passif)|sino(nominatif neutre pluriel participe parfait passif)|sino(vocatif neutre pluriel participe parfait passif)|sino(accusatif neutre pluriel participe parfait passif)|situs(nominatif féminin singulier)|situs(vocatif féminin singulier)|situs(ablatif féminin singulier)|situs(nominatif neutre pluriel)|situs(vocatif neutre pluriel)|situs(accusatif neutre pluriel)">sita</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w>, 
-        <w lemma="supra(-)">supraque</w> 
-        <w lemma="elabor(nominatif féminin singulier participe parfait actif)|elabor(vocatif féminin singulier participe parfait actif)|elabor(ablatif féminin singulier participe parfait actif)|elabor(nominatif neutre pluriel participe parfait actif)|elabor(vocatif neutre pluriel participe parfait actif)|elabor(accusatif neutre pluriel participe parfait actif)|elapsus(nominatif féminin singulier)|elapsus(vocatif féminin singulier)|elapsus(ablatif féminin singulier)|elapsus(nominatif neutre pluriel)|elapsus(vocatif neutre pluriel)|elapsus(accusatif neutre pluriel)">elapsa</w> 
-        <w lemma="a(-)">ab</w> 
-        <w lemma="ipse(nominatif féminin singulier)|ipse(ablatif féminin singulier)|ipse(nominatif neutre pluriel)|ipse(accusatif neutre pluriel)">ipsa</w> 
-        <w lemma="vulva(nominatif singulier)|vulva(vocatif singulier)|vulva(ablatif singulier)">vulva</w> 
-        <w lemma="sustineo(3ème singulier indicatif présent passif)">sustinetur</w>.    
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Plur">feminis</w>
+        <w lemma="super2" pos="PRE" msd="MORPH=empty">super</w>
+        <w lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos" ana="#male #descriptive-functional">genitale</w>
+        <w lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=Fem">earum</w>
+        <w lemma="situs2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">sita</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="supra" pos="ADV" msd="MORPH=empty">supraque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{supraque}</w>
+        <w lemma="elabor2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">elapsa</w>
+        <w lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+        <w lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">ipsa</w>
+        <w lemma="uulua" pos="NOMcom" msd="Case=Nom|Numb=Sing">vulva</w>
+        <w lemma="sustineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">sustinetur</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

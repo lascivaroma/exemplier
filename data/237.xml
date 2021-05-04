@@ -1,20 +1,26 @@
-<div type="fragment" corresp="adams:54"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:54" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1318.phi001.perseus-lat1:3.14.2">
-        <w lemma="alius(génitif masculin singulier)|alius(génitif féminin singulier)|alius(génitif neutre singulier)|alius(nominatif masculin singulier)|Alius(nominatif masculin singulier)|Alius(nominatif singulier)">Alius</w> 
-        <w lemma="fauces(accusatif pluriel)|fauces(nominatif pluriel)|fauces(vocatif pluriel)|faux(accusatif pluriel)|faux(nominatif pluriel)|faux(vocatif pluriel)">fauces</w> 
-        <w lemma="invado(3ème singulier indicatif présent actif)">invadit</w>, 
-        <w lemma="alius(génitif masculin singulier)|alius(génitif féminin singulier)|alius(génitif neutre singulier)|alius(nominatif masculin singulier)|Alius(nominatif masculin singulier)|Alius(nominatif singulier)">alius</w> 
-        <w lemma="os(accusatif singulier)|os(nominatif singulier)|os(vocatif singulier)|os(accusatif singulier)|os(nominatif singulier)|os(vocatif singulier)">os</w> 
-        <w lemma="verbero(3ème singulier indicatif présent actif)">verberat</w>, 
-        <w lemma="alius(génitif masculin singulier)|alius(génitif féminin singulier)|alius(génitif neutre singulier)|alius(nominatif masculin singulier)|Alius(nominatif masculin singulier)|Alius(nominatif singulier)">alius</w> 
-        <w lemma="pectus(accusatif singulier)|pectus(nominatif singulier)|pectus(vocatif singulier)">pectus</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="venter(accusatif singulier)">ventrem</w>, 
-        <w lemma="atque(-)|at(-)">atque</w> 
-        <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiam</w> - 
-        <w lemma="foedus(accusatif masculin singulier)|foedus(nominatif neutre singulier)|foedus(vocatif neutre singulier)|foedus(accusatif neutre singulier)|foedus(accusatif singulier)">foedum</w> 
-        <w lemma="dico(supin en -u)|dictus(ablatif singulier)|dictu(-)">dictu</w> - 
-        <w lemma="verendum(nominatif pluriel)|verendum(vocatif pluriel)|verendum(accusatif pluriel)|verendus(nominatif féminin singulier)|verendus(vocatif féminin singulier)|verendus(ablatif féminin singulier)|verendus(nominatif neutre pluriel)|verendus(vocatif neutre pluriel)|verendus(accusatif neutre pluriel)">verenda</w> 
-        <w lemma="contundo(3ème singulier indicatif présent actif)">contundit</w>;     
+        <w lemma="alius" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">Alius</w>
+        <w lemma="faux" pos="NOMcom" msd="Case=Acc|Numb=Plur">fauces</w>
+        <w lemma="inuado2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">invadit</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="alius" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">alius</w>
+        <w lemma="os1" pos="NOMcom" msd="Case=Acc|Numb=Sing">os</w>
+        <w lemma="uerbero2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">verberat</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="alius" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">alius</w>
+        <w lemma="pectus" pos="NOMcom" msd="Case=Acc|Numb=Sing">pectus</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="uenter" pos="NOMcom" msd="Case=Acc|Numb=Sing">ventrem</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+        <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+        <w lemma="-" pos="PUNC" msd="MORPH=empty">-</w>
+        <w lemma="foedus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">foedum</w>
+        <w lemma="dico2" pos="VER" msd="Mood=SupUm|Voice=Act">dictu</w>
+        <w lemma="-" pos="PUNC" msd="MORPH=empty">-</w>
+        <w lemma="uerenda" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem" ana="#male #euphemisms #aidoion #mentula">verenda</w>
+        <w lemma="contundo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">contundit</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     </quote>
  </div>

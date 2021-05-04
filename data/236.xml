@@ -1,15 +1,16 @@
-<div type="fragment" corresp="adams:53"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:53" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:5.89">
-        <w lemma="Sinis(ablatif singulier)|sino(2ème singulier impératif présent actif)|sinus(vocatif singulier)|sine(-)|sion(génitif singulier)|si(-)">Sine</w> 
-        <w lemma="ullus(ablatif masculin singulier)|ullus(ablatif neutre singulier)">ullo</w> 
-        <w lemma="dolor(ablatif singulier)">dolore</w> 
-        <w lemma="uel(-)">uel</w> 
-        <w lemma="consensus(ablatif singulier)|consentio(supin en -u)">consensu</w> 
-        <w lemma="tentigo(nominatif singulier)|tentigo(vocatif singulier)">tentigo</w> 
-        <w lemma="ueretrum(génitif singulier)">ueretri</w> 
-        <w lemma="fio(3ème singulier indicatif futur actif)">fiet</w>, 
-        <w lemma="et(-)">et</w> 
-        <w lemma="appello(3ème singulier indicatif présent passif)|appello(3ème singulier subjonctif présent passif)">appellatur</w> 
-        <w lemma="priapismos(nominatif singulier)|priapismos(accusatif pluriel)">priapismos</w>    
+        <w lemma="sine" pos="PRE" msd="MORPH=empty">Sine</w>
+        <w lemma="ullus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">ullo</w>
+        <w lemma="dolor" pos="NOMcom" msd="Case=Abl|Numb=Sing">dolore</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+        <w lemma="consensus" pos="NOMcom" msd="Case=Abl|Numb=Sing">consensu</w>
+        <w lemma="tentigo" pos="VER" msd="Case=Nom|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act">tentigo</w>
+        <w lemma="ueretrum" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #euphemisms #aidoion #mentula">ueretri</w>
+        <w lemma="fio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">fiet</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="appello1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">appellatur</w>
+        <w lemma="priapismus" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Masc">priapismos</w>
     </quote>
  </div>

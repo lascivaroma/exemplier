@@ -1,8 +1,10 @@
-<div type="fragment" corresp="adams:48"  ana="#male #euphemisms #voisinage #copulation #desir #castration">
+<div  type="fragment" corresp="adams:48" ana="#male #euphemisms #voisinage #copulation #desir #castration">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:10.4.2">
-        <w lemma="alium(nominatif singulier)|alium(vocatif singulier)|alium(accusatif singulier)|alius(accusatif masculin singulier)|Alius(accusatif masculin singulier)|Alius(nominatif neutre singulier)|Alius(vocatif neutre singulier)|Alius(accusatif neutre singulier)|Alius(accusatif singulier)">alium</w> 
-        <w lemma="distorqueo(3ème singulier indicatif présent actif)">distorquet</w>, 
-        <w lemma="alium(nominatif singulier)|alium(vocatif singulier)|alium(accusatif singulier)|alius(accusatif masculin singulier)|Alius(accusatif masculin singulier)|Alius(nominatif neutre singulier)|Alius(vocatif neutre singulier)|Alius(accusatif neutre singulier)|Alius(accusatif singulier)">alium</w> 
-        <w lemma="delumbo(3ème singulier indicatif présent actif)">delumbat</w>,     
+        <w lemma="alius" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Masc">alium</w>
+        <w lemma="distorqueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">distorquet</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="alius" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Masc">alium</w>
+        <w lemma="delumbo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3" ana="#male #euphemisms #voisinage #copulation #desir #castration">delumbat</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

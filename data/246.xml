@@ -1,12 +1,12 @@
-<div type="fragment" corresp="adams:54"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:54" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0159.stoa004.thayer-lat1:19.33">
-        <w lemma="cinctus(ablatif singulier)|cingo(supin en -u)">Cinctu</w> 
-        <w lemma="autem(-)">autem</w> 
-        <w lemma="iuuenis(nominatif masculin pluriel)|iuuenis(vocatif masculin pluriel)|iuuenis(accusatif masculin pluriel)|iuuenis(nominatif féminin pluriel)|iuuenis(vocatif féminin pluriel)|iuuenis(accusatif féminin pluriel)|juvenis(nominatif pluriel)|juvenis(vocatif pluriel)|juvenis(accusatif pluriel)">iuvenes</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="exercitatio(ablatif singulier)|exercitatio(nominatif singulier)|exercitatio(vocatif singulier)">exercitatione</w> 
-        <w lemma="campester(datif masculin singulier)|campester(ablatif masculin singulier)|campester(datif féminin singulier)|campester(ablatif féminin singulier)|campester(datif neutre singulier)|campester(ablatif neutre singulier)|campestre(ablatif singulier)|campestre(datif singulier)|campestris(datif masculin singulier)|campestris(ablatif masculin singulier)|campestris(datif féminin singulier)|campestris(ablatif féminin singulier)|campestris(datif neutre singulier)|campestris(ablatif neutre singulier)">campestri</w> 
-        <w lemma="verecundus(nominatif féminin singulier)|verecundus(vocatif féminin singulier)|verecundus(ablatif féminin singulier)|verecundus(nominatif neutre pluriel)|verecundus(vocatif neutre pluriel)|verecundus(accusatif neutre pluriel)|Verecunda(nominatif singulier)|Verecunda(vocatif singulier)|Verecunda(ablatif singulier)">verecunda</w> 
-        <w lemma="uelo(3ème pluriel indicatif imparfait actif)">velabant</w>    
+        <w lemma="cinctus" pos="NOMcom" msd="Case=Abl|Numb=Sing">Cinctu</w>
+        <w lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+        <w lemma="iuuenis1" pos="NOMcom" msd="Case=Nom|Numb=Plur">iuvenes</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="exercitatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">exercitatione</w>
+        <w lemma="campester" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">campestri</w>
+        <w lemma="uerecundus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos" ana="#male #euphemisms #aidoion">verecunda</w>
+        <w lemma="uelo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3">velabant</w>
     </quote>
  </div>

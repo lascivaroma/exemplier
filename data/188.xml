@@ -1,14 +1,15 @@
-<div type="fragment" corresp="adams:48"  ana="#male #euphemisms #voisinage #copulation">
+<div  type="fragment" corresp="adams:48" ana="#male #euphemisms #voisinage #copulation">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:4.1266-4.1267">
-        <w lemma="quia(-)">quia</w> 
-        <w lemma="sic(-)">sic</w> 
-        <w lemma="loco(2ème singulier impératif présent actif)|locum(nominatif pluriel)|locum(vocatif pluriel)|locum(accusatif pluriel)|loca(nominatif pluriel)|loca(vocatif pluriel)|loca(accusatif pluriel)">loca</w> 
-        <w lemma="sumo(infinitif présent actif)|sumo(2ème singulier indicatif présent passif)|sumo(2ème singulier indicatif futur passif)|sumo(2ème singulier impératif présent passif)">sumere</w> 
-        <w lemma="possum(3ème pluriel indicatif présent actif)">possunt</w> 
-        <w lemma="pectus(datif pluriel)|pectus(ablatif pluriel)">pectoribus</w> 
-        <w lemma="pono(datif masculin pluriel participe parfait passif)|pono(ablatif masculin pluriel participe parfait passif)|pono(datif féminin pluriel participe parfait passif)|pono(ablatif féminin pluriel participe parfait passif)|pono(datif neutre pluriel participe parfait passif)|pono(ablatif neutre pluriel participe parfait passif)|positus(datif masculin pluriel)|positus(ablatif masculin pluriel)|positus(datif féminin pluriel)|positus(ablatif féminin pluriel)|positus(datif neutre pluriel)|positus(ablatif neutre pluriel)">positis</w> 
-        <w lemma="sublatus(datif masculin pluriel)|sublatus(ablatif masculin pluriel)|sublatus(datif féminin pluriel)|sublatus(ablatif féminin pluriel)|sublatus(datif neutre pluriel)|sublatus(ablatif neutre pluriel)|suffero(datif masculin pluriel participe parfait passif)|suffero(ablatif masculin pluriel participe parfait passif)|suffero(datif féminin pluriel participe parfait passif)|suffero(ablatif féminin pluriel participe parfait passif)|suffero(datif neutre pluriel participe parfait passif)|suffero(ablatif neutre pluriel participe parfait passif)|tollo(datif masculin pluriel participe parfait passif)|tollo(ablatif masculin pluriel participe parfait passif)|tollo(datif féminin pluriel participe parfait passif)|tollo(ablatif féminin pluriel participe parfait passif)|tollo(datif neutre pluriel participe parfait passif)|tollo(ablatif neutre pluriel participe parfait passif)">sublatis</w> 
-        <w lemma="semen(nominatif pluriel)|semen(vocatif pluriel)|semen(accusatif pluriel)|semino(2ème singulier impératif présent actif)">semina</w> 
-        <w lemma="lumbus(datif pluriel)|lumbus(ablatif pluriel)">lumbis</w>.    
+        <w lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+        <w lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
+        <w lemma="locus" pos="NOMcom" msd="Case=Acc|Numb=Plur">loca</w>
+        <w lemma="sumo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">sumere</w>
+        <w lemma="possum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">possunt</w>
+        <w lemma="pectus" pos="NOMcom" msd="Case=Abl|Numb=Plur">pectoribus</w>
+        <w lemma="pono" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">positis</w>
+        <w lemma="tollo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">sublatis</w>
+        <w lemma="semen1" pos="NOMcom" msd="Case=Nom|Numb=Plur">semina</w>
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#male #euphemisms #voisinage #copulation">lumbis</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

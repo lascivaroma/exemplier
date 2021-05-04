@@ -1,13 +1,16 @@
-<div type="fragment" corresp="adams:46"  ana="#male #specialisation">
+<div  type="fragment" corresp="adams:46" ana="#male #specialisation #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:47.3-47.4">
-        <w lemma="ille(génitif masculin singulier)|ille(génitif féminin singulier)|ille(génitif neutre singulier)">illius</w> 
-        <w lemma="uxor(nominatif singulier)|uxor(vocatif singulier)">uxor</w> 
-        <w lemma="aut(-)">aut</w> 
-        <w lemma="amica(nominatif singulier)|amica(vocatif singulier)|amica(ablatif singulier)|amicus(nominatif féminin singulier)|amicus(vocatif féminin singulier)|amicus(ablatif féminin singulier)|amicus(nominatif neutre pluriel)|amicus(vocatif neutre pluriel)|amicus(accusatif neutre pluriel)|amico(2ème singulier impératif présent actif)">amica</w> 
-        <w lemma="rivalis(accusatif singulier)|riualis(accusatif masculin singulier)|riualis(accusatif féminin singulier)">riualem</w> 
-        <w lemma="lascivio(gérondif datif)|lascivio(gérondif ablatif)|lascivio(datif masculin singulier adjectif verbal)|lascivio(ablatif masculin singulier adjectif verbal)|lascivio(datif neutre singulier adjectif verbal)|lascivio(ablatif neutre singulier adjectif verbal)">lasciuiendo</w> 
-        <w lemma="languidus(accusatif masculin singulier)|languidus(nominatif neutre singulier)|languidus(vocatif neutre singulier)|languidus(accusatif neutre singulier)|languidus(accusatif singulier)">languidum</w>, 
-        <w lemma="precor(1ère singulier indicatif présent actif)|preco(1ère singulier indicatif présent passif)">precor</w>, 
-        <w lemma="reddo(3ème singulier subjonctif présent actif)">reddat</w>,    
+        <w lemma="ille" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">illius</w>
+        <w lemma="uxor" pos="NOMcom" msd="Case=Nom|Numb=Sing">uxor</w>
+        <w lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+        <w lemma="amica" pos="NOMcom" msd="Case=Nom|Numb=Sing">amica</w>
+        <w lemma="riualis1" pos="NOMcom" msd="Case=Acc|Numb=Sing">riualem</w>
+        <w lemma="lasciuio" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">lasciuiendo</w>
+        <w lemma="languidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos" ana="#male #specialisation #euphemism #mentula">languidum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="precor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">precor</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="reddo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">reddat</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

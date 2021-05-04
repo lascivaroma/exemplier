@@ -1,9 +1,10 @@
-<div type="fragment" corresp="adams:47"  ana="#male #specialisation #milieu">
+<div  type="fragment" corresp="adams:47" ana="#female #specialisation #milieu  #euphemism">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:7.67.15">
-        <w lemma="sed(-)|sed(-)">Sed</w> 
-        <w lemma="plane(positif)|planus(vocatif masculin singulier)|planus(vocatif singulier)">plane</w> 
-        <w lemma="medius(accusatif féminin pluriel)|Media(accusatif pluriel)|Media(accusatif pluriel)|medio(2ème singulier indicatif présent actif)">medias</w> 
-        <w lemma="uoro(3ème singulier indicatif présent actif)">vorat</w> 
-        <w lemma="puella(accusatif pluriel)">puellas</w>.     
+        <w lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+        <w lemma="plane" pos="ADV" msd="Deg=Pos">plane</w>
+        <w lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos" ana="#female #specialisation #milieu  #euphemism">medias</w>
+        <w lemma="uoro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vorat</w>
+        <w lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Plur">puellas</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

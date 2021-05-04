@@ -1,13 +1,14 @@
-<div type="fragment" corresp="adams:51"  ana="#male #euphemisms #voisinage">
+<div  type="fragment" corresp="adams:51" ana="#male #euphemisms #voisinage  #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:11.19-11.20">
-        <w lemma="nullus(accusatif masculin singulier)|nullus(nominatif neutre singulier)|nullus(vocatif neutre singulier)|nullus(accusatif neutre singulier)">nullum</w> 
-        <w lemma="amo(nominatif masculin singulier participe présent actif)|amo(vocatif masculin singulier participe présent actif)|amo(nominatif féminin singulier participe présent actif)|amo(vocatif féminin singulier participe présent actif)|amo(nominatif neutre singulier participe présent actif)|amo(vocatif neutre singulier participe présent actif)|amo(accusatif neutre singulier participe présent actif)|amans(nominatif singulier)|amans(vocatif singulier)|amans(nominatif masculin singulier)|amans(vocatif masculin singulier)|amans(nominatif féminin singulier)|amans(vocatif féminin singulier)">amans</w>
-
-        <w lemma="uer(ablatif singulier)|uere(positif)|Uerus(vocatif singulier)|uerus(vocatif masculin singulier)">uere</w>, 
-        <w lemma="sed(-)|sed(-)">sed</w> 
-        <w lemma="identidem(-)">identidem</w> 
-        <w lemma="omne(génitif pluriel)|omnis(génitif masculin pluriel)|omnis(génitif féminin pluriel)|omnis(génitif neutre pluriel)|omnia(génitif pluriel)">omnium</w> / 
-        <w lemma="ilia(nominatif pluriel)|ilia(vocatif pluriel)|ilia(accusatif pluriel)|ile(nominatif pluriel)|ile(vocatif pluriel)|ile(accusatif pluriel)|Ilia(nominatif singulier)|Ilia(vocatif singulier)|Ilia(ablatif singulier)|Ilium(nominatif pluriel)|Ilium(vocatif pluriel)|Ilium(accusatif pluriel)|Ilius(nominatif féminin singulier)|Ilius(vocatif féminin singulier)|Ilius(ablatif féminin singulier)|Ilius(nominatif neutre pluriel)|Ilius(vocatif neutre pluriel)|Ilius(accusatif neutre pluriel)|Ilion(nominatif pluriel)|Ilion(vocatif pluriel)|Ilion(accusatif pluriel)|ilium(nominatif pluriel)|ilium(vocatif pluriel)|ilium(accusatif pluriel)">ilia</w> 
-        <w lemma="rumpo(nominatif masculin singulier participe présent actif)|rumpo(vocatif masculin singulier participe présent actif)|rumpo(nominatif féminin singulier participe présent actif)|rumpo(vocatif féminin singulier participe présent actif)|rumpo(nominatif neutre singulier participe présent actif)|rumpo(vocatif neutre singulier participe présent actif)|rumpo(accusatif neutre singulier participe présent actif)">rumpens</w>    
+        <w lemma="nullus" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascNeut">nullum</w>
+        <w lemma="amans2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com">amans</w>
+        <w lemma="uer" pos="ADV" msd="Case=Abl|Deg=Pos">uere</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+        <w lemma="identidem" pos="ADV" msd="Deg=Pos">identidem</w>
+        <w lemma="omnis" pos="PROind" msd="Case=Gen|Numb=Plur|Gend=Com">omnium</w>
+        <w lemma="/" pos="PUNC" msd="MORPH=empty">/</w>
+        <w lemma="ilia" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #euphemisms #voisinage">ilia</w>
+        <w lemma="rumpo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">rumpens</w>
     </quote>
  </div>

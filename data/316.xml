@@ -1,10 +1,15 @@
-<div type="fragment" corresp="adams:59"  ana="#male #natura">
+<div  type="fragment" corresp="adams:59" ana="#male #natura #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi050.perseus-lat1:3.56">
-        <w lemma="Mercurius(nominatif singulier)|mercurius(nominatif singulier)">Mercurius</w>  [...] 
-        <w lemma="qui(génitif masculin singulier)|qui(génitif féminin singulier)|qui(génitif neutre singulier)|quis(génitif masculin singulier)|quis(génitif féminin singulier)|quis(génitif neutre singulier)">cuius</w> 
-        <w lemma="obscene(comparatif)|obscenus(nominatif neutre singulier comparatif)|obscenus(vocatif neutre singulier comparatif)|obscenus(accusatif neutre singulier comparatif)">obscenius</w> 
-        <w lemma="excitatus(nominatif féminin singulier)|excitatus(vocatif féminin singulier)|excitatus(ablatif féminin singulier)|excitatus(nominatif neutre pluriel)|excitatus(vocatif neutre pluriel)|excitatus(accusatif neutre pluriel)|excito(nominatif féminin singulier participe parfait passif)|excito(vocatif féminin singulier participe parfait passif)|excito(ablatif féminin singulier participe parfait passif)|excito(nominatif neutre pluriel participe parfait passif)|excito(vocatif neutre pluriel participe parfait passif)|excito(accusatif neutre pluriel participe parfait passif)">excitata</w> 
-        <w lemma="nascor(nominatif féminin singulier participe futur actif)|nascor(vocatif féminin singulier participe futur actif)|nascor(ablatif féminin singulier participe futur actif)|nascor(nominatif neutre pluriel participe futur actif)|nascor(vocatif neutre pluriel participe futur actif)|nascor(accusatif neutre pluriel participe futur actif)|no(nominatif féminin singulier participe futur actif)|no(vocatif féminin singulier participe futur actif)|no(ablatif féminin singulier participe futur actif)|no(nominatif neutre pluriel participe futur actif)|no(vocatif neutre pluriel participe futur actif)|no(accusatif neutre pluriel participe futur actif)|natura(nominatif singulier)|natura(vocatif singulier)|natura(ablatif singulier)">natura</w> 
-        <w lemma="trado(3ème singulier indicatif présent passif)">traditur</w>    
+        <w lemma="Mercurius" pos="NOMpro" msd="Case=Nom|Numb=Sing">Mercurius</w>
+        <w lemma="[" pos="PUNC" msd="MORPH=empty">[</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+        <w lemma="]" pos="PUNC" msd="MORPH=empty">]</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
+        <w lemma="obscenius" pos="ADV" msd="Case=Nom|Numb=Sing|Deg=Comp">obscenius</w>
+        <w lemma="excito1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">excitata</w>
+        <w lemma="natura" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #natura">natura</w>
+        <w lemma="trado" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">traditur</w>
     </quote>
  </div>

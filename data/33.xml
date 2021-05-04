@@ -1,31 +1,33 @@
-<div type="fragment" corresp="adams:31"  ana="#male #personnification">
+<div  type="fragment" corresp="adams:31" ana="#male  #metaphore #animal #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0097.phi001:69-72">
-        <w lemma="nunc(-)">nunc</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="nome(accusatif singulier)|nomen(accusatif singulier)|nomen(nominatif singulier)|nomen(vocatif singulier)">nomen</w> 
-        <w lemma="Ia(accusatif singulier)|jam(-)">iam</w>, 
-        <w lemma="qui(nominatif féminin singulier)|qui(nominatif féminin pluriel)|qui(nominatif neutre pluriel)|qui(accusatif neutre pluriel)|quis(nominatif féminin singulier)|quis(nominatif féminin pluriel)|quis(nominatif neutre pluriel)|quis(accusatif neutre pluriel)">quae</w> 
-        <w lemma="ex(-)">ex</w> 
-        <w lemma="testis(datif pluriel)|testis(ablatif pluriel)|testis(datif pluriel)|testis(ablatif pluriel)">testibus</w> 
-        <w lemma="ipse(nominatif masculin singulier)">ipse</w> 
-        <w lemma="rogo(gérondif datif)|rogo(gérondif ablatif)|rogo(datif masculin singulier adjectif verbal)|rogo(ablatif masculin singulier adjectif verbal)|rogo(datif neutre singulier adjectif verbal)|rogo(ablatif neutre singulier adjectif verbal)">rogando</w> 	
-
-        <w lemma="exsculpo(1ère singulier indicatif présent actif)">exculpo</w>, 
-        <w lemma="hic(nominatif féminin singulier)|hic(nominatif neutre pluriel)|hic(accusatif neutre pluriel)">haec</w> 
-        <w lemma="dica(accusatif singulier)|dico(1ère singulier indicatif futur actif)|dico(1ère singulier subjonctif présent actif)|Dice(accusatif singulier)">dicam</w>
-
-        <w lemma="">chirodytoe</w> 
-        <w lemma="auratus(génitif masculin singulier)|auratus(nominatif masculin pluriel)|auratus(vocatif masculin pluriel)|auratus(génitif neutre singulier)|auro(génitif masculin singulier participe parfait passif)|auro(nominatif masculin pluriel participe parfait passif)|auro(vocatif masculin pluriel participe parfait passif)|auro(génitif neutre singulier participe parfait passif)">aurati</w>, 
-        <w lemma="rica(génitif singulier)|rica(datif singulier)|rica(nominatif pluriel)|rica(vocatif pluriel)">ricae</w>, 
-        <w lemma="">toracia</w>, 
-        <w lemma="mitra(génitif singulier)|mitra(datif singulier)|mitra(nominatif pluriel)|mitra(vocatif pluriel)">mitrae</w> 	
-
-        <w lemma="sion(génitif singulier)|si(-)">si</w> 
-        <w lemma="nates(datif pluriel)|nates(ablatif pluriel)|natis(datif pluriel)|natis(ablatif pluriel)|natus(datif pluriel)|natus(ablatif pluriel)">natibus</w> 
-        <w lemma="natrix(accusatif singulier)">natricem</w> 
-        <w lemma="imprimo(3ème singulier indicatif parfait actif)">inpressit</w> 
-        <w lemma="crassus(accusatif féminin singulier)">crassam</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="capitatus(accusatif féminin singulier)">capitatam</w>     
+        <w lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="nomen" pos="NOMcom" msd="Case=Acc|Numb=Sing">nomen</w>
+        <w lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Neut">quae</w>
+        <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+        <w lemma="testis1" pos="NOMcom" msd="Case=Abl|Numb=Plur">testibus</w>
+        <w lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+        <w lemma="rogo" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Adj|Voice=Pass">rogando</w>
+        <w lemma="exculpo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">exculpo</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">haec</w>
+        <w lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1">dicam</w>
+        <w lemma="chirodytoe" pos="NOMcom" msd="Case=Nom|Numb=Sing">chirodytoe</w>
+        <w lemma="auratus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">aurati</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="rica" pos="NOMcom" msd="Case=Gen|Numb=Sing">ricae</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="toracia" pos="NOMcom" msd="Case=Nom|Numb=Plur">toracia</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="mitra" pos="NOMcom" msd="Case=Gen|Numb=Sing">mitrae</w>
+        <w lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+        <w lemma="natus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">natibus</w>
+        <w lemma="natrix" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #personnification">natricem</w>
+        <w lemma="imprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">inpressit</w>
+        <w lemma="crassus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">crassam</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="capito" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">capitatam</w>
     </quote>
  </div>

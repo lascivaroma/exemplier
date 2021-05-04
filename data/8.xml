@@ -1,8 +1,8 @@
-<div type="fragment" corresp="adams:30"  ana="#male #personnification">
+<div  type="fragment" corresp="adams:30" ana="#male #personnification">
     <quote xml:lang="lat" source="Mulomedicina Chironis 731">
-        <w lemma="neo(2ème singulier impératif présent actif)|nes(vocatif singulier)|nes(ablatif singulier)|ne(-)|ne(-)|ne(positif)">ne</w> 
-        <w lemma="praecido(nominatif masculin singulier participe parfait passif)|praecisus(nominatif masculin singulier)">praecisus</w> 
-        <w lemma="intus(-)">intus</w> 
-        <w lemma="refugio(3ème singulier subjonctif présent actif)">refugiat</w>    
+        <w lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+        <w lemma="praecido2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">praecisus</w>
+        <w lemma="intus1" pos="ADV" msd="Deg=Pos">intus</w>
+        <w lemma="refugio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3" ana="#male #personnification">refugiat</w>
     </quote>
  </div>

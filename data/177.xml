@@ -1,12 +1,14 @@
-<div type="fragment" corresp="adams:47"  ana="#male #euphemisms #voisinage">
+<div  type="fragment" corresp="adams:47" ana="#male #euphemisms #voisinage #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:14.640">
-        <w lemma="quisque(nominatif masculin pluriel)|qui(nominatif masculin singulier)|qui(nominatif masculin pluriel)|quis(nominatif masculin pluriel)|queo(2ème singulier impératif présent actif)|queo(1ère singulier indicatif parfait actif)|qui(-)">quique</w> 
-        <w lemma="deus(vocatif singulier)|deus(nominatif singulier)">deus</w> 
-        <w lemma="fur(nominatif pluriel)|fur(vocatif pluriel)|fur(accusatif pluriel)|furo(2ème singulier indicatif futur actif)">fures</w> 
-        <w lemma="uel(-)">vel</w> 
-        <w lemma="falx(ablatif singulier)">falce</w> 
-        <w lemma="uel(-)">vel</w> 
-        <w lemma="inguen(ablatif singulier)">inguine</w> 
-        <w lemma="terreo(3ème singulier indicatif présent actif)">terret</w>,    
+        <w lemma="qui" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">quique</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{quique}</w>
+        <w lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Sing">deus</w>
+        <w lemma="fur" pos="NOMcom" msd="Case=Acc|Numb=Plur">fures</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+        <w lemma="falx" pos="NOMcom" msd="Case=Abl|Numb=Sing">falce</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #euphemisms #voisinage">inguine</w>
+        <w lemma="terreo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">terret</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

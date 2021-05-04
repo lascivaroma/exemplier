@@ -1,18 +1,25 @@
-<div type="fragment" corresp="adams:35"  ana="#male #anatomie #comparaison">
+<div  type="fragment" corresp="adams:35" ana="#male #anatomie #comparaison #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:6.36.1-6.36.2">
-        <w lemma="mentula(nominatif singulier)|mentula(vocatif singulier)|mentula(ablatif singulier)">Mentula</w> 
-        <w lemma="tam(-)|tam(positif)">tam</w> 
-        <w lemma="magnus(nominatif féminin singulier)|magnus(vocatif féminin singulier)|magnus(ablatif féminin singulier)|magnus(nominatif neutre pluriel)|magnus(vocatif neutre pluriel)|magnus(accusatif neutre pluriel)">magna</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w>, 
-        <w lemma="quantus(nominatif masculin singulier)">quantus</w> 
-        <w lemma="tu(datif masculin singulier)|tu(datif féminin singulier)">tibi</w>, 
-        <w lemma="">Papyle</w>, 
-        <w lemma="nasus(nominatif singulier)|Nasos(nominatif singulier)">nasus</w>,  
-        <w lemma="ut(-)">Ut</w> 
-        <w lemma="possum(2ème singulier subjonctif présent actif)|Possis(accusatif pluriel)|Possis(génitif singulier)|Possis(nominatif singulier)|Possis(vocatif singulier)">possis</w>, 
-        <w lemma="quotiens(-)">quotiens</w> 
-        <w lemma="adrigo(2ème singulier indicatif présent actif)">arrigis</w>, 
-        <w lemma="">olfacere</w>.     
+        <w lemma="Mentula" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#male #anatomie #comparaison">Mentula</w>
+        <w lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+        <w lemma="magnus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">magna</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="quantus2" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Masc">quantus</w>
+        <w lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="Papylus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Papyle</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="nasus" pos="NOMcom" msd="Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Dep">nasus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">Ut</w>
+        <w lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">possis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="quotiens1" pos="ADVrel" msd="MORPH=empty">quotiens</w>
+        <w lemma="arrigo" pos="VER" msd="Numb=Plur">arrigis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="olfacio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">olfacere</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
 <note>Extrapolation totale d'Adams qui y voit un rapprochement ("similarity"). Me semble un peu forcé</note>
  </div>

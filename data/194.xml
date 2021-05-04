@@ -1,10 +1,11 @@
-<div type="fragment" corresp="adams:48"  ana="#male #euphemisms #voisinage #copulation #desir">
+<div  type="fragment" corresp="adams:48" ana="#male #euphemisms #mentula #voisinage #copulation #desir">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:2.6.Ox24">
-        <w lemma="saepe(comparatif)|saepis(nominatif neutre singulier comparatif)|saepis(vocatif neutre singulier comparatif)|saepis(accusatif neutre singulier comparatif)">saepius</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="teneo(2ème singulier indicatif présent passif)|teneri(datif pluriel)|teneri(ablatif pluriel)|tener(datif masculin pluriel)|tener(ablatif masculin pluriel)|tener(datif féminin pluriel)|tener(ablatif féminin pluriel)|tener(datif neutre pluriel)|tener(ablatif neutre pluriel)">teneris</w> 
-        <w lemma="haereo(3ème singulier indicatif futur actif)">haerebit</w> 
-        <w lemma="dextra(nominatif singulier)|dextra(vocatif singulier)|dextra(ablatif singulier)|dexterus(nominatif féminin singulier)|dexterus(vocatif féminin singulier)|dexterus(ablatif féminin singulier)|dexterus(nominatif neutre pluriel)|dexterus(vocatif neutre pluriel)|dexterus(accusatif neutre pluriel)">dextera</w> 
-        <w lemma="lumbus(datif pluriel)|lumbus(ablatif pluriel)">lumbis</w>.    
+        <w lemma="saepe" pos="ADV" msd="Deg=Comp">saepius</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="tener" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">teneris</w>
+        <w lemma="haereo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">haerebit</w>
+        <w lemma="dextera" pos="NOMcom" msd="Case=Nom|Numb=Sing">dextera</w>
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#male #euphemisms #voisinage #copulation #desir">lumbis</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

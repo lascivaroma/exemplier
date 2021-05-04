@@ -1,15 +1,18 @@
-<div type="fragment" corresp="adams:35"  ana="#male #anatomie">
+<div  type="fragment" corresp="adams:35" ana="#male #anatomie #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.16.5-11.16.6">
-        <w lemma="o(-)">O</w> 
-        <w lemma="quotiens(-)">quotiens</w> 
-        <w lemma="rigido(2ème singulier impératif présent actif)|rigidus(nominatif féminin singulier)|rigidus(vocatif féminin singulier)|rigidus(ablatif féminin singulier)|rigidus(nominatif neutre pluriel)|rigidus(vocatif neutre pluriel)|rigidus(accusatif neutre pluriel)">rigida</w> 
-        <w lemma="pulso(2ème singulier indicatif futur actif)">pulsabis</w> 
-        <w lemma="pallium(nominatif pluriel)|pallium(vocatif pluriel)|pallium(accusatif pluriel)|pallio(2ème singulier impératif présent actif)">pallia</w> 
-        <w lemma="uena(nominatif singulier)|uena(vocatif singulier)|uena(ablatif singulier)|venum(nominatif pluriel)|venum(vocatif pluriel)|venum(accusatif pluriel)|ueno(2ème singulier impératif présent actif)">vena</w>,  
-        <w lemma="sum(2ème singulier subjonctif présent actif)|sion(datif pluriel)|sion(ablatif pluriel)|sis(positif)">Sis</w> 
-        <w lemma="gravis(nominatif masculin singulier comparatif)|gravis(vocatif masculin singulier comparatif)|gravis(nominatif féminin singulier comparatif)|gravis(vocatif féminin singulier comparatif)">gravior</w> 
-        <w lemma="Curius(datif singulier)|Curius(ablatif singulier)|curius(datif masculin singulier)|curius(ablatif masculin singulier)|curius(datif neutre singulier)|curius(ablatif neutre singulier)|Curio(nominatif singulier)|Curio(vocatif singulier)|curio(nominatif singulier)|curio(vocatif singulier)|curio(nominatif singulier)|curio(vocatif singulier)">Curio</w> 
-        <w lemma="Fabricius(datif masculin singulier)|Fabricius(ablatif masculin singulier)|Fabricius(datif neutre singulier)|Fabricius(ablatif neutre singulier)|Fabricius(datif singulier)|Fabricius(ablatif singulier)|fabricius(datif masculin singulier)|fabricius(ablatif masculin singulier)|fabricius(datif neutre singulier)|fabricius(ablatif neutre singulier)">Fabricioque</w> 
-        <w lemma="liceo(3ème singulier indicatif présent actif)|licet(3ème singulier indicatif présent actif)|licet(-)">licet</w>!     
+        <w lemma="o" pos="INJ" msd="MORPH=empty">O</w>
+        <w lemma="quotiens2" pos="ADVint" msd="MORPH=empty">quotiens</w>
+        <w lemma="rigidus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Fem|Deg=Pos">rigida</w>
+        <w lemma="pulso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">pulsabis</w>
+        <w lemma="pallium" pos="NOMcom" msd="Case=Acc|Numb=Plur">pallia</w>
+        <w lemma="uena" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #anatomie">vena</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">Sis</w>
+        <w lemma="grauis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">gravior</w>
+        <w lemma="Curio" pos="NOMpro" msd="Case=Nom|Numb=Sing">Curio</w>
+        <w lemma="Fabricius" pos="NOMpro" msd="Case=Dat|Numb=Sing">Fabricioque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{Fabricioque}</w>
+        <w lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">licet</w>
+        <w lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
     </quote>
  </div>

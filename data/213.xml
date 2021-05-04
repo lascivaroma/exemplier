@@ -1,14 +1,15 @@
-<div type="fragment" corresp="adams:50"  ana="#male #euphemisms #voisinage">
+<div type="fragment" corresp="adams:50" ana="#male #euphemisms #voisinage #remove">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.opp-lat1:p131.3">
-        <w lemma="juxta(-)">iuxta</w> 
-        <w lemma="umbilicus(accusatif singulier)">umbilicum</w> 
-        <w lemma="initio(nominatif masculin singulier participe présent actif)|initio(vocatif masculin singulier participe présent actif)|initio(nominatif féminin singulier participe présent actif)|initio(vocatif féminin singulier participe présent actif)|initio(nominatif neutre singulier participe présent actif)|initio(vocatif neutre singulier participe présent actif)|initio(accusatif neutre singulier participe présent actif)">initians</w> 
-        <w lemma="frequenter(positif)|frequento(1ère singulier subjonctif présent passif)">frequenter</w> 
-        <w lemma="a(-)|a(-)|a(-)">a</w> 
-        <w lemma="sinister(datif masculin singulier)|sinister(ablatif masculin singulier)|sinister(datif neutre singulier)|sinister(ablatif neutre singulier)|sinistrum(datif singulier)|sinistrum(ablatif singulier)">sinistro</w> 
-        <w lemma="Ilios(datif singulier)|Ilios(ablatif singulier)|Ilium(datif singulier)|Ilium(ablatif singulier)|Ilius(datif masculin singulier)|Ilius(ablatif masculin singulier)|Ilius(datif neutre singulier)|Ilius(ablatif neutre singulier)|Ilion(datif singulier)|Ilion(ablatif singulier)|ilium(datif singulier)|ilium(ablatif singulier)">ilio</w>, 
-        <w lemma="aliquando(-)">aliquando</w> 
-        <w lemma="a(-)|a(-)|a(-)">a</w> 
-        <w lemma="dexter(datif masculin singulier)|dexter(ablatif masculin singulier)|dexter(datif neutre singulier)|dexter(ablatif neutre singulier)">dextro</w>    
+        <w lemma="iuxta2" pos="PRE" msd="MORPH=empty">iuxta</w>
+        <w lemma="umbilicus" pos="NOMcom" msd="Case=Acc|Numb=Sing">umbilicum</w>
+        <w lemma="initio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">initians</w>
+        <w lemma="frequenter" pos="ADV" msd="Deg=Pos">frequenter</w>
+        <w lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+        <w lemma="sinister" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">sinistro</w>
+        <w lemma="ilio" pos="NOMcom" msd="Case=Abl|Numb=Sing">ilio</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="aliquando" pos="ADV" msd="Deg=Pos">aliquando</w>
+        <w lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+        <w lemma="dexter" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">dextro</w>
     </quote>
  </div>

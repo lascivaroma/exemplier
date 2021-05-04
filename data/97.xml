@@ -1,16 +1,15 @@
-<div type="fragment" corresp="adams:42"  ana="#male #contenant">
+<div  type="fragment" corresp="adams:42" ana="#male #contenant #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat1:24.7">
-        <w lemma="mox(-)">mox</w> 
-        <w lemma="manus(accusatif masculin singulier)|manus(nominatif neutre singulier)|manus(vocatif neutre singulier)|manus(accusatif neutre singulier)|manus(accusatif singulier)|manon(nominatif singulier)|manon(vocatif singulier)|manon(accusatif singulier)|manos(accusatif singulier)">manum</w> 
-        <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiam</w> 
-
-        <w lemma="demitto(3ème singulier indicatif parfait actif)">demisit</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="sinus(accusatif singulier)|sinum(nominatif singulier)|sinum(vocatif singulier)|sinum(accusatif singulier)|sinus(accusatif singulier)">sinum</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="pertracto(2ème singulier impératif futur actif)|pertracto(3ème singulier impératif futur actif)|pertracto(datif masculin singulier participe parfait passif)|pertracto(ablatif masculin singulier participe parfait passif)|pertracto(datif neutre singulier participe parfait passif)|pertracto(ablatif neutre singulier participe parfait passif)|pertractatus(datif masculin singulier)|pertractatus(ablatif masculin singulier)|pertractatus(datif neutre singulier)|pertractatus(ablatif neutre singulier)">pertractato</w> 
-        <w lemma="vasculum(datif singulier)|vasculum(ablatif singulier)">vasculo</w> 
-        <w lemma="tam(-)|tam(positif)">tam</w> 
-        <w lemma="rudis(datif masculin singulier)|rudis(ablatif masculin singulier)|rudis(datif féminin singulier)|rudis(ablatif féminin singulier)|rudis(datif neutre singulier)|rudis(ablatif neutre singulier)|rudis(datif singulier)|rudo(infinitif présent passif)">rudi</w>    
+        <w lemma="mox" pos="ADV" msd="Deg=Pos">mox</w>
+        <w lemma="manus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">manum</w>
+        <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+        <w lemma="demitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">demisit</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Sing">sinum</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="pertracto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">pertractato</w>
+        <w lemma="uasculum" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #contenant #metaphore #mentula">vasculo</w>
+        <w lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+        <w lemma="rudis2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">rudi</w>
     </quote>
  </div>

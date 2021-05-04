@@ -1,19 +1,22 @@
-<div type="fragment" corresp="adams:59"  ana="#male #natura">
+<div  type="fragment" corresp="adams:59" ana="#natura #euphemism #neutral">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:6.30.4">
-        <w lemma="qui(ablatif masculin singulier)|qui(ablatif neutre singulier)|quis(ablatif masculin singulier)|quis(ablatif neutre singulier)|quo(-)">quo</w> 
-        <w lemma="mano(3ème singulier indicatif présent actif)">manat</w> 
-        <w lemma="urina(nominatif singulier)|urina(vocatif singulier)|urina(ablatif singulier)|urino(2ème singulier impératif présent actif)|urinus(nominatif féminin singulier)|urinus(vocatif féminin singulier)|urinus(ablatif féminin singulier)|urinus(nominatif neutre pluriel)|urinus(vocatif neutre pluriel)|urinus(accusatif neutre pluriel)">urina</w>, 
-        <w lemma="uel(-)">vel</w> 
-        <w lemma="musca(nominatif singulier)|musca(vocatif singulier)|musca(ablatif singulier)|Musca(nominatif singulier)|Musca(vocatif singulier)|Musca(ablatif singulier)">musca</w> 
-        <w lemma="uiuum(nominatif pluriel)|uiuum(vocatif pluriel)|uiuum(accusatif pluriel)|uiuus(nominatif féminin singulier)|uiuus(vocatif féminin singulier)|uiuus(ablatif féminin singulier)|uiuus(nominatif neutre pluriel)|uiuus(vocatif neutre pluriel)|uiuus(accusatif neutre pluriel)">viva</w>, 
-        <w lemma="uel(-)">vel</w> 
-        <w lemma="tus(génitif singulier)|Turius(datif pluriel)|Turius(ablatif pluriel)|Turia(datif pluriel)|Turia(ablatif pluriel)|Turii(datif pluriel)|Turii(ablatif pluriel)|Turium(datif pluriel)|Turium(ablatif pluriel)">turis</w> 
-        <w lemma="mica(nominatif singulier)|mica(vocatif singulier)|mica(ablatif singulier)|mico(2ème singulier impératif présent actif)">mica</w>, 
-        <w lemma="uel(-)">vel</w> 
-        <w lemma="de(-)">de</w> 
-        <w lemma="bitumen(ablatif singulier)">bitumine</w> 
-        <w lemma="collyrium(nominatif singulier)|collyrium(vocatif singulier)|collyrium(accusatif singulier)">collyrium</w> 
-        <w lemma="insero(3ème singulier indicatif présent passif)|insero(3ème singulier indicatif présent passif)">inseritur</w> 
-        <w lemma="naturalis(datif masculin pluriel)|naturalis(ablatif masculin pluriel)|naturalis(datif féminin pluriel)|naturalis(ablatif féminin pluriel)|naturalis(datif neutre pluriel)|naturalis(ablatif neutre pluriel)|naturale(datif pluriel)|naturale(ablatif pluriel)|naturalia(datif pluriel)|naturalia(ablatif pluriel)">naturalibus</w>    
+        <w lemma="qui2" pos="ADVrel" msd="Case=Abl">quo</w>
+        <w lemma="mano" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">manat</w>
+        <w lemma="urina" pos="NOMcom" msd="Case=Nom|Numb=Sing">urina</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+        <w lemma="musca" pos="NOMcom" msd="Case=Nom|Numb=Sing">musca</w>
+        <w lemma="uiuus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">viva</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+        <w lemma="tus" pos="NOMcom" msd="Case=Gen|Numb=Sing">turis</w>
+        <w lemma="mica" pos="NOMcom" msd="Case=Nom|Numb=Sing|Deg=Pos">mica</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+        <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w lemma="bitumen" pos="NOMcom" msd="Case=Abl|Numb=Sing">bitumine</w>
+        <w lemma="collyrium" pos="NOMcom" msd="Case=Nom|Numb=Sing">collyrium</w>
+        <w lemma="insero3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">inseritur</w>
+        <w lemma="naturalis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#natura #euphemism #neutral">naturalibus</w>
     </quote>
  </div>

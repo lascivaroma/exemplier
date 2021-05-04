@@ -1,10 +1,11 @@
-<div type="fragment" corresp="adams:35"  ana="#male #anatomie">
+<div  type="fragment" corresp="adams:35" ana="#male #anatomie #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0969.phi001:6.72">
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="morosus(nominatif féminin singulier)|morosus(vocatif féminin singulier)|morosus(ablatif féminin singulier)|morosus(nominatif neutre pluriel)|morosus(vocatif neutre pluriel)|morosus(accusatif neutre pluriel)|morosus(nominatif féminin singulier)|morosus(vocatif féminin singulier)|morosus(ablatif féminin singulier)|morosus(nominatif neutre pluriel)|morosus(vocatif neutre pluriel)|morosus(accusatif neutre pluriel)">morosa</w> 
-        <w lemma="uagus(datif masculin singulier)|uagus(ablatif masculin singulier)|uagus(datif neutre singulier)|uagus(ablatif neutre singulier)|uago(1ère singulier indicatif présent actif)">uago</w> 
-        <w lemma="singultio(3ème singulier indicatif futur actif)">singultiet</w> 
-        <w lemma="inguen(ablatif singulier)">inguine</w> 
-        <w lemma="uena(nominatif singulier)|uena(vocatif singulier)|uena(ablatif singulier)|venum(nominatif pluriel)|venum(vocatif pluriel)|venum(accusatif pluriel)|ueno(2ème singulier impératif présent actif)">uena</w>,     
+        <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+        <w lemma="morosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">morosa</w>
+        <w lemma="uagus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">uago</w>
+        <w lemma="singultio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">singultiet</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Sing">inguine</w>
+        <w lemma="uena" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #anatomie">uena</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

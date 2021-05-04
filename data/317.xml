@@ -1,18 +1,20 @@
-<div type="fragment" corresp="adams:59"  ana="#male #natura">
+<div  type="fragment" corresp="adams:59" ana="#male #natura #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi053.perseus-lat1:2.145">
-        <w lemma="pareo(infinitif présent actif)|pareo(2ème singulier indicatif présent passif)|pareo(2ème singulier impératif présent passif)|pario(infinitif présent actif)|pario(2ème singulier indicatif présent passif)|pario(2ème singulier impératif présent passif)|paro(2ème singulier subjonctif présent passif)|paro(2ème singulier subjonctif présent passif)">Parere</w> 
-        <w lemma="quidam(nominatif féminin singulier)|quidam(nominatif féminin pluriel)|quidam(nominatif neutre pluriel)|quidam(accusatif neutre pluriel)">quaedam</w> 
-        <w lemma="matrona(nominatif singulier)|matrona(vocatif singulier)|matrona(ablatif singulier)|Matrona(nominatif singulier)|Matrona(vocatif singulier)|Matrona(ablatif singulier)|Matrona(nominatif singulier)|Matrona(vocatif singulier)|Matrona(ablatif singulier)">matrona</w> 
-        <w lemma="cupio(nominatif masculin singulier participe présent actif)|cupio(vocatif masculin singulier participe présent actif)|cupio(nominatif féminin singulier participe présent actif)|cupio(vocatif féminin singulier participe présent actif)|cupio(nominatif neutre singulier participe présent actif)|cupio(vocatif neutre singulier participe présent actif)|cupio(accusatif neutre singulier participe présent actif)|cupiens(nominatif masculin singulier)|cupiens(vocatif masculin singulier)|cupiens(nominatif féminin singulier)|cupiens(vocatif féminin singulier)">cupiens</w> 
-        <w lemma="dubito(nominatif masculin singulier participe présent actif)|dubito(vocatif masculin singulier participe présent actif)|dubito(nominatif féminin singulier participe présent actif)|dubito(vocatif féminin singulier participe présent actif)|dubito(nominatif neutre singulier participe présent actif)|dubito(vocatif neutre singulier participe présent actif)|dubito(accusatif neutre singulier participe présent actif)|dubitans(nominatif masculin singulier)|dubitans(vocatif masculin singulier)|dubitans(nominatif féminin singulier)|dubitans(vocatif féminin singulier)">dubitans</w> 
-        <w lemma="edo(3ème singulier subjonctif imparfait actif)|sum(3ème singulier subjonctif imparfait actif)">essetne</w> 
-        <w lemma="praegno(nominatif masculin singulier participe présent actif)|praegno(vocatif masculin singulier participe présent actif)|praegno(nominatif féminin singulier participe présent actif)|praegno(vocatif féminin singulier participe présent actif)|praegno(nominatif neutre singulier participe présent actif)|praegno(vocatif neutre singulier participe présent actif)|praegno(accusatif neutre singulier participe présent actif)|praegnans(nominatif masculin singulier)|praegnans(vocatif masculin singulier)|praegnans(nominatif féminin singulier)|praegnans(vocatif féminin singulier)">praegnans</w> 
-        <w lemma="uideo(nominatif féminin singulier participe parfait passif)|uideo(vocatif féminin singulier participe parfait passif)|uideo(ablatif féminin singulier participe parfait passif)|uideo(nominatif neutre pluriel participe parfait passif)|uideo(vocatif neutre pluriel participe parfait passif)|uideo(accusatif neutre pluriel participe parfait passif)|uiso(nominatif féminin singulier participe parfait passif)|uiso(vocatif féminin singulier participe parfait passif)|uiso(ablatif féminin singulier participe parfait passif)|uiso(nominatif neutre pluriel participe parfait passif)|uiso(vocatif neutre pluriel participe parfait passif)|uiso(accusatif neutre pluriel participe parfait passif)|uisum(nominatif pluriel)|uisum(vocatif pluriel)|uisum(accusatif pluriel)|videor(nominatif féminin singulier participe parfait actif)|videor(vocatif féminin singulier participe parfait actif)|videor(ablatif féminin singulier participe parfait actif)|videor(nominatif neutre pluriel participe parfait actif)|videor(vocatif neutre pluriel participe parfait actif)|videor(accusatif neutre pluriel participe parfait actif)|uisus(nominatif féminin singulier)|uisus(vocatif féminin singulier)|uisus(ablatif féminin singulier)|uisus(nominatif neutre pluriel)|uisus(vocatif neutre pluriel)|uisus(accusatif neutre pluriel)">visa</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="quiesco(vocatif masculin singulier participe parfait passif)|quies(ablatif singulier)|quiete(positif)|Quietus(vocatif singulier)|quietus(vocatif masculin singulier)|Quies(ablatif singulier)|quies(ablatif masculin singulier)|quies(ablatif féminin singulier)|quies(ablatif neutre singulier)">quiete</w> 
-        <w lemma="obsigno(accusatif féminin singulier participe parfait passif)">obsignatam</w> 
-        <w lemma="habeo(infinitif présent actif)|habeo(2ème singulier indicatif présent passif)|habeo(2ème singulier impératif présent passif)">habere</w> 
-        <w lemma="nascor(accusatif féminin singulier participe futur actif)|no(accusatif féminin singulier participe futur actif)|natura(accusatif singulier)">naturam</w>.    
+        <w lemma="pareo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Parere</w>
+        <w lemma="quidam" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Fem">quaedam</w>
+        <w lemma="matrona" pos="NOMcom" msd="Case=Nom|Numb=Sing">matrona</w>
+        <w lemma="cupio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">cupiens</w>
+        <w lemma="dubito" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">dubitans</w>
+        <w lemma="sum" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">essetne</w>
+        <w lemma="ne2" pos="ADV" msd="MORPH=empty">{essetne}</w>
+        <w lemma="praegnans" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">praegnans</w>
+        <w lemma="uideo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem">visa</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="quies" pos="NOMcom" msd="Case=Abl|Numb=Sing">quiete</w>
+        <w lemma="obsigno" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">obsignatam</w>
+        <w lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
+        <w lemma="natura" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #natura">naturam</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

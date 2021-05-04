@@ -1,15 +1,17 @@
-<div type="fragment" corresp="adams:36"  ana="#male #anatomie">
+<div  type="fragment" corresp="adams:36" ana="#male #anatomie #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.44-1.2.46">
-        <w lemma="quin(-)">quin</w> 
-        <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiam</w> 
-        <w lemma="ille(nominatif neutre singulier)|ille(accusatif neutre singulier)">illud</w>  
-        <w lemma="accido(3ème singulier indicatif parfait actif)|accido(3ème singulier indicatif présent actif)|accido(3ème singulier indicatif parfait actif)|accido(3ème singulier indicatif présent actif)">accidit</w>, 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="quidam(datif masculin singulier)|quidam(datif féminin singulier)|quidam(datif neutre singulier)">cuidam</w> 
-        <w lemma="testa(datif pluriel)|testa(ablatif pluriel)|testis(accusatif pluriel)|testis(génitif singulier)|testum(datif pluriel)|testum(ablatif pluriel)|Testa(datif pluriel)|Testa(ablatif pluriel)|testis(accusatif pluriel)|testis(génitif singulier)|testis(nominatif singulier)|testis(vocatif singulier)|testis(nominatif singulier)|testis(vocatif singulier)">testis</w> 
-        <w lemma="cauda(accusatif singulier)">caudamque</w> 
-        <w lemma="salax(accusatif masculin singulier)|salax(accusatif féminin singulier)">salacem</w>  
-        <w lemma="demeto(3ème pluriel subjonctif imparfait actif)">demeterent</w> 
-        <w lemma="ferrum(datif singulier)|ferrum(ablatif singulier)">ferro</w>    
+        <w lemma="quin1" pos="ADV" msd="Deg=Pos">quin</w>
+        <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+        <w lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">illud</w>
+        <w lemma="accido1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">accidit</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="quidam" pos="PROind" msd="Case=Dat|Numb=Sing|Gend=Com">cuidam</w>
+        <w lemma="testis1" pos="NOMcom" msd="Case=Nom|Numb=Sing">testis</w>
+        <w lemma="cauda" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #anatomie">caudamque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{caudamque}</w>
+        <w lemma="salax" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">salacem</w>
+        <w lemma="demeto2" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">demeterent</w>
+        <w lemma="ferrum" pos="NOMcom" msd="Case=Abl|Numb=Sing">ferro</w>
     </quote>
  </div>

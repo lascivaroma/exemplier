@@ -1,10 +1,11 @@
-<div type="fragment" corresp="adams:56"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:56" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:1.7">
-        <w lemma="aut(-)">aut</w> 
-        <w lemma="igitur(-)">igitur</w> 
-        <w lemma="tunica(accusatif singulier)">tunicam</w> 
-        <w lemma="pario(génitif masculin singulier participe parfait passif)|pario(nominatif masculin pluriel participe parfait passif)|pario(vocatif masculin pluriel participe parfait passif)|pario(génitif neutre singulier participe parfait passif)|pars(datif singulier)|partio(2ème singulier impératif présent actif)|partus(génitif masculin singulier)|partus(nominatif masculin pluriel)|partus(vocatif masculin pluriel)|partus(génitif neutre singulier)|partio(1ère singulier indicatif parfait actif)">parti</w> 
-        <w lemma="praetendo(2ème singulier impératif présent actif)">praetende</w> 
-        <w lemma="tego(génitif féminin singulier adjectif verbal)|tego(datif féminin singulier adjectif verbal)|tego(nominatif féminin pluriel adjectif verbal)|tego(vocatif féminin pluriel adjectif verbal)">tegendae</w>,    
+        <w lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+        <w lemma="igitur" pos="CONcoo" msd="MORPH=empty">igitur</w>
+        <w lemma="tunica" pos="NOMcom" msd="Case=Acc|Numb=Sing">tunicam</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Dat|Numb=Sing" ana="#male #euphemisms #aidoion">parti</w>
+        <w lemma="praetendo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">praetende</w>
+        <w lemma="tego" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass" ana="#male #euphemisms #aidoion">tegendae</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

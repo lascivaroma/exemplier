@@ -1,12 +1,13 @@
-<div type="fragment" corresp="adams:48"  ana="#male #euphemisms #voisinage #copulation #desir">
+<div  type="fragment" corresp="adams:48" ana="#male #euphemisms #voisinage  #mentula #copulation #desir">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:3.9.59-3.9.60">
-        <w lemma="quantus(accusatif masculin singulier)|quantus(nominatif neutre singulier)|quantus(vocatif neutre singulier)|quantus(accusatif neutre singulier)|quantum(nominatif singulier)|quantum(vocatif singulier)|quantum(accusatif singulier)|quantum(-)|quantum(-)">quantum</w> 
-        <w lemma="obverto(3ème singulier indicatif PQP actif)|sum(3ème singulier indicatif imparfait actif)">erat</w> 
-        <w lemma="exhaurio(génitif masculin singulier participe parfait passif)|exhaurio(nominatif masculin pluriel participe parfait passif)|exhaurio(vocatif masculin pluriel participe parfait passif)|exhaurio(génitif neutre singulier participe parfait passif)|exhaustus(génitif masculin singulier)|exhaustus(nominatif masculin pluriel)|exhaustus(vocatif masculin pluriel)|exhaustus(génitif neutre singulier)">exhausti</w> 
-        <w lemma="lumbus(accusatif pluriel)">lumbos</w> 
-        <w lemma="dono(infinitif présent actif)|dono(2ème singulier indicatif présent passif)|dono(2ème singulier impératif présent passif)">donare</w> 
-        <w lemma="cliens(accusatif pluriel)|cliens(génitif singulier)|clienta(datif pluriel)|clienta(ablatif pluriel)">clientis</w> 
-        <w lemma="iugera(datif pluriel)|iugera(ablatif pluriel)|iuger(datif pluriel)|iuger(ablatif pluriel)">iugeribus</w> 
-        <w lemma="pauca(datif pluriel)|pauca(ablatif pluriel)|pauci(datif pluriel)|pauci(ablatif pluriel)|paucus(datif masculin pluriel)|paucus(ablatif masculin pluriel)|paucus(datif féminin pluriel)|paucus(ablatif féminin pluriel)|paucus(datif neutre pluriel)|paucus(ablatif neutre pluriel)">paucis</w>?     
+        <w lemma="quantum3" pos="ADVrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quantum</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
+        <w lemma="exhaurio" pos="VER" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">exhausti</w>
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #euphemisms #voisinage #copulation #desir">lumbos</w>
+        <w lemma="dono" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">donare</w>
+        <w lemma="cliens" pos="NOMcom" msd="Case=Acc|Numb=Sing">clientis</w>
+        <w lemma="iugerum" pos="NOMcom" msd="Case=Abl|Numb=Plur">iugeribus</w>
+        <w lemma="paucus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">paucis</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>
  </div>

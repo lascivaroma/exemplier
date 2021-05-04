@@ -1,19 +1,21 @@
-<div type="fragment" corresp="adams:30"  ana="#male #personnification">
+<div  type="fragment" corresp="adams:30" ana="#male #personnification">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:83.19-83.21">
-        <w lemma="o(-)">o</w> 
-        <w lemma="sceleste(positif)|scelestus(vocatif masculin singulier)|scelestus(vocatif singulier)">sceleste</w> 
-        <w lemma="penis(accusatif pluriel)|penis(génitif singulier)|penus(datif pluriel)|penus(ablatif pluriel)|penum(datif pluriel)|penum(ablatif pluriel)|Penius(datif pluriel)|Penius(ablatif pluriel)|penis(nominatif singulier)|penis(vocatif singulier)">penis</w>, 
-        <w lemma="o(-)">o</w> 
-        <w lemma="meum(nominatif singulier)|meum(vocatif singulier)|meum(accusatif singulier)|meus(accusatif masculin singulier)|meus(nominatif neutre singulier)|meus(vocatif neutre singulier)|meus(accusatif neutre singulier)|Meum(nominatif singulier)|Meum(vocatif singulier)|Meum(accusatif singulier)|meum(nominatif singulier)|meum(vocatif singulier)|meum(accusatif singulier)">meum</w> 
-        <w lemma="malum(nominatif singulier)|malum(vocatif singulier)|malum(accusatif singulier)|malum(nominatif singulier)|malum(vocatif singulier)|malum(accusatif singulier)|malus(accusatif masculin singulier)|malus(nominatif neutre singulier)|malus(vocatif neutre singulier)|malus(accusatif neutre singulier)|malus(accusatif singulier)|malus(accusatif singulier)|malum(-)">malum</w>, 	
-
-        <w lemma="gravis(datif masculin singulier)|gravis(ablatif masculin singulier)|gravis(datif féminin singulier)|gravis(ablatif féminin singulier)|gravis(datif neutre singulier)|gravis(ablatif neutre singulier)">gravi</w> 
-        <w lemma="pio(2ème singulier impératif présent actif)|pius(nominatif féminin singulier)|pius(vocatif féminin singulier)|pius(ablatif féminin singulier)|pius(nominatif neutre pluriel)|pius(vocatif neutre pluriel)|pius(accusatif neutre pluriel)|pium(nominatif pluriel)|pium(vocatif pluriel)|pium(accusatif pluriel)">piaque</w> 
-        <w lemma="lego(2ème singulier impératif présent actif)|lex(ablatif singulier)">lege</w> 
-        <w lemma="noxia(accusatif singulier)|noxius(accusatif féminin singulier)">noxiam</w> 
-        <w lemma="lues(accusatif pluriel)|lues(nominatif pluriel)|lues(vocatif pluriel)|luo(2ème singulier indicatif futur actif)|luo(2ème singulier indicatif futur actif)|lues(nominatif singulier)|lues(vocatif singulier)">lues</w>. 
-
-        <w lemma="liceo(3ème singulier indicatif présent actif)|licet(3ème singulier indicatif présent actif)|licet(-)">licet</w> 
-        <w lemma="queror(2ème singulier subjonctif présent actif)">querare</w>    
+        <w lemma="o" pos="INJ" msd="MORPH=empty">o</w>
+        <w lemma="scelestus" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=Masc|Deg=Pos">sceleste</w>
+        <w lemma="penis" pos="NOMcom" msd="Case=Voc|Numb=Sing" ana="#male #personnification">penis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="o" pos="INJ" msd="MORPH=empty">o</w>
+        <w lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=MascNeut">meum</w>
+        <w lemma="malum1" pos="NOMcom" msd="Case=Acc|Numb=Sing">malum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="grauis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">gravi</w>
+        <w lemma="pius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">piaque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{piaque}</w>
+        <w lemma="lex" pos="NOMcom" msd="Case=Abl|Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act">lege</w>
+        <w lemma="noxius" pos="ADJqua" msd="Numb=Sing|Gend=Fem|Deg=Pos">noxiam</w>
+        <w lemma="luo" pos="VER" msd="Numb=Sing|Person=2">lues</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+        <w lemma="licet1" pos="VER" msd="Mood=Ind|Tense=Pres|Voice=Act|Person=3">licet</w>
+        <w lemma="queror" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=2">querare</w>
     </quote>
  </div>

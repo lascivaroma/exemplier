@@ -1,30 +1,29 @@
-<div type="fragment" corresp="adams:58"  ana="#male #descriptive-functional">
+<div  type="fragment" corresp="adams:58" ana="#male #descriptive-functional #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1:4.46">
-        <w lemma="farina(nominatif singulier)|farina(vocatif singulier)|farina(ablatif singulier)">Farina</w> 
-        <w lemma="lino(infinitif présent passif)|Linos(génitif singulier)|Linos(nominatif pluriel)|Linos(vocatif pluriel)|linum(génitif singulier)|Linus(génitif singulier)|Linus(nominatif pluriel)|Linus(vocatif pluriel)|linio(2ème singulier impératif présent actif)|linio(1ère singulier indicatif parfait actif)">lini</w>
-      
-        <w lemma="semen(génitif singulier)|seminium(datif pluriel)|seminium(ablatif pluriel)">seminis</w> 
-        <w lemma="uel(-)">uel</w> 
-        <w lemma="farina(nominatif singulier)|farina(vocatif singulier)|farina(ablatif singulier)">farina</w> 
-        <w lemma="eruo(1ère singulier indicatif parfait actif)|eruo(infinitif présent passif)|ervum(génitif singulier)">erui</w> 
-        <w lemma="uel(-)">uel</w> 
-        <w lemma="lenticula(nominatif singulier)|lenticula(vocatif singulier)|lenticula(ablatif singulier)">lenticula</w> 
-        <w lemma="decocta(nominatif singulier)|decocta(vocatif singulier)|decocta(ablatif singulier)|decoctus(nominatif féminin singulier)|decoctus(vocatif féminin singulier)|decoctus(ablatif féminin singulier)|decoctus(nominatif neutre pluriel)|decoctus(vocatif neutre pluriel)|decoctus(accusatif neutre pluriel)|decoquo(nominatif féminin singulier participe parfait passif)|decoquo(vocatif féminin singulier participe parfait passif)|decoquo(ablatif féminin singulier participe parfait passif)|decoquo(nominatif neutre pluriel participe parfait passif)|decoquo(vocatif neutre pluriel participe parfait passif)|decoquo(accusatif neutre pluriel participe parfait passif)|decoco(nominatif féminin singulier participe parfait passif)|decoco(vocatif féminin singulier participe parfait passif)|decoco(ablatif féminin singulier participe parfait passif)|decoco(nominatif neutre pluriel participe parfait passif)|decoco(vocatif neutre pluriel participe parfait passif)|decoco(accusatif neutre pluriel participe parfait passif)|decoctum(nominatif pluriel)|decoctum(vocatif pluriel)|decoctum(accusatif pluriel)">decocta</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="ex(-)">ex</w> 
-        <w lemma="mel(ablatif singulier)">melle</w> 
-        <w lemma="appono(nominatif féminin singulier participe parfait passif)|appono(vocatif féminin singulier participe parfait passif)|appono(ablatif féminin singulier participe parfait passif)|appono(nominatif neutre pluriel participe parfait passif)|appono(vocatif neutre pluriel participe parfait passif)|appono(accusatif neutre pluriel participe parfait passif)|appositus(nominatif féminin singulier)|appositus(vocatif féminin singulier)|appositus(ablatif féminin singulier)|appositus(nominatif neutre pluriel)|appositus(vocatif neutre pluriel)|appositus(accusatif neutre pluriel)|appositum(nominatif pluriel)|appositum(vocatif pluriel)|appositum(accusatif pluriel)">adposita</w>
-      
-        <w lemma="suppuratio(nominatif pluriel)|suppuratio(vocatif pluriel)|suppuratio(accusatif pluriel)">suppurationes</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="pustula(accusatif pluriel)|pustulo(2ème singulier indicatif présent actif)">pustulas</w> 
-        <w lemma="ulcus(génitif pluriel)">ulcerum</w> 
-        <w lemma="sano(3ème singulier indicatif présent actif)">sanat</w>, 
-        <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiam</w> 
-        <w lemma="genitale(datif pluriel)|genitale(ablatif pluriel)|Genitalis(datif pluriel)|Genitalis(ablatif pluriel)|genitalis(datif masculin pluriel)|genitalis(ablatif masculin pluriel)|genitalis(datif féminin pluriel)|genitalis(ablatif féminin pluriel)|genitalis(datif neutre pluriel)|genitalis(ablatif neutre pluriel)">genitalibus</w> 
-        <w lemma="laboro(datif masculin pluriel participe présent actif)|laboro(ablatif masculin pluriel participe présent actif)|laboro(datif féminin pluriel participe présent actif)|laboro(ablatif féminin pluriel participe présent actif)|laboro(datif neutre pluriel participe présent actif)|laboro(ablatif neutre pluriel participe présent actif)">laborantibus</w> 
-        <w lemma="bene(positif)|benus(vocatif masculin singulier)">bene</w> 
-        <w lemma="adicio(3ème singulier indicatif présent passif)">adicitur</w>.
-           
+        <w lemma="farina" pos="NOMcom" msd="Case=Nom|Numb=Sing">Farina</w>
+        <w lemma="linum" pos="NOMcom" msd="Case=Gen|Numb=Sing">lini</w>
+        <w lemma="semen1" pos="NOMcom" msd="Case=Gen|Numb=Sing">seminis</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+        <w lemma="farina" pos="NOMcom" msd="Case=Nom|Numb=Sing">farina</w>
+        <w lemma="eruo" pos="VER" msd="Case=Gen">erui</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+        <w lemma="lenticula" pos="NOMcom" msd="Case=Nom|Numb=Sing">lenticula</w>
+        <w lemma="decoquo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">decocta</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+        <w lemma="mel" pos="NOMcom" msd="Case=Abl|Numb=Sing">melle</w>
+        <w lemma="appono" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">adposita</w>
+        <w lemma="suppuratio" pos="NOMcom" msd="Case=Acc|Numb=Plur">suppurationes</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="pustulus" pos="NOMcom" msd="Case=Acc|Numb=Plur">pustulas</w>
+        <w lemma="ulcus" pos="NOMcom" msd="Case=Gen|Numb=Sing">ulcerum</w>
+        <w lemma="sano" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sanat</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+        <w lemma="genitalis" pos="NOMcom" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#male #descriptive-functional #euphemism #mentula">genitalibus</w>
+        <w lemma="laboro" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">laborantibus</w>
+        <w lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
+        <w lemma="adicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">adicitur</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

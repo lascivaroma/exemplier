@@ -1,16 +1,19 @@
-<div type="fragment" corresp="adams:47"  ana="#male #euphemisms #voisinage">
+<div  type="fragment" corresp="adams:47" ana="#male #euphemisms #voisinage" #mentula="">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:78.2-78.3">
-        <w lemma="Castor(nominatif singulier)|Castor(vocatif singulier)|castor(nominatif singulier)|castor(vocatif singulier)">Castor</w> 
-        <w lemma="nec(-)">nec</w> 
-        <w lemma="possum(3ème singulier subjonctif imparfait actif)">posset</w> 
-        <w lemma="vulgus(vocatif singulier)|vulgus(accusatif singulier)|vulgus(nominatif singulier)">vulgus</w> 
-        <w lemma="habeo(infinitif présent actif)|habeo(2ème singulier indicatif présent passif)|habeo(2ème singulier impératif présent passif)">habere</w> 
-        <w lemma="domus(locatif)|domi(-)">domi</w>, 
-        <w lemma="reperio(3ème singulier indicatif parfait actif)">repperit</w>, 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="nullus(accusatif masculin singulier)|nullus(nominatif neutre singulier)|nullus(vocatif neutre singulier)|nullus(accusatif neutre singulier)">nullum</w> 
-        <w lemma="fello(2ème singulier impératif futur passif)|fello(3ème singulier impératif futur passif)|fellator(nominatif singulier)|fellator(vocatif singulier)">fellator</w> 
-        <w lemma="perdo(3ème singulier subjonctif imparfait actif)">perderet</w> 
-        <w lemma="inguen(accusatif singulier)|inguen(nominatif singulier)|inguen(vocatif singulier)">inguen</w>:    
+        <w lemma="Castor" pos="NOMpro" msd="Case=Nom|Numb=Sing">Castor</w>
+        <w lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+        <w lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">posset</w>
+        <w lemma="uulgus" pos="NOMcom" msd="Case=Nom|Numb=Sing">vulgus</w>
+        <w lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
+        <w lemma="domus" pos="NOMcom" msd="Case=Loc|Numb=Sing">domi</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="reperio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">repperit</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="nullus" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascNeut">nullum</w>
+        <w lemma="fellator" pos="NOMcom" msd="Case=Nom|Numb=Sing">fellator</w>
+        <w lemma="perdo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">perderet</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #voisinage">inguen</w>
+        <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     </quote>
  </div>

@@ -1,13 +1,16 @@
-<div type="fragment" corresp="adams:46"  ana="#male #specialisation #erection">
+<div  type="fragment" corresp="adams:46" ana="#male #specialisation #erection  #euphemism">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:32.10-32.11">
-        <w lemma="nes(accusatif singulier)|nam(-)">nam</w> 
-        <w lemma="prandeo(nominatif masculin singulier participe parfait passif)|pransus(nominatif masculin singulier)|pransus(nominatif singulier)|pransus(vocatif singulier)|pransus(génitif singulier)|pransus(nominatif pluriel)|pransus(vocatif pluriel)|pransus(accusatif pluriel)">pransus</w> 
-        <w lemma="iaceo(1ère singulier indicatif présent actif)">iaceo</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="satur(nominatif masculin singulier)|satur(vocatif masculin singulier)">satur</w> 
-        <w lemma="supinus(nominatif masculin singulier)">supinus</w> 
-        <w lemma="pertundo(1ère singulier indicatif présent actif)">pertundo</w> 
-        <w lemma="tunica(accusatif singulier)">tunicamque</w> 
-        <w lemma="pallium(nominatif singulier)|pallium(vocatif singulier)|pallium(accusatif singulier)">palliumque</w>.    
+        <w lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+        <w lemma="prandeo" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">pransus</w>
+        <w lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">iaceo</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="satur" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">satur</w>
+        <w lemma="supinus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">supinus</w>
+        <w lemma="pertundo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1" ana="#male #specialisation #erection">pertundo</w>
+        <w lemma="tunica" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #specialisation #erection">tunicamque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{tunicamque}</w>
+        <w lemma="pallium" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #specialisation #erection">palliumque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{palliumque}</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

@@ -1,16 +1,18 @@
-<div type="fragment" corresp="adams:59"  ana="#male #natura">
+<div  type="fragment" corresp="adams:59" ana="#natura #euphemism #neutral">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat6:5.20">
-        <w lemma="Andron(génitif singulier)|andron(génitif singulier)|Androna(datif pluriel)|Androna(ablatif pluriel)|Andronius(datif masculin pluriel)|Andronius(ablatif masculin pluriel)|Andronius(datif féminin pluriel)|Andronius(ablatif féminin pluriel)|Andronius(datif neutre pluriel)|Andronius(ablatif neutre pluriel)">Andronis</w> 
-        <w lemma="Uerus(datif singulier)|Uerus(ablatif singulier)|uerus(datif masculin singulier)|uerus(ablatif masculin singulier)|uerus(datif neutre singulier)|uerus(ablatif neutre singulier)|uero(1ère singulier indicatif présent actif)|uerum(datif singulier)|uerum(ablatif singulier)|uerum(datif singulier)|uerum(ablatif singulier)|uero(-)|uero(nominatif singulier)|uero(vocatif singulier)">uero</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
-        <w lemma="ad(-)">ad</w> 
-        <w lemma="uua(accusatif singulier)">uuam</w> 
-        <w lemma="inflammo(accusatif féminin singulier participe parfait passif)|inflammatus(accusatif féminin singulier)">inflammatam</w>, 
-        <w lemma="ad(-)">ad</w> 
-        <w lemma="naturalis(nominatif neutre pluriel)|naturalis(vocatif neutre pluriel)|naturalis(accusatif neutre pluriel)|naturale(nominatif pluriel)|naturale(vocatif pluriel)|naturale(accusatif pluriel)|naturalia(nominatif pluriel)|naturalia(vocatif pluriel)|naturalia(accusatif pluriel)">naturalia</w> 
-        <w lemma="sordido(2ème singulier impératif présent actif)|sordidus(nominatif féminin singulier)|sordidus(vocatif féminin singulier)|sordidus(ablatif féminin singulier)|sordidus(nominatif neutre pluriel)|sordidus(vocatif neutre pluriel)|sordidus(accusatif neutre pluriel)">sordida</w>, 
-        <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiam</w> 
-        <w lemma="cancer(datif singulier)|cancer(ablatif singulier)">cancro</w> 
-        <w lemma="laboro(nominatif neutre pluriel participe présent actif)|laboro(vocatif neutre pluriel participe présent actif)|laboro(accusatif neutre pluriel participe présent actif)">laborantia</w>    
+        <w lemma="androna" pos="NOMpro" msd="Case=Gen|Numb=Sing">Andronis</w>
+        <w lemma="uero4" pos="CONcoo" msd="MORPH=empty">uero</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+        <w lemma="uua" pos="NOMcom" msd="Case=Acc|Numb=Sing">uuam</w>
+        <w lemma="inflammo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">inflammatam</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+        <w lemma="naturalis" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#natura #euphemism #neutral">naturalia</w>
+        <w lemma="sordidus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">sordida</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+        <w lemma="cancer" pos="NOMcom" msd="Case=Abl|Numb=Sing">cancro</w>
+        <w lemma="laboro" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act">laborantia</w>
     </quote>
  </div>

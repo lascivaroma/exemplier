@@ -1,10 +1,10 @@
-<div type="fragment" corresp="adams:51"  ana="#male #euphemisms #voisinage #reproduction">
+<div  type="fragment" corresp="adams:51" ana="#euphemisms #voisinage #reproduction">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:87.5">
-        <w lemma="de(-)">de</w> 
-        <w lemma="valles(ablatif singulier)|vallis(ablatif singulier)|vallus(vocatif singulier)|vallus(vocatif singulier)">valle</w> 
-        <w lemma="femur(génitif pluriel)">femorum</w> 
-        <w lemma="altrinsecus(-)">altrinsecus</w> 
-        <w lemma="par(accusatif pluriel)|par(nominatif pluriel)|par(vocatif pluriel)|pareo(2ème singulier indicatif présent actif)|par(nominatif masculin pluriel)|par(vocatif masculin pluriel)|par(accusatif masculin pluriel)|par(nominatif féminin pluriel)|par(vocatif féminin pluriel)|par(accusatif féminin pluriel)|paro(2ème singulier subjonctif présent actif)|paro(2ème singulier subjonctif présent actif)">pares</w> 
-        <w lemma="ruga(accusatif pluriel)|rugo(2ème singulier indicatif présent actif)|Ruga(accusatif pluriel)">rugas</w>     
+        <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w lemma="uallis" pos="NOMcom" msd="Case=Abl|Numb=Sing">valle</w>
+        <w lemma="femur" pos="NOMcom" msd="Case=Gen|Numb=Plur" ana="#euphemisms #voisinage #reproduction">femorum</w>
+        <w lemma="altrinsecus" pos="ADV" msd="Deg=Pos">altrinsecus</w>
+        <w lemma="par2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">pares</w>
+        <w lemma="ruga" pos="NOMcom" msd="Case=Acc|Numb=Plur">rugas</w>
     </quote>
  </div>

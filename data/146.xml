@@ -1,12 +1,12 @@
-<div type="fragment" corresp="adams:46"  ana="#male #specialisation #erection">
+<div  type="fragment" corresp="adams:46" ana="#male #specialisation #erection  #euphemism">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:6.71.3-6.71.4">
-        <w lemma="tendo(infinitif présent actif)|tendo(2ème singulier indicatif présent passif)|tendo(2ème singulier indicatif futur passif)|tendo(2ème singulier impératif présent passif)">Tendere</w> 
-        <w lemma="qui(nominatif féminin singulier)|qui(nominatif féminin pluriel)|qui(nominatif neutre pluriel)|qui(accusatif neutre pluriel)|quis(nominatif féminin singulier)|quis(nominatif féminin pluriel)|quis(nominatif neutre pluriel)|quis(accusatif neutre pluriel)">quae</w> 
-        <w lemma="Tremulus(accusatif singulier)|tremulus(accusatif masculin singulier)|tremulus(nominatif neutre singulier)|tremulus(vocatif neutre singulier)|tremulus(accusatif neutre singulier)|tremulus(accusatif singulier)|tremulum(positif)">tremulum</w> 
-        <w lemma="Pelias(accusatif singulier)">Pelian</w> 
-        <w lemma="Hecuba(locatif)|Hecuba(génitif singulier)|Hecuba(datif singulier)|Hecuba(nominatif pluriel)|Hecuba(vocatif pluriel)|Hecube(génitif singulier)|Hecube(datif singulier)|Hecube(nominatif pluriel)|Hecube(vocatif pluriel)">Hecubaeque</w> 
-        <w lemma="maritus(accusatif masculin singulier)|maritus(nominatif neutre singulier)|maritus(vocatif neutre singulier)|maritus(accusatif neutre singulier)|maritus(accusatif singulier)">maritum</w> 
-
-        <w lemma="possum(3ème singulier subjonctif imparfait actif)">posset</w>    
+        <w lemma="tendo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act" ana="#male #specialisation #erection  #euphemism">Tendere</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+        <w lemma="tremulus3" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">tremulum</w>
+        <w lemma="Pelias" pos="NOMpro" msd="Case=Acc|Numb=Sing">Pelian</w>
+        <w lemma="Hecuba" pos="NOMpro" msd="Case=Gen|Numb=Sing">Hecubaeque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{Hecubaeque}</w>
+        <w lemma="maritus1" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #specialisation #erection  #euphemism">maritum</w>
+        <w lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">posset</w>
     </quote>
  </div>

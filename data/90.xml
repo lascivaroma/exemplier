@@ -1,49 +1,60 @@
-<div type="fragment" corresp="adams:40"  ana="#male #medical">
+<div  type="fragment" corresp="adams:40" ana="#male #medical">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001:3.176">
-        <w lemma="sequor(3ème singulier indicatif présent actif)|sequo(3ème singulier indicatif présent passif)">Sequitur</w> 
-        <w lemma="autem(-)">autem</w> 
-        <w lemma="aegroto(nominatif masculin pluriel participe présent actif)|aegroto(vocatif masculin pluriel participe présent actif)|aegroto(accusatif masculin pluriel participe présent actif)|aegroto(nominatif féminin pluriel participe présent actif)|aegroto(vocatif féminin pluriel participe présent actif)|aegroto(accusatif féminin pluriel participe présent actif)">aegrotantes</w> 
-        <w lemma="vehemens(nominatif masculin singulier)|vehemens(vocatif masculin singulier)|vehemens(nominatif féminin singulier)|vehemens(vocatif féminin singulier)">uehemens</w> 
-        <w lemma="genitale(génitif pluriel)|Genitalis(génitif pluriel)|genitalis(génitif masculin pluriel)|genitalis(génitif féminin pluriel)|genitalis(génitif neutre pluriel)">genitalium</w> 
-        <w lemma="tentigo(nominatif singulier)|tentigo(vocatif singulier)">tentigo</w> 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="dolor(ablatif singulier)">dolore</w> 
-        <w lemma="atque(-)|at(-)">atque</w> 
-        <w lemma="incendium(datif singulier)|incendium(ablatif singulier)">incendio</w> 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="quidam(ablatif masculin singulier)|quidam(ablatif neutre singulier)">quodam</w> 
-        <w lemma="pruritus(ablatif singulier)">pruritu</w> 
-        <w lemma="immodicus(datif masculin singulier)|immodicus(ablatif masculin singulier)|immodicus(datif neutre singulier)|immodicus(ablatif neutre singulier)">immodico</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="Uenerius(accusatif féminin singulier)|Ueneria(accusatif singulier)">ueneriam</w> 
-        <w lemma="libido(accusatif singulier)">libidinem</w> 
-        <w lemma="cogo(ablatif masculin singulier participe présent actif)|cogo(ablatif féminin singulier participe présent actif)|cogo(ablatif neutre singulier participe présent actif)">cogente</w>, 
-        <w lemma="mens(accusatif pluriel)|mens(génitif singulier)|menta(datif pluriel)|menta(ablatif pluriel)|mentum(datif pluriel)|mentum(ablatif pluriel)|mentio(2ème singulier indicatif présent actif)">mentis</w> 
-        <w lemma="alienatio(nominatif singulier)|alienatio(vocatif singulier)">alienatio</w>, 
-        <w lemma="pello(nominatif masculin singulier participe parfait passif)|pulsus(nominatif singulier)|pulsus(vocatif singulier)|pulsus(génitif singulier)|pulsus(nominatif pluriel)|pulsus(vocatif pluriel)|pulsus(accusatif pluriel)|pulsus(nominatif masculin singulier)">pulsus</w> 
-        <w lemma="densito(2ème singulier indicatif présent actif)|densitas(nominatif singulier)|densitas(vocatif singulier)">densitas</w>, 
-        <w lemma="anhelatio(nominatif singulier)|anhelatio(vocatif singulier)">anhelatio</w> 
-        <w lemma="creber(nominatif féminin singulier)|creber(vocatif féminin singulier)|creber(ablatif féminin singulier)|creber(nominatif neutre pluriel)|creber(vocatif neutre pluriel)|creber(accusatif neutre pluriel)|crebra(-)">crebra</w> 
-        <w lemma="atque(-)|at(-)">atque</w> 
-        <w lemma="celer(nominatif féminin singulier superlatif)|celer(vocatif féminin singulier superlatif)|celer(ablatif féminin singulier superlatif)|celer(nominatif neutre pluriel superlatif)|celer(vocatif neutre pluriel superlatif)|celer(accusatif neutre pluriel superlatif)">celerrima</w>, 
-        <w lemma="desponsio(nominatif singulier)|desponsio(vocatif singulier)">desponsio</w>, 
-        <w lemma="uigilia(génitif singulier)|uigilia(datif singulier)|uigilia(nominatif pluriel)|uigilia(vocatif pluriel)">uigiliae</w>, 
-        <w lemma="hallucinatio(nominatif singulier)|hallucinatio(vocatif singulier)">hallucinatio</w>, 
-        <w lemma="sum(2ème pluriel subjonctif présent actif)|sino(datif masculin pluriel participe parfait passif)|sino(ablatif masculin pluriel participe parfait passif)|sino(datif féminin pluriel participe parfait passif)|sino(ablatif féminin pluriel participe parfait passif)|sino(datif neutre pluriel participe parfait passif)|sino(ablatif neutre pluriel participe parfait passif)|sitio(2ème singulier indicatif présent actif)|sitis(accusatif pluriel)|sitis(génitif singulier)|situs(datif masculin pluriel)|situs(ablatif masculin pluriel)|situs(datif féminin pluriel)|situs(ablatif féminin pluriel)|situs(datif neutre pluriel)|situs(ablatif neutre pluriel)|Sitia(datif pluriel)|Sitia(ablatif pluriel)|Sitius(datif pluriel)|Sitius(ablatif pluriel)|sitis(nominatif singulier)|sitis(vocatif singulier)">sitis</w>, 
-        <w lemma="cibus(génitif singulier)|cibus(nominatif pluriel)|cibus(vocatif pluriel)">cibi</w> 
-        <w lemma="fastidium(nominatif singulier)|fastidium(vocatif singulier)|fastidium(accusatif singulier)">fastidium</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="difficilis(génitif masculin singulier)|difficilis(accusatif masculin pluriel)|difficilis(génitif féminin singulier)|difficilis(accusatif féminin pluriel)|difficilis(génitif neutre singulier)|difficilis(nominatif masculin singulier)|difficilis(vocatif masculin singulier)|difficilis(nominatif féminin singulier)|difficilis(vocatif féminin singulier)">difficilis</w> 
-        <w lemma="urina(génitif singulier)|urina(datif singulier)|urina(nominatif pluriel)|urina(vocatif pluriel)|urinus(génitif féminin singulier)|urinus(datif féminin singulier)|urinus(nominatif féminin pluriel)|urinus(vocatif féminin pluriel)">urinae</w> 
-        <w lemma="egestio(nominatif singulier)|egestio(vocatif singulier)">egestio</w>, 
-        <w lemma="ito(2ème singulier impératif présent actif)|ita(-)">ita</w> 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="plerumque(-)|plerus(accusatif masculin singulier)|plerus(nominatif neutre singulier)|plerus(vocatif neutre singulier)|plerus(accusatif neutre singulier)|plerum(positif)">plerumque</w> 
-        <w lemma="stercus(génitif pluriel)">stercorum</w> 
-        <w lemma="abstentio(nominatif singulier)|abstentio(vocatif singulier)">abstentio</w> 
-        <w lemma="fio(3ème singulier subjonctif présent actif)">fiat</w>, 
-        <w lemma="quidam(datif masculin pluriel)|quidam(ablatif masculin pluriel)|quidam(datif féminin pluriel)|quidam(ablatif féminin pluriel)|quidam(datif neutre pluriel)|quidam(ablatif neutre pluriel)">quibusdam</w> 
-        <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiam</w> 
-        <w lemma="febris(accusatif pluriel)|febris(nominatif pluriel)|febris(vocatif pluriel)">febres</w>;    
+        <w lemma="sequor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">Sequitur</w>
+        <w lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+        <w lemma="aegroto" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">aegrotantes</w>
+        <w lemma="uehemens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">uehemens</w>
+        <w lemma="genitalis" pos="NOMcom" msd="Case=Gen|Numb=Plur">genitalium</w>
+        <w lemma="tentigo" pos="ADJqua" msd="Case=Nom|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act" ana="#male #medical">tentigo</w>
+        <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+        <w lemma="dolor" pos="NOMcom" msd="Case=Abl|Numb=Sing">dolore</w>
+        <w lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+        <w lemma="incendium" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #medical">incendio</w>
+        <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+        <w lemma="quidam" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quodam</w>
+        <w lemma="pruritus" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #medical">pruritu</w>
+        <w lemma="immodicus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">immodico</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="ueneria" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">ueneriam</w>
+        <w lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing">libidinem</w>
+        <w lemma="cogo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">cogente</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="mens" pos="NOMcom" msd="Case=Gen|Numb=Sing">mentis</w>
+        <w lemma="alienatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">alienatio</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="pello" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">pulsus</w>
+        <w lemma="denseo" pos="VER" msd="Case=Nom|Numb=Sing">densitas</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="anhelatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">anhelatio</w>
+        <w lemma="creber" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">crebra</w>
+        <w lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+        <w lemma="celer" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Sup">celerrima</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="desponsio" pos="NOMcom" msd="Case=Nom|Numb=Sing">desponsio</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="uigilia" pos="NOMcom" msd="Case=Gen|Numb=Sing">uigiliae</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="hallucinatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">hallucinatio</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="sitis" pos="NOMcom" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act">sitis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="cibus" pos="NOMcom" msd="Case=Gen|Numb=Sing">cibi</w>
+        <w lemma="fastidium" pos="NOMcom" msd="Case=Nom|Numb=Sing">fastidium</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="difficilis" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Com|Deg=Pos">difficilis</w>
+        <w lemma="urina" pos="NOMcom" msd="Case=Gen|Numb=Sing">urinae</w>
+        <w lemma="egestio" pos="NOMcom" msd="Case=Dat|Numb=Sing">egestio</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="plerumque" pos="ADV" msd="Deg=Pos">plerumque</w>
+        <w lemma="stercus" pos="NOMcom" msd="Case=Gen|Numb=Plur">stercorum</w>
+        <w lemma="abstentio" pos="NOMcom" msd="Case=Nom|Numb=Sing">abstentio</w>
+        <w lemma="fio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">fiat</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="quidam" pos="PROind" msd="Case=Dat|Numb=Plur|Gend=Com">quibusdam</w>
+        <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+        <w lemma="febris" pos="NOMcom" msd="Case=Nom|Numb=Plur">febres</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     </quote>
  </div>

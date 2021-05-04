@@ -1,12 +1,14 @@
-<div type="fragment" corresp="adams:56"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:56" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:9.1">
-        <w lemma="cur(-)">Cur</w> 
-        <w lemma="obscena(nominatif pluriel)|obscena(vocatif pluriel)|obscena(accusatif pluriel)|obscenus(nominatif féminin singulier)|obscenus(vocatif féminin singulier)|obscenus(ablatif féminin singulier)|obscenus(nominatif neutre pluriel)|obscenus(vocatif neutre pluriel)|obscenus(accusatif neutre pluriel)">obscena</w> 
-        <w lemma="ego(datif masculin singulier)|ego(datif féminin singulier)">mihi</w> 
-        <w lemma="pars(nominatif singulier)|pars(vocatif singulier)">pars</w> 
-        <w lemma="sum(3ème singulier subjonctif présent actif)">sit</w> 
-        <w lemma="Sinis(ablatif singulier)|sino(2ème singulier impératif présent actif)|sinus(vocatif singulier)|sine(-)|sion(génitif singulier)|si(-)">sine</w> 
-        <w lemma="vestis(ablatif singulier)">ueste</w>, 
-        <w lemma="requiro(2ème singulier indicatif présent actif)">requiris</w>:    
+        <w lemma="cur" pos="ADVint" msd="MORPH=empty">Cur</w>
+        <w lemma="obscenus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" ana="#male #euphemisms #aidoion">obscena</w>
+        <w lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing">pars</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+        <w lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+        <w lemma="uestis" pos="NOMcom" msd="Case=Abl|Numb=Sing">ueste</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="requiro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">requiris</w>
+        <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     </quote>
  </div>

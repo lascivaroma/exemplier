@@ -1,17 +1,19 @@
-<div type="fragment" corresp="adams:50"  ana="#male #euphemisms #voisinage #cuisine">
+<div  type="fragment" corresp="adams:50" ana="#male #euphemisms #voisinage #cuisine  #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:11.208">
-        <w lemma="inter(-)">inter</w> 
-        <w lemma="is(accusatif féminin singulier)|eo(1ère singulier subjonctif présent actif)|Eus(accusatif féminin singulier)">eam</w> (
-        <w lemma="uesica(accusatif singulier)">uesicam</w>) 
-        <w lemma="et(-)">et</w> 
-        <w lemma="alvus(accusatif singulier)">aluum</w> 
-        <w lemma="arteria(génitif singulier)|arteria(datif singulier)|arteria(nominatif pluriel)|arteria(vocatif pluriel)">arteriae</w> 
-        <w lemma="ad(-)">ad</w>
-
-        <w lemma="pubes(accusatif singulier)|pubis(accusatif singulier)">pubem</w> 
-        <w lemma="tendo(nominatif masculin pluriel participe présent actif)|tendo(vocatif masculin pluriel participe présent actif)|tendo(accusatif masculin pluriel participe présent actif)|tendo(nominatif féminin pluriel participe présent actif)|tendo(vocatif féminin pluriel participe présent actif)|tendo(accusatif féminin pluriel participe présent actif)">tendentes</w>, 
-        <w lemma="qui(nominatif féminin singulier)|qui(nominatif féminin pluriel)|qui(nominatif neutre pluriel)|qui(accusatif neutre pluriel)|quis(nominatif féminin singulier)|quis(nominatif féminin pluriel)|quis(nominatif neutre pluriel)|quis(accusatif neutre pluriel)">quae</w> 
-        <w lemma="ilia(nominatif pluriel)|ilia(vocatif pluriel)|ilia(accusatif pluriel)|ile(nominatif pluriel)|ile(vocatif pluriel)|ile(accusatif pluriel)|Ilia(nominatif singulier)|Ilia(vocatif singulier)|Ilia(ablatif singulier)|Ilium(nominatif pluriel)|Ilium(vocatif pluriel)|Ilium(accusatif pluriel)|Ilius(nominatif féminin singulier)|Ilius(vocatif féminin singulier)|Ilius(ablatif féminin singulier)|Ilius(nominatif neutre pluriel)|Ilius(vocatif neutre pluriel)|Ilius(accusatif neutre pluriel)|Ilion(nominatif pluriel)|Ilion(vocatif pluriel)|Ilion(accusatif pluriel)|ilium(nominatif pluriel)|ilium(vocatif pluriel)|ilium(accusatif pluriel)">ilia</w> 
-        <w lemma="appello(3ème pluriel indicatif présent passif)|appello(3ème pluriel subjonctif présent passif)">appellantur</w>    
+        <w lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+        <w lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
+        <w lemma="(" pos="PUNC" msd="MORPH=empty">(</w>
+        <w lemma="uesica" pos="NOMcom" msd="Case=Acc|Numb=Sing">uesicam</w>
+        <w lemma=")" pos="PUNC" msd="MORPH=empty">)</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="aluus" pos="NOMcom" msd="Case=Acc|Numb=Sing">aluum</w>
+        <w lemma="arteria" pos="NOMcom" msd="Case=Nom|Numb=Sing">arteriae</w>
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+        <w lemma="pubes1" pos="NOMcom" msd="Case=Acc|Numb=Sing">pubem</w>
+        <w lemma="tendo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">tendentes</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
+        <w lemma="ilia" pos="NOMcom" msd="Case=Nom|Numb=Plur" ana="#male #euphemisms #voisinage #cuisine">ilia</w>
+        <w lemma="appello1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">appellantur</w>
     </quote>
  </div>

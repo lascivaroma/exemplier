@@ -1,10 +1,10 @@
-<div type="fragment" corresp="adams:57"  ana="#male #descriptive-functional">
+<div  type="fragment" corresp="adams:57" ana="#male #descriptive-functional #euphemisms #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0920.phi001:536">
-        <w lemma="pellicula(nominatif singulier)|pellicula(vocatif singulier)|pellicula(ablatif singulier)|pelliculo(2ème singulier impératif présent actif)">pellicula</w> 
-        <w lemma="extremum(nominatif pluriel)|extremum(vocatif pluriel)|extremum(accusatif pluriel)|extremus(nominatif féminin singulier)|extremus(vocatif féminin singulier)|extremus(ablatif féminin singulier)|extremus(nominatif neutre pluriel)|extremus(vocatif neutre pluriel)|extremus(accusatif neutre pluriel)">extrema</w> 
-        <w lemma="exaptus(accusatif masculin singulier)|exaptus(nominatif neutre singulier)|exaptus(vocatif neutre singulier)|exaptus(accusatif neutre singulier)">exaptum</w> 
-        <w lemma="pendeo(infinitif présent actif)|pendeo(2ème singulier indicatif présent passif)|pendeo(2ème singulier impératif présent passif)|pendo(infinitif présent actif)|pendo(2ème singulier indicatif présent passif)|pendo(2ème singulier indicatif futur passif)|pendo(2ème singulier impératif présent passif)">pendere</w> 
-        <w lemma="Onus(nominatif singulier)|onus(accusatif singulier)|onus(nominatif singulier)|onus(vocatif singulier)">onus</w> 
-        <w lemma="ingens(nominatif masculin singulier)|ingens(vocatif masculin singulier)|ingens(nominatif féminin singulier)|ingens(vocatif féminin singulier)">ingens</w>    
+        <w lemma="pellicula" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #descriptive-functional">pellicula</w>
+        <w lemma="exter" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Sup">extrema</w>
+        <w lemma="exaptus" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">exaptum</w>
+        <w lemma="pendo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act" ana="#male #descriptive-functional">pendere</w>
+        <w lemma="onus" pos="NOMcom" msd="Case=Acc|Numb=Sing">onus</w>
+        <w lemma="ingens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">ingens</w>
     </quote>
  </div>

@@ -1,9 +1,10 @@
-<div type="fragment" corresp="adams:53"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:53" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0293b.stoa002:28">
-        <w lemma="ueretrum(nominatif singulier)|ueretrum(vocatif singulier)|ueretrum(accusatif singulier)">ueretrum</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
-        <w lemma="oblongus(accusatif masculin singulier)|oblongus(nominatif neutre singulier)|oblongus(vocatif neutre singulier)|oblongus(accusatif neutre singulier)">oblongum</w>, 
-        <w lemma="nascor(nominatif féminin singulier participe futur actif)|nascor(vocatif féminin singulier participe futur actif)|nascor(ablatif féminin singulier participe futur actif)|nascor(nominatif neutre pluriel participe futur actif)|nascor(vocatif neutre pluriel participe futur actif)|nascor(accusatif neutre pluriel participe futur actif)|no(nominatif féminin singulier participe futur actif)|no(vocatif féminin singulier participe futur actif)|no(ablatif féminin singulier participe futur actif)|no(nominatif neutre pluriel participe futur actif)|no(vocatif neutre pluriel participe futur actif)|no(accusatif neutre pluriel participe futur actif)|natura(nominatif singulier)|natura(vocatif singulier)|natura(ablatif singulier)">natura</w> 
-        <w lemma="nervosus(accusatif masculin singulier)|nervosus(nominatif neutre singulier)|nervosus(vocatif neutre singulier)|nervosus(accusatif neutre singulier)">neruosum</w>    
+        <w lemma="uereter" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #euphemisms #aidoion #mentula">ueretrum</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="oblongus" pos="ADJqua" msd="Numb=Sing|Gend=Neut|Deg=Pos">oblongum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="natura" pos="NOMcom" msd="Case=Abl|Numb=Sing">natura</w>
+        <w lemma="neruosus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">neruosum</w>
     </quote>
  </div>

@@ -1,10 +1,10 @@
-<div type="fragment" corresp="adams:52"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:52" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.opp-lat1:1.27">
-        <w lemma="de(-)">de</w> 
-        <w lemma="ueretrum(génitif singulier)">ueretri</w> 
-        <w lemma="hic(ablatif masculin singulier)|hic(nominatif neutre singulier)|hic(accusatif neutre singulier)|hic(ablatif neutre singulier)|hoc(-)">hoc</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
-        <w lemma="nascor(génitif féminin singulier participe futur actif)|nascor(datif féminin singulier participe futur actif)|nascor(nominatif féminin pluriel participe futur actif)|nascor(vocatif féminin pluriel participe futur actif)|no(génitif féminin singulier participe futur actif)|no(datif féminin singulier participe futur actif)|no(nominatif féminin pluriel participe futur actif)|no(vocatif féminin pluriel participe futur actif)|natura(génitif singulier)|natura(datif singulier)|natura(nominatif pluriel)|natura(vocatif pluriel)">naturae</w> 
-        <w lemma="causatio(ablatif singulier)|causatio(nominatif singulier)|causatio(vocatif singulier)">causatione</w>    
+        <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w lemma="ueretrum" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #euphemisms #aidoion #mentula">ueretri</w>
+        <w lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">hoc</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="natura" pos="NOMcom" msd="Case=Gen|Numb=Sing">naturae</w>
+        <w lemma="causatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">causatione</w>
     </quote>
  </div>

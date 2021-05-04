@@ -1,62 +1,67 @@
-<div type="fragment" corresp="adams:54"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:54" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1:31.16">
-        <w lemma="ad(-)">Ad</w> 
-        <w lemma="ficus(accusatif pluriel)|ficus(accusatif pluriel)">ficos</w>, 
-        <w lemma="qui(nominatif masculin singulier)|qui(nominatif masculin pluriel)|quis(nominatif masculin pluriel)|queo(2ème singulier impératif présent actif)|queo(1ère singulier indicatif parfait actif)|qui(-)">qui</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="locum(datif pluriel)|locum(ablatif pluriel)|locus(datif pluriel)|locus(ablatif pluriel)|loca(datif pluriel)|loca(ablatif pluriel)">locis</w>
-      
-        <w lemma="verecundus(datif masculin pluriel comparatif)|verecundus(ablatif masculin pluriel comparatif)|verecundus(datif féminin pluriel comparatif)|verecundus(ablatif féminin pluriel comparatif)|verecundus(datif neutre pluriel comparatif)|verecundus(ablatif neutre pluriel comparatif)">uerecundioribus</w> 
-        <w lemma="nascor(3ème pluriel indicatif présent actif)|nasco(3ème pluriel indicatif présent passif)">nascuntur</w>, 
-        <w lemma="de(-)">de</w> 
-        <w lemma="orbita(nominatif singulier)|orbita(vocatif singulier)|orbita(ablatif singulier)|orbitus(nominatif féminin singulier)|orbitus(vocatif féminin singulier)|orbitus(ablatif féminin singulier)|orbitus(nominatif neutre pluriel)|orbitus(vocatif neutre pluriel)|orbitus(accusatif neutre pluriel)">orbita</w> 
-        <w lemma="rota(génitif singulier)|rota(datif singulier)|rota(nominatif pluriel)|rota(vocatif pluriel)">rotae</w> 
-        <w lemma="colligo(2ème singulier impératif présent actif)">collige</w> 
-        <w lemma="Calvus(accusatif pluriel)|calvus(accusatif masculin pluriel)">caluos</w> 
-        <w lemma="lapido(2ème singulier subjonctif présent actif)|lapis(nominatif pluriel)|lapis(vocatif pluriel)|lapis(accusatif pluriel)">lapides</w> 
-        <w lemma="non(-)">non</w> 
-        <w lemma="praegrandis(nominatif masculin pluriel)|praegrandis(vocatif masculin pluriel)|praegrandis(accusatif masculin pluriel)|praegrandis(nominatif féminin pluriel)|praegrandis(vocatif féminin pluriel)|praegrandis(accusatif féminin pluriel)">praegrandes</w> 
-        <w lemma="neque(-)|neo(2ème singulier impératif présent actif)|nes(vocatif singulier)|nes(ablatif singulier)|ne(-)|ne(-)|ne(positif)">neque</w> 
-        <w lemma="parvus(accusatif masculin pluriel)|paruus(accusatif masculin pluriel)">paruos</w>
-      
-        <w lemma="et(-)">et</w> 
-        <w lemma="pono(2ème singulier impératif présent actif)|pone(-)|po(-)">pone</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="focus(datif singulier)|focus(ablatif singulier)">foco</w>, 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="bene(positif)|benus(vocatif masculin singulier)">bene</w> 
-        <w lemma="candesco(3ème pluriel subjonctif présent actif)">candescant</w>, 
-        <w lemma="et(-)">et</w> 
-        <w lemma="lotium(datif singulier)|lotium(ablatif singulier)|lotio(nominatif singulier)|lotio(vocatif singulier)">lotio</w> 
-        <w lemma="infans(génitif masculin singulier)|infans(accusatif masculin pluriel)|infans(génitif féminin singulier)|infans(accusatif féminin pluriel)|infans(génitif neutre singulier)|infans(accusatif pluriel)|infans(génitif singulier)|infantia(datif pluriel)|infantia(ablatif pluriel)">infantis</w> 
-        <w lemma="is(accusatif masculin pluriel)|Eus(accusatif pluriel)|Eus(accusatif masculin pluriel)">eos</w> 
-        <w lemma="extinguo(2ème singulier impératif présent actif)|exstinguo(2ème singulier impératif présent actif)">extingue</w>, 
-        <w lemma="postea(-)">postea</w> 
-        <w lemma="de(-)">de</w> 
-        <w lemma="ipse(ablatif masculin singulier)|ipse(ablatif neutre singulier)">ipso</w> 
-        <w lemma="lotium(datif singulier)|lotium(ablatif singulier)|lotio(nominatif singulier)|lotio(vocatif singulier)">lotio</w>
-      
-        <w lemma="locum(nominatif singulier)|locum(vocatif singulier)|locum(accusatif singulier)|locus(accusatif singulier)">locum</w> 
-        <w lemma="adsidue(positif)|adsiduus(vocatif singulier)">adsidue</w> 
-        <w lemma="lauo(2ème singulier impératif présent actif)">laua</w> 
-        <w lemma="ito(2ème singulier impératif présent actif)|ita(-)">ita</w>, 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="frequenter(positif)|frequento(1ère singulier subjonctif présent passif)">frequenter</w> 
-        <w lemma="muto(2ème singulier subjonctif présent actif)">mutes</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="lapido(2ème singulier subjonctif présent actif)|lapis(nominatif pluriel)|lapis(vocatif pluriel)|lapis(accusatif pluriel)">lapides</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="lotium(nominatif singulier)|lotium(vocatif singulier)|lotium(accusatif singulier)">lotium</w> 
-        <w lemma="infans(génitif masculin singulier)|infans(accusatif masculin pluriel)|infans(génitif féminin singulier)|infans(accusatif féminin pluriel)|infans(génitif neutre singulier)|infans(accusatif pluriel)|infans(génitif singulier)|infantia(datif pluriel)|infantia(ablatif pluriel)">infantis</w>; 
-        <w lemma="tantus(accusatif masculin singulier)|tantus(nominatif neutre singulier)|tantus(vocatif neutre singulier)|tantus(accusatif neutre singulier)|tantum(nominatif singulier)|tantum(vocatif singulier)|tantum(accusatif singulier)|tantum(-)">tantum</w> 
-        <w lemma="prosum(3ème singulier indicatif futur actif)">proderit</w>, 
-        <w lemma="ut(-)">ut</w>
-      
-        <w lemma="sectio(ablatif singulier)|sectio(nominatif singulier)|sectio(vocatif singulier)">sectione</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="ferrum(datif singulier)|ferrum(ablatif singulier)">ferro</w> 
-        <w lemma="opos(nominatif singulier)|opus(-)|opus(accusatif singulier)|opus(nominatif singulier)|opus(vocatif singulier)|Opus(nominatif singulier)|Opus(vocatif singulier)">opus</w> 
-        <w lemma="non(-)">non</w> 
-        <w lemma="sum(3ème singulier subjonctif présent actif)">sit</w>.     
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty">Ad</w>
+        <w lemma="ficus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">ficos</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
+        <w lemma="uerecundus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp" ana="#male #euphemisms #aidoion #mentula">uerecundioribus</w>
+        <w lemma="nascor" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">nascuntur</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w lemma="orbita" pos="NOMcom" msd="Case=Abl|Numb=Sing">orbita</w>
+        <w lemma="rota" pos="NOMcom" msd="Case=Nom|Numb=Sing">rotae</w>
+        <w lemma="colligo3" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">collige</w>
+        <w lemma="caluus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">caluos</w>
+        <w lemma="lapis" pos="NOMcom" msd="Case=Acc|Numb=Plur">lapides</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="praegrandis" pos="VER" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">praegrandes</w>
+        <w lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
+        <w lemma="paruus2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">paruos</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="pone1" pos="ADV" msd="Mood=Imp|Tense=Pres|Voice=Act|Person=2">pone</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="focus" pos="NOMcom" msd="Case=Abl|Numb=Sing">foco</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
+        <w lemma="candesco" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">candescant</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="lotium" pos="NOMcom" msd="Case=Abl|Numb=Sing">lotio</w>
+        <w lemma="infans1" pos="NOMcom" msd="Case=Gen|Numb=Sing">infantis</w>
+        <w lemma="is" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Masc">eos</w>
+        <w lemma="exstinguo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">extingue</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="postea" pos="ADV" msd="Deg=Pos">postea</w>
+        <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">ipso</w>
+        <w lemma="lotium" pos="NOMcom" msd="Case=Abl|Numb=Sing">lotio</w>
+        <w lemma="locus" pos="NOMcom" msd="Case=Acc|Numb=Sing">locum</w>
+        <w lemma="assidue" pos="ADV" msd="Deg=Pos">adsidue</w>
+        <w lemma="lauo2" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">laua</w>
+        <w lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="frequenter" pos="ADV" msd="Deg=Pos">frequenter</w>
+        <w lemma="muto2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">mutes</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="lapis" pos="NOMcom" msd="Case=Acc|Numb=Plur">lapides</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="lotium" pos="NOMcom" msd="Case=Nom|Numb=Sing">lotium</w>
+        <w lemma="infans1" pos="NOMcom" msd="Case=Gen|Numb=Sing">infantis</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+        <w lemma="tantum2" pos="ADV" msd="Numb=Sing|Deg=Pos">tantum</w>
+        <w lemma="prosum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">proderit</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="sectio" pos="NOMcom" msd="Case=Abl|Numb=Sing">sectione</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="ferrum" pos="NOMcom" msd="Case=Abl|Numb=Sing">ferro</w>
+        <w lemma="opus2" pos="NOMcom" msd="Case=Ind">opus</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

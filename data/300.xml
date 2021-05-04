@@ -1,9 +1,9 @@
-<div type="fragment" corresp="adams:58"  ana="#male #descriptive-functional">
+<div  type="fragment" corresp="adams:58" ana="#male #descriptive-functional #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:7.3.16">
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="transversus(nominatif masculin singulier)|transverto(nominatif masculin singulier participe parfait passif)">transversus</w> 
-        <w lemma="haereo(3ème singulier indicatif présent actif)">haeret</w> 
-        <w lemma="locum(datif pluriel)|locum(ablatif pluriel)|locus(datif pluriel)|locus(ablatif pluriel)|loca(datif pluriel)|loca(ablatif pluriel)">locis</w> 
-        <w lemma="genitale(datif pluriel)|genitale(ablatif pluriel)|Genitalis(datif pluriel)|Genitalis(ablatif pluriel)|genitalis(datif masculin pluriel)|genitalis(ablatif masculin pluriel)|genitalis(datif féminin pluriel)|genitalis(ablatif féminin pluriel)|genitalis(datif neutre pluriel)|genitalis(ablatif neutre pluriel)">genitalibus</w>    
+        <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+        <w lemma="transuersus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">transversus</w>
+        <w lemma="haereo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">haeret</w>
+        <w lemma="locus" pos="NOMcom" msd="Case=Dat|Numb=Plur" ana="#male #descriptive-functional">locis</w>
+        <w lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#male #descriptive-functional">genitalibus</w>
     </quote>
  </div>

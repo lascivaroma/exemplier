@@ -1,13 +1,12 @@
-<div type="fragment" corresp="adams:56"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:56" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo022.perseus-lat2:10">
-        <w lemma="nouo(1ère singulier indicatif présent actif)|nouus(datif masculin singulier)|nouus(ablatif masculin singulier)|nouus(datif neutre singulier)|nouus(ablatif neutre singulier)|Nouum(datif singulier)|Nouum(ablatif singulier)|nouum(datif singulier)|nouum(ablatif singulier)">nouo</w> 
-        <w lemma="quaestio(génitif singulier)">quaestionis</w> 
-        <w lemma="gigno(infinitif présent actif)|gigno(2ème singulier indicatif présent passif)|gigno(2ème singulier indicatif futur passif)|gigno(2ème singulier impératif présent passif)|genus(ablatif singulier)">genere</w> 
-        <w lemma="distorqueo(3ème singulier indicatif parfait actif)">distorsit</w> 
-        <w lemma="immitto(datif masculin singulier participe parfait passif)|immitto(ablatif masculin singulier participe parfait passif)|immitto(datif neutre singulier participe parfait passif)|immitto(ablatif neutre singulier participe parfait passif)|immissus(datif masculin singulier)|immissus(ablatif masculin singulier)|immissus(datif neutre singulier)|immissus(ablatif neutre singulier)">immisso</w>
-          
-        <w lemma="per(-)">per</w> 
-        <w lemma="obscenus(nominatif féminin singulier)|obscenus(vocatif féminin singulier)|obscenus(ablatif féminin singulier)|obscenus(nominatif neutre pluriel)|obscenus(vocatif neutre pluriel)|obscenus(accusatif neutre pluriel)">obscaena</w> 
-        <w lemma="ignis(ablatif singulier)|igneo(2ème singulier impératif présent actif)">igne</w>    
+        <w lemma="nouus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">nouo</w>
+        <w lemma="quaestio" pos="NOMcom" msd="Case=Gen|Numb=Sing">quaestionis</w>
+        <w lemma="genus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">genere</w>
+        <w lemma="distorqueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">distorsit</w>
+        <w lemma="immitto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">immisso</w>
+        <w lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+        <w lemma="obscenum" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#male #euphemisms #aidoion">obscaena</w>
+        <w lemma="ignis" pos="NOMcom" msd="Case=Abl|Numb=Sing">igne</w>
     </quote>
  </div>

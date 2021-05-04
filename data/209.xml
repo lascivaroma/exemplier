@@ -1,12 +1,12 @@
-<div type="fragment" corresp="adams:49"  ana="#male #euphemisms #voisinage">
+<div  type="fragment" corresp="adams:49" ana="#male #euphemisms #voisinage #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:83.45">
-        <w lemma="dum(-)">dum</w> 
-        <w lemma="ego(datif masculin singulier)|ego(datif féminin singulier)">mihi</w> 	
-
-        <w lemma="uenus(nominatif singulier)|Uenus(nominatif singulier)|Uenus(vocatif singulier)|uenus(nominatif singulier)|uenus(vocatif singulier)">Venus</w> 
-        <w lemma="iocosus(nominatif féminin singulier)|iocosus(vocatif féminin singulier)|iocosus(ablatif féminin singulier)|iocosus(nominatif neutre pluriel)|iocosus(vocatif neutre pluriel)|iocosus(accusatif neutre pluriel)">iocosa</w> 
-        <w lemma="mollis(nominatif neutre singulier)|mollis(vocatif neutre singulier)|mollis(accusatif neutre singulier)|molle(nominatif singulier)|molle(vocatif singulier)|molle(accusatif singulier)|molleo(2ème singulier impératif présent actif)">molle</w> 
-        <w lemma="rumpo(3ème singulier indicatif futur antérieur actif)|rumpo(3ème singulier subjonctif parfait actif)">ruperit</w> 
-        <w lemma="fero(nominatif masculin singulier participe parfait passif)|Lato(génitif singulier)|latus(nominatif masculin singulier)|latus(accusatif singulier)|latus(nominatif singulier)|latus(vocatif singulier)">latus</w>.     
+        <w lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
+        <w lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+        <w lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Venus</w>
+        <w lemma="iocosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">iocosa</w>
+        <w lemma="mollis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">molle</w>
+        <w lemma="rumpo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">ruperit</w>
+        <w lemma="latus1" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #euphemisms #voisinage #mentula">latus</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

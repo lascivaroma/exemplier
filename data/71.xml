@@ -1,20 +1,22 @@
-<div type="fragment" corresp="adams:38"  ana="#male #anatomie">
+<div  type="fragment" corresp="adams:38" ana="#male #anatomie #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi003.perseus-lat2:12.18-12.20">
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="ego(datif masculin singulier)|ego(datif féminin singulier)">mihi</w> 
-        <w lemma="Cous(nominatif masculin singulier)|Cous(nominatif singulier)">Cous</w> 
-        <w lemma="adsum(3ème singulier subjonctif imparfait actif)">adesset</w> 
-        <w lemma="Amyntas(nominatif singulier)|Amyntas(accusatif pluriel)">Amyntas</w>, 
-        <w lemma="qui(génitif masculin singulier)|qui(génitif féminin singulier)|qui(génitif neutre singulier)|quis(génitif masculin singulier)|quis(génitif féminin singulier)|quis(génitif neutre singulier)">cuius</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="indomitus(datif masculin singulier)|indomitus(ablatif masculin singulier)|indomitus(datif neutre singulier)|indomitus(ablatif neutre singulier)">indomito</w> 
-        <w lemma="constans(nominatif masculin singulier comparatif)|constans(vocatif masculin singulier comparatif)|constans(nominatif féminin singulier comparatif)|constans(vocatif féminin singulier comparatif)">constantior</w> 
-        <w lemma="inguen(ablatif singulier)">inguine</w> 
-        <w lemma="nervus(accusatif pluriel)">nervos</w> 
-        <w lemma="qui(accusatif féminin singulier)|quis(accusatif féminin singulier)|quam(-)|quam(-)">quam</w> 
-        <w lemma="nouo(2ème singulier impératif présent actif)|nouus(nominatif féminin singulier)|nouus(vocatif féminin singulier)|nouus(ablatif féminin singulier)|nouus(nominatif neutre pluriel)|nouus(vocatif neutre pluriel)|nouus(accusatif neutre pluriel)|Noua(nominatif singulier)|Noua(vocatif singulier)|Noua(ablatif singulier)|Nouum(nominatif pluriel)|Nouum(vocatif pluriel)|Nouum(accusatif pluriel)|nouum(nominatif pluriel)|nouum(vocatif pluriel)|nouum(accusatif pluriel)">nova</w> 
-        <w lemma="collis(datif pluriel)|collis(ablatif pluriel)">collibus</w> 
-        <w lemma="arbor(nominatif singulier)|arbor(vocatif singulier)">arbor</w> 
-        <w lemma="inhaereo(3ème singulier indicatif présent actif)">inhaeret</w>.    
+        <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+        <w lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+        <w lemma="Cous" pos="NOMpro" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Cous</w>
+        <w lemma="assum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">adesset</w>
+        <w lemma="Amyntas" pos="NOMpro" msd="Case=Nom|Numb=Sing">Amyntas</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="indomitus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">indomito</w>
+        <w lemma="constans" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">constantior</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Sing">inguine</w>
+        <w lemma="neruus" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #anatomie">nervos</w>
+        <w lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+        <w lemma="nouus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">nova</w>
+        <w lemma="collis" pos="NOMcom" msd="Case=Abl|Numb=Plur">collibus</w>
+        <w lemma="arbor" pos="NOMcom" msd="Case=Nom|Numb=Sing">arbor</w>
+        <w lemma="inhaereo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inhaeret</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

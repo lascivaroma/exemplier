@@ -1,43 +1,47 @@
-<div type="fragment" corresp="adams:30"  ana="#male #personnification">
+<div  type="fragment" corresp="adams:30" ana="#male #personnification">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0196.stoa001:5.93-5.98">
-        <w lemma="tu(nominatif masculin singulier)|tu(nominatif féminin singulier)">Tu</w> 
-        <w lemma="ego(datif masculin singulier)|ego(datif féminin singulier)">mihi</w> 
-        <w lemma="per(-)">per</w> 
-        <w lemma="totus(accusatif féminin singulier)|totus(accusatif féminin singulier)">totam</w> 
-        <w lemma="custos(nominatif singulier)|custos(vocatif singulier)">custos</w> 
-        <w lemma="gratus(nominatif féminin singulier superlatif)|gratus(vocatif féminin singulier superlatif)|gratus(ablatif féminin singulier superlatif)|gratus(nominatif neutre pluriel superlatif)|gratus(vocatif neutre pluriel superlatif)|gratus(accusatif neutre pluriel superlatif)">gratissima</w> 
-        <w lemma="nox(accusatif singulier)">noctem</w>,
-
-        <w lemma="consors(nominatif neutre singulier)|consors(vocatif neutre singulier)|consors(accusatif neutre singulier)|consors(nominatif masculin singulier)|consors(vocatif masculin singulier)|consors(nominatif féminin singulier)|consors(vocatif féminin singulier)">Consors</w> 
-        <w lemma="laetitia(génitif singulier)|laetitia(datif singulier)|laetitia(nominatif pluriel)|laetitia(vocatif pluriel)">lætitiæ</w> 
-        <w lemma="tristitia(génitif singulier)|tristitia(datif singulier)|tristitia(nominatif pluriel)|tristitia(vocatif pluriel)">tristitiæque</w> 
-        <w lemma="meus(génitif féminin singulier)|meus(datif féminin singulier)|meus(nominatif féminin pluriel)|meus(vocatif féminin pluriel)|Meae(nominatif pluriel)|Meae(vocatif pluriel)">meæ</w>;
-
-        <w lemma="conscius(nominatif féminin singulier)|conscius(vocatif féminin singulier)|conscius(ablatif féminin singulier)|conscius(nominatif neutre pluriel)|conscius(vocatif neutre pluriel)|conscius(accusatif neutre pluriel)">Conscia</w> 
-        <w lemma="secerno(génitif masculin singulier participe parfait passif)|secerno(nominatif masculin pluriel participe parfait passif)|secerno(vocatif masculin pluriel participe parfait passif)|secerno(génitif neutre singulier participe parfait passif)|secretum(génitif singulier)|secretus(génitif masculin singulier)|secretus(nominatif masculin pluriel)|secretus(vocatif masculin pluriel)|secretus(génitif neutre singulier)">secreti</w> 
-        <w lemma="semper(-)">semper</w> 
-        <w lemma="fidus(nominatif féminin singulier superlatif)|fidus(vocatif féminin singulier superlatif)|fidus(ablatif féminin singulier superlatif)|fidus(nominatif neutre pluriel superlatif)|fidus(vocatif neutre pluriel superlatif)|fidus(accusatif neutre pluriel superlatif)">fidissima</w> 
-        <w lemma="noster(génitif masculin singulier)|noster(nominatif masculin pluriel)|noster(vocatif masculin pluriel)|noster(génitif neutre singulier)">nostri</w>,
-
-        <w lemma="adsto(nominatif masculin singulier participe présent actif)|adsto(vocatif masculin singulier participe présent actif)|adsto(nominatif féminin singulier participe présent actif)|adsto(vocatif féminin singulier participe présent actif)|adsto(nominatif neutre singulier participe présent actif)|adsto(vocatif neutre singulier participe présent actif)|adsto(accusatif neutre singulier participe présent actif)">Adstans</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="noster(datif masculin pluriel)|noster(ablatif masculin pluriel)|noster(datif féminin pluriel)|noster(ablatif féminin pluriel)|noster(datif neutre pluriel)|noster(ablatif neutre pluriel)">nostris</w> 
-        <w lemma="pervigil(nominatif masculin singulier)|pervigil(vocatif masculin singulier)|pervigil(nominatif féminin singulier)|pervigil(vocatif féminin singulier)">pervigil</w> 
-        <w lemma="obsequium(datif pluriel)|obsequium(ablatif pluriel)|obsequiae(datif pluriel)|obsequiae(ablatif pluriel)">obsequiis</w>:
-
-        <w lemma="qui(ablatif masculin singulier)|qui(ablatif neutre singulier)|quis(ablatif masculin singulier)|quis(ablatif neutre singulier)|quo(-)">Quo</w> 
-        <w lemma="tu(datif masculin singulier)|tu(datif féminin singulier)">tibi</w> 
-        <w lemma="fervo(1ère singulier indicatif présent passif)|fervor(nominatif singulier)|fervor(vocatif singulier)">fervor</w> 
-        <w lemma="abeo(3ème singulier indicatif présent actif)|abeo(3ème singulier indicatif parfait actif)">abit</w>, 
-        <w lemma="per(-)">per</w> 
-        <w lemma="qui(accusatif masculin singulier)|quis(accusatif masculin singulier)|quem(positif)">quem</w> 
-        <w lemma="">feritura</w> 
-        <w lemma="placeo(2ème singulier indicatif imparfait actif)|placet(2ème singulier indicatif imparfait actif)">placebas</w>?
-
-        <w lemma="qui(ablatif masculin singulier)|qui(ablatif neutre singulier)|quis(ablatif masculin singulier)|quis(ablatif neutre singulier)|quo(-)">Quo</w> 
-        <w lemma="tu(datif masculin singulier)|tu(datif féminin singulier)">tibi</w> 
-        <w lemma="cristatus(accusatif masculin singulier)|cristatus(nominatif neutre singulier)|cristatus(vocatif neutre singulier)|cristatus(accusatif neutre singulier)">cristatum</w> 
-        <w lemma="">vuniferumque</w> 
-        <w lemma="caput(accusatif singulier)|caput(nominatif singulier)|caput(vocatif singulier)">caput</w>?     
+        <w lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">Tu</w>
+        <w lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+        <w lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+        <w lemma="totus" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">totam</w>
+        <w lemma="custos" pos="NOMcom" msd="Case=Nom|Numb=Sing">custos</w>
+        <w lemma="gratus" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=Fem|Deg=Sup">gratissima</w>
+        <w lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Sing">noctem</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="consors" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">Consors</w>
+        <w lemma="laetitia" pos="NOMcom" msd="Case=Gen|Numb=Sing">lætitiæ</w>
+        <w lemma="tristitia" pos="NOMcom" msd="Case=Gen|Numb=Sing">tristitiæque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{tristitiæque}</w>
+        <w lemma="meus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=Fem">meæ</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+        <w lemma="conscius" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=Fem|Deg=Pos">Conscia</w>
+        <w lemma="secretus" pos="NOMcom" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">secreti</w>
+        <w lemma="semper" pos="ADV" msd="Deg=Pos">semper</w>
+        <w lemma="fidus" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=Fem|Deg=Sup">fidissima</w>
+        <w lemma="noster" pos="PROper" msd="Case=Gen|Numb=Plur|Gend=MascNeut">nostri</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="asto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act" ana="#male #personnification">Adstans</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="noster" pos="PROpos" msd="Case=Abl|Numb=Plur|Gend=Com">nostris</w>
+        <w lemma="peruigil" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">pervigil</w>
+        <w lemma="obsequium" pos="NOMcom" msd="Case=Abl|Numb=Plur">obsequiis</w>
+        <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+        <w lemma="quo3" pos="ADVint" msd="Gend=MascNeut">Quo</w>
+        <w lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+        <w lemma="feruor" pos="VER" msd="Case=Nom|Numb=Sing">fervor</w>
+        <w lemma="abeo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">abit</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+        <w lemma="qui1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+        <w lemma="ferio" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">feritura</w>
+        <w lemma="placeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2">placebas</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+        <w lemma="quo3" pos="ADVint" msd="MORPH=empty">Quo</w>
+        <w lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+        <w lemma="cristatus" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut">cristatum</w>
+        <w lemma="uunifer" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">vuniferumque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{vuniferumque}</w>
+        <w lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>
  </div>

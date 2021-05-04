@@ -1,13 +1,14 @@
-<div type="fragment" corresp="adams:49"  ana="#male #euphemisms #voisinage">
+<div  type="fragment" corresp="adams:49" ana="#male #euphemisms #voisinage #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:26.10-26.12">
-        <w lemma="deficio(3ème singulier indicatif parfait actif)">defecit</w> 
-        <w lemma="fero(nominatif masculin singulier participe parfait passif)|Lato(génitif singulier)|latus(nominatif masculin singulier)|latus(accusatif singulier)|latus(nominatif singulier)|latus(vocatif singulier)">latus</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="periculosus(accusatif féminin singulier)">periculosam</w> 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="tussio(2ème singulier impératif présent actif)|tussis(datif singulier)">tussi</w> 
-        <w lemma="miser(nominatif masculin singulier)|miser(vocatif masculin singulier)">miser</w> 
-        <w lemma="exspuo(1ère singulier indicatif présent actif)">expuo</w> 
-        <w lemma="saliua(accusatif singulier)">saliuam</w>.    
+        <w lemma="deficio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">defecit</w>
+        <w lemma="latus1" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #voisinage #mentula">latus</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="periculosus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">periculosam</w>
+        <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+        <w lemma="tussis" pos="NOMcom" msd="Case=Gen|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">tussi</w>
+        <w lemma="miser" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">miser</w>
+        <w lemma="exspuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">expuo</w>
+        <w lemma="saliua" pos="NOMcom" msd="Case=Acc|Numb=Sing">saliuam</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

@@ -1,10 +1,11 @@
-<div type="fragment" corresp="adams:59"  ana="#male #natura">
+<div  type="fragment" corresp="adams:59" ana="#male #natura #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:10.63">
-        <w lemma="rabies(nominatif singulier)|rabies(vocatif singulier)|rabies(nominatif pluriel)|rabies(vocatif pluriel)|rabies(accusatif pluriel)|rabio(2ème singulier indicatif futur actif)">rabies</w> 
-        <w lemma="is(nominatif féminin singulier)|is(ablatif féminin singulier)|is(nominatif neutre pluriel)|is(accusatif neutre pluriel)|Eus(nominatif féminin singulier)|Eus(vocatif féminin singulier)|Eus(ablatif féminin singulier)|Eus(nominatif neutre pluriel)|Eus(vocatif neutre pluriel)|Eus(accusatif neutre pluriel)|ea(-)">ea</w> 
-        <w lemma="aceo(2ème singulier impératif futur actif)|aceo(3ème singulier impératif futur actif)|acetum(datif singulier)|acetum(ablatif singulier)|aceto(1ère singulier indicatif présent actif)|aceto(1ère singulier indicatif présent actif)">aceto</w> 
-        <w lemma="mitigo(3ème singulier indicatif présent passif)">mitigatur</w> 
-        <w lemma="nascor(génitif féminin singulier participe futur actif)|nascor(datif féminin singulier participe futur actif)|nascor(nominatif féminin pluriel participe futur actif)|nascor(vocatif féminin pluriel participe futur actif)|no(génitif féminin singulier participe futur actif)|no(datif féminin singulier participe futur actif)|no(nominatif féminin pluriel participe futur actif)|no(vocatif féminin pluriel participe futur actif)|natura(génitif singulier)|natura(datif singulier)|natura(nominatif pluriel)|natura(vocatif pluriel)">naturae</w> 
-        <w lemma="">adsperso</w>.    
+        <w lemma="rabies" pos="NOMcom" msd="Case=Nom|Numb=Sing">rabies</w>
+        <w lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ea</w>
+        <w lemma="acetum" pos="NOMcom" msd="Case=Abl|Numb=Sing">aceto</w>
+        <w lemma="mitigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">mitigatur</w>
+        <w lemma="natura" pos="NOMcom" msd="Case=Dat|Numb=Sing" ana="#male #natura">naturae</w>
+        <w lemma="aspergo2" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">adsperso</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

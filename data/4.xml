@@ -1,9 +1,9 @@
-<div type="fragment" corresp="adams:30"  ana="#male #personnification">
+<div  type="fragment" corresp="adams:30" ana="#male #personnification">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:83">
-        <w lemma="o(-)">o</w> 
-        <w lemma="sceleste(positif)|scelestus(vocatif masculin singulier)|scelestus(vocatif singulier)">sceleste</w> 
-        <w lemma="penis(accusatif pluriel)|penis(génitif singulier)|penus(datif pluriel)|penus(ablatif pluriel)|penum(datif pluriel)|penum(ablatif pluriel)|Penius(datif pluriel)|Penius(ablatif pluriel)|penis(nominatif singulier)|penis(vocatif singulier)">penis</w> 
-        <w lemma="liceo(3ème singulier indicatif présent actif)|licet(3ème singulier indicatif présent actif)|licet(-)">licet</w> 
-        <w lemma="queror(2ème singulier subjonctif présent actif)">querare</w>    
+        <w lemma="o" pos="INJ" msd="MORPH=empty">o</w>
+        <w lemma="scelestus" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=Masc|Deg=Pos">sceleste</w>
+        <w lemma="penis" pos="NOMcom" msd="Case=Voc" ana="#male #personnification">penis</w>
+        <w lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" ana="#male #personnification">licet</w>
+        <w lemma="queror" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=2">querare</w>
     </quote>
  </div>

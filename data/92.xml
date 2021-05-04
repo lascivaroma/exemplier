@@ -1,56 +1,68 @@
-<div type="fragment" corresp="adams:41"  ana="#male #medical">
+<div  type="fragment" corresp="adams:41" ana="#female #medical">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.71">
-        <w lemma="hysterica(accusatif singulier)|hystericus(accusatif féminin singulier)">Hystericam</w> 
-        <w lemma="uetulus(datif singulier)|uetulus(ablatif singulier)|uetulus(datif masculin singulier)|uetulus(ablatif masculin singulier)|uetulus(datif neutre singulier)|uetulus(ablatif neutre singulier)">vetulo</w> 
-        <w lemma="se(accusatif masculin singulier)|se(ablatif masculin singulier)|se(accusatif masculin pluriel)|se(ablatif masculin pluriel)|se(accusatif féminin singulier)|se(ablatif féminin singulier)|se(accusatif féminin pluriel)|se(ablatif féminin pluriel)|se(accusatif neutre singulier)|se(ablatif neutre singulier)|se(accusatif neutre pluriel)|se(ablatif neutre pluriel)|se(-)">se</w> 
-        <w lemma="dico(3ème singulier indicatif PQP actif)">dixerat</w> 
-        <w lemma="esse(infinitif présent actif)|sum(infinitif présent actif)">esse</w> 
-        <w lemma="marito(1ère singulier indicatif présent actif)|maritus(datif masculin singulier)|maritus(ablatif masculin singulier)|maritus(datif neutre singulier)|maritus(ablatif neutre singulier)|maritus(datif singulier)|maritus(ablatif singulier)">marito</w>  
-        <w lemma="et(-)">Et</w> 
-        <w lemma="queror(3ème singulier indicatif présent actif)">queritur</w> 
-        <w lemma="futuo(1ère singulier indicatif parfait actif)|futuo(infinitif présent passif)">futui</w> 
-        <w lemma="Leda(nominatif singulier)|Leda(vocatif singulier)|Leda(ablatif singulier)|Lede(nominatif singulier)|Lede(vocatif singulier)|Lede(ablatif singulier)|Ledas(vocatif singulier)|Ledas(nominatif singulier)|Ledas(vocatif singulier)|Ledas(ablatif singulier)|leda(nominatif singulier)|leda(vocatif singulier)|leda(ablatif singulier)|ledon(nominatif pluriel)|ledon(vocatif pluriel)|ledon(accusatif pluriel)">Leda</w> 
-        <w lemma="necesse(-)">necesse</w> 
-        <w lemma="se(datif masculin singulier)|se(datif masculin pluriel)|se(datif féminin singulier)|se(datif féminin pluriel)|se(datif neutre singulier)|se(datif neutre pluriel)|sibus(génitif masculin singulier)|sibus(nominatif masculin pluriel)|sibus(vocatif masculin pluriel)|sibus(génitif neutre singulier)|Sibi(-)">sibi</w>; 
-                         
-        <w lemma="sed(-)|sed(-)">Sed</w> 
-        <w lemma="fleo(nominatif masculin singulier participe présent actif)|fleo(vocatif masculin singulier participe présent actif)|fleo(nominatif féminin singulier participe présent actif)|fleo(vocatif féminin singulier participe présent actif)|fleo(nominatif neutre singulier participe présent actif)|fleo(vocatif neutre singulier participe présent actif)|fleo(accusatif neutre singulier participe présent actif)">flens</w> 
-        <w lemma="atque(-)|at(-)">atque</w> 
-        <w lemma="gemo(nominatif masculin singulier participe présent actif)|gemo(vocatif masculin singulier participe présent actif)|gemo(nominatif féminin singulier participe présent actif)|gemo(vocatif féminin singulier participe présent actif)|gemo(nominatif neutre singulier participe présent actif)|gemo(vocatif neutre singulier participe présent actif)|gemo(accusatif neutre singulier participe présent actif)">gemens</w> 
-        <w lemma="tantus(génitif masculin singulier)|tantus(nominatif masculin pluriel)|tantus(vocatif masculin pluriel)|tantus(génitif neutre singulier)|tantum(génitif singulier)|tanti(positif)">tanti</w> 
-        <w lemma="nego(3ème singulier indicatif présent actif)">negat</w> 
-        <w lemma="esse(infinitif présent actif)|sum(infinitif présent actif)">esse</w> 
-        <w lemma="Salus(accusatif singulier)|salus(accusatif singulier)|saluto(1ère singulier subjonctif présent actif)">salutem</w>  
-        <w lemma="sequo(2ème singulier impératif présent actif)|se(accusatif masculin singulier)|se(ablatif masculin singulier)|se(accusatif masculin pluriel)|se(ablatif masculin pluriel)|se(accusatif féminin singulier)|se(ablatif féminin singulier)|se(accusatif féminin pluriel)|se(ablatif féminin pluriel)|se(accusatif neutre singulier)|se(ablatif neutre singulier)|se(accusatif neutre pluriel)|se(ablatif neutre pluriel)|se(-)">Seque</w> 
-        <w lemma="refero(3ème singulier indicatif présent actif)">refert</w> 
-        <w lemma="potis(nominatif neutre singulier comparatif)|potis(vocatif neutre singulier comparatif)|potis(accusatif neutre singulier comparatif)|potior(nominatif neutre singulier comparatif)|potior(vocatif neutre singulier comparatif)|potior(accusatif neutre singulier comparatif)|potus(nominatif neutre singulier comparatif)|potus(vocatif neutre singulier comparatif)|potus(accusatif neutre singulier comparatif)|potius(-)">potius</w> 
-        <w lemma="propono(infinitif parfait actif)">proposuisse</w> 
-        <w lemma="morior(infinitif présent actif)|morum(génitif singulier)|mos(datif singulier)|morus(génitif masculin singulier)|morus(nominatif masculin pluriel)|morus(vocatif masculin pluriel)|morus(génitif neutre singulier)|morus(génitif singulier)|morus(nominatif pluriel)|morus(vocatif pluriel)|morus(génitif singulier)|morus(nominatif pluriel)|morus(vocatif pluriel)|morion(génitif singulier)">mori</w>.  
-        <w lemma="uir(nominatif singulier)|uir(vocatif singulier)">Vir</w> 
-        <w lemma="rogo(3ème singulier indicatif présent actif)">rogat</w>, 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="uiuo(3ème singulier subjonctif présent actif)">vivat</w> 
-        <w lemma="viridis(nominatif masculin pluriel)|viridis(vocatif masculin pluriel)|viridis(accusatif masculin pluriel)|viridis(nominatif féminin pluriel)|viridis(vocatif féminin pluriel)|viridis(accusatif féminin pluriel)|uirido(2ème singulier subjonctif présent actif)">virides</w> 
-        <w lemma="nec(-)">nec</w> 
-        <w lemma="desero(3ème singulier subjonctif présent actif)|desero(3ème singulier subjonctif présent actif)">deserat</w> 
-        <w lemma="annus(accusatif pluriel)">annos</w>,  
-        <w lemma="et(-)">Et</w> 
-        <w lemma="fio(2ème singulier impératif présent passif)">fieri</w>, 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="Ia(accusatif singulier)|jam(-)">iam</w> 
-        <w lemma="non(-)">non</w> 
-        <w lemma="facio(3ème singulier indicatif présent actif)">facit</w> 
-        <w lemma="ipse(nominatif masculin singulier)">ipse</w>, 
-        <w lemma="sino(3ème singulier indicatif présent actif)">sinit</w>.  
-        <w lemma="protinus(-)">Protinus</w> 
-        <w lemma="accedo(3ème pluriel indicatif présent actif)">accedunt</w> 
-        <w lemma="Medicus(génitif masculin singulier)|Medicus(nominatif masculin pluriel)|Medicus(vocatif masculin pluriel)|Medicus(génitif neutre singulier)|medicus(génitif masculin singulier)|medicus(nominatif masculin pluriel)|medicus(vocatif masculin pluriel)|medicus(génitif neutre singulier)|medicus(génitif singulier)|medicus(nominatif pluriel)|medicus(vocatif pluriel)|medix(datif singulier)">medici</w> 
-        <w lemma="medica(génitif singulier)|medica(datif singulier)|medica(nominatif pluriel)|medica(vocatif pluriel)|Medicus(génitif féminin singulier)|Medicus(datif féminin singulier)|Medicus(nominatif féminin pluriel)|Medicus(vocatif féminin pluriel)|medicus(génitif féminin singulier)|medicus(datif féminin singulier)|medicus(nominatif féminin pluriel)|medicus(vocatif féminin pluriel)|Medica(génitif singulier)|Medica(datif singulier)|Medica(nominatif pluriel)|Medica(vocatif pluriel)">medicaeque</w> 
-        <w lemma="recedo(3ème pluriel indicatif présent actif)">recedunt</w>,  
-        <w lemma="tollo(3ème pluriel indicatif présent passif)">Tollunturque</w> 
-        <w lemma="pedis(accusatif pluriel)|pedis(nominatif pluriel)|pedis(vocatif pluriel)|pedo(2ème singulier indicatif futur actif)|pes(nominatif pluriel)|pes(vocatif pluriel)|pes(accusatif pluriel)|pedo(2ème singulier subjonctif présent actif)|pedes(nominatif singulier)|pedes(vocatif singulier)">pedes</w>. 
-        <w lemma="o(-)">O</w> 
-        <w lemma="medicina(nominatif singulier)|medicina(vocatif singulier)|medicina(ablatif singulier)|medicinus(nominatif féminin singulier)|medicinus(vocatif féminin singulier)|medicinus(ablatif féminin singulier)|medicinus(nominatif neutre pluriel)|medicinus(vocatif neutre pluriel)|medicinus(accusatif neutre pluriel)">medicina</w> 
-        <w lemma="gravis(génitif masculin singulier)|gravis(accusatif masculin pluriel)|gravis(génitif féminin singulier)|gravis(accusatif féminin pluriel)|gravis(génitif neutre singulier)|gravis(nominatif masculin singulier)|gravis(vocatif masculin singulier)|gravis(nominatif féminin singulier)|gravis(vocatif féminin singulier)">gravis</w>!     
+        <w lemma="hystericus" pos="NOMpro" msd="Case=Acc|Numb=Sing|Deg=Pos" ana="#female #medical">Hystericam</w>
+        <w lemma="uetulus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">vetulo</w>
+        <w lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+        <w lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">dixerat</w>
+        <w lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+        <w lemma="maritus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">marito</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+        <w lemma="queror" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">queritur</w>
+        <w lemma="futuo" pos="NOMcom" msd="Case=Dat|Numb=Sing">futui</w>
+        <w lemma="Leda" pos="NOMpro" msd="Case=Acc|Numb=Sing">Leda</w>
+        <w lemma="necesse" pos="ADJqua" msd="Case=Ind|Deg=Pos">necesse</w>
+        <w lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+        <w lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+        <w lemma="fleo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">flens</w>
+        <w lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+        <w lemma="gemo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">gemens</w>
+        <w lemma="tantum1" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=MascNeut">tanti</w>
+        <w lemma="nego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">negat</w>
+        <w lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+        <w lemma="salus" pos="NOMcom" msd="Case=Acc|Numb=Sing">salutem</w>
+        <w lemma="sui" pos="PROref" msd="Case=Acc|Numb=Sing">Seque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{Seque}</w>
+        <w lemma="refert" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">refert</w>
+        <w lemma="potius" pos="ADV" msd="Deg=Comp">potius</w>
+        <w lemma="propono" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">proposuisse</w>
+        <w lemma="morior" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">mori</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+        <w lemma="uir" pos="NOMcom" msd="Case=Nom|Numb=Sing">Vir</w>
+        <w lemma="rogo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">rogat</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="uiuo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">vivat</w>
+        <w lemma="uiridis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">virides</w>
+        <w lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+        <w lemma="desero2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">deserat</w>
+        <w lemma="annus" pos="NOMcom" msd="Case=Acc|Numb=Plur">annos</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+        <w lemma="fio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fieri</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+        <w lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
+        <w lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="sino" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sinit</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+        <w lemma="protinus" pos="ADV" msd="Deg=Pos">Protinus</w>
+        <w lemma="accedo1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">accedunt</w>
+        <w lemma="medicus1" pos="NOMcom" msd="Case=Nom|Numb=Plur">medici</w>
+        <w lemma="medicus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">medicaeque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{medicaeque}</w>
+        <w lemma="recedo1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">recedunt</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="tollo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">Tollunturque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{Tollunturque}</w>
+        <w lemma="pes" pos="NOMcom" msd="Case=Nom|Numb=Plur">pedes</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+        <w lemma="o" pos="INJ" msd="MORPH=empty">O</w>
+        <w lemma="medicina" pos="NOMcom" msd="Case=Nom|Numb=Sing">medicina</w>
+        <w lemma="grauis" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=MascFem|Deg=Pos">gravis</w>
+        <w lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
     </quote>
  </div>

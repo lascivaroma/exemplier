@@ -1,23 +1,24 @@
-<div type="fragment" corresp="adams:47"  ana="#male #specialisation #fesse">
+<div  type="fragment" corresp="adams:47" ana="#male #specialisation #fesse  #euphemism">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0040.stoa003.opp-lat4:14.24">
-        <w lemma="nonnulli(nominatif masculin pluriel)|nonnulli(vocatif masculin pluriel)|nonnullus(génitif masculin singulier)|nonnullus(nominatif masculin pluriel)|nonnullus(vocatif masculin pluriel)|nonnullus(génitif neutre singulier)">Nonnulli</w> 
-        <w lemma="a(-)">ab</w> 
-        <w lemma="imum(datif singulier)|imum(ablatif singulier)|imus(datif masculin singulier)|imus(ablatif masculin singulier)|imus(datif neutre singulier)|imus(ablatif neutre singulier)|inferus(datif masculin singulier superlatif)|inferus(ablatif masculin singulier superlatif)|inferus(datif neutre singulier superlatif)|inferus(ablatif neutre singulier superlatif)|imo(positif)">imo</w> 
-        <w lemma="Sinis(ablatif singulier)|sino(2ème singulier impératif présent actif)|sinus(vocatif singulier)|sine(-)|sion(génitif singulier)|si(-)">sine</w> 
-        <w lemma="paedor(ablatif singulier)">paedore</w> 
-        <w lemma="ullus(ablatif masculin singulier)|ullus(ablatif neutre singulier)">ullo</w> 
-        <w lemma="ito(2ème singulier impératif présent actif)|ita(-)">ita</w> 
-        <w lemma="numerosus(accusatif masculin pluriel)">numerosos</w> 
-        <w lemma="pro(-)|pro(-)">pro</w> 
-        <w lemma="arbitrium(datif singulier)|arbitrium(ablatif singulier)">arbitrio</w> 
-        <w lemma="sonitus(nominatif singulier)|sonitus(vocatif singulier)|sonitus(génitif singulier)|sonitus(nominatif pluriel)|sonitus(vocatif pluriel)|sonitus(accusatif pluriel)|sono(nominatif masculin singulier participe parfait passif)">sonitus</w> 
-        <w lemma="edo(3ème pluriel indicatif présent actif)|edo(3ème pluriel indicatif présent actif)">edunt</w>, 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="ex(-)">ex</w> 
-        <w lemma="ille(nominatif féminin singulier)|ille(ablatif féminin singulier)|ille(nominatif neutre pluriel)|ille(accusatif neutre pluriel)|illa(-)">illa</w> 
-        <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiam</w> 
-        <w lemma="pario(vocatif masculin singulier participe parfait passif)|pars(ablatif singulier)|partus(vocatif masculin singulier)">parte</w> 
-        <w lemma="canto(infinitif présent actif)|canto(2ème singulier indicatif présent passif)|canto(2ème singulier impératif présent passif)">cantare</w> 
-        <w lemma="uideo(3ème pluriel subjonctif présent passif)|videor(3ème pluriel subjonctif présent actif)">uideantur</w>    
+        <w lemma="nonnullus" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Masc">Nonnulli</w>
+        <w lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+        <w lemma="imum" pos="NOMcom" msd="Case=Abl|Numb=Sing|Deg=Sup" ana="#male #specialisation #fesse  #euphemism">imo</w>
+        <w lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+        <w lemma="paedor" pos="NOMcom" msd="Case=Abl|Numb=Sing">paedore</w>
+        <w lemma="ullus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">ullo</w>
+        <w lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+        <w lemma="numerosus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">numerosos</w>
+        <w lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>
+        <w lemma="arbitrium" pos="NOMcom" msd="Case=Abl|Numb=Sing">arbitrio</w>
+        <w lemma="sonitus" pos="NOMcom" msd="Case=Acc|Numb=Plur">sonitus</w>
+        <w lemma="edo1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">edunt</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+        <w lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">illa</w>
+        <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing">parte</w>
+        <w lemma="canto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">cantare</w>
+        <w lemma="uideo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">uideantur</w>
     </quote>
  </div>

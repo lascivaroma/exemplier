@@ -1,19 +1,23 @@
-<div type="fragment" corresp="adams:45"  ana="#male #specialisation">
+<div  type="fragment" corresp="adams:45" ana="#male #specialisation #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1512.phi005:1.5.100">
-        <w lemma="urbanus(accusatif masculin singulier superlatif)|urbanus(nominatif neutre singulier superlatif)|urbanus(vocatif neutre singulier superlatif)|urbanus(accusatif neutre singulier superlatif)">Vrbanissimum</w> 
-        <w lemma="nome(accusatif singulier)|nomen(accusatif singulier)|nomen(nominatif singulier)|nomen(vocatif singulier)">nomen</w> 
-        <w lemma="Judaeus(datif masculin singulier)|Judaeus(ablatif masculin singulier)|Judaeus(datif neutre singulier)|Judaeus(ablatif neutre singulier)">Iudaeo</w> 
-        <w lemma="impono(3ème singulier indicatif parfait actif)">inposuit</w> ‘
-        <w lemma="Apellas(accusatif singulier)">Apellan</w>’ 
-        <w lemma="dico(nominatif masculin singulier participe présent actif)|dico(vocatif masculin singulier participe présent actif)|dico(nominatif féminin singulier participe présent actif)|dico(vocatif féminin singulier participe présent actif)|dico(nominatif neutre singulier participe présent actif)|dico(vocatif neutre singulier participe présent actif)|dico(accusatif neutre singulier participe présent actif)">dicens</w>, 
-        <w lemma="quasi(-)">quasi</w> 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="pellis(accusatif singulier)">pellem</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="pario(vocatif masculin singulier participe parfait passif)|pars(ablatif singulier)|partus(vocatif masculin singulier)">parte</w> 
-        <w lemma="genitale(ablatif singulier)|genitale(datif singulier)|Genitalis(datif singulier)|genitalis(datif masculin singulier)|genitalis(ablatif masculin singulier)|genitalis(datif féminin singulier)|genitalis(ablatif féminin singulier)|genitalis(datif neutre singulier)|genitalis(ablatif neutre singulier)">genitali</w> 
-        <w lemma="Judaei(nominatif pluriel)|Judaei(vocatif pluriel)|Judaeus(génitif masculin singulier)|Judaeus(nominatif masculin pluriel)|Judaeus(vocatif masculin pluriel)|Judaeus(génitif neutre singulier)">Iudaei</w> 
-        <w lemma="non(-)">non</w> 
-        <w lemma="habeo(3ème pluriel subjonctif présent actif)">habeant</w>.    
+        <w lemma="urbanus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Sup">Vrbanissimum</w>
+        <w lemma="nomen" pos="NOMcom" msd="Case=Acc|Numb=Sing">nomen</w>
+        <w lemma="Iudaeus" pos="NOMpro" msd="Case=Dat|Numb=Sing">Iudaeo</w>
+        <w lemma="impono" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">inposuit</w>
+        <w lemma="‘" pos="PUNC" msd="MORPH=empty">‘</w>
+        <w lemma="Apellas" pos="NOMpro" msd="Case=Acc|Numb=Sing">Apellan</w>
+        <w lemma="’" pos="PUNC" msd="MORPH=empty">’</w>
+        <w lemma="dico2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">dicens</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="quasi1" pos="ADVrel" msd="MORPH=empty">quasi</w>
+        <w lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+        <w lemma="pellis" pos="NOMcom" msd="Case=Acc|Numb=Sing">pellem</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #specialisation #euphemism #mentula">parte</w>
+        <w lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos" ana="#male #specialisation #euphemism #mentula">genitali</w>
+        <w lemma="Iudaei" pos="NOMpro" msd="Case=Nom|Numb=Plur">Iudaei</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="habeo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">habeant</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

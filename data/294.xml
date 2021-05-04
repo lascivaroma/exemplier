@@ -1,9 +1,9 @@
-<div type="fragment" corresp="adams:58"  ana="#male #descriptive-functional">
+<div  type="fragment" corresp="adams:58" ana="#male #descriptive-functional #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:10.22">
-        <w lemma="mulier(nominatif singulier)|mulier(vocatif singulier)">mulier</w> 
-        <w lemma="tam(-)|tam(positif)">tam</w> 
-        <w lemma="vastus(accusatif masculin singulier)|vastus(nominatif neutre singulier)|vastus(vocatif neutre singulier)|vastus(accusatif neutre singulier)">vastum</w> 
-        <w lemma="genitale(nominatif singulier)|genitale(vocatif singulier)|genitale(accusatif singulier)|Genitalis(ablatif singulier)|genitalis(nominatif neutre singulier)|genitalis(vocatif neutre singulier)|genitalis(accusatif neutre singulier)">genitale</w> 
-        <w lemma="suscipio(3ème singulier subjonctif imparfait actif)">susciperet</w>    
+        <w lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>
+        <w lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+        <w lemma="uastus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">vastum</w>
+        <w lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos" ana="#male #descriptive-functional">genitale</w>
+        <w lemma="suscipio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">susciperet</w>
     </quote>
  </div>

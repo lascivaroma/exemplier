@@ -1,27 +1,32 @@
-<div type="fragment" corresp="adams:56"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:56" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0631.phi008.thayer-lat1:3">
-        <w lemma="qui(génitif masculin singulier)|qui(génitif féminin singulier)|qui(génitif neutre singulier)|quis(génitif masculin singulier)|quis(génitif féminin singulier)|quis(génitif neutre singulier)">cuius</w> 
-        <w lemma="nullus(nominatif féminin singulier)|nullus(vocatif féminin singulier)|nullus(ablatif féminin singulier)|nullus(nominatif neutre pluriel)|nullus(vocatif neutre pluriel)|nullus(accusatif neutre pluriel)">nulla</w> 
-        <w lemma="pars(nominatif singulier)|pars(vocatif singulier)">pars</w> 
-        <w lemma="corpus(génitif singulier)">corporis</w> 
-        <w lemma="a(-)|a(-)|a(-)">a</w> 
-        <w lemma="turpitudo(ablatif singulier)">turpitudine</w>
-                        
-        <w lemma="uaco(3ème singulier indicatif présent actif)">vacat</w>, 
-        <w lemma="lingua(nominatif singulier)|lingua(vocatif singulier)|lingua(ablatif singulier)">lingua</w> 
-        <w lemma="uanum(nominatif pluriel)|uanum(vocatif pluriel)|uanum(accusatif pluriel)|uanus(nominatif féminin singulier)|uanus(vocatif féminin singulier)|uanus(ablatif féminin singulier)|uanus(nominatif neutre pluriel)|uanus(vocatif neutre pluriel)|uanus(accusatif neutre pluriel)|uano(2ème singulier impératif présent actif)">vana</w>, 
-        <w lemma="manus(nominatif masculin singulier)|manus(nominatif singulier)|manus(vocatif singulier)|manus(génitif singulier)|manus(nominatif pluriel)|manus(vocatif pluriel)|manus(accusatif pluriel)|manos(nominatif singulier)">manus</w> 
-        <w lemma="Rapax(génitif féminin singulier superlatif)|Rapax(datif féminin singulier superlatif)|Rapax(nominatif féminin pluriel superlatif)|Rapax(vocatif féminin pluriel superlatif)|rapax(génitif féminin singulier superlatif)|rapax(datif féminin singulier superlatif)|rapax(nominatif féminin pluriel superlatif)|rapax(vocatif féminin pluriel superlatif)">rapacissimae</w>, 
-        <w lemma="gula(nominatif singulier)|gula(vocatif singulier)|gula(ablatif singulier)">gula</w> 
-        <w lemma="immensum(nominatif pluriel)|immensum(vocatif pluriel)|immensum(accusatif pluriel)|immensus(nominatif féminin singulier)|immensus(vocatif féminin singulier)|immensus(ablatif féminin singulier)|immensus(nominatif neutre pluriel)|immensus(vocatif neutre pluriel)|immensus(accusatif neutre pluriel)">immensa</w>, 
-        <w lemma="pedis(accusatif pluriel)|pedis(nominatif pluriel)|pedis(vocatif pluriel)|pedo(2ème singulier indicatif futur actif)|pes(nominatif pluriel)|pes(vocatif pluriel)|pes(accusatif pluriel)|pedo(2ème singulier subjonctif présent actif)|pedes(nominatif singulier)|pedes(vocatif singulier)">pedes</w> 
-        <w lemma="fugax(nominatif masculin pluriel)|fugax(vocatif masculin pluriel)|fugax(accusatif masculin pluriel)|fugax(nominatif féminin pluriel)|fugax(vocatif féminin pluriel)|fugax(accusatif féminin pluriel)">fugaces</w>; 
-        <w lemma="qui(nominatif féminin singulier)|qui(nominatif féminin pluriel)|qui(nominatif neutre pluriel)|qui(accusatif neutre pluriel)|quis(nominatif féminin singulier)|quis(nominatif féminin pluriel)|quis(nominatif neutre pluriel)|quis(accusatif neutre pluriel)">quae</w>
-                        
-        <w lemma="honeste(positif)|honestus(vocatif masculin singulier)">honeste</w> 
-        <w lemma="nomino(infinitif présent passif)|nominarii(nominatif pluriel)|nominarii(vocatif pluriel)">nominari</w> 
-        <w lemma="non(-)">non</w> 
-        <w lemma="possum(3ème pluriel indicatif présent actif)">possunt</w>, 
-        <w lemma="inhonestus(nominatif féminin singulier superlatif)|inhonestus(vocatif féminin singulier superlatif)|inhonestus(ablatif féminin singulier superlatif)|inhonestus(nominatif neutre pluriel superlatif)|inhonestus(vocatif neutre pluriel superlatif)|inhonestus(accusatif neutre pluriel superlatif)">inhonestissima</w>.    
+        <w lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
+        <w lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">nulla</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing">pars</w>
+        <w lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
+        <w lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+        <w lemma="turpitudo" pos="NOMcom" msd="Case=Abl|Numb=Sing">turpitudine</w>
+        <w lemma="uaco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vacat</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="lingua" pos="NOMcom" msd="Case=Nom|Numb=Sing">lingua</w>
+        <w lemma="uanus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">vana</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="manus1" pos="NOMcom" msd="Case=Nom|Numb=Plur">manus</w>
+        <w lemma="rapax" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Sup">rapacissimae</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="gula" pos="NOMcom" msd="Case=Nom|Numb=Sing">gula</w>
+        <w lemma="immensus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">immensa</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="pes" pos="NOMcom" msd="Case=Acc|Numb=Plur">pedes</w>
+        <w lemma="fugax" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">fugaces</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Fem">quae</w>
+        <w lemma="honeste" pos="ADV" msd="Deg=Pos">honeste</w>
+        <w lemma="nomino" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">nominari</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="possum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">possunt</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="inhonestus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Sup" ana="#male #euphemisms #aidoion #mentula">inhonestissima</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

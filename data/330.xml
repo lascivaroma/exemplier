@@ -1,11 +1,10 @@
-<div type="fragment" corresp="adams:61"  ana="#male #natura">
+<div  type="fragment" corresp="adams:61" ana="#male #natura  #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:22.8">
-        <w lemma="radix(accusatif singulier)|radico(1ère singulier subjonctif présent actif)">radicem</w> 
-        <w lemma="is(génitif masculin singulier)|is(génitif féminin singulier)|is(génitif neutre singulier)|Eus(nominatif neutre singulier comparatif)|Eus(vocatif neutre singulier comparatif)|Eus(accusatif neutre singulier comparatif)">eius</w>
-
-        <w lemma="alteruter(génitif masculin singulier)|alteruter(génitif féminin singulier)|alteruter(génitif neutre singulier)">alterutrius</w> 
-        <w lemma="sexus(nominatif singulier)|sexus(vocatif singulier)|sexus(génitif singulier)|sexus(nominatif pluriel)|sexus(vocatif pluriel)|sexus(accusatif pluriel)">sexus</w> 
-        <w lemma="similitudo(accusatif singulier)">similitudinem</w> 
-        <w lemma="refero(infinitif présent actif)">referre</w>    
+        <w lemma="radix" pos="NOMcom" msd="Case=Acc|Numb=Sing">radicem</w>
+        <w lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+        <w lemma="alterutris" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">alterutrius</w>
+        <w lemma="sexus" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #natura #remove">sexus</w>
+        <w lemma="similitudo" pos="NOMcom" msd="Case=Acc|Numb=Sing">similitudinem</w>
+        <w lemma="refero" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">referre</w>
     </quote>
  </div>

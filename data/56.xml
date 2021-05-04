@@ -1,11 +1,12 @@
-<div type="fragment" corresp="adams:35"  ana="#male #anatomie">
+<div  type="fragment" corresp="adams:35" ana="#male #anatomie #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.33">
-        <w lemma="nes(accusatif singulier)|nam(-)">nam</w> 
-        <w lemma="simul(-)">simul</w> 
-        <w lemma="ac(-)">ac</w> 
-        <w lemma="uena(accusatif pluriel)|ueno(2ème singulier indicatif présent actif)">venas</w> 
-        <w lemma="inflo(3ème singulier indicatif parfait actif)">inflavit</w> 
-        <w lemma="taeter(nominatif féminin singulier)|taeter(vocatif féminin singulier)|taeter(ablatif féminin singulier)|taeter(nominatif neutre pluriel)|taeter(vocatif neutre pluriel)|taeter(accusatif neutre pluriel)|taetro(2ème singulier impératif présent actif)|taetrum(nominatif pluriel)|taetrum(vocatif pluriel)|taetrum(accusatif pluriel)|taetrus(nominatif féminin singulier)|taetrus(vocatif féminin singulier)|taetrus(ablatif féminin singulier)|taetrus(nominatif neutre pluriel)|taetrus(vocatif neutre pluriel)|taetrus(accusatif neutre pluriel)">taetra</w> 
-        <w lemma="libido(nominatif singulier)|libido(vocatif singulier)">libido</w>,     
+        <w lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+        <w lemma="simul3" pos="CONsub" msd="Deg=Pos">simul</w>
+        <w lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+        <w lemma="uena" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #anatomie">venas</w>
+        <w lemma="inflo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">inflavit</w>
+        <w lemma="teter" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">taetra</w>
+        <w lemma="libido" pos="NOMcom" msd="Case=Nom|Numb=Sing">libido</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

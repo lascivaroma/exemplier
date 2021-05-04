@@ -1,19 +1,23 @@
-<div type="fragment" corresp="adams:34"  ana="#male #animal">
+<div  type="fragment" corresp="adams:34" ana="#male #animal #mentula #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat1:25.6">
-        <w lemma="hinc(-)">hinc</w> 
-        <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiam</w> 
-        <w lemma="puto(1ère singulier indicatif présent actif)|putus(datif masculin singulier)|putus(ablatif masculin singulier)|putus(datif neutre singulier)|putus(ablatif neutre singulier)|putus(datif singulier)|putus(ablatif singulier)">puto</w> 
-        <w lemma="proverbium(nominatif singulier)|proverbium(vocatif singulier)|proverbium(accusatif singulier)">proverbium</w> 
-        <w lemma="nascor(supin en -um)|nascor(accusatif masculin singulier participe parfait actif)|nascor(nominatif neutre singulier participe parfait actif)|nascor(vocatif neutre singulier participe parfait actif)|nascor(accusatif neutre singulier participe parfait actif)|natus(accusatif masculin singulier)|natus(nominatif neutre singulier)|natus(vocatif neutre singulier)|natus(accusatif neutre singulier)|natus(accusatif singulier)|natus(accusatif singulier)|no(supin en -um)|no(accusatif masculin singulier participe parfait passif)|no(nominatif neutre singulier participe parfait passif)|no(vocatif neutre singulier participe parfait passif)|no(accusatif neutre singulier participe parfait passif)">natum</w> 
-        <w lemma="ille(nominatif neutre singulier)|ille(accusatif neutre singulier)">illud</w>, [
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="dico(3ème singulier subjonctif présent passif)|dico(3ème singulier indicatif présent passif)">dicatur</w>] 
-        <w lemma="possum(infinitif présent actif)|Possis(ablatif singulier)">posse</w> 	
-
-        <w lemma="Taurus(accusatif singulier)|taurus(accusatif singulier)">taurum</w> 
-        <w lemma="tollo(infinitif présent actif)|tollo(2ème singulier indicatif présent passif)|tollo(2ème singulier indicatif futur passif)|tollo(2ème singulier impératif présent passif)">tollere</w>, 
-        <w lemma="qui(nominatif masculin singulier)|qui(nominatif masculin pluriel)|quis(nominatif masculin pluriel)|queo(2ème singulier impératif présent actif)|queo(1ère singulier indicatif parfait actif)|qui(-)">qui</w> 
-        <w lemma="uitulus(accusatif singulier)|Uitulus(accusatif singulier)">vitulum</w> 
-        <w lemma="suffero(3ème singulier indicatif futur antérieur actif)|suffero(3ème singulier subjonctif parfait actif)|tollo(3ème singulier indicatif futur antérieur actif)|tollo(3ème singulier subjonctif parfait actif)">sustulerit</w>.    
+        <w lemma="hinc" pos="ADV" msd="Deg=Pos">hinc</w>
+        <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+        <w lemma="puto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">puto</w>
+        <w lemma="prouerbium" pos="NOMcom" msd="Case=Acc|Numb=Sing">proverbium</w>
+        <w lemma="nascor" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut">natum</w>
+        <w lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">illud</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="[" pos="PUNC" msd="MORPH=empty">[</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">dicatur</w>
+        <w lemma="]" pos="PUNC" msd="MORPH=empty">]</w>
+        <w lemma="possum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">posse</w>
+        <w lemma="taurus" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #animal">taurum</w>
+        <w lemma="tollo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tollere</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+        <w lemma="uitulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">vitulum</w>
+        <w lemma="tollo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">sustulerit</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

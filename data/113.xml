@@ -1,12 +1,12 @@
-<div type="fragment" corresp="adams:45"  ana="#male #specialisation">
+<div  type="fragment" corresp="adams:45" ana="#male #specialisation #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0299.stoa001.opp-lat1:309.9-309.10">
-        <w lemma="dum(-)">Dum</w> 
-        <w lemma="pario(vocatif masculin singulier participe parfait passif)|pars(ablatif singulier)|partus(vocatif masculin singulier)">parte</w> 
-        <w lemma="qui(ablatif féminin singulier)|quis(ablatif féminin singulier)|qua(-)">qua</w> 
-        <w lemma="decet(3ème singulier indicatif imparfait actif)">decebat</w>
-
-        <w lemma="nil(-)|nil(-)">Nil</w> 
-        <w lemma="contineo(2ème singulier indicatif présent actif)">Contines</w> 
-        <w lemma="maritus(génitif masculin singulier)|maritus(nominatif masculin pluriel)|maritus(vocatif masculin pluriel)|maritus(génitif neutre singulier)|maritus(génitif singulier)|maritus(nominatif pluriel)|maritus(vocatif pluriel)|mariti(nominatif pluriel)|mariti(vocatif pluriel)">mariti</w>.    
+        <w lemma="dum2" pos="CONsub" msd="MORPH=empty">Dum</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #specialisation #euphemism #mentula">parte</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
+        <w lemma="decet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">decebat</w>
+        <w lemma="nihil" pos="PROind" msd="Case=Ind">Nil</w>
+        <w lemma="contineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">Contines</w>
+        <w lemma="maritus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">mariti</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

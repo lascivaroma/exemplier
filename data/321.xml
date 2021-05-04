@@ -1,15 +1,17 @@
-<div type="fragment" corresp="adams:59"  ana="#male #natura">
+<div  type="fragment" corresp="adams:59" ana="#male #natura #euphemism #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat6:7.26">
-        <w lemma="sed(-)|sed(-)">Sed</w> 
-        <w lemma="virgo(datif singulier)|Virginius(vocatif singulier)|Virginius(génitif singulier)|Virginius(nominatif pluriel)|Virginius(vocatif pluriel)">uirgini</w> 
-        <w lemma="subeo(infinitif présent actif)">subire</w> 
-        <w lemma="digitus(génitif singulier)|digitus(nominatif pluriel)|digitus(vocatif pluriel)|Digiti(nominatif pluriel)|Digiti(vocatif pluriel)|Digitius(vocatif singulier)|Digitus(génitif singulier)|Digitus(nominatif pluriel)|Digitus(vocatif pluriel)|Digitius(génitif singulier)|Digitius(nominatif pluriel)|Digitius(vocatif pluriel)">digiti</w> 
-        <w lemma="qui(ablatif féminin singulier)|quis(ablatif féminin singulier)|qua(-)">qua</w> 
-        <w lemma="masculus(datif masculin singulier)|masculus(ablatif masculin singulier)|masculus(datif neutre singulier)|masculus(ablatif neutre singulier)|masculus(datif singulier)|masculus(ablatif singulier)">masculo</w>, 
-        <w lemma="mulier(datif singulier)">mulieri</w> 
-        <w lemma="per(-)">per</w> 
-        <w lemma="naturalis(nominatif neutre singulier)|naturalis(vocatif neutre singulier)|naturalis(accusatif neutre singulier)|naturale(nominatif singulier)|naturale(vocatif singulier)|naturale(accusatif singulier)">naturale</w> 
-        <w lemma="is(génitif masculin singulier)|is(génitif féminin singulier)|is(génitif neutre singulier)|Eus(nominatif neutre singulier comparatif)|Eus(vocatif neutre singulier comparatif)|Eus(accusatif neutre singulier comparatif)">eius</w> 
-        <w lemma="debeo(3ème pluriel indicatif présent actif)">debent</w>.    
+        <w lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+        <w lemma="uirgo" pos="NOMcom" msd="Case=Dat|Numb=Sing">uirgini</w>
+        <w lemma="subeo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">subire</w>
+        <w lemma="digitus" pos="NOMcom" msd="Case=Nom|Numb=Plur">digiti</w>
+        <w lemma="quis1" pos="PROrel" msd="Numb=Sing">qua</w>
+        <w lemma="masculus" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Deg=Pos">masculo</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="mulier" pos="NOMcom" msd="Case=Dat|Numb=Sing">mulieri</w>
+        <w lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+        <w lemma="naturalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut" ana="#male #natura">naturale</w>
+        <w lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+        <w lemma="debeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">debent</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

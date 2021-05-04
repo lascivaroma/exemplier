@@ -1,13 +1,13 @@
-<div type="fragment" corresp="adams:42"  ana="#male #contenant">
+<div  type="fragment" corresp="adams:42" ana="#male #contenant #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0040.stoa003:14.23">
-        <w lemma="ito(2ème singulier impératif présent actif)|ita(-)">Ita</w> 
-        <w lemma="genitale(nominatif singulier)|genitale(vocatif singulier)|genitale(accusatif singulier)|Genitalis(ablatif singulier)|genitalis(nominatif neutre singulier)|genitalis(vocatif neutre singulier)|genitalis(accusatif neutre singulier)">genitale</w> 
-        <w lemma="arvum(nominatif singulier)|arvum(vocatif singulier)|arvum(accusatif singulier)|arvus(accusatif masculin singulier)|arvus(nominatif neutre singulier)|arvus(vocatif neutre singulier)|arvus(accusatif neutre singulier)">aruum</w> 
-        <w lemma="uas(nominatif singulier)|uas(vocatif singulier)|uas(accusatif singulier)|uas(nominatif singulier)|uas(vocatif singulier)">uas</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="hic(ablatif masculin singulier)|hic(nominatif neutre singulier)|hic(accusatif neutre singulier)|hic(ablatif neutre singulier)|hoc(-)">hoc</w> 
-        <w lemma="opos(nominatif singulier)|opus(-)|opus(accusatif singulier)|opus(nominatif singulier)|opus(vocatif singulier)|Opus(nominatif singulier)|Opus(vocatif singulier)">opus</w> 
-        <w lemma="creo(supin en -um)|creo(accusatif masculin singulier participe parfait passif)|creo(nominatif neutre singulier participe parfait passif)|creo(vocatif neutre singulier participe parfait passif)|creo(accusatif neutre singulier participe parfait passif)|creatus(accusatif masculin singulier)|creatus(nominatif neutre singulier)|creatus(vocatif neutre singulier)|creatus(accusatif neutre singulier)">creatum</w> 
-        <w lemma="semino(3ème singulier subjonctif imparfait actif)">seminaret</w>    
+        <w lemma="ita" pos="ADV" msd="Deg=Pos">Ita</w>
+        <w lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">genitale</w>
+        <w lemma="aruum" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #contenant #metaphore #mentula">aruum</w>
+        <w lemma="uas2" pos="NOMcom" msd="Case=Nom|Numb=Sing">uas</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+        <w lemma="opus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">opus</w>
+        <w lemma="creo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">creatum</w>
+        <w lemma="semino" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">seminaret</w>
     </quote>
  </div>

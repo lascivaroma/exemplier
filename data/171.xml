@@ -1,10 +1,10 @@
-<div type="fragment" corresp="adams:47"  ana="#male #euphemisms #voisinage">
+<div  type="fragment" corresp="adams:47" ana="#male #euphemisms #voisinage #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:86.2">
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="uxor(génitif singulier)|uxorius(datif masculin pluriel)|uxorius(ablatif masculin pluriel)|uxorius(datif féminin pluriel)|uxorius(ablatif féminin pluriel)|uxorius(datif neutre pluriel)|uxorius(ablatif neutre pluriel)|uxorium(datif pluriel)|uxorium(ablatif pluriel)">uxoris</w> 
-        <w lemma="grauidus(génitif féminin singulier)|grauidus(datif féminin singulier)|grauidus(nominatif féminin pluriel)|grauidus(vocatif féminin pluriel)|grauida(génitif singulier)|grauida(datif singulier)|grauida(nominatif pluriel)|grauida(vocatif pluriel)">gravidae</w> 
-        <w lemma="putris(nominatif neutre pluriel)|putris(vocatif neutre pluriel)|putris(accusatif neutre pluriel)|puter(nominatif neutre pluriel)|puter(vocatif neutre pluriel)|puter(accusatif neutre pluriel)">putria</w> 
-        <w lemma="inguen(nominatif pluriel)|inguen(vocatif pluriel)|inguen(accusatif pluriel)|inguina(nominatif singulier)|inguina(vocatif singulier)|inguina(ablatif singulier)">inguina</w> 
-        <w lemma="lambo(2ème singulier indicatif présent actif)">lambis</w>    
+        <w lemma="quod2" pos="PROrel" msd="Numb=Sing">quod</w>
+        <w lemma="uxor" pos="NOMcom" msd="Case=Gen|Numb=Sing">uxoris</w>
+        <w lemma="grauidus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">gravidae</w>
+        <w lemma="putris" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">putria</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Nom|Numb=Plur" ana="#male #euphemisms #voisinage #mentula">inguina</w>
+        <w lemma="lambus" pos="NOMcom" msd="Case=Dat|Numb=Sing">lambis</w>
     </quote>
  </div>

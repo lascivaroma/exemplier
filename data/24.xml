@@ -1,54 +1,63 @@
-<div type="fragment" corresp="adams:30"  ana="#male #personnification">
+<div  type="fragment" corresp="adams:30" ana="#male #personnification">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:9.16">
-        <w lemma="denique(-)|deni(nominatif masculin pluriel)|deni(vocatif masculin pluriel)">Denique</w> 
-        <w lemma="dies(ablatif singulier)|Dios(vocatif singulier)|dius(vocatif masculin singulier)|Dius(vocatif singulier)">die</w> 
-        <w lemma="quidam(ablatif féminin singulier)|quadam(positif)">quadam</w> 
-        <w lemma="madidus(génitif féminin singulier)|madidus(datif féminin singulier)|madidus(nominatif féminin pluriel)|madidus(vocatif féminin pluriel)">madidae</w>  
-        <w lemma="ille(génitif masculin singulier)|ille(génitif féminin singulier)|ille(génitif neutre singulier)">illius</w> 
-        <w lemma="anicula(génitif singulier)|anicula(datif singulier)|anicula(nominatif pluriel)|anicula(vocatif pluriel)">aniculae</w>, 
-        <w lemma="Sermo(nominatif singulier)|Sermo(vocatif singulier)|sermo(nominatif singulier)|sermo(vocatif singulier)">sermo</w> 
-        <w lemma="talis(génitif masculin singulier)|talis(accusatif masculin pluriel)|talis(génitif féminin singulier)|talis(accusatif féminin pluriel)|talis(génitif neutre singulier)|talus(datif pluriel)|talus(ablatif pluriel)|Talius(datif pluriel)|Talius(ablatif pluriel)|talis(nominatif masculin singulier)|talis(vocatif masculin singulier)|talis(nominatif féminin singulier)|talis(vocatif féminin singulier)">talis</w> 
-        <w lemma="meo(2ème singulier indicatif présent actif)|meus(accusatif féminin pluriel)|Meae(accusatif pluriel)">meas</w> 
-        <w lemma="adfero(3ème singulier indicatif présent passif)">affertur</w> 
-        <w lemma="auris(accusatif pluriel)|auris(nominatif pluriel)|auris(vocatif pluriel)|auro(2ème singulier subjonctif présent actif)">aures</w>: “ 
-        <w lemma="de(-)">De</w> 
-        <w lemma="iste(ablatif masculin singulier)|iste(ablatif neutre singulier)|isto(-)">isto</w> 
-        <w lemma="quidem(-)">quidem</w>, 
-        <w lemma="MI()|mi(vocatif singulier)|ego(datif masculin singulier)|ego(datif féminin singulier)|mius(génitif masculin singulier)|mius(nominatif masculin pluriel)|mius(vocatif masculin pluriel)|mius(génitif neutre singulier)">mi</w> 
-        <w lemma="Herilus(datif pluriel)|Herilus(ablatif pluriel)|herilis(génitif masculin singulier)|herilis(accusatif masculin pluriel)|herilis(génitif féminin singulier)|herilis(accusatif féminin pluriel)|herilis(génitif neutre singulier)|herilis(nominatif masculin singulier)|herilis(vocatif masculin singulier)|herilis(nominatif féminin singulier)|herilis(vocatif féminin singulier)">herilis</w>, 
-        <w lemma="Tecum(nominatif singulier)|Tecum(vocatif singulier)|Tecum(accusatif singulier)|tecum(ablatif masculin singulier)|tecum(ablatif féminin singulier)|tecum(ablatif neutre singulier)">tecum</w> 
-        <w lemma="ipse(nominatif féminin singulier)|ipse(ablatif féminin singulier)|ipse(nominatif neutre pluriel)|ipse(accusatif neutre pluriel)">ipsa</w> 
-        <w lemma="uideo(2ème singulier indicatif futur antérieur actif)|uideo(2ème singulier subjonctif parfait actif)|uideo(2ème singulier indicatif présent passif)|videor(2ème singulier indicatif présent actif)">videris</w>, 
-        <w lemma="qui(accusatif masculin singulier)|quis(accusatif masculin singulier)|quem(positif)">quem</w> 
-        <w lemma="Sinis(ablatif singulier)|sino(2ème singulier impératif présent actif)|sinus(vocatif singulier)|sine(-)|sion(génitif singulier)|si(-)">sine</w> 
-        <w lemma="meo(1ère singulier indicatif présent actif)|meum(datif singulier)|meum(ablatif singulier)|meus(datif masculin singulier)|meus(ablatif masculin singulier)|meus(datif neutre singulier)|meus(ablatif neutre singulier)|Meum(datif singulier)|Meum(ablatif singulier)|meum(datif singulier)|meum(ablatif singulier)">meo</w> 
-        <w lemma="consilium(datif singulier)|consilium(ablatif singulier)|consilio(positif)">consilio</w> 
-        <w lemma="piger(accusatif masculin singulier)|piger(nominatif neutre singulier)|piger(vocatif neutre singulier)|piger(accusatif neutre singulier)">pigrum</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="formidulosus(accusatif masculin singulier)|formidulosus(nominatif neutre singulier)|formidulosus(vocatif neutre singulier)|formidulosus(accusatif neutre singulier)">formidulosum</w> 
-        <w lemma="familiaris(accusatif singulier)|familiaris(accusatif masculin singulier)|familiaris(accusatif féminin singulier)">familiarem</w> 
-        <w lemma="iste(accusatif masculin singulier)">istum</w> 
-        <w lemma="sortior(nominatif féminin singulier participe parfait actif)|sortior(vocatif féminin singulier participe parfait actif)|sortior(ablatif féminin singulier participe parfait actif)|sortior(nominatif neutre pluriel participe parfait actif)|sortior(vocatif neutre pluriel participe parfait actif)|sortior(accusatif neutre pluriel participe parfait actif)|sortio(nominatif féminin singulier participe parfait passif)|sortio(vocatif féminin singulier participe parfait passif)|sortio(ablatif féminin singulier participe parfait passif)|sortio(nominatif neutre pluriel participe parfait passif)|sortio(vocatif neutre pluriel participe parfait passif)|sortio(accusatif neutre pluriel participe parfait passif)|sortitus(nominatif féminin singulier)|sortitus(vocatif féminin singulier)|sortitus(ablatif féminin singulier)|sortitus(nominatif neutre pluriel)|sortitus(vocatif neutre pluriel)|sortitus(accusatif neutre pluriel)">sortita</w> 
-        <w lemma="edo(2ème singulier indicatif présent actif)|Megisto(nominatif pluriel)|Megisto(vocatif pluriel)|Megisto(accusatif pluriel)|sum(2ème singulier indicatif présent actif)|sum(2ème singulier impératif présent actif)">es</w>, 
-        <w lemma="qui(nominatif masculin singulier)|qui(nominatif masculin pluriel)|quis(nominatif masculin pluriel)|queo(2ème singulier impératif présent actif)|queo(1ère singulier indicatif parfait actif)|qui(-)">qui</w> 
-        <w lemma="insuavis(génitif masculin singulier)|insuavis(accusatif masculin pluriel)|insuavis(génitif féminin singulier)|insuavis(accusatif féminin pluriel)|insuavis(génitif neutre singulier)|insuavis(nominatif masculin singulier)|insuavis(vocatif masculin singulier)|insuavis(nominatif féminin singulier)|insuavis(vocatif féminin singulier)">insuavis</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="odiosus(génitif masculin singulier)|odiosus(nominatif masculin pluriel)|odiosus(vocatif masculin pluriel)|odiosus(génitif neutre singulier)">odiosi</w> 
-        <w lemma="maritus(génitif masculin singulier)|maritus(nominatif masculin pluriel)|maritus(vocatif masculin pluriel)|maritus(génitif neutre singulier)|maritus(génitif singulier)|maritus(nominatif pluriel)|maritus(vocatif pluriel)|mariti(nominatif pluriel)|mariti(vocatif pluriel)">mariti</w> 
-        <w lemma="tu(génitif masculin singulier)|tu(génitif féminin singulier)|tuor(infinitif présent actif)|tuus(génitif masculin singulier)|tuus(nominatif masculin pluriel)|tuus(vocatif masculin pluriel)|tuus(génitif neutre singulier)|tui(nominatif pluriel)|tui(vocatif pluriel)">tui</w> 
-        <w lemma="caperro(supin en -um)|caperro(accusatif masculin singulier participe parfait passif)|caperro(nominatif neutre singulier participe parfait passif)|caperro(vocatif neutre singulier participe parfait passif)|caperro(accusatif neutre singulier participe parfait passif)">caperratum</w> 
-        <w lemma="supercilium(nominatif singulier)|supercilium(vocatif singulier)|supercilium(accusatif singulier)">supercilium</w> 
-        <w lemma="ignaviter(positif)">ignaviter</w> 
-        <w lemma="perhorresco(3ème singulier indicatif présent actif)">perhorrescit</w> 
-        <w lemma="ac(-)">ac</w> 
-        <w lemma="per(-)">per</w> 
-        <w lemma="hic(ablatif masculin singulier)|hic(nominatif neutre singulier)|hic(accusatif neutre singulier)|hic(ablatif neutre singulier)|hoc(-)">hoc</w> 
-        <w lemma="Amor(génitif singulier)|amor(génitif singulier)|Amorion(datif pluriel)|Amorion(ablatif pluriel)|Amorium(datif pluriel)|Amorium(ablatif pluriel)">amoris</w> 
-        <w lemma="languidus(génitif masculin singulier)|languidus(nominatif masculin pluriel)|languidus(vocatif masculin pluriel)|languidus(génitif neutre singulier)|languidus(génitif singulier)|languidus(nominatif pluriel)|languidus(vocatif pluriel)">languidi</w> 
-        <w lemma="desidia(nominatif singulier)|desidia(vocatif singulier)|desidia(ablatif singulier)|desidia(nominatif singulier)|desidia(vocatif singulier)|desidia(ablatif singulier)">desidia</w> 
-        <w lemma="tuus(accusatif masculin pluriel)|tui(accusatif pluriel)">tuos</w> 
-        <w lemma="uolo(nominatif masculin pluriel participe présent actif)|uolo(vocatif masculin pluriel participe présent actif)|uolo(accusatif masculin pluriel participe présent actif)|uolo(nominatif féminin pluriel participe présent actif)|uolo(vocatif féminin pluriel participe présent actif)|uolo(accusatif féminin pluriel participe présent actif)|volens(accusatif pluriel)|volens(nominatif pluriel)|volens(vocatif pluriel)">volentes</w> 
-        <w lemma="amplector(nominatif masculin singulier participe parfait actif)|amplexus(nominatif singulier)|amplexus(vocatif singulier)|amplexus(génitif singulier)|amplexus(nominatif pluriel)|amplexus(vocatif pluriel)|amplexus(accusatif pluriel)|amplexus(nominatif masculin singulier)|amploctor(nominatif masculin singulier participe parfait actif)">amplexus</w> 
-        <w lemma="discrucio(3ème singulier indicatif présent actif)">discruciat</w>.    
+        <w lemma="denique" pos="ADV" msd="Deg=Pos">Denique</w>
+        <w lemma="dies" pos="NOMcom" msd="Case=Abl|Numb=Sing">die</w>
+        <w lemma="quidam" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">quadam</w>
+        <w lemma="madidus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">madidae</w>
+        <w lemma="ille" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">illius</w>
+        <w lemma="anicula" pos="NOMcom" msd="Case=Gen|Numb=Sing">aniculae</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="sermo" pos="NOMcom" msd="Case=Nom|Numb=Sing">sermo</w>
+        <w lemma="talis" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=MascFem">talis</w>
+        <w lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Fem">meas</w>
+        <w lemma="affero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">affertur</w>
+        <w lemma="auris" pos="NOMcom" msd="Case=Acc|Numb=Plur">aures</w>
+        <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+        <w lemma="“" pos="PUNC" msd="MORPH=empty">“</w>
+        <w lemma="de" pos="PRE" msd="MORPH=empty">De</w>
+        <w lemma="iste" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">isto</w>
+        <w lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="meus" pos="PROper" msd="Case=Voc|Numb=Sing|Gend=Masc">mi</w>
+        <w lemma="herilis" pos="ADJqua" msd="Case=Voc|Numb=Sing|Deg=Pos">herilis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">tecum</w>
+        <w lemma="cum3" pos="CON" msd="MORPH=empty">{tecum}</w>
+        <w lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ipsa</w>
+        <w lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=2">videris</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+        <w lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+        <w lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">meo</w>
+        <w lemma="consilium" pos="NOMcom" msd="Case=Abl|Numb=Sing">consilio</w>
+        <w lemma="piger" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">pigrum</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="formidolosus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">formidulosum</w>
+        <w lemma="familiaris1" pos="NOMcom" msd="Case=Acc|Numb=Sing|Deg=Pos">familiarem</w>
+        <w lemma="iste" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">istum</w>
+        <w lemma="sortior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">sortita</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+        <w lemma="insuauis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Person=2">insuavis</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="odiosus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">odiosi</w>
+        <w lemma="maritus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">mariti</w>
+        <w lemma="tuus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=MascNeut">tui</w>
+        <w lemma="caperro" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">caperratum</w>
+        <w lemma="supercilium" pos="NOMcom" msd="Case=Acc|Numb=Sing">supercilium</w>
+        <w lemma="ignauiter" pos="ADV" msd="Deg=Pos">ignaviter</w>
+        <w lemma="perhorresco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">perhorrescit</w>
+        <w lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+        <w lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+        <w lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+        <w lemma="amor" pos="NOMcom" msd="Case=Gen|Numb=Sing">amoris</w>
+        <w lemma="languidus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">languidi</w>
+        <w lemma="desidia1" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #personnification">desidia</w>
+        <w lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Masc">tuos</w>
+        <w lemma="uolens" pos="VER" msd="Case=Acc|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">volentes</w>
+        <w lemma="amplexus" pos="VER" msd="Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Dep">amplexus</w>
+        <w lemma="discrucio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">discruciat</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

@@ -1,14 +1,15 @@
-<div type="fragment" corresp="adams:30"  ana="#male #personnification">
+<div  type="fragment" corresp="adams:30" ana="#male #personnification">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.65-3.7.66">
-        <w lemma="noster(nominatif féminin singulier)|noster(vocatif féminin singulier)|noster(ablatif féminin singulier)|noster(nominatif neutre pluriel)|noster(vocatif neutre pluriel)|noster(accusatif neutre pluriel)">Nostra</w> 
-        <w lemma="tamen(-)">tamen</w> 
-        <w lemma="iaceo(3ème pluriel indicatif parfait actif)">iacuere</w> 
-        <w lemma="uelut(-)">velut</w> 
-        <w lemma="praemorior(nominatif féminin singulier participe parfait actif)|praemorior(vocatif féminin singulier participe parfait actif)|praemorior(ablatif féminin singulier participe parfait actif)|praemorior(nominatif neutre pluriel participe parfait actif)|praemorior(vocatif neutre pluriel participe parfait actif)|praemorior(accusatif neutre pluriel participe parfait actif)|praemortuus(nominatif féminin singulier)|praemortuus(vocatif féminin singulier)|praemortuus(ablatif féminin singulier)|praemortuus(nominatif neutre pluriel)|praemortuus(vocatif neutre pluriel)|praemortuus(accusatif neutre pluriel)">praemortua</w> 
-        <w lemma="membrum(nominatif pluriel)|membrum(vocatif pluriel)|membrum(accusatif pluriel)|membro(2ème singulier impératif présent actif)">membra</w> 
-        <w lemma="turpiter(positif)">Turpiter</w> 
-        <w lemma="hesternus(nominatif féminin singulier)|hesternus(vocatif féminin singulier)|hesternus(ablatif féminin singulier)|hesternus(nominatif neutre pluriel)|hesternus(vocatif neutre pluriel)|hesternus(accusatif neutre pluriel)|hesterna(positif)">hesterna</w> 
-        <w lemma="languidus(nominatif neutre pluriel comparatif)|languidus(vocatif neutre pluriel comparatif)|languidus(accusatif neutre pluriel comparatif)">languidiora</w> 
-        <w lemma="rodo(nominatif féminin singulier participe parfait passif)|rodo(vocatif féminin singulier participe parfait passif)|rodo(ablatif féminin singulier participe parfait passif)|rodo(nominatif neutre pluriel participe parfait passif)|rodo(vocatif neutre pluriel participe parfait passif)|rodo(accusatif neutre pluriel participe parfait passif)|rosa(nominatif singulier)|rosa(vocatif singulier)|rosa(ablatif singulier)|rosus(nominatif féminin singulier)|rosus(vocatif féminin singulier)|rosus(ablatif féminin singulier)|rosus(nominatif neutre pluriel)|rosus(vocatif neutre pluriel)|rosus(accusatif neutre pluriel)">rosa</w> —     
+        <w lemma="noster" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">Nostra</w>
+        <w lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+        <w lemma="iaceo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">iacuere</w>
+        <w lemma="uelut1" pos="ADVrel" msd="MORPH=empty">velut</w>
+        <w lemma="praemorior" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Dep">praemortua</w>
+        <w lemma="membrum" pos="NOMcom" msd="Case=Nom|Numb=Plur" ana="#male #personnification">membra</w>
+        <w lemma="turpiter" pos="ADV" msd="Deg=Pos">Turpiter</w>
+        <w lemma="hesternus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Fem|Deg=Pos">hesterna</w>
+        <w lemma="languidus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Comp">languidiora</w>
+        <w lemma="rosa" pos="NOMcom" msd="Case=Abl|Numb=Sing">rosa</w>
+        <w lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
     </quote>
  </div>

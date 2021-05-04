@@ -1,12 +1,12 @@
-<div type="fragment" corresp="adams:51"  ana="#male #euphemisms #voisinage #reproduction">
+<div  type="fragment" corresp="adams:51" ana="#euphemisms #voisinage #reproduction">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:109">
-        <w lemma="eripio(3ème singulier indicatif présent actif)">eripit</w> 
-        <w lemma="a(-)|a(-)|a(-)">a</w> 
-        <w lemma="femur(ablatif singulier)">femore</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="trepido(datif masculin singulier participe présent actif)|trepido(datif féminin singulier participe présent actif)|trepido(datif neutre singulier participe présent actif)">trepidanti</w> 
-        <w lemma="fervidus(nominatif masculin singulier)">fervidus</w> 
-        <w lemma="insto(3ème singulier indicatif présent actif)">instat</w>. 
-                   
+        <w lemma="eripio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">eripit</w>
+        <w lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+        <w lemma="femur" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#euphemisms #voisinage #reproduction">femore</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="trepido" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">trepidanti</w>
+        <w lemma="feruidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">fervidus</w>
+        <w lemma="insto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">instat</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

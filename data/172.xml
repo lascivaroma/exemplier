@@ -1,7 +1,9 @@
-<div type="fragment" corresp="adams:47"  ana="#male #euphemisms #voisinage">
+<div  type="fragment" corresp="adams:47" ana="#male #euphemisms #voisinage #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:87.1">
-        <w lemma="Syriscus(nominatif masculin singulier)">Syriscus</w>, 
-        <w lemma="inguen(génitif pluriel)">inguinum</w> 
-        <w lemma="ligurrio(2ème singulier impératif futur passif)|ligurrio(3ème singulier impératif futur passif)|ligurritor(nominatif singulier)|ligurritor(vocatif singulier)">ligurritor</w>.    
+        <w lemma="Syriscus" pos="ADJqua" msd="Case=Nom|Numb=Sing">Syriscus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Gen|Numb=Plur" ana="#male #euphemisms #voisinage #mentula">inguinum</w>
+        <w lemma="ligurritor" pos="NOMcom" msd="Case=Nom|Numb=Sing">ligurritor</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

@@ -1,12 +1,15 @@
-<div type="fragment" corresp="adams:57"  ana="#male #descriptive-functional">
+<div  type="fragment" corresp="adams:57" ana="#male #descriptive-functional #euphemisms #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:52.6-52.7">
-        <w lemma="accedo(3ème pluriel indicatif futur actif)">accedent</w> 
-        <w lemma="duo(nominatif masculin pluriel)|duo(nominatif neutre pluriel)|duo(accusatif neutre pluriel)">duo</w>, 
-        <w lemma="qui(nominatif masculin singulier)|qui(nominatif masculin pluriel)|quis(nominatif masculin pluriel)|queo(2ème singulier impératif présent actif)|queo(1ère singulier indicatif parfait actif)|qui(-)">qui</w> 
-        <w lemma="fero(nominatif masculin singulier participe parfait passif)|Lato(génitif singulier)|latus(nominatif masculin singulier)|latus(accusatif singulier)|latus(nominatif singulier)|latus(vocatif singulier)">latus</w> 
-        <w lemma="tueor(3ème pluriel indicatif présent actif)|tuor(3ème pluriel indicatif futur actif)|tueo(3ème pluriel indicatif présent passif)">tuentur</w>, 
-        <w lemma="pulchre(positif)">pulchre</w> 
-        <w lemma="pensilis(datif masculin pluriel)|pensilis(ablatif masculin pluriel)|pensilis(datif féminin pluriel)|pensilis(ablatif féminin pluriel)|pensilis(datif neutre pluriel)|pensilis(ablatif neutre pluriel)|pensilia(datif pluriel)|pensilia(ablatif pluriel)">pensilibus</w> 
-        <w lemma="peculiatus(génitif masculin singulier)|peculiatus(nominatif masculin pluriel)|peculiatus(vocatif masculin pluriel)|peculiatus(génitif neutre singulier)|peculio(génitif masculin singulier participe parfait passif)|peculio(nominatif masculin pluriel participe parfait passif)|peculio(vocatif masculin pluriel participe parfait passif)|peculio(génitif neutre singulier participe parfait passif)">peculiati</w>;    
+        <w lemma="accedo1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3">accedent</w>
+        <w lemma="duo" pos="ADJcar" msd="Case=Nom|Numb=Plur|Gend=MascNeut">duo</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+        <w lemma="latus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">latus</w>
+        <w lemma="tueor" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">tuentur</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="pulchre" pos="ADV" msd="Deg=Pos">pulchre</w>
+        <w lemma="pensilis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#male #descriptive-functional #euphemisms #mentula">pensilibus</w>
+        <w lemma="peculiatus" pos="NOMcom" msd="Case=Nom|Numb=Plur|Gend=Masc">peculiati</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     </quote>
  </div>

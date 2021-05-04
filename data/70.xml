@@ -1,38 +1,38 @@
-<div type="fragment" corresp="adams:38"  ana="#male #anatomie">
+<div  type="fragment" corresp="adams:38" ana="#male #anatomie  #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi022:16.2">
-        <w lemma="qui(nominatif masculin singulier)|qui(nominatif masculin pluriel)|quis(nominatif masculin pluriel)|queo(2ème singulier impératif présent actif)|queo(1ère singulier indicatif parfait actif)|qui(-)">Qui</w> 
-        <w lemma="tribunus(nominatif singulier)">tribunus</w> 
-        <w lemma="pleo(2ème singulier indicatif futur actif)|plebs(génitif singulier)|plebis(vocatif singulier)|plebis(nominatif singulier)">plebis</w> 
-        <w lemma="Felix(nominatif singulier)|Felix(vocatif singulier)|felix(nominatif masculin singulier)|felix(vocatif masculin singulier)|felix(nominatif féminin singulier)|felix(vocatif féminin singulier)|felix(nominatif singulier)|felix(vocatif singulier)">felix</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="">ever</w>- 	
-
-        <w lemma="">tenda</w> 
-        <w lemma="res(ablatif singulier)">re</w> 
-        <w lemma="publica(nominatif singulier)|publica(vocatif singulier)|publica(ablatif singulier)|publico(2ème singulier impératif présent actif)|publicum(nominatif pluriel)|publicum(vocatif pluriel)|publicum(accusatif pluriel)|publicus(nominatif féminin singulier)|publicus(vocatif féminin singulier)|publicus(ablatif féminin singulier)|publicus(nominatif neutre pluriel)|publicus(vocatif neutre pluriel)|publicus(accusatif neutre pluriel)">publica</w> 
-        <w lemma="sum(3ème singulier indicatif parfait actif)">fuit</w> 
-        <w lemma="nullus(datif masculin pluriel)|nullus(ablatif masculin pluriel)|nullus(datif féminin pluriel)|nullus(ablatif féminin pluriel)|nullus(datif neutre pluriel)|nullus(ablatif neutre pluriel)">nullis</w> 
-        <w lemma="suo(2ème singulier indicatif présent actif)|sus(génitif singulier)|suum(datif pluriel)|suum(ablatif pluriel)|suus(datif masculin pluriel)|suus(ablatif masculin pluriel)|suus(datif féminin pluriel)|suus(ablatif féminin pluriel)|suus(datif neutre pluriel)|suus(ablatif neutre pluriel)|Sue(datif pluriel)|Sue(ablatif pluriel)|sui(datif pluriel)|sui(ablatif pluriel)">suis</w> 
-        <w lemma="Nerva(datif pluriel)|Nerva(ablatif pluriel)|nervus(datif pluriel)|nervus(ablatif pluriel)|nervia(datif pluriel)|nervia(ablatif pluriel)|Nervii(datif pluriel)|Nervii(ablatif pluriel)|Nervius(datif masculin pluriel)|Nervius(ablatif masculin pluriel)|Nervius(datif féminin pluriel)|Nervius(ablatif féminin pluriel)|Nervius(datif neutre pluriel)|Nervius(ablatif neutre pluriel)|nerviae(datif pluriel)|nerviae(ablatif pluriel)">nervis</w>—
-        <w lemma="qui(nominatif masculin singulier)|qui(nominatif masculin pluriel)|quis(nominatif masculin pluriel)|queo(2ème singulier impératif présent actif)|queo(1ère singulier indicatif parfait actif)|qui(-)">qui</w> 
-        <w lemma="enim(-)">enim</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="is(génitif masculin singulier)|is(génitif féminin singulier)|is(génitif neutre singulier)|Eus(nominatif neutre singulier comparatif)|Eus(vocatif neutre singulier comparatif)|Eus(accusatif neutre singulier comparatif)">eius</w> 	
-
-        <w lemma="modius(vocatif singulier)|modus(génitif singulier)|modus(nominatif pluriel)|modus(vocatif pluriel)|modium(génitif singulier)|modius(génitif singulier)|modius(nominatif pluriel)|modius(vocatif pluriel)">modi</w> 
-        <w lemma="uita(nominatif singulier)|uita(vocatif singulier)|uita(ablatif singulier)|uito(2ème singulier impératif présent actif)">vita</w> 
-        <w lemma="nervus(génitif singulier)|nervus(nominatif pluriel)|nervus(vocatif pluriel)|Nervii(nominatif pluriel)|Nervii(vocatif pluriel)|Nervius(génitif masculin singulier)|Nervius(nominatif masculin pluriel)|Nervius(vocatif masculin pluriel)|Nervius(génitif neutre singulier)">nervi</w> 
-        <w lemma="esse(infinitif présent actif)|sum(infinitif présent actif)">esse</w> 
-        <w lemma="possum(3ème pluriel indicatif parfait actif)">potuerunt</w> 
-        <w lemma="homo(génitif singulier)">hominis</w> 
-        <w lemma="fraternus(datif masculin pluriel)|fraternus(ablatif masculin pluriel)|fraternus(datif féminin pluriel)|fraternus(ablatif féminin pluriel)|fraternus(datif neutre pluriel)|fraternus(ablatif neutre pluriel)">fraternis</w> 
-        <w lemma="flagitium(datif pluriel)|flagitium(ablatif pluriel)">flagitiis</w>, 	
-
-        <w lemma="sororius(datif masculin pluriel)|sororius(ablatif masculin pluriel)|sororius(datif féminin pluriel)|sororius(ablatif féminin pluriel)|sororius(datif neutre pluriel)|sororius(ablatif neutre pluriel)|sororius(datif pluriel)|sororius(ablatif pluriel)">sororiis</w> 
-        <w lemma="stuprum(datif pluriel)|stuprum(ablatif pluriel)">stupris</w>, 
-        <w lemma="omne(ablatif singulier)|omne(datif singulier)|omnis(datif masculin singulier)|omnis(ablatif masculin singulier)|omnis(datif féminin singulier)|omnis(ablatif féminin singulier)|omnis(datif neutre singulier)|omnis(ablatif neutre singulier)">omni</w> 
-        <w lemma="inaudio(nominatif féminin singulier participe parfait passif)|inaudio(vocatif féminin singulier participe parfait passif)|inaudio(ablatif féminin singulier participe parfait passif)|inaudio(nominatif neutre pluriel participe parfait passif)|inaudio(vocatif neutre pluriel participe parfait passif)|inaudio(accusatif neutre pluriel participe parfait passif)|inauditus(nominatif féminin singulier)|inauditus(vocatif féminin singulier)|inauditus(ablatif féminin singulier)|inauditus(nominatif neutre pluriel)|inauditus(vocatif neutre pluriel)|inauditus(accusatif neutre pluriel)">inaudita</w> 
-        <w lemma="libido(ablatif singulier)">libidine</w> 
-        <w lemma="exsanguis(génitif masculin singulier)|exsanguis(accusatif masculin pluriel)|exsanguis(génitif féminin singulier)|exsanguis(accusatif féminin pluriel)|exsanguis(génitif neutre singulier)|exsanguis(nominatif masculin singulier)|exsanguis(vocatif masculin singulier)|exsanguis(nominatif féminin singulier)|exsanguis(vocatif féminin singulier)">exsanguis</w>?    
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">Qui</w>
+        <w lemma="tribunus" pos="NOMcom" msd="Case=Nom|Numb=Sing">tribunus</w>
+        <w lemma="plebs" pos="NOMcom" msd="Case=Gen|Numb=Sing">plebis</w>
+        <w lemma="felix" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">felix</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="euerto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">evertenda</w>
+        <w lemma="res" pos="NOMcom" msd="Case=Abl|Numb=Sing">re</w>
+        <w lemma="publicus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">publica</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+        <w lemma="nullus" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">nullis</w>
+        <w lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Plur|Gend=Com">suis</w>
+        <w lemma="neruus" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#male #anatomie">nervis</w>
+        <w lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+        <w lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+        <w lemma="modus" pos="NOMcom" msd="Case=Gen|Numb=Sing">modi</w>
+        <w lemma="uita" pos="NOMcom" msd="Case=Abl|Numb=Sing">vita</w>
+        <w lemma="neruus" pos="NOMcom" msd="Case=Nom|Numb=Plur" ana="#male #anatomie">nervi</w>
+        <w lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+        <w lemma="possum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">potuerunt</w>
+        <w lemma="homo" pos="NOMcom" msd="Case=Gen|Numb=Sing">hominis</w>
+        <w lemma="fraternus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">fraternis</w>
+        <w lemma="flagitium" pos="NOMcom" msd="Case=Abl|Numb=Plur">flagitiis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="sororius" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">sororiis</w>
+        <w lemma="stuprum" pos="NOMcom" msd="Case=Abl|Numb=Plur">stupris</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="omnis" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Com">omni</w>
+        <w lemma="inauditus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">inaudita</w>
+        <w lemma="libido" pos="NOMcom" msd="Case=Abl|Numb=Sing">libidine</w>
+        <w lemma="exsanguis" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">exsanguis</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>
  </div>

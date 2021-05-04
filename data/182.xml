@@ -1,11 +1,13 @@
-<div type="fragment" corresp="adams:48"  ana="#male #euphemisms #voisinage">
-    <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:3.9.4">
-        <w lemma="">Ravola</w>, 
-        <w lemma="dum(-)">dum</w> 
-        <w lemma="Rhodope(génitif singulier)">Rhodopes</w> 
-        <w lemma="udus(nominatif féminin singulier)|udus(vocatif féminin singulier)|udus(ablatif féminin singulier)|udus(nominatif neutre pluriel)|udus(vocatif neutre pluriel)|udus(accusatif neutre pluriel)|udo(2ème singulier impératif présent actif)">uda</w> 
-        <w lemma="tero(3ème singulier indicatif présent actif)">terit</w> 
-        <w lemma="inguen(nominatif pluriel)|inguen(vocatif pluriel)|inguen(accusatif pluriel)|inguina(nominatif singulier)|inguina(vocatif singulier)|inguina(ablatif singulier)">inguina</w> 
-        <w lemma="Barba(nominatif singulier)|Barba(vocatif singulier)|Barba(ablatif singulier)|barba(nominatif singulier)|barba(vocatif singulier)|barba(ablatif singulier)">barba</w>?    
+<div type="fragment" corresp="adams:48" ana="#female #euphemisms #voisinage  #cunnus">
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:9.4">
+        <w lemma="Rauola" pos="NOMpro" msd="Case=Nom|Numb=Sing|Gend=Fem">Ravola</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
+        <w lemma="Rhodope" pos="NOMpro" msd="Case=Nom|Numb=Sing">Rhodopes</w>
+        <w lemma="udus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">uda</w>
+        <w lemma="tero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">terit</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur">inguina</w>
+        <w lemma="barba" pos="NOMcom" msd="Case=Abl|Numb=Sing">barba</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>
  </div>

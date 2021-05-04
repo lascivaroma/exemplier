@@ -1,17 +1,20 @@
-<div type="fragment" corresp="adams:43"  ana="#male #proprieteprivee">
+<div  type="fragment" corresp="adams:43" ana="#male #proprieteprivee #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi016.perseus-lat2:1187-1189">
-        <w lemma="meo(2ème singulier impératif présent actif)|meum(nominatif pluriel)|meum(vocatif pluriel)|meum(accusatif pluriel)|meus(nominatif féminin singulier)|meus(vocatif féminin singulier)|meus(ablatif féminin singulier)|meus(nominatif neutre pluriel)|meus(vocatif neutre pluriel)|meus(accusatif neutre pluriel)|Meum(nominatif pluriel)|Meum(vocatif pluriel)|Meum(accusatif pluriel)|meum(nominatif pluriel)|meum(vocatif pluriel)|meum(accusatif pluriel)">mea</w> 
-        <w lemma="quidem(-)">quidem</w> 
-        <w lemma="hic(nominatif féminin singulier)|hic(nominatif neutre pluriel)|hic(accusatif neutre pluriel)">haec</w> 
-        <w lemma="habeo(1ère singulier indicatif présent actif)">habeo</w> 
-        <w lemma="omne(nominatif pluriel)|omne(vocatif pluriel)|omne(accusatif pluriel)|omnis(nominatif neutre pluriel)|omnis(vocatif neutre pluriel)|omnis(accusatif neutre pluriel)|omnia(nominatif pluriel)|omnia(vocatif pluriel)|omnia(accusatif pluriel)|omnia(positif)">omnia</w>, 
-        <w lemma="meo(1ère singulier indicatif présent actif)|meum(datif singulier)|meum(ablatif singulier)|meus(datif masculin singulier)|meus(ablatif masculin singulier)|meus(datif neutre singulier)|meus(ablatif neutre singulier)|Meum(datif singulier)|Meum(ablatif singulier)|meum(datif singulier)|meum(ablatif singulier)">meo</w> 
-        <w lemma="peculium(datif singulier)|peculium(ablatif singulier)|peculio(1ère singulier indicatif présent actif)">peculio</w> 
-        <w lemma="emo(nominatif féminin singulier participe parfait passif)|emo(vocatif féminin singulier participe parfait passif)|emo(ablatif féminin singulier participe parfait passif)|emo(nominatif neutre pluriel participe parfait passif)|emo(vocatif neutre pluriel participe parfait passif)|emo(accusatif neutre pluriel participe parfait passif)|empta(nominatif singulier)|empta(vocatif singulier)|empta(ablatif singulier)|emptum(nominatif pluriel)|emptum(vocatif pluriel)|emptum(accusatif pluriel)|emptus(nominatif féminin singulier)|emptus(vocatif féminin singulier)|emptus(ablatif féminin singulier)|emptus(nominatif neutre pluriel)|emptus(vocatif neutre pluriel)|emptus(accusatif neutre pluriel)">empta</w>. 
-        <w lemma="nempe(-)">Nempe</w> 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="">fémina</w> 
-        <w lemma="summa(nominatif singulier)|summa(vocatif singulier)|summa(ablatif singulier)|summum(nominatif pluriel)|summum(vocatif pluriel)|summum(accusatif pluriel)|summus(nominatif féminin singulier)|summus(vocatif féminin singulier)|summus(ablatif féminin singulier)|summus(nominatif neutre pluriel)|summus(vocatif neutre pluriel)|summus(accusatif neutre pluriel)|summo(2ème singulier impératif présent actif)">summa</w> 
-        <w lemma="sustineo(3ème pluriel indicatif présent actif)">sustinent</w>.    
+        <w lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Fem">mea</w>
+        <w lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+        <w lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">haec</w>
+        <w lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">habeo</w>
+        <w lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Neut">omnia</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">meo</w>
+        <w lemma="peculium" pos="NOMcom" msd="Case=Dat|Numb=Sing" ana="#male #proprieteprivee #metaphore #mentula">peculio</w>
+        <w lemma="emo" pos="VER" msd="Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">empta</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+        <w lemma="nempe" pos="ADV" msd="Deg=Pos">Nempe</w>
+        <w lemma="quod2" pos="CONsub" msd="Case=Acc">quod</w>
+        <w lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">fémina</w>
+        <w lemma="summum?" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Sup">summa</w>
+        <w lemma="sustineo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sustinent</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

@@ -1,7 +1,9 @@
-<div type="fragment" corresp="adams:30"  ana="#male #personnification">
+<div  type="fragment" corresp="adams:30" ana="#male #personnification">
     <quote xml:lang="lat" source="Mulomedicina Chironis 681">
-        <w lemma="ne">ne</w>
-        <w lemma="refugio(3ème singulier subjonctif présent actif)">refugiat</w> (
-        <w lemma="ueretrum(nominatif singulier)|ueretrum(vocatif singulier)|ueretrum(accusatif singulier)">ueretrum</w>)    
+        <w lemma="ne3" pos="ADVneg" msd="MORPH=empty">ne</w>
+        <w lemma="refugio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3" ana="#male #personnification">refugiat</w>
+        <w lemma="(" pos="PUNC" msd="MORPH=empty">(</w>
+        <w lemma="uereter" pos="NOMcom" msd="Case=Acc|Numb=Sing">ueretrum</w>
+        <w lemma=")" pos="PUNC" msd="MORPH=empty">)</w>
     </quote>
  </div>

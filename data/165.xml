@@ -1,16 +1,19 @@
-<div type="fragment" corresp="adams:47"  ana="#male #specialisation #bouche">
+<div  type="fragment" corresp="adams:47" ana="#male #specialisation #bouche">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:74">
-        <w lemma="per(-)">Per</w> 
-        <w lemma="medius(accusatif masculin pluriel)|medius(accusatif pluriel)">medios</w> 
-        <w lemma="eo(3ème singulier indicatif futur actif)">ibit</w> 
-        <w lemma="puer(accusatif pluriel)|puerus(accusatif masculin pluriel)">pueros</w> 
-        <w lemma="medius(accusatif féminin pluriel)|Media(accusatif pluriel)|Media(accusatif pluriel)|medio(2ème singulier indicatif présent actif)">mediasque</w> 
-        <w lemma="puella(accusatif pluriel)">puellas</w>  
-        <w lemma="mentula(nominatif singulier)|mentula(vocatif singulier)|mentula(ablatif singulier)">mentula</w>, 
-        <w lemma="barbatus(datif masculin pluriel)|barbatus(ablatif masculin pluriel)|barbatus(datif féminin pluriel)|barbatus(ablatif féminin pluriel)|barbatus(datif neutre pluriel)|barbatus(ablatif neutre pluriel)|Barbatus(datif pluriel)|Barbatus(ablatif pluriel)|barbatus(datif pluriel)|barbatus(ablatif pluriel)|Barbatius(datif pluriel)|Barbatius(ablatif pluriel)|Barbatia(datif pluriel)|Barbatia(ablatif pluriel)">barbatis</w> 
-        <w lemma="non(-)">non</w> 
-        <w lemma="Nisus(génitif singulier)|Nisus(nominatif pluriel)|Nisus(vocatif pluriel)|nisus(génitif singulier)|nisus(nominatif pluriel)|nisus(vocatif pluriel)|nisus(génitif masculin singulier)|nisus(nominatif masculin pluriel)|nisus(vocatif masculin pluriel)|nisus(génitif neutre singulier)|nisi(-)">nisi</w> 
-        <w lemma="summa(nominatif singulier)|summa(vocatif singulier)|summa(ablatif singulier)|summum(nominatif pluriel)|summum(vocatif pluriel)|summum(accusatif pluriel)|summus(nominatif féminin singulier)|summus(vocatif féminin singulier)|summus(ablatif féminin singulier)|summus(nominatif neutre pluriel)|summus(vocatif neutre pluriel)|summus(accusatif neutre pluriel)|summo(2ème singulier impératif présent actif)">summa</w> 
-        <w lemma="peto(3ème singulier indicatif futur actif)">petet</w>.    
+        <w lemma="per" pos="PRE" msd="MORPH=empty">Per</w>
+        <w lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">medios</w>
+        <w lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">ibit</w>
+        <w lemma="puer" pos="NOMcom" msd="Case=Acc|Numb=Plur">pueros</w>
+        <w lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">mediasque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{mediasque}</w>
+        <w lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Plur">puellas</w>
+        <w lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="barbatus2" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">barbatis</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+        <w lemma="summum1" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #specialisation #bouche">summa</w>
+        <w lemma="peto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">petet</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

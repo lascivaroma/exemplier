@@ -1,18 +1,17 @@
-<div type="fragment" corresp="adams:52"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:52" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1011.phi001:234">
-        <w lemma="ad(-)">ad</w> 
-        <w lemma="ueretrum(génitif singulier)">ueretri</w> 
-        <w lemma="tumor(accusatif singulier)">tumorem</w> 
-        <w lemma="leo(nominatif masculin singulier participe présent actif)|leo(vocatif masculin singulier participe présent actif)|leo(nominatif féminin singulier participe présent actif)|leo(vocatif féminin singulier participe présent actif)|leo(nominatif neutre singulier participe présent actif)|leo(vocatif neutre singulier participe présent actif)|leo(accusatif neutre singulier participe présent actif)|lens(nominatif singulier)|lens(vocatif singulier)|lens(nominatif singulier)|lens(vocatif singulier)">lens</w> 
-        <w lemma="ex(-)">ex</w> 
-        <w lemma="aqua(nominatif singulier)|aqua(vocatif singulier)|aqua(ablatif singulier)">aqua</w> 
-        <w lemma="coquo(nominatif féminin singulier participe parfait passif)|coquo(vocatif féminin singulier participe parfait passif)|coquo(ablatif féminin singulier participe parfait passif)|coquo(nominatif neutre pluriel participe parfait passif)|coquo(vocatif neutre pluriel participe parfait passif)|coquo(accusatif neutre pluriel participe parfait passif)|cocta(nominatif singulier)|cocta(vocatif singulier)|cocta(ablatif singulier)|cocta(nominatif pluriel)|cocta(vocatif pluriel)|cocta(accusatif pluriel)|coctum(nominatif pluriel)|coctum(vocatif pluriel)|coctum(accusatif pluriel)|coctus(nominatif féminin singulier)|coctus(vocatif féminin singulier)|coctus(ablatif féminin singulier)|coctus(nominatif neutre pluriel)|coctus(vocatif neutre pluriel)|coctus(accusatif neutre pluriel)">cocta</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="tero(nominatif féminin singulier participe parfait passif)|tero(vocatif féminin singulier participe parfait passif)|tero(ablatif féminin singulier participe parfait passif)|tero(nominatif neutre pluriel participe parfait passif)|tero(vocatif neutre pluriel participe parfait passif)|tero(accusatif neutre pluriel participe parfait passif)|tritus(nominatif féminin singulier)|tritus(vocatif féminin singulier)|tritus(ablatif féminin singulier)|tritus(nominatif neutre pluriel)|tritus(vocatif neutre pluriel)|tritus(accusatif neutre pluriel)|Trite(nominatif singulier)|Trite(vocatif singulier)|Trite(ablatif singulier)|trite(nominatif singulier)|trite(vocatif singulier)|trite(ablatif singulier)">trita</w>
-
-        <w lemma="rosaceum(datif singulier)|rosaceum(ablatif singulier)|rosaceus(datif masculin singulier)|rosaceus(ablatif masculin singulier)|rosaceus(datif neutre singulier)|rosaceus(ablatif neutre singulier)">rosaceo</w> 
-        <w lemma="oleo(1ère singulier indicatif présent actif)|oleum(datif singulier)|oleum(ablatif singulier)">oleo</w> 
-        <w lemma="misceo(nominatif féminin singulier participe parfait passif)|misceo(vocatif féminin singulier participe parfait passif)|misceo(ablatif féminin singulier participe parfait passif)|misceo(nominatif neutre pluriel participe parfait passif)|misceo(vocatif neutre pluriel participe parfait passif)|misceo(accusatif neutre pluriel participe parfait passif)">mixta</w> 
-        <w lemma="prosum(3ème singulier indicatif présent actif)|prodo(2ème singulier impératif présent actif)">prodest</w>    
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+        <w lemma="ueretrum" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #euphemisms #aidoion">ueretri</w>
+        <w lemma="tumor" pos="NOMcom" msd="Case=Acc|Numb=Sing">tumorem</w>
+        <w lemma="lens2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">lens</w>
+        <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+        <w lemma="aqua" pos="NOMcom" msd="Case=Abl|Numb=Sing">aqua</w>
+        <w lemma="coquo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">cocta</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="tero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">trita</w>
+        <w lemma="rosaceus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">rosaceo</w>
+        <w lemma="oleum" pos="NOMcom" msd="Case=Abl|Numb=Sing">oleo</w>
+        <w lemma="misceo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">mixta</w>
+        <w lemma="prosum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">prodest</w>
     </quote>
  </div>

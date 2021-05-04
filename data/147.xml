@@ -1,14 +1,17 @@
-<div type="fragment" corresp="adams:46"  ana="#male #specialisation #erection">
+<div  type="fragment" corresp="adams:46" ana="#male #specialisation #erection #euphemism">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.58.1-11.58.2">
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">Cum</w> 
-        <w lemma="ego(accusatif masculin singulier)|ego(ablatif masculin singulier)|ego(accusatif féminin singulier)|ego(ablatif féminin singulier)">me</w> 
-        <w lemma="uolo(infinitif présent actif)|vello(2ème singulier impératif présent actif)|vellus(vocatif singulier)">velle</w> 
-        <w lemma="uideo(2ème singulier indicatif présent actif)">vides</w> 
-        <w lemma="tendo(supin en -um)|tendo(accusatif masculin singulier participe parfait passif)|tendo(nominatif neutre singulier participe parfait passif)|tendo(vocatif neutre singulier participe parfait passif)|tendo(accusatif neutre singulier participe parfait passif)|teneo(supin en -um)|teneo(accusatif masculin singulier participe parfait passif)|teneo(nominatif neutre singulier participe parfait passif)|teneo(vocatif neutre singulier participe parfait passif)|teneo(accusatif neutre singulier participe parfait passif)|tentus(accusatif singulier)">tentumque</w>, 
-        <w lemma="Telesphorus(vocatif singulier)">Telesphore</w>, 
-        <w lemma="sentio(2ème singulier indicatif présent actif)|sentis(accusatif pluriel)|sentis(génitif singulier)|sentus(datif masculin pluriel)|sentus(ablatif masculin pluriel)|sentus(datif féminin pluriel)|sentus(ablatif féminin pluriel)|sentus(datif neutre pluriel)|sentus(ablatif neutre pluriel)|Senta(datif pluriel)|Senta(ablatif pluriel)|Sentis(accusatif pluriel)|Sentis(génitif singulier)|sentes(accusatif pluriel)|sentes(génitif singulier)|Sentius(datif pluriel)|Sentius(ablatif pluriel)|Sentia(datif pluriel)|Sentia(ablatif pluriel)|sentis(nominatif singulier)|sentis(vocatif singulier)|Sentis(nominatif singulier)|Sentis(vocatif singulier)">sentis</w>,  
-        <w lemma="magnus(nominatif féminin singulier)|magnus(vocatif féminin singulier)|magnus(ablatif féminin singulier)|magnus(nominatif neutre pluriel)|magnus(vocatif neutre pluriel)|magnus(accusatif neutre pluriel)">Magna</w> 
-        <w lemma="rogo(2ème singulier indicatif présent actif)">rogas</w>
-                            
+        <w lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+        <w lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+        <w lemma="uolo3" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">velle</w>
+        <w lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">vides</w>
+        <w lemma="tendo" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut" ana="#male #specialisation #erection #euphemism">tentumque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{tentumque}</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="Telesphorus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Telesphore</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="sentio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">sentis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="magnus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">Magna</w>
+        <w lemma="rogo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">rogas</w>
     </quote>
  </div>

@@ -1,9 +1,10 @@
-<div type="fragment" corresp="adams:57"  ana="#male #euphemisms #abstracts">
+<div  type="fragment" corresp="adams:57" ana="#male #euphemisms #abstracts #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.46.2">
-        <w lemma="protinus(-)">Protinus</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="cesso(3ème singulier indicatif présent actif)">cessat</w> 
-        <w lemma="debilito(nominatif féminin singulier participe parfait passif)|debilito(vocatif féminin singulier participe parfait passif)|debilito(ablatif féminin singulier participe parfait passif)|debilito(nominatif neutre pluriel participe parfait passif)|debilito(vocatif neutre pluriel participe parfait passif)|debilito(accusatif neutre pluriel participe parfait passif)">debilitata</w> 
-        <w lemma="uenus(nominatif singulier)|Uenus(nominatif singulier)|Uenus(vocatif singulier)|uenus(nominatif singulier)|uenus(vocatif singulier)">Venus</w>.     
+        <w lemma="protinus" pos="ADV" msd="Deg=Pos">Protinus</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="cesso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cessat</w>
+        <w lemma="debilito" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">debilitata</w>
+        <w lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#male #euphemisms #abstracts">Venus</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

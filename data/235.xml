@@ -1,24 +1,26 @@
-<div type="fragment" corresp="adams:53"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:53" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:133">
-        <w lemma="nemo(nominatif masculin singulier)|nemo(nominatif féminin singulier)">nemo</w> 
-        <w lemma="enim(-)">enim</w> 
-        <w lemma="prurio(nominatif masculin singulier participe présent actif)|prurio(vocatif masculin singulier participe présent actif)|prurio(nominatif féminin singulier participe présent actif)|prurio(vocatif féminin singulier participe présent actif)|prurio(nominatif neutre singulier participe présent actif)|prurio(vocatif neutre singulier participe présent actif)|prurio(accusatif neutre singulier participe présent actif)">pruriens</w> 
-        <w lemma="corpus(accusatif singulier)|corpus(nominatif singulier)|corpus(vocatif singulier)">corpus</w> 
-        <w lemma="femino(gérondif datif)|femino(gérondif ablatif)|femino(datif masculin singulier adjectif verbal)|femino(ablatif masculin singulier adjectif verbal)|femino(datif neutre singulier adjectif verbal)|femino(ablatif neutre singulier adjectif verbal)">feminando</w> 
-        <w lemma="corrigo(3ème singulier indicatif parfait actif)">correxit</w> 
-        <w lemma="uel(-)">uel</w>  
-        <w lemma="virilis(génitif masculin singulier)|virilis(accusatif masculin pluriel)|virilis(génitif féminin singulier)|virilis(accusatif féminin pluriel)|virilis(génitif neutre singulier)|virilis(nominatif masculin singulier)|virilis(vocatif masculin singulier)|virilis(nominatif féminin singulier)|virilis(vocatif féminin singulier)">uirilis</w> 
-        <w lemma="ueretrum(génitif singulier)">ueretri</w>  
-        <w lemma="tactus(ablatif singulier)|tango(supin en -u)">tactu</w> 
-        <w lemma="mitigo(3ème singulier indicatif parfait actif)">mitigauit</w>, 
-        <w lemma="sed(-)|sed(-)">sed</w> 
-        <w lemma="communiter(positif)">communiter</w> 
-        <w lemma="querela(accusatif singulier)">querelam</w> 
-        <w lemma="siue(-)|sion(génitif singulier)|si(-)">siue</w> 
-        <w lemma="dolor(accusatif singulier)">dolorem</w> 
-        <w lemma="alium(nominatif pluriel)|alium(vocatif pluriel)|alium(accusatif pluriel)|alius(nominatif féminin singulier)|alius(vocatif féminin singulier)|alius(ablatif féminin singulier)|alius(nominatif neutre pluriel)|alius(vocatif neutre pluriel)|alius(accusatif neutre pluriel)|Alia(nominatif singulier)|Alia(vocatif singulier)|Alia(ablatif singulier)|Alius(nominatif féminin singulier)|Alius(vocatif féminin singulier)|Alius(ablatif féminin singulier)|Alius(nominatif neutre pluriel)|Alius(vocatif neutre pluriel)|Alius(accusatif neutre pluriel)|alia(-)">alia</w> 
-        <w lemma="ex(-)">ex</w> 
-        <w lemma="materia(nominatif singulier)|materia(vocatif singulier)|materia(ablatif singulier)|materio(2ème singulier impératif présent actif)">materia</w> 
-        <w lemma="tolero(3ème singulier indicatif parfait actif)">tolerauit</w>.     
+        <w lemma="nemo" pos="PROind" msd="Case=Nom|Numb=Sing">nemo</w>
+        <w lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+        <w lemma="prurio" pos="ADJqua" msd="Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">pruriens</w>
+        <w lemma="corpus" pos="NOMcom" msd="Case=Acc|Numb=Sing">corpus</w>
+        <w lemma="femino" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">feminando</w>
+        <w lemma="corrigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">correxit</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+        <w lemma="uirilis" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Com|Deg=Pos">uirilis</w>
+        <w lemma="ueretrum" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #euphemisms #aidoion #mentula">ueretri</w>
+        <w lemma="tactus" pos="NOMcom" msd="Case=Abl|Numb=Sing">tactu</w>
+        <w lemma="mitigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">mitigauit</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+        <w lemma="communiter" pos="ADV" msd="Deg=Pos">communiter</w>
+        <w lemma="querela" pos="NOMcom" msd="Case=Acc|Numb=Sing">querelam</w>
+        <w lemma="siue2" pos="CONsub" msd="MORPH=empty">siue</w>
+        <w lemma="dolor" pos="NOMcom" msd="Case=Acc|Numb=Sing">dolorem</w>
+        <w lemma="alius" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">alia</w>
+        <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+        <w lemma="materia" pos="NOMcom" msd="Case=Abl|Numb=Sing">materia</w>
+        <w lemma="tolero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tolerauit</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

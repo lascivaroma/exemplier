@@ -1,10 +1,11 @@
-<div type="fragment" corresp="adams:31"  ana="#male #double-sens">
+<div  type="fragment" corresp="adams:31" ana="#male #double-sens #cul">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.75.3">
-        <w lemma="pasco(accusatif féminin pluriel participe parfait passif)|pascor(accusatif féminin pluriel participe parfait actif)|pasta(accusatif pluriel)|pastus(accusatif féminin pluriel)">Pastas</w> 
-        <w lemma="glans(ablatif singulier)">glande</w> 
-        <w lemma="nates(accusatif pluriel)|nates(nominatif pluriel)">natis</w> 
-        <w lemma="habeo(3ème singulier indicatif présent actif)">habet</w> 
-        <w lemma="Secundus(nominatif singulier)|secundus(nominatif masculin singulier)">Secundus</w>;     
+        <w lemma="pasco" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">Pastas</w>
+        <w lemma="glans" pos="NOMcom" msd="Case=Abl|Numb=Sing">glande</w>
+        <w lemma="natus1" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #double-sens">natis</w>
+        <w lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habet</w>
+        <w lemma="secundus2" pos="ADJord" msd="Case=Nom|Numb=Sing">Secundus</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     </quote>
 <note>Ici nates prend le sens de culus et non natu</note>
  </div>

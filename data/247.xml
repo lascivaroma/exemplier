@@ -1,17 +1,19 @@
-<div type="fragment" corresp="adams:55"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:55" ana="#female #euphemisms #aidoion #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:10.63.7-10.63.8">
-        <w lemma="contingo(3ème singulier indicatif parfait actif)">Contigit</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="thalamus(génitif singulier)|thalamus(nominatif pluriel)|thalamus(vocatif pluriel)">thalami</w> 
-        <w lemma="ego(datif masculin singulier)|ego(datif féminin singulier)">mihi</w> 
-        <w lemma="gloria(nominatif singulier)|gloria(vocatif singulier)|gloria(ablatif singulier)">gloria</w> 
-        <w lemma="rarus(nominatif féminin singulier)|rarus(vocatif féminin singulier)|rarus(ablatif féminin singulier)|rarus(nominatif neutre pluriel)|rarus(vocatif neutre pluriel)|rarus(accusatif neutre pluriel)">rara</w> 
-        <w lemma="sum(3ème singulier indicatif parfait actif)">fuitque</w>  
-        <w lemma="unus(nominatif féminin singulier)|unus(vocatif féminin singulier)|unus(ablatif féminin singulier)|unus(nominatif neutre pluriel)|unus(vocatif neutre pluriel)|unus(accusatif neutre pluriel)|uno(2ème singulier impératif présent actif)|una(-)">Una</w> 
-        <w lemma="pudicitia(génitif singulier)|pudicitia(datif singulier)|pudicitia(nominatif pluriel)|pudicitia(vocatif pluriel)">pudicitiae</w> 
-        <w lemma="mentula(nominatif singulier)|mentula(vocatif singulier)|mentula(ablatif singulier)">mentula</w> 
-        <w lemma="nosco(nominatif féminin singulier participe parfait passif)|nosco(vocatif féminin singulier participe parfait passif)|nosco(ablatif féminin singulier participe parfait passif)|nosco(nominatif neutre pluriel participe parfait passif)|nosco(vocatif neutre pluriel participe parfait passif)|nosco(accusatif neutre pluriel participe parfait passif)|nota(nominatif singulier)|nota(vocatif singulier)|nota(ablatif singulier)|noto(2ème singulier impératif présent actif)|notus(nominatif féminin singulier)|notus(vocatif féminin singulier)|notus(ablatif féminin singulier)|notus(nominatif neutre pluriel)|notus(vocatif neutre pluriel)|notus(accusatif neutre pluriel)">nota</w> 
-        <w lemma="meus(génitif féminin singulier)|meus(datif féminin singulier)|meus(nominatif féminin pluriel)|meus(vocatif féminin pluriel)|Meae(nominatif pluriel)|Meae(vocatif pluriel)">meae</w>.     
+        <w lemma="contingo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Contigit</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="thalamus" pos="NOMcom" msd="Case=Gen|Numb=Sing">thalami</w>
+        <w lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+        <w lemma="gloria" pos="NOMcom" msd="Case=Nom|Numb=Sing">gloria</w>
+        <w lemma="rarus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">rara</w>
+        <w lemma="sum" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuitque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{fuitque}</w>
+        <w lemma="unus" pos="ADJcar" msd="Case=Nom|Numb=Sing|Gend=Fem">Una</w>
+        <w lemma="pudicitia" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#female #euphemisms #aidoion #cunnus">pudicitiae</w>
+        <w lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
+        <w lemma="notus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">nota</w>
+        <w lemma="meus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=Fem">meae</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
 <note>Ici pudicitiae == cunnus</note>
  </div>

@@ -1,10 +1,11 @@
 <div  type="fragment" corresp="adams:190" ana="#acte #metonymie #enter">
   <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Casina</title>, <biblscope>889-891</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi006.perseus-lat2:889-891" type="line">
-    <w ref="889" lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
-    <w ref="889" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
-    <w ref="889" lemma="libet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">libet</w>
-    <w ref="889" lemma="in" pos="PRE" msd="MORPH=empty">ín</w>
-    <w ref="889" lemma="Casina" pos="NOMpro" msd="Case=Acc|Numb=Sing">Casinam</w>
-  </quote>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi006.perseus-lat2:889-891">
+        <w lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
+        <w lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+        <w lemma="libet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">libet</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">ín</w>
+        <w lemma="Casina" pos="NOMpro" msd="Case=Acc|Numb=Sing">Casinam</w>
+<w lemma="irruo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act" ana="#acte #metonymie #enter">inruere</w>
+    </quote>
 </div>

@@ -1,10 +1,11 @@
-<div type="fragment" corresp="adams:58"  ana="#male #descriptive-functional">
+<div  type="fragment" corresp="adams:58" ana="#male #descriptive-functional #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1351.phi004.perseus-lat2:5.6">
-        <w lemma="circumcido(3ème pluriel indicatif parfait actif)|circumcido(infinitif présent actif)|circumcido(2ème singulier indicatif présent passif)|circumcido(2ème singulier indicatif futur passif)|circumcido(2ème singulier impératif présent passif)">circumcidere</w> 
-        <w lemma="genitale(nominatif pluriel)|genitale(vocatif pluriel)|genitale(accusatif pluriel)|genitalis(nominatif neutre pluriel)|genitalis(vocatif neutre pluriel)|genitalis(accusatif neutre pluriel)">genitalia</w> 
-        <w lemma="instituo(3ème pluriel indicatif parfait actif)">instituerunt</w> 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="diversitas(ablatif singulier)">diversitate</w> 
-        <w lemma="nosco(3ème pluriel subjonctif présent passif)">noscantur</w>.    
+        <w lemma="circumcido2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">circumcidere</w>
+        <w lemma="genitalis" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Neut" ana="#male #descriptive-functional">genitalia</w>
+        <w lemma="instituo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">instituerunt</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="diuersitas" pos="NOMcom" msd="Case=Abl|Numb=Sing">diversitate</w>
+        <w lemma="nosco" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">noscantur</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

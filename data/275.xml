@@ -1,14 +1,13 @@
-<div type="fragment" corresp="adams:56"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:56" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0023.stoa001.perseus-lat1:28.1.28">
-        <w lemma="neo(2ème singulier impératif présent actif)|nes(vocatif singulier)|nes(ablatif singulier)|ne(-)|ne(-)|ne(positif)">ne</w> 
-        <w lemma="uelamen(accusatif singulier)|uelamen(nominatif singulier)|uelamen(vocatif singulier)">velamen</w> 
-        <w lemma="quidem(-)">quidem</w> 
-        <w lemma="secerno(datif masculin singulier participe parfait passif)|secerno(ablatif masculin singulier participe parfait passif)|secerno(datif neutre singulier participe parfait passif)|secerno(ablatif neutre singulier participe parfait passif)|secretum(datif singulier)|secretum(ablatif singulier)|secretus(datif masculin singulier)|secretus(ablatif masculin singulier)|secretus(datif neutre singulier)|secretus(ablatif neutre singulier)">secreto</w> 
-        <w lemma="membrum(génitif pluriel)">membrorum</w>
-                        
-        <w lemma="sufficio(nominatif masculin singulier participe présent actif)|sufficio(vocatif masculin singulier participe présent actif)|sufficio(nominatif féminin singulier participe présent actif)|sufficio(vocatif féminin singulier participe présent actif)|sufficio(nominatif neutre singulier participe présent actif)|sufficio(vocatif neutre singulier participe présent actif)|sufficio(accusatif neutre singulier participe présent actif)|sufficiens(nominatif masculin singulier)|sufficiens(vocatif masculin singulier)|sufficiens(nominatif féminin singulier)|sufficiens(vocatif féminin singulier)">sufficiens</w> 
-        <w lemma="retineo(infinitif présent actif)|retineo(2ème singulier indicatif présent passif)|retineo(2ème singulier impératif présent passif)">retinere</w> 
-        <w lemma="permitto(nominatif féminin singulier participe parfait passif)|permitto(vocatif féminin singulier participe parfait passif)|permitto(ablatif féminin singulier participe parfait passif)|permitto(nominatif neutre pluriel participe parfait passif)|permitto(vocatif neutre pluriel participe parfait passif)|permitto(accusatif neutre pluriel participe parfait passif)|permissum(nominatif pluriel)|permissum(vocatif pluriel)|permissum(accusatif pluriel)|permissus(nominatif féminin singulier)|permissus(vocatif féminin singulier)|permissus(ablatif féminin singulier)|permissus(nominatif neutre pluriel)|permissus(vocatif neutre pluriel)|permissus(accusatif neutre pluriel)">permissa</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w>    
+        <w lemma="ne3" pos="ADVneg" msd="MORPH=empty">ne</w>
+        <w lemma="uelamen" pos="NOMcom" msd="Case=Acc|Numb=Sing">velamen</w>
+        <w lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
+        <w lemma="secreto" pos="ADV" msd="Numb=Sing|Deg=Pos" ana="#male #euphemisms #aidoion">secreto</w>
+        <w lemma="membrum" pos="NOMcom" msd="Case=Gen|Numb=Plur">membrorum</w>
+        <w lemma="sufficio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">sufficiens</w>
+        <w lemma="retineo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">retinere</w>
+        <w lemma="permitto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">permissa</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     </quote>
  </div>

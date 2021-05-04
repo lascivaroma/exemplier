@@ -1,11 +1,12 @@
-<div type="fragment" corresp="adams:46"  ana="#male #specialisation">
+<div  type="fragment" corresp="adams:46" ana="#male #specialisation #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:4.1056">
-        <w lemma="iaceo(infinitif présent actif)|iaceo(2ème singulier indicatif présent passif)|iaceo(2ème singulier impératif présent passif)|iacio(infinitif présent actif)|iacio(2ème singulier indicatif présent passif)|iacio(2ème singulier impératif présent passif)">iacere</w> 
-        <w lemma="umor(accusatif singulier)">umorem</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="corpus(accusatif singulier)|corpus(nominatif singulier)|corpus(vocatif singulier)">corpus</w> 
-        <w lemma="de(-)">de</w> 
-        <w lemma="corpus(ablatif singulier)">corpore</w> 
-        <w lemma="duco(supin en -um)|duco(accusatif masculin singulier participe parfait passif)|duco(nominatif neutre singulier participe parfait passif)|duco(vocatif neutre singulier participe parfait passif)|duco(accusatif neutre singulier participe parfait passif)|ductus(accusatif singulier)|ductus(accusatif masculin singulier)|ductus(nominatif neutre singulier)|ductus(vocatif neutre singulier)|ductus(accusatif neutre singulier)">ductum</w>;    
+        <w lemma="iacio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">iacere</w>
+        <w lemma="humor" pos="NOMcom" msd="Case=Acc|Numb=Sing">umorem</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="corpus" pos="NOMcom" msd="Case=Acc|Numb=Sing">corpus</w>
+        <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #specialisation #euphemism #mentula">corpore</w>
+        <w lemma="duco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">ductum</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     </quote>
  </div>

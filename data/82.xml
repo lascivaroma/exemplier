@@ -1,33 +1,51 @@
-<div type="fragment" corresp="adams:39"  ana="#male #lettres">
+<div  type="fragment" corresp="adams:39" ana="#male #lettres #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:85">
-        <w lemma="Laius(datif pluriel)|Laius(ablatif pluriel)|Laius(datif pluriel)|Laius(ablatif pluriel)|Lais(nominatif singulier)|Lais(vocatif singulier)">LAIS</w> 
-        <w lemma="erus(accusatif pluriel)|Eros(nominatif singulier)|Eros(vocatif singulier)">Eros</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="Itys(nominatif singulier)|Itys(vocatif singulier)">Itys</w>, 
-        <w lemma="Chiron(nominatif singulier)|Chiron(vocatif singulier)">Chiron</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="erus(accusatif pluriel)|Eros(nominatif singulier)|Eros(vocatif singulier)">Eros</w>, 
-        <w lemma="Itys(nominatif singulier)|Itys(vocatif singulier)">Itys</w> 
-        <w lemma="alto(1ère singulier subjonctif présent passif)|alter(nominatif masculin singulier)|alter(vocatif masculin singulier)|alter(nominatif singulier)|alter(vocatif singulier)">alter</w> 
-        <w lemma="nomen(nominatif pluriel)|nomen(vocatif pluriel)|nomen(accusatif pluriel)|nomino(2ème singulier impératif présent actif)|nomina(nominatif pluriel)|nomina(vocatif pluriel)|nomina(accusatif pluriel)">nomina</w> 
-        <w lemma="sion(génitif singulier)|si(-)">si</w> 
-        <w lemma="scriba(datif pluriel)|scriba(ablatif pluriel)|scribo(2ème singulier indicatif présent actif)">scribis</w>, 
-        <w lemma="prima(nominatif pluriel)|prima(vocatif pluriel)|prima(accusatif pluriel)|primus(nominatif féminin singulier)|primus(vocatif féminin singulier)|primus(ablatif féminin singulier)|primus(nominatif neutre pluriel)|primus(vocatif neutre pluriel)|primus(accusatif neutre pluriel)">prima</w> 
-        <w lemma="elementa(nominatif pluriel)|elementa(vocatif pluriel)|elementa(accusatif pluriel)|elementum(nominatif pluriel)|elementum(vocatif pluriel)|elementum(accusatif pluriel)">elementa</w> 
-        <w lemma="adimo(2ème singulier impératif présent actif)">adime</w>. 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="facia(accusatif pluriel)|facio(2ème singulier subjonctif présent actif)">facias</w> 
-        <w lemma="verbum(nominatif singulier)|verbum(vocatif singulier)|verbum(accusatif singulier)">verbum</w>, 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="tu(nominatif masculin singulier)|tu(nominatif féminin singulier)">tu</w> 
-        <w lemma="facio(2ème singulier indicatif présent actif)|fax(génitif singulier)|faces(accusatif pluriel)|faces(génitif singulier)|facia(datif pluriel)|facia(ablatif pluriel)">facis</w>, 
-        <w lemma="Eunus(vocatif singulier)|eu(-)|Eu(-)">Eune</w> 
-        <w lemma="magister(nominatif singulier)|magister(vocatif singulier)">magister</w>, 
-        <w lemma="dico(infinitif présent actif)|dico(2ème singulier indicatif présent passif)|dico(2ème singulier indicatif futur passif)|dico(2ème singulier impératif présent passif)|dico(2ème singulier subjonctif présent passif)">dicere</w> 
-        <w lemma="ego(accusatif masculin singulier)|ego(ablatif masculin singulier)|ego(accusatif féminin singulier)|ego(ablatif féminin singulier)">me</w> 
-        <w lemma="Latium(nominatif singulier)|Latium(vocatif singulier)|Latium(accusatif singulier)|Latius(accusatif masculin singulier)|Latius(nominatif neutre singulier)|Latius(vocatif neutre singulier)|Latius(accusatif neutre singulier)|latius(accusatif masculin singulier)|latius(nominatif neutre singulier)|latius(vocatif neutre singulier)|latius(accusatif neutre singulier)">Latium</w> 
-        <w lemma="non(-)">non</w> 
-        <w lemma="decet(3ème singulier indicatif présent actif)">decet</w> 
-        <w lemma="opprobrium(nominatif singulier)|opprobrium(vocatif singulier)|opprobrium(accusatif singulier)">opprobrium</w>.    
+        <w lemma="Lais" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #lettres">LAIS</w>
+        <w lemma="sum?" pos="NOMpro" msd="Case=Acc|Numb=Sing" ana="#male #lettres">Eros</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="Itys" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#male #lettres">Itys</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="Chiron" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#male #lettres">Chiron</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="herus" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#male #lettres">Eros</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="Itys" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#male #lettres">Itys</w>
+        <w lemma="alter" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">alter</w>
+        <w lemma="nomen" pos="NOMcom" msd="Case=Acc|Numb=Plur">nomina</w>
+        <w lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+        <w lemma="scribo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">scribis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="primus" pos="ADJord" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Sup">prima</w>
+        <w lemma="elementa" pos="NOMcom" msd="Case=Acc|Numb=Plur">elementa</w>
+        <w lemma="adimo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">adime</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">facias</w>
+        <w lemma="uerbum" pos="NOMcom" msd="Case=Acc|Numb=Sing">verbum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+        <w lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+        <w lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">facis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="is" pos="PROdem" msd="Case=Voc|Numb=Sing">Eune</w>
+        <w lemma="ne2" pos="ADV" msd="MORPH=empty">{Eune}</w>
+        <w lemma="magister" pos="NOMcom" msd="Case=Voc|Numb=Sing">magister</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="dico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dicere</w>
+        <w lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+        <w lemma="Latius" pos="NOMpro" msd="Case=Acc|Numb=Sing">Latium</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="decet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">decet</w>
+        <w lemma="opprobrium" pos="NOMcom" msd="Case=Acc|Numb=Sing">opprobrium</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
+    <note>
+<quote>Die   Lösung   ist   λείχει.
+<bibl>
+                            <title level="a">Zur  antiken   Räthseldichtung.</title>, <author>K. Ohlert</author>
+                            <title level="j">Philologus</title>, <biblScope unit="page" from="614">p. 614</biblScope>, <biblScope unit="volume">56</biblScope>, <biblScope unit="issue">1</biblScope>, 
+                            <date type="pubDate">1897</date> 
+                        </bibl>
+</quote>
+</note>
  </div>

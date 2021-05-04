@@ -1,18 +1,18 @@
-<div type="fragment" corresp="adams:54"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:54" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1:10.82">
-        <w lemma="statim(-)">statim</w> 
-        <w lemma="cohibeo(3ème singulier indicatif futur passif)">cohibebitur</w>, 
-        <w lemma="siue(-)|sion(génitif singulier)|si(-)">siue</w> 
-        <w lemma="uir(datif singulier)|uir(ablatif singulier)|uirus(datif singulier)|uirus(ablatif singulier)">uiro</w> 
-        <w lemma="de(-)">de</w> 
-        <w lemma="nares(datif pluriel)|nares(ablatif pluriel)|naris(datif pluriel)|naris(ablatif pluriel)|Nar(datif pluriel)|Nar(ablatif pluriel)">naribus</w> 
-        <w lemma="siue(-)|sion(génitif singulier)|si(-)">siue</w> 
-        <w lemma="mulier(datif singulier)">mulieri</w> 
-        <w lemma="de(-)">de</w> 
-        <w lemma="locum(datif pluriel)|locum(ablatif pluriel)|locus(datif pluriel)|locus(ablatif pluriel)|loca(datif pluriel)|loca(ablatif pluriel)">locis</w>
-      
-        <w lemma="verecundus(datif masculin pluriel comparatif)|verecundus(ablatif masculin pluriel comparatif)|verecundus(datif féminin pluriel comparatif)|verecundus(ablatif féminin pluriel comparatif)|verecundus(datif neutre pluriel comparatif)|verecundus(ablatif neutre pluriel comparatif)">uerecundioribus</w> 
-        <w lemma="fluo(3ème singulier subjonctif présent actif)">fluat</w>.
-                
+        <w lemma="statim" pos="ADV" msd="Deg=Pos">statim</w>
+        <w lemma="cohibeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">cohibebitur</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="siue2" pos="CONsub" msd="MORPH=empty">siue</w>
+        <w lemma="uir" pos="NOMcom" msd="Case=Abl|Numb=Sing">uiro</w>
+        <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w lemma="naris" pos="NOMcom" msd="Case=Abl|Numb=Plur">naribus</w>
+        <w lemma="siue1" pos="CONcoo" msd="MORPH=empty">siue</w>
+        <w lemma="mulier" pos="NOMcom" msd="Case=Dat|Numb=Sing">mulieri</w>
+        <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
+        <w lemma="uerecundus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp" ana="#male #euphemisms #aidoion">uerecundioribus</w>
+        <w lemma="fluo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">fluat</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

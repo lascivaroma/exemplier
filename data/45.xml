@@ -1,12 +1,13 @@
-<div type="fragment" corresp="adams:34"  ana="#male #animal">
+<div  type="fragment" corresp="adams:34" ana="#male #animal #mentula #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat1:43.8">
-        <w lemma="non(-)">non</w> 
-        <w lemma="mehercules(-)">mehercules</w> 
-        <w lemma="ille(accusatif masculin singulier)">illum</w> 
-        <w lemma="puto(1ère singulier indicatif présent actif)|putus(datif masculin singulier)|putus(ablatif masculin singulier)|putus(datif neutre singulier)|putus(ablatif neutre singulier)|putus(datif singulier)|putus(ablatif singulier)">puto</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="domo(1ère singulier indicatif présent actif)|domus(ablatif singulier)|domus(ablatif singulier)">domo</w> 
-        <w lemma="Canis(accusatif singulier)|canis(accusatif singulier)">canem</w> 
-        <w lemma="relinquo(infinitif parfait actif)">reliquisse</w>.    
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="mehercule" pos="INJ" msd="MORPH=empty">mehercules</w>
+        <w lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">illum</w>
+        <w lemma="puto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">puto</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="domus" pos="NOMcom" msd="Case=Abl|Numb=Sing">domo</w>
+        <w lemma="canis" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #animal">canem</w>
+        <w lemma="relinquo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">reliquisse</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

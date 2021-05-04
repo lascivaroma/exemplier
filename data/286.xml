@@ -1,7 +1,7 @@
-<div type="fragment" corresp="adams:57"  ana="#male #euphemisms #abstracts">
+<div  type="fragment" corresp="adams:57" ana="#male #euphemisms #abstracts #mentula">
     <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg048:47.2">
-        <w lemma="denudo(2ème singulier impératif présent actif)">denuda</w> 
-        <w lemma="turpitudo(accusatif singulier)">turpitudinem</w> 
-        <w lemma="tuus(accusatif féminin singulier)">tuam</w>    
+        <w lemma="denudo" pos="ADJqua" msd="Case=Abl|Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act">denuda</w>
+        <w lemma="turpitudo" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #abstracts">turpitudinem</w>
+        <w lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">tuam</w>
     </quote>
  </div>

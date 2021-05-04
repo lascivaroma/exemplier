@@ -1,11 +1,10 @@
-<div type="fragment" corresp="adams:57"  ana="#male #euphemisms #abstracts">
+<div  type="fragment" corresp="adams:57" ana="#male #euphemisms #abstracts #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:87">
-        <w lemma="et(-)">et</w> 
-        <w lemma="ceteri(vocatif neutre pluriel)|ceteri(accusatif neutre pluriel)|ceterum(nominatif pluriel)|ceterum(vocatif pluriel)|ceterum(accusatif pluriel)|ceterus(nominatif féminin singulier)|ceterus(vocatif féminin singulier)|ceterus(ablatif féminin singulier)|ceterus(nominatif neutre pluriel)|ceterus(vocatif neutre pluriel)|ceterus(accusatif neutre pluriel)|cetera(-)">cetera</w> 
-        <w lemma="qui(nominatif féminin singulier)|qui(nominatif féminin pluriel)|qui(nominatif neutre pluriel)|qui(accusatif neutre pluriel)|quis(nominatif féminin singulier)|quis(nominatif féminin pluriel)|quis(nominatif neutre pluriel)|quis(accusatif neutre pluriel)">quae</w> 
-        <w lemma="libido(nominatif singulier)|libido(vocatif singulier)">libido</w> 
-        <w lemma="distendo(nominatif féminin singulier participe parfait passif)|distendo(vocatif féminin singulier participe parfait passif)|distendo(ablatif féminin singulier participe parfait passif)|distendo(nominatif neutre pluriel participe parfait passif)|distendo(vocatif neutre pluriel participe parfait passif)|distendo(accusatif neutre pluriel participe parfait passif)|distentus(nominatif féminin singulier)|distentus(vocatif féminin singulier)|distentus(ablatif féminin singulier)|distentus(nominatif neutre pluriel)|distentus(vocatif neutre pluriel)|distentus(accusatif neutre pluriel)|distineo(nominatif féminin singulier participe parfait passif)|distineo(vocatif féminin singulier participe parfait passif)|distineo(ablatif féminin singulier participe parfait passif)|distineo(nominatif neutre pluriel participe parfait passif)|distineo(vocatif neutre pluriel participe parfait passif)|distineo(accusatif neutre pluriel participe parfait passif)|distentus(nominatif féminin singulier)|distentus(vocatif féminin singulier)|distentus(ablatif féminin singulier)|distentus(nominatif neutre pluriel)|distentus(vocatif neutre pluriel)|distentus(accusatif neutre pluriel)">distenta</w>
-                        
-        <w lemma="dicto(3ème singulier indicatif présent actif)">dictat</w>    
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="cetera1" pos="NOMcom" msd="Case=Acc|Numb=Plur">cetera</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Neut">quae</w>
+        <w lemma="libido" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #euphemisms #abstracts">libido</w>
+        <w lemma="distendo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">distenta</w>
+        <w lemma="dicto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dictat</w>
     </quote>
  </div>

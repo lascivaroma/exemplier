@@ -1,17 +1,19 @@
-<div type="fragment" corresp="adams:33"  ana="#male #personnification">
+<div  type="fragment" corresp="adams:33" ana="#male #metaphore #animal #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0969.phi001:4.37-4.38">
-        <w lemma="tum(-)">tum</w>, 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="maxilla(datif pluriel)|maxilla(ablatif pluriel)">maxillis</w> 
-        <w lemma="balanatus(accusatif masculin singulier)|balanatus(nominatif neutre singulier)|balanatus(vocatif neutre singulier)|balanatus(accusatif neutre singulier)">balanatum</w> 
-        <w lemma="gausape(nominatif singulier)|gausape(vocatif singulier)|gausape(accusatif singulier)|gausapes(ablatif singulier)">gausape</w> 
-        <w lemma="pecto(2ème singulier subjonctif présent actif)">pectas</w>, 	
-
-        <w lemma="inguen(datif pluriel)|inguen(ablatif pluriel)">inguinibus</w> 
-        <w lemma="quare(-)">quare</w> 
-        <w lemma="detondeo(nominatif masculin singulier participe parfait passif)|detonsus(nominatif masculin singulier)">detonsus</w> 
-        <w lemma="gurgulio(nominatif singulier)|gurgulio(vocatif singulier)">gurgulio</w> 
-        <w lemma="exto(3ème singulier indicatif présent actif)|exsto(3ème singulier indicatif présent actif)">extat</w>?     
+        <w lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+        <w lemma="maxilla" pos="NOMcom" msd="Case=Abl|Numb=Plur">maxillis</w>
+        <w lemma="balano" pos="VER" msd="Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">balanatum</w>
+        <w lemma="gausape" pos="VER" msd="Numb=Sing">gausape</w>
+        <w lemma="pecto" pos="NOMcom" msd="Case=Acc|Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">pectas</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Plur">inguinibus</w>
+        <w lemma="quare2" pos="ADVint" msd="MORPH=empty">quare</w>
+        <w lemma="detondeo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">detonsus</w>
+        <w lemma="gurgulium" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #personnification">gurgulio</w>
+        <w lemma="exsto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">extat</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>
 <note>Notée comme probable uniquement</note>
  </div>

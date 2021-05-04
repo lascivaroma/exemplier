@@ -1,30 +1,44 @@
-<div type="fragment" corresp="adams:45"  ana="#male #specialisation">
+<div  type="fragment" corresp="adams:45" ana="#male #specialisation #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:37.8-37.12">
-        <w lemma="hic(datif masculin singulier)|hic(datif féminin singulier)|hic(datif neutre singulier)">huic</w> 
-        <w lemma="dico(1ère singulier indicatif parfait actif)">dixi</w>: '
-        <w lemma="for(1ère singulier subjonctif présent actif)|fero(2ème singulier impératif présent actif)">fer</w> 
-        <w lemma="Opis(accusatif singulier)|Ops(accusatif singulier)|ops(accusatif singulier)">opem</w>, 
-        <w lemma="Priapus(vocatif singulier)|Priapos(vocatif singulier)">Priape</w>, 
-        <w lemma="pario(génitif masculin singulier participe parfait passif)|pario(nominatif masculin pluriel participe parfait passif)|pario(vocatif masculin pluriel participe parfait passif)|pario(génitif neutre singulier participe parfait passif)|pars(datif singulier)|partio(2ème singulier impératif présent actif)|partus(génitif masculin singulier)|partus(nominatif masculin pluriel)|partus(vocatif masculin pluriel)|partus(génitif neutre singulier)|partio(1ère singulier indicatif parfait actif)">parti</w>, 
-        <w lemma="qui(génitif masculin singulier)|qui(génitif féminin singulier)|qui(génitif neutre singulier)|quis(génitif masculin singulier)|quis(génitif féminin singulier)|quis(génitif neutre singulier)">cuius</w> 
-        <w lemma="tu(nominatif masculin singulier)|tu(nominatif féminin singulier)">tu</w>, 
-        <w lemma="pater(nominatif singulier)|pater(vocatif singulier)">pater</w>, 
-        <w lemma="ipse(nominatif masculin singulier)">ipse</w> 
-        <w lemma="pars(nominatif singulier)|pars(vocatif singulier)">pars</w> 
-        <w lemma="uideo(2ème singulier indicatif futur antérieur actif)|uideo(2ème singulier subjonctif parfait actif)|uideo(2ème singulier indicatif présent passif)|videor(2ème singulier indicatif présent actif)">uideris</w>, 
-        <w lemma="qui(ablatif féminin singulier)|quis(ablatif féminin singulier)|qua(-)">qua</w> 
-        <w lemma="salvos(nominatif féminin singulier)|salvos(vocatif féminin singulier)|salvos(ablatif féminin singulier)|salvos(nominatif neutre pluriel)|salvos(vocatif neutre pluriel)|salvos(accusatif neutre pluriel)|salvos(nominatif féminin singulier)|salvos(vocatif féminin singulier)|salvos(ablatif féminin singulier)|salvo(2ème singulier impératif présent actif)">salua</w> 
-        <w lemma="Sinis(ablatif singulier)|sino(2ème singulier impératif présent actif)|sinus(vocatif singulier)|sine(-)|sion(génitif singulier)|si(-)">sine</w> 
-        <w lemma="sectio(ablatif singulier)|sectio(nominatif singulier)|sectio(vocatif singulier)">sectione</w> 
-        <w lemma="factum(nominatif pluriel)|factum(vocatif pluriel)|factum(accusatif pluriel)|fio(nominatif féminin singulier participe parfait passif)|fio(vocatif féminin singulier participe parfait passif)|fio(ablatif féminin singulier participe parfait passif)|fio(nominatif neutre pluriel participe parfait passif)|fio(vocatif neutre pluriel participe parfait passif)|fio(accusatif neutre pluriel participe parfait passif)|facto(2ème singulier impératif présent actif)|factus(nominatif féminin singulier)|factus(vocatif féminin singulier)|factus(ablatif féminin singulier)|factus(nominatif neutre pluriel)|factus(vocatif neutre pluriel)|factus(accusatif neutre pluriel)">facta</w> 
-        <w lemma="pono(3ème singulier indicatif futur passif)">ponetur</w> 
-        <w lemma="tu(datif masculin singulier)|tu(datif féminin singulier)">tibi</w> 
-        <w lemma="pictus(nominatif féminin singulier)|pictus(vocatif féminin singulier)|pictus(ablatif féminin singulier)|pictus(nominatif neutre pluriel)|pictus(vocatif neutre pluriel)|pictus(accusatif neutre pluriel)|pingo(nominatif féminin singulier participe parfait passif)|pingo(vocatif féminin singulier participe parfait passif)|pingo(ablatif féminin singulier participe parfait passif)|pingo(nominatif neutre pluriel participe parfait passif)|pingo(vocatif neutre pluriel participe parfait passif)|pingo(accusatif neutre pluriel participe parfait passif)">picta</w>, 
-        <w lemma="qui(accusatif féminin singulier)|quis(accusatif féminin singulier)|quam(-)|quam(-)">quam</w> 
-        <w lemma="leuo(2ème singulier indicatif présent passif)|leuo(2ème singulier indicatif présent passif)|leuo(2ème singulier indicatif futur antérieur actif)|leuo(2ème singulier subjonctif parfait actif)|leuo(2ème singulier indicatif futur antérieur actif)|leuo(2ème singulier subjonctif parfait actif)">leuaris</w>, 
-        <w lemma="par(nominatif singulier)|par(vocatif singulier)|par(accusatif singulier)|par(nominatif singulier)|par(vocatif singulier)|par(nominatif masculin singulier)|par(vocatif masculin singulier)|par(nominatif féminin singulier)|par(vocatif féminin singulier)">par</w> 
-        <w lemma="uel(-)">uel</w> 
-        <w lemma="consimilis(génitif masculin singulier)|consimilis(accusatif masculin pluriel)|consimilis(génitif féminin singulier)|consimilis(accusatif féminin pluriel)|consimilis(génitif neutre singulier)|consimilis(nominatif masculin singulier)|consimilis(vocatif masculin singulier)|consimilis(nominatif féminin singulier)|consimilis(vocatif féminin singulier)">consimilisque</w> 
-        <w lemma="concolo(1ère singulier indicatif présent passif)|concolor(nominatif neutre singulier)|concolor(vocatif neutre singulier)|concolor(accusatif neutre singulier)|concolor(nominatif masculin singulier)|concolor(vocatif masculin singulier)|concolor(nominatif féminin singulier)|concolor(vocatif féminin singulier)">concolorque</w>.'    
+        <w lemma="hic1" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">huic</w>
+        <w lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">dixi</w>
+        <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+        <w lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+        <w lemma="fero" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">fer</w>
+        <w lemma="ops" pos="NOMcom" msd="Case=Acc|Numb=Sing">opem</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="Priapus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Priape</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Dat|Numb=Sing" ana="#male #specialisation #euphemism #mentula">parti</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
+        <w lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="pater" pos="NOMcom" msd="Case=Nom|Numb=Sing">pater</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #specialisation #euphemism #mentula">pars</w>
+        <w lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=2">uideris</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
+        <w lemma="saluus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">salua</w>
+        <w lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+        <w lemma="sectio" pos="NOMcom" msd="Case=Abl|Numb=Sing">sectione</w>
+        <w lemma="facio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">facta</w>
+        <w lemma="pono" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">ponetur</w>
+        <w lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+        <w lemma="pingo" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">picta</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="quam1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>
+        <w lemma="leuo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=2">leuaris</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="par2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">par</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
+        <w lemma="consimilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">consimilisque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{consimilisque}</w>
+        <w lemma="concolor" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">concolorque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{concolorque}</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+        <w lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
     </quote>
  </div>

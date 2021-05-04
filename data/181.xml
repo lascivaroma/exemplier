@@ -1,10 +1,11 @@
-<div type="fragment" corresp="adams:48"  ana="#male #euphemisms #voisinage">
+<div  type="fragment" corresp="adams:48" ana="#female #euphemisms #voisinage #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:3.72.5">
-        <w lemma="aut(-)">Aut</w> 
-        <w lemma="infinitus(datif masculin singulier)|infinitus(ablatif masculin singulier)|infinitus(datif neutre singulier)|infinitus(ablatif neutre singulier)|infinitum(datif singulier)|infinitum(ablatif singulier)|infinito(positif)">infinito</w> 
-        <w lemma="lacer(accusatif masculin singulier)|lacer(nominatif neutre singulier)|lacer(vocatif neutre singulier)|lacer(accusatif neutre singulier)">lacerum</w> 
-        <w lemma="pateo(3ème singulier indicatif présent actif)">patet</w> 
-        <w lemma="inguen(accusatif singulier)|inguen(nominatif singulier)|inguen(vocatif singulier)">inguen</w> 
-        <w lemma="hiatus(ablatif singulier)|hio(supin en -u)">hiatu</w>,     
+        <w lemma="aut" pos="CONcoo" msd="MORPH=empty">Aut</w>
+        <w lemma="infinitus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">infinito</w>
+        <w lemma="lacer" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">lacerum</w>
+        <w lemma="pateo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">patet</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #euphemisms #voisinage">inguen</w>
+        <w lemma="hiatus" pos="NOMcom" msd="Case=Abl|Numb=Sing">hiatu</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

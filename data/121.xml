@@ -1,11 +1,14 @@
-<div type="fragment" corresp="adams:45"  ana="#male #specialisation">
+<div  type="fragment" corresp="adams:45" ana="#male #specialisation #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:3.804">
-        <w lemma="a(-)|a(-)|a(-)">A</w>! 
-        <w lemma="pudeo(3ème singulier indicatif présent actif)">pudet</w>, 
-        <w lemma="arcanus(accusatif féminin pluriel)|Arcanus(accusatif féminin pluriel)">arcanas</w> 
-        <w lemma="pars(nominatif singulier)|pars(vocatif singulier)">pars</w> 
-        <w lemma="habeo(3ème singulier indicatif présent actif)">habet</w> 
-        <w lemma="iste(nominatif féminin singulier)|iste(ablatif féminin singulier)|iste(nominatif neutre pluriel)|iste(accusatif neutre pluriel)">ista</w> 
-        <w lemma="nosco(accusatif féminin pluriel participe parfait passif)|nota(accusatif pluriel)|noto(2ème singulier indicatif présent actif)|notus(accusatif féminin pluriel)">notas</w>.    
+        <w lemma="ab" pos="PRE" msd="MORPH=empty">A</w>
+        <w lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+        <w lemma="pudeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pudet</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="arcanus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">arcanas</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #specialisation #euphemism #mentula">pars</w>
+        <w lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habet</w>
+        <w lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ista</w>
+        <w lemma="nota" pos="NOMcom" msd="Case=Acc|Numb=Plur">notas</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

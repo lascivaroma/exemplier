@@ -1,10 +1,11 @@
-<div type="fragment" corresp="adams:48"  ana="#male #euphemisms #voisinage">
+<div  type="fragment" corresp="adams:48" ana="#female #euphemisms #voisinage #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0660.phi001.perseus-lat2:2.4.58">
-        <w lemma="">hippomanes</w> 
-        <w lemma="cupidus(génitif féminin singulier)|cupidus(datif féminin singulier)|cupidus(nominatif féminin pluriel)|cupidus(vocatif féminin pluriel)">cupidae</w> 
-        <w lemma="stillo(3ème singulier indicatif présent actif)">stillat</w> 
-        <w lemma="a(-)">ab</w> 
-        <w lemma="inguen(ablatif singulier)">inguine</w> 
-        <w lemma="equa(génitif singulier)|equa(datif singulier)|equa(nominatif pluriel)|equa(vocatif pluriel)">equae</w>,    
+        <w lemma="hippomanes" pos="NOMcom" msd="Case=Nom|Numb=Sing">hippomanes</w>
+        <w lemma="cupidus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">cupidae</w>
+        <w lemma="stillo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">stillat</w>
+        <w lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#female #euphemisms #voisinage #cunnus">inguine</w>
+        <w lemma="equa" pos="NOMcom" msd="Case=Nom|Numb=Sing">equae</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

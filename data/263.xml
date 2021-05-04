@@ -1,19 +1,20 @@
-<div type="fragment" corresp="adams:56"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:56" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0167.stoa001.opp-lat1:1.6">
-        <w lemma="cunctor(datif masculin pluriel participe présent actif)|cunctor(ablatif masculin pluriel participe présent actif)|cunctor(datif féminin pluriel participe présent actif)|cunctor(ablatif féminin pluriel participe présent actif)|cunctor(datif neutre pluriel participe présent actif)|cunctor(ablatif neutre pluriel participe présent actif)|cuncto(datif masculin pluriel participe présent actif)|cuncto(ablatif masculin pluriel participe présent actif)|cuncto(datif féminin pluriel participe présent actif)|cuncto(ablatif féminin pluriel participe présent actif)|cuncto(datif neutre pluriel participe présent actif)|cuncto(ablatif neutre pluriel participe présent actif)|cunctans(datif masculin pluriel)|cunctans(ablatif masculin pluriel)|cunctans(datif féminin pluriel)|cunctans(ablatif féminin pluriel)|cunctans(datif neutre pluriel)|cunctans(ablatif neutre pluriel)">cunctantibus</w> 
-        <w lemma="sublatus(nominatif féminin singulier)|sublatus(vocatif féminin singulier)|sublatus(ablatif féminin singulier)|sublatus(nominatif neutre pluriel)|sublatus(vocatif neutre pluriel)|sublatus(accusatif neutre pluriel)|suffero(nominatif féminin singulier participe parfait passif)|suffero(vocatif féminin singulier participe parfait passif)|suffero(ablatif féminin singulier participe parfait passif)|suffero(nominatif neutre pluriel participe parfait passif)|suffero(vocatif neutre pluriel participe parfait passif)|suffero(accusatif neutre pluriel participe parfait passif)|tollo(nominatif féminin singulier participe parfait passif)|tollo(vocatif féminin singulier participe parfait passif)|tollo(ablatif féminin singulier participe parfait passif)|tollo(nominatif neutre pluriel participe parfait passif)|tollo(vocatif neutre pluriel participe parfait passif)|tollo(accusatif neutre pluriel participe parfait passif)">sublata</w> 
-        <w lemma="vestis(ablatif singulier)">veste</w> 
-        <w lemma="obscena(nominatif pluriel)|obscena(vocatif pluriel)|obscena(accusatif pluriel)|obscenus(nominatif féminin singulier)|obscenus(vocatif féminin singulier)|obscenus(ablatif féminin singulier)|obscenus(nominatif neutre pluriel)|obscenus(vocatif neutre pluriel)|obscenus(accusatif neutre pluriel)">obscena</w> 
-        <w lemma="corpus(génitif singulier)">corporis</w> 
-        <w lemma="ostendo(3ème pluriel indicatif présent actif)">ostendunt</w> 
-        <w lemma="">regantes</w>, 
-        <w lemma="num(-)">num</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="uterus(accusatif pluriel)|uter(accusatif pluriel)">uteros</w> 
-        <w lemma="mater(génitif pluriel)">matrum</w> 
-        <w lemma="uel(-)">vel</w> 
-        <w lemma="uxor(génitif pluriel)">uxorum</w> 
-        <w lemma="uolo(3ème pluriel subjonctif imparfait actif)|vello(3ème pluriel indicatif futur actif)">vellent</w> 
-        <w lemma="refugio(3ème pluriel indicatif parfait actif)|refugio(infinitif présent actif)|refugio(2ème singulier indicatif présent passif)|refugio(2ème singulier impératif présent passif)|refugo(2ème singulier subjonctif présent passif)">refugere</w>    
+        <w lemma="cunctor" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">cunctantibus</w>
+        <w lemma="tollo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">sublata</w>
+        <w lemma="uestis" pos="NOMcom" msd="Case=Abl|Numb=Sing">veste</w>
+        <w lemma="obscenum" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Neut|Deg=Pos" ana="#male #euphemisms #aidoion">obscena</w>
+        <w lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
+        <w lemma="ostendo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ostendunt</w>
+        <w lemma="rego" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">regantes</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="num" pos="ADVint" msd="MORPH=empty">num</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Plur">uteros</w>
+        <w lemma="mater" pos="NOMcom" msd="Case=Gen|Numb=Plur">matrum</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+        <w lemma="uxor" pos="NOMcom" msd="Case=Gen|Numb=Plur">uxorum</w>
+        <w lemma="uolo3" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">vellent</w>
+        <w lemma="refugio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">refugere</w>
     </quote>
  </div>

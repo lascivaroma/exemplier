@@ -1,18 +1,20 @@
-<div type="fragment" corresp="adams:56"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:56" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa011.perseus-lat2:14.33-14.35">
-        <w lemma="qui(nominatif masculin singulier)|qui(nominatif masculin pluriel)|quis(nominatif masculin pluriel)|queo(2ème singulier impératif présent actif)|queo(1ère singulier indicatif parfait actif)|qui(-)">qui</w> 
-        <w lemma="vestis(ablatif singulier)">veste</w> 
-        <w lemma="reduco(nominatif féminin singulier participe parfait passif)|reduco(vocatif féminin singulier participe parfait passif)|reduco(ablatif féminin singulier participe parfait passif)|reduco(nominatif neutre pluriel participe parfait passif)|reduco(vocatif neutre pluriel participe parfait passif)|reduco(accusatif neutre pluriel participe parfait passif)|reductus(nominatif féminin singulier)|reductus(vocatif féminin singulier)|reductus(ablatif féminin singulier)|reductus(nominatif neutre pluriel)|reductus(vocatif neutre pluriel)|reductus(accusatif neutre pluriel)|reducto(2ème singulier impératif présent actif)">reducta</w> 
-        <w lemma="ostento(3ème singulier indicatif présent actif)">ostentat</w> 
-        <w lemma="foedo(2ème singulier indicatif présent actif)|foedus(accusatif féminin pluriel)">foedas</w> 
-        <w lemma="prope(-)">prope</w> 
-        <w lemma="turpe(nominatif pluriel)|turpe(vocatif pluriel)|turpe(accusatif pluriel)|turpis(nominatif neutre pluriel)|turpis(vocatif neutre pluriel)|turpis(accusatif neutre pluriel)">turpia</w> 
-        <w lemma="membrum(nominatif pluriel)|membrum(vocatif pluriel)|membrum(accusatif pluriel)|membro(2ème singulier impératif présent actif)">membra</w> 
-        <w lemma="lacuna(accusatif pluriel)|lacuno(2ème singulier indicatif présent actif)">lacunas</w> 
-        <w lemma="perfodio(accusatif féminin pluriel participe parfait passif)|perfosso(2ème singulier indicatif présent actif)|perfossus(accusatif féminin pluriel)">perfossasque</w> 
-        <w lemma="vates(nominatif pluriel)|vates(vocatif pluriel)|vates(accusatif pluriel)|vatis(accusatif pluriel)|vatis(nominatif pluriel)|vatis(vocatif pluriel)|vates(nominatif singulier)|vates(vocatif singulier)">uates</w> 
-        <w lemma="uicinum(datif singulier)|uicinum(ablatif singulier)|uicinus(datif masculin singulier)|uicinus(ablatif masculin singulier)|uicinus(datif neutre singulier)|uicinus(ablatif neutre singulier)|uicinus(datif singulier)|uicinus(ablatif singulier)">vicino</w> 
-        <w lemma="podex(ablatif singulier)|podicus(vocatif masculin singulier)">podice</w> 
-        <w lemma="nudo(3ème singulier indicatif présent actif)">nudat</w>.     
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+        <w lemma="uestis" pos="NOMcom" msd="Case=Abl|Numb=Sing">veste</w>
+        <w lemma="reduco" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">reducta</w>
+        <w lemma="ostento" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ostentat</w>
+        <w lemma="foedus2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">foedas</w>
+        <w lemma="prope2" pos="PRE" msd="Deg=Pos">prope</w>
+        <w lemma="turpis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#male #euphemisms #aidoion #mentula">turpia</w>
+        <w lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
+        <w lemma="lacuna" pos="NOMcom" msd="Case=Acc|Numb=Plur">lacunas</w>
+        <w lemma="perfodio" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">perfossasque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{perfossasque}</w>
+        <w lemma="uates" pos="NOMcom" msd="Case=Acc|Numb=Plur">uates</w>
+        <w lemma="uicinus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">vicino</w>
+        <w lemma="podex" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
+        <w lemma="nudo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">nudat</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

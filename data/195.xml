@@ -1,13 +1,13 @@
-<div type="fragment" corresp="adams:48"  ana="#male #euphemisms #voisinage #copulation #desir">
+<div  type="fragment" corresp="adams:48" ana="#male #euphemisms #mentula #voisinage #copulation #desir">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:3.8.16-3.8.17">
-        <w lemma="sion(génitif singulier)|si(-)">si</w> 
-        <w lemma="tener(accusatif masculin singulier)|tener(nominatif neutre singulier)|tener(vocatif neutre singulier)|tener(accusatif neutre singulier)">tenerum</w> 
-        <w lemma="attero(nominatif masculin singulier participe parfait passif)|attritus(nominatif masculin singulier)|attritus(nominatif singulier)|attritus(vocatif singulier)|attritus(génitif singulier)|attritus(nominatif pluriel)|attritus(vocatif pluriel)|attritus(accusatif pluriel)">attritus</w> 
-        <w lemma="Catinensis(datif masculin singulier)|Catinensis(ablatif masculin singulier)|Catinensis(datif féminin singulier)|Catinensis(ablatif féminin singulier)|Catinensis(datif neutre singulier)|Catinensis(ablatif neutre singulier)">Catinensi</w> 
-        <w lemma="pumex(ablatif singulier)">pumice</w> 
-        <w lemma="lumbus(accusatif singulier)">lumbum</w> 
-        <w lemma="squaleo(génitif masculin singulier participe présent actif)|squaleo(génitif féminin singulier participe présent actif)|squaleo(génitif neutre singulier participe présent actif)|squalentia(datif pluriel)|squalentia(ablatif pluriel)|squalentia(datif pluriel)|squalentia(ablatif pluriel)">squalentis</w> 
-        <w lemma="traduco(3ème singulier indicatif présent actif)">traducit</w> 
-        <w lemma="auus(nominatif singulier)|auus(accusatif pluriel)">avos</w>    
+        <w lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+        <w lemma="tener" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">tenerum</w>
+        <w lemma="attero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">attritus</w>
+        <w lemma="Catinensis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">Catinensi</w>
+        <w lemma="pumex" pos="NOMcom" msd="Case=Abl|Numb=Sing">pumice</w>
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #voisinage #copulation #desir">lumbum</w>
+        <w lemma="squaleo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">squalentis</w>
+        <w lemma="traduco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">traducit</w>
+        <w lemma="auus" pos="NOMcom" msd="Case=Acc|Numb=Plur">avos</w>
     </quote>
  </div>

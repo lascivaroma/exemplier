@@ -1,13 +1,12 @@
-<div type="fragment" corresp="adams:59"  ana="#male #natura">
+<div  type="fragment" corresp="adams:59" ana="#male #natura #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0684.phi002.thayer-lat1:2.4.10">
-        <w lemma="suillus(accusatif masculin singulier)|suillus(nominatif neutre singulier)|suillus(vocatif neutre singulier)|suillus(accusatif neutre singulier)">Suillum</w> 
-        <w lemma="pecus(nominatif singulier)|pecus(vocatif singulier)|pecus(génitif singulier)|pecus(nominatif pluriel)|pecus(vocatif pluriel)|pecus(accusatif pluriel)|pecus(nominatif singulier)|pecus(vocatif singulier)|pecus(accusatif singulier)|pecus(nominatif singulier)|pecus(vocatif singulier)">pecus</w> 
-        <w lemma="dono(supin en -um)|dono(accusatif masculin singulier participe parfait passif)|dono(nominatif neutre singulier participe parfait passif)|dono(vocatif neutre singulier participe parfait passif)|dono(accusatif neutre singulier participe parfait passif)|Donatus(accusatif singulier)">donatum</w>
-                                
-        <w lemma="a(-)">ab</w> 
-        <w lemma="nascor(nominatif féminin singulier participe futur actif)|nascor(vocatif féminin singulier participe futur actif)|nascor(ablatif féminin singulier participe futur actif)|nascor(nominatif neutre pluriel participe futur actif)|nascor(vocatif neutre pluriel participe futur actif)|nascor(accusatif neutre pluriel participe futur actif)|no(nominatif féminin singulier participe futur actif)|no(vocatif féminin singulier participe futur actif)|no(ablatif féminin singulier participe futur actif)|no(nominatif neutre pluriel participe futur actif)|no(vocatif neutre pluriel participe futur actif)|no(accusatif neutre pluriel participe futur actif)|natura(nominatif singulier)|natura(vocatif singulier)|natura(ablatif singulier)">natura</w> 
-        <w lemma="dico(3ème pluriel indicatif présent actif)">dicunt</w> 
-        <w lemma="ad(-)">ad</w> 
-        <w lemma="epulor(gérondif accusatif)|epulo(gérondif accusatif)|epulo(accusatif masculin singulier adjectif verbal)|epulo(nominatif neutre singulier adjectif verbal)|epulo(vocatif neutre singulier adjectif verbal)|epulo(accusatif neutre singulier adjectif verbal)">epulandum</w>    
+        <w lemma="Suillus" pos="NOMpro" msd="Case=Acc|Numb=Sing|Deg=Pos">Suillum</w>
+        <w lemma="pecus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">pecus</w>
+        <w lemma="dono" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">donatum</w>
+        <w lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+        <w lemma="natura" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #natura">natura</w>
+        <w lemma="dico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dicunt</w>
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+        <w lemma="epulor" pos="VER" msd="Case=Acc|Numb=Sing|Mood=Ger|Voice=Dep">epulandum</w>
     </quote>
  </div>

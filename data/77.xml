@@ -1,16 +1,15 @@
-<div type="fragment" corresp="adams:38"  ana="#male #anatomie">
+<div  type="fragment" corresp="adams:38" ana="#male #anatomie #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat1:67.27-67.28">
-        <w lemma="quaero(nominatif masculin singulier adjectif verbal)">quaerendus</w> 
-        <w lemma="eo(2ème singulier indicatif présent actif)|is(nominatif masculin singulier)|Megisto(génitif singulier)|Ia(datif pluriel)|Ia(ablatif pluriel)|Ios(datif pluriel)|Ios(ablatif pluriel)|ion(datif pluriel)|ion(ablatif pluriel)">is</w> 
-        <w lemma="unde(-)">unde</w> 
-        <w lemma="foret(3ème singulier subjonctif imparfait actif)|foro(3ème singulier subjonctif présent actif)">foret</w> 
-        <w lemma="nervose(comparatif)|nervosus(nominatif neutre singulier comparatif)|nervosus(vocatif neutre singulier comparatif)|nervosus(accusatif neutre singulier comparatif)">nervosius</w> 
-        <w lemma="ille(nominatif neutre singulier)|ille(accusatif neutre singulier)">illud</w>
-
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="possum(3ème singulier subjonctif imparfait actif)">posset</w> 
-        <w lemma="zona(accusatif singulier)|Zone(accusatif singulier)">zonam</w> 
-        <w lemma="solvo(3ème pluriel indicatif parfait actif)|solvo(infinitif présent actif)|solvo(2ème singulier indicatif présent passif)|solvo(2ème singulier indicatif futur passif)|solvo(2ème singulier impératif présent passif)">solvere</w> 
-        <w lemma="virgineus(accusatif féminin singulier)">virgineam</w>    
+        <w lemma="quaero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Adj|Voice=Pass">quaerendus</w>
+        <w lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">is</w>
+        <w lemma="unde1" pos="ADVrel" msd="MORPH=empty">unde</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Par|Tense=Fut|Voice=Act">foret</w>
+        <w lemma="neruosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp" ana="#male #anatomie">nervosius</w>
+        <w lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut" ana="#male #anatomie">illud</w>
+        <w lemma="quod1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+        <w lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">posset</w>
+        <w lemma="zona" pos="NOMcom" msd="Case=Acc|Numb=Sing">zonam</w>
+        <w lemma="soluo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">solvere</w>
+        <w lemma="uirgineus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">virgineam</w>
     </quote>
  </div>

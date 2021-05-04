@@ -1,15 +1,16 @@
-<div type="fragment" corresp="adams:51"  ana="#male #euphemisms #voisinage #reproduction">
+<div  type="fragment" corresp="adams:51" ana="#euphemisms #voisinage #reproduction">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:82.25">
-        <w lemma="puella(nominatif singulier)|puella(vocatif singulier)|puella(ablatif singulier)">puella</w> 
-        <w lemma="nec(-)">nec</w> 
-        <w lemma="iocosus(nominatif féminin singulier)|iocosus(vocatif féminin singulier)|iocosus(ablatif féminin singulier)|iocosus(nominatif neutre pluriel)|iocosus(vocatif neutre pluriel)|iocosus(accusatif neutre pluriel)">iocosa</w> 
-        <w lemma="tu(accusatif masculin singulier)|tu(ablatif masculin singulier)|tu(accusatif féminin singulier)|tu(ablatif féminin singulier)">te</w> 
-        <w lemma="leuis(datif masculin singulier)|leuis(ablatif masculin singulier)|leuis(datif féminin singulier)|leuis(ablatif féminin singulier)|leuis(datif neutre singulier)|leuis(ablatif neutre singulier)|levis(datif masculin singulier)|levis(ablatif masculin singulier)|levis(datif féminin singulier)|levis(ablatif féminin singulier)|levis(datif neutre singulier)|levis(ablatif neutre singulier)|lino(1ère singulier indicatif parfait actif)|Leui(nominatif pluriel)|Leui(vocatif pluriel)|leo(1ère singulier indicatif parfait actif)|Leui(-)">leui</w> 
-        <w lemma="manus(ablatif singulier)">manu</w>
-
-        <w lemma="foueo(3ème singulier indicatif futur actif)">fouebit</w> 
-        <w lemma="">apprimetue</w> 
-        <w lemma="lucidus(accusatif masculin singulier)|lucidus(nominatif neutre singulier)|lucidus(vocatif neutre singulier)|lucidus(accusatif neutre singulier)|lucidum(-)">lucidum</w> 
-        <w lemma="for(1ère pluriel subjonctif présent actif)|femur(accusatif singulier)|femur(nominatif singulier)|femur(vocatif singulier)">femur</w>.    
+        <w lemma="puella" pos="NOMcom" msd="Case=Abl|Numb=Sing">puella</w>
+        <w lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+        <w lemma="iocosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">iocosa</w>
+        <w lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+        <w lemma="leuis1" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">leui</w>
+        <w lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
+        <w lemma="foueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">fouebit</w>
+        <w lemma="apprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">apprimetue</w>
+        <w lemma="ue" pos="CON" msd="MORPH=empty">{apprimetue}</w>
+        <w lemma="lucidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">lucidum</w>
+        <w lemma="femur" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #voisinage #reproduction #mentula">femur</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

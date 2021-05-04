@@ -1,16 +1,18 @@
-<div type="fragment" corresp="adams:35"  ana="#male #anatomie">
+<div  type="fragment" corresp="adams:35" ana="#male #anatomie #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:4.66.11-4.66.12">
-        <w lemma="uilica(nominatif singulier)|uilica(vocatif singulier)|uilica(ablatif singulier)|uilico(2ème singulier impératif présent actif)|uilicus(nominatif féminin singulier)|uilicus(vocatif féminin singulier)|uilicus(ablatif féminin singulier)|uilicus(nominatif neutre pluriel)|uilicus(vocatif neutre pluriel)|uilicus(accusatif neutre pluriel)">Vilica</w> 
-        <w lemma="uel(-)">vel</w> 
-        <w lemma="durum(génitif singulier)|durus(génitif masculin singulier)|durus(nominatif masculin pluriel)|durus(vocatif masculin pluriel)|durus(génitif neutre singulier)|Duris(datif singulier)|Durius(génitif singulier)|Durius(nominatif pluriel)|Durius(vocatif pluriel)|durius(génitif masculin singulier)|durius(nominatif masculin pluriel)|durius(vocatif masculin pluriel)|durius(génitif neutre singulier)">duri</w> 
-        <w lemma="comprimo(nominatif féminin singulier participe parfait passif)|comprimo(vocatif féminin singulier participe parfait passif)|comprimo(ablatif féminin singulier participe parfait passif)|comprimo(nominatif neutre pluriel participe parfait passif)|comprimo(vocatif neutre pluriel participe parfait passif)|comprimo(accusatif neutre pluriel participe parfait passif)|compresso(2ème singulier impératif présent actif)|compressus(nominatif féminin singulier)|compressus(vocatif féminin singulier)|compressus(ablatif féminin singulier)|compressus(nominatif neutre pluriel)|compressus(vocatif neutre pluriel)|compressus(accusatif neutre pluriel)">conpressa</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
-        <w lemma="nubo(nominatif féminin singulier participe parfait passif)|nubo(vocatif féminin singulier participe parfait passif)|nubo(ablatif féminin singulier participe parfait passif)|nubo(nominatif neutre pluriel participe parfait passif)|nubo(vocatif neutre pluriel participe parfait passif)|nubo(accusatif neutre pluriel participe parfait passif)|nupta(nominatif singulier)|nupta(vocatif singulier)|nupta(ablatif singulier)|nupto(2ème singulier impératif présent actif)|nuptus(nominatif féminin singulier)|nuptus(vocatif féminin singulier)|nuptus(ablatif féminin singulier)|nuptus(nominatif neutre pluriel)|nuptus(vocatif neutre pluriel)|nuptus(accusatif neutre pluriel)">nupta</w> 
-        <w lemma="colonus(génitif masculin singulier)|colonus(nominatif masculin pluriel)|colonus(vocatif masculin pluriel)|colonus(génitif neutre singulier)|colonus(génitif singulier)|colonus(nominatif pluriel)|colonus(vocatif pluriel)">coloni</w>,  
-        <w lemma="incalesco(3ème singulier indicatif parfait actif)">Incaluit</w> 
-        <w lemma="quotiens(-)">quotiens</w> 
-        <w lemma="saucio(2ème singulier impératif présent actif)|saucius(nominatif féminin singulier)|saucius(vocatif féminin singulier)|saucius(ablatif féminin singulier)|saucius(nominatif neutre pluriel)|saucius(vocatif neutre pluriel)|saucius(accusatif neutre pluriel)">saucia</w> 
-        <w lemma="uena(nominatif singulier)|uena(vocatif singulier)|uena(ablatif singulier)|venum(nominatif pluriel)|venum(vocatif pluriel)|venum(accusatif pluriel)|ueno(2ème singulier impératif présent actif)">vena</w> 
-        <w lemma="merum(datif singulier)|merum(ablatif singulier)|merus(datif masculin singulier)|merus(ablatif masculin singulier)|merus(datif neutre singulier)|merus(ablatif neutre singulier)|Merus(datif singulier)|Merus(ablatif singulier)|Mero(nominatif singulier)|Mero(vocatif singulier)">mero</w>.     
+        <w lemma="uillica" pos="NOMcom" msd="Case=Acc|Numb=Sing">Vilica</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+        <w lemma="durus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">duri</w>
+        <w lemma="comprimo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">conpressa</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="nupta" pos="NOMcom" msd="Case=Nom|Numb=Sing">nupta</w>
+        <w lemma="colonus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">coloni</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="incalesco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Incaluit</w>
+        <w lemma="quotiens1" pos="ADVrel" msd="MORPH=empty">quotiens</w>
+        <w lemma="saucius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">saucia</w>
+        <w lemma="uena" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #anatomie #metaphore #mentula">vena</w>
+        <w lemma="merum" pos="NOMcom" msd="Case=Abl|Numb=Sing">mero</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

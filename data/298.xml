@@ -1,12 +1,12 @@
-<div type="fragment" corresp="adams:58"  ana="#male #descriptive-functional">
+<div  type="fragment" corresp="adams:58" ana="#male #descriptive-functional #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.513-6.515">
-        <w lemma="mollis(nominatif neutre pluriel)|mollis(vocatif neutre pluriel)|mollis(accusatif neutre pluriel)|molle(nominatif pluriel)|molle(vocatif pluriel)|molle(accusatif pluriel)|mollia(nominatif pluriel)|mollia(vocatif pluriel)|mollia(accusatif pluriel)">mollia</w> 
-        <w lemma="qui(nominatif masculin singulier)|qui(nominatif masculin pluriel)|quis(nominatif masculin pluriel)|queo(2ème singulier impératif présent actif)|queo(1ère singulier indicatif parfait actif)|qui(-)">qui</w> 
-        <w lemma="rapio(nominatif féminin singulier participe parfait passif)|rapio(vocatif féminin singulier participe parfait passif)|rapio(ablatif féminin singulier participe parfait passif)|rapio(nominatif neutre pluriel participe parfait passif)|rapio(vocatif neutre pluriel participe parfait passif)|rapio(accusatif neutre pluriel participe parfait passif)|rapto(2ème singulier impératif présent actif)|raptum(nominatif pluriel)|raptum(vocatif pluriel)|raptum(accusatif pluriel)|rapta(nominatif singulier)|rapta(vocatif singulier)|rapta(ablatif singulier)|raptus(nominatif féminin singulier)|raptus(vocatif féminin singulier)|raptus(ablatif féminin singulier)|raptus(nominatif neutre pluriel)|raptus(vocatif neutre pluriel)|raptus(accusatif neutre pluriel)">rapta</w> 
-        <w lemma="seco(3ème singulier indicatif parfait actif)">secuit</w> 
-        <w lemma="genitale(nominatif pluriel)|genitale(vocatif pluriel)|genitale(accusatif pluriel)|genitalis(nominatif neutre pluriel)|genitalis(vocatif neutre pluriel)|genitalis(accusatif neutre pluriel)">genitalia</w> 
-        <w lemma="testa(nominatif singulier)|testa(vocatif singulier)|testa(ablatif singulier)|testo(2ème singulier impératif présent actif)|testum(nominatif pluriel)|testum(vocatif pluriel)|testum(accusatif pluriel)|Testa(nominatif singulier)|Testa(vocatif singulier)|Testa(ablatif singulier)">testa</w> 
-        <w lemma="Ia(accusatif singulier)|jam(-)">iam</w> 
-        <w lemma="pridem(-)">pridem</w>    
+        <w lemma="mollis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">mollia</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+        <w lemma="rapio" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">rapta</w>
+        <w lemma="seco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">secuit</w>
+        <w lemma="genitalia" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut" ana="#male #descriptive-functional">genitalia</w>
+        <w lemma="testa" pos="NOMcom" msd="Case=Abl|Numb=Sing">testa</w>
+        <w lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+        <w lemma="pridem" pos="ADV" msd="Deg=Pos">pridem</w>
     </quote>
  </div>

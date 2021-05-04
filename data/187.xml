@@ -1,14 +1,14 @@
-<div type="fragment" corresp="adams:48"  ana="#male #euphemisms #voisinage #copulation">
+<div  type="fragment" corresp="adams:48" ana="#male #euphemisms #voisinage #copulation">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:2.7">
-        <w lemma="lumbus(datif pluriel)|lumbus(ablatif pluriel)">lumbis</w> 
-        <w lemma="sensim(-)">sensim</w> 
-        <w lemma="vibro(datif masculin pluriel participe présent actif)|vibro(ablatif masculin pluriel participe présent actif)|vibro(datif féminin pluriel participe présent actif)|vibro(ablatif féminin pluriel participe présent actif)|vibro(datif neutre pluriel participe présent actif)|vibro(ablatif neutre pluriel participe présent actif)">uibrantibus</w> 
-        <w lemma="spina(accusatif singulier)|Spina(accusatif singulier)">spinam</w> 
-        <w lemma="mobilis(accusatif masculin singulier)|mobilis(accusatif féminin singulier)">mobilem</w>
-
-        <w lemma="quatio(nominatif masculin singulier participe présent actif)|quatio(vocatif masculin singulier participe présent actif)|quatio(nominatif féminin singulier participe présent actif)|quatio(vocatif féminin singulier participe présent actif)|quatio(nominatif neutre singulier participe présent actif)|quatio(vocatif neutre singulier participe présent actif)|quatio(accusatif neutre singulier participe présent actif)">quatiens</w> 
-        <w lemma="placide(positif)|placidus(vocatif masculin singulier)">placide</w>, 
-        <w lemma="decenter(positif)">decenter</w> 
-        <w lemma="undo(3ème singulier indicatif imparfait actif)">undabat</w>    
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#male #euphemisms #voisinage #copulation">lumbis</w>
+        <w lemma="sensim" pos="ADV" msd="Deg=Pos">sensim</w>
+        <w lemma="uibro" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">uibrantibus</w>
+        <w lemma="spina" pos="NOMcom" msd="Case=Acc|Numb=Sing">spinam</w>
+        <w lemma="mobilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">mobilem</w>
+        <w lemma="quatio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">quatiens</w>
+        <w lemma="placide" pos="ADV" msd="Deg=Pos">placide</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="decenter" pos="ADV" msd="Deg=Pos">decenter</w>
+        <w lemma="undo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">undabat</w>
     </quote>
  </div>

@@ -1,9 +1,9 @@
-<div type="fragment" corresp="adams:43"  ana="#male #outil">
+<div  type="fragment" corresp="adams:43" ana="#male #outil #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001:130.4">
-        <w lemma="non(-)">non</w> 
-        <w lemma="ego(accusatif masculin singulier)|ego(ablatif masculin singulier)|ego(accusatif féminin singulier)|ego(ablatif féminin singulier)">me</w> 
-        <w lemma="sed(-)|sed(-)">sed</w> 
-        <w lemma="instrumentum(nominatif pluriel)|instrumentum(vocatif pluriel)|instrumentum(accusatif pluriel)">instrumenta</w> 
-        <w lemma="pecco(infinitif parfait actif)">peccasse</w>    
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+        <w lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+        <w lemma="instrumentum" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #outil #metaphore #mentula">instrumenta</w>
+        <w lemma="pecco" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">peccasse</w>
     </quote>
  </div>

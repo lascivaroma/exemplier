@@ -1,17 +1,16 @@
-<div type="fragment" corresp="adams:55"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:55" ana="#male #euphemisms #aidoion">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0255.stoa007.perseus-lat2:22.3">
-        <w lemma="totus(accusatif féminin pluriel)|totus(accusatif féminin pluriel)">totas</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="viscus(nominatif pluriel)|viscus(vocatif pluriel)|viscus(accusatif pluriel)|viscera(nominatif pluriel)|viscera(vocatif pluriel)|viscera(accusatif pluriel)|viscera(accusatif singulier)|viscera(nominatif singulier)|viscera(vocatif singulier)">viscera</w> 
-        <w lemma="manus(nominatif masculin singulier)|manus(nominatif singulier)|manus(vocatif singulier)|manus(génitif singulier)|manus(nominatif pluriel)|manus(vocatif pluriel)|manus(accusatif pluriel)|manos(nominatif singulier)">manus</w> 
-        <w lemma="demitto(génitif masculin pluriel participe présent actif)|demitto(génitif féminin pluriel participe présent actif)|demitto(génitif neutre pluriel participe présent actif)">demittentium</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="non(-)">non</w>
-
-        <w lemma="Simplex(datif singulier)|simplex(datif masculin singulier)|simplex(datif féminin singulier)|simplex(datif neutre singulier)|simplex(datif masculin singulier)|simplex(ablatif masculin singulier)|simplex(datif féminin singulier)|simplex(ablatif féminin singulier)|simplex(datif neutre singulier)|simplex(ablatif neutre singulier)">simplici</w> 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="dolor(ablatif singulier)">dolore</w> 
-        <w lemma="pudeo(nominatif féminin singulier adjectif verbal)|pudeo(vocatif féminin singulier adjectif verbal)|pudeo(ablatif féminin singulier adjectif verbal)|pudeo(nominatif neutre pluriel adjectif verbal)|pudeo(vocatif neutre pluriel adjectif verbal)|pudeo(accusatif neutre pluriel adjectif verbal)|pudenda(nominatif pluriel)|pudenda(vocatif pluriel)|pudenda(accusatif pluriel)|pudendus(nominatif féminin singulier)|pudendus(vocatif féminin singulier)|pudendus(ablatif féminin singulier)|pudendus(nominatif neutre pluriel)|pudendus(vocatif neutre pluriel)|pudendus(accusatif neutre pluriel)">pudenda</w> 
-        <w lemma="curo(génitif masculin pluriel participe présent actif)|curo(génitif féminin pluriel participe présent actif)|curo(génitif neutre pluriel participe présent actif)|curans(génitif pluriel)">curantium</w>     
+        <w lemma="totus" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Fem">totas</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="uiscus2" pos="NOMcom" msd="Case=Acc|Numb=Plur">viscera</w>
+        <w lemma="manus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">manus</w>
+        <w lemma="demitto" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">demittentium</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="simplex" pos="ADJmul" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">simplici</w>
+        <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+        <w lemma="dolor" pos="NOMcom" msd="Case=Abl|Numb=Sing">dolore</w>
+        <w lemma="pudendus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#male #euphemisms #aidoion">pudenda</w>
+        <w lemma="curo" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">curantium</w>
     </quote>
  </div>

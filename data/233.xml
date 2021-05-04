@@ -1,20 +1,20 @@
-<div type="fragment" corresp="adams:53"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:53" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:184">
-        <w lemma="in(-)">in</w> 
-        <w lemma="mulier(datif pluriel)|mulier(ablatif pluriel)">mulieribus</w> 
-        <w lemma="autem(-)">autem</w> 
-        <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiam</w> 
-        <w lemma="pessulus(accusatif singulier)|pessulum(nominatif singulier)|pessulum(vocatif singulier)|pessulum(accusatif singulier)">pessulum</w> 
-        <w lemma="oleo(1ère singulier indicatif présent actif)|oleum(datif singulier)|oleum(ablatif singulier)">oleo</w> 
-        <w lemma="calidus(datif masculin singulier)|calidus(ablatif masculin singulier)|calidus(datif neutre singulier)|calidus(ablatif neutre singulier)|Calidus(datif singulier)|Calidus(ablatif singulier)|calido(1ère singulier indicatif présent actif)|calidum(datif singulier)|calidum(ablatif singulier)">calido</w> 
-        <w lemma="infundo(nominatif masculin pluriel participe présent actif)|infundo(vocatif masculin pluriel participe présent actif)|infundo(accusatif masculin pluriel participe présent actif)|infundo(nominatif féminin pluriel participe présent actif)|infundo(vocatif féminin pluriel participe présent actif)|infundo(accusatif féminin pluriel participe présent actif)">infundentes</w> 
-        <w lemma="sensim(-)">sensim</w> 
-        <w lemma="">consexualibus</w> 
-        <w lemma="Manes(datif pluriel)|Manes(ablatif pluriel)|manis(datif pluriel)|manis(ablatif pluriel)|manus(datif pluriel)|manus(ablatif pluriel)">manibus</w> 
-        <w lemma="in(-)">in</w>  
-        <w lemma="muliebris(nominatif neutre singulier)|muliebris(vocatif neutre singulier)|muliebris(accusatif neutre singulier)">muliebre</w> 
-        <w lemma="ueretrum(nominatif singulier)|ueretrum(vocatif singulier)|ueretrum(accusatif singulier)">ueretrum</w>  
-        <w lemma="mitto(infinitif présent passif)">mitti</w> 
-        <w lemma="iubeo(1ère pluriel indicatif présent actif)">iubemus</w>    
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="mulier" pos="NOMcom" msd="Case=Abl|Numb=Plur">mulieribus</w>
+        <w lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+        <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+        <w lemma="pessulus" pos="ADJqua" msd="Case=Acc|Numb=Sing">pessulum</w>
+        <w lemma="oleum" pos="NOMcom" msd="Case=Abl|Numb=Sing">oleo</w>
+        <w lemma="calidus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">calido</w>
+        <w lemma="infundo2" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">infundentes</w>
+        <w lemma="sensim" pos="ADV" msd="Deg=Pos">sensim</w>
+        <w lemma="consexualis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">consexualibus</w>
+        <w lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">manibus</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="muliebris" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">muliebre</w>
+        <w lemma="uereter" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #aidoion">ueretrum</w>
+        <w lemma="mitto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">mitti</w>
+        <w lemma="iubeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">iubemus</w>
     </quote>
  </div>

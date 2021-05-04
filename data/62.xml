@@ -1,15 +1,18 @@
-<div type="fragment" corresp="adams:3"  ana="#male #anatomie">
+<div  type="fragment" corresp="adams:3" ana="#male #anatomie #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0969.phi001:35-36">
-        <w lemma="hic(nominatif masculin pluriel)">hi</w> 
-        <w lemma="mos(nominatif pluriel)|mos(vocatif pluriel)|mos(accusatif pluriel)|mores(nominatif pluriel)|mores(vocatif pluriel)|mores(accusatif pluriel)|moro(2ème singulier subjonctif présent actif)">mores</w>! 
-        <w lemma="penis(accusatif singulier)">penemque</w> 
-        <w lemma="arcanum(nominatif pluriel)|arcanum(vocatif pluriel)|arcanum(accusatif pluriel)|arcanus(nominatif féminin singulier)|arcanus(vocatif féminin singulier)|arcanus(ablatif féminin singulier)|arcanus(nominatif neutre pluriel)|arcanus(vocatif neutre pluriel)|arcanus(accusatif neutre pluriel)|Arcanum(nominatif pluriel)|Arcanum(vocatif pluriel)|Arcanum(accusatif pluriel)|Arcanus(nominatif féminin singulier)|Arcanus(vocatif féminin singulier)|Arcanus(ablatif féminin singulier)|Arcanus(nominatif neutre pluriel)|Arcanus(vocatif neutre pluriel)|Arcanus(accusatif neutre pluriel)">arcanaque</w> 
-        <w lemma="lumbus(génitif singulier)|lumbus(nominatif pluriel)|lumbus(vocatif pluriel)">lumbi</w>
-
-        <w lemma="runco(accusatif masculin singulier participe présent actif)|runco(accusatif féminin singulier participe présent actif)">runcantem</w> 
-        <w lemma="populo(1ère singulier indicatif présent actif)|populus(datif singulier)|populus(ablatif singulier)|populus(datif singulier)|populus(ablatif singulier)">populo</w> 
-        <w lemma="marceo(génitif masculin singulier participe présent actif)|marceo(génitif féminin singulier participe présent actif)|marceo(génitif neutre singulier participe présent actif)|marcens(génitif masculin singulier)|marcens(accusatif masculin pluriel)|marcens(génitif féminin singulier)|marcens(accusatif féminin pluriel)|marcens(génitif neutre singulier)">marcentis</w> 
-        <w lemma="pando(3ème pluriel indicatif parfait actif)|pando(infinitif présent actif)|pando(2ème singulier indicatif présent passif)|pando(2ème singulier indicatif futur passif)|pando(2ème singulier impératif présent passif)|pando(2ème singulier subjonctif présent passif)">pandere</w> 
-        <w lemma="vulva(accusatif pluriel)">uuluas</w>.     
+        <w lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Masc">hi</w>
+        <w lemma="mos" pos="NOMcom" msd="Case=Nom|Numb=Plur">mores</w>
+        <w lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+        <w lemma="penis" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #anatomie">penemque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{penemque}</w>
+        <w lemma="arcanum" pos="ADJqua" msd="Case=Acc|Numb=Plur|Deg=Pos">arcanaque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{arcanaque}</w>
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Gen|Numb=Sing">lumbi</w>
+        <w lemma="runco" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">runcantem</w>
+        <w lemma="populus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">populo</w>
+        <w lemma="marceo" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">marcentis</w>
+        <w lemma="pando2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">pandere</w>
+        <w lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Plur">uuluas</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

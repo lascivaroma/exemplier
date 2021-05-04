@@ -1,37 +1,40 @@
-<div type="fragment" corresp="adams:54"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:54" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1:8.177">
-        <w lemma="sion(génitif singulier)|si(-)">Si</w> 
-        <w lemma="qui(datif masculin singulier)|qui(datif féminin singulier)|qui(datif neutre singulier)|quis(datif masculin singulier)|quis(datif féminin singulier)|quis(datif neutre singulier)">cui</w> 
-        <w lemma="uolo(2ème singulier indicatif futur antérieur actif)|uolo(2ème singulier subjonctif parfait actif)|volvo(2ème singulier indicatif futur antérieur actif)|volvo(2ème singulier subjonctif parfait actif)|volvo(2ème singulier indicatif présent passif)|volvo(2ème singulier indicatif futur passif)">uolueris</w>
-      
-        <w lemma="pilus(accusatif pluriel)|Pilus(accusatif pluriel)|pilus(accusatif pluriel)">pilos</w> 
-        <w lemma="vello(accusatif masculin pluriel participe parfait passif)|vulsus(accusatif masculin pluriel)">uulsos</w> 
-        <w lemma="non(-)">non</w> 
-        <w lemma="Sol(génitif pluriel)|sol(génitif pluriel)|solum(nominatif singulier)|solum(vocatif singulier)|solum(accusatif singulier)|solus(accusatif masculin singulier)|solus(nominatif neutre singulier)|solus(vocatif neutre singulier)|solus(accusatif neutre singulier)|solus(accusatif singulier)|solum(-)">solum</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="oculus(datif pluriel)|oculus(ablatif pluriel)">oculis</w>, 
-        <w lemma="sed(-)|sed(-)">sed</w> 
-        <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiam</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="locum(datif pluriel)|locum(ablatif pluriel)|locus(datif pluriel)|locus(ablatif pluriel)|loca(datif pluriel)|loca(ablatif pluriel)">locis</w> 
-        <w lemma="verecundus(datif masculin pluriel comparatif)|verecundus(ablatif masculin pluriel comparatif)|verecundus(datif féminin pluriel comparatif)|verecundus(ablatif féminin pluriel comparatif)|verecundus(datif neutre pluriel comparatif)|verecundus(ablatif neutre pluriel comparatif)">uerecundioribus</w> 
-        <w lemma="non(-)">non</w> 
-        <w lemma="renascor(infinitif présent actif)">renasci</w>, 
-        <w lemma="lac(ablatif singulier)|lacte(nominatif singulier)|lacte(vocatif singulier)|lacte(accusatif singulier)|lacteo(2ème singulier impératif présent actif)|lactis(ablatif singulier)">lacte</w>
-      
-        <w lemma="mulier(génitif singulier)">mulieris</w> 
-        <w lemma="eo(1ère singulier indicatif présent actif)|is(ablatif masculin singulier)|is(ablatif neutre singulier)|Eus(datif singulier)|Eus(ablatif singulier)|Eus(datif masculin singulier)|Eus(ablatif masculin singulier)|Eus(datif neutre singulier)|Eus(ablatif neutre singulier)|eo(-)">eo</w> 
-        <w lemma="dies(ablatif singulier)|Dios(vocatif singulier)|dius(vocatif masculin singulier)|Dius(vocatif singulier)">die</w> 
-        <w lemma="expressus(datif masculin singulier)|expressus(ablatif masculin singulier)|expressus(datif neutre singulier)|expressus(ablatif neutre singulier)|exprimo(datif masculin singulier participe parfait passif)|exprimo(ablatif masculin singulier participe parfait passif)|exprimo(datif neutre singulier participe parfait passif)|exprimo(ablatif neutre singulier participe parfait passif)">expresso</w>, 
-        <w lemma="qui(ablatif masculin singulier)|qui(ablatif neutre singulier)|quis(ablatif masculin singulier)|quis(ablatif neutre singulier)|quo(-)">quo</w> 
-        <w lemma="pario(3ème singulier indicatif parfait actif)">peperit</w>, 
-        <w lemma="contingo(2ème singulier impératif présent actif)|contingo(2ème singulier impératif présent actif)">continge</w> 
-        <w lemma="crebre(comparatif)|creber(nominatif neutre singulier comparatif)|creber(vocatif neutre singulier comparatif)|creber(accusatif neutre singulier comparatif)">crebrius</w> 
-        <w lemma="loco(2ème singulier impératif présent actif)|locum(nominatif pluriel)|locum(vocatif pluriel)|locum(accusatif pluriel)|loca(nominatif pluriel)|loca(vocatif pluriel)|loca(accusatif pluriel)">loca</w>, 
-        <w lemma="de(-)">de</w> 
-        <w lemma="qui(datif masculin pluriel)|qui(ablatif masculin pluriel)|qui(datif féminin pluriel)|qui(ablatif féminin pluriel)|qui(datif neutre pluriel)|qui(ablatif neutre pluriel)|quis(datif masculin pluriel)|quis(ablatif masculin pluriel)|quis(datif féminin pluriel)|quis(ablatif féminin pluriel)|quis(datif neutre pluriel)|quis(ablatif neutre pluriel)">quibus</w> 
-        <w lemma="pilus(accusatif pluriel)|Pilus(accusatif pluriel)|pilus(accusatif pluriel)">pilos</w> 
-        <w lemma="fero(2ème singulier indicatif futur antérieur actif)|fero(2ème singulier subjonctif parfait actif)|tulo(2ème singulier indicatif présent passif)|tulo(2ème singulier indicatif futur passif)">tuleris</w>.
-           
+        <w lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+        <w lemma="quis2" pos="PROind" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
+        <w lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">uolueris</w>
+        <w lemma="pilus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">pilos</w>
+        <w lemma="uello" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">uulsos</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="solum2" pos="ADV" msd="Deg=Pos">solum</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="oculus" pos="NOMcom" msd="Case=Abl|Numb=Plur">oculis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+        <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
+        <w lemma="uerecundus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp" ana="#male #euphemisms #aidoion #mentula">uerecundioribus</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="renascor" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">renasci</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="lac" pos="NOMcom" msd="Case=Abl|Numb=Sing">lacte</w>
+        <w lemma="mulier" pos="NOMcom" msd="Case=Gen|Numb=Sing">mulieris</w>
+        <w lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eo</w>
+        <w lemma="dies" pos="NOMcom" msd="Case=Abl|Numb=Sing">die</w>
+        <w lemma="exprimo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">expresso</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui2" pos="ADVrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+        <w lemma="pario2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">peperit</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="contingo1" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">continge</w>
+        <w lemma="crebre" pos="ADV" msd="Deg=Comp">crebrius</w>
+        <w lemma="locus" pos="NOMcom" msd="Case=Acc|Numb=Plur">loca</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibus</w>
+        <w lemma="pilus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">pilos</w>
+        <w lemma="fero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2">tuleris</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

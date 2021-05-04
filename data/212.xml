@@ -1,26 +1,26 @@
-<div type="fragment" corresp="adams:50"  ana="#male #euphemisms #voisinage">
+<div type="fragment" corresp="adams:50" ana="#male #euphemisms #voisinage #remove">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:4.1.13">
-        <w lemma="ipse(nominatif féminin singulier)|ipse(ablatif féminin singulier)|ipse(nominatif neutre pluriel)|ipse(accusatif neutre pluriel)">ipsa</w> 
-        <w lemma="autem(-)">autem</w> 
-        <w lemma="ilia(nominatif pluriel)|ilia(vocatif pluriel)|ilia(accusatif pluriel)|ile(nominatif pluriel)|ile(vocatif pluriel)|ile(accusatif pluriel)|Ilia(nominatif singulier)|Ilia(vocatif singulier)|Ilia(ablatif singulier)|Ilium(nominatif pluriel)|Ilium(vocatif pluriel)|Ilium(accusatif pluriel)|Ilius(nominatif féminin singulier)|Ilius(vocatif féminin singulier)|Ilius(ablatif féminin singulier)|Ilius(nominatif neutre pluriel)|Ilius(vocatif neutre pluriel)|Ilius(accusatif neutre pluriel)|Ilion(nominatif pluriel)|Ilion(vocatif pluriel)|Ilion(accusatif pluriel)|ilium(nominatif pluriel)|ilium(vocatif pluriel)|ilium(accusatif pluriel)">ilia</w> 
-        <w lemma="inter(-)">inter</w> 
-        <w lemma="coxa(accusatif pluriel)">coxas</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="pubes(accusatif singulier)|pubis(accusatif singulier)">pubem</w> 
-        <w lemma="imum(datif singulier)|imum(ablatif singulier)|imus(datif masculin singulier)|imus(ablatif masculin singulier)|imus(datif neutre singulier)|imus(ablatif neutre singulier)|inferus(datif masculin singulier superlatif)|inferus(ablatif masculin singulier superlatif)|inferus(datif neutre singulier superlatif)|inferus(ablatif neutre singulier superlatif)|imo(positif)">imo</w> 
-        <w lemma="venter(ablatif singulier)">uentre</w> 
-        <w lemma="pono(nominatif féminin singulier participe parfait passif)|pono(vocatif féminin singulier participe parfait passif)|pono(ablatif féminin singulier participe parfait passif)|pono(nominatif neutre pluriel participe parfait passif)|pono(vocatif neutre pluriel participe parfait passif)|pono(accusatif neutre pluriel participe parfait passif)|positus(nominatif féminin singulier)|positus(vocatif féminin singulier)|positus(ablatif féminin singulier)|positus(nominatif neutre pluriel)|positus(vocatif neutre pluriel)|positus(accusatif neutre pluriel)">posita</w> 
-        <w lemma="sum(3ème pluriel indicatif présent actif)">sunt</w>, 
-        <w lemma="a(-)|a(-)|a(-)">a</w>
-
-        <w lemma="qui(datif masculin pluriel)|qui(ablatif masculin pluriel)|qui(datif féminin pluriel)|qui(ablatif féminin pluriel)|qui(datif neutre pluriel)|qui(ablatif neutre pluriel)|quis(datif masculin pluriel)|quis(ablatif masculin pluriel)|quis(datif féminin pluriel)|quis(ablatif féminin pluriel)|quis(datif neutre pluriel)|quis(ablatif neutre pluriel)">quibus</w> 
-        <w lemma="ac(-)">ac</w> 
-        <w lemma="pubes(ablatif singulier)|pubis(ablatif singulier)">pube</w> 
-        <w lemma="abdomen(accusatif singulier)|abdomen(nominatif singulier)|abdomen(vocatif singulier)">abdomen</w> 
-        <w lemma="sursum(-)">sursum</w> 
-        <w lemma="verro(nominatif masculin singulier participe parfait passif)|versus(nominatif singulier)|versus(vocatif singulier)|versus(génitif singulier)|versus(nominatif pluriel)|versus(vocatif pluriel)|versus(accusatif pluriel)|verto(nominatif masculin singulier participe parfait passif)|vorro(nominatif masculin singulier participe parfait passif)|versus(-)">uersus</w> 
-        <w lemma="ad(-)">ad</w> 
-        <w lemma="praecordia(nominatif pluriel)|praecordia(vocatif pluriel)|praecordia(accusatif pluriel)|praecordium(nominatif pluriel)|praecordium(vocatif pluriel)|praecordium(accusatif pluriel)">praecordia</w> 
-        <w lemma="pervenio(3ème singulier indicatif parfait actif)|pervenio(3ème singulier indicatif présent actif)">peruenit</w>    
+        <w lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Neut">ipsa</w>
+        <w lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+        <w lemma="ilia" pos="NOMcom" msd="Case=Nom|Numb=Plur|Gend=Neut">ilia</w>
+        <w lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+        <w lemma="coxa" pos="NOMcom" msd="Case=Acc|Numb=Plur">coxas</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="pubes1" pos="NOMcom" msd="Case=Acc|Numb=Sing">pubem</w>
+        <w lemma="inferus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Sup">imo</w>
+        <w lemma="uenter" pos="NOMcom" msd="Case=Abl|Numb=Sing">uentre</w>
+        <w lemma="pono" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">posita</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibus</w>
+        <w lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+        <w lemma="pubes1" pos="NOMcom" msd="Case=Abl|Numb=Sing">pube</w>
+        <w lemma="abdomen" pos="NOMcom" msd="Case=Nom|Numb=Sing">abdomen</w>
+        <w lemma="sursum" pos="ADV" msd="Deg=Pos">sursum</w>
+        <w lemma="uersus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">uersus</w>
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+        <w lemma="praecordia" pos="NOMcom" msd="Case=Acc|Numb=Plur">praecordia</w>
+        <w lemma="peruenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">peruenit</w>
     </quote>
  </div>

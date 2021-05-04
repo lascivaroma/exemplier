@@ -1,7 +1,7 @@
-<div type="fragment" corresp="adams:49"  ana="#male #euphemisms #voisinage">
+<div  type="fragment" corresp="adams:49" ana="#male #euphemisms #voisinage  #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:8.26">
-        <w lemma="defectus(datif masculin pluriel)|defectus(ablatif masculin pluriel)|defectus(datif féminin pluriel)|defectus(ablatif féminin pluriel)|defectus(datif neutre pluriel)|defectus(ablatif neutre pluriel)|deficio(datif masculin pluriel participe parfait passif)|deficio(ablatif masculin pluriel participe parfait passif)|deficio(datif féminin pluriel participe parfait passif)|deficio(ablatif féminin pluriel participe parfait passif)|deficio(datif neutre pluriel participe parfait passif)|deficio(ablatif neutre pluriel participe parfait passif)|defecti(datif pluriel)|defecti(ablatif pluriel)">defectis</w> 
-        <w lemma="Ia(accusatif singulier)|jam(-)">iam</w> 
-        <w lemma="later(datif pluriel)|later(ablatif pluriel)|latus(datif pluriel)|latus(ablatif pluriel)">lateribus</w>    
+        <w lemma="deficio" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">defectis</w>
+        <w lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+        <w lemma="latus1" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#male #euphemisms #voisinage  #mentula">lateribus</w>
     </quote>
  </div>

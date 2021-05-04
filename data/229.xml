@@ -1,18 +1,19 @@
-<div type="fragment" corresp="adams:52"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:52" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0159.stoa004.thayer-lat1:11.1.103">
-        <w lemma="idem(nominatif masculin singulier)|idem(nominatif neutre singulier)|idem(accusatif neutre singulier)">idem</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="ueretrum(nominatif singulier)|ueretrum(vocatif singulier)|ueretrum(accusatif singulier)">ueretrum</w>, 
-        <w lemma="quia(-)">quia</w> 
-        <w lemma="uir(génitif singulier)|uir(nominatif pluriel)|uir(vocatif pluriel)|uirus(génitif singulier)|Uirius(vocatif singulier)|Uirius(génitif singulier)|Uirius(nominatif pluriel)|Uirius(vocatif pluriel)">uiri</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w>
-
-        <w lemma="tantus(accusatif masculin singulier)|tantus(nominatif neutre singulier)|tantus(vocatif neutre singulier)|tantus(accusatif neutre singulier)|tantum(nominatif singulier)|tantum(vocatif singulier)|tantum(accusatif singulier)|tantum(-)">tantum</w>, 
-        <w lemma="siue(-)|sion(génitif singulier)|si(-)">siue</w> 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="ex(-)">ex</w> 
-        <w lemma="eo(1ère singulier indicatif présent actif)|is(ablatif masculin singulier)|is(ablatif neutre singulier)|Eus(datif singulier)|Eus(ablatif singulier)|Eus(datif masculin singulier)|Eus(ablatif masculin singulier)|Eus(datif neutre singulier)|Eus(ablatif neutre singulier)|eo(-)">eo</w> 
-        <w lemma="uirus(vocatif singulier)|uirus(accusatif singulier)|uirus(nominatif singulier)">uirus</w> 
-        <w lemma="emitto(3ème singulier indicatif présent passif)">emittitur</w>    
+        <w lemma="idem" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=MascNeut">idem</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="uereter" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #euphemisms #aidoion #mentula">ueretrum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+        <w lemma="uir" pos="NOMcom" msd="Case=Gen|Numb=Sing">uiri</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="tantum2" pos="ADV" msd="Deg=Pos">tantum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="siue1" pos="CONcoo" msd="MORPH=empty">siue</w>
+        <w lemma="quod2" pos="CONsub" msd="Case=Nom">quod</w>
+        <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+        <w lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eo</w>
+        <w lemma="uirus" pos="NOMcom" msd="Case=Nom|Numb=Sing">uirus</w>
+        <w lemma="emitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">emittitur</w>
     </quote>
  </div>

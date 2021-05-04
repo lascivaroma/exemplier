@@ -1,12 +1,14 @@
-<div type="fragment" corresp="adams:46"  ana="#male #specialisation #impotence">
+<div  type="fragment" corresp="adams:46" ana="#male #specialisation #impotence #euphemism">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi005.perseus-lat2:1.20.8">
-        <w lemma="in(-)">in</w> 
-        <w lemma="breue(nominatif singulier)|breue(vocatif singulier)|breue(accusatif singulier)|brevis(nominatif neutre singulier)|brevis(vocatif neutre singulier)|brevis(accusatif neutre singulier)|breuis(ablatif singulier)|breuis(ablatif singulier)">breve</w> 
-        <w lemma="tu(accusatif masculin singulier)|tu(ablatif masculin singulier)|tu(accusatif féminin singulier)|tu(ablatif féminin singulier)">te</w> 
-        <w lemma="cogo(infinitif présent passif)">cogi</w>, 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="plenus(nominatif masculin singulier)">plenus</w> 
-        <w lemma="langueo(3ème singulier indicatif présent actif)">languet</w> 
-        <w lemma="amo(2ème singulier impératif futur passif)|amo(3ème singulier impératif futur passif)|amator(nominatif singulier)|amator(vocatif singulier)">amator</w>.    
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="breuis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">breve</w>
+        <w lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+        <w lemma="cogo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">cogi</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+        <w lemma="plenus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">plenus</w>
+        <w lemma="langueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" ana="#male #specialisation #impotence #euphemism">languet</w>
+        <w lemma="amator" pos="NOMcom" msd="Case=Nom|Numb=Sing">amator</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

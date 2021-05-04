@@ -1,8 +1,8 @@
-<div type="fragment" corresp="adams:47"  ana="#male #euphemisms #voisinage">
+<div  type="fragment" corresp="adams:47" ana="#male #euphemisms #voisinage  #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo013.perseus-lat2:44">
-        <w lemma="inguen(datif singulier)">inguini</w> 
-        <w lemma="ceu(-)">ceu</w> 
-        <w lemma="papilla(génitif singulier)|papilla(datif singulier)|papilla(nominatif pluriel)|papilla(vocatif pluriel)">papillae</w> 
-        <w lemma="admoveo(3ème singulier subjonctif imparfait actif)">admoueret</w>    
+        <w lemma="inguen" pos="NOMcom" msd="Case=Dat|Numb=Sing" ana="#male #euphemisms #voisinage">inguini</w>
+        <w lemma="ceu1" pos="ADVrel" msd="MORPH=empty">ceu</w>
+        <w lemma="papilla" pos="NOMcom" msd="Case=Dat|Numb=Sing">papillae</w>
+        <w lemma="admoueo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">admoueret</w>
     </quote>
  </div>

@@ -1,11 +1,12 @@
-<div type="fragment" corresp="adams:46"  ana="#male #specialisation #castration">
+<div  type="fragment" corresp="adams:46" ana="#female #specialisation #euphemism">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:18.2">
-        <w lemma="laxo(2ème singulier impératif présent actif)|laxus(nominatif féminin singulier)|laxus(vocatif féminin singulier)|laxus(ablatif féminin singulier)|laxus(nominatif neutre pluriel)|laxus(vocatif neutre pluriel)|laxus(accusatif neutre pluriel)">laxa</w> 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="esse(infinitif présent actif)|sum(infinitif présent actif)">esse</w> 
-        <w lemma="ego(datif masculin singulier)|ego(datif féminin singulier)">mihi</w> 
-        <w lemma="femen(nominatif pluriel)|femen(vocatif pluriel)|femen(accusatif pluriel)|femina(nominatif singulier)|femina(vocatif singulier)|femina(ablatif singulier)|femino(2ème singulier impératif présent actif)">femina</w> 
-        <w lemma="nullus(nominatif féminin singulier)|nullus(vocatif féminin singulier)|nullus(ablatif féminin singulier)|nullus(nominatif neutre pluriel)|nullus(vocatif neutre pluriel)|nullus(accusatif neutre pluriel)">nulla</w> 
-        <w lemma="possum(3ème singulier indicatif présent actif)|potis(nominatif neutre singulier)|potis(vocatif neutre singulier)|potis(accusatif neutre singulier)|poto(vocatif masculin singulier participe parfait passif)|potus(vocatif masculin singulier)|pote(-)">potest</w>.    
+        <w lemma="laxus" pos="ADJqua" msd="Numb=Sing|Gend=Fem|Deg=Pos|Mood=Imp|Tense=Pres|Voice=Act|Person=2" ana="#female #specialisation #euphemism">laxa</w>
+        <w lemma="quod2" pos="CONsub" msd="Case=Nom|Numb=Sing">quod</w>
+        <w lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+        <w lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+        <w lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">femina</w>
+        <w lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">nulla</w>
+        <w lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">potest</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

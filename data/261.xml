@@ -1,11 +1,13 @@
-<div type="fragment" corresp="adams:56"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:56" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo014.perseus-lat2:58">
-        <w lemma="repeto(2ème singulier impératif présent actif)">repete</w>!' 
-        <w lemma="quidam(nominatif masculin singulier)|quidam(nominatif masculin pluriel)">quidam</w> 
-        <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiam</w> 
-        <w lemma="per(-)">per</w> 
-        <w lemma="obscenus(nominatif féminin singulier)|obscenus(vocatif féminin singulier)|obscenus(ablatif féminin singulier)|obscenus(nominatif neutre pluriel)|obscenus(vocatif neutre pluriel)|obscenus(accusatif neutre pluriel)">obscaena</w> 
-        <w lemma="ferrum(nominatif singulier)|ferrum(vocatif singulier)|ferrum(accusatif singulier)">ferrum</w> 
-        <w lemma="adigo(3ème pluriel indicatif parfait actif)">adegerunt</w>    
+        <w lemma="repeto" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">repete</w>
+        <w lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+        <w lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+        <w lemma="quidam" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Masc">quidam</w>
+        <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+        <w lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+        <w lemma="obscena" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#male #euphemisms #aidoion">obscaena</w>
+        <w lemma="ferrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">ferrum</w>
+        <w lemma="adigo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">adegerunt</w>
     </quote>
  </div>

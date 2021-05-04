@@ -1,10 +1,11 @@
-<div type="fragment" corresp="adams:30"  ana="#male #personnification">
+<div  type="fragment" corresp="adams:30" ana="#male #personnification">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:3.75.6">
-        <w lemma="sic(-)">Sic</w> 
-        <w lemma="quisque(ablatif masculin singulier)|quisque(ablatif neutre singulier)|quoquo(2ème singulier impératif présent actif)|quoque(-)|qui(ablatif masculin singulier)|qui(ablatif neutre singulier)|quis(ablatif masculin singulier)|quis(ablatif neutre singulier)|quo(-)">quoque</w> 
-        <w lemma="non(-)">non</w> 
-        <w lemma="uiuo(3ème singulier indicatif présent actif)">vivit</w> 
-        <w lemma="sollicito(nominatif féminin singulier participe parfait passif)|sollicito(vocatif féminin singulier participe parfait passif)|sollicito(ablatif féminin singulier participe parfait passif)|sollicito(nominatif neutre pluriel participe parfait passif)|sollicito(vocatif neutre pluriel participe parfait passif)|sollicito(accusatif neutre pluriel participe parfait passif)|sollicitatus(nominatif féminin singulier)|sollicitatus(vocatif féminin singulier)|sollicitatus(ablatif féminin singulier)|sollicitatus(nominatif neutre pluriel)|sollicitatus(vocatif neutre pluriel)|sollicitatus(accusatif neutre pluriel)">sollicitata</w> 
-        <w lemma="uenus(nominatif singulier)|Uenus(nominatif singulier)|Uenus(vocatif singulier)|uenus(nominatif singulier)|uenus(vocatif singulier)">Venus</w>.     
+        <w lemma="sic" pos="ADV" msd="Deg=Pos">Sic</w>
+        <w lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="uiuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vivit</w>
+        <w lemma="sollicito" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" ana="#male #personnification">sollicitata</w>
+        <w lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#male #personnification">Venus</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

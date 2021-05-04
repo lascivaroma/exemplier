@@ -1,17 +1,20 @@
-<div type="fragment" corresp="adams:40"  ana="#male #medical">
+<div  type="fragment" corresp="adams:40" ana="#male #medical #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi2349.phi007:1.151">
-        <w lemma="nes(accusatif singulier)|nam(-)">nam</w> 
-        <w lemma="proprie(positif)|proprius(vocatif masculin singulier)">proprie</w> 
-        <w lemma="Robigus(datif singulier)|Robigus(ablatif singulier)|Robigo(nominatif singulier)|Robigo(vocatif singulier)|rubigo(nominatif singulier)|rubigo(vocatif singulier)">robigo</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w>, 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="Varro(nominatif singulier)|Varro(vocatif singulier)|varro(nominatif singulier)|varro(vocatif singulier)">Varro</w> 
-        <w lemma="dico(3ème singulier indicatif présent actif)">dicit</w>, 
-        <w lemma="vitis(génitif pluriel)|vitium(nominatif singulier)|vitium(vocatif singulier)|vitium(accusatif singulier)">uitium</w> 
-        <w lemma="obscenus(génitif féminin singulier)|obscenus(datif féminin singulier)|obscenus(nominatif féminin pluriel)|obscenus(vocatif féminin pluriel)">obscenae</w> 
-        <w lemma="libido(génitif singulier)">libidinis</w>, 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="ulcus(accusatif singulier)|ulcus(nominatif singulier)|ulcus(vocatif singulier)">ulcus</w> 
-        <w lemma="uoco(3ème singulier indicatif présent passif)">uocatur</w>    
+        <w lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+        <w lemma="proprie" pos="ADV" msd="Deg=Pos">proprie</w>
+        <w lemma="robigo" pos="NOMcom" msd="Case=Nom|Numb=Sing">robigo</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+        <w lemma="Uarro" pos="NOMpro" msd="Case=Nom|Numb=Sing">Varro</w>
+        <w lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dicit</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="uitium" pos="NOMcom" msd="Case=Acc|Numb=Sing">uitium</w>
+        <w lemma="obscenus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">obscenae</w>
+        <w lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+        <w lemma="ulcus" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #medical #metaphore #mentula">ulcus</w>
+        <w lemma="uoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">uocatur</w>
     </quote>
  </div>

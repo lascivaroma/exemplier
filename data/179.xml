@@ -1,20 +1,20 @@
-<div type="fragment" corresp="adams:47"  ana="#male #euphemisms #voisinage">
+<div  type="fragment" corresp="adams:47" ana="#male #euphemisms #voisinage  #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo016.perseus-lat2:29">
-        <w lemma="qui(ablatif masculin singulier)|qui(ablatif neutre singulier)|quis(ablatif masculin singulier)|quis(ablatif neutre singulier)|quo(-)">quo</w> 
-        <w lemma="fera(génitif singulier)|fera(datif singulier)|fera(nominatif pluriel)|fera(vocatif pluriel)|ferus(génitif féminin singulier)|ferus(datif féminin singulier)|ferus(nominatif féminin pluriel)|ferus(vocatif féminin pluriel)">ferae</w> 
-        <w lemma="pellis(ablatif singulier)|pello(2ème singulier impératif présent actif)|Pelle(nominatif singulier)|Pelle(vocatif singulier)|Pelle(ablatif singulier)">pelle</w> 
-        <w lemma="contego(nominatif masculin singulier participe parfait passif)|contectus(nominatif masculin singulier)">contectus</w> 
-        <w lemma="emitto(3ème singulier subjonctif imparfait passif)">emitteretur</w> 
-        <w lemma="Megisto(ablatif singulier)|e(-)">e</w> 
-        <w lemma="cauea(nominatif singulier)|cauea(vocatif singulier)|cauea(ablatif singulier)">cauea</w> 
-        <w lemma="uir(génitif pluriel)|uiror(génitif pluriel)">uirorumque</w> 
-        <w lemma="ac(-)">ac</w> 
-        <w lemma="femina(génitif pluriel)">feminarum</w> 
-        <w lemma="ad(-)">ad</w> 
-        <w lemma="stipes(accusatif singulier)">stipitem</w>
-
-        <w lemma="deligo(génitif masculin pluriel participe parfait passif)|deligo(génitif neutre pluriel participe parfait passif)|deligatus(génitif masculin pluriel)|deligatus(génitif neutre pluriel)">deligatorum</w> 
-        <w lemma="inguen(nominatif pluriel)|inguen(vocatif pluriel)|inguen(accusatif pluriel)|inguina(nominatif singulier)|inguina(vocatif singulier)|inguina(ablatif singulier)">inguina</w> 
-        <w lemma="invado(3ème singulier subjonctif imparfait actif)">inuaderet</w>    
+        <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+        <w lemma="fera" pos="ADJqua" msd="Case=Gen|Numb=Sing">ferae</w>
+        <w lemma="pellis" pos="NOMcom" msd="Case=Abl|Numb=Sing">pelle</w>
+        <w lemma="contego" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">contectus</w>
+        <w lemma="emitto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">emitteretur</w>
+        <w lemma="ex" pos="PRE" msd="MORPH=empty">e</w>
+        <w lemma="cauea" pos="NOMcom" msd="Case=Abl|Numb=Sing">cauea</w>
+        <w lemma="uir" pos="NOMcom" msd="Case=Gen|Numb=Plur">uirorumque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{uirorumque}</w>
+        <w lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+        <w lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Plur">feminarum</w>
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+        <w lemma="stipes" pos="NOMcom" msd="Case=Acc|Numb=Sing">stipitem</w>
+        <w lemma="deligo3" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=MascNeut">deligatorum</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #euphemisms #voisinage">inguina</w>
+        <w lemma="inuado2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">inuaderet</w>
     </quote>
  </div>

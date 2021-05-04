@@ -1,8 +1,8 @@
-<div type="fragment" corresp="adams:30"  ana="#male #personnification">
+<div  type="fragment" corresp="adams:30" ana="#male #personnification">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001:132.8">
-        <w lemma="mentula(nominatif singulier)|mentula(vocatif singulier)|mentula(ablatif singulier)">mentula</w>) 
-        <w lemma="confugio(3ème singulier indicatif PQP actif)">confugerat</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="viscus(nominatif pluriel)|viscus(vocatif pluriel)|viscus(accusatif pluriel)|viscera(nominatif pluriel)|viscera(vocatif pluriel)|viscera(accusatif pluriel)|viscera(accusatif singulier)|viscera(nominatif singulier)|viscera(vocatif singulier)">uiscera</w>    
+        <w lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #personnification">mentula</w>
+        <w lemma="confugio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3" ana="#male #personnification">confugerat</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="uiscus2" pos="NOMcom" msd="Case=Acc|Numb=Plur">uiscera</w>
     </quote>
  </div>

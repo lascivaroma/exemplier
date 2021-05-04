@@ -1,17 +1,20 @@
-<div type="fragment" corresp="adams:30"  ana="#male #personnification">
+<div  type="fragment" corresp="adams:30" ana="#male #personnification">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:3.73.1-3.73.2">
-        <w lemma="dormio(2ème singulier indicatif présent actif)">Dormis</w> 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="puer(datif pluriel)|puer(ablatif pluriel)|puerus(datif masculin pluriel)|puerus(ablatif masculin pluriel)|puerus(datif féminin pluriel)|puerus(ablatif féminin pluriel)|puerus(datif neutre pluriel)|puerus(ablatif neutre pluriel)|puera(datif pluriel)|puera(ablatif pluriel)">pueris</w> 
-        <w lemma="">mutuniatis</w>,  
-        <w lemma="et(-)">Et</w> 
-        <w lemma="non(-)">non</w> 
-        <w lemma="sto(3ème singulier indicatif présent actif)">stat</w> 
-        <w lemma="tu(datif masculin singulier)|tu(datif féminin singulier)">tibi</w>, 
-        <w lemma="Gallus(vocatif masculin singulier)|Gallus(vocatif singulier)|gallus(vocatif singulier)">Galle</w>, 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="sto(3ème singulier indicatif présent actif)">stat</w> 
-        <w lemma="ille(datif masculin pluriel)|ille(ablatif masculin pluriel)|ille(datif féminin pluriel)|ille(ablatif féminin pluriel)|ille(datif neutre pluriel)|ille(ablatif neutre pluriel)">illis</w>. 
-                            
+        <w lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">Dormis</w>
+        <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+        <w lemma="puer" pos="NOMcom" msd="Case=Abl|Numb=Plur">pueris</w>
+        <w lemma="mutoniatus" pos="VER" msd="Numb=Plur|Gend=Com|Mood=Ind|Tense=Pres|Voice=Act">mutuniatis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="sto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" ana="#male #personnification">stat</w>
+        <w lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="Gallus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Galle</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+        <w lemma="sto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">stat</w>
+        <w lemma="ille" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">illis</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

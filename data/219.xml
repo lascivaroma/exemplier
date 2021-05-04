@@ -1,21 +1,25 @@
-<div type="fragment" corresp="adams:51"  ana="#male #euphemisms #voisinage #reproduction">
+<div  type="fragment" corresp="adams:51" ana="#euphemisms #voisinage #reproduction">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0660.phi001.perseus-lat2:1.8.24-1.8.26">
-        <w lemma="forma(nominatif singulier)|forma(vocatif singulier)|forma(ablatif singulier)|formo(2ème singulier impératif présent actif)|formus(nominatif féminin singulier)|formus(vocatif féminin singulier)|formus(ablatif féminin singulier)|formus(nominatif neutre pluriel)|formus(vocatif neutre pluriel)|formus(accusatif neutre pluriel)">Forma</w> 
-        <w lemma="nihil(nominatif neutre singulier)|nihil(accusatif neutre singulier)">nihil</w> 
-        <w lemma="magicus(datif masculin pluriel)|magicus(ablatif masculin pluriel)|magicus(datif féminin pluriel)|magicus(ablatif féminin pluriel)|magicus(datif neutre pluriel)|magicus(ablatif neutre pluriel)|magice(datif pluriel)|magice(ablatif pluriel)">magicis</w> 
-        <w lemma="utor(3ème singulier indicatif présent actif)|uto(3ème singulier indicatif présent passif)">utitur</w> 
-        <w lemma="auxilium(datif pluriel)|auxilium(ablatif pluriel)|Auxilium(datif pluriel)|Auxilium(ablatif pluriel)">auxiliis</w>: 
-        <w lemma="sed(-)|sed(-)">Sed</w> 
-        <w lemma="corpus(accusatif singulier)|corpus(nominatif singulier)|corpus(vocatif singulier)">corpus</w> 
-        <w lemma="tango(infinitif parfait actif)">tetigisse</w> 
-        <w lemma="noceo(3ème singulier indicatif présent actif)">nocet</w>, 
-        <w lemma="sed(-)|sed(-)">sed</w> 
-        <w lemma="longus(nominatif féminin singulier)|longus(vocatif féminin singulier)|longus(ablatif féminin singulier)|longus(nominatif neutre pluriel)|longus(vocatif neutre pluriel)|longus(accusatif neutre pluriel)|longo(2ème singulier impératif présent actif)">longa</w> 
-        <w lemma="do(infinitif parfait actif)">dedisse</w>               
-        <w lemma="osculo(2ème singulier impératif présent actif)|osculum(nominatif pluriel)|osculum(vocatif pluriel)|osculum(accusatif pluriel)">Oscula</w>, 
-        <w lemma="sed(-)|sed(-)">sed</w> 
-        <w lemma="femur(datif singulier)">femori</w> 
-        <w lemma="consero(infinitif parfait actif)">conseruisse</w> 
-        <w lemma="for(1ère pluriel subjonctif présent actif)|femur(accusatif singulier)|femur(nominatif singulier)|femur(vocatif singulier)">femur</w>.    
+        <w lemma="forma" pos="NOMcom" msd="Case=Nom|Numb=Sing">Forma</w>
+        <w lemma="nihil" pos="PROind" msd="Case=Ind">nihil</w>
+        <w lemma="magicus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">magicis</w>
+        <w lemma="utor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">utitur</w>
+        <w lemma="auxilium" pos="NOMcom" msd="Case=Abl|Numb=Plur">auxiliis</w>
+        <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+        <w lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+        <w lemma="corpus" pos="NOMcom" msd="Case=Acc|Numb=Sing">corpus</w>
+        <w lemma="tango" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">tetigisse</w>
+        <w lemma="noceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">nocet</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+        <w lemma="longus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">longa</w>
+        <w lemma="do" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">dedisse</w>
+        <w lemma="osculum" pos="NOMcom" msd="Case=Acc|Numb=Plur">Oscula</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+        <w lemma="femur" pos="NOMcom" msd="Case=Dat|Numb=Sing">femori</w>
+        <w lemma="consero2" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">conseruisse</w>
+        <w lemma="femur" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #voisinage #reproduction #mentula">femur</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

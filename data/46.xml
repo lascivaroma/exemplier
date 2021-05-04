@@ -1,39 +1,43 @@
-<div type="fragment" corresp="adams:34"  ana="#male #animal">
+<div type="fragment" corresp="adams:34" ana="#male #animal  #mentula #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:105-109">
-        <w lemma="ramus(accusatif singulier)">ramum</w>, 
-        <w lemma="qui(nominatif masculin singulier)|qui(nominatif masculin pluriel)|quis(nominatif masculin pluriel)|queo(2ème singulier impératif présent actif)|queo(1ère singulier indicatif parfait actif)|qui(-)">qui</w> 
-        <w lemma="vestis(ablatif singulier)">veste</w> 
-        <w lemma="lateo(3ème singulier indicatif imparfait actif)">latebat</w>, 
-                     
-        <w lemma="sanguineus(datif masculin pluriel)|sanguineus(ablatif masculin pluriel)|sanguineus(datif féminin pluriel)|sanguineus(ablatif féminin pluriel)|sanguineus(datif neutre pluriel)|sanguineus(ablatif neutre pluriel)">sanguineis</w> 
-        <w lemma="ebulum(génitif singulier)|ebulus(génitif singulier)|ebulus(nominatif pluriel)|ebulus(vocatif pluriel)">ebuli</w> 
-        <w lemma="baca(datif pluriel)|baca(ablatif pluriel)|Baca(datif pluriel)|Baca(ablatif pluriel)|Bacis(accusatif pluriel)|Bacis(génitif singulier)|Bacis(nominatif singulier)|Bacis(vocatif singulier)|Bacis(nominatif singulier)|Bacis(vocatif singulier)">bacis</w> 
-        <w lemma="minium(datif singulier)|minium(ablatif singulier)|Minius(datif singulier)|Minius(ablatif singulier)|minio(1ère singulier indicatif présent actif)|minius(datif masculin singulier)|minius(ablatif masculin singulier)|minius(datif neutre singulier)|minius(ablatif neutre singulier)|Minio(nominatif singulier)|Minio(vocatif singulier)">minioque</w> 
-        <w lemma="rubeo(accusatif masculin singulier participe présent actif)|rubeo(accusatif féminin singulier participe présent actif)|rubens(accusatif masculin singulier)|rubens(accusatif féminin singulier)">rubentem</w>  
-                
-        <w lemma="nudo(2ème singulier impératif futur actif)|nudo(3ème singulier impératif futur actif)|nudo(datif masculin singulier participe parfait passif)|nudo(ablatif masculin singulier participe parfait passif)|nudo(datif neutre singulier participe parfait passif)|nudo(ablatif neutre singulier participe parfait passif)|nudatus(datif masculin singulier)|nudatus(ablatif masculin singulier)|nudatus(datif neutre singulier)|nudatus(ablatif neutre singulier)">nudato</w> 
-        <w lemma="capio(2ème pluriel impératif présent actif)|caput(ablatif singulier)|capud(ablatif singulier)">capite</w>   
-        <w lemma="et(-)">et</w> 
-        <w lemma="pedis(datif pluriel)|pedis(ablatif pluriel)|pes(datif pluriel)|pes(ablatif pluriel)">pedibus</w> 
-        <w lemma="per(-)">per</w> 
-        <w lemma="mutuum(nominatif pluriel)|mutuum(vocatif pluriel)|mutuum(accusatif pluriel)|mutuus(nominatif féminin singulier)|mutuus(vocatif féminin singulier)|mutuus(ablatif féminin singulier)|mutuus(nominatif neutre pluriel)|mutuus(vocatif neutre pluriel)|mutuus(accusatif neutre pluriel)|mutuo(2ème singulier impératif présent actif)">mutua</w> 
-        <w lemma="necto(datif masculin pluriel participe parfait passif)|necto(ablatif masculin pluriel participe parfait passif)|necto(datif féminin pluriel participe parfait passif)|necto(ablatif féminin pluriel participe parfait passif)|necto(datif neutre pluriel participe parfait passif)|necto(ablatif neutre pluriel participe parfait passif)|nexum(datif pluriel)|nexum(ablatif pluriel)|nexo(2ème singulier indicatif présent actif)|nexus(datif masculin pluriel)|nexus(ablatif masculin pluriel)|nexus(datif féminin pluriel)|nexus(ablatif féminin pluriel)|nexus(datif neutre pluriel)|nexus(ablatif neutre pluriel)">nexis</w>, 
-                
-        <w lemma="monstrum(nominatif singulier)|monstrum(vocatif singulier)|monstrum(accusatif singulier)">monstrum</w> 
-        <w lemma="horreo(gérondif accusatif)|horreo(accusatif masculin singulier adjectif verbal)|horreo(nominatif neutre singulier adjectif verbal)|horreo(vocatif neutre singulier adjectif verbal)|horreo(accusatif neutre singulier adjectif verbal)|horrendus(accusatif masculin singulier)|horrendus(nominatif neutre singulier)|horrendus(vocatif neutre singulier)|horrendus(accusatif neutre singulier)|horrendum(-)">horrendum</w>, 
-        <w lemma="informis(nominatif neutre singulier)|informis(vocatif neutre singulier)|informis(accusatif neutre singulier)">informe</w>, 
-        <w lemma="ingens(nominatif masculin singulier)|ingens(vocatif masculin singulier)|ingens(nominatif féminin singulier)|ingens(vocatif féminin singulier)">ingens</w>, 
-        <w lemma="qui(datif masculin singulier)|qui(datif féminin singulier)|qui(datif neutre singulier)|quis(datif masculin singulier)|quis(datif féminin singulier)|quis(datif neutre singulier)">cui</w> 
-        <w lemma="lumen(accusatif singulier)|lumen(nominatif singulier)|lumen(vocatif singulier)">lumen</w> 
-        <w lemma="adimo(supin en -um)|adimo(accusatif masculin singulier participe parfait passif)|adimo(nominatif neutre singulier participe parfait passif)|adimo(vocatif neutre singulier participe parfait passif)|adimo(accusatif neutre singulier participe parfait passif)|ademptus(accusatif masculin singulier)|ademptus(nominatif neutre singulier)|ademptus(vocatif neutre singulier)|ademptus(accusatif neutre singulier)">ademptum</w>, 
-                
-        <w lemma="eripio(3ème singulier indicatif présent actif)">eripit</w> 
-        <w lemma="a(-)|a(-)|a(-)">a</w> 
-        <w lemma="femur(ablatif singulier)">femore</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="trepido(datif masculin singulier participe présent actif)|trepido(datif féminin singulier participe présent actif)|trepido(datif neutre singulier participe présent actif)">trepidanti</w> 
-        <w lemma="fervidus(nominatif masculin singulier)">fervidus</w> 
-        <w lemma="insto(3ème singulier indicatif présent actif)">instat</w>. 
-                   
+        <w lemma="ramus" pos="NOMcom" msd="Case=Acc|Numb=Sing">ramum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+        <w lemma="uestis" pos="NOMcom" msd="Case=Abl|Numb=Sing">veste</w>
+        <w lemma="lateo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">latebat</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="sanguineus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">sanguineis</w>
+        <w lemma="ebulum" pos="NOMcom" msd="Case=Gen|Numb=Sing">ebuli</w>
+        <w lemma="bacca" pos="NOMcom" msd="Case=Abl|Numb=Plur">bacis</w>
+        <w lemma="minium" pos="ADJqua" msd="Case=Abl|Numb=Sing">minioque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{minioque}</w>
+        <w lemma="rubeo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem">rubentem</w>
+        <w lemma="nudo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">nudato</w>
+        <w lemma="caput" pos="NOMcom" msd="Case=Abl|Numb=Sing">capite</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="pes" pos="NOMcom" msd="Case=Abl|Numb=Plur">pedibus</w>
+        <w lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+        <w lemma="mutuus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">mutua</w>
+        <w lemma="necto" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">nexis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="monstrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">monstrum</w>
+        <w lemma="horrendus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">horrendum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="informis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">informe</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ingens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">ingens</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
+        <w lemma="lumen" pos="NOMcom" msd="Case=Nom|Numb=Sing">lumen</w>
+        <w lemma="adimo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">ademptum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="eripio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">eripit</w>
+        <w lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+        <w lemma="femur" pos="NOMcom" msd="Case=Abl|Numb=Sing">femore</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="trepido" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">trepidanti</w>
+        <w lemma="feruidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">fervidus</w>
+        <w lemma="insto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">instat</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

@@ -1,16 +1,25 @@
-<div type="fragment" corresp="adams:35"  ana="#male #anatomie">
+<div  type="fragment" corresp="adams:35" ana="#male #anatomie #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.phi002:Hor">
-        <w lemma="praeterea(-)">praeterea</w> 
-        <w lemma="saepe(positif)|saepes(ablatif singulier)|saepis(nominatif neutre singulier)|saepis(vocatif neutre singulier)|saepis(accusatif neutre singulier)">saepe</w> 
-        <w lemma="is(accusatif masculin singulier)|Eus(accusatif singulier)|Eus(accusatif masculin singulier)|Eus(nominatif neutre singulier)|Eus(vocatif neutre singulier)|Eus(accusatif neutre singulier)">eum</w> 
-        <w lemma="inter(-)">inter</w> 
-        <w lemma="alius(accusatif masculin pluriel)|Alii(accusatif pluriel)|Alius(accusatif masculin pluriel)|Alius(accusatif pluriel)">alios</w> 
-        <w lemma="iocus(accusatif pluriel)">iocos</w> ''
-        <w lemma="purus(accusatif masculin singulier superlatif)|purus(nominatif neutre singulier superlatif)|purus(vocatif neutre singulier superlatif)|purus(accusatif neutre singulier superlatif)">purissimum</w> 
-        <w lemma="penis(accusatif singulier)">penem</w>'' 
-        <w lemma="et(-)">et</w> ''
-        <w lemma="homuncio(accusatif singulier)">homuncionem</w> 
-        <w lemma="lepidus(accusatif masculin singulier superlatif)|lepidus(nominatif neutre singulier superlatif)|lepidus(vocatif neutre singulier superlatif)|lepidus(accusatif neutre singulier superlatif)">lepidissimum</w>'' 
-        <w lemma="appello(3ème singulier indicatif présent actif)|appello(3ème singulier subjonctif présent actif)">appellat</w>.    
+        <w lemma="praeterea" pos="ADV" msd="Deg=Pos">praeterea</w>
+        <w lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
+        <w lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eum</w>
+        <w lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+        <w lemma="alius" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Masc">alios</w>
+        <w lemma="iocus" pos="NOMcom" msd="Case=Acc|Numb=Plur">iocos</w>
+        <w lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+        <w lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+        <w lemma="purus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Sup">purissimum</w>
+        <w lemma="penis" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #anatomie">penem</w>
+        <w lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+        <w lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+        <w lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+        <w lemma="homuncio" pos="NOMcom" msd="Case=Acc|Numb=Sing">homuncionem</w>
+        <w lemma="lepidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Sup">lepidissimum</w>
+        <w lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+        <w lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+        <w lemma="appello1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">appellat</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

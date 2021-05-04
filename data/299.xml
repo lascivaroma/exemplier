@@ -1,19 +1,20 @@
-<div type="fragment" corresp="adams:58"  ana="#male #descriptive-functional">
+<div  type="fragment" corresp="adams:58" ana="#male #descriptive-functional #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:6.36.2">
-        <w lemma="nes(accusatif singulier)|nam(-)">Nam</w> 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="difficulter(positif)|difficulto(1ère singulier subjonctif présent passif)">difficulter</w> 
-        <w lemma="inicio(nominatif féminin singulier participe parfait passif)|inicio(vocatif féminin singulier participe parfait passif)|inicio(ablatif féminin singulier participe parfait passif)|inicio(nominatif neutre pluriel participe parfait passif)|inicio(vocatif neutre pluriel participe parfait passif)|inicio(accusatif neutre pluriel participe parfait passif)|injicio(nominatif féminin singulier participe parfait passif)|injicio(vocatif féminin singulier participe parfait passif)|injicio(ablatif féminin singulier participe parfait passif)|injicio(nominatif neutre pluriel participe parfait passif)|injicio(vocatif neutre pluriel participe parfait passif)|injicio(accusatif neutre pluriel participe parfait passif)|injecto(2ème singulier impératif présent actif)|injectus(nominatif féminin singulier)|injectus(vocatif féminin singulier)|injectus(ablatif féminin singulier)|injectus(nominatif neutre pluriel)|injectus(vocatif neutre pluriel)|injectus(accusatif neutre pluriel)">iniecta</w> 
-        <w lemma="genitale(datif pluriel)|genitale(ablatif pluriel)|Genitalis(datif pluriel)|Genitalis(ablatif pluriel)|genitalis(datif masculin pluriel)|genitalis(ablatif masculin pluriel)|genitalis(datif féminin pluriel)|genitalis(ablatif féminin pluriel)|genitalis(datif neutre pluriel)|genitalis(ablatif neutre pluriel)">genitalibus</w> 
-        <w lemma="locum(datif pluriel)|locum(ablatif pluriel)|locus(datif pluriel)|locus(ablatif pluriel)|loca(datif pluriel)|loca(ablatif pluriel)">locis</w> 
-        <w lemma="animo(3ème pluriel subjonctif présent passif)">animentur</w> 
-        <w lemma="semen(nominatif pluriel)|semen(vocatif pluriel)|semen(accusatif pluriel)|semino(2ème singulier impératif présent actif)">semina</w>, 
-        <w lemma="tum(-)">tum</w> 
-        <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiam</w> 
-        <w lemma="concipio(nominatif féminin singulier participe parfait passif)|concipio(vocatif féminin singulier participe parfait passif)|concipio(ablatif féminin singulier participe parfait passif)|concipio(nominatif neutre pluriel participe parfait passif)|concipio(vocatif neutre pluriel participe parfait passif)|concipio(accusatif neutre pluriel participe parfait passif)|concepta(nominatif pluriel)|concepta(vocatif pluriel)|concepta(accusatif pluriel)|concepto(2ème singulier impératif présent actif)|conceptum(nominatif pluriel)|conceptum(vocatif pluriel)|conceptum(accusatif pluriel)">concepta</w> 
-        <w lemma="diutius(comparatif)|diutius(positif)">diutius</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="pario(supin en -um)|pario(accusatif masculin singulier participe parfait passif)|pario(nominatif neutre singulier participe parfait passif)|pario(vocatif neutre singulier participe parfait passif)|pario(accusatif neutre singulier participe parfait passif)|partus(accusatif singulier)|partus(accusatif masculin singulier)|partus(nominatif neutre singulier)|partus(vocatif neutre singulier)|partus(accusatif neutre singulier)">partum</w> 
-        <w lemma="adolesco(3ème pluriel indicatif présent actif)|adolesco(3ème pluriel indicatif présent actif)">adolescunt</w>    
+        <w lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
+        <w lemma="cum3" pos="CONsub" msd="Deg=Pos">cum</w>
+        <w lemma="difficulter" pos="ADV" msd="Deg=Pos">difficulter</w>
+        <w lemma="inicio" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">iniecta</w>
+        <w lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#male #descriptive-functional">genitalibus</w>
+        <w lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#male #descriptive-functional #euphemism #mentula">locis</w>
+        <w lemma="animo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">animentur</w>
+        <w lemma="semen1" pos="NOMcom" msd="Case=Nom|Numb=Plur">semina</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>
+        <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+        <w lemma="concipio" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">concepta</w>
+        <w lemma="diu" pos="ADV" msd="Deg=Comp">diutius</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="partus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">partum</w>
+        <w lemma="adolesco1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">adolescunt</w>
     </quote>
  </div>

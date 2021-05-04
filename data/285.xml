@@ -1,17 +1,15 @@
-<div type="fragment" corresp="adams:57"  ana="#male #euphemisms #abstracts">
+<div  type="fragment" corresp="adams:57" ana="#male #euphemisms #abstracts #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi017.perseus-lat2:5">
-        <w lemma="quis(nominatif masculin singulier)|queo(2ème singulier indicatif présent actif)">quis</w> 
-        <w lemma="enim(-)">enim</w> 
-        <w lemma="fero(infinitif présent actif)">ferre</w> 
-        <w lemma="possum(3ème singulier subjonctif imparfait actif)">posset</w> 
-        <w lemma="princeps(accusatif singulier)|princeps(accusatif masculin singulier)|princeps(accusatif féminin singulier)|Princeps(accusatif singulier)|principo(1ère singulier subjonctif présent actif)">principem</w> 
-        <w lemma="per(-)">per</w>
- 
-
-        <w lemma="cuncti(vocatif neutre pluriel)|cuncti(accusatif neutre pluriel)|cunctus(nominatif féminin singulier)|cunctus(vocatif féminin singulier)|cunctus(ablatif féminin singulier)|cunctus(nominatif neutre pluriel)|cunctus(vocatif neutre pluriel)|cunctus(accusatif neutre pluriel)|cuncto(2ème singulier impératif présent actif)">cuncta</w> 
-        <w lemma="cauo(2ème singulier impératif présent actif)|cauum(nominatif pluriel)|cauum(vocatif pluriel)|cauum(accusatif pluriel)|cauus(nominatif féminin singulier)|cauus(vocatif féminin singulier)|cauus(ablatif féminin singulier)|cauus(nominatif neutre pluriel)|cauus(vocatif neutre pluriel)|cauus(accusatif neutre pluriel)|caua(nominatif singulier)|caua(vocatif singulier)|caua(ablatif singulier)">cava</w> 
-        <w lemma="corpus(génitif singulier)">corporis</w> 
-        <w lemma="libido(accusatif singulier)">libidinem</w> 
-        <w lemma="recipio(accusatif masculin singulier participe présent actif)|recipio(accusatif féminin singulier participe présent actif)">recipientem</w>    
+        <w lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=MascFem">quis</w>
+        <w lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+        <w lemma="fero" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ferre</w>
+        <w lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">posset</w>
+        <w lemma="princeps1" pos="NOMcom" msd="Case=Acc|Numb=Sing">principem</w>
+        <w lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+        <w lemma="cunctus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">cuncta</w>
+        <w lemma="cauus2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">cava</w>
+        <w lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
+        <w lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #abstracts">libidinem</w>
+        <w lemma="recipio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">recipientem</w>
     </quote>
  </div>

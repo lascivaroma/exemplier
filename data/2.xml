@@ -1,13 +1,14 @@
-<div type="fragment" corresp="adams:29"  ana="#male #personnification">
+<div  type="fragment" corresp="adams:29" ana="#male #personnification">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.58.3">
-        <w lemma="hic(ablatif masculin singulier)|hic(nominatif neutre singulier)|hic(accusatif neutre singulier)|hic(ablatif neutre singulier)|hoc(-)">Hoc</w> 
-        <w lemma="doleo(3ème singulier indicatif présent actif)|dolo(3ème singulier subjonctif présent actif)">dolet</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="queror(3ème singulier indicatif présent actif)">queritur</w> 
-        <w lemma="de(-)">de</w> 
-        <w lemma="ego(accusatif masculin singulier)|ego(ablatif masculin singulier)|ego(accusatif féminin singulier)|ego(ablatif féminin singulier)">me</w> 
-        <w lemma="meo(2ème singulier impératif présent actif)|meum(nominatif pluriel)|meum(vocatif pluriel)|meum(accusatif pluriel)|meus(nominatif féminin singulier)|meus(vocatif féminin singulier)|meus(ablatif féminin singulier)|meus(nominatif neutre pluriel)|meus(vocatif neutre pluriel)|meus(accusatif neutre pluriel)|Meum(nominatif pluriel)|Meum(vocatif pluriel)|Meum(accusatif pluriel)|meum(nominatif pluriel)|meum(vocatif pluriel)|meum(accusatif pluriel)">mea</w> 
-        <w lemma="mentula(nominatif singulier)|mentula(vocatif singulier)|mentula(ablatif singulier)">mentula</w> 
-        <w lemma="secum(ablatif masculin singulier)|secum(ablatif féminin singulier)|secum(ablatif neutre singulier)">secum</w>     
+        <w lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">Hoc</w>
+        <w lemma="doleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dolet</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="queror" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3" ana="#male #personnification">queritur</w>
+        <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">me</w>
+        <w lemma="meus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">mea</w>
+        <w lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #personnification">mentula</w>
+        <w lemma="sui" pos="PROref" msd="Case=Abl|Numb=Sing">secum</w>
+        <w lemma="cum3" pos="CON" msd="MORPH=empty">{secum}</w>
     </quote>
  </div>

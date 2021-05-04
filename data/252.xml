@@ -1,13 +1,13 @@
-<div type="fragment" corresp="adams:55"  ana="#male #euphemisms #aidoion">
+<div  type="fragment" corresp="adams:55" ana="#male #euphemisms #aidoion #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi002.perseus-lat2:12">
-        <w lemma="ad(-)">ad</w> 
-        <w lemma="Honor(nominatif pluriel)|Honor(vocatif pluriel)|Honor(accusatif pluriel)|honor(nominatif pluriel)|honor(vocatif pluriel)|honor(accusatif pluriel)|honoro(2ème singulier subjonctif présent actif)|Honos(nominatif pluriel)|Honos(vocatif pluriel)|Honos(accusatif pluriel)">honores</w> 
-        <w lemma="reliquus(accusatif masculin pluriel)">reliquos</w> 
-        <w lemma="promoueo(3ème singulier indicatif parfait actif)">promouit</w> 
-        <w lemma="commendatus(accusatif masculin pluriel)|commendo(accusatif masculin pluriel participe parfait passif)">commendatos</w> 
-        <w lemma="se(datif masculin singulier)|se(datif masculin pluriel)|se(datif féminin singulier)|se(datif féminin pluriel)|se(datif neutre singulier)|se(datif neutre pluriel)|sibus(génitif masculin singulier)|sibus(nominatif masculin pluriel)|sibus(vocatif masculin pluriel)|sibus(génitif neutre singulier)|Sibi(-)">sibi</w> 
-        <w lemma="pudibilis(génitif masculin pluriel)|pudibilis(génitif féminin pluriel)|pudibilis(génitif neutre pluriel)">pudibilium</w> 
-        <w lemma="enormitas(ablatif singulier)">enormitate</w> 
-        <w lemma="membrum(génitif pluriel)">membrorum</w>    
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+        <w lemma="honor" pos="NOMcom" msd="Case=Acc|Numb=Plur">honores</w>
+        <w lemma="reliquus" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Masc">reliquos</w>
+        <w lemma="promoueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">promouit</w>
+        <w lemma="commendo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">commendatos</w>
+        <w lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+        <w lemma="pudibilis" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos" ana="#male #euphemisms #aidoion #mentula">pudibilium</w>
+        <w lemma="enormitas" pos="NOMcom" msd="Case=Abl|Numb=Sing">enormitate</w>
+        <w lemma="membrum" pos="NOMcom" msd="Case=Gen|Numb=Plur">membrorum</w>
     </quote>
  </div>

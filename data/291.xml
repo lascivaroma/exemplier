@@ -1,22 +1,25 @@
-<div type="fragment" corresp="adams:57"  ana="#male #descriptive-functional">
+<div  type="fragment" corresp="adams:57" ana="#male #descriptive-functional #euphemisms #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:4.1042-4.1044">
-        <w lemma="per(-)">per</w> 
-        <w lemma="membrum(nominatif pluriel)|membrum(vocatif pluriel)|membrum(accusatif pluriel)|membro(2ème singulier impératif présent actif)">membra</w> 
-        <w lemma="atque(-)|at(-)">atque</w> 
-        <w lemma="artus(nominatif singulier)|artus(vocatif singulier)|artus(génitif singulier)|artus(nominatif pluriel)|artus(vocatif pluriel)|artus(accusatif pluriel)|artus(nominatif masculin singulier)">artus</w> 
-        <w lemma="decedo(3ème singulier indicatif présent actif)">decedit</w> 
-        <w lemma="corpus(ablatif singulier)">corpore</w> 
-        <w lemma="totum(datif singulier)|totum(ablatif singulier)|totus(ablatif masculin singulier)|totus(ablatif neutre singulier)|totus(datif masculin singulier)|totus(ablatif masculin singulier)|totus(datif neutre singulier)|totus(ablatif neutre singulier)">toto</w>, 
-        <w lemma="in(-)">in</w> 
-        <w lemma="loco(2ème singulier impératif présent actif)|locum(nominatif pluriel)|locum(vocatif pluriel)|locum(accusatif pluriel)|loca(nominatif pluriel)|loca(vocatif pluriel)|loca(accusatif pluriel)">loca</w> 
-        <w lemma="convenio(nominatif masculin singulier participe présent actif)|convenio(vocatif masculin singulier participe présent actif)|convenio(nominatif féminin singulier participe présent actif)|convenio(vocatif féminin singulier participe présent actif)|convenio(nominatif neutre singulier participe présent actif)|convenio(vocatif neutre singulier participe présent actif)|convenio(accusatif neutre singulier participe présent actif)|conveniens(nominatif singulier)|conveniens(vocatif singulier)">conveniens</w> 
-        <w lemma="nervus(génitif pluriel)">nervorum</w> 
-        <w lemma="certo(2ème singulier impératif présent actif)|certus(nominatif féminin singulier)|certus(vocatif féminin singulier)|certus(ablatif féminin singulier)|certus(nominatif neutre pluriel)|certus(vocatif neutre pluriel)|certus(accusatif neutre pluriel)">certa</w> 
-        <w lemma="cieo(3ème singulier indicatif présent actif)|cio(3ème singulier indicatif futur actif)">cietque</w> 
-        <w lemma="continuo(1ère singulier indicatif présent actif)|continuus(datif masculin singulier)|continuus(ablatif masculin singulier)|continuus(datif neutre singulier)|continuus(ablatif neutre singulier)|continuus(datif singulier)|continuus(ablatif singulier)|continuo(-)">continuo</w> 
-        <w lemma="pario(datif masculin pluriel participe parfait passif)|pario(ablatif masculin pluriel participe parfait passif)|pario(datif féminin pluriel participe parfait passif)|pario(ablatif féminin pluriel participe parfait passif)|pario(datif neutre pluriel participe parfait passif)|pario(ablatif neutre pluriel participe parfait passif)|pars(accusatif pluriel)|pars(génitif singulier)|partio(2ème singulier indicatif présent actif)|parta(datif pluriel)|parta(ablatif pluriel)|parta(datif pluriel)|parta(ablatif pluriel)|partus(datif masculin pluriel)|partus(ablatif masculin pluriel)|partus(datif féminin pluriel)|partus(ablatif féminin pluriel)|partus(datif neutre pluriel)|partus(ablatif neutre pluriel)">partis</w> 
-        <w lemma="genitale(génitif singulier)|Genitalis(accusatif pluriel)|Genitalis(génitif singulier)|genitalis(génitif masculin singulier)|genitalis(accusatif masculin pluriel)|genitalis(génitif féminin singulier)|genitalis(accusatif féminin pluriel)|genitalis(génitif neutre singulier)|Genitalis(nominatif singulier)|Genitalis(vocatif singulier)|genitalis(nominatif masculin singulier)|genitalis(vocatif masculin singulier)|genitalis(nominatif féminin singulier)|genitalis(vocatif féminin singulier)">genitalis</w> 
-        <w lemma="corpus(génitif singulier)">corporis</w> 
-        <w lemma="ipse(accusatif féminin pluriel)">ipsas</w>.    
+        <w lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+        <w lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
+        <w lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+        <w lemma="artus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">artus</w>
+        <w lemma="decedo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">decedit</w>
+        <w lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
+        <w lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">toto</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="locus" pos="NOMcom" msd="Case=Acc|Numb=Plur">loca</w>
+        <w lemma="conueniens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">conveniens</w>
+        <w lemma="neruus" pos="NOMcom" msd="Case=Gen|Numb=Plur">nervorum</w>
+        <w lemma="certus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">certa</w>
+        <w lemma="cieo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cietque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{cietque}</w>
+        <w lemma="continuo2" pos="ADV" msd="Deg=Pos">continuo</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #descriptive-functional">partis</w>
+        <w lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos" ana="#male #descriptive-functional">genitalis</w>
+        <w lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
+        <w lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Fem">ipsas</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

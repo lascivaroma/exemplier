@@ -1,22 +1,27 @@
-<div type="fragment" corresp="adams:59"  ana="#male #natura">
+<div  type="fragment" corresp="adams:59" ana="#male #natura #euphemism #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0287.stoa002.digilibLT-lat1:1.33">
-        <w lemma="sion(génitif singulier)|si(-)">Si</w> 
-        <w lemma="autem(-)">autem</w> 
-        <w lemma="aestas(ablatif singulier)">aestate</w> 
-        <w lemma="febrio(infinitif présent actif)|febrio(2ème singulier indicatif présent passif)|febrio(2ème singulier impératif présent passif)">febrire</w> 
-        <w lemma="coepio(3ème singulier indicatif futur antérieur actif)|coepio(3ème singulier subjonctif parfait actif)">coeperit</w>, 
-        <w lemma="totum(nominatif singulier)|totum(vocatif singulier)|totum(accusatif singulier)|totus(accusatif masculin singulier)|totus(nominatif neutre singulier)|totus(vocatif neutre singulier)|totus(accusatif neutre singulier)|totus(accusatif masculin singulier)|totus(nominatif neutre singulier)|totus(vocatif neutre singulier)|totus(accusatif neutre singulier)">totum</w> 
-        <w lemma="sudo(3ème singulier indicatif futur actif)">sudabit</w>, 
-        <w lemma="satago(3ème singulier indicatif futur actif)">sataget</w> 
-        <w lemma="salio(datif masculin pluriel participe présent actif)|salio(ablatif masculin pluriel participe présent actif)|salio(datif féminin pluriel participe présent actif)|salio(ablatif féminin pluriel participe présent actif)|salio(datif neutre pluriel participe présent actif)|salio(ablatif neutre pluriel participe présent actif)|sallio(datif masculin pluriel participe présent actif)|sallio(ablatif masculin pluriel participe présent actif)|sallio(datif féminin pluriel participe présent actif)|sallio(ablatif féminin pluriel participe présent actif)|sallio(datif neutre pluriel participe présent actif)|sallio(ablatif neutre pluriel participe présent actif)|saliens(datif pluriel)|saliens(ablatif pluriel)|salientes(datif pluriel)|salientes(ablatif pluriel)">salientibus</w> 
-        <w lemma="uena(datif pluriel)|uena(ablatif pluriel)|ueneo(2ème singulier indicatif présent actif)|uenio(2ème singulier indicatif présent actif)|venum(datif pluriel)|venum(ablatif pluriel)|uenus(datif pluriel)|uenus(ablatif pluriel)|uenia(datif pluriel)|uenia(ablatif pluriel)">venis</w>, 
-        <w lemma="nascor(accusatif féminin singulier participe futur actif)|no(accusatif féminin singulier participe futur actif)|natura(accusatif singulier)">naturam</w> 
-        <w lemma="mingo(datif masculin singulier participe futur actif)|mingo(ablatif masculin singulier participe futur actif)|mingo(datif neutre singulier participe futur actif)|mingo(ablatif neutre singulier participe futur actif)">mincturo</w> 
-        <w lemma="similis(génitif masculin singulier)|similis(accusatif masculin pluriel)|similis(génitif féminin singulier)|similis(accusatif féminin pluriel)|similis(génitif neutre singulier)|Simila(datif pluriel)|Simila(ablatif pluriel)|Similis(accusatif pluriel)|Similis(génitif singulier)|simila(datif pluriel)|simila(ablatif pluriel)|simile(génitif singulier)|similis(nominatif masculin singulier)|similis(vocatif masculin singulier)|similis(nominatif féminin singulier)|similis(vocatif féminin singulier)|Similis(nominatif singulier)|Similis(vocatif singulier)">similis</w> 
-        <w lemma="demitto(3ème singulier indicatif futur actif)">demittet</w> 
-        <w lemma="ad(-)">ad</w> 
-        <w lemma="Terra(accusatif singulier)|terra(accusatif singulier)">terram</w>, 
-        <w lemma="transversus(vocatif masculin singulier)|transverto(vocatif masculin singulier participe parfait passif)|transverse(positif)">transverse</w> 
-        <w lemma="ambulo(3ème singulier indicatif futur actif)">ambulabit</w>.     
+        <w lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+        <w lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+        <w lemma="aestas" pos="NOMcom" msd="Case=Abl|Numb=Sing">aestate</w>
+        <w lemma="febrio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">febrire</w>
+        <w lemma="coepio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">coeperit</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="totus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascNeut">totum</w>
+        <w lemma="sudo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">sudabit</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="satago" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">sataget</w>
+        <w lemma="salio1" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">salientibus</w>
+        <w lemma="uena" pos="NOMcom" msd="Case=Abl|Numb=Plur">venis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="natura" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #natura">naturam</w>
+        <w lemma="mingo" pos="VER" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Fut|Voice=Dep">mincturo</w>
+        <w lemma="similis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">similis</w>
+        <w lemma="demitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">demittet</w>
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+        <w lemma="terra" pos="NOMcom" msd="Case=Acc|Numb=Sing">terram</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="transuerse" pos="ADV" msd="Deg=Pos">transverse</w>
+        <w lemma="ambulo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">ambulabit</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

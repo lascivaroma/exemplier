@@ -1,15 +1,19 @@
-<div type="fragment" corresp="adams:39"  ana="#male #lettres">
+<div  type="fragment" corresp="adams:39" ana="#male #lettres #metaphore #mentula">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:87.10-87.11">
-        <w lemma="quis(nominatif neutre singulier)|quis(vocatif neutre singulier)|quis(accusatif neutre singulier)|quid(-)|quid(positif)">quid</w>, 
-        <w lemma="imperite(positif)|imperitus(vocatif masculin singulier)">imperite</w>, 
-        <w lemma="P(-)">P</w> 
-        <w lemma="puto(2ème singulier indicatif présent actif)|Puta(accusatif pluriel)|putus(accusatif féminin pluriel)">putas</w> 
-        <w lemma="ibi(-)">ibi</w> 
-        <w lemma="scribo(supin en -um)|scribo(accusatif masculin singulier participe parfait passif)|scribo(nominatif neutre singulier participe parfait passif)|scribo(vocatif neutre singulier participe parfait passif)|scribo(accusatif neutre singulier participe parfait passif)|scriptum(nominatif singulier)|scriptum(vocatif singulier)|scriptum(accusatif singulier)|scriptus(accusatif masculin singulier)|scriptus(nominatif neutre singulier)|scriptus(vocatif neutre singulier)|scriptus(accusatif neutre singulier)|scriptus(accusatif singulier)">scriptum</w>,  
-        <w lemma="Ubii(nominatif pluriel)|Ubii(vocatif pluriel)|Ubius(génitif masculin singulier)|Ubius(nominatif masculin pluriel)|Ubius(vocatif masculin pluriel)|Ubius(génitif neutre singulier)|ubi(-)">ubi</w> 
-        <w lemma="loco(infinitif présent passif)|locarius(vocatif singulier)|locarius(génitif singulier)|locarius(nominatif pluriel)|locarius(vocatif pluriel)|locarium(génitif singulier)|locarius(génitif masculin singulier)|locarius(nominatif masculin pluriel)|locarius(vocatif masculin pluriel)|locarius(génitif neutre singulier)">locari</w> 
-        <w lemma="I()|eo(2ème singulier impératif présent actif)|Megisto(datif singulier)|obverto(1ère singulier indicatif parfait actif)|eo(1ère singulier indicatif parfait actif)|Ios(génitif singulier)|Ios(nominatif pluriel)|Ios(vocatif pluriel)|ion(génitif singulier)">I</w> 
-        <w lemma="convenio(3ème singulier indicatif parfait actif)|convenio(3ème singulier indicatif présent actif)">convenit</w> 
-        <w lemma="Longus(accusatif singulier)|longus(accusatif masculin singulier)|longus(nominatif neutre singulier)|longus(vocatif neutre singulier)|longus(accusatif neutre singulier)|longum(-)">longum</w>?    
+        <w lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="imperite" pos="ADV" msd="Deg=Pos">imperite</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="[Greek]" pos="NOMcom" msd="MORPH=Empty" ana="#male #lettres">Ρ</w>
+        <w lemma="puto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">putas</w>
+        <w lemma="ibi" pos="ADV" msd="Deg=Pos">ibi</w>
+        <w lemma="scribo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">scriptum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ubi1" pos="ADVrel" msd="MORPH=empty">ubi</w>
+        <w lemma="loco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">locari</w>
+        <w lemma="I" pos="ADJcar" msd="MORPH=empty" ana="#male #lettres">I</w>
+        <w lemma="conuenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">convenit</w>
+        <w lemma="longus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">longum</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>
  </div>

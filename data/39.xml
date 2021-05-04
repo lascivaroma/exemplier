@@ -1,9 +1,11 @@
-<div type="fragment" corresp="adams:33"  ana="#male #personnification">
+<div  type="fragment" corresp="adams:33" ana="#metaphore #animal #cul #vagin">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi003.perseus-lat2:304">
-        <w lemma="etiam(-)|etiam(positif)|etiam(positif)">Etiamne</w> 
-        <w lemma="obturo(3ème singulier indicatif présent actif)|obturo(3ème singulier indicatif présent actif)">obturat</w> 
-        <w lemma="inferior(accusatif masculin singulier comparatif)|inferior(accusatif féminin singulier comparatif)|inferus(accusatif masculin singulier comparatif)|inferus(accusatif féminin singulier comparatif)">inferiorem</w> 
-        <w lemma="">gutturem</w>,    
+        <w lemma="etiam" pos="ADV" msd="Deg=Pos">Etiamne</w>
+        <w lemma="ne2" pos="ADV" msd="MORPH=empty">{Etiamne}</w>
+        <w lemma="obturo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">obturat</w>
+        <w lemma="inferus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp">inferiorem</w>
+        <w lemma="guttur" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #personnification">gutturem</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
 <note>Ici sens de vagin ou de cul</note>
  </div>

@@ -1,11 +1,12 @@
-<div type="fragment" corresp="adams:29"  ana="#male #personnification">
+<div  type="fragment" corresp="adams:29" ana="#male #personnification">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.2.2">
-        <w lemma="et(-)">Et</w> 
-        <w lemma="queror(3ème singulier indicatif présent actif)">queritur</w> 
-        <w lemma="de(-)">de</w> 
-        <w lemma="tu(accusatif masculin singulier)|tu(ablatif masculin singulier)|tu(accusatif féminin singulier)|tu(ablatif féminin singulier)">te</w> 
-        <w lemma="mentula(nominatif singulier)|mentula(vocatif singulier)|mentula(ablatif singulier)">mentula</w> 
-        <w lemma="solo(2ème singulier impératif présent actif)|solum(nominatif pluriel)|solum(vocatif pluriel)|solum(accusatif pluriel)|solus(nominatif féminin singulier)|solus(vocatif féminin singulier)|solus(ablatif féminin singulier)|solus(nominatif neutre pluriel)|solus(vocatif neutre pluriel)|solus(accusatif neutre pluriel)">sola</w> 
-        <w lemma="nihil(nominatif neutre singulier)|nihil(accusatif neutre singulier)">nihil</w>.     
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+        <w lemma="queror" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3" ana="#male #personnification">queritur</w>
+        <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">te</w>
+        <w lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #personnification">mentula</w>
+        <w lemma="solus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">sola</w>
+        <w lemma="nihil" pos="PROind" msd="Case=Ind|Gend=Neut">nihil</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>
