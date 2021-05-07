@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #devoir #service">
+<div type="fragment" ana="#acte #devoir #metaphore #service">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -38,7 +38,7 @@
     <w ref="39.42.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">esset</w>
     <w ref="39.42.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="39.42.9" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
-    <w ana="#metaphore #acte #devoir #service" ref="39.42.9" lemma="obsequium" pos="NOMcom" msd="Case=Acc|Numb=Sing">obsequium</w>
+    <w ana="#acte #devoir #metaphore #service" ref="39.42.9" lemma="obsequium" pos="NOMcom" msd="Case=Acc|Numb=Sing">obsequium</w>
     <w ref="39.42.9" lemma="amator" pos="NOMcom" msd="Case=Dat|Numb=Sing">amatori</w>
     <w ref="39.42.9" lemma="uendito" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">venditaret</w>
     <w ref="39.42.9" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #descriptive-functional #euphemisms #mentula">
+<div type="fragment" ana="#composite #descriptiveFunctional #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,8 +30,8 @@
         <w lemma="cieo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cietque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{cietque}</w>
         <w lemma="continuo2" pos="ADV" msd="Deg=Pos">continuo</w>
-        <w lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #descriptive-functional">partis</w>
-        <w lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos" ana="#male #descriptive-functional">genitalis</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#composite #descriptiveFunctional #euphemism #male #mentula">partis</w>
+        <w lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos" ana="#composite #descriptiveFunctional #euphemism #male #mentula">genitalis</w>
         <w lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
         <w lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Fem">ipsas</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>

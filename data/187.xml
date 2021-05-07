@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #copulation">
+<div type="fragment" ana="#adjoiningParts #copulation #euphemism #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi1212.phi002.perseus-lat1</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:2.7">
-        <w lemma="lumbus" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#male #euphemisms #voisinage #copulation">lumbis</w>
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#adjoiningParts #copulation #euphemism #male">lumbis</w>
         <w lemma="sensim" pos="ADV" msd="Deg=Pos">sensim</w>
         <w lemma="uibro" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">uibrantibus</w>
         <w lemma="spina" pos="NOMcom" msd="Case=Acc|Numb=Sing">spinam</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #devoir #service #douteux">
+<div type="fragment" ana="#acte #devoir #douteux #metaphore #service">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="6.27.10" lemma="admoueo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">admotus</w>
     <w ref="6.27.10" lemma="fere" pos="ADV" msd="Deg=Pos">fere</w>
     <w ref="6.27.10" lemma="tento" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tentavit</w>
-    <w ana="#metaphore #acte #devoir #service" ref="6.27.10" lemma="obsequium" pos="NOMcom" msd="Case=Nom|Numb=Sing">obsequium</w>
+    <w ana="#acte #devoir #douteux #metaphore #service" ref="6.27.10" lemma="obsequium" pos="NOMcom" msd="Case=Nom|Numb=Sing">obsequium</w>
     <w ref="6.27.10" lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Sing">feminae</w>
     <w ref="6.27.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="6.27.10" lemma="abduco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">abducitur</w>

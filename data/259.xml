@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
         <w lemma="nympha" pos="NOMcom" msd="Case=Nom|Numb=Sing">nymphe</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="fugio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">fugiens</w>
-        <w lemma="obscenus" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos" ana="#male #euphemisms #aidoion">obscena</w>
+        <w lemma="obscenus" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos" ana="#aidoion #euphemism #male #mentula">obscena</w>
         <w lemma="Priapus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Priapi</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="confero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">contulerat</w>

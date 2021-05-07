@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="18.22" lemma="masculus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">masculo</w>
     <w ref="18.22" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="18.22" lemma="commisceo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2">commisceberis</w>
-    <w ana="#acte #metonymie #coeo" ref="18.22" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
+    <w ana="#acte #coeo #metonymie" ref="18.22" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
     <w ref="18.22" lemma="femineus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">femineo</w>
     <w ref="18.22" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
     <w ref="18.22" lemma="abominatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">abominatio</w>

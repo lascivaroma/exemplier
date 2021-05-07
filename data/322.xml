@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #natura #euphemism #cunnus">
+<div type="fragment" ana="#cunnus #euphemism #male #natura">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Plur">Feminae</w>
         <w lemma="uero4" pos="CONcoo" msd="MORPH=empty">uero</w>
         <w lemma="ora" pos="NOMcom" msd="Case=Acc|Numb=Plur">oras</w>
-        <w lemma="naturalis" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos" ana="#male #natura #euphemism #cunnus">naturalium</w>
+        <w lemma="naturalis" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos" ana="#cunnus #euphemism #male #natura">naturalium</w>
         <w lemma="suus" pos="PROpos.ref" msd="Case=Gen|Numb=Plur|Gend=MascNeut">suorum</w>
         <w lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">manibus</w>
         <w lemma="admoueo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">admotis</w>

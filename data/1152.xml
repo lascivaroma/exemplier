@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #fellatio #acte #actor">
+<div type="fragment" ana="#acte #actor #fellatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="I.123" lemma="grauis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">grave</w>
     <w ref="I.123" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
     <w ref="I.123" lemma="facile" pos="ADV" msd="Deg=Pos">facile</w>
-    <w ana="#acte #fellatio #acte #actor" ref="I.123" lemma="fellatus" pos="NOMcom" msd="Case=Abl|Numb=Plur">fellatibus</w>
+    <w ana="#acte #actor #fellatio" ref="I.123" lemma="fellatus" pos="NOMcom" msd="Case=Abl|Numb=Plur">fellatibus</w>
     <w ref="I.123" lemma="exitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">exitum</w>
     <w ref="I.123" lemma="prebens" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">prebens</w>
     <w ref="I.123" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

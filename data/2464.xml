@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #aidoion">
+<div type="fragment" ana="#aidoion #composite #euphemism #male #mentula">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,12 +29,12 @@
     <w ref="1.8.4" lemma="fur" pos="NOMcom" msd="Case=Acc|Numb=Plur">fures</w>
     <w ref="1.8.4" lemma="dextera" pos="NOMcom" msd="Case=Abl|Numb=Sing">dextra</w>
     <w ref="1.8.4" lemma="coerceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">coercet</w>
-    <w ana="#male #euphemisms #aidoion #mentula" ref="1.8.5" lemma="obscenus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">obscaenoque</w>
+    <w ana="#aidoion #composite #euphemism #male #mentula" ref="1.8.5" lemma="obscenus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">obscaenoque</w>
     <w ref="1.8.5" lemma="que" pos="CON" msd="MORPH=empty">{obscaenoque}</w>
     <w ref="1.8.5" lemma="ruber" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">ruber</w>
     <w ref="1.8.5" lemma="porrigo2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">porrectus</w>
     <w ref="1.8.5" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
-    <w ana="#male #euphemisms #aidoion #mentula" ref="1.8.5" lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Sing">inguine</w>
+    <w ana="#aidoion #composite #euphemism #male #mentula" ref="1.8.5" lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Sing">inguine</w>
     <w ref="1.8.5" lemma="palus2" pos="NOMcom" msd="Case=Nom|Numb=Sing">palus</w>
     <w ref="1.8.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
   </quote>

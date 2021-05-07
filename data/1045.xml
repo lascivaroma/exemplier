@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #futuo">
+<div type="fragment" ana="#acte #fututio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="12.26.1" lemma="latro1" pos="NOMcom" msd="Case=Abl|Numb=Plur">latronibus</w>
     <w ref="12.26.1" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
     <w ref="12.26.1" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
-    <w ana="#acte #futuo" ref="12.26.1" lemma="futuo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">fututam</w>
+    <w ana="#acte #fututio" ref="12.26.1" lemma="futuo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">fututam</w>
     <w ref="12.26.2" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">Dicis</w>
     <w ref="12.26.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="12.26.2" lemma="saenia" pos="NOMcom" msd="Case=Nom|Numb=Plur">Saenia</w>

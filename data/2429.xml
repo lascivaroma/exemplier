@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #agriculture">
+<div type="fragment" ana="#agriculture #mentula #metaphore #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="4.1272" lemma="regio" pos="NOMcom" msd="Case=Abl|Numb=Sing">regione</w>
     <w ref="4.1272" lemma="uia" pos="NOMcom" msd="Case=Abl|Numb=Sing">viaque</w>
     <w ref="4.1272" lemma="que" pos="CON" msd="MORPH=empty">{viaque}</w>
-    <w ana="#mentula #metaphore #pointu #agriculture" ref="4.1273" lemma="uomer" pos="NOMcom" msd="Case=Nom|Numb=Sing">vomeris</w>
+    <w ana="#agriculture #mentula #metaphore #pointu" ref="4.1273" lemma="uomer" pos="NOMcom" msd="Case=Nom|Numb=Sing">vomeris</w>
     <w ref="4.1273" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
     <w ref="4.1273" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
     <w ref="4.1273" lemma="auerto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">avertit</w>

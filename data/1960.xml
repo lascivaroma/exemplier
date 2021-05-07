@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #position #futuor">
+<div type="fragment" ana="#acte #fututio #metonymie #position">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="657" lemma="puerilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">puerile</w>
     <w ref="657" lemma="officium" pos="NOMcom" msd="Case=Nom|Numb=Sing">officium</w>
     <w ref="657" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
-    <w ana="#acte #metonymie #position #futuor" ref="657" lemma="conquinisco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act">conquiniscam</w>
+    <w ana="#acte #fututio #metonymie #position" ref="657" lemma="conquinisco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act">conquiniscam</w>
     <w ref="657" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="657" lemma="cistula" pos="NOMcom" msd="Case=Acc|Numb=Sing">cistulam</w>
     <w ref="657" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="10.480" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     <w ref="10.481" lemma="uix" pos="ADV" msd="Deg=Pos">vixque</w>
     <w ref="10.481" lemma="que" pos="CON" msd="MORPH=empty">{vixque}</w>
-    <w ana="#female #cunnus #womb" ref="10.481" lemma="uterus" pos="NOMcom" msd="Case=Gen|Numb=Sing">uteri</w>
+    <w ana="#cunnus #female #womb" ref="10.481" lemma="uterus" pos="NOMcom" msd="Case=Gen|Numb=Sing">uteri</w>
     <w ref="10.481" lemma="porto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">portabat</w>
     <w ref="10.481" lemma="onus" pos="NOMcom" msd="Case=Acc|Numb=Sing">onus</w>
     <w ref="10.481" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

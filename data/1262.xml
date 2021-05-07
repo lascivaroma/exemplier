@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #blessure">
+<div type="fragment" ana="#acte #blessure #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="5.98" lemma="quo3" pos="ADVint" msd="Numb=Sing">quo</w>
     <w ref="5.98" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
     <w ref="5.98" lemma="cristatus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">cristatum</w>
-    <w ana="#metaphore #acte #blessure" ref="5.98" lemma="uulnificus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">uulnificumque</w>
+    <w ana="#acte #blessure #metaphore" ref="5.98" lemma="uulnificus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">uulnificumque</w>
     <w ref="5.98" lemma="que" pos="CON" msd="MORPH=empty">{uulnificumque}</w>
     <w ref="5.98" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
     <w ref="5.98" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>

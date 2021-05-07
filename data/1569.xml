@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,7 +29,7 @@
     <w ref="7.2" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
     <w ref="7.2" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
     <w ref="7.2" lemma="uicis" pos="NOMcom" msd="Case=Abl|Numb=Plur">vicibus</w>
-    <w ana="#acte #metonymie #coeo" ref="7.2" lemma="coeo1" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">coeuntes</w>
+    <w ana="#acte #coeo #metonymie" ref="7.2" lemma="coeo1" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">coeuntes</w>
     <w ref="7.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="7.2" lemma="calliphanes" pos="NOMcom" msd="Case=Nom|Numb=Sing">Calliphanes</w>
     <w ref="7.2" lemma="trado" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tradit</w>

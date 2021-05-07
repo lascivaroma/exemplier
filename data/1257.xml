@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #blessure">
+<div type="fragment" ana="#acte #blessure #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="3.8" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
     <w ref="3.8" lemma="timeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">timet</w>
     <w ref="3.8" lemma="alter" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">alterius</w>
-    <w ana="#metaphore #acte #blessure" ref="3.8" lemma="uulnus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uulnus</w>
+    <w ana="#acte #blessure #metaphore" ref="3.8" lemma="uulnus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uulnus</w>
     <w ref="3.8" lemma="ineptus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">inepta</w>
     <w ref="3.8" lemma="locus" pos="NOMcom" msd="Case=Gen|Numb=Sing">loci</w>
     <w ref="3.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

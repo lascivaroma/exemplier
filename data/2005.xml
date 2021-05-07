@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #consequences">
+<div type="fragment" ana="#acte #composite #consequences #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,8 +22,8 @@
     <w ref="1.2" lemma="repugno" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">repugnante</w>
     <w ref="1.2" lemma="filia" pos="NOMcom" msd="Case=Abl|Numb=Sing">filia</w>
     <w ref="1.2" lemma="nodus" pos="NOMcom" msd="Case=Acc|Numb=Sing">nodum</w>
-    <w ana="#acte #metonymie #consequences" ref="1.2" lemma="uirginitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">uirginitatis</w>
-    <w ana="#acte #metonymie #consequences" ref="1.2" lemma="eripio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">eripuit</w>
+    <w ana="#acte #composite #consequences #metonymie" ref="1.2" lemma="uirginitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">uirginitatis</w>
+    <w ana="#acte #composite #consequences #metonymie" ref="1.2" lemma="eripio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">eripuit</w>
     <w ref="1.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
   </quote>
 </div>

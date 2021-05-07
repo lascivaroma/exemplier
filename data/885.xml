@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,7 +30,7 @@
     <w ref="9.27.3" lemma="prostituo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">prostitutis</w>
     <w ref="9.27.3" lemma="leuiter" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp">levius</w>
     <w ref="9.27.3" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
-    <w ana="#anus #culus" ref="9.27.3" lemma="culus" pos="NOMcom" msd="Case=Dat|Numb=Plur">culis</w>
+    <w ana="#culus" ref="9.27.3" lemma="culus" pos="NOMcom" msd="Case=Dat|Numb=Plur">culis</w>
     <w ref="9.27.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="9.27.4" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
     <w ref="9.27.4" lemma="uiuo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">vivat</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #contenants #metaphore #mentula">
+<div type="fragment" ana="#contenant #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
         <w lemma="Calypso" pos="NOMpro" msd="Case=Acc|Numb=Sing">Calypson</w>
         <w lemma="grandis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">grandia</w>
         <w lemma="Dulichius" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">Dulichii</w>
-        <w lemma="uas2" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #contenants #metaphore #mentula">uasa</w>
+        <w lemma="uas2" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#contenant #male #mentula #metaphore">uasa</w>
         <w lemma="peto" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">petisse</w>
         <w lemma="uir" pos="NOMcom" msd="Case=Gen|Numb=Sing">uiri</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>

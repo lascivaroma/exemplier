@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="81" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="81" lemma="forsitan" pos="ADV" msd="Deg=Pos">forsitan</w>
     <w ref="81" lemma="mutuus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">mutuis</w>
-    <w ana="#acte #metonymie #amo" ref="81" lemma="libido" pos="NOMcom" msd="Case=Abl|Numb=Plur">libidinibus</w>
+    <w ana="#acte #amo #metonymie" ref="81" lemma="libido" pos="NOMcom" msd="Case=Abl|Numb=Plur">libidinibus</w>
     <w ref="81" lemma="attero" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">attriti</w>
     <w ref="81" lemma="derideo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">derident</w>
     <w ref="81" lemma="solitudo" pos="NOMcom" msd="Case=Acc|Numb=Sing">solitudinem</w>

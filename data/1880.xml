@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -37,8 +37,8 @@
     <w ref="158" lemma="luxuria" pos="NOMcom" msd="Case=Abl|Numb=Sing">luxuria</w>
     <w ref="158" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=Fem">sua</w>
     <w ref="158" lemma="frequens" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">frequenti</w>
-    <w ana="#acte #metonymie #amo" ref="158" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
-    <w ana="#acte #metonymie #amo" ref="158" lemma="Uenereus" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Deg=Pos">venerio</w>
+    <w ana="#acte #amo #composite #metonymie" ref="158" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ana="#acte #amo #composite #metonymie" ref="158" lemma="Uenereus" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Deg=Pos">venerio</w>
     <w ref="158" lemma="eneruatus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">enervatus</w>
     <w ref="158" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
     <w ref="158" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>

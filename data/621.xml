@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #labia">
+<div type="fragment" ana="#cunnus #female #labia">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="199" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
     <w ref="199" lemma="equidem" pos="ADV" msd="Deg=Pos">équidem</w>
     <w ref="199" lemma="ille" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Masc">illi</w>
-    <w ana="#female #cunnus #labia" ref="199" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ana="#cunnus #female #labia" ref="199" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
     <w ref="199" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="199" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
     <w ref="199" lemma="scio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1">sciam</w>

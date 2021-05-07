@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+<div type="fragment" ana="#composite #euphemism #male #mentula #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,8 +27,8 @@
         <w lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
         <w lemma="pellis" pos="NOMcom" msd="Case=Acc|Numb=Sing">pellem</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-        <w lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #specialisation #euphemism #mentula">parte</w>
-        <w lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos" ana="#male #specialisation #euphemism #mentula">genitali</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#composite #euphemism #male #mentula #specialisation">parte</w>
+        <w lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos" ana="#composite #euphemism #male #mentula #specialisation">genitali</w>
         <w lemma="Iudaei" pos="NOMpro" msd="Case=Nom|Numb=Plur">Iudaei</w>
         <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
         <w lemma="habeo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">habeant</w>

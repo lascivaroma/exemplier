@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #labia">
+<div type="fragment" ana="#cunnus #female #labia">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="II.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="II.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="II.7" lemma="distentus?" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">distentis</w>
-    <w ana="#female #cunnus #labia" ref="II.7" lemma="fibra" pos="NOMcom" msd="Case=Abl|Numb=Plur">fibris</w>
+    <w ana="#cunnus #female #labia" ref="II.7" lemma="fibra" pos="NOMcom" msd="Case=Abl|Numb=Plur">fibris</w>
     <w ref="II.7" lemma="uereter" pos="NOMcom" msd="Case=Nom|Numb=Sing">veretri</w>
     <w ref="II.7" lemma="femininus" pos="ADJqua" msd="Case=Nom|Numb=Plur">feminini</w>
     <w ref="II.7" lemma="idem" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eodem</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,8 +22,8 @@
     <w ref="I.127" lemma="quo1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
     <w ref="I.127" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
     <w ref="I.127" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
-    <w ana="#acte #metonymie #amo" ref="I.127" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
-    <w ana="#acte #metonymie #amo" ref="I.127" lemma="uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">venereo</w>
+    <w ana="#acte #amo #composite #metonymie" ref="I.127" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ana="#acte #amo #composite #metonymie" ref="I.127" lemma="uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">venereo</w>
     <w ref="I.127" lemma="abstineo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">abstineat</w>
     <w ref="I.127" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
     <w ref="I.127" lemma="ebrietas" pos="NOMcom" msd="Case=Abl|Numb=Sing">ebrietate</w>

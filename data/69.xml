@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #anatomie #metaphore #mentula">
+<div type="fragment" ana="#anatomie #composite #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,8 +29,8 @@
         <w lemma="malum1" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Neut">mala</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
-        <w lemma="brachium" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #anatomie">brachia</w>
-        <w lemma="macer" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#male #anatomie">macra</w>
+        <w lemma="brachium" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#anatomie #composite #male #mentula #metaphore">brachia</w>
+        <w lemma="macer" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#anatomie #composite #male #mentula #metaphore">macra</w>
         <w lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">dabo</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

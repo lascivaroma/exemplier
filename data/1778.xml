@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #toucher #masturbation">
+<div type="fragment" ana="#acte #masturbatio #metonymie #toucher">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="11.29.1" lemma="languidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">Languida</w>
     <w ref="11.29.1" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="11.29.1" lemma="uetulus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">vetula</w>
-    <w ana="#acte #metonymie #toucher #masturbation" ref="11.29.1" lemma="tracto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tractare</w>
+    <w ana="#acte #masturbatio #metonymie #toucher" ref="11.29.1" lemma="tracto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tractare</w>
     <w ref="11.29.1" lemma="uirilis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">virilia</w>
     <w ref="11.29.1" lemma="dextera" pos="NOMcom" msd="Case=Abl|Numb=Sing">dextra</w>
     <w ref="11.29.2" lemma="coepio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">Coepisti</w>

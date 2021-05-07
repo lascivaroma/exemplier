@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #concomitant">
+<div type="fragment" ana="#acte #concomitant #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="2.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="2.7" lemma="aula2" pos="NOMcom" msd="Case=Acc|Numb=Sing">ollam</w>
     <w ref="2.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#acte #metonymie #concomitant" ref="2.7" lemma="lectulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">lectulum</w>
+    <w ana="#acte #concomitant #metonymie" ref="2.7" lemma="lectulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">lectulum</w>
     <w ref="2.7" lemma="suaue" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos">suave</w>
     <w ref="2.7" lemma="quatio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">quatere</w>
     <w ref="2.7" lemma="nosco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">novi</w>

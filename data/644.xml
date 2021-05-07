@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="11.812" lemma="remulceo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">remulcens</w>
     <w ref="11.813" lemma="subicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">subiecit</w>
     <w ref="11.813" lemma="pauito" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">pavitantem</w>
-    <w ana="#female #cunnus #womb" ref="11.813" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ana="#cunnus #female #womb" ref="11.813" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
     <w ref="11.813" lemma="silua" pos="NOMcom" msd="Case=Acc|Numb=Plur">silvasque</w>
     <w ref="11.813" lemma="que" pos="CON" msd="MORPH=empty">{silvasque}</w>
     <w ref="11.813" lemma="peto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">petivit</w>

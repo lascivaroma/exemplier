@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #misc">
+<div type="fragment" ana="#dildo #divers #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.39">
         <w lemma="phallus" pos="NOMcom" msd="Case=Gen|Numb=Plur">phallorum</w>
         <w lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
-        <w ana="#male #dildo" lemma="fascinum" pos="NOMcom" msd="Case=Gen|Numb=Plur">fascinorumque</w>
+        <w ana="#dildo #divers #male" lemma="fascinum" pos="NOMcom" msd="Case=Gen|Numb=Plur">fascinorumque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{fascinorumque}</w>
         <w lemma="subrectio" pos="NOMcom" msd="Case=Nom|Numb=Sing">subrectio</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:3.346">
         <w lemma="maternus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">maternis</w>
         <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
-        <w lemma="membrum" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#male #specialisation #euphemism #mentula">membris</w>
+        <w lemma="membrum" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#euphemism #male #mentula #specialisation">membris</w>
         <w lemma="aluus" pos="NOMcom" msd="Case=Abl|Numb=Sing">alvoque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{alvoque}</w>
         <w lemma="repono" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">reposta</w>

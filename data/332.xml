@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #res">
+<div type="fragment" ana="#male #penis #res">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
         <w lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
         <w lemma="mater" pos="NOMcom" msd="Case=Acc|Numb=Plur">matres</w>
         <w lemma="circumfero" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">circumferentem</w>
-        <w ana="#male #penis" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Plur">res</w>
+        <w ana="#male #penis #res" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Plur">res</w>
         <w lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Fem">illas</w>
         <w lemma="proelium" pos="NOMcom" msd="Case=Gen|Numb=Plur">proeliorum</w>
         <w lemma="semper" pos="ADV" msd="Deg=Pos">semper</w>

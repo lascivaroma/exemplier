@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #aller_en_vue_de #m2f">
+<div type="fragment" ana="#acte #allerEnVueDe #m2f #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,7 +29,7 @@
     <w ref="32.3" lemma="iubeo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">iube</w>
     <w ref="32.3" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="32.3" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
-    <w ana="#acte #metonymie #aller_en_vue_de #m2f" ref="32.3" lemma="uenio" pos="VER" msd="Case=Acc|Numb=Sing">veniam</w>
+    <w ana="#acte #allerEnVueDe #m2f #metonymie" ref="32.3" lemma="uenio" pos="VER" msd="Case=Acc|Numb=Sing">veniam</w>
     <w ref="32.3" lemma="meridio" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">meridiatum</w>
     <w ref="32.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

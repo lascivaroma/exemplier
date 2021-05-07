@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio #humain">
+<div type="fragment" ana="#acte #animal #composite #humain #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,8 +26,8 @@
     <w ref="68b.78" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
     <w ref="68b.78" lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
     <w ref="68b.78" lemma="indomitus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">indomitam</w>
-    <w ana="#acte #animals #salio #humain" ref="68b.78" lemma="fero" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ferre</w>
-    <w ana="#acte #animals #salio #humain" ref="68b.78" lemma="iugum" pos="NOMcom" msd="Case=Acc|Numb=Sing">iugum</w>
+    <w ana="#acte #animal #composite #humain #salio" ref="68b.78" lemma="fero" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ferre</w>
+    <w ana="#acte #animal #composite #humain #salio" ref="68b.78" lemma="iugum" pos="NOMcom" msd="Case=Acc|Numb=Sing">iugum</w>
     <w ref="68b.78" lemma="doceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">docuit</w>
     <w ref="68b.78" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

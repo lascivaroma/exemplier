@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #futuo #detendre">
+<div type="fragment" ana="#acte #detendre #fututio #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.21.1-11.21.4" type="line">
     <w ref="11.21.1" lemma="lydius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Lydia</w>
     <w ref="11.21.1" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
-    <w ana="#acte #metonymie #futuo #detendre" ref="11.21.1" lemma="laxus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">laxa</w>
+    <w ana="#acte #detendre #fututio #metonymie" ref="11.21.1" lemma="laxus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">laxa</w>
     <w ref="11.21.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="11.21.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="11.21.1" lemma="eques" pos="NOMcom" msd="Case=Gen|Numb=Sing">equitis</w>

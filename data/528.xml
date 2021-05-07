@@ -1,4 +1,4 @@
-<div type="fragment" ana="#sinus #euphemism #female #cunnus">
+<div type="fragment" ana="#composite #cunnus #euphemism #female #sinus">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,8 +20,8 @@
         <w lemma="pateo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos|Mood=Par|Tense=Pres|Voice=Act">patentibus</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
         <w lemma="medius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">medio</w>
-        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
-        <w ana="#sinus #euphemism #composite" lemma="muliebris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">muliebri</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="muliebris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">muliebri</w>
         <w lemma="claudo1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">clausura</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">fuerit</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

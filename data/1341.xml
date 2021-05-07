@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #epouser #noces">
+<div type="fragment" ana="#acte #epouser #metaphore #noces">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:3.776-3.777" type="line">
     <w ref="3.776" lemma="denique" pos="ADV" msd="Deg=Pos">Denique</w>
-    <w ana="#metaphore #acte #epouser #noces" ref="3.776" lemma="connubium" pos="NOMcom" msd="Case=Nom|Numb=Plur">conubia</w>
+    <w ana="#acte #epouser #metaphore #noces" ref="3.776" lemma="connubium" pos="NOMcom" msd="Case=Nom|Numb=Plur">conubia</w>
     <w ref="3.776" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="3.776" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
     <w ref="3.776" lemma="partus" pos="NOMcom" msd="Case=Acc|Numb=Plur">partusque</w>

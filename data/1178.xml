@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #manger">
+<div type="fragment" ana="#acte #manger #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="23" lemma="aliquis" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Masc">aliquem</w>
     <w ref="23" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">vides</w>
     <w ref="23" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#metaphore #acte #manger" ref="23" lemma="abliguro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">abligurire</w>
+    <w ana="#acte #manger #metaphore" ref="23" lemma="abliguro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">abligurire</w>
     <w ref="23" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
   </quote>
 </div>

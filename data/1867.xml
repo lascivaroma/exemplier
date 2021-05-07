@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,8 +17,8 @@
     <w ref="book.33.65" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
     <w ref="book.33.65" lemma="quis2" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
     <w ref="book.33.65" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
-    <w ana="#acte #metonymie #amo" ref="book.33.65" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
-    <w ana="#acte #metonymie #amo" ref="book.33.65" lemma="Uenereus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerium</w>
+    <w ana="#acte #amo #composite #metonymie" ref="book.33.65" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #amo #composite #metonymie" ref="book.33.65" lemma="Uenereus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerium</w>
     <w ref="book.33.65" lemma="infirmus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">infirmum</w>
     <w ref="book.33.65" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">uolueris</w>
     <w ref="book.33.65" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>

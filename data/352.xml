@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #misc">
+<div type="fragment" ana="#divers #male #penis">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="deus" pos="NOMcom" msd="Case=Voc|Numb=Plur">di</w>
         <w lemma="magnus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Masc|Deg=Pos">magni</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w ana="#male #penis" lemma="salaputium" pos="NOMcom" msd="Case=Nom|Numb=Plur">salaputium</w>
+        <w ana="#divers #male #penis" lemma="salaputium" pos="NOMcom" msd="Case=Nom|Numb=Plur">salaputium</w>
         <w lemma="disertus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">disertum</w>
         <w lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
         <w lemma="”" pos="PUNC" msd="MORPH=empty">”</w>

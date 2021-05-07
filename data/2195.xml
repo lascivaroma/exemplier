@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #res">
+<div type="fragment" ana="#acte #ellipse #euphemism #res">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -43,7 +43,7 @@
     <w ref="5.848" lemma="iungo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">iungi</w>
     <w ref="5.848" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
     <w ref="5.848" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
-    <w ana="#acte #euphemism #ellipse #res" ref="5.848" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Plur">res</w>
+    <w ana="#acte #ellipse #euphemism #res" ref="5.848" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Plur">res</w>
     <w ref="5.848" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

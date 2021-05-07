@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #glans">
+<div type="fragment" ana="#glans #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
         <w lemma="circa2" pos="PRE" msd="MORPH=empty">circa</w>
         <w lemma="pubes1" pos="NOMcom" msd="Case=Acc|Numb=Sing">pubem</w>
         <w lemma="uelut1" pos="ADVrel" msd="MORPH=empty">velut</w>
-        <w ana="#male #glans" lemma="circulus" pos="NOMcom" msd="Case=Nom|Numb=Sing">circulus</w>
+        <w ana="#glans #male" lemma="circulus" pos="NOMcom" msd="Case=Nom|Numb=Sing">circulus</w>
         <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     </quote>
  </div>

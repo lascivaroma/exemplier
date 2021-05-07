@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #res">
+<div type="fragment" ana="#acte #ellipse #euphemism #res">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:2.173-2.174" type="line">
     <w ref="2.173" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#acte #euphemism #ellipse #res" ref="2.173" lemma="res" pos="NOMcom" msd="Case=Nom|Numb=Sing">res</w>
+    <w ana="#acte #ellipse #euphemism #res" ref="2.173" lemma="res" pos="NOMcom" msd="Case=Nom|Numb=Sing">res</w>
     <w ref="2.173" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
     <w ref="2.173" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
     <w ref="2.173" lemma="blandior" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">blanditur</w>

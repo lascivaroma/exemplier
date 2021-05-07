@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #mentula">
+<div type="fragment" ana="#adjoiningParts #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="uxor" pos="NOMcom" msd="Case=Gen|Numb=Sing">uxoris</w>
         <w lemma="grauidus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">gravidae</w>
         <w lemma="putris" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">putria</w>
-        <w lemma="inguen" pos="NOMcom" msd="Case=Nom|Numb=Plur" ana="#male #euphemisms #voisinage #mentula">inguina</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Nom|Numb=Plur" ana="#adjoiningParts #euphemism #male #mentula">inguina</w>
         <w lemma="lambus" pos="NOMcom" msd="Case=Dat|Numb=Sing">lambis</w>
     </quote>
  </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme #composite">
+<div type="fragment" ana="#acte #atteindreObjectif #composite #ejaculation #metaphore #orgasme">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,10 +21,10 @@
     <w ref="128" lemma="exter" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Sup">extremo</w>
     <w ref="128" lemma="fessus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">fessique</w>
     <w ref="128" lemma="que" pos="CON" msd="MORPH=empty">{fessique}</w>
-    <w ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme #composite" ref="128" lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
-    <w ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme #composite" ref="128" lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">ipsam</w>
-    <w ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme #composite" ref="129" lemma="finis" pos="NOMcom" msd="Case=Acc|Numb=Sing">finem</w>
-    <w ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme #composite" ref="129" lemma="aduento" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3">adventabant</w>
+    <w ana="#acte #atteindreObjectif #composite #ejaculation #metaphore #orgasme" ref="128" lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+    <w ana="#acte #atteindreObjectif #composite #ejaculation #metaphore #orgasme" ref="128" lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">ipsam</w>
+    <w ana="#acte #atteindreObjectif #composite #ejaculation #metaphore #orgasme" ref="129" lemma="finis" pos="NOMcom" msd="Case=Acc|Numb=Sing">finem</w>
+    <w ana="#acte #atteindreObjectif #composite #ejaculation #metaphore #orgasme" ref="129" lemma="aduento" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3">adventabant</w>
     <w ref="129" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="129" lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>
     <w ref="129" lemma="creber" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">creber</w>

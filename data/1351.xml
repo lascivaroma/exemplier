@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #joke #jeu #pedicatio">
+<div type="fragment" ana="#acte #jeu #joke #metaphore #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="11" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
     <w ref="11" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="11" lemma="frater" pos="NOMcom" msd="Case=Abl|Numb=Sing">fratre</w>
-    <w ana="#metaphore #acte #joke #jeu #pedicatio" ref="11" lemma="ludo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">ludentem</w>
+    <w ana="#acte #jeu #joke #metaphore #pedicatio" ref="11" lemma="ludo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">ludentem</w>
     <w ref="11" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

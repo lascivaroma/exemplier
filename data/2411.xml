@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #armes">
+<div type="fragment" ana="#armes #mentula #metaphore #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -31,7 +31,7 @@
     <w ref="1181" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="1181" lemma="uagina" pos="NOMcom" msd="Case=Acc|Numb=Sing">vaginam</w>
     <w ref="1181" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">tuam</w>
-    <w ana="#mentula #metaphore #pointu #armes" ref="1181" lemma="machaera" pos="NOMcom" msd="Case=Nom|Numb=Sing">machaera</w>
+    <w ana="#armes #mentula #metaphore #pointu" ref="1181" lemma="machaera" pos="NOMcom" msd="Case=Nom|Numb=Sing">machaera</w>
     <w ref="1181" lemma="miles" pos="NOMcom" msd="Case=Gen|Numb=Sing">militis</w>
     <w ref="1181" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
   </quote>

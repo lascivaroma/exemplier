@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #labia">
+<div type="fragment" ana="#cunnus #female #labia">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -35,7 +35,7 @@
     <w ref="I.82" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=MascNeut">suo</w>
     <w ref="I.82" lemma="saltus2" pos="NOMcom" msd="Case=Abl|Numb=Sing">saltu</w>
     <w ref="I.82" lemma="natica" pos="NOMcom" msd="Case=Gen|Numb=Plur">naticarum</w>
-    <w ana="#female #cunnus #labia" ref="I.82" lemma="fibra" pos="NOMcom" msd="Case=Acc|Numb=Plur">fibras</w>
+    <w ana="#cunnus #female #labia" ref="I.82" lemma="fibra" pos="NOMcom" msd="Case=Acc|Numb=Plur">fibras</w>
     <w ref="I.82" lemma="par2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">pari</w>
     <w ref="I.82" lemma="planta" pos="NOMcom" msd="Case=Gen|Numb=Plur">plantarum</w>
     <w ref="I.82" lemma="percussus" pos="NOMcom" msd="Case=Abl|Numb=Sing">percussu</w>

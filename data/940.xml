@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="3.163" lemma="utor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">utitur</w>
     <w ref="3.163" lemma="praeterea" pos="ADV" msd="Deg=Pos">praeterea</w>
     <w ref="3.163" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
-    <w ana="#anus #culus" ref="3.163" lemma="podix" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem">podicem</w>
+    <w ana="#culus" ref="3.163" lemma="podix" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem">podicem</w>
     <w ref="3.163" lemma="collyrium" pos="NOMcom" msd="Case=Abl|Numb=Sing">collyrio</w>
     <w ref="3.163" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="3.163" lemma="inicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inicit</w>

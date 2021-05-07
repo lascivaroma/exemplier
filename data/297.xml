@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #descriptive-functional #euphemism #mentula">
+<div type="fragment" ana="#descriptiveFunctional #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1351.phi004.perseus-lat2:5.6">
         <w lemma="circumcido2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">circumcidere</w>
-        <w lemma="genitalis" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Neut" ana="#male #descriptive-functional">genitalia</w>
+        <w lemma="genitalis" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Neut" ana="#descriptiveFunctional #euphemism #male #mentula">genitalia</w>
         <w lemma="instituo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">instituerunt</w>
         <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
         <w lemma="diuersitas" pos="NOMcom" msd="Case=Abl|Numb=Sing">diversitate</w>

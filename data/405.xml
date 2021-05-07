@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #testicle">
+<div type="fragment" ana="#male #testicules">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
         <w lemma="abscido2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">abscisum</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="spolio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">spoliatum</w>
-        <w ana="#male #testicle" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Sing">uiro</w>
+        <w ana="#male #testicules" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Sing">uiro</w>
         <w lemma="magnus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">magnae</w>
         <w lemma="mater" pos="NOMcom" msd="Case=Gen|Numb=Sing">matris</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>

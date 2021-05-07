@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="2.42.1" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
     <w ref="2.42.1" lemma="solium" pos="NOMcom" msd="Case=Acc|Numb=Sing">solium</w>
     <w ref="2.42.1" lemma="tolluo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">subluto</w>
-    <w ana="#anus #culus" ref="2.42.1" lemma="podix" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
+    <w ana="#culus" ref="2.42.1" lemma="podix" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
     <w ref="2.42.1" lemma="perdo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">perdis</w>
     <w ref="2.42.1" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
   </quote>

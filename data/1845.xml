@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="35.10" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="35.10" lemma="paruus2" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp">minoribus</w>
     <w ref="35.10" lemma="tabella" pos="NOMcom" msd="Case=Abl|Numb=Plur">tabellis</w>
-    <w ana="#acte #metonymie #amo" ref="35.10" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Plur">libidines</w>
+    <w ana="#acte #amo #metonymie" ref="35.10" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Plur">libidines</w>
     <w ref="35.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="35.10" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eo</w>
     <w ref="35.10" lemma="genus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">genere</w>

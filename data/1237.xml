@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #couper #tailler">
+<div type="fragment" ana="#acte #couper #metaphore #tailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="75.18" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="75.19" lemma="deprehendo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">Deprensos</w>
     <w ref="75.19" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
-    <w ana="#metaphore #acte #couper #tailler" ref="75.19" lemma="perforo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">perforare</w>
+    <w ana="#acte #couper #metaphore #tailler" ref="75.19" lemma="perforo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">perforare</w>
     <w ref="75.19" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">possum</w>
     <w ref="75.20" lemma="tithonus" pos="NOMcom" msd="Case=Acc|Numb=Sing">Tithonum</w>
     <w ref="75.20" lemma="priamus" pos="NOMcom" msd="Case=Acc|Numb=Sing">Priamumque</w>

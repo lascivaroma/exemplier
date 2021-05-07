@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #medical">
+<div type="fragment" ana="#female #medicale">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
         <w lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">ipsis</w>
         <w lemma="praeualeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">praeualet</w>
-        <w lemma="prurigo" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#female #medical">prurigo</w>
+        <w lemma="prurigo" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#female #medicale">prurigo</w>
         <w lemma="ob" pos="PRE" msd="MORPH=empty">ob</w>
         <w lemma="natura" pos="NOMcom" msd="Case=Acc|Numb=Sing">naturam</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>

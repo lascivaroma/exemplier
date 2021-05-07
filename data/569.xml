@@ -1,4 +1,4 @@
-<div type="fragment" ana=" #female #cunnus #fesse #misc">
+<div type="fragment" ana="#cunnus #divers #female #fesse">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
         <w lemma="porrigo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">porrigitur</w>
         <w lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
         <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
-        <w ana="#fesse #misc" lemma="longao" pos="NOMcom" msd="Case=Acc|Numb=Sing">longaonem</w>
+        <w ana="#cunnus #divers #female #fesse" lemma="longao" pos="NOMcom" msd="Case=Acc|Numb=Sing">longaonem</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
         <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>

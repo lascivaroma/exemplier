@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rester_avec #prostitution">
+<div type="fragment" ana="#acte #composite #metonymie #prostitution #resterAvec">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,10 +21,10 @@
     <w ref="1.8.67" lemma="pulcher" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">pulcher</w>
     <w ref="1.8.67" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
     <w ref="1.8.67" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #rester_avec #prostitution #composite" ref="1.8.67" lemma="posco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">poscet</w>
+    <w ana="#acte #composite #metonymie #prostitution #resterAvec" ref="1.8.67" lemma="posco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">poscet</w>
     <w ref="1.8.67" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
     <w ref="1.8.67" lemma="munus" pos="NOMcom" msd="Case=Abl|Numb=Sing">munere</w>
-    <w ana="#acte #metonymie #rester_avec #prostitution" ref="1.8.67" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Sing">noctem</w>
+    <w ana="#acte #composite #metonymie #prostitution #resterAvec" ref="1.8.67" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Sing">noctem</w>
     <w ref="1.8.67" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.8.68" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">Quod</w>
     <w ref="1.8.68" lemma="do" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">det</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #consequences">
+<div type="fragment" ana="#acte #consequences #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="12" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">me</w>
     <w ref="12" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
     <w ref="12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #consequences" ref="12" lemma="mulier" pos="NOMcom" msd="Case=Acc|Numb=Plur">mulieres</w>
+    <w ana="#acte #consequences #metonymie" ref="12" lemma="mulier" pos="NOMcom" msd="Case=Acc|Numb=Plur">mulieres</w>
     <w ref="12" lemma="intra2" pos="PRE" msd="MORPH=empty">intra</w>
     <w ref="12" lemma="dies" pos="NOMcom" msd="Case=Acc|Numb=Plur">dies</w>
     <w ref="12" lemma="quindecim" pos="ADJcar" msd="Case=Ind">quindecim</w>

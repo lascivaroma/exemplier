@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="19.2.6" lemma="uoluptas" pos="NOMcom" msd="Case=Dat|Numb=Plur">voluptatibus</w>
     <w ref="19.2.6" lemma="iste" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">istis</w>
     <w ref="19.2.6" lemma="duo" pos="ADJcar" msd="Case=Abl|Numb=Plur|Gend=Fem">duabus</w>
-    <w ana="#acte #metonymie #coeo" ref="19.2.6" lemma="coeo1" pos="VER" msd="Case=Gen|Numb=Sing|Mood=Ger|Voice=Act">coeundi</w>
+    <w ana="#acte #coeo #metonymie" ref="19.2.6" lemma="coeo1" pos="VER" msd="Case=Gen|Numb=Sing|Mood=Ger|Voice=Act">coeundi</w>
     <w ref="19.2.6" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
     <w ref="19.2.6" lemma="comedo2" pos="VER" msd="Case=Gen|Numb=Sing|Mood=Ger|Voice=Act">comedendi</w>
     <w ref="19.2.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

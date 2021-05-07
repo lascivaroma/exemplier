@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #copulation">
+<div type="fragment" ana="#adjoiningParts #copulation #euphemism #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
         <w lemma="lasciuus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc">Lascivos</w>
         <w lemma="docilis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">docili</w>
         <w lemma="tremor" pos="NOMcom" msd="Case=Abl|Numb=Sing">tremore</w>
-        <w lemma="lumbus" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #euphemisms #voisinage #copulation">lumbos</w>
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#adjoiningParts #copulation #euphemism #male">lumbos</w>
         <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     </quote>
  </div>

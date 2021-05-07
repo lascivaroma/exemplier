@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #facio #homoerotique">
+<div type="fragment" ana="#acte #ellipse #euphemism #facio #homoeros">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="1.46.1" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
     <w ref="1.46.1" lemma="propero" pos="ADJqua" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act">Propero</w>
     <w ref="1.46.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #euphemism #ellipse #facio #homoerotique" ref="1.46.1" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">fac</w>
+    <w ana="#acte #ellipse #euphemism #facio #homoeros" ref="1.46.1" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">fac</w>
     <w ref="1.46.1" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
     <w ref="1.46.1" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">facis</w>
     <w ref="1.46.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

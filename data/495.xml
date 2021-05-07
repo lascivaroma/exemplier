@@ -1,4 +1,4 @@
-<div type="fragment" ana="#navis #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #female #metaphore #navis">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="numquam" pos="ADVneg" msd="MORPH=empty">Numquam</w>
         <w lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
         <w lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
-        <w ana="#navis" lemma="nauis" pos="NOMcom" msd="Case=Abl|Numb=Sing">navi</w>
+        <w ana="#cunnus #female #metaphore #navis" lemma="nauis" pos="NOMcom" msd="Case=Abl|Numb=Sing">navi</w>
         <w lemma="plenus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">plena</w>
         <w lemma="tollo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">tollo</w>
         <w lemma="uector1" pos="NOMcom" msd="Case=Acc|Numb=Sing">vectorem</w>

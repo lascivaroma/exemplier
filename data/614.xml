@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #labia">
+<div type="fragment" ana="#cunnus #female #labia">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="I.107" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
     <w ref="I.107" lemma="latus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">latus</w>
     <w ref="I.107" lemma="pannus" pos="NOMcom" msd="Case=Nom|Numb=Sing">pannus</w>
-    <w ana="#female #cunnus #labia" ref="I.107" lemma="fibra" pos="NOMcom" msd="Case=Abl|Numb=Plur">fibris</w>
+    <w ana="#cunnus #female #labia" ref="I.107" lemma="fibra" pos="NOMcom" msd="Case=Abl|Numb=Plur">fibris</w>
     <w ref="I.107" lemma="impono" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">imponantur</w>
     <w ref="I.107" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="I.107" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>

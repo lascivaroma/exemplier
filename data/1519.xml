@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec #celibat">
+<div type="fragment" ana="#acte #celibat #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi002.perseus-lat2:5.106" type="line">
     <w ref="5.106" lemma="nunc" pos="ADV" msd="Deg=Pos">Nunc</w>
-    <w ana="#acte #metonymie #dormir_avec #celibat" ref="5.106" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iacet</w>
+    <w ana="#acte #celibat #dormirAvec #metonymie" ref="5.106" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iacet</w>
     <w ref="5.106" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="5.106" lemma="uiduus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">viduo</w>
     <w ref="5.106" lemma="credulus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">credulus</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #anneau #culus #anus">
+<div type="fragment" ana="#anneau #culus #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="4.22" lemma="dolor" pos="NOMcom" msd="Case=Nom|Numb=Sing">dolorque</w>
     <w ref="4.22" lemma="que" pos="CON" msd="MORPH=empty">{dolorque}</w>
     <w ref="4.22" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-    <w ana="#metaphore #anneau #culus #anus" ref="4.22" lemma="anus?" pos="NOMcom" msd="Case=Abl|Numb=Sing">ano</w>
+    <w ana="#anneau #culus #metaphore" ref="4.22" lemma="anus?" pos="NOMcom" msd="Case=Abl|Numb=Sing">ano</w>
     <w ref="4.22" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="4.22" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

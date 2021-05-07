@@ -1,4 +1,4 @@
-<div type="fragment" ana="#parties clitoris #female #cunnus">
+<div type="fragment" ana="#clitoris #cunnus #female #pars">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
         <w lemma="que" pos="CON" msd="MORPH=empty">{Mentiturque}</w>
         <w lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Sing">virum</w>
         <w lemma="prodigiosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">prodigiosa</w>
-        <w ana="#partiesclitoris" lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Venus</w>
+        <w ana="#clitoris #cunnus #female #pars" lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Venus</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #toucher #fututio">
+<div type="fragment" ana="#acte #fututio #metonymie #toucher">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="89.5" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
     <w ref="89.5" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
     <w ref="89.5" lemma="fas" pos="NOMcom" msd="Case=Ind">fas</w>
-    <w ana="#acte #metonymie #toucher #fututio" ref="89.5" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tangere</w>
+    <w ana="#acte #fututio #metonymie #toucher" ref="89.5" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tangere</w>
     <w ref="89.5" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="89.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="89.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

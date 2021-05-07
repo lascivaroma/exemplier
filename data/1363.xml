@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #joke #jeu #jeunesse">
+<div type="fragment" ana="#acte #jeu #jeunesse #joke #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="2.60.3" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
     <w ref="2.60.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.60.3" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
-    <w ana="#metaphore #acte #joke #jeu #jeunesse" ref="2.60.3" lemma="ludus" pos="NOMcom" msd="Case=Abl|Numb=Plur">ludis</w>
+    <w ana="#acte #jeu #jeunesse #joke #metaphore" ref="2.60.3" lemma="ludus" pos="NOMcom" msd="Case=Abl|Numb=Plur">ludis</w>
     <w ref="2.60.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.60.3" lemma="castro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=2">castrabere</w>
     <w ref="2.60.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

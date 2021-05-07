@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #contenant #metaphore #mentula">
+<div type="fragment" ana="#contenant #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0040.stoa003:14.23">
         <w lemma="ita" pos="ADV" msd="Deg=Pos">Ita</w>
         <w lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">genitale</w>
-        <w lemma="aruum" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #contenant #metaphore #mentula">aruum</w>
+        <w lemma="aruum" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#contenant #male #mentula #metaphore">aruum</w>
         <w lemma="uas2" pos="NOMcom" msd="Case=Nom|Numb=Sing">uas</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
         <w lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>

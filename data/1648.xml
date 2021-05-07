@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="11.41.6" lemma="leno1" pos="NOMcom" msd="Case=Gen|Numb=Sing">lenonis</w>
     <w ref="11.41.6" lemma="cogo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">cogatur</w>
     <w ref="11.41.6" lemma="quispiam" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">quispiam</w>
-    <w ana="#acte #metonymie #coeo" ref="11.41.6" lemma="coitio" pos="NOMcom" msd="Case=Gen|Numb=Sing">coitionis</w>
+    <w ana="#acte #coeo #metonymie" ref="11.41.6" lemma="coitio" pos="NOMcom" msd="Case=Gen|Numb=Sing">coitionis</w>
     <w ref="11.41.6" lemma="sordes" pos="NOMcom" msd="Case=Acc|Numb=Plur">sordes</w>
     <w ref="11.41.6" lemma="fero" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ferre</w>
     <w ref="11.41.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

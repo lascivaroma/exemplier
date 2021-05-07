@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="1.61.1" lemma="inicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">inicies</w>
     <w ref="1.61.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.61.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-    <w ana="#male #euphemisms #aidoion #mentula" ref="1.61.1" lemma="uereter" pos="NOMcom" msd="Case=Acc|Numb=Sing">veretrum</w>
+    <w ana="#aidoion #euphemism #male #mentula" ref="1.61.1" lemma="uereter" pos="NOMcom" msd="Case=Acc|Numb=Sing">veretrum</w>
     <w ref="1.61.1" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
     <w ref="1.61.1" lemma="quo1" pos="ADVrel" msd="Numb=Sing">quo</w>
     <w ref="1.61.1" lemma="mingo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Fut|Voice=Dep">mincturus</w>

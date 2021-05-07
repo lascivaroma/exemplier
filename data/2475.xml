@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #aidoion">
+<div type="fragment" ana="#aidoion #euphemism">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -32,7 +32,7 @@
     <w ref="2.143" lemma="necessario" pos="ADV" msd="Deg=Pos">necessario</w>
     <w ref="2.143" lemma="circumcido?" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">circumcisus</w>
     <w ref="2.143" lemma="circa2" pos="PRE" msd="MORPH=empty">circa</w>
-    <w ana="#euphemisms #aidoion" ref="2.143" lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut">genitalia</w>
+    <w ana="#aidoion #euphemism" ref="2.143" lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut">genitalia</w>
     <w ref="2.143" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.143" lemma="uulnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uulnere</w>
     <w ref="2.143" lemma="is" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">ei</w>

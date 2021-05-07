@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #oral">
+<div type="fragment" ana="#acte #composite #oral">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="11.61.1" lemma="Nanneius" pos="ADJqua" msd="Case=Nom|Numb=Sing">Nanneius</w>
     <w ref="11.61.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="11.61.2" lemma="Summemnianus" pos="NOMpro" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">Summemmianis</w>
-    <w ana="#acte #oral" ref="11.61.2" lemma="inquinatus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">inquinatior</w>
-    <w ana="#acte #oral" ref="11.61.2" lemma="bucca" pos="NOMcom" msd="Case=Abl|Numb=Plur">buccis</w>
+    <w ana="#acte #composite #oral" ref="11.61.2" lemma="inquinatus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">inquinatior</w>
+    <w ana="#acte #composite #oral" ref="11.61.2" lemma="bucca" pos="NOMcom" msd="Case=Abl|Numb=Plur">buccis</w>
   </quote>
 </div>

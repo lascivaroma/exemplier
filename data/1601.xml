@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="21.21" lemma="ueneficium" pos="NOMcom" msd="Case=Acc|Numb=Plur">veneficia</w>
     <w ref="21.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="21.21" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Plur|Gend=Com">quibus</w>
-    <w ana="#acte #metonymie #coeo" ref="21.21" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Plur">coitus</w>
+    <w ana="#acte #coeo #metonymie" ref="21.21" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Plur">coitus</w>
     <w ref="21.21" lemma="inhibeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">inhibeatur</w>
     <w ref="21.21" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

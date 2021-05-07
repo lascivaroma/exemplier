@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rub #futuo">
+<div type="fragment" ana="#acte #fututio #metonymie #rub">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="1.15" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.15" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
     <w ref="1.15" lemma="feriae" pos="NOMcom" msd="Case=Dat|Numb=Plur">feriis</w>
-    <w ana="#acte #metonymie #rub #futuo" ref="1.15" lemma="tergo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tergere</w>
+    <w ana="#acte #fututio #metonymie #rub" ref="1.15" lemma="tergo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tergere</w>
     <w ref="1.15" lemma="uetus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">veteres</w>
     <w ref="1.15" lemma="fossa" pos="NOMcom" msd="Case=Acc|Numb=Plur">fossas</w>
     <w ref="1.15" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">liceret</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #fellatio #acte #actor">
+<div type="fragment" ana="#acte #actor #fellatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="14.74.1" lemma="salutator" pos="NOMcom" msd="Case=Nom|Numb=Sing">salutator</w>
     <w ref="14.74.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="14.74.1" lemma="quare2" pos="ADVint" msd="MORPH=empty">quare</w>
-    <w ana="#acte #fellatio #acte #actor" ref="14.74.1" lemma="fellator" pos="NOMcom" msd="Case=Nom|Numb=Sing">fellator</w>
+    <w ana="#acte #actor #fellatio" ref="14.74.1" lemma="fellator" pos="NOMcom" msd="Case=Nom|Numb=Sing">fellator</w>
     <w ref="14.74.1" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=2">haberis</w>
     <w ref="14.74.1" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
   </quote>

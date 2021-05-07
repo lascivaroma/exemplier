@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #consequences #tired">
+<div type="fragment" ana="#acte #consequences #metonymie #tired">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="4" lemma="triginta" pos="ADJcar" msd="Case=Ind">triginta</w>
     <w ref="4" lemma="miles" pos="NOMcom" msd="Case=Acc|Numb=Plur">milites</w>
     <w ref="4" lemma="aliquando" pos="ADV" msd="Deg=Pos">aliquando</w>
-    <w ana="#acte #metonymie #consequences #tired" ref="4" lemma="lasso" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">lassasse</w>
+    <w ana="#acte #consequences #metonymie #tired" ref="4" lemma="lasso" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">lassasse</w>
     <w ref="4" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     <w ref="4" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">potes</w>
     <w ref="4" lemma="tricies" pos="NOMcom" msd="Case=Acc">tricies</w>

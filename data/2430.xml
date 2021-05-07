@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #musique">
+<div type="fragment" ana="#mentula #metaphore #musique #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="127" lemma="transadigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">transadigit</w>
     <w ref="127" lemma="costa" pos="NOMcom" msd="Case=Acc|Numb=Plur">costas</w>
     <w ref="127" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#mentula #metaphore #pointu #musique" ref="127" lemma="pecten" pos="NOMcom" msd="Case=Abl|Numb=Sing">pectine</w>
+    <w ana="#mentula #metaphore #musique #pointu" ref="127" lemma="pecten" pos="NOMcom" msd="Case=Abl|Numb=Sing">pectine</w>
     <w ref="127" lemma="pulso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pulsat</w>
     <w ref="127" lemma="eburneus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">eburno</w>
     <w ref="127" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

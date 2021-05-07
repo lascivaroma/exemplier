@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -31,7 +31,7 @@
     <w ref="2.105" lemma="mordicatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">mordicationem</w>
     <w ref="2.105" lemma="quidam" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">quandam</w>
     <w ref="2.105" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">faciat</w>
-    <w ana="#anus #culus" ref="2.105" lemma="podicus" pos="NOMcom" msd="Case=Gen|Numb=Sing">podici</w>
+    <w ana="#culus" ref="2.105" lemma="podicus" pos="NOMcom" msd="Case=Gen|Numb=Sing">podici</w>
     <w ref="2.105" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
     <w ref="2.105" lemma="intestinus" pos="NOMcom" msd="Case=Dat|Numb=Plur">intestinis</w>
     <w ref="2.105" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

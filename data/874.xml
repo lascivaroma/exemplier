@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="98.3" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
     <w ref="98.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="98.3" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">possis</w>
-    <w ana="#anus #culus" ref="98.4" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Plur">culos</w>
+    <w ana="#culus" ref="98.4" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Plur">culos</w>
     <w ref="98.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="98.4" lemma="crepida" pos="NOMcom" msd="Case=Acc|Numb=Plur">crepidas</w>
     <w ref="98.4" lemma="lingo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">lingere</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #futuo #detendre">
+<div type="fragment" ana="#acte #detendre #fututio #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -37,7 +37,7 @@
     <w ref="46.4" lemma="que" pos="CON" msd="MORPH=empty">{pilosiorque}</w>
     <w ref="46.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="46.5" lemma="medus" pos="NOMcom" msd="Case=Abl|Numb=Plur">Medis</w>
-    <w ana="#acte #metonymie #futuo #detendre" ref="46.5" lemma="laxus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">laxior</w>
+    <w ana="#acte #detendre #fututio #metonymie" ref="46.5" lemma="laxus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">laxior</w>
     <w ref="46.5" lemma="indico" pos="ADJqua" msd="Case=Abl|Numb=Sing">Indicisue</w>
     <w ref="46.5" lemma="ue" pos="CON" msd="MORPH=empty">{Indicisue}</w>
     <w ref="46.5" lemma="braca" pos="NOMcom" msd="Case=Abl|Numb=Plur">bracis</w>

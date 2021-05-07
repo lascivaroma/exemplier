@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #metonymie #acte #embrace">
+<div type="fragment" ana="#acte #embrace #male #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
     <w ref="30" lemma="nescio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">nescit</w>
     <w ref="30" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="30" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
-    <w ana="#acte #male #metonymie #acte #embrace" ref="30" lemma="comprimo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">compressam</w>
+    <w ana="#acte #embrace #male #metonymie" ref="30" lemma="comprimo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">compressam</w>
     <w ref="30" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
     <w ref="30" lemma="pater" pos="NOMcom" msd="Case=Nom|Numb=Sing">pater</w>
     <w ref="30" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #frapper #pedicatio">
+<div type="fragment" ana="#acte #frapper #metaphore #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -31,7 +31,7 @@
     <w ref="56.7" lemma="telum" pos="NOMcom" msd="Case=Abl|Numb=Sing">telo</w>
     <w ref="56.7" lemma="rigidus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">rigida</w>
     <w ref="56.7" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Fem">mea</w>
-    <w ana="#metaphore #acte #frapper #pedicatio" ref="56.7" lemma="caedo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">cecidi</w>
+    <w ana="#acte #frapper #metaphore #pedicatio" ref="56.7" lemma="caedo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">cecidi</w>
     <w ref="56.7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

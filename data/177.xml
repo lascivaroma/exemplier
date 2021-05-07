@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #mentula">
+<div type="fragment" ana="#adjoiningParts #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
         <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
         <w lemma="falx" pos="NOMcom" msd="Case=Abl|Numb=Sing">falce</w>
         <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
-        <w lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #euphemisms #voisinage">inguine</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#adjoiningParts #euphemism #male #mentula">inguine</w>
         <w lemma="terreo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">terret</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>

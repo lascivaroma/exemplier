@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #labia">
+<div type="fragment" ana="#cunnus #female #labia">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="511" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
     <w ref="511" lemma="ille" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Masc">illi</w>
     <w ref="511" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
-    <w ana="#female #cunnus #labia" ref="511" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ana="#cunnus #female #labia" ref="511" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
     <w ref="511" lemma="exitium" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">exitiost</w>
     <w ref="511" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">{exitiost}</w>
     <w ref="511" lemma="prius" pos="ADJadv.ord" msd="Deg=Comp">prius</w>

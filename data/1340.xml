@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #epouser #noces">
+<div type="fragment" ana="#acte #epouser #metaphore #noces">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="3.60" lemma="iustus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">iustosque</w>
     <w ref="3.60" lemma="que" pos="CON" msd="MORPH=empty">{iustosque}</w>
     <w ref="3.60" lemma="patior" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">pati</w>
-    <w ana="#metaphore #acte #epouser #noces" ref="3.60" lemma="hymenaeus" pos="NOMcom" msd="Case=Acc|Numb=Plur">hymenaeos</w>
+    <w ana="#acte #epouser #metaphore #noces" ref="3.60" lemma="hymenaeus" pos="NOMcom" msd="Case=Acc|Numb=Plur">hymenaeos</w>
     <w ref="3.61" lemma="desino" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">desinit</w>
     <w ref="3.61" lemma="ante2" pos="PRE" msd="MORPH=empty">ante</w>
     <w ref="3.61" lemma="decem" pos="ADJcar" msd="Case=Ind">decem</w>

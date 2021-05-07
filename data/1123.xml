@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #fellatio #irrumo">
+<div type="fragment" ana="#acte #fellatio #irrumatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="4.17.3" lemma="malus3" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">malus</w>
     <w ref="4.17.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
     <w ref="4.17.3" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
-    <w ana="#acte #fellatio #irrumo" ref="4.17.3" lemma="irrumo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">irrumare</w>
+    <w ana="#acte #fellatio #irrumatio" ref="4.17.3" lemma="irrumo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">irrumare</w>
     <w ref="4.17.3" lemma="uolo3" pos="NOMcom" msd="Case=Nom|Numb=Sing|Person=2">vis</w>
     <w ref="4.17.3" lemma="solus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">solus</w>
     <w ref="4.17.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

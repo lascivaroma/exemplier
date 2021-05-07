@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #travailler">
+<div type="fragment" ana="#acte #metaphore #travailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="11.78.2" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
     <w ref="11.78.2" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
     <w ref="11.78.2" lemma="disco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">discat</w>
-    <w ana="#metaphore #acte #travailler" ref="11.78.2" lemma="opus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">opus</w>
+    <w ana="#acte #metaphore #travailler" ref="11.78.2" lemma="opus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">opus</w>
     <w ref="11.78.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

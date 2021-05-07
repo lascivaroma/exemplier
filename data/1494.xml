@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #m2puer #dormir_avec">
+<div type="fragment" ana="#acte #composite #dormirAvec #m2puer #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,10 +23,10 @@
     <w ref="8.44.16" lemma="uelum" pos="VER" msd="Numb=Sing|Person=2">velis</w>
     <w ref="8.44.16" lemma="nolo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">nolis</w>
     <w ref="8.44.16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #m2puer #dormir_avec" ref="8.44.17" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+    <w ana="#acte #composite #dormirAvec #m2puer #metonymie" ref="8.44.17" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
     <w ref="8.44.17" lemma="concubinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">concubino</w>
     <w ref="8.44.17" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
-    <w ana="#acte #metonymie #m2puer #dormir_avec" ref="8.44.17" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">dormiet</w>
+    <w ana="#acte #composite #dormirAvec #m2puer #metonymie" ref="8.44.17" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">dormiet</w>
     <w ref="8.44.17" lemma="primus" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Sup">prima</w>
     <w ref="8.44.17" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

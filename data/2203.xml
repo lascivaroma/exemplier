@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #facio #femaleSubject">
+<div type="fragment" ana="#acte #ellipse #euphemism #facio #femaleSubject">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="3.4.4" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">liceat</w>
     <w ref="3.4.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="3.4.4" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
-    <w ana="#acte #euphemism #ellipse #facio #femaleSubject" ref="3.4.4" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
+    <w ana="#acte #ellipse #euphemism #facio #femaleSubject" ref="3.4.4" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
     <w ref="3.4.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="3.4.4" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
     <w ref="3.4.4" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>

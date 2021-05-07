@@ -1,4 +1,4 @@
-<div type="fragment" ana="#cunnus #female">
+<div type="fragment" ana="#composite #cunnus #female">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,8 +19,8 @@
         <w lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">dicitur</w>
         <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
         <w lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
-        <w ana="#cunnus #composite" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
-        <w ana="#cunnus #composite" lemma="nos" pos="PROper" msd="Case=Nom|Numb=Plur">nos</w>
+        <w ana="#composite #cunnus #female" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+        <w ana="#composite #cunnus #female" lemma="nos" pos="PROper" msd="Case=Nom|Numb=Plur">nos</w>
         <w lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
         <w lemma="uolo3" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1">voluimus</w>
         <w lemma="conuenio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">convenire</w>

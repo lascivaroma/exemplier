@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #misc">
+<div type="fragment" ana="#dildo #divers #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -32,7 +32,7 @@
         <w lemma="immanis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Sup">inmanissimum</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="turpis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Sup">turpissimum</w>
-        <w ana="#male #dildo" lemma="fascinum" pos="NOMcom" msd="Case=Acc|Numb=Sing">fascinum</w>
+        <w ana="#dildo #divers #male" lemma="fascinum" pos="NOMcom" msd="Case=Acc|Numb=Sing">fascinum</w>
         <w lemma="sedeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">sedere</w>
         <w lemma="nouus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">noua</w>
         <w lemma="nubo" pos="NOMcom" msd="Case=Nom|Numb=Sing">nupta</w>

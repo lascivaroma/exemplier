@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #armes">
+<div type="fragment" ana="#armes #mentula #metaphore #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="120" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Fem">illa</w>
     <w ref="120" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
     <w ref="120" lemma="morior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">moriens</w>
-    <w ana="#mentula #metaphore #pointu #armes" ref="120" lemma="telum" pos="NOMcom" msd="Case=Acc|Numb=Sing">telum</w>
+    <w ana="#armes #mentula #metaphore #pointu" ref="120" lemma="telum" pos="NOMcom" msd="Case=Acc|Numb=Sing">telum</w>
     <w ref="120" lemma="traho" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">trahit</w>
     <w ref="120" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="120" lemma="os2" pos="NOMcom" msd="Case=Acc|Numb=Plur">ossa</w>

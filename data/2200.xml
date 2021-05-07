@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #res #prostitution">
+<div type="fragment" ana="#acte #ellipse #euphemism #prostitution #res">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi1294.phi002.perseus-lat2</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:5.61.14" type="line">
-    <w ana="#acte #euphemism #ellipse #res #prostitution" ref="5.61.14" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Sing">Res</w>
+    <w ana="#acte #ellipse #euphemism #prostitution #res" ref="5.61.14" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Sing">Res</w>
     <w ref="5.61.14" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="5.61.14" lemma="uxor" pos="NOMcom" msd="Case=Gen|Numb=Sing">uxoris</w>
     <w ref="5.61.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

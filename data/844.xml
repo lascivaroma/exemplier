@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #womb #medical">
+<div type="fragment" ana="#female #medicale #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:77.1" type="paragraph">
     <w ref="77.1" lemma="praefocatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">Praefocationem</w>
-    <w ana="#female #womb #medical" ref="77.1" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ana="#female #medicale #womb" ref="77.1" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
     <w ref="77.1" lemma="sequor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">sequitur</w>
     <w ref="77.1" lemma="subitus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">subitus</w>
     <w ref="77.1" lemma="casus" pos="NOMcom" msd="Case=Nom|Numb=Sing">casus</w>

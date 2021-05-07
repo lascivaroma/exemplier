@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #epouser #noces">
+<div type="fragment" ana="#acte #epouser #metaphore #noces">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="6.29.22" lemma="filia" pos="NOMcom" msd="Case=Acc|Numb=Plur">filias</w>
     <w ref="6.29.22" lemma="pater" pos="NOMcom" msd="Case=Dat|Numb=Plur">patribus</w>
     <w ref="6.29.22" lemma="illicitus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">inlicitis</w>
-    <w ana="#metaphore #acte #epouser #noces" ref="6.29.22" lemma="matrimonium" pos="NOMcom" msd="Case=Gen|Numb=Plur">matrimoniorum</w>
+    <w ana="#acte #epouser #metaphore #noces" ref="6.29.22" lemma="matrimonium" pos="NOMcom" msd="Case=Gen|Numb=Plur">matrimoniorum</w>
     <w ref="6.29.22" lemma="uinculum" pos="NOMcom" msd="Case=Abl|Numb=Plur">vinculis</w>
     <w ref="6.29.22" lemma="copulo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">copulari</w>
     <w ref="6.29.22" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #misc">
+<div type="fragment" ana="#dildo #divers #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
         <w lemma="pudendus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com">pudendis</w>
         <w lemma="horrens" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=Com|Deg=Pos">horrentique</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{horrentique}</w>
-        <w ana="#male #dildo" lemma="fascinum" pos="NOMcom" msd="Case=Dat|Numb=Sing">fascino</w>
+        <w ana="#dildo #divers #male" lemma="fascinum" pos="NOMcom" msd="Case=Dat|Numb=Sing">fascino</w>
         <w lemma="uester" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Fem">uestras</w>
         <w lemma="inequito" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">inequitare</w>
         <w lemma="matrona" pos="NOMcom" msd="Case=Acc|Numb=Plur">matronas</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio #humain">
+<div type="fragment" ana="#acte #animal #humain #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="6.110" lemma="imago" pos="NOMcom" msd="Case=Abl|Numb=Sing">imagine</w>
     <w ref="6.110" lemma="pulcher" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">pulchram</w>
     <w ref="6.111" lemma="Iuppiter" pos="NOMpro" msd="Case=Nom|Numb=Sing">Iuppiter</w>
-    <w ana="#acte #animals #salio #humain" ref="6.111" lemma="impleo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">implerit</w>
+    <w ana="#acte #animal #humain #salio" ref="6.111" lemma="impleo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">implerit</w>
     <w ref="6.111" lemma="geminus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">gemino</w>
     <w ref="6.111" lemma="Nycteis" pos="ADJqua" msd="Case=Nom|Numb=Sing">Nycteida</w>
     <w ref="6.111" lemma="fetus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">fetu</w>

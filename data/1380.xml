@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #devoir #service #fellatio">
+<div type="fragment" ana="#acte #devoir #fellatio #metaphore #service">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="2.16" lemma="mos" pos="NOMcom" msd="Case=Acc|Numb=Sing">morem</w>
     <w ref="2.16" lemma="1" pos="ADJcar" msd="MORPH=empty">I</w>
     <w ref="2.16" lemma="plene" pos="ADV" msd="Deg=Comp">plenius</w>
-    <w ana="#metaphore #acte #devoir #service #fellatio" ref="2.16" lemma="gero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2">gesseris</w>
+    <w ana="#acte #devoir #fellatio #metaphore #service" ref="2.16" lemma="gero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2">gesseris</w>
     <w ref="2.16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.16" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="2.16" lemma="effundo2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut">effusum</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="5.11.35" lemma="dominus" pos="NOMcom" msd="Case=Acc|Numb=Sing">dominum</w>
     <w ref="5.11.35" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="5.11.35" lemma="ancilla" pos="NOMcom" msd="Case=Abl|Numb=Sing">ancilla</w>
-    <w ana="#acte #metonymie #coeo" ref="5.11.35" lemma="coeo1" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">coisse</w>
+    <w ana="#acte #coeo #metonymie" ref="5.11.35" lemma="coeo1" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">coisse</w>
     <w ref="5.11.35" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="5.11.35" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
     <w ref="5.11.35" lemma="domina" pos="NOMcom" msd="Case=Acc|Numb=Sing">dominam</w>

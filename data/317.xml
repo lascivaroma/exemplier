@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #natura #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #natura">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
         <w lemma="quies" pos="NOMcom" msd="Case=Abl|Numb=Sing">quiete</w>
         <w lemma="obsigno" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">obsignatam</w>
         <w lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
-        <w lemma="natura" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #natura">naturam</w>
+        <w lemma="natura" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#euphemism #male #mentula #natura">naturam</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

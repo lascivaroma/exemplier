@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #epouser #noces">
+<div type="fragment" ana="#acte #epouser #metaphore #noces">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="7.21" lemma="uenio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Venere</w>
     <w ref="7.21" lemma="inuito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">invitat</w>
     <w ref="7.21" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
-    <w ana="#metaphore #acte #epouser #noces" ref="7.21" lemma="nuptiae" pos="NOMcom" msd="Case=Acc|Numb=Plur">nuptias</w>
+    <w ana="#acte #epouser #metaphore #noces" ref="7.21" lemma="nuptiae" pos="NOMcom" msd="Case=Acc|Numb=Plur">nuptias</w>
     <w ref="7.21" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

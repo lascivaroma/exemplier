@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #fellatio #acte">
+<div type="fragment" ana="#acte #fellatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:4.84.4" type="line">
     <w ref="4.84.4" lemma="immo" pos="ADV" msd="Deg=Pos">Immo</w>
-    <w ana="#acte #fellatio #acte" ref="4.84.4" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fellat</w>
+    <w ana="#acte #fellatio" ref="4.84.4" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fellat</w>
     <w ref="4.84.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

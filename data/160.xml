@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #specialisation #milieu  #euphemism">
+<div type="fragment" ana="#euphemism #female #milieu #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">Ego</w>
         <w lemma="edepol" pos="INJ" msd="MORPH=empty">edepol</w>
         <w lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
-        <w lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos" ana="#female #specialisation #milieu  #euphemism">mediam</w>
+        <w lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos" ana="#euphemism #female #milieu #specialisation">mediam</w>
         <w lemma="diruptus" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">diruptam</w>
         <w lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1">velim</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>

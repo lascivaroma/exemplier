@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #couper #tailler #pedicatio #acte">
+<div type="fragment" ana="#acte #couper #metaphore #pedicatio #tailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="286" lemma="haud" pos="ADVneg" msd="MORPH=empty">haud</w>
     <w ref="286" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="286" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2">velles</w>
-    <w ana="#metaphore #couper #tailler #pedicatio #acte" ref="286" lemma="diuido" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">dividi</w>
+    <w ana="#acte #couper #metaphore #pedicatio #tailler" ref="286" lemma="diuido" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">dividi</w>
     <w ref="286" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

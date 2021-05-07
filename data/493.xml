@@ -1,4 +1,4 @@
-<div type="fragment" ana="#navis #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #female #metaphore #navis">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">hac</w>
         <w lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
-        <w ana="#navis" lemma="nauis" pos="NOMcom" msd="Case=Nom|Numb=Sing">navis</w>
+        <w ana="#cunnus #female #metaphore #navis" lemma="nauis" pos="NOMcom" msd="Case=Nom|Numb=Sing">navis</w>
         <w lemma="nos" pos="PROper" msd="Case=Dat|Numb=Plur">nobis</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

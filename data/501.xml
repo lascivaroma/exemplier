@@ -1,4 +1,4 @@
-<div type="fragment" ana="#sinus #euphemism #female #cunnus">
+<div type="fragment" ana="#composite #cunnus #euphemism #female #sinus">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,8 +25,8 @@
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
         <w lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">toto</w>
-        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
-        <w ana="#sinus #euphemism #composite" lemma="muliebris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">muliebri</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="muliebris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">muliebri</w>
         <w lemma="distendo" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">distenta</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="collum" pos="NOMcom" msd="Case=Abl|Numb=Sing">collo</w>

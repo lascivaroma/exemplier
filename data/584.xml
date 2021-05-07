@@ -1,4 +1,4 @@
-<div type="fragment" ana="#labia #female #cunnus">
+<div type="fragment" ana="#cunnus #female #labia">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
         <w lemma="inferus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Sup">imas</w>
-        <w ana="#labia" lemma="ora" pos="NOMcom" msd="Case=Acc|Numb=Plur">oras</w>
+        <w ana="#cunnus #female #labia" lemma="ora" pos="NOMcom" msd="Case=Acc|Numb=Plur">oras</w>
         <w lemma="super2" pos="PRE" msd="MORPH=empty">super</w>
         <w lemma="naturalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">naturale</w>
         <w lemma="pono" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">positum</w>

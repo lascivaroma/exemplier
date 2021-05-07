@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #glans">
+<div type="fragment" ana="#glans #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
         <w lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">potui</w>
         <w lemma="supplicium" pos="NOMcom" msd="Case=Abl|Numb=Sing">supplicio</w>
-        <w ana="#male #glans" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+        <w ana="#glans #male" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
         <w lemma="aperio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">aperire</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>

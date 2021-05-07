@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #blessure">
+<div type="fragment" ana="#acte #blessure #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="121" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="121" lemma="uiuus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">vivum</w>
     <w ref="121" lemma="persido" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">persedit</w>
-    <w ana="#metaphore #acte #blessure" ref="121" lemma="uulnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulnere</w>
+    <w ana="#acte #blessure #metaphore" ref="121" lemma="uulnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulnere</w>
     <w ref="121" lemma="mucro" pos="NOMcom" msd="Case=Abl|Numb=Sing">mucro</w>
     <w ref="121" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

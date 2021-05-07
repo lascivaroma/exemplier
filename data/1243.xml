@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #couper #tailler #desir">
+<div type="fragment" ana="#couper #desir #metaphore #tailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="2.16.13" lemma="succurro" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">succurre</w>
     <w ref="2.16.13" lemma="dolor" pos="NOMcom" msd="Case=Dat|Numb=Sing">dolori</w>
     <w ref="2.16.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#metaphore #couper #tailler #desir" ref="2.16.14" lemma="rumpo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">rumpat</w>
+    <w ana="#couper #desir #metaphore #tailler" ref="2.16.14" lemma="rumpo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">rumpat</w>
     <w ref="2.16.14" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
     <w ref="2.16.14" lemma="assiduus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">assiduis</w>
     <w ref="2.16.14" lemma="membrum" pos="NOMcom" msd="Case=Nom|Numb=Plur">membra</w>

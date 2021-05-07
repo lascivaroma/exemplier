@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #agriculture #labourer">
+<div type="fragment" ana="#acte #agriculture #labourer #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,7 +29,7 @@
     <w ref="9.21.4" lemma="amo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">amat</w>
     <w ref="9.21.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="9.21.4" lemma="calliodorus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Calliodorus</w>
-    <w ana="#metaphore #acte #agriculture #labourer" ref="9.21.4" lemma="aro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">arat</w>
+    <w ana="#acte #agriculture #labourer #metaphore" ref="9.21.4" lemma="aro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">arat</w>
     <w ref="9.21.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

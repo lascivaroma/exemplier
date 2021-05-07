@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #botanique">
+<div type="fragment" ana="#botanique #mentula #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi006.perseus-lat2:911b" type="line">
     <w ref="911b" lemma="num" pos="ADVint" msd="MORPH=empty">Num</w>
-    <w ana="#mentula #metaphore #botanique" ref="911b" lemma="radix" pos="NOMcom" msd="Case=Nom|Numb=Sing">radix</w>
+    <w ana="#botanique #mentula #metaphore" ref="911b" lemma="radix" pos="NOMcom" msd="Case=Nom|Numb=Sing">radix</w>
     <w ref="911b" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fúit</w>
   </quote>
 </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #agriculture #creuser #acte">
+<div type="fragment" ana="#acte #agriculture #creuser #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="4.7" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="4.7" lemma="uirginalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">uirginalem</w>
     <w ref="4.7" lemma="scrobis" pos="NOMcom" msd="Case=Acc|Numb=Sing">scrobem</w>
-    <w ana="#metaphore #agriculture #creuser #acte" ref="4.7" lemma="effodio" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">effodientibus</w>
+    <w ana="#acte #agriculture #creuser #metaphore" ref="4.7" lemma="effodio" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">effodientibus</w>
     <w ref="4.7" lemma="maritus1" pos="NOMcom" msd="Case=Dat|Numb=Plur">maritis</w>
     <w ref="4.7" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
   </quote>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #outil #metaphore #mentula">
+<div type="fragment" ana="#male #mentula #metaphore #outil">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -32,7 +32,7 @@
     <w ref="8" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eo</w>
     <w ref="8" lemma="condicio" pos="NOMcom" msd="Case=Acc|Numb=Plur">condiciones</w>
     <w ref="8" lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
-    <w ana="#male #outil #metaphore #mentula" ref="8" lemma="uasatus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=MascNeut|Deg=Pos">vasatorum</w>
+    <w ana="#male #mentula #metaphore #outil" ref="8" lemma="uasatus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=MascNeut|Deg=Pos">vasatorum</w>
     <w ref="8" lemma="homo" pos="NOMcom" msd="Case=Gen|Numb=Plur">hominum</w>
     <w ref="8" lemma="colligo3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">colligeret</w>
     <w ref="8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="3.93" lemma="hirsutus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">hirsutas</w>
     <w ref="3.93" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="3.93" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
-    <w ana="#acte #metonymie #coeo" ref="3.93" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
+    <w ana="#acte #coeo #metonymie" ref="3.93" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
     <w ref="3.93" lemma="marus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Fem|Deg=Pos">marum</w>
     <w ref="3.93" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Plur|Gend=Fem">sua</w>
     <w ref="3.93" lemma="spons" pos="NOMcom" msd="Case=Abl|Numb=Sing">sponte</w>

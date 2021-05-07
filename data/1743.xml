@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rub #masturbate">
+<div type="fragment" ana="#acte #masturbatio #metonymie #rub">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="1189" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
     <w ref="1189" lemma="senex1" pos="NOMcom" msd="Case=Nom|Numb=Plur">senes</w>
     <w ref="1189" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #rub #masturbate" ref="1189" lemma="frico" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">fricari</w>
+    <w ana="#acte #masturbatio #metonymie #rub" ref="1189" lemma="frico" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">fricari</w>
     <w ref="1189" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Plur">sese</w>
     <w ref="1189" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
     <w ref="1189" lemma="antiquum" pos="NOMcom" msd="Case=Abl|Numb=Sing">antiquo</w>

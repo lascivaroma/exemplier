@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #consequences">
+<div type="fragment" ana="#acte #composite #consequences #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -33,8 +33,8 @@
     <w ref="49" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
     <w ref="49" lemma="amator" pos="NOMcom" msd="Case=Nom|Numb=Sing">amator</w>
     <w ref="49" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #consequences" ref="49" lemma="expugno" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">expugnare</w>
-    <w ana="#acte #metonymie #consequences" ref="49" lemma="pudicitia" pos="NOMcom" msd="Case=Acc|Numb=Sing">pudicitiam</w>
+    <w ana="#acte #composite #consequences #metonymie" ref="49" lemma="expugno" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">expugnare</w>
+    <w ana="#acte #composite #consequences #metonymie" ref="49" lemma="pudicitia" pos="NOMcom" msd="Case=Acc|Numb=Sing">pudicitiam</w>
     <w ref="49" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
     <w ref="49" lemma="expleo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">explere</w>
     <w ref="49" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing">libidinem</w>

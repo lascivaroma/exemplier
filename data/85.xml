@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #cuir #metaphore #mentula">
+<div type="fragment" ana="#cuir #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -38,7 +38,7 @@
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Plur|Gend=Fem">suas</w>
         <w lemma="palaestra" pos="NOMcom" msd="Case=Acc|Numb=Sing">palaestras</w>
-        <w lemma="lorum" pos="ADV" msd="Case=Dat|Numb=Sing" ana="#male #cuir">Loro</w>
+        <w lemma="lorum" pos="ADV" msd="Case=Dat|Numb=Sing" ana="#cuir #male #mentula #metaphore">Loro</w>
         <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
         <w lemma="similis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">similis</w>
         <w lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iacet</w>

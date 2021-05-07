@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="diutinus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">diutino</w>
         <w lemma="morbus" pos="NOMcom" msd="Case=Abl|Numb=Sing">morbo</w>
         <w lemma="circa2" pos="PRE" msd="MORPH=empty">circa</w>
-        <w lemma="uelo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Adj|Voice=Pass" ana="#male #euphemisms #aidoion">velanda</w>
+        <w lemma="uelo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Adj|Voice=Pass" ana="#aidoion #euphemism #male #mentula">velanda</w>
         <w lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
         <w lemma="ulcus" pos="NOMcom" msd="Case=Abl|Numb=Plur">ulceribus</w>
         <w lemma="putresco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">putrescebat</w>

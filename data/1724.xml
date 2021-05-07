@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #metonymie #acte #embrace">
+<div type="fragment" ana="#acte #embrace #male #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -31,7 +31,7 @@
     <w ref="10.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="10.5" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
     <w ref="10.5" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
-    <w ana="#acte #male #metonymie #acte #embrace" ref="10.5" lemma="comprimo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">comprimere</w>
+    <w ana="#acte #embrace #male #metonymie" ref="10.5" lemma="comprimo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">comprimere</w>
     <w ref="10.5" lemma="tento" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">temptaverat</w>
     <w ref="10.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="10.5" lemma="nolo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">noluisset</w>

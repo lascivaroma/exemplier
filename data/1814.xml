@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo #futuo">
+<div type="fragment" ana="#acte #amo #fututio #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,7 +29,7 @@
     <w ref="3.58.38" lemma="alius" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">Alius</w>
     <w ref="3.58.38" lemma="cogo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">coactos</w>
     <w ref="3.58.38" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
-    <w ana="#acte #metonymie #amo #futuo" ref="3.58.38" lemma="amo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">amare</w>
+    <w ana="#acte #amo #fututio #metonymie" ref="3.58.38" lemma="amo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">amare</w>
     <w ref="3.58.38" lemma="capo" pos="NOMcom" msd="Case=Acc|Numb=Plur">capones</w>
     <w ref="3.58.38" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

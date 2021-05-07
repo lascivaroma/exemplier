@@ -1,4 +1,4 @@
-<div type="fragment" ana="# #female #cunnus #euphemism #specialisation">
+<div type="fragment" ana="#cunnus #euphemism #female #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>
         <w lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eo</w>
         <w lemma="lotium" pos="NOMcom" msd="Case=Abl|Numb=Sing">lotio</w>
-        <w ana="#euphemism #specialisation" lemma="locus" pos="NOMcom" msd="Case=Acc|Numb=Plur">locos</w>
+        <w ana="#cunnus #euphemism #female #specialisation" lemma="locus" pos="NOMcom" msd="Case=Acc|Numb=Plur">locos</w>
         <w lemma="foueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">fovebit</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="numquam" pos="ADVneg" msd="MORPH=empty">numquam</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec">
+<div type="fragment" ana="#acte #composite #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,8 +23,8 @@
     <w ref="2.598" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.598" lemma="dominus" pos="NOMcom" msd="Case=Dat|Numb=Sing">dominoque</w>
     <w ref="2.598" lemma="que" pos="CON" msd="MORPH=empty">{dominoque}</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="2.598" lemma="iaceo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">iacentem</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="2.599" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ana="#acte #composite #dormirAvec #metonymie" ref="2.598" lemma="iaceo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">iacentem</w>
+    <w ana="#acte #composite #dormirAvec #metonymie" ref="2.599" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="2.599" lemma="iuuenis1" pos="NOMcom" msd="Case=Abl|Numb=Sing">iuvene</w>
     <w ref="2.599" lemma="haemonius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">Haemonio</w>
     <w ref="2.599" lemma="uideo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">vidisse</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #vagina">
+<div type="fragment" ana="#cunnus #female #vagina">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:stoa0159.stoa004.thayer-lat1</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0159.stoa004.thayer-lat1:11.1" type="entry">
-    <w ana="#female #cunnus #vagina" ref="11.1" lemma="uulua" pos="NOMcom" msd="Case=Nom|Numb=Sing">Vulva</w>
+    <w ana="#cunnus #female #vagina" ref="11.1" lemma="uulua" pos="NOMcom" msd="Case=Nom|Numb=Sing">Vulva</w>
     <w ref="11.1" lemma="uoco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">vocata</w>
     <w ref="11.1" lemma="quasi1" pos="ADVrel" msd="MORPH=empty">quasi</w>
     <w ref="11.1" lemma="ualua" pos="NOMcom" msd="Case=Nom|Numb=Sing">valva</w>

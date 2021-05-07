@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="9.57.12" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="9.57.12" lemma="nego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">negabit</w>
     <w ref="9.57.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#anus #culus" ref="9.57.13" lemma="culus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Culus</w>
+    <w ana="#culus" ref="9.57.13" lemma="culus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Culus</w>
     <w ref="9.57.13" lemma="tritus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">tritior</w>
     <w ref="9.57.13" lemma="hedilis" pos="ADJqua" msd="Case=Gen|Numb=Sing">Hedyli</w>
     <w ref="9.57.13" lemma="lacerna" pos="NOMcom" msd="Case=Abl|Numb=Plur">lacernis</w>

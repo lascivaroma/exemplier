@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #peler #raboter">
+<div type="fragment" ana="#acte #metaphore #peler #raboter">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:stoa0045.stoa010.perseus-lat2</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:79.7" type="line">
-    <w ana="#metaphore #acte #peler #raboter" ref="79.7" lemma="deglubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">deglubit</w>
+    <w ana="#acte #metaphore #peler #raboter" ref="79.7" lemma="deglubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">deglubit</w>
     <w ref="79.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="79.7" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fellat</w>
     <w ref="79.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

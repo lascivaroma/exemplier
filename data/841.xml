@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #womb #medical">
+<div type="fragment" ana="#female #medicale #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:77.2" type="paragraph">
     <w ref="77.2" lemma="sic" pos="ADV" msd="Deg=Pos">Sic</w>
     <w ref="77.2" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
-    <w ana="#female #womb #medical" ref="77.2" lemma="matrix" pos="NOMcom" msd="Case=Nom|Numb=Sing">matrix</w>
+    <w ana="#female #medicale #womb" ref="77.2" lemma="matrix" pos="NOMcom" msd="Case=Nom|Numb=Sing">matrix</w>
     <w ref="77.2" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">poterit</w>
     <w ref="77.2" lemma="fetidus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">fetidis</w>
     <w ref="77.2" lemma="odor" pos="NOMcom" msd="Case=Abl|Numb=Plur">odoribus</w>

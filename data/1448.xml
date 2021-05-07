@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #aller_en_vue_de">
+<div type="fragment" ana="#acte #allerEnVueDe #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.2.639.32ff</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi005.perseus-lat2:158" type="line">
-    <w ana="#acte #metonymie #aller_en_vue_de" ref="158" lemma="eo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">ibatne</w>
+    <w ana="#acte #allerEnVueDe #metonymie" ref="158" lemma="eo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">ibatne</w>
     <w ref="158" lemma="ne2" pos="ADV" msd="MORPH=empty">{ibatne}</w>
     <w ref="158" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="158" lemma="bacchis" pos="NOMcom" msd="Case=Acc|Numb=Sing">Bacchidem</w>

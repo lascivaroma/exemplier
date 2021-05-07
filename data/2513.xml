@@ -1,4 +1,4 @@
-<div type="fragment" ana="#adjoining_parts #kidneys #euphemism #female">
+<div type="fragment" ana="#adjoiningParts #euphemism #female #kidneys">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.2322.36ff.</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:034.1-034.2" type="line">
     <w ref="034.1" lemma="in" pos="PRE" msd="MORPH=empty">In</w>
-    <w ana="#adjoining_parts #kidneys #euphemism #female" ref="034.1" lemma="gremium" pos="NOMcom" msd="Case=Abl|Numb=Sing">gremio</w>
+    <w ana="#adjoiningParts #euphemism #female #kidneys" ref="034.1" lemma="gremium" pos="NOMcom" msd="Case=Abl|Numb=Sing">gremio</w>
     <w ref="034.1" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
     <w ref="034.1" lemma="quidam" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">quoddam</w>
     <w ref="034.1" lemma="genus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">genus</w>

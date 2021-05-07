@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="97.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="97.4" lemma="uerus" pos="CONcoo" msd="MORPH=empty">verum</w>
     <w ref="97.4" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
-    <w ana="#anus #culus" ref="97.4" lemma="culus" pos="NOMcom" msd="Case=Nom|Numb=Sing">culus</w>
+    <w ana="#culus" ref="97.4" lemma="culus" pos="NOMcom" msd="Case=Nom|Numb=Sing">culus</w>
     <w ref="97.4" lemma="mundus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">mundior</w>
     <w ref="97.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="97.4" lemma="bonus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">melior</w>

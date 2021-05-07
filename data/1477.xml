@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #f2m #dormir_avec">
+<div type="fragment" ana="#acte #composite #dormirAvec #f2m #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,8 +23,8 @@
     <w ref="481" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="481" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
     <w ref="481" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">mecum</w>
-    <w ana="#acte #metonymie #f2m #dormir_avec" ref="481" lemma="cum3" pos="CON" msd="MORPH=empty">{mecum}</w>
-    <w ana="#acte #metonymie #f2m #dormir_avec" ref="481" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">dormiat</w>
+    <w ana="#acte #composite #dormirAvec #f2m #metonymie" ref="481" lemma="cum3" pos="CON" msd="MORPH=empty">{mecum}</w>
+    <w ana="#acte #composite #dormirAvec #f2m #metonymie" ref="481" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">dormiat</w>
     <w ref="481" lemma="ullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">ulla</w>
     <w ref="481" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="482" lemma="in" pos="PRE" msd="MORPH=empty">In</w>

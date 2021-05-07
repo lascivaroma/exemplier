@@ -1,4 +1,4 @@
-<div type="fragment" ana="#doors #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #doors #female #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
-        <w ana="#doors" lemma="ianua" pos="NOMcom" msd="Case=Acc|Numb=Sing">ianuam</w>
+        <w ana="#cunnus #doors #female #metaphore" lemma="ianua" pos="NOMcom" msd="Case=Acc|Numb=Sing">ianuam</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>
         <w lemma="purgatio" pos="NOMcom" msd="Case=Abl|Numb=Plur">purgationibus</w>

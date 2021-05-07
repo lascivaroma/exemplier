@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #chevaucher #femme #effeminé #composite">
+<div type="fragment" ana="#acte #chevaucher #composite #effeminé #femme #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="4.7" lemma="que" pos="CON" msd="MORPH=empty">{horrentique}</w>
     <w ref="4.7" lemma="fascinum" pos="NOMcom" msd="Case=Abl|Numb=Sing">fascino</w>
     <w ref="4.7" lemma="uester" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Fem">uestras</w>
-    <w ana="#metaphore #acte #chevaucher #femme #effeminé #composite" ref="4.7" lemma="inequito" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act|Person=2">inequitare</w>
+    <w ana="#acte #chevaucher #composite #effeminé #femme #metaphore" ref="4.7" lemma="inequito" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act|Person=2">inequitare</w>
     <w ref="4.7" lemma="matrona" pos="NOMcom" msd="Case=Acc|Numb=Plur">matronas</w>
   </quote>
 </div>

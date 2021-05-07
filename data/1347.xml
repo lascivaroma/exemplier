@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #joke #jeu">
+<div type="fragment" ana="#acte #jeu #joke #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
     <w ref="8.40" lemma="lasciuus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp">lasciviorem</w>
     <w ref="8.40" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="8.40" lemma="maritus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">marito</w>
-    <w ana="#metaphore #acte #joke #jeu" ref="8.40" lemma="iocus" pos="NOMcom" msd="Case=Acc|Numb=Sing">iocum</w>
+    <w ana="#acte #jeu #joke #metaphore" ref="8.40" lemma="iocus" pos="NOMcom" msd="Case=Acc|Numb=Sing">iocum</w>
     <w ref="8.40" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

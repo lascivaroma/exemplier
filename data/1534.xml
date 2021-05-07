@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec #nu">
+<div type="fragment" ana="#acte #dormirAvec #metonymie #nu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,6 +19,6 @@
     <w ref="11.43.9" lemma="multum2" pos="ADV" msd="MORPH=empty">multum</w>
     <w ref="11.43.9" lemma="quamuis2" pos="CONsub" msd="MORPH=empty">quamvis</w>
     <w ref="11.43.9" lemma="auerto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">aversa</w>
-    <w ana="#acte #metonymie #dormir_avec #nu" ref="11.43.9" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">iaceret</w>
+    <w ana="#acte #dormirAvec #metonymie #nu" ref="11.43.9" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">iaceret</w>
   </quote>
 </div>

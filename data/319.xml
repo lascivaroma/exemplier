@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #natura #euphemism #vagina">
+<div type="fragment" ana="#euphemism #male #natura #vagina">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -35,7 +35,7 @@
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing">pars</w>
         <w lemma="per" pos="PRE" msd="MORPH=empty">per</w>
-        <w lemma="naturalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos" ana="#male #natura">naturale</w>
+        <w lemma="naturalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos" ana="#euphemism #male #natura #vagina">naturale</w>
         <w lemma="descendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">descendit</w>
     </quote>
  </div>

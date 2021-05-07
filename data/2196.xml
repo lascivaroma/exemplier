@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #res #prostitution">
+<div type="fragment" ana="#acte #composite #ellipse #euphemism #prostitution #res">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="563" lemma="copia" pos="NOMcom" msd="Case=Nom|Numb=Sing">copia</w>
     <w ref="564" lemma="qui" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibuscum</w>
     <w ref="564" lemma="cum3" pos="CON" msd="MORPH=empty">{quibuscum}</w>
-    <w ana="#acte #euphemism #ellipse #res #prostitution" ref="564" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2">haberes</w>
-    <w ana="#acte #euphemism #ellipse #res #prostitution" ref="564" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Sing">rem</w>
+    <w ana="#acte #composite #ellipse #euphemism #prostitution #res" ref="564" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2">haberes</w>
+    <w ana="#acte #composite #ellipse #euphemism #prostitution #res" ref="564" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Sing">rem</w>
   </quote>
 </div>

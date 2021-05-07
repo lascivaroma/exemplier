@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="3.127" lemma="mire" pos="ADV" msd="Deg=Pos">mire</w>
     <w ref="3.127" lemma="blandus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">blandum</w>
     <w ref="3.127" lemma="labor1" pos="NOMcom" msd="Case=Acc|Numb=Sing">laborem</w>
-    <w ana="#acte #metonymie #coeo" ref="3.127" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">coitum</w>
+    <w ana="#acte #coeo #metonymie" ref="3.127" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">coitum</w>
     <w ref="3.127" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">dixit</w>
     <w ref="3.127" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="3.127" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metonymie #acte #misceo">
+<div type="fragment" ana="#acte #metonymie #misceo">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="25.10" lemma="inconsulte" pos="ADV" msd="Deg=Comp">inconsultius</w>
     <w ref="25.10" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
     <w ref="25.10" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Plur">viris</w>
-    <w ana="#metonymie #acte #misceo" ref="25.10" lemma="misceo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">miscuissent</w>
+    <w ana="#acte #metonymie #misceo" ref="25.10" lemma="misceo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">miscuissent</w>
     <w ref="25.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
   </quote>
 </div>

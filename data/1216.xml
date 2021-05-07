@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #frapper #pedicatio">
+<div type="fragment" ana="#acte #frapper #metaphore #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="12.35.1" lemma="uiuo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">vivas</w>
     <w ref="12.35.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="12.35.2" lemma="dico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Dicere</w>
-    <w ana="#metaphore #acte #frapper #pedicatio" ref="12.35.2" lemma="percido2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">percisum</w>
+    <w ana="#acte #frapper #metaphore #pedicatio" ref="12.35.2" lemma="percido2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">percisum</w>
     <w ref="12.35.2" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
     <w ref="12.35.2" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
     <w ref="12.35.2" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>

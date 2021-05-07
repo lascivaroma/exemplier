@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #travailler">
+<div type="fragment" ana="#acte #metaphore #travailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="5.56" lemma="blandus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">blandum</w>
     <w ref="5.56" lemma="terror" pos="NOMcom" msd="Case=Nom|Numb=Sing">terror</w>
     <w ref="5.56" lemma="adimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">ademit</w>
-    <w ana="#metaphore #acte #travailler" ref="5.56" lemma="opus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">opus</w>
+    <w ana="#acte #metaphore #travailler" ref="5.56" lemma="opus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">opus</w>
     <w ref="5.56" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="5.57" lemma="contrecto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">contrectare</w>
     <w ref="5.57" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>

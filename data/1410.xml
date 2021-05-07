@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #duco #prostitution">
+<div type="fragment" ana="#acte #composite #duco #metonymie #prostitution">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,9 +29,9 @@
     <w ref="1016" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1016" lemma="clam1" pos="ADV" msd="Deg=Pos">clam</w>
     <w ref="1016" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
-    <w ana="#acte #metonymie #duco #prostitution" ref="1016" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">ducet</w>
+    <w ana="#acte #composite #duco #metonymie #prostitution" ref="1016" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">ducet</w>
     <w ref="1016" lemma="semper" pos="ADV" msd="Deg=Pos">semper</w>
-    <w ana="#acte #metonymie #duco #prostitution" ref="1016" lemma="scortum" pos="NOMcom" msd="Case=Acc|Numb=Sing">scortum</w>
+    <w ana="#acte #composite #duco #metonymie #prostitution" ref="1016" lemma="scortum" pos="NOMcom" msd="Case=Acc|Numb=Sing">scortum</w>
     <w ref="1016" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
     <w ref="1016" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">volet</w>
   </quote>

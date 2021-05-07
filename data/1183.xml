@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #humiliant #urine #ejaculation">
+<div type="fragment" ana="#acte #ejaculation #humiliant #metaphore #urine">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="67.30" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
     <w ref="67.30" lemma="suus" pos="PROpos.ref" msd="Case=Gen|Numb=Sing|Gend=MascNeut">sui</w>
     <w ref="67.30" lemma="natus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">gnati</w>
-    <w ana="#metaphore #acte #humiliant #urine #ejaculation" ref="67.30" lemma="mingo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">minxerit</w>
+    <w ana="#acte #ejaculation #humiliant #metaphore #urine" ref="67.30" lemma="mingo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">minxerit</w>
     <w ref="67.30" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="67.30" lemma="gremium" pos="NOMcom" msd="Case=Acc|Numb=Sing">gremium</w>
     <w ref="67.30" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

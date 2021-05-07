@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #testicle">
+<div type="fragment" ana="#composite #male #pubis #testicules">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,10 +20,10 @@
         <w lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">ibit</w>
         <w lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
         <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
-        <w ana="#male #pubis" lemma="pubes1" pos="NOMcom" msd="Case=Acc|Numb=Sing">pubem</w>
+        <w ana="#composite #male #pubis #testicules" lemma="pubes1" pos="NOMcom" msd="Case=Acc|Numb=Sing">pubem</w>
         <w lemma="capulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">capulumque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{capulumque}</w>
-        <w ana="#male #testicules" lemma="coleus" pos="NOMcom" msd="Case=Gen|Numb=Plur">coleorum</w>
+        <w ana="#composite #male #pubis #testicules" lemma="coleus" pos="NOMcom" msd="Case=Gen|Numb=Plur">coleorum</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

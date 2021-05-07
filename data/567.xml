@@ -1,4 +1,4 @@
-<div type="fragment" ana="#fente #female #cunnus #misc">
+<div type="fragment" ana="#cunnus #divers #female #fente">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="tantus" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">tanto</w>
         <w lemma="pateo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">patet</w>
         <w lemma="indecens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">indecens</w>
-        <w ana="#fente #misc" lemma="hiatus" pos="NOMcom" msd="Case=Abl|Numb=Sing">hiatu</w>
+        <w ana="#cunnus #divers #female #fente" lemma="hiatus" pos="NOMcom" msd="Case=Abl|Numb=Sing">hiatu</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

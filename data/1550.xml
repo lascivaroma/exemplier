@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rester_avec #prostitution">
+<div type="fragment" ana="#acte #composite #metonymie #prostitution #resterAvec">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,8 +23,8 @@
     <w ref="1.10.29" lemma="adimo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">ademptis</w>
     <w ref="1.10.29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.10.30" lemma="solus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">Sola</w>
-    <w ana="#acte #metonymie #rester_avec #prostitution #composite" ref="1.10.30" lemma="loco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">locat</w>
-    <w ana="#acte #metonymie #rester_avec #prostitution" ref="1.10.30" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Plur">noctes</w>
+    <w ana="#acte #composite #metonymie #prostitution #resterAvec" ref="1.10.30" lemma="loco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">locat</w>
+    <w ana="#acte #composite #metonymie #prostitution #resterAvec" ref="1.10.30" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Plur">noctes</w>
     <w ref="1.10.30" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.10.30" lemma="solus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">sola</w>
     <w ref="1.10.30" lemma="liceor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">licenda</w>

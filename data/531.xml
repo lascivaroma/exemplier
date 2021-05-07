@@ -1,4 +1,4 @@
-<div type="fragment" ana="#adjoining_parts #bladder #euphemism #female #cunnus">
+<div type="fragment" ana="#adjoiningParts #bladder #cunnus #euphemism #female">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="salto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">saltante</w>
         <w lemma="Bathyllus" pos="NOMpro" msd="Case=Abl|Numb=Sing">Bathyllo</w>
         <w lemma="Tuccia" pos="NOMpro" msd="Case=Nom|Numb=Sing">Tuccia</w>
-        <w ana="#adjoining_parts #bladder #euphemism" lemma="uesica" pos="NOMcom" msd="Case=Dat|Numb=Sing">vesicae</w>
+        <w ana="#adjoiningParts #bladder #cunnus #euphemism #female" lemma="uesica" pos="NOMcom" msd="Case=Dat|Numb=Sing">vesicae</w>
         <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
         <w lemma="impero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">imperat</w>
     </quote>

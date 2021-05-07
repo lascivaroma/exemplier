@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #foreskin">
+<div type="fragment" ana="#foreskin #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi0836.phi002.perseus-lat4</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:7.25">
-        <w ana="#male #foreskin" lemma="cutis" pos="NOMcom" msd="Case=Abl|Numb=Plur">Cutis</w>
+        <w ana="#foreskin #male" lemma="cutis" pos="NOMcom" msd="Case=Abl|Numb=Plur">Cutis</w>
         <w lemma="circa2" pos="PRE" msd="MORPH=empty">circa</w>
         <w lemma="glans" pos="NOMcom" msd="Case=Acc|Numb=Sing">glandem</w>
         <w lemma="prehendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">prehenditur</w>

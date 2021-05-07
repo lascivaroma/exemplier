@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="4.1055" lemma="tendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tendit</w>
     <w ref="4.1055" lemma="gestio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">gestitque</w>
     <w ref="4.1055" lemma="que" pos="CON" msd="MORPH=empty">{gestitque}</w>
-    <w ana="#acte #metonymie #coeo" ref="4.1055" lemma="coeo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">coire</w>
+    <w ana="#acte #coeo #metonymie" ref="4.1055" lemma="coeo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">coire</w>
     <w ref="4.1056" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="4.1056" lemma="iaceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">iacere</w>
     <w ref="4.1056" lemma="humor" pos="NOMcom" msd="Case=Acc|Numb=Sing">umorem</w>

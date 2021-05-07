@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #have">
+<div type="fragment" ana="#acte #have #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="85" lemma="quis2" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">quis</w>
     <w ref="85" lemma="heri" pos="ADV" msd="Deg=Pos">heri</w>
     <w ref="85" lemma="Chrysides" pos="NOMpro" msd="Case=Acc|Numb=Sing">Chrysidem</w>
-    <w ana="#acte #metonymie #have" ref="85" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">habuit</w>
+    <w ana="#acte #have #metonymie" ref="85" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">habuit</w>
     <w ref="85" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
   </quote>
 </div>

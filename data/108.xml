@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi0618.phi001</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0618.phi001:86">
-        <w lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #specialisation #euphemism #mentula">partem</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#euphemism #male #mentula #specialisation">partem</w>
         <w lemma="insipio" pos="VER" msd="Numb=Sing|Deg=Pos|Person=1">insipui</w>
         <w lemma="concludo" pos="VER" msd="Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">conclusi</w>
         <w lemma="condepsus" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act">condepsui</w>

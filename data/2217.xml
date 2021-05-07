@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #actus">
+<div type="fragment" ana="#acte #actus #ellipse #euphemism">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="6.22" lemma="quomodo2" pos="ADVint" msd="MORPH=empty">Quomodo</w>
     <w ref="6.22" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
     <w ref="6.22" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-    <w ana="#acte #euphemism #ellipse #actus" ref="6.22" lemma="actus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">actu</w>
+    <w ana="#acte #actus #ellipse #euphemism" ref="6.22" lemma="actus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">actu</w>
     <w ref="6.22" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">illo</w>
     <w ref="6.22" lemma="ignominiosus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">ignominioso</w>
     <w ref="6.22" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>

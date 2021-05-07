@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemism #culus #anus">
+<div type="fragment" ana="#culus #euphemism">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="54.1" lemma="addo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">addas</w>
     <w ref="54.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="54.2" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
-    <w ana="#euphemism #culus #anus" ref="54.2" lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">medium</w>
+    <w ana="#culus #euphemism" ref="54.2" lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">medium</w>
     <w ref="54.2" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">uult</w>
     <w ref="54.2" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
     <w ref="54.2" lemma="scindo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">scindere</w>

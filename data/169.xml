@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #mentula">
+<div type="fragment" ana="#adjoiningParts #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:83.43">
         <w lemma="inquietus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">inquietus</w>
-        <w lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #euphemisms #voisinage #mentula">inguina</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#adjoiningParts #euphemism #male #mentula">inguina</w>
         <w lemma="arrigo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">arrigat</w>
         <w lemma="tumor" pos="NOMcom" msd="Case=Nom|Numb=Sing">tumor</w>
     </quote>

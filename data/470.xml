@@ -1,4 +1,4 @@
-<div type="fragment" ana="#fossa #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #female #fossa #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
         <w lemma="decem" pos="ADJcar" msd="Case=Ind">decem</w>
         <w lemma="manipulus" pos="NOMcom" msd="Case=Abl|Numb=Plur">maniplis</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w ana="#fossa" lemma="fossa" pos="NOMcom" msd="Case=Acc|Numb=Plur">fossas</w>
+        <w ana="#cunnus #female #fossa #metaphore" lemma="fossa" pos="NOMcom" msd="Case=Acc|Numb=Plur">fossas</w>
         <w lemma="inguen" pos="NOMcom" msd="Case=Gen|Numb=Sing">inguinis</w>
         <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
         <w lemma="tero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1">teram</w>

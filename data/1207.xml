@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #frapper #pedicatio">
+<div type="fragment" ana="#acte #frapper #metaphore #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="16" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=Fem">sua</w>
     <w ref="16" lemma="spons" pos="NOMcom" msd="Case=Abl|Numb=Sing">sponte</w>
     <w ref="16" lemma="delabor2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">delapsa</w>
-    <w ana="#metaphore #acte #frapper #pedicatio" ref="16" lemma="caedo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">cecidit</w>
+    <w ana="#acte #frapper #metaphore #pedicatio" ref="16" lemma="caedo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">cecidit</w>
     <w ref="16" lemma="recludo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">reclusaeque</w>
     <w ref="16" lemma="que" pos="CON" msd="MORPH=empty">{reclusaeque}</w>
     <w ref="16" lemma="subito" pos="ADV" msd="Deg=Pos">subito</w>

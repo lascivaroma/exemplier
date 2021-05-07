@@ -1,4 +1,4 @@
-<div type="fragment" ana="#adjoining_parts #euphemism #female">
+<div type="fragment" ana="#adjoiningParts #euphemism #female">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
         <w lemma="potestas" pos="NOMcom" msd="Case=Nom|Numb=Sing">potestas</w>
         <w lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-        <w ana="#adjoining_parts #euphemism" lemma="umbilicus" pos="NOMcom" msd="Case=Abl|Numb=Sing">umbilico</w>
+        <w ana="#adjoiningParts #euphemism #female" lemma="umbilicus" pos="NOMcom" msd="Case=Abl|Numb=Sing">umbilico</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

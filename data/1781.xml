@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #toucher #masturbation">
+<div type="fragment" ana="#acte #masturbatio #metonymie #toucher">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="1310" lemma="uir" pos="NOMcom" msd="Case=Gen|Numb=Sing">viri</w>
     <w ref="1310" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1311" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
-    <w ana="#acte #metonymie #toucher #masturbation" ref="1311" lemma="contrecto" pos="VER" msd="Numb=Sing|Mood=Inf|Tense=Pres|Voice=Act">contrectare</w>
+    <w ana="#acte #masturbatio #metonymie #toucher" ref="1311" lemma="contrecto" pos="VER" msd="Numb=Sing|Mood=Inf|Tense=Pres|Voice=Act">contrectare</w>
     <w ref="1311" lemma="quod2" pos="PROrel" msd="Case=Acc|Numb=Sing">quod</w>
     <w ref="1311" lemma="mas" pos="NOMcom" msd="Case=Nom|Numb=Plur">mares</w>
     <w ref="1311" lemma="homo" pos="NOMcom" msd="Case=Nom|Numb=Plur">homines</w>

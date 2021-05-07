@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation  #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
         <w lemma="Phyllis" pos="NOMpro" msd="Case=Nom|Numb=Sing">Phyllis</w>
         <w lemma=")" pos="PUNC" msd="MORPH=empty">)</w>
         <w lemma="muliebris" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">muliebre</w>
-        <w lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #specialisation  #euphemism #mentula">membrum</w>
+        <w lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#euphemism #male #mentula #specialisation">membrum</w>
         <w lemma="quadrangulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">quadrangulum</w>
         <w lemma="cerno" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cernit</w>
         <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>

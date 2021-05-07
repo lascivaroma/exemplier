@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #armes">
+<div type="fragment" ana="#armes #mentula #metaphore #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="1.8.48" lemma="arguo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">argueret</w>
     <w ref="1.8.48" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.8.48" lemma="corneus1" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">corneus</w>
-    <w ana="#mentula #metaphore #pointu #armes" ref="1.8.48" lemma="arcus" pos="NOMcom" msd="Case=Nom|Numb=Sing">arcus</w>
+    <w ana="#armes #mentula #metaphore #pointu" ref="1.8.48" lemma="arcus" pos="NOMcom" msd="Case=Nom|Numb=Sing">arcus</w>
     <w ref="1.8.48" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
     <w ref="1.8.48" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

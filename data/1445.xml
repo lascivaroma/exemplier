@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #aller_en_vue_de">
+<div type="fragment" ana="#acte #allerEnVueDe #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="113" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">fueris</w>
     <w ref="113" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="113" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
-    <w ana="#acte #metonymie #aller_en_vue_de" ref="113" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">ibis</w>
+    <w ana="#acte #allerEnVueDe #metonymie" ref="113" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">ibis</w>
     <w ref="113" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="113" lemma="spintria" pos="NOMcom" msd="Case=Acc|Numb=Sing">spintriam</w>
     <w ref="113" lemma="”" pos="PUNC" msd="MORPH=empty">”</w>

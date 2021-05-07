@@ -1,4 +1,4 @@
-<div type="fragment" ana=" #female #cunnus #acte #misc">
+<div type="fragment" ana="#acte #cunnus #divers #female">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
         <w lemma="expeto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">expetunt</w>
         <w lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">uuluam</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-        <w ana="#acte #misc" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">coitum</w>
+        <w ana="#acte #cunnus #divers #female" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">coitum</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="cetera1" pos="NOMcom" msd="Case=Acc|Numb=Plur">cetera</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

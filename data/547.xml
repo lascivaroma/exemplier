@@ -1,4 +1,4 @@
-<div type="fragment" ana="#pars #euphemism">
+<div type="fragment" ana="#euphemism #pars">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:2.17">
         <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
         <w lemma="glabellum" pos="NOMcom" msd="Case=Acc|Numb=Sing">glabellum</w>
-        <w ana="#pars #euphemism" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">femina</w>
+        <w ana="#euphemism #pars" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">femina</w>
         <w lemma="roseus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">rosea</w>
         <w lemma="palmula" pos="NOMcom" msd="Case=Abl|Numb=Sing">palmula</w>
         <w lemma="potius" pos="ADV" msd="Deg=Comp">potius</w>

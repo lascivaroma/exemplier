@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #toucher #masturbation">
+<div type="fragment" ana="#acte #masturbatio #metonymie #toucher">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="2.713" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">Illis</w>
     <w ref="2.713" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
     <w ref="2.713" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">manibus</w>
-    <w ana="#acte #metonymie #toucher #masturbation" ref="2.713" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">tangi</w>
+    <w ana="#acte #masturbatio #metonymie #toucher" ref="2.713" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">tangi</w>
     <w ref="2.713" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.713" lemma="Briseis" pos="NOMpro" msd="Case=Voc|Numb=Sing">Briseï</w>
     <w ref="2.713" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

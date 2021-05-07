@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="2.354" lemma="per" pos="PRE" msd="MORPH=empty">perque</w>
     <w ref="2.354" lemma="que" pos="CON" msd="MORPH=empty">{perque}</w>
     <w ref="2.354" lemma="gradus" pos="NOMcom" msd="Case=Acc|Numb=Plur">gradus</w>
-    <w ana="#female #cunnus #womb" ref="2.354" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ana="#cunnus #female #womb" ref="2.354" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
     <w ref="2.354" lemma="pectus" pos="NOMcom" msd="Case=Nom|Numb=Sing">pectusque</w>
     <w ref="2.354" lemma="que" pos="CON" msd="MORPH=empty">{pectusque}</w>
     <w ref="2.354" lemma="humerus" pos="NOMcom" msd="Case=Acc|Numb=Plur">umerosque</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#containers #female #cunnus #metaphore">
+<div type="fragment" ana="#contenant #cunnus #female #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -43,7 +43,7 @@
         <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
         <w lemma="nemo" pos="PROind" msd="Case=Nom|Numb=Sing">nemo</w>
         <w lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
-        <w ana="#containers" lemma="uas2" pos="NOMcom" msd="Case=Acc|Numb=Sing">vas</w>
+        <w ana="#contenant #cunnus #female #metaphore" lemma="uas2" pos="NOMcom" msd="Case=Acc|Numb=Sing">vas</w>
         <w lemma="uacuus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">vacuum</w>
         <w lemma="consigno" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">consignaverit</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>

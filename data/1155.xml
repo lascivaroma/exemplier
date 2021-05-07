@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #fellatio #acte">
+<div type="fragment" ana="#acte #fellatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="3.81.2" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">Haec</w>
     <w ref="3.81.2" lemma="debeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">debet</w>
     <w ref="3.81.2" lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">medios</w>
-    <w ana="#acte #fellatio #acte" ref="3.81.2" lemma="lambo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">lambere</w>
+    <w ana="#acte #fellatio" ref="3.81.2" lemma="lambo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">lambere</w>
     <w ref="3.81.2" lemma="lingua" pos="NOMcom" msd="Case=Nom|Numb=Sing">lingua</w>
     <w ref="3.81.2" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Plur">viros</w>
     <w ref="3.81.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

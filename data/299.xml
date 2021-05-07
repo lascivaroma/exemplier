@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #descriptive-functional #euphemism #mentula">
+<div type="fragment" ana="#composite #descriptiveFunctional #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,8 +18,8 @@
         <w lemma="cum3" pos="CONsub" msd="Deg=Pos">cum</w>
         <w lemma="difficulter" pos="ADV" msd="Deg=Pos">difficulter</w>
         <w lemma="inicio" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">iniecta</w>
-        <w lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#male #descriptive-functional">genitalibus</w>
-        <w lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#male #descriptive-functional #euphemism #mentula">locis</w>
+        <w lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#composite #descriptiveFunctional #euphemism #male #mentula">genitalibus</w>
+        <w lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#composite #descriptiveFunctional #euphemism #male #mentula">locis</w>
         <w lemma="animo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">animentur</w>
         <w lemma="semen1" pos="NOMcom" msd="Case=Nom|Numb=Plur">semina</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

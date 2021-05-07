@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #have">
+<div type="fragment" ana="#acte #have #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.67.1" type="line">
     <w ref="9.67.1" lemma="lasciuus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem">Lascivam</w>
     <w ref="9.67.1" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">tota</w>
-    <w ana="#acte #metonymie #have" ref="9.67.1" lemma="possideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">possedi</w>
+    <w ana="#acte #have #metonymie" ref="9.67.1" lemma="possideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">possedi</w>
     <w ref="9.67.1" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
     <w ref="9.67.1" lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Sing">puellam</w>
   </quote>

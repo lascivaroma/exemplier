@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #voisinage #reproduction">
+<div type="fragment" ana="#adjoiningParts #euphemism #male #mentula #reproduction">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -33,7 +33,7 @@
         <w lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
         <w lemma="femur" pos="NOMcom" msd="Case=Dat|Numb=Sing">femori</w>
         <w lemma="consero2" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">conseruisse</w>
-        <w lemma="femur" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #voisinage #reproduction #mentula">femur</w>
+        <w lemma="femur" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#adjoiningParts #euphemism #male #mentula #reproduction">femur</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

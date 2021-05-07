@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rester_avec #prostitution">
+<div type="fragment" ana="#acte #composite #metonymie #prostitution #resterAvec">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,9 +23,9 @@
     <w ref="1.17.36" lemma="Corinthius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">Corinthiam</w>
     <w ref="1.17.36" lemma="dico2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">dictum</w>
     <w ref="1.17.36" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
-    <w ana="#acte #metonymie #rester_avec #prostitution" ref="1.17.36" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Sing">noctem</w>
+    <w ana="#acte #composite #metonymie #prostitution #resterAvec" ref="1.17.36" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Sing">noctem</w>
     <w ref="1.17.36" lemma="talentum" pos="NOMcom" msd="Case=Abl|Numb=Sing">talento</w>
-    <w ana="#acte #metonymie #rester_avec #prostitution #composite" ref="1.17.36" lemma="uendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">uendebat</w>
+    <w ana="#acte #composite #metonymie #prostitution #resterAvec" ref="1.17.36" lemma="uendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">uendebat</w>
     <w ref="1.17.36" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.17.36" lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
     <w ref="1.17.36" lemma="nemo" pos="PROind" msd="Case=Nom|Numb=Sing">nemo</w>

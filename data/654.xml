@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="9.279" lemma="hyllus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Hyllus</w>
     <w ref="9.280" lemma="impleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inpleratque</w>
     <w ref="9.280" lemma="que" pos="CON" msd="MORPH=empty">{inpleratque}</w>
-    <w ana="#female #cunnus #womb" ref="9.280" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ana="#cunnus #female #womb" ref="9.280" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
     <w ref="9.280" lemma="generosus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">generoso</w>
     <w ref="9.280" lemma="semen1" pos="NOMcom" msd="Case=Abl|Numb=Sing">semine</w>
     <w ref="9.280" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

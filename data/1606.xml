@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="10.796" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="10.796" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
     <w ref="10.796" lemma="monstrifer" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">monstrifero</w>
-    <w ana="#acte #metonymie #coeo" ref="10.796" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
+    <w ana="#acte #coeo #metonymie" ref="10.796" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
     <w ref="10.796" lemma="reuoluo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">revoluta</w>
     <w ref="10.796" lemma="nouo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">novavi</w>
     <w ref="10.797" lemma="pignus" pos="NOMcom" msd="Case=Acc|Numb=Plur">pignora</w>

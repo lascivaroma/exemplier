@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #armes">
+<div type="fragment" ana="#armes #mentula #metaphore #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="134" lemma="rigidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">rigidum</w>
     <w ref="134" lemma="reddo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=1">reddidero</w>
     <w ref="134" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
-    <w ana="#mentula #metaphore #pointu #armes" ref="134" lemma="cornu" pos="NOMcom" msd="Case=Abl|Numb=Sing">cornu</w>
+    <w ana="#armes #mentula #metaphore #pointu" ref="134" lemma="cornu" pos="NOMcom" msd="Case=Abl|Numb=Sing">cornu</w>
     <w ref="134" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="134" lemma="quisquis1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">Quicquid</w>
     <w ref="134" lemma="in" pos="PRE" msd="MORPH=empty">in</w>

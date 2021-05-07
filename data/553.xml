@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #euphemism #specialisation">
+<div type="fragment" ana="#cunnus #euphemism #female #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0684.phi002.thayer-lat1:2.7.8">
         <w lemma="contra1" pos="ADV" msd="Deg=Pos">contra</w>
         <w lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
-        <w ana="# #euphemism #specialisation" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
+        <w ana="#cunnus #euphemism #female #specialisation" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
         <w lemma="equa" pos="NOMcom" msd="Case=Nom|Numb=Plur">equae</w>
         <w lemma="naris" pos="NOMcom" msd="Case=Nom|Numb=Plur">nares</w>
         <w lemma="equus" pos="NOMcom" msd="Case=Nom|Numb=Plur">equi</w>

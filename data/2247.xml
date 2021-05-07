@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio">
+<div type="fragment" ana="#acte #animal #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,7 +29,7 @@
     <w ref="6.27.10" lemma="patiens" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=Com|Deg=Comp">patientiori</w>
     <w ref="6.27.10" lemma="generosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">generosior</w>
     <w ref="6.27.10" lemma="equus" pos="NOMcom" msd="Case=Nom|Numb=Sing">equus</w>
-    <w ana="#acte #animals #salio" ref="6.27.10" lemma="impono" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">imponitur</w>
+    <w ana="#acte #animal #salio" ref="6.27.10" lemma="impono" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">imponitur</w>
     <w ref="6.27.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

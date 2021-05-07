@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #aller_en_vue_de #f2m">
+<div type="fragment" ana="#acte #allerEnVueDe #f2m #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="1.5.84" lemma="promitto" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">promisisse</w>
     <w ref="1.5.84" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
     <w ref="1.5.84" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
-    <w ana="#acte #metonymie #aller_en_vue_de #f2m" ref="1.5.84" lemma="uenio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">uenturam</w>
+    <w ana="#acte #allerEnVueDe #f2m #metonymie" ref="1.5.84" lemma="uenio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">uenturam</w>
     <w ref="1.5.84" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.5.84" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
     <w ref="1.5.84" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>

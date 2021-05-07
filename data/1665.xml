@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #join">
+<div type="fragment" ana="#acte #join #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="6.21.1" lemma="perpetuus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">Perpetuam</w>
     <w ref="6.21.1" lemma="stella" pos="NOMcom" msd="Case=Dat|Numb=Sing">Stellae</w>
     <w ref="6.21.1" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
-    <w ana="#acte #metonymie #join" ref="6.21.1" lemma="iungo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iungit</w>
+    <w ana="#acte #join #metonymie" ref="6.21.1" lemma="iungo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iungit</w>
     <w ref="6.21.1" lemma="Ianthis" pos="NOMpro" msd="Case=Nom|Numb=Sing">Ianthida</w>
     <w ref="6.21.1" lemma="uates" pos="NOMcom" msd="Case=Dat|Numb=Sing">vati</w>
     <w ref="6.21.2" lemma="laetus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Laeta</w>

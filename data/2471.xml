@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #aidoion">
+<div type="fragment" ana="#aidoion #euphemism">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="22.8" lemma="qui1" pos="PROint" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
     <w ref="22.8" lemma="testa" pos="NOMcom" msd="Case=Nom|Numb=Sing">testa</w>
     <w ref="22.8" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
-    <w ana="#euphemisms #aidoion" ref="22.8" lemma="obscenus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Deg=Pos">obscena</w>
+    <w ana="#aidoion #euphemism" ref="22.8" lemma="obscenus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Deg=Pos">obscena</w>
     <w ref="22.8" lemma="demeto2" pos="VER" msd="Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">demessa</w>
     <w ref="22.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="22.8" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>

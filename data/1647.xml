@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="7.16" lemma="animans1" pos="NOMcom" msd="Case=Gen|Numb=Plur">animantium</w>
     <w ref="7.16" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
     <w ref="7.16" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
-    <w ana="#acte #metonymie #coeo" ref="7.16" lemma="coitio" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitione</w>
+    <w ana="#acte #coeo #metonymie" ref="7.16" lemma="coitio" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitione</w>
     <w ref="7.16" lemma="nascor" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">nascuntur</w>
     <w ref="7.16" lemma="inuenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">invenies</w>
     <w ref="7.16" lemma="ouum" pos="NOMcom" msd="Case=Acc|Numb=Sing">ovum</w>

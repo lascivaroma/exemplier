@@ -1,4 +1,4 @@
-<div type="fragment" ana="#sinus #euphemism #female #cunnus">
+<div type="fragment" ana="#composite #cunnus #euphemism #female #sinus">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,8 +17,8 @@
         <w lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
         <w lemma="medius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">medio</w>
-        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
-        <w ana="#sinus #euphemism #composite" lemma="muliebris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">muliebri</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="muliebris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">muliebri</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
         <w lemma="circa2" pos="PRE" msd="MORPH=empty">circa</w>

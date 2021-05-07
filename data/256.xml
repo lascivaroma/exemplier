@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion">
+<div type="fragment" ana="#aidoion #euphemism #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="naris" pos="NOMcom" msd="Case=Abl|Numb=Plur">naribus</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w lemma="obscenus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#male #euphemisms #aidoion">obscenis</w>
+        <w lemma="obscenus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#aidoion #euphemism #male">obscenis</w>
         <w lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Plur">partibus</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="inflammatio" pos="NOMcom" msd="Case=Nom|Numb=Plur">inflammationesque</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #erection  #euphemism">
+<div type="fragment" ana="#composite #erection #euphemism #male #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:4.1">
-        <w lemma="rigidus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos" ana="#male #specialisation #erection">rigido</w>
-        <w lemma="deus" pos="NOMcom" msd="Case=Dat|Numb=Sing" ana="#male #specialisation #erection">deo</w>
+        <w lemma="rigidus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos" ana="#composite #erection #euphemism #male #specialisation">rigido</w>
+        <w lemma="deus" pos="NOMcom" msd="Case=Dat|Numb=Sing" ana="#composite #erection #euphemism #male #specialisation">deo</w>
     </quote>
  </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #anneau #culus #anus">
+<div type="fragment" ana="#anneau #culus #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="4.25" lemma="saepe" pos="ADV" msd="Deg=Comp">saepiusque</w>
     <w ref="4.25" lemma="que" pos="CON" msd="MORPH=empty">{saepiusque}</w>
     <w ref="4.25" lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=MascNeut">ipsum</w>
-    <w ana="#metaphore #anneau #culus #anus" ref="4.25" lemma="anus2" pos="NOMcom" msd="Case=Acc|Numb=Sing">anum</w>
+    <w ana="#anneau #culus #metaphore" ref="4.25" lemma="anus2" pos="NOMcom" msd="Case=Acc|Numb=Sing">anum</w>
     <w ref="4.25" lemma="nutrio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">nutrire</w>
     <w ref="4.25" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #m2f #dormir_avec">
+<div type="fragment" ana="#acte #composite #dormirAvec #m2f #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -38,9 +38,9 @@
     <w ref="4.4" lemma="et2" pos="CONcoo" msd="Deg=Pos">et</w>
     <w ref="4.4" lemma="ceteri" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Masc">ceteros</w>
     <w ref="4.4" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
-    <w ana="#acte #metonymie #m2f #dormir_avec" ref="4.4" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ana="#acte #composite #dormirAvec #m2f #metonymie" ref="4.4" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="4.4" lemma="uirgo" pos="NOMcom" msd="Case=Abl|Numb=Plur">uirginibus</w>
-    <w ana="#acte #metonymie #m2f #dormir_avec" ref="4.4" lemma="dormio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dormire</w>
+    <w ana="#acte #composite #dormirAvec #m2f #metonymie" ref="4.4" lemma="dormio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dormire</w>
     <w ref="4.4" lemma="consuesco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">consueuerant</w>
     <w ref="4.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

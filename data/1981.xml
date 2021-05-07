@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #concomitant">
+<div type="fragment" ana="#acte #concomitant #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="6.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="6.21" lemma="Postumus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Postume</w>
     <w ref="6.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #concomitant" ref="6.21" lemma="lectus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">lectum</w>
+    <w ana="#acte #concomitant #metonymie" ref="6.21" lemma="lectus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">lectum</w>
     <w ref="6.22" lemma="concutio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">concutere</w>
   </quote>
 </div>

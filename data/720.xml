@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="14.8" lemma="ferrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">ferrum</w>
     <w ref="14.8" lemma="destringo" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">destringenti</w>
     <w ref="14.8" lemma="protendo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">protendens</w>
-    <w ana="#female #cunnus #womb" ref="14.8" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ana="#cunnus #female #womb" ref="14.8" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
     <w ref="14.8" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
     <w ref="14.8" lemma="uenter" pos="NOMcom" msd="Case=Acc|Numb=Sing">ventrem</w>
     <w ref="14.8" lemma="ferus2" pos="ADJqua" msd="Case=Gen|Numb=Sing|Deg=Pos">feri</w>

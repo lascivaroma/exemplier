@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #metaphore #labia #automatic">
+<div type="fragment" ana="#automatic #female #labia #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.126" type="part">
     <w ref="II.126" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
     <w ref="II.126" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
-    <w ana="#female #metaphore #labia #automatic" ref="II.126" lemma="pinnaculum" pos="NOMcom" msd="Case=Dat|Numb=Plur">pinnaculis</w>
+    <w ana="#automatic #female #labia #metaphore" ref="II.126" lemma="pinnaculum" pos="NOMcom" msd="Case=Dat|Numb=Plur">pinnaculis</w>
     <w ref="II.126" lemma="pateo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">patentibus</w>
     <w ref="II.126" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="II.126" lemma="medium" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Neut|Deg=Pos">medio</w>

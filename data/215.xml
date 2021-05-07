@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #mentula">
+<div type="fragment" ana="#adjoiningParts #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="inuidia" pos="NOMcom" msd="Case=Abl|Numb=Sing">invidia</w>
         <w lemma="rumpo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">rumpantur</w>
         <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
-        <w lemma="ilia" pos="NOMcom" msd="Case=Nom|Numb=Plur" ana="#male #euphemisms #voisinage #mentula">ilia</w>
+        <w lemma="ilia" pos="NOMcom" msd="Case=Nom|Numb=Plur" ana="#adjoiningParts #euphemism #male #mentula">ilia</w>
         <w lemma="Codrus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Codro</w>
         <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     </quote>

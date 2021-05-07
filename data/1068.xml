@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #futuo">
+<div type="fragment" ana="#acte #fututio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:41.1-41.4" type="line">
     <w ref="41.1" lemma="ameanus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Ameana</w>
     <w ref="41.1" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
-    <w ana="#acte #futuo" ref="41.1" lemma="defutuo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">defututa</w>
+    <w ana="#acte #fututio" ref="41.1" lemma="defutuo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">defututa</w>
     <w ref="41.2" lemma="totus" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">tota</w>
     <w ref="41.2" lemma="mille" pos="ADJcar" msd="Case=Acc|Numb=Plur|Gend=Neut">milia</w>
     <w ref="41.2" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>

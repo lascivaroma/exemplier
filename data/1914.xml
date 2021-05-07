@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #patior #female">
+<div type="fragment" ana="#acte #female #metonymie #patior">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -32,7 +32,7 @@
     <w ref="25.3" lemma="sceptrum" pos="NOMcom" msd="Case=Nom|Numb=Sing">sceptrum</w>
     <w ref="25.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="25.3" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
-    <w ana="#acte #metonymie #patior" ref="25.3" lemma="pathicus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">pathicae</w>
+    <w ana="#acte #female #metonymie #patior" ref="25.3" lemma="pathicus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">pathicae</w>
     <w ref="25.3" lemma="peto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">petunt</w>
     <w ref="25.3" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Plur">puellae</w>
   </quote>

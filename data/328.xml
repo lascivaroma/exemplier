@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #natura #cunnus #euphemism">
+<div type="fragment" ana="#cunnus #euphemism #female #male #natura">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="somnus" pos="NOMcom" msd="Case=Acc|Numb=Sing">somnum</w>
         <w lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">vidit</w>
         <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
-        <w lemma="naturalis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#male #natura">naturalibus</w>
+        <w lemma="naturalis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#cunnus #euphemism #female #male #natura">naturalibus</w>
         <w lemma="filia" pos="NOMcom" msd="Case=Gen|Numb=Sing">filiae</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="quam1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>

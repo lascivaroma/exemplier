@@ -1,4 +1,4 @@
-<div type="fragment" ana="#irrumo #fellatio #implicite #acte">
+<div type="fragment" ana="#acte #composite #fellatio #implicite #irrumatio">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,8 +21,8 @@
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="scelestus" pos="ADJqua" msd="Case=Voc|Gend=Masc|Deg=Pos">sceleste</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w ana="#irrumo #fellatio #implicite #composite" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">comprimam</w>
-        <w ana="#irrumo #fellatio #implicite #composite" lemma="lingua" pos="NOMcom" msd="Case=Acc|Numb=Sing">linguam</w>
+        <w ana="#acte #composite #fellatio #implicite #irrumatio" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">comprimam</w>
+        <w ana="#acte #composite #fellatio #implicite #irrumatio" lemma="lingua" pos="NOMcom" msd="Case=Acc|Numb=Sing">linguam</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
         <w lemma="-" pos="PUNC" msd="MORPH=empty">-</w>
         <w lemma="haud" pos="ADVneg" msd="MORPH=empty">Haud</w>

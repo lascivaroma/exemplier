@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #son #duplicate">
+<div type="fragment" ana="#duplicate #male #son">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,

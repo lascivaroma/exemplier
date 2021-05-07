@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #aller_en_vue_de #f2m">
+<div type="fragment" ana="#acte #allerEnVueDe #f2m #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="1.71.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
     <w ref="1.71.4" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
     <w ref="1.71.4" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">nulla</w>
-    <w ana="#acte #metonymie #aller_en_vue_de #f2m" ref="1.71.4" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">venit</w>
+    <w ana="#acte #allerEnVueDe #f2m #metonymie" ref="1.71.4" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">venit</w>
     <w ref="1.71.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.71.4" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
     <w ref="1.71.4" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>

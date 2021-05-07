@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #disgrace">
+<div type="fragment" ana="#acte #disgrace #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="14.31" lemma="afficio" pos="VER" msd="Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">adfecta</w>
     <w ref="14.31" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="14.31" lemma="filia" pos="NOMcom" msd="Case=Nom|Numb=Plur">filiae</w>
-    <w ana="#acte #metonymie #disgrace" ref="14.31" lemma="stuprum" pos="NOMcom" msd="Case=Abl|Numb=Sing">stupro</w>
+    <w ana="#acte #disgrace #metonymie" ref="14.31" lemma="stuprum" pos="NOMcom" msd="Case=Abl|Numb=Sing">stupro</w>
     <w ref="14.31" lemma="uiolo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">violatae</w>
     <w ref="14.31" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
     <w ref="14.31" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>

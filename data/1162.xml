@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #acte #passive">
+<div type="fragment" ana="#acte #female #passive">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:14.203.1-14.203.2" type="line">
     <w ref="14.203.1" lemma="tam" pos="ADV" msd="Deg=Pos">Tam</w>
     <w ref="14.203.1" lemma="tremulus3" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">tremulum</w>
-    <w ana="#female #acte #passive" ref="14.203.1" lemma="crisso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">crisat</w>
+    <w ana="#acte #female #passive" ref="14.203.1" lemma="crisso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">crisat</w>
     <w ref="14.203.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="14.203.1" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
     <w ref="14.203.1" lemma="blandus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">blandum</w>

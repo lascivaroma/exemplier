@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #join">
+<div type="fragment" ana="#acte #join #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="4.192" lemma="pulcher" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">pulchra</w>
     <w ref="4.192" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Sing">viro</w>
     <w ref="4.192" lemma="dignor" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3">dignetur</w>
-    <w ana="#acte #metonymie #join" ref="4.192" lemma="iungo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">iungere</w>
+    <w ana="#acte #join #metonymie" ref="4.192" lemma="iungo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">iungere</w>
     <w ref="4.192" lemma="Dido" pos="NOMpro" msd="Case=Nom|Numb=Sing">Dido</w>
     <w ref="4.192" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
   </quote>

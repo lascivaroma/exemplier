@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #anneau #culus #anus">
+<div type="fragment" ana="#anneau #culus #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="22.13" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Plur">vulvas</w>
     <w ref="22.13" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="22.13" lemma="infans1" pos="NOMcom" msd="Case=Gen|Numb=Plur|Gend=Com">infantium</w>
-    <w ana="#metaphore #anneau #culus #anus" ref="22.13" lemma="sedes" pos="NOMcom" msd="Case=Acc|Numb=Plur">sedes</w>
+    <w ana="#anneau #culus #metaphore" ref="22.13" lemma="sedes" pos="NOMcom" msd="Case=Acc|Numb=Plur">sedes</w>
     <w ref="22.13" lemma="tactus" pos="NOMcom" msd="Case=Abl|Numb=Sing">tactu</w>
     <w ref="22.13" lemma="resilio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">resilire</w>
     <w ref="22.13" lemma="cogo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cogit</w>

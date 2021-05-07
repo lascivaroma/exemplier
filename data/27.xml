@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #personnification">
+<div type="fragment" ana="#composite #male #personnification">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -32,11 +32,11 @@
         <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
         <w lemma="sentio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">sentio</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
-        <w lemma="funero" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem" ana="#male #personnification">funerata</w>
+        <w lemma="funero" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem" ana="#composite #male #personnification">funerata</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
         <w lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
-        <w lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #personnification">pars</w>
-        <w lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #personnification">corporis</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#composite #male #personnification">pars</w>
+        <w lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#composite #male #personnification">corporis</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
         <w lemma="quondam" pos="ADV" msd="Deg=Pos">quondam</w>

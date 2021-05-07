@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="7.2" lemma="quidam" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Masc">quosdam</w>
     <w ref="7.2" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="7.2" lemma="fera" pos="NOMcom" msd="Case=Abl|Numb=Plur">feris</w>
-    <w ana="#acte #metonymie #coeo" ref="7.2" lemma="coeo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">coire</w>
+    <w ana="#acte #coeo #metonymie" ref="7.2" lemma="coeo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">coire</w>
     <w ref="7.2" lemma="misceo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">mixtosque</w>
     <w ref="7.2" lemma="que" pos="CON" msd="MORPH=empty">{mixtosque}</w>
     <w ref="7.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>

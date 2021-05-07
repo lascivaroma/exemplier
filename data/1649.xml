@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #join">
+<div type="fragment" ana="#acte #join #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="1.33.7" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
     <w ref="1.33.7" lemma="prius" pos="ADJadv.ord" msd="Deg=Comp">prius</w>
     <w ref="1.33.7" lemma="Apulus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">Apulis</w>
-    <w ana="#acte #metonymie #join" ref="1.33.8" lemma="iungo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">iungentur</w>
+    <w ana="#acte #join #metonymie" ref="1.33.8" lemma="iungo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">iungentur</w>
     <w ref="1.33.8" lemma="caprea" pos="NOMcom" msd="Case=Nom|Numb=Plur">capreae</w>
     <w ref="1.33.8" lemma="lupus" pos="NOMcom" msd="Case=Dat|Numb=Plur">lupis</w>
     <w ref="1.33.9" lemma="quam2" pos="ADVint" msd="MORPH=empty">quam</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #natura #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #natura">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
         <w lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
         <w lemma="obscenius" pos="ADV" msd="Case=Nom|Numb=Sing|Deg=Comp">obscenius</w>
         <w lemma="excito1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">excitata</w>
-        <w lemma="natura" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #natura">natura</w>
+        <w lemma="natura" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#euphemism #male #mentula #natura">natura</w>
         <w lemma="trado" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">traditur</w>
     </quote>
  </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #armes">
+<div type="fragment" ana="#armes #mentula #metaphore #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -33,7 +33,7 @@
     <w ref="43.4" lemma="utor" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3">Utatur</w>
     <w ref="43.4" lemma="uerus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">ueris</w>
     <w ref="43.4" lemma="ueru" pos="NOMcom" msd="Case=Abl|Numb=Plur">ueribus</w>
-    <w ana="#mentula #metaphore #pointu #armes" ref="43.4" lemma="hasta" pos="NOMcom" msd="Case=Nom|Numb=Sing">hasta</w>
+    <w ana="#armes #mentula #metaphore #pointu" ref="43.4" lemma="hasta" pos="NOMcom" msd="Case=Nom|Numb=Sing">hasta</w>
     <w ref="43.4" lemma="rudis2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">rudis</w>
     <w ref="43.4" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
     <w ref="43.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

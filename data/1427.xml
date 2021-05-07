@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #duco #prostitution">
+<div type="fragment" ana="#acte #duco #metonymie #prostitution">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="969" lemma="fides2" pos="NOMcom" msd="Case=Abl|Numb=Sing">fide</w>
     <w ref="969" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="970" lemma="scortum" pos="NOMcom" msd="Case=Acc|Numb=Sing">Scortum</w>
-    <w ana="#acte #metonymie #duco #prostitution" ref="970" lemma="adduco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">adducere</w>
+    <w ana="#acte #duco #metonymie #prostitution" ref="970" lemma="adduco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">adducere</w>
     <w ref="970" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="970" lemma="apparo2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">apparare</w>
     <w ref="970" lemma="de" pos="PRE" msd="MORPH=empty">de</w>

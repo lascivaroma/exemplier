@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #impotence #euphemism">
+<div type="fragment" ana="#euphemism #impotence #male #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
         <w lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
         <w lemma="tyrannus" pos="NOMcom" msd="Case=Abl|Numb=Sing">tyranno</w>
         <w lemma="torqueo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">tortus</w>
-        <w lemma="inutilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos" ana="#male #specialisation #impotence #euphemism">inutilis</w>
+        <w lemma="inutilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos" ana="#euphemism #impotence #male #specialisation">inutilis</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
         <w lemma="concubitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">concubitu</w>
         <w lemma="suus" pos="PROpos.ref" msd="Case=Gen|Numb=Sing|Gend=Fem">suae</w>

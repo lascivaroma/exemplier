@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio">
+<div type="fragment" ana="#acte #animal #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="7.9.1" lemma="pertineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pertinet</w>
     <w ref="7.9.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="7.9.1" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
-    <w ana="#acte #animals #salio" ref="7.9.1" lemma="salax" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Sup">salacissimos</w>
+    <w ana="#acte #animal #salio" ref="7.9.1" lemma="salax" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Sup">salacissimos</w>
     <w ref="7.9.1" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
     <w ref="7.9.1" lemma="ineo1" pos="VER" msd="Case=Acc|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">ineuntes</w>
     <w ref="7.9.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

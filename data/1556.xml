@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg002.obi-lat1:22.19" type="verse">
     <w ref="22.19" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
-    <w ana="#acte #metonymie #coeo" ref="22.19" lemma="coeo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">coierit</w>
+    <w ana="#acte #coeo #metonymie" ref="22.19" lemma="coeo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">coierit</w>
     <w ref="22.19" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="22.19" lemma="iumentum" pos="NOMcom" msd="Case=Abl|Numb=Sing">iumento</w>
     <w ref="22.19" lemma="mors" pos="NOMcom" msd="Case=Abl|Numb=Sing">morte</w>

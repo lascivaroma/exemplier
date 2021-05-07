@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #duco #prostitution">
+<div type="fragment" ana="#acte #composite #duco #metonymie #prostitution">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,8 +24,8 @@
     <w ref="959a" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="959a" lemma="bibo2" pos="VER" msd="Numb=Sing|Mood=Inf|Tense=Pres|Voice=Pass">bibi</w>
     <w ref="959a" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #duco #prostitution" ref="960" lemma="scortum" pos="NOMcom" msd="Case=Acc|Numb=Plur">scorta</w>
-    <w ana="#acte #metonymie #duco #prostitution" ref="960" lemma="duco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">duci</w>
+    <w ana="#acte #composite #duco #metonymie #prostitution" ref="960" lemma="scortum" pos="NOMcom" msd="Case=Acc|Numb=Plur">scorta</w>
+    <w ana="#acte #composite #duco #metonymie #prostitution" ref="960" lemma="duco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">duci</w>
     <w ref="960" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="960" lemma="pergraeco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">pergraecari</w>
     <w ref="960" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

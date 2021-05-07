@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #composite #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,8 +15,8 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0040.stoa003.opp-lat3:7.21">
         <w lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">Cui</w>
-        <w lemma="membrum" pos="NOMcom" msd="Case=Dat|Numb=Sing" ana="#male #euphemisms #aidoion">membro</w>
-        <w lemma="inhonestus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos" ana="#male #euphemisms #aidoion">inhonesto</w>
+        <w lemma="membrum" pos="NOMcom" msd="Case=Dat|Numb=Sing" ana="#aidoion #composite #euphemism #male #mentula">membro</w>
+        <w lemma="inhonestus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos" ana="#aidoion #composite #euphemism #male #mentula">inhonesto</w>
         <w lemma="mater" pos="NOMcom" msd="Case=Acc|Numb=Sing">matrem</w>
         <w lemma="familia" pos="NOMcom" msd="Case=Gen|Numb=Sing">familias</w>
         <w lemma="honestus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Sup">honestissimam</w>

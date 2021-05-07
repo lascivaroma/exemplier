@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #medical">
+<div type="fragment" ana="#composite #male #medicale">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,14 +19,14 @@
         <w lemma="aegroto" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">aegrotantes</w>
         <w lemma="uehemens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">uehemens</w>
         <w lemma="genitalis" pos="NOMcom" msd="Case=Gen|Numb=Plur">genitalium</w>
-        <w lemma="tentigo" pos="ADJqua" msd="Case=Nom|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act" ana="#male #medical">tentigo</w>
+        <w lemma="tentigo" pos="ADJqua" msd="Case=Nom|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act" ana="#composite #male #medicale">tentigo</w>
         <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
         <w lemma="dolor" pos="NOMcom" msd="Case=Abl|Numb=Sing">dolore</w>
         <w lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
-        <w lemma="incendium" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #medical">incendio</w>
+        <w lemma="incendium" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#composite #male #medicale">incendio</w>
         <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
         <w lemma="quidam" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quodam</w>
-        <w lemma="pruritus" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #medical">pruritu</w>
+        <w lemma="pruritus" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#composite #male #medicale">pruritu</w>
         <w lemma="immodicus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">immodico</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
         <w lemma="ueneria" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">ueneriam</w>

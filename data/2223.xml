@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals">
+<div type="fragment" ana="#acte #animal">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="7.21" lemma="incora" pos="ADJqua" msd="Case=Acc|Numb=Sing">incoram</w>
     <w ref="7.21" lemma="omnis" pos="PROind" msd="Case=Gen|Numb=Plur|Gend=Com">omnium</w>
     <w ref="7.21" lemma="gestio2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">gestiebat</w>
-    <w ana="#acte #animals" ref="7.21" lemma="inscendo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">inscendere</w>
+    <w ana="#acte #animal" ref="7.21" lemma="inscendo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">inscendere</w>
     <w ref="7.21" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

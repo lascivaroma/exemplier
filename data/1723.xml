@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #metonymie #acte #embrace">
+<div type="fragment" ana="#acte #embrace #male #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,6 +21,6 @@
     <w ref="3.16.15" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
     <w ref="3.16.15" lemma="sui1" pos="PROref" msd="Case=Abl|Numb=Sing">se</w>
     <w ref="3.16.15" lemma="recens2" pos="ADV" msd="Case=Acc|Numb=Sing|Gend=Com|Deg=Pos">recens</w>
-    <w ana="#acte #male #metonymie #acte #embrace" ref="3.16.15" lemma="comprimo" pos="VER" msd="Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">compressae</w>
+    <w ana="#acte #embrace #male #metonymie" ref="3.16.15" lemma="comprimo" pos="VER" msd="Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">compressae</w>
   </quote>
 </div>

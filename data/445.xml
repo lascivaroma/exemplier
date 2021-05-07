@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #attitude">
+<div type="fragment" ana="#attitude #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
         <w lemma="Maro" pos="NOMpro" msd="Case=Gen|Numb=Sing">Maronis</w>
         <w lemma="illic2" pos="ADV" msd="Deg=Pos">illic</w>
         <w lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
-        <w ana="#male #attitude" lemma="mentula" pos="NOMcom" msd="Case=Acc|Numb=Sing">mentulam</w>
+        <w ana="#attitude #male" lemma="mentula" pos="NOMcom" msd="Case=Acc|Numb=Sing">mentulam</w>
         <w lemma="scio" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2">scito</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

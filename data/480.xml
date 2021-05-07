@@ -1,4 +1,4 @@
-<div type="fragment" ana="#household #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #female #household #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
         <w lemma="utilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">utilis</w>
         <w lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">haec</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w ana="#household" lemma="ara" pos="NOMcom" msd="Case=Acc|Numb=Sing">aram</w>
+        <w ana="#cunnus #female #household #metaphore" lemma="ara" pos="NOMcom" msd="Case=Acc|Numb=Sing">aram</w>
         <w lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
         <w lemma="do" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">dederitis</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

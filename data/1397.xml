@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #vol">
+<div type="fragment" ana="#acte #metaphore #vol">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="68b.95" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="68b.96" lemma="rarus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">rara</w>
     <w ref="68b.96" lemma="uerecundus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">verecundae</w>
-    <w ana="#metaphore #acte #vol" ref="68b.96" lemma="furtum" pos="NOMcom" msd="Case=Acc|Numb=Plur">furta</w>
+    <w ana="#acte #metaphore #vol" ref="68b.96" lemma="furtum" pos="NOMcom" msd="Case=Acc|Numb=Plur">furta</w>
     <w ref="68b.96" lemma="fero" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=1">feremus</w>
     <w ref="68b.96" lemma="hera" pos="NOMcom" msd="Case=Nom|Numb=Plur">erae</w>
     <w ref="68b.96" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

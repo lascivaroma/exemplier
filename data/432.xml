@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #foreskin">
+<div type="fragment" ana="#foreskin #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:stoa0045.stoa010.perseus-lat2</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:79.7">
-        <w ana="#male #foreskin" lemma="deglubit" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">deglubit</w>
+        <w ana="#foreskin #male" lemma="deglubit" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">deglubit</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="fello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fellat</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

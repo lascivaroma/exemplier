@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #consequences">
+<div type="fragment" ana="#acte #composite #consequences #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,9 +18,9 @@
     <w ref="2.3.1" lemma="tristis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Comp">tristiore</w>
     <w ref="2.3.1" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
     <w ref="2.3.1" lemma="uultus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uultu</w>
-    <w ana="#acte #metonymie #consequences" ref="2.3.1" lemma="expugno" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">expugnatam</w>
-    <w ana="#acte #metonymie #consequences" ref="2.3.1" lemma="filia" pos="NOMcom" msd="Case=Gen|Numb=Sing">filiae</w>
-    <w ana="#acte #metonymie #consequences" ref="2.3.1" lemma="pudicitia" pos="NOMcom" msd="Case=Acc|Numb=Sing">pudicitiam</w>
+    <w ana="#acte #composite #consequences #metonymie" ref="2.3.1" lemma="expugno" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">expugnatam</w>
+    <w ana="#acte #composite #consequences #metonymie" ref="2.3.1" lemma="filia" pos="NOMcom" msd="Case=Gen|Numb=Sing">filiae</w>
+    <w ana="#acte #composite #consequences #metonymie" ref="2.3.1" lemma="pudicitia" pos="NOMcom" msd="Case=Acc|Numb=Sing">pudicitiam</w>
     <w ref="2.3.1" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tulit</w>
     <w ref="2.3.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #metonymie #acte #embrace">
+<div type="fragment" ana="#acte #embrace #male #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="25" lemma="nolo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">noli</w>
     <w ref="25" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
     <w ref="25" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">meam</w>
-    <w ana="#acte #male #metonymie #acte #embrace" ref="25" lemma="premo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">premere</w>
+    <w ana="#acte #embrace #male #metonymie" ref="25" lemma="premo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">premere</w>
     <w ref="25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="25" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
   </quote>

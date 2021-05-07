@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #consequences #tired">
+<div type="fragment" ana="#acte #consequences #metonymie #tired">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="3.11a.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="3.11a.13" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="3.11a.13" lemma="foris1" pos="NOMcom" msd="Case=Abl|Numb=Plur">foribus</w>
-    <w ana="#acte #metonymie #consequences #tired" ref="3.11a.13" lemma="lassus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">lassus</w>
+    <w ana="#acte #consequences #metonymie #tired" ref="3.11a.13" lemma="lassus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">lassus</w>
     <w ref="3.11a.13" lemma="prodeo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">prodiret</w>
     <w ref="3.11a.13" lemma="amator" pos="NOMcom" msd="Case=Nom|Numb=Sing">amator</w>
   </quote>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #enter">
+<div type="fragment" ana="#acte #composite #enter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,8 +30,8 @@
     <w ref="1.5.5" lemma="aequalis1" pos="NOMcom" msd="Case=Abl|Numb=Plur">aequalibus</w>
     <w ref="1.5.5" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
     <w ref="1.5.5" lemma="inuicem" pos="ADV" msd="Deg=Pos">inuicem</w>
-    <w ana="#acte #metonymie #enter" ref="1.5.5" lemma="ingredior" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">ingredientibus</w>
-    <w ana="#acte #metonymie #enter" ref="1.5.5" lemma="creo" pos="NOMcom" msd="Case=Abl|Numb=Plur|Mood=Par|Tense=Fut|Voice=Act">creaturis</w>
+    <w ana="#acte #composite #enter #metonymie" ref="1.5.5" lemma="ingredior" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">ingredientibus</w>
+    <w ana="#acte #composite #enter #metonymie" ref="1.5.5" lemma="creo" pos="NOMcom" msd="Case=Abl|Numb=Plur|Mood=Par|Tense=Fut|Voice=Act">creaturis</w>
     <w ref="1.5.5" lemma="puto" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1">putemus</w>
     <w ref="1.5.5" lemma="deus" pos="NOMcom" msd="Case=Acc|Numb=Sing">deum</w>
   </quote>

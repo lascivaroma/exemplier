@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #toucher #actif">
+<div type="fragment" ana="#acte #actif #metonymie #toucher">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="8.7" lemma="pietas" pos="NOMcom" msd="Case=Gen|Numb=Sing">pietatis</w>
     <w ref="8.7" lemma="officium" pos="NOMcom" msd="Case=Abl|Numb=Plur">officiis</w>
     <w ref="8.7" lemma="studium" pos="NOMcom" msd="Case=Acc|Numb=Sing">studium</w>
-    <w ana="#acte #metonymie #toucher #actif" ref="8.7" lemma="contrecto" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">contrectandae</w>
+    <w ana="#acte #actif #metonymie #toucher" ref="8.7" lemma="contrecto" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">contrectandae</w>
     <w ref="8.7" lemma="mulier" pos="NOMcom" msd="Case=Gen|Numb=Sing">mulieris</w>
     <w ref="8.7" lemma="adhibeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">adhibere</w>
     <w ref="8.7" lemma="odiosus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">odiosumque</w>

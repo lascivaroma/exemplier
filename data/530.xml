@@ -1,4 +1,4 @@
-<div type="fragment" ana="#adjoining_parts #bladder #female #cunnus #euphemism">
+<div type="fragment" ana="#adjoiningParts #bladder #cunnus #euphemism #female">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
         <w lemma="processus" pos="NOMcom" msd="Case=Gen|Numb=Sing">processus</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="uetula" pos="NOMcom" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">vetulae</w>
-        <w ana="#adjoining_parts #bladder #euphemism" lemma="uesica" pos="NOMcom" msd="Case=Nom|Numb=Sing">vesica</w>
+        <w ana="#adjoiningParts #bladder #cunnus #euphemism #female" lemma="uesica" pos="NOMcom" msd="Case=Nom|Numb=Sing">vesica</w>
         <w lemma="beatus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">beatae</w>
         <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>

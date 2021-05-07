@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #testicle">
+<div type="fragment" ana="#male #testicules">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="ili" pos="PROdem" msd="Case=Dat|Numb=Sing">ili</w>
         <w lemma="acutus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">acuto</w>
         <w lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
-        <w ana="#male #testicle" lemma="pondus" pos="NOMcom" msd="Case=Acc|Numb=Plur">pondera</w>
+        <w ana="#male #testicules" lemma="pondus" pos="NOMcom" msd="Case=Acc|Numb=Plur">pondera</w>
         <w lemma="silex" pos="NOMcom" msd="Case=Abl|Numb=Sing">silice</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

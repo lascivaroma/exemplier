@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #aller_en_vue_de">
+<div type="fragment" ana="#acte #allerEnVueDe #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -32,7 +32,7 @@
     <w ref="140" lemma="clostellum" pos="NOMcom" msd="Case=Acc|Numb=Sing">clostellum</w>
     <w ref="140" lemma="miror" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">miratur</w>
     <w ref="140" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #aller_en_vue_de" ref="140" lemma="accedo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">accessi</w>
+    <w ana="#acte #allerEnVueDe #metonymie" ref="140" lemma="accedo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">accessi</w>
     <w ref="140" lemma="tento" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Fut|Voice=Act">temptaturus</w>
     <w ref="140" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="140" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #lutter #sebattre">
+<div type="fragment" ana="#acte #lutter #metaphore #seBattre">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="2.1.46" lemma="contra2" pos="PRE" msd="Deg=Pos">contra</w>
     <w ref="2.1.46" lemma="angustus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">angusto</w>
     <w ref="2.1.46" lemma="uerso" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">versantes</w>
-    <w ana="#metaphore #acte #lutter #sebattre" ref="2.1.46" lemma="proelium" pos="NOMcom" msd="Case=Acc|Numb=Plur">proelia</w>
+    <w ana="#acte #lutter #metaphore #seBattre" ref="2.1.46" lemma="proelium" pos="NOMcom" msd="Case=Acc|Numb=Plur">proelia</w>
     <w ref="2.1.46" lemma="lectus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">lecto</w>
     <w ref="2.1.46" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="2.1.47" lemma="quis1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>

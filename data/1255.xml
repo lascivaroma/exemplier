@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #agriculture #creuser #acte">
+<div type="fragment" ana="#acte #agriculture #creuser #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.92.12" type="line">
     <w ref="1.92.12" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
-    <w ana="#metaphore #agriculture #creuser #acte" ref="1.92.12" lemma="fodio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">fodiam</w>
+    <w ana="#acte #agriculture #creuser #metaphore" ref="1.92.12" lemma="fodio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">fodiam</w>
     <w ref="1.92.12" lemma="digitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">digito</w>
     <w ref="1.92.12" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
     <w ref="1.92.12" lemma="supersum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">superest</w>

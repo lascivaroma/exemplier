@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #f2m #dormir_avec">
+<div type="fragment" ana="#acte #composite #dormirAvec #f2m #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,8 +29,8 @@
     <w ref="34.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="34.2" lemma="rapio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">rapuit</w>
     <w ref="34.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#acte #metonymie #f2m #dormir_avec" ref="34.2" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">dormivit</w>
-    <w ana="#acte #metonymie #f2m #dormir_avec" ref="34.2" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ana="#acte #composite #dormirAvec #f2m #metonymie" ref="34.2" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">dormivit</w>
+    <w ana="#acte #composite #dormirAvec #f2m #metonymie" ref="34.2" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="34.2" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">illa</w>
     <w ref="34.2" lemma="uis" pos="NOMcom" msd="Case=Abl|Numb=Sing">vi</w>
     <w ref="34.2" lemma="opprimo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">opprimens</w>

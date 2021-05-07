@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec">
+<div type="fragment" ana="#acte #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="57" lemma="pudicus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">pudica</w>
     <w ref="57" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
     <w ref="57" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="57" lemma="cubito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cubitat</w>
+    <w ana="#acte #dormirAvec #metonymie" ref="57" lemma="cubito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cubitat</w>
     <w ref="57" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="57" lemma="uir" pos="NOMcom" msd="Case=Abl|Numb=Plur">viris</w>
     <w ref="57" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

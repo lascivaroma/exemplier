@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #enter">
+<div type="fragment" ana="#acte #enter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="33.4" lemma="tunc" pos="ADV" msd="Deg=Pos">Tunc</w>
     <w ref="33.4" lemma="ergo2" pos="CONcoo" msd="MORPH=empty">ergo</w>
     <w ref="33.4" lemma="tenebrae" pos="NOMcom" msd="Case=Nom|Numb=Plur">tenebrae</w>
-    <w ana="#acte #metonymie #enter" ref="33.4" lemma="irruo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">inruentes</w>
+    <w ana="#acte #enter #metonymie" ref="33.4" lemma="irruo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">inruentes</w>
     <w ref="33.4" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="33.4" lemma="spiritus" pos="NOMcom" msd="Case=Acc|Numb=Sing">spiritum</w>
     <w ref="33.4" lemma="gigno" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">genuerunt</w>

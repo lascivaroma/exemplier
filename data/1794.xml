@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #toucher #futuo">
+<div type="fragment" ana="#acte #fututio #metonymie #toucher">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="26" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="26" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
     <w ref="26" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
-    <w ana="#acte #metonymie #toucher #futuo" ref="26" lemma="attrecto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">adtrectauerat</w>
+    <w ana="#acte #fututio #metonymie #toucher" ref="26" lemma="attrecto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">adtrectauerat</w>
     <w ref="26" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
   </quote>
 </div>

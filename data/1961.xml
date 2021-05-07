@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #position #futuor">
+<div type="fragment" ana="#acte #fututio #metonymie #position">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
     <w ref="3.1" lemma="connecto" pos="VER" msd="Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass">connexis</w>
     <w ref="3.1" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
     <w ref="3.1" lemma="grabatus" pos="NOMcom" msd="Case=Acc|Numb=Sing">grabatum</w>
-    <w ana="#acte #metonymie #position #futuor" ref="3.1" lemma="cossis" pos="ADV" msd="Numb=Sing|Deg=Pos|Mood=Sub|Tense=Pres|Voice=Act">cossim</w>
+    <w ana="#acte #fututio #metonymie #position" ref="3.1" lemma="cossis" pos="ADV" msd="Numb=Sing|Deg=Pos|Mood=Sub|Tense=Pres|Voice=Act">cossim</w>
     <w ref="3.1" lemma="insideo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">insidens</w>
     <w ref="3.1" lemma="ubertim" pos="ADV" msd="Deg=Pos">ubertim</w>
     <w ref="3.1" lemma="fleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=1">flebam</w>

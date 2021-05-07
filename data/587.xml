@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #metaphore #labia #automatic">
+<div type="fragment" ana="#automatic #female #labia #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="I.13" lemma="equaliter" pos="ADV" msd="Deg=Pos">equaliter</w>
     <w ref="I.13" lemma="retro1" pos="ADV" msd="Deg=Pos">retro</w>
     <w ref="I.13" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
-    <w ana="#female #metaphore #labia #automatic" ref="I.13" lemma="pinnaculum" pos="NOMcom" msd="Case=Abl|Numb=Plur">pinnaculis</w>
+    <w ana="#automatic #female #labia #metaphore" ref="I.13" lemma="pinnaculum" pos="NOMcom" msd="Case=Abl|Numb=Plur">pinnaculis</w>
     <w ref="I.13" lemma="recedo1" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">recedens</w>
     <w ref="I.13" lemma="sed" pos="CONcoo" msd="MORPH=empty">set</w>
     <w ref="I.13" lemma="alius" pos="PROind" msd="Case=Dat|Numb=Plur|Gend=Com">aliis</w>

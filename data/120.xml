@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+<div type="fragment" ana="#composite #euphemism #male #mentula #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,12 +14,12 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi0959.phi004.perseus-lat2</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:2.618">
-        <w lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #specialisation #euphemism #mentula">Parsque</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#composite #euphemism #male #mentula #specialisation">Parsque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{Parsque}</w>
         <w lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
         <w lemma="inicio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">iniecta</w>
         <w lemma="uestis" pos="NOMcom" msd="Case=Abl|Numb=Sing">veste</w>
-        <w lemma="pudendus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" ana="#male #specialisation #euphemism #mentula">pudenda</w>
+        <w lemma="pudendus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" ana="#composite #euphemism #male #mentula #specialisation">pudenda</w>
         <w lemma="lateo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">latet</w>
         <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     </quote>

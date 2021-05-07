@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #fututio #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:1.pr.16" type="section">
     <w ref="1.pr.16" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Plur">noctesque</w>
     <w ref="1.pr.16" lemma="que" pos="CON" msd="MORPH=empty">{noctesque}</w>
-    <w ana="#acte #metonymie #amo #futuo" ref="1.pr.16" lemma="libido" pos="NOMcom" msd="Case=Dat|Numb=Plur">libidinibus</w>
+    <w ana="#acte #amo #fututio #metonymie" ref="1.pr.16" lemma="libido" pos="NOMcom" msd="Case=Dat|Numb=Plur">libidinibus</w>
     <w ref="1.pr.16" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="1.pr.16" lemma="ebrietas" pos="NOMcom" msd="Case=Dat|Numb=Plur">ebrietatibus</w>
     <w ref="1.pr.16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

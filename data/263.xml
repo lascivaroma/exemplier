@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="cunctor" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">cunctantibus</w>
         <w lemma="tollo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">sublata</w>
         <w lemma="uestis" pos="NOMcom" msd="Case=Abl|Numb=Sing">veste</w>
-        <w lemma="obscenum" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Neut|Deg=Pos" ana="#male #euphemisms #aidoion">obscena</w>
+        <w lemma="obscenum" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Neut|Deg=Pos" ana="#aidoion #euphemism #male #mentula">obscena</w>
         <w lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
         <w lemma="ostendo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ostendunt</w>
         <w lemma="rego" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">regantes</w>

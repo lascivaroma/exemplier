@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec">
+<div type="fragment" ana="#acte #composite #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,9 +18,9 @@
     <w ref="11.43.4" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">Ille</w>
     <w ref="11.43.4" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
     <w ref="11.43.4" lemma="grandis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">grandi</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="11.43.4" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ana="#acte #composite #dormirAvec #metonymie" ref="11.43.4" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="11.43.4" lemma="ganymedes" pos="NOMcom" msd="Case=Abl|Numb=Sing">Ganymede</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="11.43.4" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iacet</w>
+    <w ana="#acte #composite #dormirAvec #metonymie" ref="11.43.4" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iacet</w>
     <w ref="11.43.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #couper #tailler #fututio">
+<div type="fragment" ana="#acte #couper #fututio #metaphore #tailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="326" lemma="edepol" pos="INJ" msd="MORPH=empty">edepol</w>
     <w ref="326" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
     <w ref="326" lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">mediam</w>
-    <w ana="#metaphore #acte #couper #tailler #fututio" ref="326" lemma="dirumpo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">diruptam</w>
+    <w ana="#acte #couper #fututio #metaphore #tailler" ref="326" lemma="dirumpo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">diruptam</w>
     <w ref="326" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1">velim</w>
     <w ref="326" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

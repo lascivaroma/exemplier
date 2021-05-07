@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #bouche #euphemism">
+<div type="fragment" ana="#bouche #euphemism #male #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
         <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
         <w lemma="proficio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">profecerit</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w lemma="altus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Comp" ana="#male #specialisation #bouche #euphemism">altiora</w>
+        <w lemma="altus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Comp" ana="#bouche #euphemism #male #specialisation">altiora</w>
         <w lemma="tango" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">tangam</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

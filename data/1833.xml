@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="2.7.2" lemma="dies" pos="NOMcom" msd="Case=Acc|Numb=Sing">diem</w>
     <w ref="2.7.2" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Sing">noctemque</w>
     <w ref="2.7.2" lemma="que" pos="CON" msd="MORPH=empty">{noctemque}</w>
-    <w ana="#acte #metonymie #amo" ref="2.7.2" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
+    <w ana="#acte #amo #metonymie" ref="2.7.2" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
     <w ref="2.7.2" lemma="exhaurio" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">exhaustis</w>
     <w ref="2.7.2" lemma="uis" pos="NOMcom" msd="Case=Abl|Numb=Plur">uiribus</w>
     <w ref="2.7.2" lemma="pereo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">perierit</w>

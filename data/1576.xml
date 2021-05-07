@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="23.2.2" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
     <w ref="23.2.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="23.2.2" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
-    <w ana="#acte #metonymie #coeo" ref="23.2.2" lemma="coeo1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">coeunt</w>
+    <w ana="#acte #coeo #metonymie" ref="23.2.2" lemma="coeo1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">coeunt</w>
     <w ref="23.2.2" lemma="qui" pos="PROrel" msd="Case=Gen|Numb=Plur|Gend=MascNeut">quorumque</w>
     <w ref="23.2.2" lemma="que" pos="CON" msd="MORPH=empty">{quorumque}</w>
     <w ref="23.2.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>

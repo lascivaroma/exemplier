@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #joke #jeu">
+<div type="fragment" ana="#acte #jeu #joke #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="8.6" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Neut">illa</w>
     <w ref="8.6" lemma="multus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">multa</w>
     <w ref="8.6" lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>
-    <w ana="#metaphore #acte #joke #jeu" ref="8.6" lemma="iocosus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">iocosa</w>
+    <w ana="#acte #jeu #joke #metaphore" ref="8.6" lemma="iocosus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">iocosa</w>
     <w ref="8.6" lemma="fio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3">fiebant</w>
     <w ref="8.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="8.7" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Neut">quae</w>

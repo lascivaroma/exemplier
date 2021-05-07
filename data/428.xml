@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #foreskin">
+<div type="fragment" ana="#foreskin #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
         <w lemma="uitium" pos="NOMcom" msd="Case=Nom|Numb=Sing">uitium</w>
         <w lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">omne</w>
         <w lemma="reduco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">reducta</w>
-        <w ana="#male #foreskin" lemma="pellicula" pos="NOMcom" msd="Case=Nom|Numb=Sing">pellicula</w>
+        <w ana="#foreskin #male" lemma="pellicula" pos="NOMcom" msd="Case=Nom|Numb=Sing">pellicula</w>
         <w lemma="sano" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">sanabitur</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #erection #euphemism">
+<div type="fragment" ana="#composite #erection #euphemism #male #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
         <w lemma="somnus" pos="NOMcom" msd="Case=Nom|Numb=Sing">somnus</w>
         <w lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
         <w lemma="aufero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">aufert</w>
-        <w lemma="intentus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos" ana="#male #specialisation #erection">intentum</w>
-        <w lemma="Uenus" pos="NOMpro" msd="Case=Dat|Numb=Sing" ana="#male #specialisation #erection">Veneri</w>
+        <w lemma="intentus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos" ana="#composite #erection #euphemism #male #specialisation">intentum</w>
+        <w lemma="Uenus" pos="NOMpro" msd="Case=Dat|Numb=Sing" ana="#composite #erection #euphemism #male #specialisation">Veneri</w>
     </quote>
  </div>

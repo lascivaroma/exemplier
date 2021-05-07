@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #aidoion">
+<div type="fragment" ana="#aidoion #composite #euphemism #male #mentula">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,10 +23,10 @@
     <w ref="deu.132" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">femina</w>
     <w ref="deu.132" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="deu.132" lemma="neue1" pos="CONcoo" msd="MORPH=empty">neue</w>
-    <w ana="#male #euphemisms #aidoion #mentula" ref="deu.133" lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur">inguina</w>
+    <w ana="#aidoion #composite #euphemism #male #mentula" ref="deu.133" lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur">inguina</w>
     <w ref="deu.133" lemma="corripio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">corripiat</w>
     <w ref="deu.133" lemma="alienus2" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">alieni</w>
-    <w ana="#male #euphemisms #aidoion #mentula" ref="deu.133" lemma="obscenus" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Neut">obscena</w>
+    <w ana="#aidoion #composite #euphemism #male #mentula" ref="deu.133" lemma="obscenus" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Neut">obscena</w>
     <w ref="deu.133" lemma="maritus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">mariti</w>
     <w ref="deu.133" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

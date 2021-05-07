@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #aggression">
+<div type="fragment" ana="#acte #aggression #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="7.8.10" lemma="aliquis" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Masc">aliquem</w>
     <w ref="7.8.10" lemma="nescio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">nescire</w>
     <w ref="7.8.10" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
-    <w ana="#acte #metonymie #aggression" ref="7.8.10" lemma="rapio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">rapuerit</w>
+    <w ana="#acte #aggression #metonymie" ref="7.8.10" lemma="rapio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">rapuerit</w>
     <w ref="7.8.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

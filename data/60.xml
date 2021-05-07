@@ -1,4 +1,4 @@
-<div type="fragment" ana="#ignore #qualifiant">
+<div type="fragment" ana="#composite #ignore #male #qualifiant">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
         <w lemma="sacerdos" pos="NOMcom" msd="Case=Abl|Numb=Sing">sacerdote</w>
         <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
         <w lemma="parum2" pos="ADV" msd="Deg=Comp">minus</w>
-        <w lemma="obscene" pos="ADV" msd="Deg=Pos" ana="#male #qualifiant">obscene</w>
+        <w lemma="obscene" pos="ADV" msd="Deg=Pos" ana="#composite #ignore #male #qualifiant">obscene</w>
         <w lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">dixit</w>
         <w lemma="Murredius" pos="NOMpro" msd="Case=Nom|Numb=Sing">MVRREDIVS</w>
         <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
@@ -61,7 +61,7 @@
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
         <w lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
         <w lemma="omnis" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Com">omni</w>
-        <w lemma="obscenitas" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #qualifiant">obscenitate</w>
+        <w lemma="obscenitas" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#composite #ignore #male #qualifiant">obscenitate</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="uerbum" pos="NOMcom" msd="Case=Gen|Numb=Plur">uerborum</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>

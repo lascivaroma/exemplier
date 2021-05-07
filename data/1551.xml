@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rester_avec #prostitution">
+<div type="fragment" ana="#acte #composite #metonymie #prostitution #resterAvec">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,11 +16,11 @@
     <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VIII.283.11ff</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.106.4-1.106.5" type="line">
     <w ref="1.106.4" lemma="numquid" pos="ADVint" msd="MORPH=empty">Numquid</w>
-    <w ana="#acte #metonymie #rester_avec #prostitution #composite" ref="1.106.4" lemma="polliceor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem">pollicita</w>
+    <w ana="#acte #composite #metonymie #prostitution #resterAvec" ref="1.106.4" lemma="polliceor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem">pollicita</w>
     <w ref="1.106.4" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="1.106.4" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
     <w ref="1.106.4" lemma="beatus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">beatam</w>
-    <w ana="#acte #metonymie #rester_avec #prostitution" ref="1.106.5" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Sing">Noctem</w>
+    <w ana="#acte #composite #metonymie #prostitution #resterAvec" ref="1.106.5" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Sing">Noctem</w>
     <w ref="1.106.5" lemma="naeuis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem">Naevia</w>
   </quote>
 </div>

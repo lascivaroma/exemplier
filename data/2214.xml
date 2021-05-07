@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #factum">
+<div type="fragment" ana="#acte #ellipse #euphemism #factum">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,7 +29,7 @@
     <w ref="6.271" lemma="gemitus" pos="NOMcom" msd="Case=Acc|Numb=Plur">gemitus</w>
     <w ref="6.271" lemma="occultus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">occulti</w>
     <w ref="6.271" lemma="conscius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">conscia</w>
-    <w ana="#acte #euphemism #ellipse #factum" ref="6.271" lemma="factum" pos="NOMcom" msd="Case=Gen|Numb=Sing">facti</w>
+    <w ana="#acte #ellipse #euphemism #factum" ref="6.271" lemma="factum" pos="NOMcom" msd="Case=Gen|Numb=Sing">facti</w>
     <w ref="6.271" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
   </quote>
 </div>

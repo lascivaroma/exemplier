@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #subigo #soumission">
+<div type="fragment" ana="#acte #metaphore #soumission #subigo">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="24.2" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">Vxorem</w>
     <w ref="24.2" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
     <w ref="24.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#metaphore #acte #subigo #soumission" ref="24.2" lemma="subigo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">subigere</w>
+    <w ana="#acte #metaphore #soumission #subigo" ref="24.2" lemma="subigo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">subigere</w>
     <w ref="24.2" lemma="ancilla" pos="NOMcom" msd="Case=Acc|Numb=Sing">ancillam</w>
     <w ref="24.2" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">uelit</w>
     <w ref="24.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

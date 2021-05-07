@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #cuir #metaphore #mentula">
+<div type="fragment" ana="#cuir #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
         <w lemma="infelix" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">infelicem</w>
         <w lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">vidisti</w>
         <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
-        <w lemma="lorum" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #cuir">lorum</w>
+        <w lemma="lorum" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#cuir #male #mentula #metaphore">lorum</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
         <w lemma="aqua" pos="NOMcom" msd="Case=Abl|Numb=Sing">aqua</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

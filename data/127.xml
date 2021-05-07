@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="rumpo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">rumpat</w>
         <w lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
         <w lemma="assiduus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">assiduis</w>
-        <w lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #specialisation #euphemism #mentula">membra</w>
+        <w lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#euphemism #male #mentula #specialisation">membra</w>
         <w lemma="libido" pos="NOMcom" msd="Case=Dat|Numb=Plur">libidinibus</w>
         <w lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
     </quote>

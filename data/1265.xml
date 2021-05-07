@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #agriculture #moudre">
+<div type="fragment" ana="#acte #agriculture #metaphore #moudre">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="94.3" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="94.3" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">dabit</w>
     <w ref="94.3" lemma="uxor" pos="NOMcom" msd="Case=Dat|Numb=Sing">uxori</w>
-    <w ana="#metaphore #acte #agriculture #moudre" ref="94.3" lemma="molitor" pos="NOMcom" msd="Case=Nom|Numb=Sing">molitor</w>
+    <w ana="#acte #agriculture #metaphore #moudre" ref="94.3" lemma="molitor" pos="NOMcom" msd="Case=Nom|Numb=Sing">molitor</w>
     <w ref="94.3" lemma="tuus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Masc">tuus</w>
     <w ref="94.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="94.3" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #aller_en_vue_de">
+<div type="fragment" ana="#acte #allerEnVueDe #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="616" lemma="aequus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">aequóm</w>
     <w ref="616" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">facias</w>
     <w ref="616" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #aller_en_vue_de" ref="616" lemma="aduentores" pos="NOMcom" msd="Case=Acc|Numb=Plur">advéntores</w>
+    <w ana="#acte #allerEnVueDe #metonymie" ref="616" lemma="aduentores" pos="NOMcom" msd="Case=Acc|Numb=Plur">advéntores</w>
     <w ref="616" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Masc">meos</w>
     <w ref="616" lemma="non" pos="ADVneg" msd="MORPH=empty">nón</w>
     <w ref="616" lemma="incuso" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">incuses</w>

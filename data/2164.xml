@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #insulter">
+<div type="fragment" ana="#acte #insulter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,7 +30,7 @@
     <w ref="19.25" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="19.25" lemma="is" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">eis</w>
     <w ref="19.25" lemma="trado" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tradidit</w>
-    <w ana="#acte #metonymie #insulter" ref="19.25" lemma="illudo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">inludendam</w>
+    <w ana="#acte #insulter #metonymie" ref="19.25" lemma="illudo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">inludendam</w>
     <w ref="19.25" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
     <w ref="19.25" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="19.25" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">tota</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="4.22" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
     <w ref="4.22" lemma="contentus1" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">contenti</w>
     <w ref="4.22" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Masc">hos</w>
-    <w ana="#acte #metonymie #coeo" ref="4.22" lemma="coetus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coetus</w>
+    <w ana="#acte #coeo #metonymie" ref="4.22" lemma="coetus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coetus</w>
     <w ref="4.22" lemma="grauitas" pos="NOMcom" msd="Case=Dat|Numb=Sing">grauitati</w>
     <w ref="4.22" lemma="attribuo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">attribuisse</w>
     <w ref="4.22" lemma="Saturnia" pos="NOMpro" msd="Case=Dat|Numb=Sing">Saturniae</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #facio">
+<div type="fragment" ana="#acte #ellipse #euphemism #facio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
     <w ref="7.239" lemma="ludo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">ludant</w>
     <w ref="7.239" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="7.240" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
-    <w ana="#acte #euphemism #ellipse #facio" ref="7.240" lemma="facio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">faciant</w>
+    <w ana="#acte #ellipse #euphemism #facio" ref="7.240" lemma="facio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">faciant</w>
     <w ref="7.240" lemma="uicis" pos="NOMcom" msd="Case=Dat|Numb=Plur">vicibus</w>
     <w ref="7.240" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
   </quote>

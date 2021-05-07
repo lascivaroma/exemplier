@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="II.17" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="II.17" lemma="inclinatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">inclinatio</w>
     <w ref="II.17" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
-    <w ana="#anus #culus" ref="II.17" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ana="#culus" ref="II.17" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
     <w ref="II.17" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="II.17" lemma="inguen" pos="NOMcom" msd="Case=Gen|Numb=Plur">inguinum</w>
     <w ref="II.17" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>

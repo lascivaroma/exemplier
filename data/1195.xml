@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme">
+<div type="fragment" ana="#accomplissement #acte #ejaculation #humiliant #metaphore #orgasme">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -43,7 +43,7 @@
     <w ref="4" lemma="tricies" pos="ADJadv.mul" msd="Case=Nom|Numb=Sing|Gend=MascFem">tricies</w>
     <w ref="4" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="4" lemma="mulier" pos="NOMcom" msd="Case=Abl|Numb=Sing">muliere</w>
-    <w ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme" ref="4" lemma="perficio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">perficere</w>
+    <w ana="#accomplissement #acte #ejaculation #humiliant #metaphore #orgasme" ref="4" lemma="perficio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">perficere</w>
     <w ref="4" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
   </quote>
 </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #insulter">
+<div type="fragment" ana="#acte #insulter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,6 +26,6 @@
     <w ref="45" lemma="opus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">opere</w>
     <w ref="45" lemma="soleo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=SemDep">solitus</w>
     <w ref="45" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
-    <w ana="#acte #metonymie #insulter" ref="45" lemma="illudo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">inludere</w>
+    <w ana="#acte #insulter #metonymie" ref="45" lemma="illudo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">inludere</w>
   </quote>
 </div>

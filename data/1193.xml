@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme">
+<div type="fragment" ana="#accomplissement #acte #ejaculation #humiliant #metaphore #orgasme">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -40,7 +40,7 @@
     <w ref="2.11" lemma="particula" pos="NOMcom" msd="Case=Gen|Numb=Sing">particulae</w>
     <w ref="2.11" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="2.11" lemma="assiduus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">assidua</w>
-    <w ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme" ref="2.11" lemma="patratio" pos="NOMcom" msd="Case=Abl|Numb=Sing">patratione</w>
+    <w ana="#accomplissement #acte #ejaculation #humiliant #metaphore #orgasme" ref="2.11" lemma="patratio" pos="NOMcom" msd="Case=Abl|Numb=Sing">patratione</w>
     <w ref="2.11" lemma="auidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Sup">avidissimam</w>
     <w ref="2.11" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
     <w ref="2.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

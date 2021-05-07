@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #anatomie #metaphore #mentula">
+<div type="fragment" ana="#anatomie #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
         <w lemma="omnis" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Com">omni</w>
         <w lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
         <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
-        <w lemma="uena" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #anatomie">uenam</w>
+        <w lemma="uena" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#anatomie #male #mentula #metaphore">uenam</w>
         <w lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">genitalem</w>
         <w lemma="confluo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">confluere</w>
         <w lemma="ibi" pos="ADV" msd="Deg=Pos">ibique</w>

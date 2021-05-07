@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #pubic_hair">
+<div type="fragment" ana="#male #pubicHair">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:29">
         <w lemma="item" pos="ADV" msd="Deg=Pos">itemque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{itemque}</w>
-        <w ana="#male #pubic_hair" lemma="pecten" pos="NOMcom" msd="Case=Nom|Numb=Plur">pectines</w>
+        <w ana="#male #pubicHair" lemma="pecten" pos="NOMcom" msd="Case=Nom|Numb=Plur">pectines</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
         <w lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Plur">feminis</w>
         <w lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>

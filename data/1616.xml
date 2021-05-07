@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="3.127" lemma="blandus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">blando</w>
     <w ref="3.127" lemma="labor1" pos="NOMcom" msd="Case=Dat|Numb=Sing">labori</w>
     <w ref="3.127" lemma="periphrasus" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">periphrasis</w>
-    <w ana="#acte #metonymie #coeo" ref="3.127" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Plur">coitus</w>
+    <w ana="#acte #coeo #metonymie" ref="3.127" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Plur">coitus</w>
     <w ref="3.127" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

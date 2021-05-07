@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #labia">
+<div type="fragment" ana="#cunnus #female #labia">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -41,7 +41,7 @@
     <w ref="170" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
     <w ref="170" lemma="complures2" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">complures</w>
     <w ref="170" lemma="annus" pos="NOMcom" msd="Case=Acc|Numb=Plur">annos</w>
-    <w ana="#female #cunnus #labia" ref="170" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ana="#cunnus #female #labia" ref="170" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
     <w ref="170" lemma="haereo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">haeret</w>
     <w ref="170" lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">meo</w>
     <w ref="170" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

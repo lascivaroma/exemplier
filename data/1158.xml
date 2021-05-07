@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #fellatio #acte">
+<div type="fragment" ana="#acte #fellatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="43.7" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
     <w ref="43.7" lemma="spurcus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">spurcos</w>
     <w ref="43.7" lemma="auidus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Fem|Deg=Pos">avidae</w>
-    <w ana="#acte #fellatio #acte" ref="43.7" lemma="lambo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">lambit</w>
+    <w ana="#acte #fellatio" ref="43.7" lemma="lambo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">lambit</w>
     <w ref="43.7" lemma="meretrix" pos="NOMcom" msd="Case=Gen|Numb=Sing">meretricis</w>
     <w ref="43.7" lemma="hiatus" pos="NOMcom" msd="Case=Nom|Numb=Sing">hiatus</w>
     <w ref="43.8" lemma="consumo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">consumens</w>

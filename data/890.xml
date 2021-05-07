@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -34,7 +34,7 @@
     <w ref="11.99.5" lemma="constringo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">constringuntur</w>
     <w ref="11.99.5" lemma="geminus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">gemina</w>
     <w ref="11.99.5" lemma="symplega" pos="NOMcom" msd="Case=Abl|Numb=Sing">Symplegade</w>
-    <w ana="#anus #culus" ref="11.99.5" lemma="culus" pos="NOMcom" msd="Case=Dat|Numb=Plur">culi</w>
+    <w ana="#culus" ref="11.99.5" lemma="culus" pos="NOMcom" msd="Case=Dat|Numb=Plur">culi</w>
     <w ref="11.99.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
     <w ref="11.99.6" lemma="nimius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">nimias</w>
     <w ref="11.99.6" lemma="intro1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">intrant</w>

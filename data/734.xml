@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -32,7 +32,7 @@
     <w ref="461" lemma="praedo" pos="NOMcom" msd="Case=Dat|Numb=Plur">praedonibus</w>
     <w ref="462" lemma="illido" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">inlisumque</w>
     <w ref="462" lemma="que" pos="CON" msd="MORPH=empty">{inlisumque}</w>
-    <w ana="#female #cunnus #womb" ref="462" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ana="#cunnus #female #womb" ref="462" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
     <w ref="462" lemma="pectus" pos="NOMcom" msd="Case=Acc|Numb=Sing">pectus</w>
     <w ref="462" lemma="coeo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">coit</w>
     <w ref="462" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

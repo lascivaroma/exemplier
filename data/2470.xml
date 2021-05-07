@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #aidoion">
+<div type="fragment" ana="#aidoion #euphemism">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -35,7 +35,7 @@
     <w ref="3.53" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="3.53" lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing">pars</w>
     <w ref="3.53" lemma="tantum2" pos="ADV" msd="Deg=Pos">tantum</w>
-    <w ana="#euphemisms #aidoion" ref="3.53" lemma="obscenum" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">obscena</w>
+    <w ana="#aidoion #euphemism" ref="3.53" lemma="obscenum" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">obscena</w>
     <w ref="3.53" lemma="uelo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">velati</w>
     <w ref="3.53" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
   </quote>

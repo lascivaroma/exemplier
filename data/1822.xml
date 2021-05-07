@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #fututio #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="41" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="41" lemma="inuito" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Adj|Voice=Pass">inuitandos</w>
     <w ref="41" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
-    <w ana="#acte #metonymie #amo #futuo" ref="41" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing">libidinem</w>
+    <w ana="#acte #amo #fututio #metonymie" ref="41" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing">libidinem</w>
     <w ref="41" lemma="iuuenis1" pos="NOMcom" msd="Case=Nom|Numb=Plur">iuuenes</w>
     <w ref="41" lemma="senex" pos="NOMcom" msd="Case=Nom|Numb=Plur">senesque</w>
     <w ref="41" lemma="que" pos="CON" msd="MORPH=empty">{senesque}</w>

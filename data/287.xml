@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #abstracts #mentula">
+<div type="fragment" ana="#abstracts #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="fortasse" pos="ADV" msd="Deg=Pos">fortasse</w>
         <w lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
         <w lemma="repello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">repellit</w>
-        <w lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #abstracts">libidinem</w>
+        <w lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#abstracts #euphemism #male #mentula">libidinem</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">manibus</w>
         <w lemma="excipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">excepit</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="23.6.76" lemma="apud" pos="PRE" msd="MORPH=empty">apud</w>
     <w ref="23.6.76" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Masc">eos</w>
     <w ref="23.6.76" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
-    <w ana="#acte #metonymie #amo" ref="23.6.76" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Plur">libidines</w>
+    <w ana="#acte #amo #metonymie" ref="23.6.76" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Plur">libidines</w>
     <w ref="23.6.76" lemma="uarius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">varias</w>
     <w ref="23.6.76" lemma="caritas" pos="NOMcom" msd="Case=Nom|Numb=Sing">caritas</w>
     <w ref="23.6.76" lemma="dispergo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">dispersa</w>

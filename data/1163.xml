@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #acte #passive">
+<div type="fragment" ana="#acte #female #passive">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,7 +30,7 @@
     <w ref="19.3" lemma="que" pos="CON" msd="MORPH=empty">{altiusque}</w>
     <w ref="19.3" lemma="moto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">motat</w>
     <w ref="19.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#female #acte #passive" ref="19.4" lemma="crisso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">crisabit</w>
+    <w ana="#acte #female #passive" ref="19.4" lemma="crisso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">crisabit</w>
     <w ref="19.4" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
     <w ref="19.4" lemma="fluctuor" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">fluctuante</w>
     <w ref="19.4" lemma="lumbus" pos="NOMcom" msd="Case=Abl|Numb=Sing">lumbo</w>

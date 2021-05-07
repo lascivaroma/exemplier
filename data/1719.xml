@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #metonymie #acte #embrace">
+<div type="fragment" ana="#acte #embrace #male #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="2.30b.23" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
     <w ref="2.30b.23" lemma="Oeagrus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Oeagri</w>
     <w ref="2.30b.23" lemma="quidam" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">quaedam</w>
-    <w ana="#acte #male #metonymie #acte #embrace" ref="2.30b.23" lemma="comprimo" pos="VER" msd="Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">compressa</w>
+    <w ana="#acte #embrace #male #metonymie" ref="2.30b.23" lemma="comprimo" pos="VER" msd="Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">compressa</w>
     <w ref="2.30b.23" lemma="figura" pos="NOMcom" msd="Case=Nom|Numb=Sing">figura</w>
     <w ref="2.30b.24" lemma="Bistonius" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">Bistoniis</w>
     <w ref="2.30b.24" lemma="olim" pos="ADV" msd="Deg=Pos">olim</w>

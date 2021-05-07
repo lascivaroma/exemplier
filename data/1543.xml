@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec">
+<div type="fragment" ana="#acte #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi007.perseus-lat2:372a" type="line">
     <w ref="372a" lemma="pol" pos="INJ" msd="MORPH=empty">Pol</w>
     <w ref="372a" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="372a" lemma="cubo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">cubituram</w>
+    <w ana="#acte #dormirAvec #metonymie" ref="372a" lemma="cubo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">cubituram</w>
     <w ref="372a" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="372a" lemma="mater" pos="NOMcom" msd="Case=Voc|Numb=Sing">mater</w>
     <w ref="372a" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

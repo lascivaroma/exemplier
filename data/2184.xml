@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #pecco #illicit">
+<div type="fragment" ana="#acte #illicit #metonymie #pecco">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -35,7 +35,7 @@
     <w ref="1.18" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="1.18" lemma="alienus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">alieno</w>
     <w ref="1.18" lemma="comprimo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">conpressa</w>
-    <w ana="#acte #metonymie #pecco #illicit" ref="1.18" lemma="peccatum" pos="NOMcom" msd="Case=Abl|Numb=Sing">peccato</w>
+    <w ana="#acte #illicit #metonymie #pecco" ref="1.18" lemma="peccatum" pos="NOMcom" msd="Case=Abl|Numb=Sing">peccato</w>
     <w ref="1.18" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
   </quote>
 </div>

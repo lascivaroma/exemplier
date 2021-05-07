@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="5.12" lemma="tantum2" pos="ADV" msd="Numb=Sing|Gend=MascNeut|Deg=Pos">tantum</w>
     <w ref="5.12" lemma="incrementulum" pos="NOMcom" msd="Case=Acc|Numb=Sing">incrementulum</w>
     <w ref="5.12" lemma="locuples" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Com|Deg=Pos">locupletis</w>
-    <w ana="#female #cunnus #womb" ref="5.12" lemma="uterus" pos="NOMcom" msd="Case=Dat|Numb=Sing">uteri</w>
+    <w ana="#cunnus #female #womb" ref="5.12" lemma="uterus" pos="NOMcom" msd="Case=Dat|Numb=Sing">uteri</w>
     <w ref="5.12" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

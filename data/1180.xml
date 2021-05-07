@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #manger #manger_des_yeux">
+<div type="fragment" ana="#acte #manger #mangerDesYeux #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="1.96.12" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
     <w ref="1.96.12" lemma="specto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">spectat</w>
     <w ref="1.96.12" lemma="oculus" pos="NOMcom" msd="Case=Abl|Numb=Plur">oculis</w>
-    <w ana="#metaphore #acte #manger #manger_des_yeux" ref="1.96.12" lemma="deuoro" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">devorantibus</w>
+    <w ana="#acte #manger #mangerDesYeux #metaphore" ref="1.96.12" lemma="deuoro" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">devorantibus</w>
     <w ref="1.96.12" lemma="draucus" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Masc">draucos</w>
     <w ref="1.96.13" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
     <w ref="1.96.13" lemma="otiosus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">otiosis</w>

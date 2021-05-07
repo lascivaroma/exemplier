@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="3.144" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
     <w ref="3.144" lemma="emitto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">emisso</w>
     <w ref="3.144" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
-    <w ana="#anus #culus" ref="3.144" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=MascFem">podicem</w>
+    <w ana="#culus" ref="3.144" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=MascFem">podicem</w>
     <w ref="3.144" lemma="uentus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uento</w>
     <w ref="3.144" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
     <w ref="3.144" lemma="stercus" pos="NOMcom" msd="Case=Gen|Numb=Plur">stercorum</w>

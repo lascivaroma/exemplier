@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #descriptive-functional #euphemism #mentula">
+<div type="fragment" ana="#composite #descriptiveFunctional #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
         <w lemma="transuersus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">transversus</w>
         <w lemma="haereo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">haeret</w>
-        <w lemma="locus" pos="NOMcom" msd="Case=Dat|Numb=Plur" ana="#male #descriptive-functional">locis</w>
-        <w lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#male #descriptive-functional">genitalibus</w>
+        <w lemma="locus" pos="NOMcom" msd="Case=Dat|Numb=Plur" ana="#composite #descriptiveFunctional #euphemism #male #mentula">locis</w>
+        <w lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#composite #descriptiveFunctional #euphemism #male #mentula">genitalibus</w>
     </quote>
  </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #natura #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #natura">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -35,7 +35,7 @@
     <w ref="IV.19" lemma="circa2" pos="PRE" msd="MORPH=empty">circa</w>
     <w ref="IV.19" lemma="naturalis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">naturalia</w>
     <w ref="IV.19" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#male #natura #euphemism #mentula" ref="IV.19" lemma="necessarius2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">necessaria</w>
+    <w ana="#euphemism #male #mentula #natura" ref="IV.19" lemma="necessarius2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">necessaria</w>
     <w ref="IV.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="IV.19" lemma="mors" pos="NOMcom" msd="Case=Acc|Numb=Plur">mortes</w>
     <w ref="IV.19" lemma="uero4" pos="CONcoo" msd="MORPH=empty">uero</w>

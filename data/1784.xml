@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #toucher #masturbation">
+<div type="fragment" ana="#acte #masturbatio #metonymie #toucher">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="34" lemma="cadauer" pos="NOMcom" msd="Case=Acc|Numb=Sing">cadauer</w>
     <w ref="34" lemma="accurro" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">accurrisse</w>
     <w ref="34" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #toucher #masturbation" ref="34" lemma="contrecto" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">contrectasse</w>
+    <w ana="#acte #masturbatio #metonymie #toucher" ref="34" lemma="contrecto" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">contrectasse</w>
     <w ref="34" lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
     <w ref="34" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="34" lemma="alius" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Neut">alia</w>

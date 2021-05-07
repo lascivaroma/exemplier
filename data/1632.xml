@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="book.33.70" lemma="aqua" pos="NOMcom" msd="Case=Abl|Numb=Sing">aqua</w>
     <w ref="book.33.70" lemma="poto" pos="NOMcom" msd="Case=Acc|Numb=Sing">potum</w>
     <w ref="book.33.70" lemma="uigor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uigorem</w>
-    <w ana="#acte #metonymie #coeo" ref="book.33.70" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coitus</w>
+    <w ana="#acte #coeo #metonymie" ref="book.33.70" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coitus</w>
     <w ref="book.33.70" lemma="eneruo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">eneruat</w>
     <w ref="book.33.70" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

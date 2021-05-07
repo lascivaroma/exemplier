@@ -1,4 +1,4 @@
-<div type="fragment" ana="#adjoining_parts #kidneys #euphemism #female">
+<div type="fragment" ana="#adjoiningParts #euphemism #female #kidneys">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="584" lemma="aio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">aiunt</w>
     <w ref="584" lemma="quondam" pos="ADV" msd="Deg=Pos">quondam</w>
     <w ref="584" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-    <w ana="#adjoining_parts #kidneys #euphemism #female" ref="584" lemma="gremium" pos="NOMcom" msd="Case=Acc|Numb=Sing">gremium</w>
+    <w ana="#adjoiningParts #euphemism #female #kidneys" ref="584" lemma="gremium" pos="NOMcom" msd="Case=Acc|Numb=Sing">gremium</w>
     <w ref="584" lemma="imbir" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1">imbirem</w>
     <w ref="584" lemma="aureus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">aureum</w>
     <w ref="584" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

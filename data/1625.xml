@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -38,7 +38,7 @@
     <w ref="54.9" lemma="lex" pos="NOMcom" msd="Case=Abl|Numb=Sing">lege</w>
     <w ref="54.9" lemma="natura" pos="NOMcom" msd="Case=Gen|Numb=Sing">naturae</w>
     <w ref="54.9" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-    <w ana="#acte #metonymie #coeo" ref="54.9" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">coitum</w>
+    <w ana="#acte #coeo #metonymie" ref="54.9" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">coitum</w>
     <w ref="54.9" lemma="gestio2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">gestit</w>
     <w ref="54.9" lemma="erumpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">erumpere</w>
     <w ref="54.9" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#fossa #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #female #fossa #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
         <w lemma="Baeticus" pos="NOMpro" msd="Case=Voc|Numb=Sing|Gend=Masc">Baetice</w>
         <w lemma="Gallus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Galle</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w ana="#fossa" lemma="barathrum" pos="NOMcom" msd="Case=Abl|Numb=Sing">barathro</w>
+        <w ana="#cunnus #female #fossa #metaphore" lemma="barathrum" pos="NOMcom" msd="Case=Abl|Numb=Sing">barathro</w>
         <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>
  </div>

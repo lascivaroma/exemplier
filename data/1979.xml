@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #concomitant">
+<div type="fragment" ana="#acte #concomitant #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="6.10" lemma="tremulus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">tremulique</w>
     <w ref="6.10" lemma="que" pos="CON" msd="MORPH=empty">{tremulique}</w>
     <w ref="6.10" lemma="quatio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">quassa</w>
-    <w ana="#acte #metonymie #concomitant" ref="6.10" lemma="lectus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">lecti</w>
+    <w ana="#acte #concomitant #metonymie" ref="6.10" lemma="lectus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">lecti</w>
     <w ref="6.11" lemma="argutatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">argutatio</w>
     <w ref="6.11" lemma="inambulatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">inambulatioque</w>
     <w ref="6.11" lemma="que" pos="CON" msd="MORPH=empty">{inambulatioque}</w>

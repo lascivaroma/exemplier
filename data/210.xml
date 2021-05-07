@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #cuisine  #mentula">
+<div type="fragment" ana="#adjoiningParts #cuisine #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,6 +17,6 @@
         <w lemma="ecce" pos="INJ" msd="MORPH=empty">ecce</w>
         <w lemma="capio2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">cepi</w>
         <w lemma="ipse" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Masc|Deg=Sup">ipsimi</w>
-        <w lemma="cerebellum" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #euphemisms #voisinage #cuisine  #mentula">cerebellum</w>
+        <w lemma="cerebellum" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#adjoiningParts #cuisine #euphemism #male #mentula">cerebellum</w>
     </quote>
  </div>

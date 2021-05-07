@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec">
+<div type="fragment" ana="#acte #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
   <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:2.120" type="line">
     <w ref="2.120" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.120" lemma="gremium" pos="NOMcom" msd="Case=Abl|Numb=Sing">gremio</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="2.120" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">iacuit</w>
+    <w ana="#acte #dormirAvec #metonymie" ref="2.120" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">iacuit</w>
     <w ref="2.120" lemma="nouus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">nova</w>
     <w ref="2.120" lemma="nupta" pos="NOMcom" msd="Case=Nom|Numb=Sing">nupta</w>
     <w ref="2.120" lemma="maritus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">mariti</w>

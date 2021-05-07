@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,8 +17,8 @@
     <w ref="50" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
     <w ref="50" lemma="quis1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
     <w ref="50" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">hoc</w>
-    <w ana="#acte #metonymie #amo" ref="50" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
-    <w ana="#acte #metonymie #amo" ref="50" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">uenerit</w>
+    <w ana="#acte #amo #composite #metonymie" ref="50" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ana="#acte #amo #composite #metonymie" ref="50" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">uenerit</w>
     <w ref="50" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="50" lemma="numquam" pos="ADVneg" msd="MORPH=empty">numquam</w>
     <w ref="50" lemma="postea" pos="ADV" msd="Deg=Pos">postea</w>

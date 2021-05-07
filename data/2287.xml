@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #oral">
+<div type="fragment" ana="#acte #composite #oral">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="104" lemma="urgeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">urget</w>
     <w ref="104" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="105" lemma="perfidus1" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">perfidus</w>
-    <w ana="#acte #oral" ref="105" lemma="altus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">alta</w>
-    <w ana="#acte #oral" ref="105" lemma="peto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">petens</w>
+    <w ana="#acte #composite #oral" ref="105" lemma="altus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">alta</w>
+    <w ana="#acte #composite #oral" ref="105" lemma="peto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">petens</w>
   </quote>
 </div>

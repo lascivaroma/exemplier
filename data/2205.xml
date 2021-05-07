@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #facio">
+<div type="fragment" ana="#acte #ellipse #euphemism #facio #femaleSubject">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,7 +29,7 @@
     <w ref="1.16" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="1.16" lemma="mater" pos="NOMcom" msd="Case=Abl|Numb=Plur">matribus</w>
     <w ref="1.16" lemma="libere" pos="ADV" msd="Deg=Pos">libere</w>
-    <w ana="#acte #euphemism #ellipse #facio #femaleSubject" ref="1.16" lemma="facio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">faciunt</w>
+    <w ana="#acte #ellipse #euphemism #facio #femaleSubject" ref="1.16" lemma="facio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">faciunt</w>
     <w ref="1.16" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

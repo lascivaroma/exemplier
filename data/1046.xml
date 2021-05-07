@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #futuo">
+<div type="fragment" ana="#acte #fututio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="12.38.6" lemma="candide" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Masc|Deg=Pos">Candide</w>
     <w ref="12.38.6" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="12.38.6" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
-    <w ana="#acte #futuo" ref="12.38.6" lemma="futuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">futuit</w>
+    <w ana="#acte #fututio" ref="12.38.6" lemma="futuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">futuit</w>
     <w ref="12.38.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

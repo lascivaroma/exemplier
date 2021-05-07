@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #consequences">
+<div type="fragment" ana="#acte #composite #consequences #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,8 +23,8 @@
     <w ref="2.1.9" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="2.1.9" lemma="adulter1" pos="NOMcom" msd="Case=Acc|Numb=Sing">adulterum</w>
     <w ref="2.1.9" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
-    <w ana="#acte #metonymie #consequences" ref="2.1.9" lemma="expugnator" pos="NOMcom" msd="Case=Acc|Numb=Sing">expugnatorem</w>
-    <w ana="#acte #metonymie #consequences" ref="2.1.9" lemma="pudicitia" pos="NOMcom" msd="Case=Gen|Numb=Sing">pudicitiae</w>
+    <w ana="#acte #composite #consequences #metonymie" ref="2.1.9" lemma="expugnator" pos="NOMcom" msd="Case=Acc|Numb=Sing">expugnatorem</w>
+    <w ana="#acte #composite #consequences #metonymie" ref="2.1.9" lemma="pudicitia" pos="NOMcom" msd="Case=Gen|Numb=Sing">pudicitiae</w>
     <w ref="2.1.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.1.9" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="2.1.9" lemma="sacrilegus1" pos="NOMcom" msd="Case=Acc|Numb=Sing|Deg=Pos">sacrilegum</w>

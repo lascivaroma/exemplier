@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #glans">
+<div type="fragment" ana="#glans #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
         <w lemma="quis2" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">quis</w>
         <w lemma="membrana" pos="NOMcom" msd="Case=Acc|Numb=Sing">membranam</w>
         <w lemma="ouis" pos="NOMcom" msd="Case=Dat|Numb=Sing">oui</w>
-        <w ana="#male #glans" lemma="balanus" pos="NOMcom" msd="Case=Dat|Numb=Sing">balano</w>
+        <w ana="#glans #male" lemma="balanus" pos="NOMcom" msd="Case=Dat|Numb=Sing">balano</w>
         <w lemma="suus" pos="PROpos.ref" msd="Case=Dat|Numb=Sing|Gend=MascNeut">suo</w>
         <w lemma="ingero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">ingerat</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>

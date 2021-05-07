@@ -1,4 +1,4 @@
-<div type="fragment" ana="#sinus #euphemism #female #cunnus">
+<div type="fragment" ana="#composite #cunnus #euphemism #female #sinus">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,8 +17,8 @@
         <w lemma="aliquando" pos="ADV" msd="Deg=Pos">aliquando</w>
         <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
         <w lemma="per" pos="PRE" msd="MORPH=empty">per</w>
-        <w ana="#sinus #euphemism #composite" lemma="muliebris" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">muliebrem</w>
-        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Sing">sinum</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="muliebris" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">muliebrem</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Sing">sinum</w>
         <w lemma="sanies" pos="NOMcom" msd="Case=Nom|Numb=Sing">sanies</w>
         <w lemma="excludo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">excluditur</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

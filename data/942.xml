@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="3.222" lemma="effusio" pos="NOMcom" msd="Case=Abl|Numb=Sing">effusio</w>
     <w ref="3.222" lemma="liquidus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Deg=Pos">liquidorum</w>
     <w ref="3.222" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
-    <w ana="#anus #culus" ref="3.222" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ana="#culus" ref="3.222" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
     <w ref="3.222" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="3.222" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">hoc</w>
     <w ref="3.222" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>

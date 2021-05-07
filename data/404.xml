@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #testicle">
+<div type="fragment" ana="#male #testicules">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,6 +19,6 @@
         <w lemma="iuuentus" pos="NOMcom" msd="Case=Nom|Numb=Sing">iuventus</w>
         <w lemma="atque1" pos="CONcoo" msd="MORPH=empty">Atque</w>
         <w lemma="exseco" pos="VER" msd="Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">exsecta</w>
-        <w ana="#male #testicle" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Sing">virum</w>
+        <w ana="#male #testicules" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Sing">virum</w>
     </quote>
  </div>

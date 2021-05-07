@@ -1,4 +1,4 @@
-<div type="fragment" ana=" #female #voisinage #womb">
+<div type="fragment" ana="#adjoiningParts #female #womb">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0684.phi002.ogl-lat1:2.8.6">
         <w lemma="item" pos="ADV" msd="Deg=Pos">item</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-        <w ana="#voisinage #womb" lemma="uenter" pos="NOMcom" msd="Case=Abl|Numb=Sing">ventre</w>
+        <w ana="#adjoiningParts #female #womb" lemma="uenter" pos="NOMcom" msd="Case=Abl|Numb=Sing">ventre</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>

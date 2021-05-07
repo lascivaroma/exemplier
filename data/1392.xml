@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #ramer #naviguer #composite">
+<div type="fragment" ana="#acte #composite #metaphore #naviguer #ramer">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,8 +21,8 @@
     <w ref="2.731" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="2.731" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.731" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">totis</w>
-    <w ana="#metaphore #acte #ramer #naviguer #composite" ref="2.731" lemma="incumbo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">incumbere</w>
-    <w ana="#metaphore #acte #ramer #naviguer #composite" ref="2.731" lemma="remus" pos="NOMcom" msd="Case=Abl|Numb=Plur">remis</w>
+    <w ana="#acte #composite #metaphore #naviguer #ramer" ref="2.731" lemma="incumbo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">incumbere</w>
+    <w ana="#acte #composite #metaphore #naviguer #ramer" ref="2.731" lemma="remus" pos="NOMcom" msd="Case=Abl|Numb=Plur">remis</w>
     <w ref="2.732" lemma="utilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">Utile</w>
     <w ref="2.732" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.732" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>

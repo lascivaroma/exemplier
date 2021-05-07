@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:7.709-7.710" type="line">
     <w ref="7.709" lemma="sacrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">Sacra</w>
     <w ref="7.709" lemma="torus" pos="NOMcom" msd="Case=Gen|Numb=Sing">tori</w>
-    <w ana="#acte #metonymie #coeo" ref="7.709" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Plur">coitusque</w>
+    <w ana="#acte #coeo #metonymie" ref="7.709" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Plur">coitusque</w>
     <w ref="7.709" lemma="que" pos="CON" msd="MORPH=empty">{coitusque}</w>
     <w ref="7.709" lemma="nouus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">novos</w>
     <w ref="7.709" lemma="thalamus" pos="NOMcom" msd="Case=Acc|Numb=Plur">thalamosque</w>

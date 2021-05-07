@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -42,8 +42,8 @@
     <w ref="3.182" lemma="pruritus" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=MascNeut">pruritum</w>
     <w ref="3.182" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
     <w ref="3.182" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-    <w ana="#acte #metonymie #amo" ref="3.182" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
-    <w ana="#acte #metonymie #amo" ref="3.182" lemma="uenerium" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerium</w>
+    <w ana="#acte #amo #composite #metonymie" ref="3.182" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #amo #composite #metonymie" ref="3.182" lemma="uenerium" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerium</w>
     <w ref="3.182" lemma="cupiditas" pos="NOMcom" msd="Case=Acc|Numb=Sing">cupiditatem</w>
     <w ref="3.182" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
     <w ref="3.182" lemma="genitalis" pos="ADJqua" msd="Case=Gen|Numb=Plur|Deg=Pos">genitalium</w>

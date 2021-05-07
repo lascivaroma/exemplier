@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #personnification">
+<div type="fragment" ana="#composite #male #personnification">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,11 +17,11 @@
         <w lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">Hoc</w>
         <w lemma="doleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dolet</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-        <w lemma="queror" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3" ana="#male #personnification">queritur</w>
+        <w lemma="queror" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3" ana="#composite #male #personnification">queritur</w>
         <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
         <w lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">me</w>
         <w lemma="meus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">mea</w>
-        <w lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #personnification">mentula</w>
+        <w lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#composite #male #personnification">mentula</w>
         <w lemma="sui" pos="PROref" msd="Case=Abl|Numb=Sing">secum</w>
         <w lemma="cum3" pos="CON" msd="MORPH=empty">{secum}</w>
     </quote>

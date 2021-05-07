@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #womb #medical">
+<div type="fragment" ana="#female #medicale #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
     <w ref="77.4" lemma="appono" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=MascNeut">appositum</w>
     <w ref="77.4" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     <w ref="77.4" lemma="praefocatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">praefocationem</w>
-    <w ana="#female #womb #medical" ref="77.4" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ana="#female #medicale #womb" ref="77.4" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
     <w ref="77.4" lemma="mitigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">mitigat</w>
     <w ref="77.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

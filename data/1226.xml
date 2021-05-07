@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #frapper">
+<div type="fragment" ana="#acte #frapper #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0196.stoa001.latinlibrary-lat1:5.131-5.132" type="line">
     <w ref="5.131" lemma="sterno" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">sternitur</w>
-    <w ana="#metaphore #acte #frapper" ref="5.131" lemma="ico" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">icta</w>
+    <w ana="#acte #frapper #metaphore" ref="5.131" lemma="ico" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">icta</w>
     <w ref="5.131" lemma="tuus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">tuo</w>
     <w ref="5.131" lemma="uotiuus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">uotiuo</w>
     <w ref="5.131" lemma="uulnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uulnere</w>

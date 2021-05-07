@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #abstracts #mentula">
+<div type="fragment" ana="#abstracts #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
         <w lemma="lacinia" pos="NOMcom" msd="Case=Abl|Numb=Sing">lacinia</w>
         <w lemma="remoueo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">remota</w>
         <w lemma="impatientia" pos="NOMcom" msd="Case=Acc|Numb=Sing">impatientiam</w>
-        <w lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing" ana="#male #euphemisms #abstracts">Veneris</w>
+        <w lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing" ana="#abstracts #euphemism #male #mentula">Veneris</w>
         <w lemma="1" pos="ADJcar" msd="MORPH=empty">I</w>
         <w lemma="fotidus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Fotidi</w>
         <w lemma="meus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=Fem">meae</w>

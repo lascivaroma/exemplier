@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #anatomie #metaphore #mentula">
+<div type="fragment" ana="#anatomie #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">inquam</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w lemma="neruus" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #anatomie">nervos</w>
+        <w lemma="neruus" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#anatomie #male #mentula #metaphore">nervos</w>
         <w lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Masc">tuos</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>

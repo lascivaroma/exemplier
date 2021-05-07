@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #res">
+<div type="fragment" ana="#male #penis #res">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>
         <w lemma="telum" pos="NOMcom" msd="Case=Abl|Numb=Sing">telo</w>
         <w lemma="rigidus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">rigida</w>
-        <w ana="#male #penis" lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=Fem">mea</w>
+        <w ana="#male #penis #res" lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=Fem">mea</w>
         <w lemma="caedo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">cecidi</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

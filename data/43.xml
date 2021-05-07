@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #animal #mentula #metaphore">
+<div type="fragment" ana="#animal #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
         <w lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">dicatur</w>
         <w lemma="]" pos="PUNC" msd="MORPH=empty">]</w>
         <w lemma="possum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">posse</w>
-        <w lemma="taurus" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #animal">taurum</w>
+        <w lemma="taurus" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#animal #male #mentula #metaphore">taurum</w>
         <w lemma="tollo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tollere</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>

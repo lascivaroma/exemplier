@@ -1,4 +1,4 @@
-<div type="fragment" ana="#caves #female #culus #cunnus #metaphore">
+<div type="fragment" ana="#caves #culus #cunnus #female #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="8.55" lemma="quot2" pos="PROint" msd="Case=Ind">quot</w>
     <w ref="8.55" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sint</w>
     <w ref="8.55" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
-    <w ana="#caves #female #culus #cunnus #metaphore" ref="8.55" lemma="cauerna" pos="NOMcom" msd="Case=Gen|Numb=Plur">cavernae</w>
+    <w ana="#caves #culus #cunnus #female #metaphore" ref="8.55" lemma="cauerna" pos="NOMcom" msd="Case=Gen|Numb=Plur">cavernae</w>
     <w ref="8.55" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="8.55" lemma="excrementum" pos="NOMcom" msd="Case=Acc|Numb=Plur">excrementa</w>
     <w ref="8.55" lemma="lepor" pos="NOMcom" msd="Case=Dat|Numb=Sing">lepori</w>

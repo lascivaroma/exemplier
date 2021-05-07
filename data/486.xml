@@ -1,4 +1,4 @@
-<div type="fragment" ana="#doors #anus #cunnus #metaphore">
+<div type="fragment" ana="#culus #cunnus #doors #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="attraho" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">attractis</w>
         <w lemma="pes" pos="NOMcom" msd="Case=Abl|Numb=Plur">pedibus</w>
         <w lemma="pateo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">patente</w>
-        <w ana="#doors #anus" lemma="porta" pos="NOMcom" msd="Case=Abl|Numb=Sing">porta</w>
+        <w ana="#culus #cunnus #doors #metaphore" lemma="porta" pos="NOMcom" msd="Case=Abl|Numb=Sing">porta</w>
         <w lemma="percurro" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3">percurrent</w>
         <w lemma="raphanus" pos="NOMcom" msd="Case=Nom|Numb=Plur">raphanique</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{raphanique}</w>

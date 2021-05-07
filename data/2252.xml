@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio">
+<div type="fragment" ana="#acte #animal #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,6 +19,6 @@
     <w ref="6.27.3" lemma="uernus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">vernum</w>
     <w ref="6.27.3" lemma="aequinoctium" pos="NOMcom" msd="Case=Acc|Numb=Sing">aequinoctium</w>
     <w ref="6.27.3" lemma="mas" pos="NOMcom" msd="Case=Nom|Numb=Plur">mares</w>
-    <w ana="#acte #animals #salio" ref="6.27.3" lemma="iniungo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">iniungentur</w>
+    <w ana="#acte #animal #salio" ref="6.27.3" lemma="iniungo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">iniungentur</w>
   </quote>
 </div>

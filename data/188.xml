@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #copulation">
+<div type="fragment" ana="#adjoiningParts #copulation #euphemism #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
         <w lemma="pono" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">positis</w>
         <w lemma="tollo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">sublatis</w>
         <w lemma="semen1" pos="NOMcom" msd="Case=Nom|Numb=Plur">semina</w>
-        <w lemma="lumbus" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#male #euphemisms #voisinage #copulation">lumbis</w>
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#adjoiningParts #copulation #euphemism #male">lumbis</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

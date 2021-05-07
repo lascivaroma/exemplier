@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #disgrace">
+<div type="fragment" ana="#acte #disgrace #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="23" lemma="mulier" pos="NOMcom" msd="Case=Abl|Numb=Sing">muliere</w>
     <w ref="23" lemma="nobilis2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">nobili</w>
     <w ref="23" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #disgrace" ref="23" lemma="stuprum" pos="NOMcom" msd="Case=Gen|Numb=Sing">stupri</w>
+    <w ana="#acte #disgrace #metonymie" ref="23" lemma="stuprum" pos="NOMcom" msd="Case=Gen|Numb=Sing">stupri</w>
     <w ref="23" lemma="uetus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">vetus</w>
     <w ref="23" lemma="consuetudo" pos="NOMcom" msd="Case=Nom|Numb=Sing">consuetudo</w>
     <w ref="23" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

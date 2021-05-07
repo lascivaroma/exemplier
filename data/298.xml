@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #descriptive-functional #euphemism #mentula">
+<div type="fragment" ana="#descriptiveFunctional #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
         <w lemma="rapio" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">rapta</w>
         <w lemma="seco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">secuit</w>
-        <w lemma="genitalia" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut" ana="#male #descriptive-functional">genitalia</w>
+        <w lemma="genitalia" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut" ana="#descriptiveFunctional #euphemism #male #mentula">genitalia</w>
         <w lemma="testa" pos="NOMcom" msd="Case=Abl|Numb=Sing">testa</w>
         <w lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
         <w lemma="pridem" pos="ADV" msd="Deg=Pos">pridem</w>

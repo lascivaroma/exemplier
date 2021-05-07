@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #futuo #actor">
+<div type="fragment" ana="#acte #actor #fututio #male">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -39,7 +39,7 @@
     <w ref="7.30.3" lemma="pharius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">Pharia</w>
     <w ref="7.30.3" lemma="memphiticus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Memphiticus</w>
     <w ref="7.30.3" lemma="urbs" pos="NOMcom" msd="Case=Abl|Numb=Sing">urbe</w>
-    <w ana="#acte #male #futuo #actor" ref="7.30.3" lemma="fututor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fututor</w>
+    <w ana="#acte #actor #fututio #male" ref="7.30.3" lemma="fututor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fututor</w>
     <w ref="7.30.4" lemma="nauigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Navigat</w>
     <w ref="7.30.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="7.30.4" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>

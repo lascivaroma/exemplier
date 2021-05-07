@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #anatomie #metaphore #mentula">
+<div type="fragment" ana="#anatomie #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,6 +19,6 @@
         <w lemma="sto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">stat</w>
         <w lemma="rigidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">rigida</w>
         <w lemma="supinus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">supina</w>
-        <w lemma="uena" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #anatomie">vena</w>
+        <w lemma="uena" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#anatomie #male #mentula #metaphore">vena</w>
     </quote>
  </div>

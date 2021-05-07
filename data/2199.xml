@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #res #prostitution">
+<div type="fragment" ana="#acte #ellipse #euphemism #prostitution #res">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="388" lemma="qui" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibuscum</w>
     <w ref="388" lemma="cum3" pos="CON" msd="MORPH=empty">{quibuscum}</w>
     <w ref="388" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
-    <w ana="#acte #euphemism #ellipse #res #prostitution" ref="388" lemma="res" pos="NOMcom" msd="Case=Nom|Numb=Plur">res</w>
+    <w ana="#acte #ellipse #euphemism #prostitution #res" ref="388" lemma="res" pos="NOMcom" msd="Case=Nom|Numb=Plur">res</w>
     <w ref="388" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="388" lemma="sino" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sinunt</w>
     <w ref="388" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

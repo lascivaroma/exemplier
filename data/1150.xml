@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #fellatio #acte #actor">
+<div type="fragment" ana="#acte #actor #fellatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="12.59.9" lemma="inde" pos="ADV" msd="Deg=Pos">inde</w>
     <w ref="12.59.9" lemma="lippus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">lippus</w>
     <w ref="12.59.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #fellatio #acte #actor" ref="12.59.10" lemma="fellator" pos="NOMcom" msd="Case=Nom|Numb=Sing">Fellatorque</w>
+    <w ana="#acte #actor #fellatio" ref="12.59.10" lemma="fellator" pos="NOMcom" msd="Case=Nom|Numb=Sing">Fellatorque</w>
     <w ref="12.59.10" lemma="que" pos="CON" msd="MORPH=empty">{Fellatorque}</w>
     <w ref="12.59.10" lemma="recens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">recensque</w>
     <w ref="12.59.10" lemma="que" pos="CON" msd="MORPH=empty">{recensque}</w>

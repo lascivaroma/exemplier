@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #milieu #euphemism">
+<div type="fragment" ana="#euphemism #male #milieu #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:2.61.2">
         <w lemma="lambo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">Lambebat</w>
-        <w lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos" ana="#male #specialisation #milieu #euphemism">medios</w>
+        <w lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos" ana="#euphemism #male #milieu #specialisation">medios</w>
         <w lemma="improbus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">inproba</w>
         <w lemma="lingua" pos="NOMcom" msd="Case=Nom|Numb=Sing">lingua</w>
         <w lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Plur">viros</w>

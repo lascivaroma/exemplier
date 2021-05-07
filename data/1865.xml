@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,8 +29,8 @@
     <w ref="54.1" lemma="frequens" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">frequenti</w>
     <w ref="54.1" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
     <w ref="54.1" lemma="immodicus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">immodico</w>
-    <w ana="#acte #metonymie #amo" ref="54.1" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
-    <w ana="#acte #metonymie #amo" ref="54.1" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerio</w>
+    <w ana="#acte #amo #composite #metonymie" ref="54.1" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ana="#acte #amo #composite #metonymie" ref="54.1" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerio</w>
     <w ref="54.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

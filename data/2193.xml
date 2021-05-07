@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #res">
+<div type="fragment" ana="#acte #ellipse #euphemism #res">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -33,7 +33,7 @@
     <w ref="741" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
     <w ref="741" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
     <w ref="741" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
-    <w ana="#acte #euphemism #ellipse #res" ref="741" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Sing">rem</w>
+    <w ana="#acte #ellipse #euphemism #res" ref="741" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Sing">rem</w>
     <w ref="741" lemma="confero" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">conferentur</w>
     <w ref="741" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="741" lemma="uapulo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">vapulabit</w>

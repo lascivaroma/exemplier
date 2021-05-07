@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="11.736" lemma="nocturnus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">nocturnaque</w>
     <w ref="11.736" lemma="que" pos="CON" msd="MORPH=empty">{nocturnaque}</w>
     <w ref="11.736" lemma="bellum" pos="NOMcom" msd="Case=Acc|Numb=Plur">bella</w>
-    <w ana="#acte #metonymie #coeo" ref="11.736" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">coitum</w>
+    <w ana="#acte #coeo #metonymie" ref="11.736" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">coitum</w>
     <w ref="11.736" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
   </quote>
 </div>

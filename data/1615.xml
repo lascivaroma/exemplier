@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="12.4" lemma="praemium" pos="NOMcom" msd="Case=Acc|Numb=Plur">praemia</w>
     <w ref="12.4" lemma="imitatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">imitatione</w>
     <w ref="12.4" lemma="flagitiosus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">flagitiosi</w>
-    <w ana="#acte #metonymie #coeo" ref="12.4" lemma="coitus" pos="NOMcom" msd="Case=Gen|Numb=Sing">coitus</w>
+    <w ana="#acte #coeo #metonymie" ref="12.4" lemma="coitus" pos="NOMcom" msd="Case=Gen|Numb=Sing">coitus</w>
     <w ref="12.4" lemma="repenso" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">repensantem</w>
     <w ref="12.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

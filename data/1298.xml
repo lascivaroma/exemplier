@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #travailler">
+<div type="fragment" ana="#acte #metaphore #travailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="12.15" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="12.15" lemma="unus" pos="ADJcar" msd="Case=Acc|Numb=Sing|Gend=MascNeut">unum</w>
     <w ref="12.16" lemma="mollis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">mollis</w>
-    <w ana="#metaphore #acte #travailler" ref="12.16" lemma="opus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">opus</w>
+    <w ana="#acte #metaphore #travailler" ref="12.16" lemma="opus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">opus</w>
     <w ref="12.16" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

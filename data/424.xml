@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #foreskin">
+<div type="fragment" ana="#foreskin #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="iuxta" pos="PRE" msd="MORPH=empty">iuxtaque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{iuxtaque}</w>
         <w lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
-        <w ana="#male #foreskin" lemma="cutis" pos="NOMcom" msd="Case=Nom|Numb=Sing">cutis</w>
+        <w ana="#foreskin #male" lemma="cutis" pos="NOMcom" msd="Case=Nom|Numb=Sing">cutis</w>
         <w lemma="spatiosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">spatiosior</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>

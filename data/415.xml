@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #glans">
+<div type="fragment" ana="#glans #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
         <w lemma="profundus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">profunda</w>
         <w lemma="fossa" pos="NOMcom" msd="Case=Nom|Numb=Sing">fossa</w>
         <w lemma="lubricus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">lubricum</w>
-        <w ana="#male #glans" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+        <w ana="#glans #male" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

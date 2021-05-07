@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #join">
+<div type="fragment" ana="#acte #composite #join #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,10 +22,10 @@
     <w ref="104" lemma="facies" pos="NOMcom" msd="Case=Acc|Numb=Sing">faciemque</w>
     <w ref="104" lemma="que" pos="CON" msd="MORPH=empty">{faciemque}</w>
     <w ref="104" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #join" ref="104" lemma="pes" pos="NOMcom" msd="Case=Acc|Numb=Sing">pedem</w>
-    <w ana="#acte #metonymie #join" ref="104" lemma="pes" pos="NOMcom" msd="Case=Abl|Numb=Sing">pede</w>
+    <w ana="#acte #composite #join #metonymie" ref="104" lemma="pes" pos="NOMcom" msd="Case=Acc|Numb=Sing">pedem</w>
+    <w ana="#acte #composite #join #metonymie" ref="104" lemma="pes" pos="NOMcom" msd="Case=Abl|Numb=Sing">pede</w>
     <w ref="104" lemma="feruidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">fervidus</w>
-    <w ana="#acte #metonymie #join" ref="104" lemma="urgeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">urget</w>
+    <w ana="#acte #composite #join #metonymie" ref="104" lemma="urgeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">urget</w>
     <w ref="104" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="105" lemma="perfidus1" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">perfidus</w>
     <w ref="105" lemma="altus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">alta</w>

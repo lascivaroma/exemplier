@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #toucher #masturbation">
+<div type="fragment" ana="#acte #masturbatio #metonymie #toucher">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="2.719" lemma="reperio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">reppereris</w>
     <w ref="2.719" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.719" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Neut">quae</w>
-    <w ana="#acte #metonymie #toucher #masturbation" ref="2.719" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">tangi</w>
+    <w ana="#acte #masturbatio #metonymie #toucher" ref="2.719" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">tangi</w>
     <w ref="2.719" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">femina</w>
     <w ref="2.719" lemma="gaudeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3">gaudet</w>
     <w ref="2.719" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

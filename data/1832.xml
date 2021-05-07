@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,7 +30,7 @@
     <w ref="2.16.14" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
     <w ref="2.16.14" lemma="assiduus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">assiduis</w>
     <w ref="2.16.14" lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
-    <w ana="#acte #metonymie #amo" ref="2.16.14" lemma="libido" pos="NOMcom" msd="Case=Abl|Numb=Plur">libidinibus</w>
+    <w ana="#acte #amo #metonymie" ref="2.16.14" lemma="libido" pos="NOMcom" msd="Case=Abl|Numb=Plur">libidinibus</w>
     <w ref="2.16.14" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
   </quote>
 </div>

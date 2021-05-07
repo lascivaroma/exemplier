@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #voisinage #womb">
+<div type="fragment" ana="#adjoiningParts #cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="1.39" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">hunc</w>
     <w ref="1.39" lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=MascNeut">ipsum</w>
     <w ref="1.39" lemma="dionysium" pos="NOMcom" msd="Case=Acc|Numb=Sing">Dionysium</w>
-    <w ana="#female #cunnus #voisinage #womb" ref="1.39" lemma="aluus" pos="NOMcom" msd="Case=Abl|Numb=Sing">alvo</w>
+    <w ana="#adjoiningParts #cunnus #female #womb" ref="1.39" lemma="aluus" pos="NOMcom" msd="Case=Abl|Numb=Sing">alvo</w>
     <w ref="1.39" lemma="contineo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">contineret</w>
     <w ref="1.39" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.39" lemma="somnio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">somniavit</w>

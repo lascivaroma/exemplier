@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #petrir">
+<div type="fragment" ana="#acte #metaphore #petrir">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:74.3-74.4" type="line">
     <w ref="74.3" lemma="patruus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">patrui</w>
-    <w ana="#metaphore #acte #petrir" ref="74.3" lemma="perdepso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">perdepsuit</w>
+    <w ana="#acte #metaphore #petrir" ref="74.3" lemma="perdepso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">perdepsuit</w>
     <w ref="74.3" lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">ipsam</w>
     <w ref="74.4" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
   </quote>

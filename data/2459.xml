@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #aidoion">
+<div type="fragment" ana="#aidoion #composite #euphemism #male #mentula">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,11 +17,11 @@
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi005.perseus-lat2:429-432" type="line">
     <w ref="429" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">Ille</w>
     <w ref="429" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
-    <w ana="#male #euphemisms #aidoion #mentula" ref="429" lemma="obscenus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">obscenas</w>
+    <w ana="#aidoion #composite #euphemism #male #mentula" ref="429" lemma="obscenus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">obscenas</w>
     <w ref="429" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="429" lemma="apertus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut">aperto</w>
     <w ref="429" lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
-    <w ana="#male #euphemisms #aidoion #mentula" ref="429" lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Plur">partes</w>
+    <w ana="#aidoion #composite #euphemism #male #mentula" ref="429" lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Plur">partes</w>
     <w ref="430" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">Viderat</w>
     <w ref="430" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="430" lemma="in" pos="PRE" msd="MORPH=empty">in</w>

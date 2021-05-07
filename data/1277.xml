@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #militaire #soumettre #subigo">
+<div type="fragment" ana="#acte #metaphore #militaire #soumettre #soumission #subigo">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -33,7 +33,7 @@
     <w ref="49" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="49" lemma="triumpho" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">triumphat</w>
     <w ref="49" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
-    <w ana="#metaphore #acte #militaire #soumettre #subigo" ref="49" lemma="subigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">subegit</w>
+    <w ana="#acte #metaphore #militaire #soumettre #soumission #subigo" ref="49" lemma="subigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">subegit</w>
     <w ref="49" lemma="caesar" pos="NOMcom" msd="Case=Acc|Numb=Sing">Caesarem</w>
     <w ref="49" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

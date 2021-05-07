@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #aggression">
+<div type="fragment" ana="#acte #aggression #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="7.8.2" lemma="periculosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp">Periculosius</w>
     <w ref="7.8.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="7.8.2" lemma="nego" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">negare</w>
-    <w ana="#acte #metonymie #aggression" ref="7.8.2" lemma="rapio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">raptum</w>
+    <w ana="#acte #aggression #metonymie" ref="7.8.2" lemma="rapio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">raptum</w>
     <w ref="7.8.2" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
     <w ref="7.8.2" lemma="committo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">commisisse</w>
     <w ref="7.8.2" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>

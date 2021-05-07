@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #metonymie #acte #embrace">
+<div type="fragment" ana="#acte #embrace #male #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="158" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">isque</w>
     <w ref="158" lemma="que" pos="CON" msd="MORPH=empty">{isque}</w>
     <w ref="158" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
-    <w ana="#acte #male #metonymie #acte #embrace" ref="158" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">compressit</w>
+    <w ana="#acte #embrace #male #metonymie" ref="158" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">compressit</w>
     <w ref="158" lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Sing">virginem</w>
     <w ref="158" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="158" lemma="adolescentulus" pos="NOMcom" msd="Case=Nom|Numb=Sing">adulescentulus</w>

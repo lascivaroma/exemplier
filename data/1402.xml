@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #mentulam_cacare #pedicatio">
+<div type="fragment" ana="#acte #mentula #mentulamCacare #metonymie #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="36.1" lemma="annalis1" pos="NOMcom" msd="Case=Voc|Numb=Plur">Annales</w>
     <w ref="36.1" lemma="Uolusius" pos="NOMpro" msd="Case=Voc|Numb=Sing">Volusi</w>
     <w ref="36.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #mentulam_cacare #pedicatio" ref="36.1" lemma="caco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">cacata</w>
+    <w ana="#acte #mentula #mentulamCacare #metonymie #pedicatio" ref="36.1" lemma="caco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">cacata</w>
     <w ref="36.1" lemma="charta" pos="NOMcom" msd="Case=Abl|Numb=Sing">charta</w>
     <w ref="36.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="36.2" lemma="uotum" pos="NOMcom" msd="Case=Acc|Numb=Sing">votum</w>

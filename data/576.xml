@@ -1,4 +1,4 @@
-<div type="fragment" ana="#parties clitoris #female #cunnus #son">
+<div type="fragment" ana="#clitoris #cunnus #female #pars #son">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.112">
         <w lemma="quidam" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">Quibusdam</w>
-        <w ana="#partiesclitoris #son" lemma="landicus" pos="NOMcom" msd="Case=Abl|Numb=Plur">landicis</w>
+        <w ana="#clitoris #cunnus #female #pars #son" lemma="landicus" pos="NOMcom" msd="Case=Abl|Numb=Plur">landicis</w>
         <w lemma="horridus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">horrida</w>
         <w lemma="comitor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">comitatur</w>
         <w lemma="magnitudo" pos="NOMcom" msd="Case=Nom|Numb=Sing">magnitudo</w>

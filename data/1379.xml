@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #devoir #service #fellatio">
+<div type="fragment" ana="#acte #devoir #fellatio #metaphore #service">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,6 +24,6 @@
     <w ref="44" lemma="meleager" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">Meleagro</w>
     <w ref="44" lemma="atalanta" pos="NOMcom" msd="Case=Abl|Numb=Sing">Atalanta</w>
     <w ref="44" lemma="os1" pos="NOMcom" msd="Case=Abl|Numb=Sing">ore</w>
-    <w ana="#metaphore #acte #devoir #service #fellatio" ref="44" lemma="morigeror" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">morigeratur</w>
+    <w ana="#acte #devoir #fellatio #metaphore #service" ref="44" lemma="morigeror" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">morigeratur</w>
   </quote>
 </div>

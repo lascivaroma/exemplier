@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #futuo">
+<div type="fragment" ana="#acte #fututio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="3.96.1" lemma="lingus" pos="NOMcom" msd="Numb=Plur|Person=2">Lingis</w>
     <w ref="3.96.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="3.96.1" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
-    <w ana="#acte #futuo" ref="3.96.1" lemma="futuo" pos="VER" msd="Case=Dat|Numb=Plur|Deg=Pos|Mood=Ind|Tense=Pres|Voice=Act">futuis</w>
+    <w ana="#acte #fututio" ref="3.96.1" lemma="futuo" pos="VER" msd="Case=Dat|Numb=Plur|Deg=Pos|Mood=Ind|Tense=Pres|Voice=Act">futuis</w>
     <w ref="3.96.1" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">meam</w>
     <w ref="3.96.1" lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Sing">puellam</w>
     <w ref="3.96.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>

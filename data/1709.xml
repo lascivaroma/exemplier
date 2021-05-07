@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #metonymie #acte #embrace">
+<div type="fragment" ana="#acte #embrace #male #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi007.perseus-lat2:162-163" type="line">
     <w ref="162" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ílla</w>
     <w ref="162" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>
-    <w ana="#acte #male #metonymie #acte #embrace" ref="162" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">compresserat</w>
+    <w ana="#acte #embrace #male #metonymie" ref="162" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">compresserat</w>
     <w ref="163" lemma="decimus" pos="ADJord" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">decumo</w>
     <w ref="163" lemma="post1" pos="ADV" msd="Deg=Pos">post</w>
     <w ref="163" lemma="mensis" pos="NOMcom" msd="Case=Abl|Numb=Sing">mense</w>

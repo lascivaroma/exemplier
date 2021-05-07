@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #oral">
+<div type="fragment" ana="#acte #composite #oral">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi1294.phi002.perseus-lat2</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.46.6" type="line">
-    <w ana="#acte #oral" ref="11.46.6" lemma="summum1" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Fem">Summa</w>
-    <w ana="#acte #oral" ref="11.46.6" lemma="peto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">petas</w>
+    <w ana="#acte #composite #oral" ref="11.46.6" lemma="summum1" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Fem">Summa</w>
+    <w ana="#acte #composite #oral" ref="11.46.6" lemma="peto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">petas</w>
   </quote>
 </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #composite #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -32,8 +32,8 @@
         <w lemma="contrecto" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Adj|Voice=Pass">contrectanda</w>
         <w lemma="contra1" pos="ADV" msd="Deg=Pos">contra</w>
         <w lemma="ius1" pos="NOMcom" msd="Case=Acc|Numb=Plur">iura</w>
-        <w lemma="uerecundia" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #euphemisms #aidoion #mentula">uerecundiae</w>
-        <w lemma="uerecundus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#male #euphemisms #aidoion #mentula">uerecunda</w>
+        <w lemma="uerecundia" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#aidoion #composite #euphemism #male #mentula">uerecundiae</w>
+        <w lemma="uerecundus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#aidoion #composite #euphemism #male #mentula">uerecunda</w>
         <w lemma="pudor" pos="NOMcom" msd="Case=Gen|Numb=Sing">pudoris</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="ubi1" pos="ADVrel" msd="MORPH=empty">ubi</w>

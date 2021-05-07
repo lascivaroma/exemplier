@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="1.46" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Masc">hi</w>
     <w ref="1.46" lemma="nos" pos="PROper" msd="Case=Acc|Numb=Plur">nos</w>
     <w ref="1.46" lemma="corporeus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">corporei</w>
-    <w ana="#acte #metonymie #coeo" ref="1.46" lemma="coetus" pos="NOMcom" msd="Case=Nom|Numb=Sing">coetus</w>
+    <w ana="#acte #coeo #metonymie" ref="1.46" lemma="coetus" pos="NOMcom" msd="Case=Nom|Numb=Sing">coetus</w>
     <w ref="1.46" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
     <w ref="1.46" lemma="concipio" pos="NOMcom" msd="Case=Nom|Numb=Plur">conceptus</w>
     <w ref="1.46" lemma="partus" pos="NOMcom" msd="Case=Nom|Numb=Plur">partusque</w>

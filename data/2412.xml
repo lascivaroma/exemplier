@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #armes">
+<div type="fragment" ana="#armes #composite #mentula #metaphore #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,8 +25,8 @@
     <w ref="6.73.6" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
     <w ref="6.73.6" lemma="deuoueo" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">devota</w>
     <w ref="6.73.6" lemma="focus" pos="NOMcom" msd="Case=Abl|Numb=Plur">focis</w>
-    <w ana="#mentula #metaphore #pointu #armes" ref="6.73.6" lemma="inguen" pos="NOMcom" msd="Case=Gen|Numb=Sing">inguinis</w>
-    <w ana="#mentula #metaphore #pointu #armes" ref="6.73.6" lemma="arma" pos="NOMcom" msd="Case=Acc|Numb=Plur">arma</w>
+    <w ana="#armes #composite #mentula #metaphore #pointu" ref="6.73.6" lemma="inguen" pos="NOMcom" msd="Case=Gen|Numb=Sing">inguinis</w>
+    <w ana="#armes #composite #mentula #metaphore #pointu" ref="6.73.6" lemma="arma" pos="NOMcom" msd="Case=Acc|Numb=Plur">arma</w>
     <w ref="6.73.6" lemma="gero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">geram</w>
   </quote>
 </div>

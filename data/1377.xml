@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #devoir #service">
+<div type="fragment" ana="#acte #devoir #metaphore #service">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="6.37.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="6.37.9" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
     <w ref="6.37.9" lemma="solicito" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">solicitet</w>
-    <w ana="#metaphore #acte #devoir #service" ref="6.37.9" lemma="obsequium" pos="NOMcom" msd="Case=Nom|Numb=Plur">obsequia</w>
+    <w ana="#acte #devoir #metaphore #service" ref="6.37.9" lemma="obsequium" pos="NOMcom" msd="Case=Nom|Numb=Plur">obsequia</w>
     <w ref="6.37.9" lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Sing">feminae</w>
   </quote>
 </div>

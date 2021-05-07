@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="12.636" lemma="certus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">certa</w>
     <w ref="12.636" lemma="tumeo" pos="VER" msd="Case=Gen|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">tumentis</w>
     <w ref="12.637" lemma="spes" pos="NOMcom" msd="Case=Nom|Numb=Sing">spes</w>
-    <w ana="#female #cunnus #womb" ref="12.637" lemma="uterus" pos="NOMcom" msd="Case=Gen|Numb=Sing">uteri</w>
+    <w ana="#cunnus #female #womb" ref="12.637" lemma="uterus" pos="NOMcom" msd="Case=Gen|Numb=Sing">uteri</w>
     <w ref="12.637" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="12.637" lemma="coniux" pos="NOMcom" msd="Case=Nom|Numb=Sing">coniunxque</w>
     <w ref="12.637" lemma="que" pos="CON" msd="MORPH=empty">{coniunxque}</w>

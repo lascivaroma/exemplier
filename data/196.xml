@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage  #mentula #copulation #desir">
+<div type="fragment" ana="#adjoiningParts #copulation #desir #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="quantum3" pos="ADVrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quantum</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
         <w lemma="exhaurio" pos="VER" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">exhausti</w>
-        <w lemma="lumbus" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #euphemisms #voisinage #copulation #desir">lumbos</w>
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#adjoiningParts #copulation #desir #euphemism #male #mentula">lumbos</w>
         <w lemma="dono" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">donare</w>
         <w lemma="cliens" pos="NOMcom" msd="Case=Acc|Numb=Sing">clientis</w>
         <w lemma="iugerum" pos="NOMcom" msd="Case=Abl|Numb=Plur">iugeribus</w>

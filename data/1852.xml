@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,8 +23,8 @@
     <w ref="3.175" lemma="epoto" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">epota</w>
     <w ref="3.175" lemma="medicamen" pos="NOMcom" msd="Case=Nom|Numb=Plur">medicamina</w>
     <w ref="3.175" lemma="ob" pos="PRE" msd="MORPH=empty">ob</w>
-    <w ana="#acte #metonymie #amo" ref="3.175" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
-    <w ana="#acte #metonymie #amo" ref="3.175" lemma="uenerius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerium</w>
+    <w ana="#acte #amo #composite #metonymie" ref="3.175" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #amo #composite #metonymie" ref="3.175" lemma="uenerius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerium</w>
     <w ref="3.175" lemma="excito1" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">excitandum</w>
     <w ref="3.175" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="3.175" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>

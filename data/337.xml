@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #misc">
+<div type="fragment" ana="#divers #male #penis">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="at2" pos="CONcoo" msd="MORPH=empty">at</w>
         <w lemma="laeuus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">laeua</w>
         <w lemma="lacrima" pos="NOMcom" msd="Case=Acc|Numb=Plur">lacrimas</w>
-        <w ana="#male #penis" lemma="Mutto" pos="NOMcom" msd="Case=Dat">muttoni</w>
+        <w ana="#divers #male #penis" lemma="Mutto" pos="NOMcom" msd="Case=Dat">muttoni</w>
         <w lemma="abstergeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">absterget</w>
         <w lemma="amica" pos="NOMcom" msd="Case=Nom|Numb=Sing">amica</w>
     </quote>

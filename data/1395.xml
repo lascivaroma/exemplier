@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #ramer #naviguer">
+<div type="fragment" ana="#acte #metaphore #naviguer #ramer">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="25" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">dicatur</w>
     <w ref="25" lemma="possum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">posse</w>
     <w ref="25" lemma="taurus" pos="NOMcom" msd="Case=Acc|Numb=Sing">taurum</w>
-    <w ana="#metaphore #acte #ramer #naviguer" ref="25" lemma="tollo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tollere</w>
+    <w ana="#acte #metaphore #naviguer #ramer" ref="25" lemma="tollo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tollere</w>
     <w ref="25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="25" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
     <w ref="25" lemma="uitulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">vitulum</w>

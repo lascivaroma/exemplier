@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #copulation #desir #castration #mentula">
+<div type="fragment" ana="#adjoiningParts #castration #copulation #desir #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="gestio2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">gestit</w>
         <w lemma="moechus" pos="NOMcom" msd="Case=Dat|Numb=Sing">moecho</w>
         <w lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hóc</w>
-        <w lemma="abdomen" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #voisinage #copulation #desir #castration">abdomen</w>
+        <w lemma="abdomen" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#adjoiningParts #castration #copulation #desir #euphemism #male #mentula">abdomen</w>
         <w lemma="adimo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">adimere</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>

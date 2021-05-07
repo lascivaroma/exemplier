@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #abstracts #mentula">
+<div type="fragment" ana="#abstracts #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:4.11.167-4.11.168">
         <w lemma="irritamentum" pos="NOMcom" msd="Case=Acc|Numb=Sing">inritamentum</w>
-        <w lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing" ana="#male #euphemisms #abstracts">veneris</w>
+        <w lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing" ana="#abstracts #euphemism #male #mentula">veneris</w>
         <w lemma="langueo" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Com|Deg=Pos|Mood=Par|Tense=Pres|Voice=Act">languentis</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="acer2" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">acres</w>

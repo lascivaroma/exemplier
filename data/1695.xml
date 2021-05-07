@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metonymie #acte #misceo">
+<div type="fragment" ana="#acte #metonymie #misceo">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="9" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="9" lemma="Mars" pos="NOMpro" msd="Case=Abl|Numb=Sing">Marte</w>
     <w ref="9" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
-    <w ana="#metonymie #acte #misceo" ref="9" lemma="misceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">miscuit</w>
+    <w ana="#acte #metonymie #misceo" ref="9" lemma="misceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">miscuit</w>
     <w ref="9" lemma="unde1" pos="ADVrel" msd="MORPH=empty">unde</w>
     <w ref="9" lemma="Cupido" pos="NOMpro" msd="Case=Nom|Numb=Sing">Cupido</w>
     <w ref="9" lemma="nascor" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">natus</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #ramer #naviguer">
+<div type="fragment" ana="#acte #metaphore #naviguer #ramer">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="2.5" lemma="numquam" pos="ADVneg" msd="MORPH=empty">Numquam</w>
     <w ref="2.5" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
     <w ref="2.5" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
-    <w ana="#metaphore #acte #ramer #naviguer" ref="2.5" lemma="nauis" pos="NOMcom" msd="Case=Abl|Numb=Sing">navi</w>
+    <w ana="#acte #metaphore #naviguer #ramer" ref="2.5" lemma="nauis" pos="NOMcom" msd="Case=Abl|Numb=Sing">navi</w>
     <w ref="2.5" lemma="plenus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">plena</w>
     <w ref="2.5" lemma="tollo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">tollo</w>
     <w ref="2.5" lemma="uector1" pos="NOMcom" msd="Case=Acc|Numb=Sing">vectorem</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -35,7 +35,7 @@
     <w ref="V.4" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="V.4" lemma="perineum" pos="NOMcom" msd="Case=Abl|Numb=Sing">perineo</w>
     <w ref="V.4" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
-    <w ana="#anus #culus" ref="V.4" lemma="podicus" pos="ADJqua" msd="Case=Gen|Numb=Sing">podici</w>
+    <w ana="#culus" ref="V.4" lemma="podicus" pos="ADJqua" msd="Case=Gen|Numb=Sing">podici</w>
     <w ref="V.4" lemma="uicinus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">uicinis</w>
     <w ref="V.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="V.4" lemma="renitor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">renititur</w>

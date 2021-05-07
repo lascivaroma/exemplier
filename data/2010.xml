@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #consequences #tired">
+<div type="fragment" ana="#acte #consequences #metonymie #tired">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="873" lemma="opus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">operé</w>
     <w ref="873" lemma="foris2" pos="ADV" msd="Deg=Pos">foris</w>
     <w ref="873" lemma="facio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">faciendo</w>
-    <w ana="#acte #metonymie #consequences #tired" ref="873" lemma="lassus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">lassus</w>
+    <w ana="#acte #consequences #metonymie #tired" ref="873" lemma="lassus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">lassus</w>
     <w ref="873" lemma="noctu" pos="ADV" msd="Deg=Pos">noctu</w>
     <w ref="873" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="873" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #agriculture #labourer">
+<div type="fragment" ana="#acte #agriculture #labourer #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="149" lemma="aratio" pos="NOMcom" msd="Case=Acc|Numb=Plur">arationes</w>
     <w ref="150" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="150" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">quí</w>
-    <w ana="#metaphore #acte #agriculture #labourer" ref="150" lemma="aro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">arari</w>
+    <w ana="#acte #agriculture #labourer #metaphore" ref="150" lemma="aro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">arari</w>
     <w ref="150" lemma="soleo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3">solent</w>
     <w ref="150" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="150" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>

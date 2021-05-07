@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rub #futuo">
+<div type="fragment" ana="#acte #fututio #metonymie #rub">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="190.8" lemma="dux" pos="NOMcom" msd="Case=Abl|Numb=Sing">duce</w>
     <w ref="190.8" lemma="lasciuus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">lasciuae</w>
     <w ref="190.8" lemma="nox" pos="ADV" msd="Case=Abl">nocte</w>
-    <w ana="#acte #metonymie #rub #futuo" ref="190.8" lemma="frico" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">fricantur</w>
+    <w ana="#acte #fututio #metonymie #rub" ref="190.8" lemma="frico" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">fricantur</w>
     <w ref="190.8" lemma="anus2" pos="NOMcom" msd="Case=Nom|Numb=Sing">anus</w>
     <w ref="190.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

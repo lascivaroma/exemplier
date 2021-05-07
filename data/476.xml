@@ -1,4 +1,4 @@
-<div type="fragment" ana="#fossa #female #cunnus #metaphore">
+<div type="fragment" ana="#composite #cunnus #female #fossa #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -397,9 +397,9 @@
         <w lemma="propago1" pos="NOMcom" msd="Case=Acc|Numb=Sing">propaginem</w>
         <w lemma="deduco" pos="VER" msd="Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">deducta</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-        <w ana="#fossa #composite" lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">genitalibus</w>
+        <w ana="#composite #cunnus #female #fossa #metaphore" lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">genitalibus</w>
         <w lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Sing">feminae</w>
-        <w ana="#fossa #composite" lemma="fouea" pos="NOMcom" msd="Case=Abl|Numb=Plur">foueis</w>
+        <w ana="#composite #cunnus #female #fossa #metaphore" lemma="fouea" pos="NOMcom" msd="Case=Abl|Numb=Plur">foueis</w>
         <w lemma="commendo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">commendata</w>
         <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
         <w lemma="omnis" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Com">omni</w>

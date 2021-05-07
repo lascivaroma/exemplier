@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #metonymie #acte #embrace">
+<div type="fragment" ana="#acte #embrace #male #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0914.phi001.perseus-lat2:1.4.1-1.4.2" type="section">
     <w ref="1.4.1" lemma="uis" pos="NOMcom" msd="Case=Abl|Numb=Sing">vi</w>
-    <w ana="#acte #male #metonymie #acte #embrace" ref="1.4.1" lemma="comprimo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">compressa</w>
+    <w ana="#acte #embrace #male #metonymie" ref="1.4.1" lemma="comprimo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">compressa</w>
     <w ref="1.4.1" lemma="Uestalis" pos="NOMpro" msd="Case=Nom|Numb=Sing">Vestalis</w>
     <w ref="1.4.1" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="1.4.1" lemma="geminus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">geminum</w>

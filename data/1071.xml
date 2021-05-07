@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #futuo #actor">
+<div type="fragment" ana="#acte #actor #fututio #male">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="2.28.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.28.3" lemma="sextillus" pos="ADJqua" msd="Case=Voc|Numb=Sing">Sextille</w>
     <w ref="2.28.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #male #futuo #actor" ref="2.28.3" lemma="fututor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fututor</w>
+    <w ana="#acte #actor #fututio #male" ref="2.28.3" lemma="fututor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fututor</w>
     <w ref="2.28.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.28.4" lemma="calda" pos="NOMcom" msd="Case=Nom|Numb=Sing">Calda</w>
     <w ref="2.28.4" lemma="uetustinus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">Vetustinae</w>

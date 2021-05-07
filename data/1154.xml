@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #fellatio #acte">
+<div type="fragment" ana="#acte #fellatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="2.61.1" lemma="lanugo" pos="NOMcom" msd="Case=Abl|Numb=Sing">lanugine</w>
     <w ref="2.61.1" lemma="mala" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">malae</w>
     <w ref="2.61.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #fellatio #acte" ref="2.61.2" lemma="lambo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">Lambebat</w>
+    <w ana="#acte #fellatio" ref="2.61.2" lemma="lambo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">Lambebat</w>
     <w ref="2.61.2" lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">medios</w>
     <w ref="2.61.2" lemma="improbus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">inproba</w>
     <w ref="2.61.2" lemma="lingua" pos="NOMcom" msd="Case=Nom|Numb=Sing">lingua</w>

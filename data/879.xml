@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="2.51.5" lemma="uenter" pos="NOMcom" msd="Case=Nom|Numb=Sing">venter</w>
     <w ref="2.51.5" lemma="specto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">spectat</w>
     <w ref="2.51.5" lemma="conuiuium" pos="NOMcom" msd="Case=Acc|Numb=Plur">convivia</w>
-    <w ana="#anus #culus" ref="2.51.5" lemma="culus" pos="NOMcom" msd="Case=Dat|Numb=Sing">culi</w>
+    <w ana="#culus" ref="2.51.5" lemma="culus" pos="NOMcom" msd="Case=Dat|Numb=Sing">culi</w>
     <w ref="2.51.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
     <w ref="2.51.6" lemma="semper" pos="ADV" msd="Deg=Pos">semper</w>
     <w ref="2.51.6" lemma="miser" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">miser</w>

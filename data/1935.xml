@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #enter">
+<div type="fragment" ana="#acte #enter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="1.7" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="1.7" lemma="erro2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">erres</w>
     <w ref="1.7" lemma="extraneus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">extraneam</w>
-    <w ana="#acte #metonymie #enter" ref="1.7" lemma="incurso" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">incursans</w>
+    <w ana="#acte #enter #metonymie" ref="1.7" lemma="incurso" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">incursans</w>
     <w ref="1.7" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="1.7" lemma="piaculum" pos="NOMcom" msd="Case=Acc|Numb=Sing">piaculum</w>
     <w ref="1.7" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2">feceris</w>

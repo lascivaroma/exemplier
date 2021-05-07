@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme">
+<div type="fragment" ana="#accomplissement #acte #ejaculation #humiliant #metaphore #orgasme">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="358.5" lemma="dies" pos="NOMcom" msd="Case=Abl|Numb=Sing">die</w>
     <w ref="358.5" lemma="quaero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">quaeris</w>
     <w ref="358.5" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">coitum</w>
-    <w ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme" ref="358.5" lemma="patro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">patrare</w>
+    <w ana="#accomplissement #acte #ejaculation #humiliant #metaphore #orgasme" ref="358.5" lemma="patro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">patrare</w>
     <w ref="358.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="358.6" lemma="ne4" pos="CONsub" msd="MORPH=empty">Ne</w>
     <w ref="358.6" lemma="capio2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">capi</w>

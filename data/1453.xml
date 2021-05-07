@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #aller_en_vue_de">
+<div type="fragment" ana="#acte #allerEnVueDe #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="7.18.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="7.18.4" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
     <w ref="7.18.4" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
-    <w ana="#acte #metonymie #aller_en_vue_de" ref="7.18.5" lemma="accedo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">Accessi</w>
+    <w ana="#acte #allerEnVueDe #metonymie" ref="7.18.5" lemma="accedo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">Accessi</w>
     <w ref="7.18.5" lemma="quotiens1" pos="ADVrel" msd="MORPH=empty">quotiens</w>
     <w ref="7.18.5" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="7.18.5" lemma="opus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">opus</w>

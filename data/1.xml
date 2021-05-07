@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #personnification">
+<div type="fragment" ana="#composite #male #personnification">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,11 +15,11 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.558.11">
         <w lemma="lauo2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">lota</w>
-        <w lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #personnification">mentula</w>
+        <w lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#composite #male #personnification">mentula</w>
         <w lemma="lana" pos="NOMcom" msd="Case=Nom|Numb=Sing">lana</w>
         <w lemma="[Greek]" pos="FOR" msd="MORPH=empty">λαικάζεν</w>
         <w lemma="cupidus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">cupidae</w>
-        <w lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" ana="#male #personnification">dicet</w>
+        <w lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" ana="#composite #male #personnification">dicet</w>
         <w lemma="auaritia" pos="NOMcom" msd="Case=Dat|Numb=Sing">avaritiae</w>
     </quote>
  </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#field #female #cunnus #metaphore">
+<div type="fragment" ana="#composite #cunnus #female #field #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,9 +21,9 @@
         <w lemma="usus" pos="NOMcom" msd="Case=Nom|Numb=Sing">usus</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
         <w lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">genitali</w>
-        <w ana="#field" lemma="aruum" pos="NOMcom" msd="Case=Abl|Numb=Sing">arvo</w>
+        <w ana="#composite #cunnus #female #field #metaphore" lemma="aruum" pos="NOMcom" msd="Case=Abl|Numb=Sing">arvo</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-        <w ana="#field" lemma="sulcus" pos="NOMcom" msd="Case=Acc|Numb=Plur">sulcos</w>
+        <w ana="#composite #cunnus #female #field #metaphore" lemma="sulcus" pos="NOMcom" msd="Case=Acc|Numb=Plur">sulcos</w>
         <w lemma="oblimo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">oblimet</w>
         <w lemma="iners" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">inertis</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

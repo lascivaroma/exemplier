@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #misc">
+<div type="fragment" ana="#divers #male #penis">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
         <w lemma="quare2" pos="ADVint" msd="MORPH=empty">quare</w>
         <w lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
         <w lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
-        <w ana="#male #penis" lemma="mutunio" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">mutuniati</w>
+        <w ana="#divers #male #penis" lemma="mutunio" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">mutuniati</w>
         <w lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">Sint</w>
         <w lemma="leuis1" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">leves</w>
         <w lemma="puer" pos="NOMcom" msd="Case=Nom|Numb=Plur">pueri</w>

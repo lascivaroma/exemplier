@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #enter">
+<div type="fragment" ana="#acte #enter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo012.perseus-lat2:69" type="unknown">
     <w ref="69" lemma="quis1" pos="PROint" msd="Gend=Neut">quod</w>
     <w ref="69" lemma="regina" pos="NOMcom" msd="Case=Acc|Numb=Sing">reginam</w>
-    <w ana="#acte #metonymie #enter" ref="69" lemma="ineo1" pos="VER" msd="Case=Abl|Numb=Sing|Deg=Pos|Person=1">ineo</w>
+    <w ana="#acte #enter #metonymie" ref="69" lemma="ineo1" pos="VER" msd="Case=Abl|Numb=Sing|Deg=Pos|Person=1">ineo</w>
     <w ref="69" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
   </quote>
 </div>

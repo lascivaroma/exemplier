@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #pedico">
+<div type="fragment" ana="#acte #male #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -31,7 +31,7 @@
     <w ref="38.2" lemma="apertus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">aperta</w>
     <w ref="38.2" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
     <w ref="38.2" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
-    <w ana="#acte #male #pedico" ref="38.3" lemma="paedico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">pedicare</w>
+    <w ana="#acte #male #pedicatio" ref="38.3" lemma="paedico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">pedicare</w>
     <w ref="38.3" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">uolo</w>
     <w ref="38.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="38.3" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>

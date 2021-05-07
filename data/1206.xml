@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #frapper #pedicatio">
+<div type="fragment" ana="#acte #frapper #metaphore #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -34,7 +34,7 @@
     <w ref="26.9" lemma="caleo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">calens</w>
     <w ref="26.9" lemma="soleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=SemDep|Person=1">solebam</w>
     <w ref="26.10" lemma="fur" pos="NOMcom" msd="Case=Acc|Numb=Plur">fures</w>
-    <w ana="#metaphore #acte #frapper #pedicatio" ref="26.10" lemma="caedo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">caedere</w>
+    <w ana="#acte #frapper #metaphore #pedicatio" ref="26.10" lemma="caedo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">caedere</w>
     <w ref="26.10" lemma="quamlibet2" pos="PROind" msd="MORPH=empty">quamlibet</w>
     <w ref="26.10" lemma="ualens" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">ualentes</w>
     <w ref="26.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

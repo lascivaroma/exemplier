@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male  #metaphore #animal #mentula">
+<div type="fragment" ana="#animal #composite #male #mentula #metaphore #personnification">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
         <w lemma="quicumque1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">quicumque</w>
         <w lemma="initio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">initiari</w>
         <w lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">uellet</w>
-        <w lemma="secreto" pos="ADV" msd="Case=Abl" ana="#male #personnification">secreto</w>
+        <w lemma="secreto" pos="ADV" msd="Case=Abl" ana="#animal #composite #male #mentula #metaphore #personnification">secreto</w>
         <w lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
         <w lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
         <w lemma="trado" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">tradito</w>
@@ -56,7 +56,7 @@
         <w lemma="do" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">daret</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
         <w lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
-        <w lemma="secretus" pos="ADJqua" msd="Case=Nom|Numb=Sing" ana="#male #personnification">secretum</w>
+        <w lemma="secretus" pos="ADJqua" msd="Case=Nom|Numb=Sing" ana="#animal #composite #male #mentula #metaphore #personnification">secretum</w>
         <w lemma="qualis2" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Neut">quale</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
         <w lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=MascFem">omnes</w>

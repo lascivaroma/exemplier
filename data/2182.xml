@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #pecco #illicit">
+<div type="fragment" ana="#acte #illicit #metonymie #pecco">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="2.557" lemma="parco" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">parcite</w>
     <w ref="2.557" lemma="uester" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Fem">vestras</w>
     <w ref="2.557" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
-    <w ana="#acte #metonymie #pecco #illicit" ref="2.558" lemma="pecco" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">Peccent</w>
+    <w ana="#acte #illicit #metonymie #pecco" ref="2.558" lemma="pecco" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">Peccent</w>
     <w ref="2.558" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.558" lemma="peccans" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">peccantes</w>
     <w ref="2.558" lemma="uerbum" pos="NOMcom" msd="Case=Acc|Numb=Plur">verba</w>

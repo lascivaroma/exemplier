@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #natura #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #natura">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -38,7 +38,7 @@
         <w lemma="laboro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">laborabat</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
-        <w lemma="naturalis" pos="NOMcom" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos" ana="#male #natura #euphemism #mentula">naturalia</w>
+        <w lemma="naturalis" pos="NOMcom" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos" ana="#euphemism #male #mentula #natura">naturalia</w>
         <w lemma="ipse" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">ipsius</w>
         <w lemma="putrefacio" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">putrefacta</w>
         <w lemma="radicitus" pos="ADV" msd="Deg=Pos">radicitus</w>

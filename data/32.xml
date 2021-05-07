@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male  #metaphore #animal #mentula">
+<div type="fragment" ana="#animal #male #mentula #metaphore #personnification">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:83.33">
         <w lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">licebit</w>
         <w lemma="aeger2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">aeger</w>
-        <w lemma="anguis" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #personnification">angue</w>
+        <w lemma="anguis" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#animal #male #mentula #metaphore #personnification">angue</w>
         <w lemma="lentus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">lentior</w>
         <w lemma="cubo" pos="NOMcom" msd="Numb=Sing|Person=2">cubes</w>
     </quote>

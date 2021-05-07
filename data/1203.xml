@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme">
+<div type="fragment" ana="#acte #atteindreObjectif #ejaculation #metaphore #orgasme">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="1.46.1" lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
     <w ref="1.46.1" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">dicis</w>
     <w ref="1.46.1" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
-    <w ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme" ref="1.46.1" lemma="propero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">Propero</w>
+    <w ana="#acte #atteindreObjectif #ejaculation #metaphore #orgasme" ref="1.46.1" lemma="propero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">Propero</w>
     <w ref="1.46.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.46.1" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">fac</w>
     <w ref="1.46.1" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>

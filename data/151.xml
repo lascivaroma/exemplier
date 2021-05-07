@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #castration  #euphemism">
+<div type="fragment" ana="#castration #composite #euphemism #male #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi1014.phi001.perseus-lat1</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:10.4.17">
-        <w lemma="exoleti" pos="NOMcom" msd="Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass" ana="#male #specialisation #castration">exoletos</w>
+        <w lemma="exoleti" pos="NOMcom" msd="Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass" ana="#castration #composite #euphemism #male #specialisation">exoletos</w>
         <w lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Plur|Gend=Masc">suos</w>
         <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
         <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
@@ -24,6 +24,6 @@
         <w lemma="idoneus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">idonei</w>
         <w lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sint</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w lemma="amputo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" ana="#male #specialisation #castration">amputant</w>
+        <w lemma="amputo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" ana="#castration #composite #euphemism #male #specialisation">amputant</w>
     </quote>
  </div>

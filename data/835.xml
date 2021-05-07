@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #womb #medical">
+<div type="fragment" ana="#female #medicale #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="3.2" lemma="recursus" pos="NOMcom" msd="Case=Nom|Numb=Plur">recursus</w>
     <w ref="3.2" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
     <w ref="3.2" lemma="inclinatio" pos="NOMcom" msd="Case=Acc|Numb=Plur">inclinationes</w>
-    <w ana="#female #womb #medical" ref="3.2" lemma="matrix" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ana="#female #medicale #womb" ref="3.2" lemma="matrix" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
     <w ref="3.2" lemma="recuro" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1">recuremus</w>
     <w ref="3.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #pedico">
+<div type="fragment" ana="#acte #male #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi1294.phi002.perseus-lat2</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.104.17-11.104.20" type="line">
-    <w ana="#acte #male #pedico" ref="11.104.17" lemma="paedico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Pedicare</w>
+    <w ana="#acte #male #pedicatio" ref="11.104.17" lemma="paedico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Pedicare</w>
     <w ref="11.104.17" lemma="nego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">negas</w>
     <w ref="11.104.17" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="11.104.17" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">dabat</w>

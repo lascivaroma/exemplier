@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rub #fututio">
+<div type="fragment" ana="#acte #fututio #metonymie #rub">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="148.7" lemma="dum" pos="CONsub" msd="MORPH=empty">dumque</w>
     <w ref="148.7" lemma="que" pos="CON" msd="MORPH=empty">{dumque}</w>
     <w ref="148.7" lemma="caballus" pos="NOMcom" msd="Case=Gen|Numb=Sing">caballae</w>
-    <w ana="#acte #metonymie #rub #fututio" ref="148.8" lemma="attero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Adterit</w>
+    <w ana="#acte #fututio #metonymie #rub" ref="148.8" lemma="attero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Adterit</w>
     <w ref="148.8" lemma="assiduus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">adsiduo</w>
     <w ref="148.8" lemma="penis" pos="NOMcom" msd="Case=Abl|Numb=Sing">pene</w>
     <w ref="148.8" lemma="fututor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fututor</w>

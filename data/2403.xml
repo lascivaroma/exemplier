@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #armes">
+<div type="fragment" ana="#armes #mentula #metaphore #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="92" lemma="cunctor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">cunctaturque</w>
     <w ref="92" lemma="que" pos="CON" msd="MORPH=empty">{cunctaturque}</w>
     <w ref="92" lemma="metus" pos="NOMcom" msd="Case=Abl|Numb=Sing">metu</w>
-    <w ana="#mentula #metaphore #pointu #armes" ref="92" lemma="telum" pos="NOMcom" msd="Case=Acc|Numb=Sing">telumque</w>
+    <w ana="#armes #mentula #metaphore #pointu" ref="92" lemma="telum" pos="NOMcom" msd="Case=Acc|Numb=Sing">telumque</w>
     <w ref="92" lemma="que" pos="CON" msd="MORPH=empty">{telumque}</w>
     <w ref="92" lemma="insto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">instare</w>
     <w ref="92" lemma="tremisco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tremiscit</w>

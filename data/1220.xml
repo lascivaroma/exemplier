@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #frapper">
+<div type="fragment" ana="#acte #frapper #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="69" lemma="soleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=SemDep|Person=1">solebam</w>
     <w ref="69" lemma="ipse" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Sup">ipsumam</w>
     <w ref="69" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">meam</w>
-    <w ana="#metaphore #acte #frapper" ref="69" lemma="debatuo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">debattuere</w>
+    <w ana="#acte #frapper #metaphore" ref="69" lemma="debatuo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">debattuere</w>
     <w ref="69" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="69" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
     <w ref="69" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="1.590" lemma="que" pos="CON" msd="MORPH=empty">{sterilique}</w>
     <w ref="1.590" lemma="nefandus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">nefandos</w>
     <w ref="1.591" lemma="ex" pos="PRE" msd="MORPH=empty">Ex</w>
-    <w ana="#female #cunnus #womb" ref="1.591" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ana="#cunnus #female #womb" ref="1.591" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
     <w ref="1.591" lemma="fetus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">fetus</w>
     <w ref="1.591" lemma="infaustus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">infaustis</w>
     <w ref="1.591" lemma="uro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">urere</w>

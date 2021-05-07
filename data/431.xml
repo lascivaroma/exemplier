@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #foreskin">
+<div type="fragment" ana="#acte #foreskin #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi0472.phi001.perseus-lat2</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:58.5">
-        <w ana="#male #foreskin #act" lemma="glubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">glubit</w>
+        <w ana="#acte #foreskin #male" lemma="glubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">glubit</w>
         <w lemma="magnanimus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=MascNeut|Deg=Pos">magnanimi</w>
         <w lemma="Remus" pos="NOMpro" msd="Case=Nom|Numb=Plur">Remi</w>
         <w lemma="nepos1" pos="NOMcom" msd="Case=Nom|Numb=Plur">nepotes</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#fente #female #cunnus #misc">
+<div type="fragment" ana="#cunnus #divers #female #fente">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
         <w lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ducit</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="igneus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">ignea</w>
-        <w ana="#fente #misc" lemma="rima" pos="NOMcom" msd="Case=Nom|Numb=Sing">rima</w>
+        <w ana="#cunnus #divers #female #fente" lemma="rima" pos="NOMcom" msd="Case=Nom|Numb=Sing">rima</w>
         <w lemma="mico" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">micans</w>
         <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
         <w lemma="exhalo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">exhalat</w>

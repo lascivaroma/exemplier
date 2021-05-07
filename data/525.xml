@@ -1,4 +1,4 @@
-<div type="fragment" ana="#sinus #euphemism #female #cunnus">
+<div type="fragment" ana="#composite #cunnus #euphemism #female #sinus">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,8 +16,8 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.122">
         <w lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
         <w lemma="lana" pos="NOMcom" msd="Case=Nom|Numb=Sing">lana</w>
-        <w ana="#sinus #euphemism #composite" lemma="muliebris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">muliebri</w>
-        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="muliebris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">muliebri</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
         <w lemma="immitto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">immittenda</w>
         <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>

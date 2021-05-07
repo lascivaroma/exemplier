@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="35.1.31" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
     <w ref="35.1.31" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="35.1.31" lemma="matrimonium" pos="NOMcom" msd="Case=Acc|Numb=Sing">matrimonium</w>
-    <w ana="#acte #metonymie #coeo" ref="35.1.31" lemma="coeo1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">coierint</w>
+    <w ana="#acte #coeo #metonymie" ref="35.1.31" lemma="coeo1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">coierint</w>
     <w ref="35.1.31" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
   </quote>
 </div>

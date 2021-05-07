@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #facio">
+<div type="fragment" ana="#acte #composite #ellipse #euphemism #facio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,8 +29,8 @@
     <w ref="59.4" lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">medium</w>
     <w ref="59.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="59.4" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
-    <w ana="#acte #euphemism #ellipse #facio" ref="59.4" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
-    <w ana="#acte #euphemism #ellipse #facio" ref="59.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#acte #composite #ellipse #euphemism #facio" ref="59.4" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
+    <w ana="#acte #composite #ellipse #euphemism #facio" ref="59.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="59.4" lemma="patior" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">patitur</w>
     <w ref="59.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #voisinage #reproduction">
+<div type="fragment" ana="#adjoiningParts #euphemism #reproduction">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="5.22" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
     <w ref="5.22" lemma="tumesco" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">tumescente</w>
     <w ref="5.22" lemma="putresco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">putrescat</w>
-    <w ana="#euphemisms #voisinage #reproduction" ref="5.22" lemma="femur" pos="NOMcom" msd="Case=Acc|Numb=Sing">femur</w>
+    <w ana="#adjoiningParts #euphemism #reproduction" ref="5.22" lemma="femur" pos="NOMcom" msd="Case=Acc|Numb=Sing">femur</w>
     <w ref="5.22" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="5.22" lemma="respondeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">respondebit</w>
     <w ref="5.22" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>

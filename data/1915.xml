@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #patior #female">
+<div type="fragment" ana="#acte #female #metonymie #patior">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:40.4" type="line">
     <w ref="40.4" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">hunc</w>
-    <w ana="#acte #metonymie #patior #female" ref="40.4" lemma="pathicus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">pathicae</w>
+    <w ana="#acte #female #metonymie #patior" ref="40.4" lemma="pathicus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">pathicae</w>
     <w ref="40.4" lemma="superus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Sup">summi</w>
     <w ref="40.4" lemma="numen" pos="NOMcom" msd="Case=Gen|Numb=Sing">numinis</w>
     <w ref="40.4" lemma="instar" pos="NOMcom" msd="Case=Ind">instar</w>

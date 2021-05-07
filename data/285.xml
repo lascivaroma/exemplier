@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #abstracts #mentula">
+<div type="fragment" ana="#abstracts #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
         <w lemma="cunctus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">cuncta</w>
         <w lemma="cauus2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">cava</w>
         <w lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
-        <w lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #abstracts">libidinem</w>
+        <w lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#abstracts #euphemism #male #mentula">libidinem</w>
         <w lemma="recipio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">recipientem</w>
     </quote>
  </div>

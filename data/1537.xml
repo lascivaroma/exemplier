@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec #nu">
+<div type="fragment" ana="#acte #dormirAvec #metonymie #nu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi002.perseus-lat2:3.117" type="line">
     <w ref="3.117" lemma="tutus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp">Tutius</w>
     <w ref="3.117" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
-    <w ana="#acte #metonymie #dormir_avec #nu" ref="3.117" lemma="iaceo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">iacuisse</w>
+    <w ana="#acte #dormirAvec #metonymie #nu" ref="3.117" lemma="iaceo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">iacuisse</w>
     <w ref="3.117" lemma="torus" pos="NOMcom" msd="Case=Abl|Numb=Sing">toro</w>
     <w ref="3.117" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="3.117" lemma="teneo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">tenuisse</w>

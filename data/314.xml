@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #natura #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #natura">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="hircus" pos="NOMcom" msd="Case=Acc|Numb=Sing">hircum</w>
         <w lemma="uetulus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uetulum</w>
         <w lemma="caprea" pos="NOMcom" msd="Case=Dat|Numb=Sing">capreis</w>
-        <w lemma="natura" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #natura">naturam</w>
+        <w lemma="natura" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#euphemism #male #mentula #natura">naturam</w>
         <w lemma="liguro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ligurire</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

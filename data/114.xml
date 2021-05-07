@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
         <w lemma="probo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">probaris</w>
         <w lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #specialisation #euphemism #mentula">Partem</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#euphemism #male #mentula #specialisation">Partem</w>
         <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
         <w lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">dederis</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

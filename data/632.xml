@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #voisinage #womb">
+<div type="fragment" ana="#adjoiningParts #cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="fr14" lemma="mater" pos="NOMcom" msd="Case=Nom|Numb=Sing">mater</w>
     <w ref="fr14" lemma="pecus2" pos="NOMcom" msd="Case=Acc|Numb=Sing">pecudem</w>
     <w ref="fr14" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
-    <w ana="#female #cunnus #voisinage #womb" ref="fr14" lemma="aluus" pos="NOMcom" msd="Case=Abl|Numb=Sing">alvo</w>
+    <w ana="#adjoiningParts #cunnus #female #womb" ref="fr14" lemma="aluus" pos="NOMcom" msd="Case=Abl|Numb=Sing">alvo</w>
     <w ref="fr14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="fr14" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="fr14" lemma="homo" pos="NOMcom" msd="Case=Acc|Numb=Sing">hominem</w>

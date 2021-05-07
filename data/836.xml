@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #womb #medical">
+<div type="fragment" ana="#female #medicale #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="3.3" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
     <w ref="3.3" lemma="longus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">longo</w>
     <w ref="3.3" lemma="tempus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">tempore</w>
-    <w ana="#female #womb #medical" ref="3.3" lemma="matrix" pos="NOMcom" msd="Case=Nom|Numb=Sing">matrix</w>
+    <w ana="#female #medicale #womb" ref="3.3" lemma="matrix" pos="NOMcom" msd="Case=Nom|Numb=Sing">matrix</w>
     <w ref="3.3" lemma="aeger2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">aegra</w>
     <w ref="3.3" lemma="concipio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">conceperit</w>
     <w ref="3.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

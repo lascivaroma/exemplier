@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme">
+<div type="fragment" ana="#acte #atteindreObjectif #composite #ejaculation #metaphore #orgasme">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -43,8 +43,8 @@
     <w ref="4.1195" lemma="quaero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">quaerens</w>
     <w ref="4.1196" lemma="gaudium" pos="NOMcom" msd="Case=Acc|Numb=Plur">gaudia</w>
     <w ref="4.1196" lemma="sollicito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sollicitat</w>
-    <w ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme #composite" ref="4.1196" lemma="spatium" pos="NOMcom" msd="Case=Acc|Numb=Sing">spatium</w>
-    <w ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme #composite" ref="4.1196" lemma="decurro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">decurrere</w>
+    <w ana="#acte #atteindreObjectif #composite #ejaculation #metaphore #orgasme" ref="4.1196" lemma="spatium" pos="NOMcom" msd="Case=Acc|Numb=Sing">spatium</w>
+    <w ana="#acte #atteindreObjectif #composite #ejaculation #metaphore #orgasme" ref="4.1196" lemma="decurro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">decurrere</w>
     <w ref="4.1196" lemma="amor" pos="NOMcom" msd="Case=Gen|Numb=Sing">amoris</w>
     <w ref="4.1196" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

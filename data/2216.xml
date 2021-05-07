@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #actus">
+<div type="fragment" ana="#acte #actus #ellipse #euphemism">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="1.2.35" lemma="Terentius" pos="NOMpro" msd="Case=Abl|Numb=Sing">Terentio</w>
     <w ref="1.2.35" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
     <w ref="1.2.35" lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">ipso</w>
-    <w ana="#acte #euphemism #ellipse #actus" ref="1.2.35" lemma="actus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">actu</w>
+    <w ana="#acte #actus #ellipse #euphemism" ref="1.2.35" lemma="actus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">actu</w>
     <w ref="1.2.35" lemma="turpis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">turpi</w>
     <w ref="1.2.35" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dicit</w>
     <w ref="1.2.35" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#caves #female #culus #cunnus #metaphore">
+<div type="fragment" ana="#caves #culus #cunnus #female #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="7.9" lemma="de" pos="PRE" msd="MORPH=empty">De</w>
     <w ref="7.9" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">his</w>
     <w ref="7.9" lemma="ergo2" pos="CONcoo" msd="MORPH=empty">ergo</w>
-    <w ana="#caves #female #culus #cunnus #metaphore" ref="7.9" lemma="cauerna" pos="NOMcom" msd="Case=Abl|Numb=Plur">cavernis</w>
+    <w ana="#caves #culus #cunnus #female #metaphore" ref="7.9" lemma="cauerna" pos="NOMcom" msd="Case=Abl|Numb=Plur">cavernis</w>
     <w ref="7.9" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">quas</w>
     <w ref="7.9" lemma="uenter" pos="NOMcom" msd="Case=Acc|Numb=Plur">ventres</w>
     <w ref="7.9" lemma="cerebrum" pos="NOMcom" msd="Case=Gen|Numb=Sing">cerebri</w>

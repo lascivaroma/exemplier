@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec #nu">
+<div type="fragment" ana="#acte #dormirAvec #metonymie #nu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="2.728" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">femina</w>
     <w ref="2.728" lemma="uir" pos="NOMcom" msd="Case=Nom|Numb=Sing">virque</w>
     <w ref="2.728" lemma="que" pos="CON" msd="MORPH=empty">{virque}</w>
-    <w ana="#acte #metonymie #dormir_avec #nu" ref="2.728" lemma="iaceo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iacent</w>
+    <w ana="#acte #dormirAvec #metonymie #nu" ref="2.728" lemma="iaceo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iacent</w>
     <w ref="2.728" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

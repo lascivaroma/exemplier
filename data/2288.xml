@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #oral">
+<div type="fragment" ana="#acte #composite #oral">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,8 +20,8 @@
     <w ref="11.98.22" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="11.98.22" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="11.98.23" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">Facias</w>
-    <w ana="#acte #oral" ref="11.98.23" lemma="amicus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">amicum</w>
-    <w ana="#acte #oral" ref="11.98.23" lemma="basio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">basiare</w>
+    <w ana="#acte #composite #oral" ref="11.98.23" lemma="amicus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">amicum</w>
+    <w ana="#acte #composite #oral" ref="11.98.23" lemma="basio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">basiare</w>
     <w ref="11.98.23" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
     <w ref="11.98.23" lemma="nolo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">nolis</w>
     <w ref="11.98.23" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

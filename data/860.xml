@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #womb #medical">
+<div type="fragment" ana="#female #medicale #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
     <w ref="80.2" lemma="illinitus" pos="VER" msd="Case=Acc|Numb=Sing">illinitum</w>
     <w ref="80.2" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
     <w ref="80.2" lemma="orificium" pos="NOMcom" msd="Case=Dat|Numb=Sing">orificio</w>
-    <w ana="#female #womb #medical" ref="80.2" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Sing">matricis</w>
+    <w ana="#female #medicale #womb" ref="80.2" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Sing">matricis</w>
     <w ref="80.2" lemma="appono" pos="NOMcom" msd="Case=Acc|Numb=Sing">appositum</w>
     <w ref="80.2" lemma="patefacio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">patefacit</w>
     <w ref="80.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

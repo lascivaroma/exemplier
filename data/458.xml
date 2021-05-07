@@ -1,4 +1,4 @@
-<div type="fragment" ana="#field #anus #male #homoeros">
+<div type="fragment" ana="#culus #field #homoeros #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
         <w lemma="uendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">vendidit</w>
-        <w ana="#field #anus" lemma="ager" pos="NOMcom" msd="Case=Acc|Numb=Sing">agrum</w>
+        <w ana="#culus #field #homoeros #male" lemma="ager" pos="NOMcom" msd="Case=Acc|Numb=Sing">agrum</w>
         <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
         <w lemma="ager" pos="NOMcom" msd="Case=Acc|Numb=Sing">Agrum</w>
         <w lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>

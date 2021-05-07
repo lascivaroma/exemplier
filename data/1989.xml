@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #consequences">
+<div type="fragment" ana="#acte #consequences #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="6.3.75" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">duxisset</w>
     <w ref="6.3.75" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="6.3.75" lemma="cras2" pos="ADV" msd="Deg=Pos">cras</w>
-    <w ana="#acte #metonymie #consequences" ref="6.3.75" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>
+    <w ana="#acte #consequences #metonymie" ref="6.3.75" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>
     <w ref="6.3.75" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
     <w ref="6.3.75" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="6.3.75" lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inquit</w>

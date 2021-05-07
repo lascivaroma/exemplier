@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #pedico">
+<div type="fragment" ana="#acte #male #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="11.94.5" lemma="nascor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">natus</w>
     <w ref="11.94.5" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="11.94.5" lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">ipsis</w>
-    <w ana="#acte #male #pedico" ref="11.94.6" lemma="paedico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">Pedicas</w>
+    <w ana="#acte #male #pedicatio" ref="11.94.6" lemma="paedico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">Pedicas</w>
     <w ref="11.94.6" lemma="puer" pos="NOMcom" msd="Case=Acc|Numb=Sing">puerum</w>
     <w ref="11.94.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="11.94.6" lemma="uerpes" pos="NOMcom" msd="Case=Acc|Numb=Sing">verpe</w>

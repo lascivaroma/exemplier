@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rub #masturbate">
+<div type="fragment" ana="#acte #masturbatio #metonymie #rub">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="11.29.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="11.29.8" lemma="Phyllis" pos="NOMpro" msd="Case=Voc|Numb=Sing">Phylli</w>
     <w ref="11.29.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #rub #masturbate" ref="11.29.8" lemma="frico" pos="NOMcom" msd="Case=Nom|Numb=Sing">frica</w>
+    <w ana="#acte #masturbatio #metonymie #rub" ref="11.29.8" lemma="frico" pos="NOMcom" msd="Case=Nom|Numb=Sing">frica</w>
     <w ref="11.29.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

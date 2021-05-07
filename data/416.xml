@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #glans">
+<div type="fragment" ana="#glans #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
         <w lemma="uagus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uagum</w>
         <w lemma="sono1" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">sonante</w>
         <w lemma="mergo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">merseris</w>
-        <w ana="#male #glans" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+        <w ana="#glans #male" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
         <w lemma="lutum1" pos="NOMcom" msd="Case=Abl|Numb=Sing">luto</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

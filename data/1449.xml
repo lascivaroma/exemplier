@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #aller_en_vue_de">
+<div type="fragment" ana="#acte #allerEnVueDe #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.2.639.32ff</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.21-2.2.22" type="line">
-    <w ana="#acte #metonymie #aller_en_vue_de" ref="2.2.21" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">Ibit</w>
+    <w ana="#acte #allerEnVueDe #metonymie" ref="2.2.21" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">Ibit</w>
     <w ref="2.2.21" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="2.2.21" lemma="affectus?" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem">adfectam</w>
     <w ref="2.2.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

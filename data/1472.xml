@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #etreavec">
+<div type="fragment" ana="#acte #composite #etreAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,8 +17,8 @@
     <w ref="2.8.27" lemma="quoque" pos="ADV" msd="Deg=Pos">Quoque</w>
     <w ref="2.8.27" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Sing">loco</w>
     <w ref="2.8.27" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">tecum</w>
-    <w ana="#acte #metonymie #etreavec" ref="2.8.27" lemma="cum3" pos="CON" msd="MORPH=empty">{tecum}</w>
-    <w ana="#acte #metonymie #etreavec" ref="2.8.27" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=1">fuerim</w>
+    <w ana="#acte #composite #etreAvec #metonymie" ref="2.8.27" lemma="cum3" pos="CON" msd="MORPH=empty">{tecum}</w>
+    <w ana="#acte #composite #etreAvec #metonymie" ref="2.8.27" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=1">fuerim</w>
     <w ref="2.8.27" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.8.27" lemma="quotiens" pos="ADVrel" msd="MORPH=empty">quotiensque</w>
     <w ref="2.8.27" lemma="que" pos="CON" msd="MORPH=empty">{quotiensque}</w>

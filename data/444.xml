@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #attitude">
+<div type="fragment" ana="#attitude #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
         <w lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
         <w lemma="pudibilis" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos">pudibilium</w>
         <w lemma="enormitas" pos="NOMcom" msd="Case=Abl|Numb=Sing">enormitate</w>
-        <w ana="#male #attitude" lemma="membrum" pos="NOMcom" msd="Case=Gen|Numb=Plur">membrorum</w>
+        <w ana="#attitude #male" lemma="membrum" pos="NOMcom" msd="Case=Gen|Numb=Plur">membrorum</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
         <w lemma="uicesima" pos="ADJord" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">vicensimam</w>

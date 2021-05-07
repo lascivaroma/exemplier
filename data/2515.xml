@@ -1,4 +1,4 @@
-<div type="fragment" ana="#adjoining_parts #kidneys #euphemism #female">
+<div type="fragment" ana="#adjoiningParts #euphemism #female #kidneys">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -45,7 +45,7 @@
     <w ref="2.19" lemma="semen1" pos="NOMcom" msd="Case=Nom|Numb=Sing">semen</w>
     <w ref="2.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.19" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
-    <w ana="#adjoining_parts #kidneys #euphemism #female" ref="2.19" lemma="gremium" pos="NOMcom" msd="Case=Abl|Numb=Sing">gremio</w>
+    <w ana="#adjoiningParts #euphemism #female #kidneys" ref="2.19" lemma="gremium" pos="NOMcom" msd="Case=Abl|Numb=Sing">gremio</w>
     <w ref="2.19" lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Sing">feminae</w>
     <w ref="2.19" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possit</w>
     <w ref="2.19" lemma="infundo2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">infundi</w>

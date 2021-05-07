@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #joke #jeu #female-subject">
+<div type="fragment" ana="#acte #femaleSubject #jeu #joke #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi0959.phi001.perseus-lat2</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.8.43" type="line">
-    <w ana="#metaphore #acte #joke #jeu #female-subject" ref="1.8.43" lemma="ludo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Ludunt</w>
+    <w ana="#acte #femaleSubject #jeu #joke #metaphore" ref="1.8.43" lemma="ludo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Ludunt</w>
     <w ref="1.8.43" lemma="formosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">formosae</w>
     <w ref="1.8.43" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     <w ref="1.8.43" lemma="castus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">casta</w>

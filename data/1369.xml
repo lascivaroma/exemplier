@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #devoir #service #passive">
+<div type="fragment" ana="#acte #devoir #metaphore #passive #service">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="657" lemma="facio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">faciundum</w>
     <w ref="657" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="657" lemma="puerilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">puerile</w>
-    <w ana="#metaphore #acte #devoir #service #passive" ref="657" lemma="officium" pos="NOMcom" msd="Case=Acc|Numb=Sing">officium</w>
+    <w ana="#acte #devoir #metaphore #passive #service" ref="657" lemma="officium" pos="NOMcom" msd="Case=Acc|Numb=Sing">officium</w>
     <w ref="657" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="657" lemma="conquinisco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">conquiniscam</w>
     <w ref="657" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>

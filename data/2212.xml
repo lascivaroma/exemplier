@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #facio">
+<div type="fragment" ana="#acte #ellipse #euphemism #facio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <bibl ref="#TLL"><title>TLL</title>, <biblscope>Vl.121.40ff.</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi1512.phi001.horatiusNet-lat1:3.6.29" type="comment">
     <w ref="3.6.29" lemma="scilicet" pos="ADV" msd="Deg=Pos">Scilicet</w>
-    <w ana="#acte #euphemism #ellipse #facio" ref="3.6.29" lemma="facio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">facere</w>
+    <w ana="#acte #ellipse #euphemism #facio" ref="3.6.29" lemma="facio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">facere</w>
     <w ref="3.6.29" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="3.6.29" lemma="permitto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">permittente</w>
     <w ref="3.6.29" lemma="tantum2" pos="ADV" msd="Deg=Pos">tantum</w>

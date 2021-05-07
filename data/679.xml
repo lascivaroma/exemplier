@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -31,7 +31,7 @@
     <w ref="6.598" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">vellet</w>
     <w ref="6.599" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="6.599" lemma="uexo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">vexare</w>
-    <w ana="#female #cunnus #womb" ref="6.599" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ana="#cunnus #female #womb" ref="6.599" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
     <w ref="6.599" lemma="puer" pos="NOMcom" msd="Case=Dat|Numb=Plur">pueris</w>
     <w ref="6.599" lemma="salio2" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">salientibus</w>
     <w ref="6.599" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

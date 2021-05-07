@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec">
+<div type="fragment" ana="#acte #composite #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,9 +16,9 @@
     <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi002.perseus-lat2:5" type="chapter">
     <w ref="5" lemma="repleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">replebat</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="5" lemma="iaceo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">iacensque</w>
+    <w ana="#acte #composite #dormirAvec #metonymie" ref="5" lemma="iaceo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">iacensque</w>
     <w ref="5" lemma="que" pos="CON" msd="MORPH=empty">{iacensque}</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="5" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ana="#acte #composite #dormirAvec #metonymie" ref="5" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="5" lemma="concubinus" pos="NOMcom" msd="Case=Abl|Numb=Plur">concubinis</w>
     <w ref="5" lemma="uelamen" pos="NOMcom" msd="Case=Abl|Numb=Sing">velamine</w>
     <w ref="5" lemma="de" pos="PRE" msd="MORPH=empty">de</w>

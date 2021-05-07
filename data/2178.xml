@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #disgrace">
+<div type="fragment" ana="#acte #disgrace #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="1.19" lemma="pudeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Puduit</w>
     <w ref="1.19" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
     <w ref="1.19" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
-    <w ana="#acte #metonymie #disgrace" ref="1.19" lemma="turpitudo" pos="NOMcom" msd="Case=Gen|Numb=Sing">turpitudinis</w>
+    <w ana="#acte #disgrace #metonymie" ref="1.19" lemma="turpitudo" pos="NOMcom" msd="Case=Gen|Numb=Sing">turpitudinis</w>
     <w ref="1.19" lemma="alienus2" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">alienae</w>
     <w ref="1.19" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="1.19" lemma="sui1" pos="PROref" msd="Case=Abl|Numb=Sing">se</w>

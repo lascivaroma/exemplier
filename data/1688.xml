@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metonymie #acte #misceo">
+<div type="fragment" ana="#acte #metonymie #misceo">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="31.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="31.3" lemma="apud" pos="PRE" msd="MORPH=empty">apud</w>
     <w ref="31.3" lemma="Persae" pos="NOMpro" msd="Case=Acc|Numb=Plur">Persas</w>
-    <w ana="#metonymie #acte #misceo" ref="31.3" lemma="misceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">misceri</w>
+    <w ana="#acte #metonymie #misceo" ref="31.3" lemma="misceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">misceri</w>
     <w ref="31.3" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="31.3" lemma="mater" pos="NOMcom" msd="Case=Abl|Numb=Plur">matribus</w>
   </quote>

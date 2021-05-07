@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #chevaucher #femme #effeminé #composite">
+<div type="fragment" ana="#acte #chevaucher #composite #effeminé #femme #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,8 +27,8 @@
     <w ref="2.732" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.732" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="2.732" lemma="admitto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">admisso</w>
-    <w ana="#metaphore #acte #chevaucher #femme #effeminé #composite" ref="2.732" lemma="subdo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">subdere</w>
-    <w ana="#metaphore #acte #chevaucher #femme #effeminé #composite" ref="2.732" lemma="calcar" pos="NOMcom" msd="Case=Nom|Numb=Sing">calcar</w>
+    <w ana="#acte #chevaucher #composite #effeminé #femme #metaphore" ref="2.732" lemma="subdo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">subdere</w>
+    <w ana="#acte #chevaucher #composite #effeminé #femme #metaphore" ref="2.732" lemma="calcar" pos="NOMcom" msd="Case=Nom|Numb=Sing">calcar</w>
     <w ref="2.732" lemma="equus" pos="NOMcom" msd="Case=Abl|Numb=Sing">equo</w>
     <w ref="2.732" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -33,7 +33,7 @@
     <w ref="2.115" lemma="bene" pos="ADV" msd="Case=Acc|Deg=Comp">melius</w>
     <w ref="2.115" lemma="tollo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tollit</w>
     <w ref="2.115" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
-    <w ana="#anus #culus" ref="2.115" lemma="podex" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ana="#culus" ref="2.115" lemma="podex" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
     <w ref="2.115" lemma="prouoco" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">prouocatam</w>
     <w ref="2.115" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

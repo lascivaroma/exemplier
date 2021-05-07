@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #epouser #noces">
+<div type="fragment" ana="#acte #epouser #metaphore #noces">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="3.8" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
     <w ref="3.8" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coitus</w>
     <w ref="3.8" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#metaphore #acte #epouser #noces" ref="3.8" lemma="connubium" pos="NOMcom" msd="Case=Acc|Numb=Plur">conubia</w>
+    <w ana="#acte #epouser #metaphore #noces" ref="3.8" lemma="connubium" pos="NOMcom" msd="Case=Acc|Numb=Plur">conubia</w>
     <w ref="3.8" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Plur">corporum</w>
     <w ref="3.8" lemma="res" pos="NOMcom" msd="Case=Nom|Numb=Plur">res</w>
     <w ref="3.8" lemma="caducus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">caduca</w>

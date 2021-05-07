@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #couper #tailler #desir">
+<div type="fragment" ana="#couper #desir #metaphore #tailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -35,7 +35,7 @@
     <w ref="11.19" lemma="identidem" pos="ADV" msd="Deg=Pos">identidem</w>
     <w ref="11.19" lemma="omnis" pos="PROind" msd="Case=Gen|Numb=Plur|Gend=Com">omnium</w>
     <w ref="11.20" lemma="ilia" pos="NOMcom" msd="Case=Nom|Numb=Plur">ilia</w>
-    <w ana="#metaphore #couper #tailler #desir" ref="11.20" lemma="rumpo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">rumpens</w>
+    <w ana="#couper #desir #metaphore #tailler" ref="11.20" lemma="rumpo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">rumpens</w>
     <w ref="11.20" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     <w ref="11.21" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
     <w ref="11.21" lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=MascNeut">meum</w>

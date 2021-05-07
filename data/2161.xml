@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #insulter">
+<div type="fragment" ana="#acte #insulter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="39.17" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
     <w ref="39.17" lemma="adduco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">adduxisti</w>
     <w ref="39.17" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
-    <w ana="#acte #metonymie #insulter" ref="39.17" lemma="illudo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">inluderet</w>
+    <w ana="#acte #insulter #metonymie" ref="39.17" lemma="illudo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">inluderet</w>
     <w ref="39.17" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
   </quote>
 </div>

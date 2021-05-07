@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #foreskin">
+<div type="fragment" ana="#foreskin #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
         <w lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
         <w lemma="superus" pos="ADJqua" msd="Case=Nom|Gend=Neut|Deg=Comp">superius</w>
-        <w ana="#male #foreskin" lemma="tergus" pos="NOMcom" msd="Case=Nom|Numb=Sing">tergus</w>
+        <w ana="#foreskin #male" lemma="tergus" pos="NOMcom" msd="Case=Nom|Numb=Sing">tergus</w>
         <w lemma="relaxo" pos="VER" msd="Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">relaxatum</w>
         <w lemma="cedo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">cedere</w>
         <w lemma="retro1" pos="ADV" msd="Deg=Pos">retro</w>

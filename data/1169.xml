@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #acte #passive">
+<div type="fragment" ana="#acte #male #passive">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="2.42" lemma="coxendix" pos="NOMcom" msd="Case=Abl|Numb=Plur">coxendicibus</w>
     <w ref="2.42" lemma="subleuo1" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">subleuatis</w>
     <w ref="2.42" lemma="lumbus" pos="NOMcom" msd="Case=Gen|Numb=Plur">lumborum</w>
-    <w ana="#male #acte #passive" ref="2.42" lemma="crispitudo" pos="NOMcom" msd="Case=Abl|Numb=Sing">crispitudine</w>
+    <w ana="#acte #male #passive" ref="2.42" lemma="crispitudo" pos="NOMcom" msd="Case=Abl|Numb=Sing">crispitudine</w>
     <w ref="2.42" lemma="fluctuo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">fluctuaret</w>
     <w ref="2.42" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
   </quote>

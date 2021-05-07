@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #aidoion">
+<div type="fragment" ana="#aidoion #euphemism">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -32,7 +32,7 @@
     <w ref="2.137" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
     <w ref="2.137" lemma="et1" pos="ADV" msd="Deg=Pos">et</w>
     <w ref="2.137" lemma="circumcisio" pos="NOMcom" msd="Case=Acc|Numb=Sing">circumcisionem</w>
-    <w ana="#euphemisms #aidoion" ref="2.137" lemma="genitalis" pos="NOMcom" msd="Case=Gen|Numb=Plur|Gend=Com">genitalium</w>
+    <w ana="#aidoion #euphemism" ref="2.137" lemma="genitalis" pos="NOMcom" msd="Case=Gen|Numb=Plur|Gend=Com">genitalium</w>
     <w ref="2.137" lemma="uehementer" pos="ADV" msd="Deg=Pos">uehementer</w>
     <w ref="2.137" lemma="irrideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">irridet</w>
     <w ref="2.137" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

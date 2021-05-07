@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #anatomie #metaphore #mentula">
+<div type="fragment" ana="#anatomie #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
         <w lemma="ago" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">agere</w>
         <w lemma="intra2" pos="PRE" msd="MORPH=empty">intra</w>
         <w lemma="uiscus2" pos="NOMcom" msd="Case=Acc|Numb=Plur">uiscera</w>
-        <w lemma="penis" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #anatomie">penem</w>
+        <w lemma="penis" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#anatomie #male #mentula #metaphore">penem</w>
         <w lemma="legitimus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">legitimum</w>
         <w lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
         <w lemma="illic2" pos="ADV" msd="Deg=Pos">illic</w>

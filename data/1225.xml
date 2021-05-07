@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #frapper">
+<div type="fragment" ana="#acte #frapper #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="5.97" lemma="abeo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">abit</w>
     <w ref="5.97" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
     <w ref="5.97" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
-    <w ana="#metaphore #acte #frapper" ref="5.97" lemma="ferio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">feritura</w>
+    <w ana="#acte #frapper #metaphore" ref="5.97" lemma="ferio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">feritura</w>
     <w ref="5.97" lemma="placeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2">placebas</w>
     <w ref="5.97" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="5.98" lemma="quo3" pos="ADVint" msd="Numb=Sing">quo</w>

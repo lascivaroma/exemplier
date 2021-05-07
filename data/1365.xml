@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #devoir #service #patentia">
+<div type="fragment" ana="#acte #devoir #metaphore #patentia #service">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,6 +20,6 @@
     <w ref="2.86" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.86" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
     <w ref="2.86" lemma="facile" pos="ADV" msd="Deg=Pos">facile</w>
-    <w ana="#metaphore #acte #devoir #service #patentia" ref="2.86" lemma="seruio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2">servires</w>
+    <w ana="#acte #devoir #metaphore #patentia #service" ref="2.86" lemma="seruio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2">servires</w>
   </quote>
 </div>

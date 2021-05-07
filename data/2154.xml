@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #insulter">
+<div type="fragment" ana="#acte #insulter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="1.19" lemma="omnis" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Com">omni</w>
     <w ref="1.19" lemma="cogitatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">cogitatione</w>
     <w ref="1.19" lemma="sanctitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">sanctitatis</w>
-    <w ana="#acte #metonymie #insulter" ref="1.19" lemma="insulto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">insultant</w>
+    <w ana="#acte #insulter #metonymie" ref="1.19" lemma="insulto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">insultant</w>
     <w ref="1.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
   </quote>
 </div>

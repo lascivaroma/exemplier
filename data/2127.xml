@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #violence">
+<div type="fragment" ana="#acte #composite #metonymie #violence">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -37,8 +37,8 @@
     <w ref="2.46" lemma="nobilis2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">nobilis</w>
     <w ref="2.46" lemma="ob" pos="PRE" msd="MORPH=empty">ob</w>
     <w ref="2.46" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
-    <w ana="#acte #metonymie #violence" ref="2.46" lemma="iniuria" pos="NOMcom" msd="Case=Acc|Numb=Sing">iniuriam</w>
-    <w ana="#acte #metonymie #violence" ref="2.46" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">sese</w>
+    <w ana="#acte #composite #metonymie #violence" ref="2.46" lemma="iniuria" pos="NOMcom" msd="Case=Acc|Numb=Sing">iniuriam</w>
+    <w ana="#acte #composite #metonymie #violence" ref="2.46" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">sese</w>
     <w ref="2.46" lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">ipsa</w>
     <w ref="2.46" lemma="mors" pos="NOMcom" msd="Case=Abl|Numb=Sing">morte</w>
     <w ref="2.46" lemma="multo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">multavisset</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #anatomie #metaphore #mentula">
+<div type="fragment" ana="#anatomie #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="uenter" pos="NOMcom" msd="Case=Abl|Numb=Sing">ventre</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w lemma="penis" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #anatomie">pene</w>
+        <w lemma="penis" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#anatomie #male #mentula #metaphore">pene</w>
         <w lemma="bonus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem">bona</w>
         <w lemma="patria" pos="NOMcom" msd="Case=Abl|Numb=Sing|Gend=Neut">patria</w>
         <w lemma="lacero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">laceraverat</w>

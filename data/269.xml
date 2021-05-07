@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #composite #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,8 +24,8 @@
         <w lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
         <w lemma="quidam" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Neut">quaedam</w>
         <w lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Neut">quae</w>
-        <w lemma="honeste" pos="ADV" msd="Deg=Pos" ana="#male #euphemisms #aidoion">honeste</w>
-        <w lemma="non" pos="ADVneg" msd="MORPH=empty" ana="#male #euphemisms #aidoion">non</w>
+        <w lemma="honeste" pos="ADV" msd="Deg=Pos" ana="#aidoion #composite #euphemism #male #mentula">honeste</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty" ana="#aidoion #composite #euphemism #male #mentula">non</w>
         <w lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">possum</w>
         <w lemma="dico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dicere</w>
     </quote>

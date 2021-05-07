@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #travailler">
+<div type="fragment" ana="#acte #metaphore #travailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi019.perseus-lat2:651" type="line">
     <w ref="651" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="651" lemma="forum1" pos="NOMcom" msd="Case=Abl|Numb=Sing">foro</w>
-    <w ana="#metaphore #acte #travailler" ref="651" lemma="opera" pos="NOMcom" msd="Case=Acc|Numb=Sing">operam</w>
+    <w ana="#acte #metaphore #travailler" ref="651" lemma="opera" pos="NOMcom" msd="Case=Acc|Numb=Sing">operam</w>
     <w ref="651" lemma="amicus1" pos="NOMcom" msd="Case=Dat|Numb=Plur">amicis</w>
     <w ref="651" lemma="do" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">da</w>
     <w ref="651" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

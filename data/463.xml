@@ -1,4 +1,4 @@
-<div type="fragment" ana="#field #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #female #field #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi020.perseus-lat2:148">
         <w lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">volo</w>
         <w lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
-        <w ana="#field" lemma="aratiuncula" pos="NOMcom" msd="Case=Acc|Numb=Sing">aratiunculam</w>
+        <w ana="#cunnus #female #field #metaphore" lemma="aratiuncula" pos="NOMcom" msd="Case=Acc|Numb=Sing">aratiunculam</w>
         <w lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>
         <w lemma="copia" pos="NOMcom" msd="Case=Abl|Numb=Sing">copia</w>
         <w lemma="hic2" pos="ADV" msd="Deg=Pos">hic</w>

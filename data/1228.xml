@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #frapper">
+<div type="fragment" ana="#acte #frapper #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="712.18" lemma="cupido" pos="NOMcom" msd="Case=Gen|Numb=Sing">Cupidinis</w>
     <w ref="712.19" lemma="do" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">Dent</w>
     <w ref="712.19" lemma="creber" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">crebros</w>
-    <w ana="#metaphore #acte #frapper" ref="712.19" lemma="ictus" pos="NOMcom" msd="Case=Acc|Numb=Plur">ictus</w>
+    <w ana="#acte #frapper #metaphore" ref="712.19" lemma="ictus" pos="NOMcom" msd="Case=Acc|Numb=Plur">ictus</w>
     <w ref="712.19" lemma="conniueo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">coniuente</w>
     <w ref="712.19" lemma="lumen" pos="NOMcom" msd="Case=Abl|Numb=Sing">lumine</w>
     <w ref="712.20" lemma="trepido" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">Trepidante</w>

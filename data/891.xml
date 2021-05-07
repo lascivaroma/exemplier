@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -42,7 +42,7 @@
     <w ref="11.100.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="11.100.4" lemma="cuspis" pos="NOMcom" msd="Case=Nom|Numb=Sing">cuspis</w>
     <w ref="11.100.4" lemma="emineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">eminet</w>
-    <w ana="#anus #culus" ref="11.100.4" lemma="culus" pos="NOMcom" msd="Case=Abl|Numb=Sing">culo</w>
+    <w ana="#culus" ref="11.100.4" lemma="culus" pos="NOMcom" msd="Case=Abl|Numb=Sing">culo</w>
     <w ref="11.100.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

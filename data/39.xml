@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #animal #cul #vagin">
+<div type="fragment" ana="#animal #culus #male #metaphore #personnification #vagina">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="ne2" pos="ADV" msd="MORPH=empty">{Etiamne}</w>
         <w lemma="obturo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">obturat</w>
         <w lemma="inferus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp">inferiorem</w>
-        <w lemma="guttur" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #personnification">gutturem</w>
+        <w lemma="guttur" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#animal #culus #male #metaphore #personnification #vagina">gutturem</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
 <note>Ici sens de vagin ou de cul</note>

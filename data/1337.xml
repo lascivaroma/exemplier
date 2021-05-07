@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #epouser #noces">
+<div type="fragment" ana="#acte #epouser #metaphore #noces">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="1.24.4" lemma="frons1" pos="NOMcom" msd="Case=Dat|Numb=Sing">fronti</w>
     <w ref="1.24.4" lemma="credo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">credere</w>
     <w ref="1.24.4" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
-    <w ana="#metaphore #acte #epouser #noces" ref="1.24.4" lemma="nubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">nupsit</w>
+    <w ana="#acte #epouser #metaphore #noces" ref="1.24.4" lemma="nubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">nupsit</w>
     <w ref="1.24.4" lemma="heri" pos="ADV" msd="Deg=Pos">heri</w>
     <w ref="1.24.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

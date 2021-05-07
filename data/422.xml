@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #foreskin">
+<div type="fragment" ana="#foreskin #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="mora" pos="NOMcom" msd="Case=Gen|Numb=Sing">morae</w>
         <w lemma="sileo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">silet</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-        <w ana="#male #foreskin" lemma="praeputium" pos="NOMcom" msd="Case=Acc|Numb=Plur">praeputia</w>
+        <w ana="#foreskin #male" lemma="praeputium" pos="NOMcom" msd="Case=Acc|Numb=Plur">praeputia</w>
         <w lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ducit</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

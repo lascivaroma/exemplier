@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec">
+<div type="fragment" ana="#acte #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="1122" lemma="alcumena" pos="NOMpro" msd="Case=Abl|Numb=Sing">Alcumena</w>
     <w ref="1122" lemma="clam1" pos="ADV" msd="Deg=Pos">clam</w>
     <w ref="1122" lemma="consuesco" pos="VER" msd="Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">consuetum</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="1122" lemma="cubitus?" pos="NOMcom" msd="Case=Abl|Numb=Plur">cubitibus</w>
+    <w ana="#acte #dormirAvec #metonymie" ref="1122" lemma="cubitus?" pos="NOMcom" msd="Case=Abl|Numb=Plur">cubitibus</w>
     <w ref="1122" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1123" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eumque</w>
     <w ref="1123" lemma="que" pos="CON" msd="MORPH=empty">{eumque}</w>

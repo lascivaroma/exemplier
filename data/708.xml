@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="7.29" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="7.29" lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=MascNeut">ipsum</w>
     <w ref="7.29" lemma="os1" pos="NOMcom" msd="Case=Nom|Numb=Sing">os</w>
-    <w ana="#female #cunnus #womb" ref="7.29" lemma="uolua" pos="NOMcom" msd="Case=Gen|Numb=Sing">volvae</w>
+    <w ana="#cunnus #female #womb" ref="7.29" lemma="uolua" pos="NOMcom" msd="Case=Gen|Numb=Sing">volvae</w>
     <w ref="7.29" lemma="delabor2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">delabitur</w>
     <w ref="7.29" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     <w ref="7.29" lemma="sequor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">sequiturque</w>

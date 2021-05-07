@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #contenant #metaphore #mentula">
+<div type="fragment" ana="#contenant #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
         <w lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Sing">sinum</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="pertracto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">pertractato</w>
-        <w lemma="uasculum" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #contenant #metaphore #mentula">vasculo</w>
+        <w lemma="uasculum" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#contenant #male #mentula #metaphore">vasculo</w>
         <w lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
         <w lemma="rudis2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">rudi</w>
     </quote>

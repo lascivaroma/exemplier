@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #aidoion">
+<div type="fragment" ana="#aidoion #euphemism">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="5.27" lemma="propudiosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">propudiosa</w>
     <w ref="5.27" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Plur">corporum</w>
     <w ref="5.27" lemma="monstro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">monstratur</w>
-    <w ana="#euphemisms #aidoion" ref="5.27" lemma="obscenitas" pos="NOMcom" msd="Case=Nom|Numb=Sing">obscenitas</w>
+    <w ana="#aidoion #euphemism" ref="5.27" lemma="obscenitas" pos="NOMcom" msd="Case=Nom|Numb=Sing">obscenitas</w>
     <w ref="5.27" lemma="obiecto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">obiectanturque</w>
     <w ref="5.27" lemma="que" pos="CON" msd="MORPH=empty">{obiectanturque}</w>
     <w ref="5.27" lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Plur">partes</w>

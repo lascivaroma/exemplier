@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals">
+<div type="fragment" ana="#acte #animal">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="30.41" lemma="quando3" pos="CONsub" msd="MORPH=empty">quando</w>
     <w ref="30.41" lemma="primus" pos="ADJord" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Sup">primo</w>
     <w ref="30.41" lemma="tempus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">tempore</w>
-    <w ana="#acte #animals" ref="30.41" lemma="ascendo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Pass|Person=3">ascendebantur</w>
+    <w ana="#acte #animal" ref="30.41" lemma="ascendo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Pass|Person=3">ascendebantur</w>
     <w ref="30.41" lemma="ouis" pos="NOMcom" msd="Case=Acc|Numb=Plur">oves</w>
   </quote>
 </div>

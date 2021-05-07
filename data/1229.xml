@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #frapper">
+<div type="fragment" ana="#acte #frapper #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="2.7.49" lemma="quicumque1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quaecumque</w>
     <w ref="2.7.49" lemma="excipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">excepit</w>
     <w ref="2.7.49" lemma="turgeo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">turgentis</w>
-    <w ana="#metaphore #acte #frapper" ref="2.7.49" lemma="uerber" pos="NOMcom" msd="Case=Acc|Numb=Plur">verbera</w>
+    <w ana="#acte #frapper #metaphore" ref="2.7.49" lemma="uerber" pos="NOMcom" msd="Case=Acc|Numb=Plur">verbera</w>
     <w ref="2.7.49" lemma="cauda" pos="NOMcom" msd="Case=Gen|Numb=Sing">caudae</w>
     <w ref="2.7.50" lemma="clunis" pos="NOMcom" msd="Case=Abl|Numb=Plur">clunibus</w>
     <w ref="2.7.50" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>

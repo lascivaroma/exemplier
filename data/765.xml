@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -40,7 +40,7 @@
     <w ref="2.32" lemma="abortiuus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">abortivis</w>
     <w ref="2.32" lemma="fecundus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">fecundam</w>
     <w ref="2.32" lemma="Iulia" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem">Iulia</w>
-    <w ana="#female #cunnus #womb" ref="2.32" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ana="#cunnus #female #womb" ref="2.32" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
     <w ref="2.33" lemma="soluo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">solveret</w>
     <w ref="2.33" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="2.33" lemma="patruus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">patruo</w>

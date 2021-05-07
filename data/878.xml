@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="2.51.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
     <w ref="2.51.2" lemma="et1" pos="ADV" msd="Deg=Pos">et</w>
     <w ref="2.51.2" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
-    <w ana="#anus #culus" ref="2.51.2" lemma="culus" pos="NOMcom" msd="Case=Abl|Numb=Sing">culo</w>
+    <w ana="#culus" ref="2.51.2" lemma="culus" pos="NOMcom" msd="Case=Abl|Numb=Sing">culo</w>
     <w ref="2.51.2" lemma="tritus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">tritior</w>
     <w ref="2.51.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.51.2" lemma="hylle" pos="NOMcom" msd="Case=Nom|Numb=Sing">Hylle</w>

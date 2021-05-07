@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #fellatio #irrumo">
+<div type="fragment" ana="#acte #fellatio #irrumatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="16.14" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
     <w ref="16.14" lemma="uos" pos="PROper" msd="Case=Acc|Numb=Plur">vos</w>
     <w ref="16.14" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#acte #fellatio #irrumo" ref="16.14" lemma="irrumo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">irrumabo</w>
+    <w ana="#acte #fellatio #irrumatio" ref="16.14" lemma="irrumo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">irrumabo</w>
     <w ref="16.14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

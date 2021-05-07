@@ -1,4 +1,4 @@
-<div type="fragment" ana="#field #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #female #field #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
         <w lemma="sentio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Perf|Voice=Act|Person=3">senserint</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">genitali</w>
-        <w ana="#field" lemma="aruum" pos="NOMcom" msd="Case=Abl|Numb=Sing">aruo</w>
+        <w ana="#cunnus #female #field #metaphore" lemma="aruum" pos="NOMcom" msd="Case=Abl|Numb=Sing">aruo</w>
         <w lemma="semen1" pos="NOMcom" msd="Case=Acc|Numb=Sing">semen</w>
         <w lemma="recipio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">receptum</w>
     </quote>

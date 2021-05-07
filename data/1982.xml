@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #concomitant">
+<div type="fragment" ana="#acte #concomitant #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="9.78" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="9.78" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
     <w ref="9.78" lemma="peruenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">pervenit</w>
-    <w ana="#acte #metonymie #concomitant" ref="9.78" lemma="lectus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">lecti</w>
+    <w ana="#acte #concomitant #metonymie" ref="9.78" lemma="lectus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">lecti</w>
     <w ref="9.78" lemma="sonus" pos="NOMcom" msd="Case=Nom|Numb=Sing">sonus</w>
     <w ref="9.78" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="9.78" lemma="domina" pos="NOMcom" msd="Case=Gen|Numb=Sing">dominae</w>

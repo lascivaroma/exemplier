@@ -1,4 +1,4 @@
-<div type="fragment" ana="#labia #female #cunnus">
+<div type="fragment" ana="#cunnus #female #labia">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:7.28">
         <w lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>
         <w lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
-        <w ana="#labia" lemma="os1" pos="NOMcom" msd="Case=Abl|Numb=Sing">ora</w>
+        <w ana="#cunnus #female #labia" lemma="os1" pos="NOMcom" msd="Case=Abl|Numb=Sing">ora</w>
         <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
         <w lemma="uolsella" pos="NOMcom" msd="Case=Abl|Numb=Plur">volsella</w>
         <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>

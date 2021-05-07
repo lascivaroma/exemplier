@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:3.805-3.806" type="line">
     <w ref="3.805" lemma="gaudium" pos="NOMcom" msd="Case=Acc|Numb=Plur">Gaudia</w>
     <w ref="3.805" lemma="post2" pos="PRE" msd="MORPH=empty">post</w>
-    <w ana="#acte #metonymie #amo" ref="3.805" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
+    <w ana="#acte #amo #metonymie" ref="3.805" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
     <w ref="3.805" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Fem">quae</w>
     <w ref="3.805" lemma="posco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">poscet</w>
     <w ref="3.805" lemma="munus" pos="NOMcom" msd="Case=Acc|Numb=Sing">munus</w>

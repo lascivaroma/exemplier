@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -58,7 +58,7 @@
         <w lemma="humilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">humilis</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="membrum" pos="NOMcom" msd="Case=Gen|Numb=Plur">membrorum</w>
-        <w lemma="turpis" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos" ana="#male #euphemisms #aidoion #mentula">turpium</w>
+        <w lemma="turpis" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos" ana="#aidoion #euphemism #male #mentula">turpium</w>
         <w lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
         <w lemma="uilis" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos">vilium</w>
         <w lemma="ministerium" pos="NOMcom" msd="Case=Abl|Numb=Sing">ministerio</w>

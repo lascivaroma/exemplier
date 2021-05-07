@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #join">
+<div type="fragment" ana="#acte #composite #join #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,9 +15,9 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi016.perseus-lat2:1261" type="line">
     <w ref="1261" lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
-    <w ana="#acte #metonymie #join" ref="1261" lemma="mamma" pos="NOMcom" msd="Case=Acc|Numb=Sing">mámmam</w>
-    <w ana="#acte #metonymie #join" ref="1261" lemma="mammiculus" pos="NOMcom" msd="Case=Nom|Numb=Plur|Deg=Pos">mammicula</w>
-    <w ana="#acte #metonymie #join" ref="1261" lemma="opprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ópprimit</w>
+    <w ana="#acte #composite #join #metonymie" ref="1261" lemma="mamma" pos="NOMcom" msd="Case=Acc|Numb=Sing">mámmam</w>
+    <w ana="#acte #composite #join #metonymie" ref="1261" lemma="mammiculus" pos="NOMcom" msd="Case=Nom|Numb=Plur|Deg=Pos">mammicula</w>
+    <w ana="#acte #composite #join #metonymie" ref="1261" lemma="opprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ópprimit</w>
     <w ref="1261" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
     <w ref="1261" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1261" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>

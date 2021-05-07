@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #lutter #sebattre">
+<div type="fragment" ana="#acte #lutter #metaphore #seBattre">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -32,7 +32,7 @@
     <w ref="9" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="9" lemma="purus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">pura</w>
     <w ref="9" lemma="mulier" pos="NOMcom" msd="Case=Abl|Numb=Sing">muliere</w>
-    <w ana="#metaphore #acte #lutter #sebattre" ref="9" lemma="pugno" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">pugnasti</w>
+    <w ana="#acte #lutter #metaphore #seBattre" ref="9" lemma="pugno" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">pugnasti</w>
     <w ref="9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="9" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
     <w ref="9" lemma="idem" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">eadem</w>

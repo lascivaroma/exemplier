@@ -1,4 +1,4 @@
-<div type="fragment" ana=" #female #cunnus #animal #female #misc">
+<div type="fragment" ana="#animal #cunnus #divers #female">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="muliebris" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">muliebrem</w>
         <w lemma="natura" pos="NOMcom" msd="Case=Acc|Numb=Sing">naturam</w>
         <w lemma="uetus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">veteres</w>
-        <w ana="#animal #female #misc" lemma="spurium" pos="NOMcom" msd="Case=Acc|Numb=Sing">spurium</w>
+        <w ana="#animal #cunnus #divers #female" lemma="spurium" pos="NOMcom" msd="Case=Acc|Numb=Sing">spurium</w>
         <w lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3">vocabant</w>
         <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
         <w lemma="uelut1" pos="ADVrel" msd="MORPH=empty">velut</w>

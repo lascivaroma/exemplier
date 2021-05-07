@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #subigo #soumission">
+<div type="fragment" ana="#acte #metaphore #soumission #subigo">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="204" lemma="mirus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">Mirum</w>
     <w ref="204" lemma="quin2" pos="CONsub" msd="MORPH=empty">quin</w>
     <w ref="204" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
-    <w ana="#metaphore #acte #subigo #soumission" ref="204" lemma="subigito" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">subigitaret</w>
+    <w ana="#acte #metaphore #soumission #subigo" ref="204" lemma="subigito" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">subigitaret</w>
     <w ref="204" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

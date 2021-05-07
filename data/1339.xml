@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #epouser #noces">
+<div type="fragment" ana="#acte #composite #epouser #metaphore #noces">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,10 +24,10 @@
     <w ref="5.4" lemma="inscendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">inscenderat</w>
     <w ref="5.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="5.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#metaphore #acte #epouser #noces #composite" ref="5.4" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
+    <w ana="#acte #composite #epouser #metaphore #noces" ref="5.4" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
     <w ref="5.4" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
     <w ref="5.4" lemma="psyches" pos="NOMcom" msd="Case=Acc|Numb=Sing">Psychen</w>
-    <w ana="#metaphore #acte #epouser #noces #composite" ref="5.4" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">fecerat</w>
+    <w ana="#acte #composite #epouser #metaphore #noces" ref="5.4" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">fecerat</w>
     <w ref="5.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="5.4" lemma="ante1" pos="ADV" msd="Deg=Pos">ante</w>
     <w ref="5.4" lemma="lux" pos="NOMcom" msd="Case=Gen|Numb=Sing">lucis</w>

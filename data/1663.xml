@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #join">
+<div type="fragment" ana="#acte #join #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="15.59" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="15.59" lemma="unda" pos="NOMcom" msd="Case=Acc|Numb=Plur">undas</w>
     <w ref="15.60" lemma="quis1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quae</w>
-    <w ana="#acte #metonymie #join" ref="15.60" lemma="iungo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">iunxi</w>
+    <w ana="#acte #join #metonymie" ref="15.60" lemma="iungo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">iunxi</w>
     <w ref="15.60" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="15.60" lemma="genus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">generis</w>
     <w ref="15.60" lemma="uos" pos="PROper" msd="Case=Dat|Numb=Plur">uobis</w>

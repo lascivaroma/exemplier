@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #descriptive-functional #euphemism #mentula">
+<div type="fragment" ana="#descriptiveFunctional #euphemism #male #mentula">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="11.49" lemma="uicis" pos="NOMcom" msd="Case=Abl|Numb=Sing">vice</w>
     <w ref="11.49" lemma="binus" pos="ADJdis" msd="Case=Nom|Numb=Plur|Gend=Fem">binae</w>
     <w ref="11.49" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
-    <w ana="#male #descriptive-functional #euphemism #mentula" ref="11.49" lemma="genitalia" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut">genitalia</w>
+    <w ana="#descriptiveFunctional #euphemism #male #mentula" ref="11.49" lemma="genitalia" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut">genitalia</w>
     <w ref="11.49" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
     <w ref="11.49" lemma="renus" pos="NOMcom" msd="Case=Abl|Numb=Plur">renibus</w>
     <w ref="11.49" lemma="uena" pos="NOMcom" msd="Case=Nom|Numb=Plur">venae</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #m2f #dormir_avec">
+<div type="fragment" ana="#acte #composite #dormirAvec #m2f #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,9 +25,9 @@
     <w ref="17" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">hanc</w>
     <w ref="17" lemma="adolescens1" pos="NOMcom" msd="Case=Nom|Numb=Plur">adulescentes</w>
     <w ref="17" lemma="tuus" pos="PROpos" msd="Case=Nom|Numb=Plur|Gend=Masc">tui</w>
-    <w ana="#acte #metonymie #m2f #dormir_avec" ref="17" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ana="#acte #composite #dormirAvec #m2f #metonymie" ref="17" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="17" lemma="soror" pos="NOMcom" msd="Case=Abl|Numb=Plur">sororibus</w>
-    <w ana="#acte #metonymie #m2f #dormir_avec" ref="17" lemma="dormio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dormiunt</w>
+    <w ana="#acte #composite #dormirAvec #m2f #metonymie" ref="17" lemma="dormio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dormiunt</w>
     <w ref="17" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

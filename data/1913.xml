@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #patior #male">
+<div type="fragment" ana="#acte #male #metonymie #patior">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="2.99" lemma="teneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tenet</w>
     <w ref="2.99" lemma="speculum" pos="NOMcom" msd="Case=Acc|Numb=Sing">speculum</w>
     <w ref="2.99" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #patior" ref="2.99" lemma="pathicus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">pathici</w>
+    <w ana="#acte #male #metonymie #patior" ref="2.99" lemma="pathicus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">pathici</w>
     <w ref="2.99" lemma="gestamen" pos="NOMcom" msd="Case=Acc|Numb=Sing">gestamen</w>
     <w ref="2.99" lemma="Otho" pos="NOMpro" msd="Case=Gen|Numb=Sing">Othonis</w>
     <w ref="2.99" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

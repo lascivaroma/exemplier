@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #couper #tailler #desir">
+<div type="fragment" ana="#couper #desir #metaphore #tailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -41,7 +41,7 @@
     <w ref="23.4" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="23.4" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">me</w>
     <w ref="23.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#metaphore #couper #tailler #desir" ref="23.5" lemma="rumpo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">rumpatur</w>
+    <w ana="#couper #desir #metaphore #tailler" ref="23.5" lemma="rumpo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">rumpatur</w>
     <w ref="23.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="23.5" lemma="precor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">precor</w>
     <w ref="23.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

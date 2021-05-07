@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #botanique">
+<div type="fragment" ana="#botanique #mentula #metaphore #nautique #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="87" lemma="male" pos="ADV" msd="Deg=Pos">male</w>
     <w ref="87" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="87" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
-    <w ana="#mentula #metaphore #pointu #nautique" ref="87" lemma="betizo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">betizare</w>
+    <w ana="#botanique #mentula #metaphore #nautique #pointu" ref="87" lemma="betizo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">betizare</w>
     <w ref="87" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
     <w ref="87" lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>
     <w ref="87" lemma="langueo" pos="VER" msd="Case=Abl|Mood=Inf|Tense=Pres|Voice=Act">languere</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #voisinage #reproduction">
+<div type="fragment" ana="#adjoiningParts #euphemism #reproduction">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="interfeminium" pos="NOMcom" msd="Case=Acc|Numb=Sing">interfeminium</w>
         <w lemma="tego" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">tegat</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-        <w lemma="femur" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#euphemisms #voisinage #reproduction">femoris</w>
+        <w lemma="femur" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#adjoiningParts #euphemism #reproduction">femoris</w>
         <w lemma="obiectus" pos="NOMcom" msd="Case=Abl|Numb=Sing">obiectu</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="palma" pos="NOMcom" msd="Case=Gen|Numb=Sing">palmae</w>

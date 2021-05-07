@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu">
+<div type="fragment" ana="#composite #mentula #metaphore #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:25.1-25.5" type="line">
     <w ref="25.1" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">Hoc</w>
-    <w ana="#mentula #metaphore #pointu" ref="25.1" lemma="sceptrum" pos="NOMcom" msd="Case=Nom|Numb=Sing">sceptrum</w>
+    <w ana="#composite #mentula #metaphore #pointu" ref="25.1" lemma="sceptrum" pos="NOMcom" msd="Case=Nom|Numb=Sing">sceptrum</w>
     <w ref="25.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="25.1" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
     <w ref="25.1" lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
@@ -29,7 +29,7 @@
     <w ref="25.2" lemma="uireo2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">uirere</w>
     <w ref="25.2" lemma="frons2" pos="NOMcom" msd="Case=Abl|Numb=Sing">fronde</w>
     <w ref="25.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#mentula #metaphore #pointu" ref="25.3" lemma="sceptrum" pos="NOMcom" msd="Case=Nom|Numb=Sing">sceptrum</w>
+    <w ana="#composite #mentula #metaphore #pointu" ref="25.3" lemma="sceptrum" pos="NOMcom" msd="Case=Nom|Numb=Sing">sceptrum</w>
     <w ref="25.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="25.3" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
     <w ref="25.3" lemma="pathicus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">pathicae</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #copulation">
+<div type="fragment" ana="#adjoiningParts #copulation #euphemism #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="crisso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">crisabit</w>
         <w lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
         <w lemma="fluctuor" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">fluctuante</w>
-        <w lemma="lumbus" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #euphemisms #voisinage #copulation">lumbo</w>
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#adjoiningParts #copulation #euphemism #male">lumbo</w>
         <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     </quote>
  </div>

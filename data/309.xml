@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #natura #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #natura">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="frango" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">fractis</w>
         <w lemma="glutinus" pos="NOMcom" msd="Case=Nom|Numb=Sing">glutinum</w>
         <w lemma="ex" pos="PRE" msd="MORPH=empty">e</w>
-        <w lemma="natura" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#male #natura #euphemism #mentula">naturis</w>
+        <w lemma="natura" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#euphemism #male #mentula #natura">naturis</w>
         <w lemma="uitulus" pos="NOMcom" msd="Case=Gen|Numb=Plur">vitulorum</w>
         <w lemma="facio" pos="VER" msd="Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">factum</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>

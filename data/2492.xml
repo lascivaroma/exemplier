@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #descriptive-functional #euphemism #mentula">
+<div type="fragment" ana="#descriptiveFunctional #euphemism #male #mentula">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="1.6.36" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
     <w ref="1.6.36" lemma="caelum1" pos="NOMcom" msd="Case=Dat|Numb=Sing">caelo</w>
     <w ref="1.6.36" lemma="Saturnus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Saturnus</w>
-    <w ana="#male #descriptive-functional #euphemism #mentula" ref="1.6.36" lemma="genitalia" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Neut">genitalia</w>
+    <w ana="#descriptiveFunctional #euphemism #male #mentula" ref="1.6.36" lemma="genitalia" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Neut">genitalia</w>
     <w ref="1.6.36" lemma="abscindo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">absciderit</w>
     <w ref="1.6.36" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.6.36" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">hoc</w>

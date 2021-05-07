@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #res #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #res">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="grandis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">grandia</w>
         <w lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
         <w lemma="medius" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">medii</w>
-        <w lemma="tendo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass" ana="#male #res">tenta</w>
+        <w lemma="tendo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass" ana="#euphemism #male #mentula #res">tenta</w>
         <w lemma="uoro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">vorare</w>
         <w lemma="uir" pos="NOMcom" msd="Case=Gen|Numb=Sing">viri</w>
         <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,6 +18,6 @@
     <w ref="805" lemma="uinum" pos="NOMcom" msd="Case=Nom|Numb=Plur">Vina</w>
     <w ref="805" lemma="paro2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">parant</w>
     <w ref="805" lemma="animus" pos="NOMcom" msd="Case=Acc|Numb=Sing">animum</w>
-    <w ana="#acte #metonymie #amo" ref="805" lemma="Uenus" pos="NOMpro" msd="Case=Dat|Numb=Sing">Veneri</w>
+    <w ana="#acte #amo #metonymie" ref="805" lemma="Uenus" pos="NOMpro" msd="Case=Dat|Numb=Sing">Veneri</w>
   </quote>
 </div>

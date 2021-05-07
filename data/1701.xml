@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #metonymie #acte #embrace #pedicator">
+<div type="fragment" ana="#acte #embrace #male #metonymie #pedicatio #pedicator">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -36,7 +36,7 @@
     <w ref="77.8" lemma="Lucilius" pos="NOMpro" msd="Case=Gen|Numb=Sing">Lucili</w>
     <w ref="77.8" lemma="uates" pos="NOMcom" msd="Case=Gen|Numb=Sing">vatis</w>
     <w ref="77.8" lemma="subpilo" pos="ADJqua" msd="Case=Abl|Numb=Sing">subpilo</w>
-    <w ana="#acte #male #metonymie #acte #embrace #pedicator" ref="77.8" lemma="pullipremo" pos="NOMcom" msd="Numb=Sing|Gend=MascNeut|Deg=Sup">pullipremo</w>
+    <w ana="#acte #embrace #male #metonymie #pedicatio #pedicator" ref="77.8" lemma="pullipremo" pos="NOMcom" msd="Numb=Sing|Gend=MascNeut|Deg=Sup">pullipremo</w>
     <w ref="77.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

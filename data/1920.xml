@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #know">
+<div type="fragment" ana="#acte #know #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="6.133" lemma="turpiter" pos="ADV" msd="Deg=Pos">Turpiter</w>
     <w ref="6.133" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
     <w ref="6.133" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Sing">virum</w>
-    <w ana="#acte #metonymie #know" ref="6.133" lemma="cognosco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">cognovit</w>
+    <w ana="#acte #know #metonymie" ref="6.133" lemma="cognosco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">cognovit</w>
     <w ref="6.133" lemma="adulter2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem">adultera</w>
     <w ref="6.133" lemma="uirgo" pos="NOMcom" msd="Case=Nom|Numb=Sing">virgo</w>
   </quote>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#adjoining_parts #euphemism #female">
+<div type="fragment" ana="#adjoiningParts #composite #euphemism #female">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,9 +16,9 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:10.24">
         <w lemma="titio" pos="NOMcom" msd="Case=Abl|Numb=Sing">titione</w>
         <w lemma="candens" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos|Mood=Par|Tense=Pres|Voice=Act">candenti</w>
-        <w ana="#adjoining_parts #euphemism #composite" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+        <w ana="#adjoiningParts #composite #euphemism #female" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
         <w lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">media</w>
-        <w ana="#adjoining_parts #euphemism #composite" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Sing">femina</w>
+        <w ana="#adjoiningParts #composite #euphemism #female" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Sing">femina</w>
         <w lemma="detrudo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">detruso</w>
         <w lemma="crudeliter" pos="ADV" msd="Deg=Sup">crudelissime</w>
         <w lemma="neco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">necavit</w>

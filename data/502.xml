@@ -1,4 +1,4 @@
-<div type="fragment" ana="#sinus #euphemism #female #cunnus">
+<div type="fragment" ana="#composite #cunnus #euphemism #female #sinus">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,8 +16,8 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.13">
         <w lemma="in" pos="PRE" msd="MORPH=empty">In</w>
         <w lemma="medius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">medio</w>
-        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
-        <w ana="#sinus #euphemism #composite" lemma="mulier" pos="NOMcom" msd="Case=Gen|Numb=Sing">mulieris</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="mulier" pos="NOMcom" msd="Case=Gen|Numb=Sing">mulieris</w>
         <w lemma="os1" pos="NOMcom" msd="Case=Nom|Numb=Sing">os</w>
         <w lemma="matricus" pos="NOMcom" msd="Case=Dat|Numb=Sing">matricis</w>
         <w lemma="situs2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">situm</w>

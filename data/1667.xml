@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #join">
+<div type="fragment" ana="#acte #join #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -34,7 +34,7 @@
     <w ref="5.853" lemma="que" pos="CON" msd="MORPH=empty">{feminaque}</w>
     <w ref="5.853" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
     <w ref="5.853" lemma="mas" pos="NOMcom" msd="Case=Dat|Numb=Plur">maribus</w>
-    <w ana="#acte #metonymie #join" ref="5.853" lemma="coniungo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">coniungi</w>
+    <w ana="#acte #join #metonymie" ref="5.853" lemma="coniungo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">coniungi</w>
     <w ref="5.853" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possit</w>
     <w ref="5.853" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="5.853" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>

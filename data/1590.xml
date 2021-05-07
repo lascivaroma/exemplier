@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,7 +29,7 @@
     <w ref="2.1" lemma="pubertas" pos="NOMcom" msd="Case=Abl|Numb=Sing">pubertate</w>
     <w ref="2.1" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
     <w ref="2.1" lemma="primus" pos="ADJord" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Sup">primis</w>
-    <w ana="#acte #metonymie #coeo" ref="2.1" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Plur">coitibus</w>
+    <w ana="#acte #coeo #metonymie" ref="2.1" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Plur">coitibus</w>
     <w ref="2.1" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
     <w ref="2.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="2.1" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Sing">femina</w>

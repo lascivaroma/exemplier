@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,7 +30,7 @@
     <w ref="3.134" lemma="appello1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">appellauerunt</w>
     <w ref="3.134" lemma="balanus" pos="NOMcom" msd="Case=Acc|Numb=Plur">balanos</w>
     <w ref="3.134" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#anus #culus" ref="3.134" lemma="podicus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc">podici</w>
+    <w ana="#culus" ref="3.134" lemma="podicus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc">podici</w>
     <w ref="3.134" lemma="suppono" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">supponunt</w>
     <w ref="3.134" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

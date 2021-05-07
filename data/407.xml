@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #testicle">
+<div type="fragment" ana="#male #testicules">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
         <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
         <w lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
         <w lemma="Attis" pos="NOMpro" msd="Case=Nom|Numb=Sing">Attis</w>
-        <w ana="#male #testicle" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Sing">uirum</w>
+        <w ana="#male #testicules" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Sing">uirum</w>
         <w lemma="demeto2" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com">demessis</w>
         <w lemma="genitalia" pos="NOMcom" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">genitalibus</w>
         <w lemma="aufero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">abstulit</w>

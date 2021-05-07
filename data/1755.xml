@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #toucher #fututio">
+<div type="fragment" ana="#acte #fututio #metonymie #toucher">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -34,7 +34,7 @@
     <w ref="98" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
     <w ref="98" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
     <w ref="98" lemma="umquam" pos="ADV" msd="Deg=Pos">umquam</w>
-    <w ana="#acte #metonymie #toucher #fututio" ref="98" lemma="tango" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tetigit</w>
+    <w ana="#acte #fututio #metonymie #toucher" ref="98" lemma="tango" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tetigit</w>
     <w ref="98" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="98" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
     <w ref="98" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eum</w>

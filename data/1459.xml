@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #aller_en_vue_de #f2m">
+<div type="fragment" ana="#acte #allerEnVueDe #f2m #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -31,7 +31,7 @@
     <w ref="1.5.32" lemma="impune" pos="ADV" msd="Deg=Pos">impune</w>
     <w ref="1.5.32" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
     <w ref="1.5.32" lemma="rogo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">rogata</w>
-    <w ana="#acte #metonymie #aller_en_vue_de #f2m" ref="1.5.32" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">venit</w>
+    <w ana="#acte #allerEnVueDe #f2m #metonymie" ref="1.5.32" lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">venit</w>
     <w ref="1.5.32" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

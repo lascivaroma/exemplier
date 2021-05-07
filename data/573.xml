@@ -1,4 +1,4 @@
-<div type="fragment" ana="#parties clitoris #female #cunnus">
+<div type="fragment" ana="#clitoris #composite #cunnus #female #pars">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,8 +19,8 @@
         <w lemma="genus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">generi</w>
         <w lemma="masculus" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Deg=Pos">masculo</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
-        <w ana="#partiesclitoris #composite" lemma="masculina" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Neut|Deg=Pos">masculina</w>
-        <w ana="#partiesclitoris #composite" lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
+        <w ana="#clitoris #composite #cunnus #female #pars" lemma="masculina" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Neut|Deg=Pos">masculina</w>
+        <w ana="#clitoris #composite #cunnus #female #pars" lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
         <w lemma="applico" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">applicuit</w>
         <w lemma="femina" pos="NOMcom" msd="Case=Dat|Numb=Plur">feminis</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>

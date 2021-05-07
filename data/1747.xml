@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rub #masturbation">
+<div type="fragment" ana="#acte #masturbatio #metonymie #rub">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="3.7.73" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
     <w ref="3.7.74" lemma="molliter" pos="ADV" msd="Deg=Pos">Molliter</w>
     <w ref="3.7.74" lemma="admoueo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">admota</w>
-    <w ana="#acte #metonymie #rub #masturbation" ref="3.7.74" lemma="sollicito" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">sollicitare</w>
+    <w ana="#acte #masturbatio #metonymie #rub" ref="3.7.74" lemma="sollicito" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">sollicitare</w>
     <w ref="3.7.74" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
     <w ref="3.7.74" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
   </quote>

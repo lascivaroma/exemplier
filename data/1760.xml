@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #toucher #fututio">
+<div type="fragment" ana="#acte #fututio #metonymie #toucher">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="1.73.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
     <w ref="1.73.1" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">tota</w>
     <w ref="1.73.1" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
-    <w ana="#acte #metonymie #toucher #fututio" ref="1.73.1" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tangere</w>
+    <w ana="#acte #fututio #metonymie #toucher" ref="1.73.1" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tangere</w>
     <w ref="1.73.1" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">vellet</w>
     <w ref="1.73.2" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">Uxorem</w>
     <w ref="1.73.2" lemma="gratis" pos="ADV" msd="Deg=Pos">gratis</w>

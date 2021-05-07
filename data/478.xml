@@ -1,4 +1,4 @@
-<div type="fragment" ana="#household #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #female #household #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
         <w lemma="foueo" pos="NOMcom" msd="Case=Abl|Numb=Sing">Fotis</w>
         <w lemma="meus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">mea</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w ana="#household" lemma="ollula" pos="NOMcom" msd="Case=Acc|Numb=Sing">ollulam</w>
+        <w ana="#cunnus #female #household #metaphore" lemma="ollula" pos="NOMcom" msd="Case=Acc|Numb=Sing">ollulam</w>
         <w lemma="iste" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">istam</w>
         <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
         <w lemma="natus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">natibus</w>

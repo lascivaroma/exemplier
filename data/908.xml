@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="3.154" lemma="supradico" pos="NOMcom" msd="Case=Abl|Numb=Sing|Gend=MascNeut">supradicto</w>
     <w ref="3.154" lemma="folliculus" pos="NOMcom" msd="Case=Abl|Numb=Sing">folliculo</w>
     <w ref="3.154" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#anus #culus" ref="3.154" lemma="podex" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">podicem</w>
+    <w ana="#culus" ref="3.154" lemma="podex" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">podicem</w>
     <w ref="3.154" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="3.154" lemma="spongia" pos="NOMcom" msd="Case=Abl|Numb=Sing">spongia</w>
     <w ref="3.154" lemma="obstruo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">obstruendum</w>

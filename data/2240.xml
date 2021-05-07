@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio">
+<div type="fragment" ana="#acte #animal #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="3.7.3" lemma="annus" pos="NOMcom" msd="Case=Abl|Numb=Sing">anno</w>
     <w ref="3.7.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="3.7.3" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
-    <w ana="#acte #animals #salio" ref="3.7.3" lemma="admitto" pos="VER" msd="Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">admissum</w>
+    <w ana="#acte #animal #salio" ref="3.7.3" lemma="admitto" pos="VER" msd="Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">admissum</w>
     <w ref="3.7.3" lemma="facio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">faciunt</w>
     <w ref="3.7.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="3.7.3" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>

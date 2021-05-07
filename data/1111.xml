@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #pedico">
+<div type="fragment" ana="#acte #male #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="68.7" lemma="uoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">uocatur</w>
     <w ref="68.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="68.8" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#acte #male #pedico" ref="68.8" lemma="paedico2" pos="NOMcom" msd="Case=Gen|Numb=Plur">pediconum</w>
+    <w ana="#acte #male #pedicatio" ref="68.8" lemma="paedico2" pos="NOMcom" msd="Case=Gen|Numb=Plur">pediconum</w>
     <w ref="68.8" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
     <w ref="68.8" lemma="merdaleus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">merdalea</w>
     <w ref="68.8" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>

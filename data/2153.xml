@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #insulter">
+<div type="fragment" ana="#acte #insulter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="2.45" lemma="liberi" pos="NOMcom" msd="Case=Abl|Numb=Plur">liberis</w>
     <w ref="2.45" lemma="facio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">facerent</w>
     <w ref="2.45" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #insulter" ref="2.45" lemma="insulto" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">insultarent</w>
+    <w ana="#acte #insulter #metonymie" ref="2.45" lemma="insulto" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">insultarent</w>
     <w ref="2.45" lemma="uirgo" pos="NOMcom" msd="Case=Abl|Numb=Plur">uirginibus</w>
     <w ref="2.45" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="2.45" lemma="matrimonium" pos="NOMcom" msd="Case=Abl|Numb=Plur">matrimoniis</w>

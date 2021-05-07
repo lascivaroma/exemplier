@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #peler #raboter">
+<div type="fragment" ana="#acte #metaphore #peler #raboter">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="58.4" lemma="quadriuium" pos="NOMcom" msd="Case=Abl|Numb=Plur">quadriviis</w>
     <w ref="58.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="58.4" lemma="angiportum" pos="NOMcom" msd="Case=Abl|Numb=Plur">angiportis</w>
-    <w ana="#metaphore #acte #peler #raboter" ref="58.5" lemma="glubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">glubit</w>
+    <w ana="#acte #metaphore #peler #raboter" ref="58.5" lemma="glubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">glubit</w>
     <w ref="58.5" lemma="magnanimus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">magnanimi</w>
     <w ref="58.5" lemma="remus" pos="NOMcom" msd="Case=Gen|Numb=Sing">Remi</w>
     <w ref="58.5" lemma="nepos1" pos="NOMcom" msd="Case=Nom|Numb=Plur">nepotes</w>

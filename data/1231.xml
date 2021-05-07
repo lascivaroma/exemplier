@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #couper #tailler">
+<div type="fragment" ana="#acte #couper #metaphore #tailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="7.67.2" lemma="saeuus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">saevior</w>
     <w ref="7.67.2" lemma="maritus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">mariti</w>
     <w ref="7.67.3" lemma="undena" pos="NOMcom" msd="Case=Acc|Numb=Plur">Undenas</w>
-    <w ana="#metaphore #acte #couper #tailler" ref="7.67.3" lemma="dolo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dolat</w>
+    <w ana="#acte #couper #metaphore #tailler" ref="7.67.3" lemma="dolo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dolat</w>
     <w ref="7.67.3" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="7.67.3" lemma="dies" pos="NOMcom" msd="Case=Abl|Numb=Sing">die</w>
     <w ref="7.67.3" lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Plur">puellas</w>

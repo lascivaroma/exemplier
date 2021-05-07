@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #agriculture #moudre #masturbation">
+<div type="fragment" ana="#acte #agriculture #masturbatio #metaphore #moudre">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="23" lemma="multum" pos="ADV" msd="Deg=Pos">multumque</w>
     <w ref="23" lemma="que" pos="CON" msd="MORPH=empty">{multumque}</w>
     <w ref="23" lemma="frustra" pos="ADV" msd="Deg=Pos">frustra</w>
-    <w ana="#metaphore #acte #agriculture #moudre #masturbation" ref="23" lemma="molo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">moluit</w>
+    <w ana="#acte #agriculture #masturbatio #metaphore #moudre" ref="23" lemma="molo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">moluit</w>
     <w ref="23" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

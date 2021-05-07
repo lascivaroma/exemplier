@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="uelut1" pos="ADVrel" msd="MORPH=empty">veluti</w>
         <w lemma="gelidus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Fem|Deg=Pos">gelida</w>
         <w lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Plur|Gend=Neut">mea</w>
-        <w lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #specialisation #euphemism #mentula">membra</w>
+        <w lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#euphemism #male #mentula #specialisation">membra</w>
         <w lemma="cicuta" pos="NOMcom" msd="Case=Abl|Numb=Sing">cicuta</w>
     </quote>
  </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio">
+<div type="fragment" ana="#acte #animal #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="8.2.9" lemma="gallinaceus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">Gallinaceos</w>
     <w ref="8.2.9" lemma="mas" pos="NOMcom" msd="Case=Acc|Numb=Plur">mares</w>
     <w ref="8.2.9" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
-    <w ana="#acte #animals #salio" ref="8.2.9" lemma="salax" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Sup">salacissimos</w>
+    <w ana="#acte #animal #salio" ref="8.2.9" lemma="salax" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Sup">salacissimos</w>
     <w ref="8.2.9" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
     <w ref="8.2.9" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="8.2.9" lemma="expedio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">expedit</w>

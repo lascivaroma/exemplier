@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="11.407" lemma="unus" pos="ADJcar" msd="Case=Gen|Numb=Sing|Gend=Com">unius</w>
     <w ref="11.407" lemma="ingens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">ingens</w>
     <w ref="11.408" lemma="bellum" pos="NOMcom" msd="Case=Nom|Numb=Sing">bellum</w>
-    <w ana="#female #cunnus #womb" ref="11.408" lemma="uterus" pos="NOMcom" msd="Case=Nom|Numb=Sing">uteri</w>
+    <w ana="#cunnus #female #womb" ref="11.408" lemma="uterus" pos="NOMcom" msd="Case=Nom|Numb=Sing">uteri</w>
     <w ref="11.408" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="11.408" lemma="coeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">coeuntque</w>
     <w ref="11.408" lemma="que" pos="CON" msd="MORPH=empty">{coeuntque}</w>

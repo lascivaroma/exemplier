@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #pubic_hair">
+<div type="fragment" ana="#male #pubicHair">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
         <w lemma="et2" pos="CONcoo" msd="Deg=Pos">et</w>
         <w lemma="elixus" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos|Person=1">elixo</w>
-        <w ana="#male #pubic_hair" lemma="plantaris" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">plantaria</w>
+        <w ana="#male #pubicHair" lemma="plantaris" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">plantaria</w>
         <w lemma="podex" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
         <w lemma="uello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">vellis</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>

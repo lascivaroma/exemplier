@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #futuo">
+<div type="fragment" ana="#acte #fututio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:97.9-97.10" type="line">
     <w ref="97.9" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
-    <w ana="#acte #futuo" ref="97.9" lemma="futuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">futuit</w>
+    <w ana="#acte #fututio" ref="97.9" lemma="futuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">futuit</w>
     <w ref="97.9" lemma="multus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">multas</w>
     <w ref="97.9" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="97.9" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #copulation">
+<div type="fragment" ana="#adjoiningParts #copulation #euphemism #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,6 +17,6 @@
         <w lemma="durus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">duros</w>
         <w lemma="nequeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">nequeunt</w>
         <w lemma="moueo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">mouere</w>
-        <w lemma="lumbus" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #euphemisms #voisinage #copulation">lumbos</w>
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#adjoiningParts #copulation #euphemism #male">lumbos</w>
     </quote>
  </div>

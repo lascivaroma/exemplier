@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #mentula">
+<div type="fragment" ana="#adjoiningParts #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
         <w lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Plur|Gend=Fem">suas</w>
         <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
         <w lemma="mensura" pos="NOMcom" msd="Case=Acc|Numb=Sing">mensuram</w>
-        <w lemma="inguen" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #euphemisms #voisinage">inguinis</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#adjoiningParts #euphemism #male #mentula">inguinis</w>
         <w lemma="heres" pos="NOMcom" msd="Case=Nom|Numb=Sing">heres</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>

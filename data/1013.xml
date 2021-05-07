@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #futuo">
+<div type="fragment" ana="#acte #fututio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -32,7 +32,7 @@
     <w ref="1.84.3" lemma="iste" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">istud</w>
     <w ref="1.84.3" lemma="mos" pos="NOMcom" msd="Case=Abl|Numb=Sing">more</w>
     <w ref="1.84.3" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
-    <w ana="#acte #futuo" ref="1.84.3" lemma="futuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">futuit</w>
+    <w ana="#acte #fututio" ref="1.84.3" lemma="futuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">futuit</w>
     <w ref="1.84.3" lemma="ancilla" pos="NOMcom" msd="Case=Acc|Numb=Plur">ancillas</w>
     <w ref="1.84.4" lemma="domus" pos="NOMcom" msd="Case=Acc|Numb=Sing">Domumque</w>
     <w ref="1.84.4" lemma="que" pos="CON" msd="MORPH=empty">{Domumque}</w>

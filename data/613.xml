@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #labia">
+<div type="fragment" ana="#cunnus #female #labia">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.93" type="part">
     <w ref="II.93" lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
     <w ref="II.93" lemma="distentus?" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">distentis</w>
-    <w ana="#female #cunnus #labia" ref="II.93" lemma="fibra" pos="NOMcom" msd="Case=Abl|Numb=Plur">fibris</w>
+    <w ana="#cunnus #female #labia" ref="II.93" lemma="fibra" pos="NOMcom" msd="Case=Abl|Numb=Plur">fibris</w>
     <w ref="II.93" lemma="sinus" pos="NOMcom" msd="Case=Nom|Numb=Plur">sinus</w>
     <w ref="II.93" lemma="femininus" pos="NOMcom" msd="Case=Gen|Numb=Sing">feminini</w>
     <w ref="II.93" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>

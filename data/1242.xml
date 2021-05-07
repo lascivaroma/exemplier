@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #couper #tailler">
+<div type="fragment" ana="#acte #couper #desir #metaphore #tailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="10.22" lemma="heu" pos="INJ" msd="MORPH=empty">heu</w>
     <w ref="10.22" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
     <w ref="10.22" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
-    <w ana="#metaphore #acte #couper #tailler #desir" ref="10.22" lemma="dirumpo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">dirupta</w>
+    <w ana="#acte #couper #desir #metaphore #tailler" ref="10.22" lemma="dirumpo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">dirupta</w>
     <w ref="10.22" lemma="nobilis2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">nobili</w>
     <w ref="10.22" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">femina</w>
     <w ref="10.22" lemma="bestia" pos="NOMcom" msd="Case=Abl|Numb=Plur">bestiis</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #descriptive-functional #euphemism #mentula">
+<div type="fragment" ana="#descriptiveFunctional #euphemism #male #mentula">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="20.13" lemma="ideo" pos="ADV" msd="Deg=Pos">ideo</w>
     <w ref="20.13" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="20.13" lemma="profluuium" pos="NOMcom" msd="Case=Abl|Numb=Sing">profluvio</w>
-    <w ana="#male #descriptive-functional #euphemism #mentula" ref="20.13" lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">genitali</w>
+    <w ana="#descriptiveFunctional #euphemism #male #mentula" ref="20.13" lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">genitali</w>
     <w ref="20.13" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">datur</w>
     <w ref="20.13" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="20.13" lemma="Uenus" pos="NOMpro" msd="Case=Acc|Numb=Sing">venerem</w>

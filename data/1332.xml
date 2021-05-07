@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #epouser #noces">
+<div type="fragment" ana="#acte #epouser #metaphore #noces">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="1.7" lemma="conscendo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">conscensoque</w>
     <w ref="1.7" lemma="que" pos="CON" msd="MORPH=empty">{conscensoque}</w>
     <w ref="1.7" lemma="lectulus" pos="NOMcom" msd="Case=Abl|Numb=Sing">lectulo</w>
-    <w ana="#metaphore #acte #epouser #noces" ref="1.7" lemma="nuptiae" pos="NOMcom" msd="Case=Acc|Numb=Plur">nuptias</w>
+    <w ana="#acte #epouser #metaphore #noces" ref="1.7" lemma="nuptiae" pos="NOMcom" msd="Case=Acc|Numb=Plur">nuptias</w>
     <w ref="1.7" lemma="ago" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">agit</w>
     <w ref="1.7" lemma="exim" pos="ADV" msd="MORPH=empty">eximque</w>
     <w ref="1.7" lemma="que" pos="CON" msd="MORPH=empty">{eximque}</w>

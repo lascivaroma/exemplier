@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #anneau #culus #anus">
+<div type="fragment" ana="#anneau #culus #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="5.26" lemma="uena" pos="NOMcom" msd="Case=Abl|Numb=Plur">venis</w>
     <w ref="5.26" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
     <w ref="5.26" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
-    <w ana="#metaphore #anneau #culus #anus" ref="5.26" lemma="anus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">anum</w>
+    <w ana="#anneau #culus #metaphore" ref="5.26" lemma="anus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">anum</w>
     <w ref="5.26" lemma="testiculus" pos="NOMcom" msd="Case=Acc|Numb=Plur">testiculosque</w>
     <w ref="5.26" lemma="que" pos="CON" msd="MORPH=empty">{testiculosque}</w>
     <w ref="5.26" lemma="peruenio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">perveniunt</w>

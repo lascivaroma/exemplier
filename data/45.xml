@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #animal #mentula #metaphore">
+<div type="fragment" ana="#animal #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
         <w lemma="puto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">puto</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
         <w lemma="domus" pos="NOMcom" msd="Case=Abl|Numb=Sing">domo</w>
-        <w lemma="canis" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #animal">canem</w>
+        <w lemma="canis" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#animal #male #mentula #metaphore">canem</w>
         <w lemma="relinquo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">reliquisse</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

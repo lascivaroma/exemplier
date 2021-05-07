@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #m2f #dormir_avec">
+<div type="fragment" ana="#acte #composite #dormirAvec #m2f #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,10 +25,10 @@
     <w ref="2.22" lemma="poeniteo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">poenitens</w>
     <w ref="2.22" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.22" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
-    <w ana="#acte #metonymie #m2f #dormir_avec" ref="2.22" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ana="#acte #composite #dormirAvec #m2f #metonymie" ref="2.22" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="2.22" lemma="pater" pos="NOMcom" msd="Case=Gen|Numb=Sing">patris</w>
     <w ref="2.22" lemma="uxor" pos="NOMcom" msd="Case=Abl|Numb=Sing">uxore</w>
-    <w ana="#acte #metonymie #m2f #dormir_avec" ref="2.22" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">dormierat</w>
+    <w ana="#acte #composite #dormirAvec #m2f #metonymie" ref="2.22" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">dormierat</w>
     <w ref="2.22" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.22" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
     <w ref="2.22" lemma="in" pos="PRE" msd="MORPH=empty">in</w>

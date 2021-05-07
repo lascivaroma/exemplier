@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #res #prostitution">
+<div type="fragment" ana="#acte #composite #ellipse #euphemism #prostitution #res">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,8 +23,8 @@
     <w ref="137" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">tecum</w>
     <w ref="137" lemma="cum3" pos="CON" msd="MORPH=empty">{tecum}</w>
     <w ref="137" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
-    <w ana="#acte #euphemism #ellipse #res #prostitution" ref="138" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Sing">Rem</w>
-    <w ana="#acte #euphemism #ellipse #res #prostitution" ref="138" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
+    <w ana="#acte #composite #ellipse #euphemism #prostitution #res" ref="138" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Sing">Rem</w>
+    <w ana="#acte #composite #ellipse #euphemism #prostitution #res" ref="138" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
     <w ref="138" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="138" lemma="fingo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fingit</w>
     <w ref="138" lemma="causa" pos="NOMcom" msd="Case=Acc|Numb=Plur">causas</w>

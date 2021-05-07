@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #aller_en_vue_de">
+<div type="fragment" ana="#acte #allerEnVueDe #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,7 +29,7 @@
     <w ref="11.7.2" lemma="moechus" pos="NOMcom" msd="Case=Acc|Numb=Sing">moechum</w>
     <w ref="11.7.2" lemma="quotiens1" pos="ADVrel" msd="MORPH=empty">quotiens</w>
     <w ref="11.7.2" lemma="longe" pos="ADV" msd="Deg=Comp">longius</w>
-    <w ana="#acte #metonymie #aller_en_vue_de" ref="11.7.2" lemma="eo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ire</w>
+    <w ana="#acte #allerEnVueDe #metonymie" ref="11.7.2" lemma="eo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ire</w>
     <w ref="11.7.2" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">voles</w>
     <w ref="11.7.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="11.7.3" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>

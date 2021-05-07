@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #have">
+<div type="fragment" ana="#acte #have #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -31,7 +31,7 @@
     <w ref="3.12.6" lemma="uereor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">vereor</w>
     <w ref="3.12.6" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
     <w ref="3.12.6" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
-    <w ana="#acte #metonymie #have" ref="3.12.6" lemma="habeo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">habenda</w>
+    <w ana="#acte #have #metonymie" ref="3.12.6" lemma="habeo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">habenda</w>
     <w ref="3.12.6" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
     <w ref="3.12.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

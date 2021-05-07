@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #pedico">
+<div type="fragment" ana="#acte #male #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="6.33.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="6.33.1" lemma="mathus" pos="NOMcom" msd="Case=Abl|Numb=Sing">Matho</w>
     <w ref="6.33.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #male #pedico" ref="6.33.1" lemma="paedico2" pos="NOMcom" msd="Case=Abl|Numb=Sing">pedicone</w>
+    <w ana="#acte #male #pedicatio" ref="6.33.1" lemma="paedico2" pos="NOMcom" msd="Case=Abl|Numb=Sing">pedicone</w>
     <w ref="6.33.1" lemma="sabellum" pos="NOMcom" msd="Case=Abl|Numb=Sing">Sabello</w>
     <w ref="6.33.2" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">Vidisti</w>
     <w ref="6.33.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

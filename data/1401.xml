@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #peler #raboter #masturbatio">
+<div type="fragment" ana="#acte #masturbatio #metaphore #peler #raboter">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="2.17.5" lemma="igitur" pos="CONcoo" msd="MORPH=empty">igitur</w>
     <w ref="2.17.5" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
     <w ref="2.17.5" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
-    <w ana="#metaphore #acte #peler #raboter #masturbatio" ref="2.17.5" lemma="rado" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Radit</w>
+    <w ana="#acte #masturbatio #metaphore #peler #raboter" ref="2.17.5" lemma="rado" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Radit</w>
     <w ref="2.17.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #facio">
+<div type="fragment" ana="#acte #ellipse #euphemism #facio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <bibl ref="#TLL"><title>TLL</title>, <biblscope>Vl.121.40ff.</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:110.5-110.6" type="line">
     <w ref="110.5" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
-    <w ana="#acte #euphemism #ellipse #facio" ref="110.5" lemma="facio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">facere</w>
+    <w ana="#acte #ellipse #euphemism #facio" ref="110.5" lemma="facio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">facere</w>
     <w ref="110.5" lemma="ingenuus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">ingenuae</w>
     <w ref="110.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="110.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="954" lemma="tantalis" pos="NOMcom" msd="Case=Nom|Numb=Plur|Gend=Masc">Tantalidos</w>
     <w ref="954" lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">meo</w>
     <w ref="955" lemma="exeo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">exisset</w>
-    <w ana="#female #cunnus #womb" ref="955" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ana="#cunnus #female #womb" ref="955" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
     <w ref="955" lemma="bis" pos="ADJadv.mul" msd="MORPH=empty">bisque</w>
     <w ref="955" lemma="que" pos="CON" msd="MORPH=empty">{bisque}</w>
     <w ref="955" lemma="septenus" pos="ADJdis" msd="Case=Acc|Numb=Plur|Gend=Masc">septenos</w>

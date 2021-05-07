@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="42.14" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="42.14" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
     <w ref="42.14" lemma="inferus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Comp">inferiores</w>
-    <w ana="#anus #culus" ref="42.14" lemma="podicus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=MascFem|Deg=Pos">podicis</w>
+    <w ana="#culus" ref="42.14" lemma="podicus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=MascFem|Deg=Pos">podicis</w>
     <w ref="42.14" lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Plur">partes</w>
     <w ref="42.14" lemma="inicio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">iniectum</w>
     <w ref="42.14" lemma="magnifice" pos="ADV" msd="Deg=Pos">magnifice</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #aidoion">
+<div type="fragment" ana="#aidoion #euphemism">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="5.12" lemma="oro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">oro</w>
     <w ref="5.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="5.12" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
-    <w ana="#euphemisms #aidoion" ref="5.12" lemma="obscenitas" pos="NOMcom" msd="Case=Nom|Numb=Sing">obscenitas</w>
+    <w ana="#aidoion #euphemism" ref="5.12" lemma="obscenitas" pos="NOMcom" msd="Case=Nom|Numb=Sing">obscenitas</w>
     <w ref="5.12" lemma="amputo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">amputata</w>
     <w ref="5.12" lemma="securitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">securitatem</w>
     <w ref="5.12" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">fuerat</w>

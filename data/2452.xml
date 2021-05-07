@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="6.26" lemma="corpus" pos="NOMcom" msd="Case=Nom|Numb=Plur">corpora</w>
     <w ref="6.26" lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Plur">feminarum</w>
     <w ref="6.26" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#male #euphemisms #aidoion #mentula" ref="6.26" lemma="uereter" pos="NOMcom" msd="Case=Gen|Numb=Plur">ueretrorum</w>
+    <w ana="#aidoion #euphemism #male #mentula" ref="6.26" lemma="uereter" pos="NOMcom" msd="Case=Gen|Numb=Plur">ueretrorum</w>
     <w ref="6.26" lemma="magnitudo" pos="NOMcom" msd="Case=Nom|Numb=Plur">magnitudines</w>
     <w ref="6.26" lemma="publico" pos="VER" msd="Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">publicatae</w>
     <w ref="6.26" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="11.21.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="11.21.1" lemma="eques" pos="NOMcom" msd="Case=Gen|Numb=Sing">equitis</w>
     <w ref="11.21.1" lemma="quam1" pos="ADVrel" msd="Gend=Fem">quam</w>
-    <w ana="#anus #culus" ref="11.21.1" lemma="culus" pos="NOMcom" msd="Case=Nom|Numb=Sing">culus</w>
+    <w ana="#culus" ref="11.21.1" lemma="culus" pos="NOMcom" msd="Case=Nom|Numb=Sing">culus</w>
     <w ref="11.21.1" lemma="aenum" pos="ADJqua" msd="Case=Gen|Numb=Sing">aheni</w>
     <w ref="11.21.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="11.21.2" lemma="quam2" pos="ADVint" msd="MORPH=empty">Quam</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #bouche #euphemism">
+<div type="fragment" ana="#bouche #euphemism #male #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
         <w lemma="urgeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">urget</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="perfidus1" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">perfidus</w>
-        <w lemma="altus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos" ana="#male #specialisation #bouche #euphemism">alta</w>
+        <w lemma="altus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos" ana="#bouche #euphemism #male #specialisation">alta</w>
         <w lemma="peto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">petens</w>
         <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
         <w lemma="ramus" pos="NOMcom" msd="Case=Acc|Numb=Sing">ramum</w>

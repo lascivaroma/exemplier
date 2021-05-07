@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="88.1" lemma="mater" pos="NOMcom" msd="Case=Abl|Numb=Sing">matre</w>
     <w ref="88.1" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
     <w ref="88.1" lemma="soror" pos="NOMcom" msd="Case=Abl|Numb=Sing">sorore</w>
-    <w ana="#acte #metonymie #amo" ref="88.2" lemma="prurio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">prurit</w>
+    <w ana="#acte #amo #metonymie" ref="88.2" lemma="prurio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">prurit</w>
     <w ref="88.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="88.2" lemma="abicio" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">abiectis</w>
     <w ref="88.2" lemma="peruigilo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pervigilat</w>

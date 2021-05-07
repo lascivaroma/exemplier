@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio #femme">
+<div type="fragment" ana="#acte #animal #femme #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0684.phi002.ogl-lat1:2.2.14" type="section">
     <w ref="2.2.14" lemma="quam2" pos="ADVint" msd="MORPH=empty">quam</w>
     <w ref="2.2.14" lemma="diu" pos="ADV" msd="Deg=Pos">diu</w>
-    <w ana="#acte #animals #salio #femme" ref="2.2.14" lemma="admitto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">admissura</w>
+    <w ana="#acte #animal #femme #salio" ref="2.2.14" lemma="admitto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">admissura</w>
     <w ref="2.2.14" lemma="fio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fit</w>
     <w ref="2.2.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.2.14" lemma="idem" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">eadem</w>

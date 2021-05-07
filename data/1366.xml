@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #devoir #service #active">
+<div type="fragment" ana="#acte #actif #devoir #metaphore #service">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="2.22a.23" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="2.22a.23" lemma="experior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">experta</w>
     <w ref="2.22a.23" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
-    <w ana="#metaphore #acte #devoir #service #active" ref="2.22a.24" lemma="officium" pos="NOMcom" msd="Case=Acc|Numb=Sing">officium</w>
+    <w ana="#acte #actif #devoir #metaphore #service" ref="2.22a.24" lemma="officium" pos="NOMcom" msd="Case=Acc|Numb=Sing">officium</w>
     <w ref="2.22a.24" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">tota</w>
     <w ref="2.22a.24" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
     <w ref="2.22a.24" lemma="ualeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">valere</w>

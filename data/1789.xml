@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #toucher #actif">
+<div type="fragment" ana="#acte #actif #metonymie #toucher">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.774.47ff.</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi1351.phi005.lascivaroma-lat1:14.35" type="chapter">
-    <w ana="#acte #metonymie #toucher #actif" ref="14.35" lemma="contrecto" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">contrectatam</w>
+    <w ana="#acte #actif #metonymie #toucher" ref="14.35" lemma="contrecto" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">contrectatam</w>
     <w ref="14.35" lemma="filia" pos="NOMcom" msd="Case=Gen|Numb=Plur">filiarum</w>
     <w ref="14.35" lemma="pudicitia" pos="NOMcom" msd="Case=Acc|Numb=Sing">pudicitiam</w>
     <w ref="14.35" lemma="ulciscor" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">ulcisci</w>

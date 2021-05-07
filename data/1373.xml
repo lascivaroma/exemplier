@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #devoir #service">
+<div type="fragment" ana="#acte #devoir #metaphore #service">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="2.5.2" lemma="ceruix" pos="NOMcom" msd="Case=Abl|Numb=Sing">cervice</w>
     <w ref="2.5.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.5.2" lemma="nondum" pos="ADVneg" msd="MORPH=empty">nondum</w>
-    <w ana="#metaphore #acte #devoir #service" ref="2.5.2" lemma="munia" pos="NOMcom" msd="Case=Acc|Numb=Plur">munia</w>
+    <w ana="#acte #devoir #metaphore #service" ref="2.5.2" lemma="munia" pos="NOMcom" msd="Case=Acc|Numb=Plur">munia</w>
     <w ref="2.5.2" lemma="compar2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">conparis</w>
     <w ref="2.5.3" lemma="aequo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">aequare</w>
     <w ref="2.5.3" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>

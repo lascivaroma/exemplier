@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #poles">
+<div type="fragment" ana="#composite #mentula #metaphore #pointu #poles">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,8 +25,8 @@
     <w ref="3.115" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
     <w ref="3.115" lemma="uirilis" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut">uirilia</w>
     <w ref="3.115" lemma="siue2" pos="CONsub" msd="MORPH=empty">siue</w>
-    <w ana="#mentula #metaphore #pointu #poles" ref="3.115" lemma="radius" pos="NOMcom" msd="Case=Nom|Numb=Sing">radius</w>
-    <w ana="#mentula #metaphore #pointu #poles" ref="3.115" lemma="uirilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">uirilis</w>
+    <w ana="#composite #mentula #metaphore #pointu #poles" ref="3.115" lemma="radius" pos="NOMcom" msd="Case=Nom|Numb=Sing">radius</w>
+    <w ana="#composite #mentula #metaphore #pointu #poles" ref="3.115" lemma="uirilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">uirilis</w>
     <w ref="3.115" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">fuerit</w>
     <w ref="3.115" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="3.115" lemma="tumor" pos="NOMcom" msd="Case=Abl|Numb=Sing">tumore</w>

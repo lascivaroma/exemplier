@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #consequences">
+<div type="fragment" ana="#acte #composite #consequences #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,8 +20,8 @@
     <w ref="5.22" lemma="propero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">properauit</w>
     <w ref="5.22" lemma="Europa" pos="NOMpro" msd="Case=Nom|Numb=Sing">Europa</w>
     <w ref="5.22" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
-    <w ana="#acte #metonymie #consequences" ref="5.22" lemma="expugnator" pos="NOMcom" msd="Case=Nom|Numb=Sing">expugnator</w>
-    <w ana="#acte #metonymie #consequences" ref="5.22" lemma="pudicitia" pos="NOMcom" msd="Case=Gen|Numb=Sing">pudicitiae</w>
+    <w ana="#acte #composite #consequences #metonymie" ref="5.22" lemma="expugnator" pos="NOMcom" msd="Case=Nom|Numb=Sing">expugnator</w>
+    <w ana="#acte #composite #consequences #metonymie" ref="5.22" lemma="pudicitia" pos="NOMcom" msd="Case=Gen|Numb=Sing">pudicitiae</w>
     <w ref="5.22" lemma="idem" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=MascNeut">idem</w>
     <w ref="5.22" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
     <w ref="5.22" lemma="iacto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">iactatur</w>

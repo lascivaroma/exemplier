@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #euphemisms #aidoion #cunnus">
+<div type="fragment" ana="#aidoion #cunnus #euphemism #female">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="II.7" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="II.7" lemma="distendo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">distentis</w>
     <w ref="II.7" lemma="fibra" pos="NOMcom" msd="Case=Abl|Numb=Plur">fibris</w>
-    <w ana="#female #euphemisms #aidoion #cunnus" ref="II.7" lemma="ueretrum" pos="NOMcom" msd="Case=Gen|Numb=Plur">veretri</w>
+    <w ana="#aidoion #cunnus #euphemism #female" ref="II.7" lemma="ueretrum" pos="NOMcom" msd="Case=Gen|Numb=Plur">veretri</w>
     <w ref="II.7" lemma="femininus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">feminini</w>
     <w ref="II.7" lemma="idem" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eodem</w>
     <w ref="II.7" lemma="oleum" pos="NOMcom" msd="Case=Abl|Numb=Sing">oleo</w>

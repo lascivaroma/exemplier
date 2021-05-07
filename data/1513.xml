@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec #celibat">
+<div type="fragment" ana="#acte #celibat #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="2.29b.14" lemma="signum" pos="NOMcom" msd="Case=Acc|Numb=Plur">signa</w>
     <w ref="2.29b.14" lemma="uoluto" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">volutantis</w>
     <w ref="2.29b.14" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
-    <w ana="#acte #metonymie #dormir_avec #celibat" ref="2.29b.14" lemma="iaceo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">iacuisse</w>
+    <w ana="#acte #celibat #dormirAvec #metonymie" ref="2.29b.14" lemma="iaceo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">iacuisse</w>
     <w ref="2.29b.14" lemma="duo" pos="ADJcar" msd="Case=Acc|Numb=Plur|Gend=Masc">duos</w>
     <w ref="2.29b.14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

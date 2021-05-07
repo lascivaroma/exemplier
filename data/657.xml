@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="10.469" lemma="dirus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">diro</w>
     <w ref="10.470" lemma="semen1" pos="NOMcom" msd="Case=Acc|Numb=Plur">semina</w>
     <w ref="10.470" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fert</w>
-    <w ana="#female #cunnus #womb" ref="10.470" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ana="#cunnus #female #womb" ref="10.470" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
     <w ref="10.470" lemma="concipio" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">conceptaque</w>
     <w ref="10.470" lemma="que" pos="CON" msd="MORPH=empty">{conceptaque}</w>
     <w ref="10.470" lemma="crimen" pos="NOMcom" msd="Case=Acc|Numb=Plur">crimina</w>

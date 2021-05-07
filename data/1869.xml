@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,8 +14,8 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi2331.phi018.perseus-lat2</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi018.perseus-lat2:39" type="chapter">
-    <w ana="#acte #metonymie #amo" ref="39" lemma="usus" pos="NOMcom" msd="Case=Nom|Numb=Sing">usus</w>
-    <w ana="#acte #metonymie #amo" ref="39" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
+    <w ana="#acte #amo #composite #metonymie" ref="39" lemma="usus" pos="NOMcom" msd="Case=Nom|Numb=Sing">usus</w>
+    <w ana="#acte #amo #composite #metonymie" ref="39" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
     <w ref="39" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="39" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eo</w>
     <w ref="39" lemma="moderatus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">moderatus</w>

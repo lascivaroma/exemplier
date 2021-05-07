@@ -1,4 +1,4 @@
-<div type="fragment" ana="#caves #female #cunnus #metaphore">
+<div type="fragment" ana="#caves #cunnus #female #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:83">
         <w lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
-        <w ana="#caves" lemma="ater" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">atra</w>
+        <w ana="#caves #cunnus #female #metaphore" lemma="ater" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">atra</w>
         <w lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
         <w lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur">inguina</w>
         <w lemma="lateo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">latet</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #tuer #mourir #female">
+<div type="fragment" ana="#acte #female #male #metaphore #mourir #tuer">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:120-121" type="line">
     <w ref="120" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
     <w ref="120" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
-    <w ana="#metaphore #acte #tuer #mourir #male" ref="120" lemma="morior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">moriens</w>
+    <w ana="#acte #female #male #metaphore #mourir #tuer" ref="120" lemma="morior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">moriens</w>
     <w ref="120" lemma="telum" pos="NOMcom" msd="Case=Acc|Numb=Sing">telum</w>
     <w ref="120" lemma="traho" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">trahit</w>
     <w ref="120" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

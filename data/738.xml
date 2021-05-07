@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -43,7 +43,7 @@
     <w ref="992" lemma="maternus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">maternum</w>
     <w ref="992" lemma="libet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">libet</w>
     <w ref="993" lemma="inuado2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">invadere</w>
-    <w ana="#female #cunnus #womb" ref="993" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ana="#cunnus #female #womb" ref="993" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
     <w ref="993" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="993" lemma="mater" pos="NOMcom" msd="Case=Nom|Numb=Sing">mater</w>
     <w ref="993" lemma="intrepidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">intrepidum</w>

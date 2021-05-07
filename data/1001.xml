@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #culus #anus">
+<div type="fragment" ana="#culus #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="304" lemma="ne2" pos="ADV" msd="MORPH=empty">{Etiamne}</w>
     <w ref="304" lemma="obturo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">obturat</w>
     <w ref="304" lemma="inferus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp">inferiorem</w>
-    <w ana="#metaphore #culus #anus" ref="304" lemma="guttur" pos="NOMcom" msd="Case=Acc|Numb=Sing">gutturem</w>
+    <w ana="#culus #metaphore" ref="304" lemma="guttur" pos="NOMcom" msd="Case=Acc|Numb=Sing">gutturem</w>
     <w ref="304" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="305" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
     <w ref="305" lemma="quis2" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>

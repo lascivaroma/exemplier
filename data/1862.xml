@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,8 +25,8 @@
     <w ref="V.6" lemma="uexo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">uexata</w>
     <w ref="V.6" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
     <w ref="V.6" lemma="immodicus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">immodico</w>
-    <w ana="#acte #metonymie #amo" ref="V.6" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
-    <w ana="#acte #metonymie #amo" ref="V.6" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerio</w>
+    <w ana="#acte #amo #composite #metonymie" ref="V.6" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ana="#acte #amo #composite #metonymie" ref="V.6" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerio</w>
     <w ref="V.6" lemma="afficio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">affecta</w>
     <w ref="V.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

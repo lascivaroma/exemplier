@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #pleasure">
+<div type="fragment" ana="#acte #composite #metonymie #pleasure">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="114" lemma="qui" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">quacum</w>
     <w ref="114" lemma="cum3" pos="CON" msd="MORPH=empty">{quacum}</w>
     <w ref="114" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">volt</w>
-    <w ana="#acte #metonymie #pleasure" ref="114" lemma="uoluptas" pos="NOMcom" msd="Case=Acc|Numb=Sing">voluptatem</w>
-    <w ana="#acte #metonymie #pleasure" ref="114" lemma="capio2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">capit</w>
+    <w ana="#acte #composite #metonymie #pleasure" ref="114" lemma="uoluptas" pos="NOMcom" msd="Case=Acc|Numb=Sing">voluptatem</w>
+    <w ana="#acte #composite #metonymie #pleasure" ref="114" lemma="capio2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">capit</w>
   </quote>
 </div>

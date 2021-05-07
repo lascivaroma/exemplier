@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #aidoion">
+<div type="fragment" ana="#aidoion #composite #euphemism #male #mentula">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,9 +22,9 @@
     <w ref="1.2.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.2.25" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="1.2.25" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
-    <w ana="#male #euphemisms #aidoion #mentula" ref="1.2.26" lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Sing">inguen</w>
+    <w ana="#aidoion #composite #euphemism #male #mentula" ref="1.2.26" lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Sing">inguen</w>
     <w ref="1.2.26" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
-    <w ana="#male #euphemisms #aidoion #mentula" ref="1.2.26" lemma="obscenus" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">obscaenum</w>
+    <w ana="#aidoion #composite #euphemism #male #mentula" ref="1.2.26" lemma="obscenus" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">obscaenum</w>
     <w ref="1.2.26" lemma="subduco" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">subductis</w>
     <w ref="1.2.26" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
   </quote>

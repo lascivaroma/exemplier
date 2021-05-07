@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #manger">
+<div type="fragment" ana="#acte #manger #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="14.70.1" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
     <w ref="14.70.1" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">vis</w>
     <w ref="14.70.1" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
-    <w ana="#metaphore #acte #manger" ref="14.70.1" lemma="satur" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">satur</w>
+    <w ana="#acte #manger #metaphore" ref="14.70.1" lemma="satur" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">satur</w>
     <w ref="14.70.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="14.70.1" lemma="noster" pos="PROpos" msd="Case=Gen|Numb=Plur">nostrum</w>
     <w ref="14.70.1" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">potes</w>

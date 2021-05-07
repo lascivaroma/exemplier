@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #natura #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #natura">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
         <w lemma="magis2" pos="ADV" msd="Deg=Sup">maxime</w>
         <w lemma="nutrix" pos="NOMcom" msd="Case=Nom|Numb=Plur">nutrices</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w lemma="natura" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #natura #euphemism #mentula">naturam</w>
+        <w lemma="natura" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#euphemism #male #mentula #natura">naturam</w>
         <w lemma="qua1" pos="PROrel" msd="Case=Abl|Numb=Sing">qua</w>
         <w lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Plur">feminae</w>
         <w lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>

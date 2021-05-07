@@ -1,4 +1,4 @@
-<div type="fragment" ana="#doors #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #doors #female #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:110-111">
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-        <w ana="#doors" lemma="secessus" pos="NOMcom" msd="Case=Abl|Numb=Sing">secessu</w>
+        <w ana="#cunnus #doors #female #metaphore" lemma="secessus" pos="NOMcom" msd="Case=Abl|Numb=Sing">secessu</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="tenuis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">tenuis</w>
         <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>

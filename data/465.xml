@@ -1,4 +1,4 @@
-<div type="fragment" ana="#caves #female #cunnus #metaphore">
+<div type="fragment" ana="#caves #cunnus #female #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,6 +19,6 @@
         <w lemma="quadruplex" pos="ADJmul" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">quadruplexque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{quadruplexque}</w>
         <w lemma="compleo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">compleas</w>
-        <w ana="#caves" lemma="specus" pos="NOMcom" msd="Case=Acc|Numb=Sing">specum</w>
+        <w ana="#caves #cunnus #female #metaphore" lemma="specus" pos="NOMcom" msd="Case=Acc|Numb=Sing">specum</w>
     </quote>
  </div>

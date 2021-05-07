@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals">
+<div type="fragment" ana="#acte #animal">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="6.37.10" lemma="facilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">facilem</w>
     <w ref="6.37.10" lemma="suus" pos="PROref" msd="Case=Gen|Numb=Sing|Gend=MascNeut">sui</w>
     <w ref="6.37.10" lemma="tergus" pos="NOMcom" msd="Case=Gen|Numb=Sing">tergoris</w>
-    <w ana="#acte #animals" ref="6.37.10" lemma="ascensus" pos="NOMcom" msd="Case=Acc|Numb=Sing">ascensum</w>
+    <w ana="#acte #animal" ref="6.37.10" lemma="ascensus" pos="NOMcom" msd="Case=Acc|Numb=Sing">ascensum</w>
     <w ref="6.37.10" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
     <w ref="6.37.10" lemma="editus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Comp">editiore</w>
     <w ref="6.37.10" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing">parte</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,8 +18,8 @@
     <w ref="II.58" lemma="accipio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">acceptum</w>
     <w ref="II.58" lemma="semen1" pos="NOMcom" msd="Case=Nom|Numb=Sing">semen</w>
     <w ref="II.58" lemma="post2" pos="PRE" msd="MORPH=empty">post</w>
-    <w ana="#acte #metonymie #amo" ref="II.58" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
-    <w ana="#acte #metonymie #amo" ref="II.58" lemma="Uenereus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">venerium</w>
+    <w ana="#acte #amo #composite #metonymie" ref="II.58" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #amo #composite #metonymie" ref="II.58" lemma="Uenereus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">venerium</w>
     <w ref="II.58" lemma="quidam" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">quibusdam</w>
     <w ref="II.58" lemma="mox" pos="ADV" msd="Deg=Pos">mox</w>
   </quote>

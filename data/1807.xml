@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #have">
+<div type="fragment" ana="#acte #have #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="11.40.1" lemma="Lupercus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Lupercus</w>
     <w ref="11.40.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
     <w ref="11.40.2" lemma="solus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">solus</w>
-    <w ana="#acte #metonymie #have" ref="11.40.2" lemma="teneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tenet</w>
+    <w ana="#acte #have #metonymie" ref="11.40.2" lemma="teneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tenet</w>
     <w ref="11.40.2" lemma="impero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">imperatque</w>
     <w ref="11.40.2" lemma="que" pos="CON" msd="MORPH=empty">{imperatque}</w>
     <w ref="11.40.2" lemma="solus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">solus</w>

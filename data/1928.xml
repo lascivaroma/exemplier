@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #enter">
+<div type="fragment" ana="#acte #enter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,6 +19,6 @@
         <w lemma="libet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">libet</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">ín</w>
         <w lemma="Casina" pos="NOMpro" msd="Case=Acc|Numb=Sing">Casinam</w>
-<w lemma="irruo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act" ana="#acte #metonymie #enter">inruere</w>
+<w lemma="irruo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act" ana="#acte #enter #metonymie">inruere</w>
     </quote>
 </div>

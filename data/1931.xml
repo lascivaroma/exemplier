@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #enter">
+<div type="fragment" ana="#acte #enter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
   <quote xml:lang="lat" source="urn:cts:latinLit:stoa0238.stoa001.perseus-lat2:14.29-14.30" type="line">
     <w ref="14.29" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">omnis</w>
     <w ref="14.29" lemma="iuuentus" pos="NOMcom" msd="Case=Nom|Numb=Sing">iuventus</w>
-    <w ana="#acte #metonymie #enter" ref="14.29" lemma="irruo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">inruet</w>
+    <w ana="#acte #enter #metonymie" ref="14.29" lemma="irruo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">inruet</w>
     <w ref="14.29" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="14.29" lemma="nouus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">novum</w>
     <w ref="14.30" lemma="ludibrium" pos="NOMcom" msd="Case=Gen|Numb=Plur">ludibriorum</w>

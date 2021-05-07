@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #medical">
+<div type="fragment" ana="#female #medicale">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi1294.phi002.perseus-lat2</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.71">
-        <w lemma="hystericus" pos="NOMpro" msd="Case=Acc|Numb=Sing|Deg=Pos" ana="#female #medical">Hystericam</w>
+        <w lemma="hystericus" pos="NOMpro" msd="Case=Acc|Numb=Sing|Deg=Pos" ana="#female #medicale">Hystericam</w>
         <w lemma="uetulus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">vetulo</w>
         <w lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
         <w lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">dixerat</w>

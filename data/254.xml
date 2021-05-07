@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
         <w lemma="ostento" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ostentat</w>
         <w lemma="foedus2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">foedas</w>
         <w lemma="prope2" pos="PRE" msd="Deg=Pos">prope</w>
-        <w lemma="turpis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#male #euphemisms #aidoion #mentula">turpia</w>
+        <w lemma="turpis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#aidoion #euphemism #male #mentula">turpia</w>
         <w lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
         <w lemma="lacuna" pos="NOMcom" msd="Case=Acc|Numb=Plur">lacunas</w>
         <w lemma="perfodio" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">perfossasque</w>

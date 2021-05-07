@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #have">
+<div type="fragment" ana="#acte #have #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="9.26.2" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="9.26.2" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">esset</w>
     <w ref="9.26.2" lemma="obicio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">obiectum</w>
-    <w ana="#acte #metonymie #have" ref="9.26.2" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
+    <w ana="#acte #have #metonymie" ref="9.26.2" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
     <w ref="9.26.2" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eum</w>
     <w ref="9.26.2" lemma="Laida" pos="NOMpro" msd="Case=Acc|Numb=Sing">Laida</w>
     <w ref="9.26.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

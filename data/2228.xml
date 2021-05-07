@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio">
+<div type="fragment" ana="#acte #animal #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="6.37.9" lemma="mas" pos="NOMcom" msd="Case=Acc|Numb=Sing">marem</w>
     <w ref="6.37.9" lemma="cognosco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">cognovit</w>
     <w ref="6.37.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #animals #salio" ref="6.37.9" lemma="assilio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">adsilientem</w>
+    <w ana="#acte #animal #salio" ref="6.37.9" lemma="assilio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">adsilientem</w>
     <w ref="6.37.9" lemma="admissarius" pos="NOMcom" msd="Case=Acc|Numb=Sing">admissarium</w>
     <w ref="6.37.9" lemma="calx1" pos="NOMcom" msd="Case=Dat|Numb=Plur">calcibus</w>
     <w ref="6.37.9" lemma="proturbo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">proturbat</w>

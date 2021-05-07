@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #position #oral">
+<div type="fragment" ana="#acte #composite #metonymie #oral #position">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,8 +15,8 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi016.corpuscorporum-lat1:1.16.4" type="section">
     <w ref="1.16.4" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
-    <w ana="#acte #metonymie #position #oral" ref="1.16.4" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
-    <w ana="#acte #metonymie #position #oral" ref="1.16.4" lemma="mergo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">merserat</w>
+    <w ana="#acte #composite #metonymie #oral #position" ref="1.16.4" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+    <w ana="#acte #composite #metonymie #oral #position" ref="1.16.4" lemma="mergo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">merserat</w>
     <w ref="1.16.4" lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Plur">inguinibusque</w>
     <w ref="1.16.4" lemma="que" pos="CON" msd="MORPH=empty">{inguinibusque}</w>
     <w ref="1.16.4" lemma="alienus2" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">alienis</w>

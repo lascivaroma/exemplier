@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio #homme">
+<div type="fragment" ana="#acte #animal #homme #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi027.perseus-lat2:69" type="section">
     <w ref="69" lemma="itaque" pos="CONcoo" msd="MORPH=empty">itaque</w>
-    <w ana="#acte #animals #salio #homme" ref="69" lemma="admissarius" pos="NOMcom" msd="Case=Nom|Numb=Sing">admissarius</w>
+    <w ana="#acte #animal #homme #salio" ref="69" lemma="admissarius" pos="NOMcom" msd="Case=Nom|Numb=Sing">admissarius</w>
     <w ref="69" lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">iste</w>
     <w ref="69" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="69" lemma="simul1" pos="ADV" msd="Deg=Pos">simul</w>

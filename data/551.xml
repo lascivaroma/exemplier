@@ -1,4 +1,4 @@
-<div type="fragment" ana="#pars #euphemism">
+<div type="fragment" ana="#euphemism #pars">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
         <w lemma="error" pos="NOMcom" msd="Case=Abl|Numb=Sing">errore</w>
         <w lemma="ebrius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">ebrio</w>
         <w lemma="applico" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Applicuit</w>
-        <w ana="#pars #euphemism" lemma="uirginalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">virginale</w>
+        <w ana="#euphemism #pars" lemma="uirginalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">virginale</w>
         <w lemma="genus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">generi</w>
         <w lemma="masculus" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Deg=Pos">masculo</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>

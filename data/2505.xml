@@ -1,4 +1,4 @@
-<div type="fragment" ana="#caves #female #culus #cunnus #metaphore">
+<div type="fragment" ana="#caves #culus #cunnus #female #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -33,7 +33,7 @@
     <w ref="1.6" lemma="achor" pos="NOMcom" msd="Case=Nom|Numb=Sing">achor</w>
     <w ref="1.6" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
     <w ref="1.6" lemma="unus" pos="ADJcar" msd="Case=Acc|Numb=Sing|Gend=Fem">unam</w>
-    <w ana="#caves #female #culus #cunnus #metaphore" ref="1.6" lemma="cauerna" pos="NOMcom" msd="Case=Acc|Numb=Sing">cavernam</w>
+    <w ana="#caves #culus #cunnus #female #metaphore" ref="1.6" lemma="cauerna" pos="NOMcom" msd="Case=Acc|Numb=Sing">cavernam</w>
     <w ref="1.6" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habet</w>
     <w ref="1.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="1.6" lemma="humor" pos="NOMcom" msd="Case=Acc|Numb=Sing">umorem</w>

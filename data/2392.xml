@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula">
+<div type="fragment" ana="#composite #mentula">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,8 +25,8 @@
     <w ref="9.22.2" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
     <w ref="9.22.2" lemma="obscenus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">obscenum</w>
     <w ref="9.22.2" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
-    <w ana="#mentula" ref="9.22.2" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
-    <w ana="#mentula" ref="9.22.2" lemma="uerbum" pos="NOMcom" msd="Case=Nom|Numb=Sing">verbum</w>
+    <w ana="#composite #mentula" ref="9.22.2" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+    <w ana="#composite #mentula" ref="9.22.2" lemma="uerbum" pos="NOMcom" msd="Case=Nom|Numb=Sing">verbum</w>
     <w ref="9.22.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="9.22.2" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
     <w ref="9.22.2" lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>

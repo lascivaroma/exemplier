@@ -1,4 +1,4 @@
-<div type="fragment" ana="#fente #female #cunnus #misc">
+<div type="fragment" ana="#cunnus #divers #female #fente">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
         <w lemma="que" pos="CON" msd="MORPH=empty">{mediumque}</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="findo" pos="VER" msd="Case=Gen|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">fissi</w>
-        <w ana="#fente #misc" lemma="rima" pos="NOMcom" msd="Case=Abl|Numb=Sing">rima</w>
+        <w ana="#cunnus #divers #female #fente" lemma="rima" pos="NOMcom" msd="Case=Abl|Numb=Sing">rima</w>
         <w lemma="qua1" pos="ADVrel" msd="Gend=Fem">qua</w>
         <w lemma="pateo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">patet</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

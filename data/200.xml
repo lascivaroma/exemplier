@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #mentula">
+<div type="fragment" ana="#adjoiningParts #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:26.10-26.12">
         <w lemma="deficio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">defecit</w>
-        <w lemma="latus1" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #voisinage #mentula">latus</w>
+        <w lemma="latus1" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#adjoiningParts #euphemism #male #mentula">latus</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="periculosus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">periculosam</w>
         <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>

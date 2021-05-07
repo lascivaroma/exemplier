@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #toucher #masturbation">
+<div type="fragment" ana="#acte #masturbatio #metonymie #toucher">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="1.92.1" lemma="cestus" pos="NOMpro" msd="Case=Nom|Numb=Plur|Gend=Masc">Cestos</w>
     <w ref="1.92.1" lemma="ocellus" pos="NOMcom" msd="Case=Abl|Numb=Plur">ocellis</w>
     <w ref="1.92.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #toucher #masturbation" ref="1.92.2" lemma="tango" pos="NOMpro" msd="Mood=Inf|Tense=Pres|Voice=Pass">Tangi</w>
+    <w ana="#acte #masturbatio #metonymie #toucher" ref="1.92.2" lemma="tango" pos="NOMpro" msd="Mood=Inf|Tense=Pres|Voice=Pass">Tangi</w>
     <w ref="1.92.2" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
     <w ref="1.92.2" lemma="digitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">digito</w>
     <w ref="1.92.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

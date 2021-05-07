@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="11.61.11" lemma="mergo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">mersus</w>
     <w ref="11.61.11" lemma="haereo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">haeret</w>
     <w ref="11.61.11" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-    <w ana="#female #cunnus #womb" ref="11.61.11" lemma="uolua" pos="NOMcom" msd="Case=Abl|Numb=Sing">volva</w>
+    <w ana="#cunnus #female #womb" ref="11.61.11" lemma="uolua" pos="NOMcom" msd="Case=Abl|Numb=Sing">volva</w>
     <w ref="11.61.12" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
     <w ref="11.61.12" lemma="uagio" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">vagientes</w>
     <w ref="11.61.12" lemma="intus1" pos="ADV" msd="Deg=Pos">intus</w>

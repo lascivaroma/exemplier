@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #copulation #desir">
+<div type="fragment" ana="#adjoiningParts #copulation #desir #euphemism #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
         <w lemma="tibia" pos="NOMcom" msd="Case=Nom|Numb=Sing">tibia</w>
-        <w lemma="lumbus" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #euphemisms #voisinage #copulation #desir">lumbos</w>
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#adjoiningParts #copulation #desir #euphemism #male">lumbos</w>
         <w lemma="incito1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">incitat</w>
     </quote>
  </div>

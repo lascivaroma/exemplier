@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -32,7 +32,7 @@
     <w ref="8.490" lemma="accipio" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">accipite</w>
     <w ref="8.490" lemma="inferiae" pos="NOMcom" msd="Case=Acc|Numb=Plur">inferias</w>
     <w ref="8.490" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#female #cunnus #womb" ref="8.490" lemma="uterus" pos="NOMcom" msd="Case=Dat|Numb=Sing">uteri</w>
+    <w ana="#cunnus #female #womb" ref="8.490" lemma="uterus" pos="NOMcom" msd="Case=Dat|Numb=Sing">uteri</w>
     <w ref="8.490" lemma="malus3" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">mala</w>
     <w ref="8.490" lemma="pignus" pos="NOMcom" msd="Case=Acc|Numb=Plur">pignera</w>
     <w ref="8.490" lemma="noster" pos="PROpos" msd="Case=Gen|Numb=Plur|Gend=Masc">nostri</w>

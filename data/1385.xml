@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #chevaucher #femme #effeminé #composite">
+<div type="fragment" ana="#acte #chevaucher #composite #effeminé #femme #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -31,8 +31,8 @@
     <w ref="2.7.49" lemma="cauda" pos="NOMcom" msd="Case=Gen|Numb=Sing">caudae</w>
     <w ref="2.7.50" lemma="clunis" pos="NOMcom" msd="Case=Abl|Numb=Plur">clunibus</w>
     <w ref="2.7.50" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
-    <w ana="#metaphore #acte #chevaucher #femme #effeminé #composite" ref="2.7.50" lemma="agito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">agitavit</w>
-    <w ana="#metaphore #acte #chevaucher #femme #effeminé #composite" ref="2.7.50" lemma="equus" pos="NOMcom" msd="Case=Acc|Numb=Sing">equum</w>
+    <w ana="#acte #chevaucher #composite #effeminé #femme #metaphore" ref="2.7.50" lemma="agito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">agitavit</w>
+    <w ana="#acte #chevaucher #composite #effeminé #femme #metaphore" ref="2.7.50" lemma="equus" pos="NOMcom" msd="Case=Acc|Numb=Sing">equum</w>
     <w ref="2.7.50" lemma="lasciuus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">lasciva</w>
     <w ref="2.7.50" lemma="supinus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">supinum</w>
   </quote>

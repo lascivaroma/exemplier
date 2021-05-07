@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #fututio #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="77.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="77.6" lemma="somnus" pos="NOMcom" msd="Case=Nom|Numb=Sing">somnus</w>
     <w ref="77.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #amo #futuo" ref="77.6" lemma="libido" pos="NOMcom" msd="Case=Nom|Numb=Sing">libido</w>
+    <w ana="#acte #amo #fututio #metonymie" ref="77.6" lemma="libido" pos="NOMcom" msd="Case=Nom|Numb=Sing">libido</w>
     <w ref="77.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="77.6" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
     <w ref="77.6" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">hunc</w>

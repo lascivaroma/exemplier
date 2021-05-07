@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -35,7 +35,7 @@
     <w ref="V.10" lemma="effusio" pos="NOMcom" msd="Case=Gen|Numb=Sing">effusionis</w>
     <w ref="V.10" lemma="causa" pos="NOMcom" msd="Case=Abl|Numb=Sing">causa</w>
     <w ref="V.10" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
-    <w ana="#anus #culus" ref="V.10" lemma="podex" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ana="#culus" ref="V.10" lemma="podex" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
     <w ref="V.10" lemma="aegroto" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">aegrotanti</w>
     <w ref="V.10" lemma="defectio" pos="NOMcom" msd="Case=Acc|Numb=Sing">defectionem</w>
     <w ref="V.10" lemma="facio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">facere</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #oral">
+<div type="fragment" ana="#acte #composite #oral">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,8 +20,8 @@
     <w ref="12.71.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="12.71.2" lemma="Lygdus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Lygde</w>
     <w ref="12.71.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #oral" ref="12.71.2" lemma="nihil" pos="PROind" msd="Case=Ind">nil</w>
-    <w ana="#acte #oral" ref="12.71.2" lemma="nego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2">negabas</w>
+    <w ana="#acte #composite #oral" ref="12.71.2" lemma="nihil" pos="PROind" msd="Case=Ind">nil</w>
+    <w ana="#acte #composite #oral" ref="12.71.2" lemma="nego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2">negabas</w>
     <w ref="12.71.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

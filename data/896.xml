@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -42,7 +42,7 @@
     <w ref="58.2" lemma="effemino" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut">effeminato</w>
     <w ref="58.2" lemma="immineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inminet</w>
     <w ref="58.2" lemma="procus" pos="NOMcom" msd="Case=Abl|Numb=Sing">procu</w>
-    <w ana="#anus #culus" ref="58.2" lemma="culus" pos="NOMcom" msd="Case=Abl|Numb=Sing">culo</w>
+    <w ana="#culus" ref="58.2" lemma="culus" pos="NOMcom" msd="Case=Abl|Numb=Sing">culo</w>
     <w ref="58.2" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     <w ref="58.2" lemma="effemino" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut">effeminato</w>
     <w ref="58.2" lemma="immineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inminet</w>

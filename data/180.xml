@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #euphemisms #voisinage #cunnus">
+<div type="fragment" ana="#adjoiningParts #cunnus #euphemism #female">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="cupidus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">cupidae</w>
         <w lemma="stillo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">stillat</w>
         <w lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
-        <w lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#female #euphemisms #voisinage #cunnus">inguine</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#adjoiningParts #cunnus #euphemism #female">inguine</w>
         <w lemma="equa" pos="NOMcom" msd="Case=Nom|Numb=Sing">equae</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>

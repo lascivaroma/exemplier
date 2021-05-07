@@ -1,4 +1,4 @@
-<div type="fragment" ana="#womb #sinus #vagina #female #metaphore">
+<div type="fragment" ana="#female #metaphore #sinus #vagina #womb">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
         <w lemma="tener" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">teneros</w>
         <w lemma="consero3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">conserit</w>
         <w lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
-        <w ana="#womb #sinus #vagina" lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Plur">sinus</w>
+        <w ana="#female #metaphore #sinus #vagina #womb" lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Plur">sinus</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

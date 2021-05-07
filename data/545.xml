@@ -1,4 +1,4 @@
-<div type="fragment" ana="#pars #euphemism">
+<div type="fragment" ana="#composite #euphemism #pars">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,9 +26,9 @@
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="neruus" pos="NOMcom" msd="Case=Gen|Numb=Plur">neruorum</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w ana="#pars #euphemism #composite" lemma="muliebris" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">muliebria</w>
+        <w ana="#composite #euphemism #pars" lemma="muliebris" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">muliebria</w>
         <w lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
-        <w ana="#pars #euphemism #composite" lemma="locus" pos="NOMcom" msd="Case=Acc|Numb=Plur">loca</w>
+        <w ana="#composite #euphemism #pars" lemma="locus" pos="NOMcom" msd="Case=Acc|Numb=Plur">loca</w>
         <w lemma="durus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Sup">durissima</w>
         <w lemma="mollio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">mollit</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>

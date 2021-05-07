@@ -1,4 +1,4 @@
-<div type="fragment" ana="#adjoining_parts #lap #euphemism #female">
+<div type="fragment" ana="#adjoiningParts #euphemism #female #lap">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
         <w lemma="pater" pos="NOMcom" msd="Case=Gen|Numb=Sing">patris</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="immeritus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">immeritae</w>
-        <w ana="#adjoining_parts #lap #euphemism" lemma="gremium" pos="NOMcom" msd="Case=Acc|Numb=Sing">gremium</w>
+        <w ana="#adjoiningParts #euphemism #female #lap" lemma="gremium" pos="NOMcom" msd="Case=Acc|Numb=Sing">gremium</w>
         <w lemma="incesto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">incestare</w>
         <w lemma="parens1" pos="NOMcom" msd="Case=Gen|Numb=Sing">parentis</w>
         <w lemma="appeto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">appetiit</w>

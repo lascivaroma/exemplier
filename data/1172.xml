@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #manger">
+<div type="fragment" ana="#acte #manger #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -43,7 +43,7 @@
     <w ref="88.8" lemma="demissus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">demisso</w>
     <w ref="88.8" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
     <w ref="88.8" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
-    <w ana="#metaphore #acte #manger" ref="88.8" lemma="uoro" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">voret</w>
+    <w ana="#acte #manger #metaphore" ref="88.8" lemma="uoro" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">voret</w>
     <w ref="88.8" lemma="caput" pos="NOMcom" msd="Case=Abl|Numb=Sing">capite</w>
     <w ref="88.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #lutter #sebattre">
+<div type="fragment" ana="#acte #lutter #metaphore #seBattre">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="2.15.5" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">mecum</w>
     <w ref="2.15.5" lemma="cum3" pos="CON" msd="MORPH=empty">{mecum}</w>
     <w ref="2.15.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
-    <w ana="#metaphore #acte #lutter #sebattre" ref="2.15.5" lemma="luctor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">luctata</w>
+    <w ana="#acte #lutter #metaphore #seBattre" ref="2.15.5" lemma="luctor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">luctata</w>
     <w ref="2.15.5" lemma="papilla" pos="NOMcom" msd="Case=Abl|Numb=Plur">papillis</w>
     <w ref="2.15.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.15.6" lemma="interdum" pos="ADV" msd="Deg=Pos">interdum</w>

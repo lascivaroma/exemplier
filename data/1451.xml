@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #aller_en_vue_de">
+<div type="fragment" ana="#acte #allerEnVueDe #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -45,7 +45,7 @@
     <w ref="7.3.10" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>
     <w ref="7.3.10" lemma="diligo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">diligebat</w>
     <w ref="7.3.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #aller_en_vue_de" ref="7.3.10" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">iret</w>
+    <w ana="#acte #allerEnVueDe #metonymie" ref="7.3.10" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">iret</w>
     <w ref="7.3.10" lemma="uulgaris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">uulgari</w>
     <w ref="7.3.10" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="7.3.10" lemma="permitto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">permissa</w>

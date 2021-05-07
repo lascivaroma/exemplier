@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #descriptive-functional #euphemism #cunnus">
+<div type="fragment" ana="#cunnus #descriptiveFunctional #euphemism #female #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
         <w lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Plur">feminis</w>
         <w lemma="super2" pos="PRE" msd="MORPH=empty">super</w>
-        <w lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos" ana="#male #descriptive-functional">genitale</w>
+        <w lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos" ana="#cunnus #descriptiveFunctional #euphemism #female #male">genitale</w>
         <w lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=Fem">earum</w>
         <w lemma="situs2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">sita</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>

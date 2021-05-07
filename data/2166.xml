@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #insulter">
+<div type="fragment" ana="#acte #insulter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="644" lemma="scelus" pos="NOMcom" msd="Case=Acc|Numb=Sing">scelus</w>
     <w ref="644" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="644" lemma="postquam" pos="CONsub" msd="MORPH=empty">postquam</w>
-    <w ana="#acte #metonymie #insulter" ref="644" lemma="ludificor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">ludificatus</w>
+    <w ana="#acte #insulter #metonymie" ref="644" lemma="ludificor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">ludificatus</w>
     <w ref="644" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="644" lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Sing">virginem</w>
     <w ref="644" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

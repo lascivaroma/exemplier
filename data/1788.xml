@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #toucher #actif">
+<div type="fragment" ana="#acte #actif #metonymie #toucher">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="697" lemma="lepidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">lepidam</w>
     <w ref="697" lemma="mulier" pos="NOMcom" msd="Case=Acc|Numb=Sing">mulierem</w>
     <w ref="698" lemma="complexus" pos="VER" msd="Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Dep">complexum</w>
-    <w ana="#acte #metonymie #toucher #actif" ref="698" lemma="contrecto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">contrectare</w>
+    <w ana="#acte #actif #metonymie #toucher" ref="698" lemma="contrecto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">contrectare</w>
     <w ref="698" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

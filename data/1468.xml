@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #etreavec">
+<div type="fragment" ana="#acte #composite #etreAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,8 +26,8 @@
     <w ref="891" lemma="sollicito" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sollicitet</w>
     <w ref="891" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="891" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eum</w>
-    <w ana="#acte #metonymie #etreavec" ref="891" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
-    <w ana="#acte #metonymie #etreavec" ref="891" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ana="#acte #composite #etreAvec #metonymie" ref="891" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ana="#acte #composite #etreAvec #metonymie" ref="891" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="891" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">illa</w>
     <w ref="891" lemma="mulier" pos="NOMcom" msd="Case=Abl|Numb=Sing">muliere</w>
     <w ref="891" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

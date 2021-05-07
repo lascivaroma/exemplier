@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="159" lemma="numen" pos="NOMcom" msd="Case=Gen|Numb=Plur">numinum</w>
     <w ref="159" lemma="abscondo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">abscondat</w>
     <w ref="159" lemma="fauor" pos="NOMcom" msd="Case=Nom|Numb=Sing">favor</w>
-    <w ana="#acte #metonymie #coeo" ref="160" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Sing">coitus</w>
+    <w ana="#acte #coeo #metonymie" ref="160" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Sing">coitus</w>
     <w ref="160" lemma="nefandus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">nefandos</w>
   </quote>
 </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #oral #irrumatio">
+<div type="fragment" ana="#acte #composite #irrumatio #oral">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,9 +15,9 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:2.72.2-2.72.4" type="line">
     <w ref="2.72.2" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
-    <w ana="#acte #oral #irrumatio" ref="2.72.3" lemma="os1" pos="NOMcom" msd="Case=Nom|Numb=Sing">Os</w>
+    <w ana="#acte #composite #irrumatio #oral" ref="2.72.3" lemma="os1" pos="NOMcom" msd="Case=Nom|Numb=Sing">Os</w>
     <w ref="2.72.3" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
-    <w ana="#acte #oral #irrumatio" ref="2.72.3" lemma="percido2" pos="VER" msd="Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">percisum</w>
+    <w ana="#acte #composite #irrumatio #oral" ref="2.72.3" lemma="percido2" pos="VER" msd="Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">percisum</w>
     <w ref="2.72.3" lemma="quanto1" pos="PROrel" msd="Case=Abl|Numb=Sing">quanto</w>
     <w ref="2.72.3" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="2.72.3" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>

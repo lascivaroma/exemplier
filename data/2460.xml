@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #aidoion">
+<div type="fragment" ana="#aidoion #composite #euphemism #male #mentula">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,10 +17,10 @@
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi007.perseus-lat2:1.437-1.438" type="line">
     <w ref="1.437" lemma="at2" pos="CONcoo" msd="MORPH=empty">at</w>
     <w ref="1.437" lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Sing">deus</w>
-    <w ana="#male #euphemisms #aidoion #mentula" ref="1.437" lemma="obscenus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">obscena</w>
+    <w ana="#aidoion #composite #euphemism #male #mentula" ref="1.437" lemma="obscenus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">obscena</w>
     <w ref="1.437" lemma="nimium2" pos="ADV" msd="Deg=Pos">nimium</w>
     <w ref="1.437" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
-    <w ana="#male #euphemisms #aidoion #mentula" ref="1.437" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing">parte</w>
+    <w ana="#aidoion #composite #euphemism #male #mentula" ref="1.437" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing">parte</w>
     <w ref="1.437" lemma="paratus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">paratus</w>
     <w ref="1.438" lemma="omnis" pos="PROind" msd="Case=Dat|Numb=Plur|Gend=Com">omnibus</w>
     <w ref="1.438" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>

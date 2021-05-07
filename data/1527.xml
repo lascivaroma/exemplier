@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec">
+<div type="fragment" ana="#acte #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="2.333" lemma="torus" pos="NOMcom" msd="Case=Abl|Numb=Plur">toris</w>
     <w ref="2.333" lemma="primus" pos="ADJadv.ord" msd="Deg=Sup">primo</w>
     <w ref="2.333" lemma="complector" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">complexa</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="2.333" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">iacebat</w>
+    <w ana="#acte #dormirAvec #metonymie" ref="2.333" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">iacebat</w>
     <w ref="2.334" lemma="aurora" pos="NOMcom" msd="Case=Gen|Numb=Sing">aurorae</w>
     <w ref="2.334" lemma="pallor" pos="NOMcom" msd="Case=Abl|Numb=Sing">pallore</w>
     <w ref="2.334" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Sing">virum</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec ">
+<div type="fragment" ana="#acte #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="1.13.5" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="1.13.5" lemma="tener" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">teneris</w>
     <w ref="1.13.5" lemma="domina" pos="NOMcom" msd="Case=Gen|Numb=Sing">dominae</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="1.13.5" lemma="iaceo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">iacuisse</w>
+    <w ana="#acte #dormirAvec #metonymie" ref="1.13.5" lemma="iaceo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">iacuisse</w>
     <w ref="1.13.5" lemma="lacertus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">lacertis</w>
   </quote>
 </div>

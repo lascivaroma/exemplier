@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #misc">
+<div type="fragment" ana="#divers #male #penis">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,7 +29,7 @@
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="nihil" pos="PROind" msd="Case=Ind">nil</w>
         <w lemma="deterior" pos="ADJqua" msd="Gend=Neut|Deg=Pos">deterius</w>
-        <w ana="#male #penis" lemma="mutoniatus" pos="VER" msd="Numb=Sing|Gend=Masc|Deg=Pos|Mood=Par|Tense=Perf|Voice=Dep">mutuniatus</w>
+        <w ana="#divers #male #penis" lemma="mutoniatus" pos="VER" msd="Numb=Sing|Gend=Masc|Deg=Pos|Mood=Par|Tense=Perf|Voice=Dep">mutuniatus</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

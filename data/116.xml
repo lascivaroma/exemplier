@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+<div type="fragment" ana="#composite #euphemism #male #mentula #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -78,7 +78,7 @@
         <w lemma="prouoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">prouocantur</w>
         <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
         <w lemma="tentigo" pos="NOMcom" msd="Case=Abl|Numb=Sing">tentigine</w>
-        <w lemma="genitalis" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos" ana="#male #specialisation #euphemism #mentula">genitalium</w>
-        <w lemma="pars" pos="NOMcom" msd="Case=Gen|Numb=Plur" ana="#male #specialisation #euphemism #mentula">partium</w>
+        <w lemma="genitalis" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos" ana="#composite #euphemism #male #mentula #specialisation">genitalium</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Gen|Numb=Plur" ana="#composite #euphemism #male #mentula #specialisation">partium</w>
     </quote>
  </div>

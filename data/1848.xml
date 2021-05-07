@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,8 +15,8 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1038.phi001.perseus-lat1:4.3.3" type="section">
     <w ref="4.3.3" lemma="consisto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">constitit</w>
-    <w ana="#acte #metonymie #amo" ref="4.3.3" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
-    <w ana="#acte #metonymie #amo" ref="4.3.3" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">ueneris</w>
+    <w ana="#acte #amo #composite #metonymie" ref="4.3.3" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #amo #composite #metonymie" ref="4.3.3" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">ueneris</w>
     <w ref="4.3.3" lemma="intra2" pos="PRE" msd="MORPH=empty">intra</w>
     <w ref="4.3.3" lemma="coniux" pos="NOMcom" msd="Case=Gen|Numb=Sing">coniugis</w>
     <w ref="4.3.3" lemma="caritas" pos="NOMcom" msd="Case=Acc|Numb=Sing">caritatem</w>

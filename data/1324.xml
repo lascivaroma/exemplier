@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #tuer #mourir">
+<div type="fragment" ana="#acte #metaphore #mourir #tuer">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="29" lemma="affatim" pos="ADV" msd="Deg=Pos">affatim</w>
     <w ref="29" lemma="desaeuio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">desaeuisset</w>
     <w ref="29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#metaphore #acte #tuer #mourir" ref="29" lemma="conficio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">conficeretur</w>
+    <w ana="#acte #metaphore #mourir #tuer" ref="29" lemma="conficio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">conficeretur</w>
     <w ref="29" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
     <w ref="29" lemma="doryphorum" pos="NOMcom" msd="Case=Abl|Numb=Sing">Doryphoro</w>
     <w ref="29" lemma="libertus" pos="NOMcom" msd="Case=Abl|Numb=Sing">liberto</w>

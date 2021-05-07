@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #misc">
+<div type="fragment" ana="#divers #male #penis">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">Dormis</w>
         <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
         <w lemma="puer" pos="NOMcom" msd="Case=Abl|Numb=Plur">pueris</w>
-        <w ana="#male #penis" lemma="mutuniatus" pos="VER" msd="Numb=Plur|Gend=Com|Deg=Pos">mutuniatis</w>
+        <w ana="#divers #male #penis" lemma="mutuniatus" pos="VER" msd="Numb=Plur|Gend=Com|Deg=Pos">mutuniatis</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

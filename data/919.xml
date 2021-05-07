@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="I.21" lemma="collum" pos="NOMcom" msd="Case=Abl|Numb=Sing">collo</w>
     <w ref="I.21" lemma="uesicus" pos="NOMcom" msd="Case=Abl|Numb=Sing">vesice</w>
     <w ref="I.21" lemma="superpono" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">superpositum</w>
-    <w ana="#anus #culus" ref="I.21" lemma="podicus" pos="ADJqua" msd="Case=Gen|Numb=Sing">podici</w>
+    <w ana="#culus" ref="I.21" lemma="podicus" pos="ADJqua" msd="Case=Gen|Numb=Sing">podici</w>
     <w ref="I.21" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
     <w ref="I.21" lemma="longao" pos="NOMcom" msd="Case=Gen|Numb=Sing">longaonis</w>
     <w ref="I.21" lemma="submitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">summitati</w>

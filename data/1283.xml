@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #subigo #soumission">
+<div type="fragment" ana="#acte #metaphore #soumission #subigo">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="31" lemma="rado" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">rasit</w>
     <w ref="31" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="31" lemma="uirilis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">virilia</w>
-    <w ana="#metaphore #acte #subigo #soumission" ref="31" lemma="subactor" pos="NOMcom" msd="Case=Dat|Numb=Plur">subactoribus</w>
+    <w ana="#acte #metaphore #soumission #subigo" ref="31" lemma="subactor" pos="NOMcom" msd="Case=Dat|Numb=Plur">subactoribus</w>
     <w ref="31" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Plur|Gend=Com">suis</w>
     <w ref="31" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="31" lemma="nouacula" pos="NOMcom" msd="Case=Acc|Numb=Sing">novaculam</w>

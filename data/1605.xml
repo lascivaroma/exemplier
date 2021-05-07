@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="25.7" lemma="12" pos="ADJcar" msd="MORPH=empty">XII</w>
     <w ref="25.7" lemma="dies" pos="NOMcom" msd="Case=Abl|Numb=Plur">diebus</w>
     <w ref="25.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #coeo" ref="25.7" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
+    <w ana="#acte #coeo #metonymie" ref="25.7" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
     <w ref="25.7" lemma="gigno" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Fut|Voice=Act">genituraque</w>
     <w ref="25.7" lemma="que" pos="CON" msd="MORPH=empty">{genituraque}</w>
     <w ref="25.7" lemma="priuo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">privari</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #fellatio #acte">
+<div type="fragment" ana="#acte #fellatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="2.61.7" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="2.61.8" lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
     <w ref="2.61.8" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
-    <w ana="#acte #fellatio #acte" ref="2.61.8" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">fellaret</w>
+    <w ana="#acte #fellatio" ref="2.61.8" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">fellaret</w>
     <w ref="2.61.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.61.8" lemma="purus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">purior</w>
     <w ref="2.61.8" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>

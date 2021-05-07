@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
         <w lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Neut">ista</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-        <w lemma="inhonestus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos" ana="#male #euphemisms #aidoion">inhonesta</w>
+        <w lemma="inhonestus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos" ana="#aidoion #euphemism #male #mentula">inhonesta</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
         <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>

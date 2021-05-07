@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,8 +24,8 @@
     <w ref="V.4" lemma="propter2" pos="PRE" msd="MORPH=empty">propter</w>
     <w ref="V.4" lemma="officium" pos="NOMcom" msd="Case=Acc|Numb=Sing">officium</w>
     <w ref="V.4" lemma="suscito1" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">suscitandum</w>
-    <w ana="#acte #metonymie #amo" ref="V.4" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
-    <w ana="#acte #metonymie #amo" ref="V.4" lemma="uenerius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerium</w>
+    <w ana="#acte #amo #composite #metonymie" ref="V.4" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #amo #composite #metonymie" ref="V.4" lemma="uenerius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerium</w>
     <w ref="V.4" lemma="probo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">probauerunt</w>
     <w ref="V.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="V.4" lemma="consentio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">consentiendum</w>

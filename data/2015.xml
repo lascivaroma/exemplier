@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #consequences #tired">
+<div type="fragment" ana="#acte #consequences #metonymie #tired">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="2.17" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.17" lemma="poculum" pos="NOMcom" msd="Case=Abl|Numb=Plur">poculis</w>
     <w ref="2.17" lemma="interdum" pos="ADV" msd="Deg=Pos">interdum</w>
-    <w ana="#acte #metonymie #consequences #tired" ref="2.17" lemma="lassitudo" pos="NOMcom" msd="Case=Acc|Numb=Sing">lassitudinem</w>
+    <w ana="#acte #consequences #metonymie #tired" ref="2.17" lemma="lassitudo" pos="NOMcom" msd="Case=Acc|Numb=Sing">lassitudinem</w>
     <w ref="2.17" lemma="refoueo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">refoventes</w>
     <w ref="2.17" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="2.17" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing">libidinem</w>

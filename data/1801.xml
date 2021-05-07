@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #have">
+<div type="fragment" ana="#acte #have #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <bibl ref="#TLL"><title>TLL</title>, <biblscope>VI.3.2409.33ff.</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi056.perseus-lat1:9.26.2" type="section">
     <w ref="9.26.2" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
-    <w ana="#acte #metonymie #have" ref="9.26.2" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">habeo</w>
+    <w ana="#acte #have #metonymie" ref="9.26.2" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">habeo</w>
     <w ref="9.26.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="9.26.2" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
     <w ref="9.26.2" lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inquit</w>

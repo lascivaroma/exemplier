@@ -1,4 +1,4 @@
-<div type="fragment" ana="#caves #female #culus #cunnus #metaphore">
+<div type="fragment" ana="#caves #culus #cunnus #female #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
     <w ref="20.5" lemma="donec" pos="CONsub" msd="MORPH=empty">donec</w>
     <w ref="20.5" lemma="repleo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">repleas</w>
     <w ref="20.5" lemma="fistula" pos="NOMcom" msd="Case=Dat|Numb=Sing">fistulae</w>
-    <w ana="#caves #female #culus #cunnus #metaphore" ref="20.5" lemma="cauerna" pos="NOMcom" msd="Case=Acc|Numb=Sing">cauernam</w>
+    <w ana="#caves #culus #cunnus #female #metaphore" ref="20.5" lemma="cauerna" pos="NOMcom" msd="Case=Acc|Numb=Sing">cauernam</w>
     <w ref="20.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #futuo #detendre">
+<div type="fragment" ana="#acte #detendre #fututio #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="17.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="17.3" lemma="sino" pos="PRE" msd="MORPH=empty">sine</w>
     <w ref="17.3" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
-    <w ana="#acte #metonymie #futuo #detendre" ref="17.3" lemma="laxus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">laxior</w>
+    <w ana="#acte #detendre #fututio #metonymie" ref="17.3" lemma="laxus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">laxior</w>
     <w ref="17.3" lemma="redeo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">redibit</w>
     <w ref="17.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

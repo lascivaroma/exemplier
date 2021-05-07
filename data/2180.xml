@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #pecco #illicit">
+<div type="fragment" ana="#acte #illicit #metonymie #pecco">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="1.34.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.34.1" lemma="semper" pos="ADV" msd="Deg=Pos">semper</w>
     <w ref="1.34.2" lemma="limen" pos="NOMcom" msd="Case=Abl|Numb=Plur">Liminibus</w>
-    <w ana="#acte #metonymie #pecco #illicit" ref="1.34.2" lemma="pecco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">peccas</w>
+    <w ana="#acte #illicit #metonymie #pecco" ref="1.34.2" lemma="pecco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">peccas</w>
     <w ref="1.34.2" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
     <w ref="1.34.2" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Neut">tua</w>
     <w ref="1.34.2" lemma="furtum" pos="NOMcom" msd="Case=Acc|Numb=Plur">furta</w>

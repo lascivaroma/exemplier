@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #etreavec">
+<div type="fragment" ana="#acte #composite #etreAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,8 +25,8 @@
     <w ref="157" lemma="possum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">posse</w>
     <w ref="157" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
     <w ref="157" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">mecum</w>
-    <w ana="#acte #metonymie #etreavec" ref="157" lemma="cum3" pos="CON" msd="MORPH=empty">{mecum}</w>
-    <w ana="#acte #metonymie #etreavec" ref="157" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ana="#acte #composite #etreAvec #metonymie" ref="157" lemma="cum3" pos="CON" msd="MORPH=empty">{mecum}</w>
+    <w ana="#acte #composite #etreAvec #metonymie" ref="157" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
     <w ref="157" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="157" lemma="abeo1" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">abituram</w>
     <w ref="157" lemma="denique" pos="ADV" msd="Deg=Pos">denique</w>

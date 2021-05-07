@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #aidoion">
+<div type="fragment" ana="#aidoion #euphemism">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -37,7 +37,7 @@
     <w ref="20.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="20.3" lemma="alius" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Masc">alii</w>
     <w ref="20.3" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
-    <w ana="#euphemisms #aidoion" ref="20.3" lemma="obscena" pos="NOMcom" msd="Case=Acc|Numb=Plur">obscena</w>
+    <w ana="#aidoion #euphemism" ref="20.3" lemma="obscena" pos="NOMcom" msd="Case=Acc|Numb=Plur">obscena</w>
     <w ref="20.3" lemma="stipes" pos="NOMcom" msd="Case=Acc|Numb=Sing">stipitem</w>
     <w ref="20.3" lemma="ago" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">egerunt</w>
     <w ref="20.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

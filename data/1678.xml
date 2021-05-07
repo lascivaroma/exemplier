@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #join">
+<div type="fragment" ana="#acte #composite #join #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,9 +21,9 @@
     <w ref="833" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
     <w ref="833" lemma="mortalis1" pos="NOMcom" msd="Case=Nom|Numb=Sing">mortalis</w>
     <w ref="833" lemma="nemo" pos="PROind" msd="Case=Nom|Numb=Sing">nemo</w>
-    <w ana="#acte #metonymie #join" ref="833" lemma="corpus" pos="NOMcom" msd="Case=Acc|Numb=Sing">corpus</w>
-    <w ana="#acte #metonymie #join" ref="833" lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
-    <w ana="#acte #metonymie #join" ref="834" lemma="contingo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">contigit</w>
+    <w ana="#acte #composite #join #metonymie" ref="833" lemma="corpus" pos="NOMcom" msd="Case=Acc|Numb=Sing">corpus</w>
+    <w ana="#acte #composite #join #metonymie" ref="833" lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
+    <w ana="#acte #composite #join #metonymie" ref="834" lemma="contingo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">contigit</w>
     <w ref="834" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="834" lemma="qui2" pos="ADVrel" msd="MORPH=empty">quo</w>
     <w ref="834" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>

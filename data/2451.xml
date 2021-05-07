@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -37,7 +37,7 @@
     <w ref="5.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="5.14" lemma="amputatio" pos="NOMcom" msd="Case=Acc|Numb=Plur">amputationes</w>
     <w ref="5.14" lemma="uirilis" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos">uirilium</w>
-    <w ana="#male #euphemisms #aidoion #mentula" ref="5.14" lemma="ueretra" pos="NOMcom" msd="Case=Gen|Numb=Plur">ueretrorum</w>
+    <w ana="#aidoion #euphemism #male #mentula" ref="5.14" lemma="ueretra" pos="NOMcom" msd="Case=Gen|Numb=Plur">ueretrorum</w>
     <w ref="5.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="5.14" lemma="ira" pos="NOMcom" msd="Case=Acc|Numb=Plur">iras</w>
     <w ref="5.14" lemma="sanguis" pos="NOMcom" msd="Case=Acc|Numb=Sing">sanguinem</w>

@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:29.5">
         <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
-        <w ana="#cunnus" lemma="cunnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">cunno</w>
+        <w ana="#cunnus #female" lemma="cunnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">cunno</w>
         <w lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
         <w lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>

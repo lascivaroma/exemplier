@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #pleasure">
+<div type="fragment" ana="#acte #composite #metonymie #pleasure">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,8 +18,8 @@
     <w ref="75" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
     <w ref="75" lemma="et2" pos="CONcoo" msd="Deg=Pos">et</w>
     <w ref="75" lemma="ipse" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=Fem|Deg=Sup">ipsimae</w>
-    <w ana="#acte #metonymie #pleasure" ref="75" lemma="satis2" pos="ADV" msd="Deg=Pos">satis</w>
-    <w ana="#acte #metonymie #pleasure" ref="75" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=1">faciebam</w>
+    <w ana="#acte #composite #metonymie #pleasure" ref="75" lemma="satis2" pos="ADV" msd="Deg=Pos">satis</w>
+    <w ana="#acte #composite #metonymie #pleasure" ref="75" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=1">faciebam</w>
     <w ref="75" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

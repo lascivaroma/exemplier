@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #botanique">
+<div type="fragment" ana="#botanique #mentula #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:105-107" type="line">
     <w ref="105" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
-    <w ana="#mentula #metaphore #botanique" ref="105" lemma="ramus" pos="NOMcom" msd="Case=Acc|Numb=Sing">ramum</w>
+    <w ana="#botanique #mentula #metaphore" ref="105" lemma="ramus" pos="NOMcom" msd="Case=Acc|Numb=Sing">ramum</w>
     <w ref="105" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="105" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
     <w ref="105" lemma="uestis" pos="NOMcom" msd="Case=Abl|Numb=Sing">veste</w>

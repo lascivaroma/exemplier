@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #armes">
+<div type="fragment" ana="#armes #mentula #metaphore #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="67.21" lemma="tener" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">tenera</w>
     <w ref="67.21" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
     <w ref="67.21" lemma="pendeo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">pendens</w>
-    <w ana="#mentula #metaphore #pointu #armes" ref="67.21" lemma="sicula" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">sicula</w>
+    <w ana="#armes #mentula #metaphore #pointu" ref="67.21" lemma="sicula" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">sicula</w>
     <w ref="67.21" lemma="beta2" pos="NOMcom" msd="Case=Abl|Numb=Sing">beta</w>
     <w ref="67.22" lemma="numquam" pos="ADVneg" msd="MORPH=empty">nunquam</w>
     <w ref="67.22" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>

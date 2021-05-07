@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="33" lemma="fatum" pos="NOMcom" msd="Case=Abl|Numb=Plur">fatis</w>
     <w ref="33" lemma="nata" pos="NOMcom" msd="Case=Nom|Numb=Sing">gnata</w>
     <w ref="33" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fert</w>
-    <w ana="#female #cunnus #womb" ref="33" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ana="#cunnus #female #womb" ref="33" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
     <w ref="33" lemma="grauis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">gravem</w>
     <w ref="33" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="34" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>

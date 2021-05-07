@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio #humain">
+<div type="fragment" ana="#acte #animal #humain #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="11.265" lemma="uotum" pos="NOMcom" msd="Case=Abl|Numb=Plur">votis</w>
     <w ref="11.265" lemma="ingens" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">ingentique</w>
     <w ref="11.265" lemma="que" pos="CON" msd="MORPH=empty">{ingentique}</w>
-    <w ana="#acte #animals #salio #humain" ref="11.265" lemma="impleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">implet</w>
+    <w ana="#acte #animal #humain #salio" ref="11.265" lemma="impleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">implet</w>
     <w ref="11.265" lemma="Achilles" pos="NOMpro" msd="Case=Nom|Numb=Sing">Achille</w>
     <w ref="11.265" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

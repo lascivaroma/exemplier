@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #insulter">
+<div type="fragment" ana="#acte #insulter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="13.17" lemma="ante2" pos="PRE" msd="MORPH=empty">ante</w>
     <w ref="13.17" lemma="exitium" pos="NOMcom" msd="Case=Acc|Numb=Sing">exitium</w>
     <w ref="13.17" lemma="dies" pos="NOMcom" msd="Case=Abl|Numb=Plur">diebus</w>
-    <w ana="#acte #metonymie #insulter" ref="13.17" lemma="illudo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Masc">illusum</w>
+    <w ana="#acte #insulter #metonymie" ref="13.17" lemma="illudo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Masc">illusum</w>
     <w ref="13.17" lemma="eo1" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">isse</w>
     <w ref="13.17" lemma="pueritia" pos="NOMcom" msd="Case=Dat|Numb=Sing">pueritiae</w>
     <w ref="13.17" lemma="Britannicus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Britannici</w>

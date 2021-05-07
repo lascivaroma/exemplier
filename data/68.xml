@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #anatomie #metaphore #mentula">
+<div type="fragment" ana="#anatomie #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
         <w lemma="excipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">excepit</w>
         <w lemma="turgeo" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">turgentis</w>
         <w lemma="uerber" pos="NOMcom" msd="Case=Acc|Numb=Plur">verbera</w>
-        <w lemma="cauda" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #anatomie">caudae</w>
+        <w lemma="cauda" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#anatomie #male #mentula #metaphore">caudae</w>
         <w lemma="clunis" pos="NOMcom" msd="Case=Abl|Numb=Plur">clunibus</w>
         <w lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
         <w lemma="agito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">agitavit</w>

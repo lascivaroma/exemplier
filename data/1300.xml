@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #travailler">
+<div type="fragment" ana="#acte #metaphore #travailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -40,7 +40,7 @@
     <w ref="6.9" lemma="praesens" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">praesentes</w>
     <w ref="6.9" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="6.9" lemma="hic1" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">huic</w>
-    <w ana="#metaphore #acte #travailler" ref="6.9" lemma="opus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">operi</w>
+    <w ana="#acte #metaphore #travailler" ref="6.9" lemma="opus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">operi</w>
     <w ref="6.9" lemma="insto" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">instantes</w>
     <w ref="6.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="6.9" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>

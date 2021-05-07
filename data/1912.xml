@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #patior #male">
+<div type="fragment" ana="#acte #male #metonymie #patior">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="16.1" lemma="irrumo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">irrumabo</w>
     <w ref="16.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="16.2" lemma="Aurelius" pos="NOMpro" msd="Case=Voc|Numb=Sing">Aureli</w>
-    <w ana="#acte #metonymie #patior" ref="16.2" lemma="pathicus" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=Masc|Deg=Pos">pathice</w>
+    <w ana="#acte #male #metonymie #patior" ref="16.2" lemma="pathicus" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=Masc|Deg=Pos">pathice</w>
     <w ref="16.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="16.2" lemma="cinaedus2" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=Masc|Deg=Pos">cinaede</w>
     <w ref="16.2" lemma="Furius" pos="NOMpro" msd="Case=Voc|Numb=Sing">Furi</w>

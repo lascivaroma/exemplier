@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="93.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="93.3" lemma="elixus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">elixo</w>
     <w ref="93.3" lemma="plantarius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">plantaria</w>
-    <w ana="#anus #culus" ref="93.3" lemma="podix" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
+    <w ana="#culus" ref="93.3" lemma="podix" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
     <w ref="93.3" lemma="uello" pos="NOMcom" msd="Case=Abl|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">vellis</w>
     <w ref="93.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="93.4" lemma="tero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">teris</w>

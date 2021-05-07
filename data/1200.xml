@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme #composite">
+<div type="fragment" ana="#acte #atteindreObjectif #composite #ejaculation #metaphore #orgasme">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,9 +29,9 @@
     <w ref="2.726" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
     <w ref="2.726" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Masc">tuos</w>
     <w ref="2.726" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
-    <w ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme #composite" ref="2.727" lemma="ad2" pos="PRE" msd="MORPH=empty">Ad</w>
-    <w ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme #composite" ref="2.727" lemma="meta" pos="NOMcom" msd="Case=Acc|Numb=Sing">metam</w>
-    <w ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme #composite" ref="2.727" lemma="propero" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">properate</w>
+    <w ana="#acte #atteindreObjectif #composite #ejaculation #metaphore #orgasme" ref="2.727" lemma="ad2" pos="PRE" msd="MORPH=empty">Ad</w>
+    <w ana="#acte #atteindreObjectif #composite #ejaculation #metaphore #orgasme" ref="2.727" lemma="meta" pos="NOMcom" msd="Case=Acc|Numb=Sing">metam</w>
+    <w ana="#acte #atteindreObjectif #composite #ejaculation #metaphore #orgasme" ref="2.727" lemma="propero" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">properate</w>
     <w ref="2.727" lemma="simul1" pos="ADV" msd="Deg=Pos">simul</w>
     <w ref="2.727" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="2.727" lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>

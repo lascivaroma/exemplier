@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,8 +28,8 @@
     <w ref="8" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Sing">coitus</w>
     <w ref="8" lemma="uir" pos="NOMcom" msd="Case=Gen|Numb=Plur">virorum</w>
     <w ref="8" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#acte #metonymie #amo" ref="8" lemma="usus" pos="NOMcom" msd="Case=Nom|Numb=Sing">usus</w>
-    <w ana="#acte #metonymie #amo" ref="8" lemma="Uenereus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">venerius</w>
+    <w ana="#acte #amo #composite #metonymie" ref="8" lemma="usus" pos="NOMcom" msd="Case=Nom|Numb=Sing">usus</w>
+    <w ana="#acte #amo #composite #metonymie" ref="8" lemma="Uenereus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">venerius</w>
     <w ref="8" lemma="efficio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">efficitur</w>
     <w ref="8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #outil #metaphore #mentula">
+<div type="fragment" ana="#male #mentula #metaphore #outil">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="9" lemma="exerceo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Adj|Voice=Pass">exercendas</w>
     <w ref="9" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Plur">libidines</w>
     <w ref="9" lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
-    <w ana="#male #outil #metaphore #mentula" ref="9" lemma="uasatus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">vasatos</w>
+    <w ana="#male #mentula #metaphore #outil" ref="9" lemma="uasatus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">vasatos</w>
     <w ref="9" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="9" lemma="magnus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Comp">maioris</w>
     <w ref="9" lemma="peculium" pos="NOMcom" msd="Case=Gen|Numb=Sing">peculii</w>

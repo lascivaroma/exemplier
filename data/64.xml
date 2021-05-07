@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #anatomie #metaphore #mentula">
+<div type="fragment" ana="#anatomie #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
         <w lemma="Indi" pos="NOMpro" msd="Case=Nom|Numb=Plur">Indi</w>
         <w lemma="qui1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Neut">quae</w>
         <w lemma="psaltria" pos="NOMcom" msd="Case=Nom|Numb=Sing">psaltria</w>
-        <w lemma="penis" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #anatomie">penem</w>
+        <w lemma="penis" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#anatomie #male #mentula #metaphore">penem</w>
         <w lemma="magnus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp">maiorem</w>
         <w lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
         <w lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>

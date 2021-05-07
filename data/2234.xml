@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio #femme">
+<div type="fragment" ana="#acte #animal #femme #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,6 +26,6 @@
     <w ref="26.4" lemma="prurio" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">prurientes</w>
     <w ref="26.5" lemma="uernus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">uernis</w>
     <w ref="26.5" lemma="passer" pos="NOMcom" msd="Case=Abl|Numb=Plur">passeribus</w>
-    <w ana="#acte #animals #salio #femme" ref="26.5" lemma="salax" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Comp">salaciores</w>
+    <w ana="#acte #animal #femme #salio" ref="26.5" lemma="salax" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Comp">salaciores</w>
   </quote>
 </div>

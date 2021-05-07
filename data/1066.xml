@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #futuo">
+<div type="fragment" ana="#acte #fututio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,7 +30,7 @@
     <w ref="29.13" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
     <w ref="29.13" lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ista</w>
     <w ref="29.13" lemma="uester" pos="PROpos" msd="Case=Nom|Numb=Plur|Gend=Fem">vestra</w>
-    <w ana="#acte #futuo" ref="29.13" lemma="diffutuo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">diffututa</w>
+    <w ana="#acte #fututio" ref="29.13" lemma="diffutuo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">diffututa</w>
     <w ref="29.13" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
     <w ref="29.14" lemma="ducentiens" pos="ADJadv.mul" msd="MORPH=empty">ducenties</w>
     <w ref="29.14" lemma="comedo2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">comesset</w>

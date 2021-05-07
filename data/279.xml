@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #abstracts #mentula">
+<div type="fragment" ana="#abstracts #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="cesso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cessat</w>
         <w lemma="debilito" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">debilitata</w>
-        <w lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#male #euphemisms #abstracts">Venus</w>
+        <w lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#abstracts #euphemism #male #mentula">Venus</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

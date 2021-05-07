@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #join">
+<div type="fragment" ana="#acte #join #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="2.16" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="2.16" lemma="nos" pos="PROper" msd="Case=Nom|Numb=Plur">nos</w>
     <w ref="2.16" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Plur">corporum</w>
-    <w ana="#acte #metonymie #join" ref="2.16" lemma="coniugatio" pos="NOMcom" msd="Case=Abl|Numb=Plur">coniugationibus</w>
+    <w ana="#acte #join #metonymie" ref="2.16" lemma="coniugatio" pos="NOMcom" msd="Case=Abl|Numb=Plur">coniugationibus</w>
     <w ref="2.16" lemma="nascor" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">nascimur</w>
     <w ref="2.16" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="2.16" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>

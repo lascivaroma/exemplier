@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #position #male #passive">
+<div type="fragment" ana="#acte #male #metonymie #passive #position">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:10.224" type="line">
     <w ref="10.224" lemma="quot2" pos="PROint" msd="Case=Ind">quot</w>
     <w ref="10.224" lemma="discipulus" pos="NOMcom" msd="Case=Acc|Numb=Plur">discipulos</w>
-    <w ana="#acte #metonymie #position #male #passive" ref="10.224" lemma="inclino" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">inclinet</w>
+    <w ana="#acte #male #metonymie #passive #position" ref="10.224" lemma="inclino" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">inclinet</w>
     <w ref="10.224" lemma="Hamillus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Hamillus</w>
   </quote>
 </div>

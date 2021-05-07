@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #voisinage #reproduction">
+<div type="fragment" ana="#adjoiningParts #euphemism #reproduction">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,6 +19,6 @@
     <w ref="5.27" lemma="inflo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">inflato</w>
     <w ref="5.27" lemma="uenter" pos="NOMcom" msd="Case=Abl|Numb=Sing">ventre</w>
     <w ref="5.27" lemma="computresco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">conputrescet</w>
-    <w ana="#euphemisms #voisinage #reproduction" ref="5.27" lemma="femur" pos="NOMcom" msd="Case=Nom|Numb=Sing">femur</w>
+    <w ana="#adjoiningParts #euphemism #reproduction" ref="5.27" lemma="femur" pos="NOMcom" msd="Case=Nom|Numb=Sing">femur</w>
   </quote>
 </div>

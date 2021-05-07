@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion">
+<div type="fragment" ana="#aidoion #euphemism #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
         <w lemma="simplex" pos="ADJmul" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">simplici</w>
         <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
         <w lemma="dolor" pos="NOMcom" msd="Case=Abl|Numb=Sing">dolore</w>
-        <w lemma="pudendus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#male #euphemisms #aidoion">pudenda</w>
+        <w lemma="pudendus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#aidoion #euphemism #male">pudenda</w>
         <w lemma="curo" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">curantium</w>
     </quote>
  </div>

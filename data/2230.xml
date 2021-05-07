@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio">
+<div type="fragment" ana="#acte #animal #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi007.perseus-lat2:4.771-4.772" type="line">
     <w ref="4.771" lemma="sum" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sitque</w>
     <w ref="4.771" lemma="que" pos="CON" msd="MORPH=empty">{sitque}</w>
-    <w ana="#acte #animals #salio" ref="4.771" lemma="salax" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">salax</w>
+    <w ana="#acte #animal #salio" ref="4.771" lemma="salax" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">salax</w>
     <w ref="4.771" lemma="aries" pos="NOMcom" msd="Case=Nom|Numb=Sing">aries</w>
     <w ref="4.771" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="4.771" lemma="concipio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">conceptaque</w>

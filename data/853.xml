@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #womb #medical">
+<div type="fragment" ana="#female #medicale #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="78.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="78.3" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="78.3" lemma="resoluo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Adj|Voice=Pass">resoluendas</w>
-    <w ana="#female #womb #medical" ref="78.3" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ana="#female #medicale #womb" ref="78.3" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
     <w ref="78.3" lemma="duritia" pos="NOMcom" msd="Case=Acc|Numb=Plur">duritias</w>
     <w ref="78.3" lemma="siue2" pos="CONsub" msd="MORPH=empty">siue</w>
     <w ref="78.3" lemma="strictura" pos="NOMcom" msd="Case=Acc|Numb=Plur">stricturas</w>

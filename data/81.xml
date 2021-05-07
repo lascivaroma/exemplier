@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #lettres #metaphore #mentula #initiales">
+<div type="fragment" ana="#composite #initiales #lettres #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,17 +14,17 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:67">
-        <w lemma="Penelope" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#male #lettres">Penelopes</w>
+        <w lemma="Penelope" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#composite #initiales #lettres #male #mentula #metaphore">Penelopes</w>
         <w lemma="primus" pos="ADJord" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Sup">primam</w>
-        <w lemma="Dido" pos="NOMpro" msd="Case=Gen|Numb=Sing" ana="#male #lettres">Didonis</w>
+        <w lemma="Dido" pos="NOMpro" msd="Case=Gen|Numb=Sing" ana="#composite #initiales #lettres #male #mentula #metaphore">Didonis</w>
         <w lemma="primus" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Sup">prima</w>
         <w lemma="sequor" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3">sequatur</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="primus" pos="ADJord" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Sup">primam</w>
-        <w lemma="Cadmus" pos="NOMpro" msd="Case=Gen|Numb=Sing" ana="#male #lettres">Cadmi</w>
+        <w lemma="Cadmus" pos="NOMpro" msd="Case=Gen|Numb=Sing" ana="#composite #initiales #lettres #male #mentula #metaphore">Cadmi</w>
         <w lemma="syllaba" pos="NOMcom" msd="Case=Nom|Numb=Sing">syllaba</w>
         <w lemma="primus" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Sup">prima</w>
-        <w lemma="Remus" pos="NOMpro" msd="Case=Gen|Numb=Sing" ana="#male #lettres">Remi</w>
+        <w lemma="Remus" pos="NOMpro" msd="Case=Gen|Numb=Sing" ana="#composite #initiales #lettres #male #mentula #metaphore">Remi</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="qui" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quodque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{quodque}</w>

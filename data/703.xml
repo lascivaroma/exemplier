@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -39,7 +39,7 @@
     <w ref="6.18" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
     <w ref="6.18" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="6.18" lemma="os1" pos="NOMcom" msd="Case=Abl|Numb=Sing">ore</w>
-    <w ana="#female #cunnus #womb" ref="6.18" lemma="uolua" pos="NOMcom" msd="Case=Gen|Numb=Sing">volvae</w>
+    <w ana="#cunnus #female #womb" ref="6.18" lemma="uolua" pos="NOMcom" msd="Case=Gen|Numb=Sing">volvae</w>
     <w ref="6.18" lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Plur">feminarum</w>
     <w ref="6.18" lemma="incido1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">incidere</w>
     <w ref="6.18" lemma="consuesco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">consuevit</w>

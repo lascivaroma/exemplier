@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1:IV.3" type="part">
     <w ref="IV.3" lemma="dehinc" pos="ADV" msd="Deg=Pos">dehinc</w>
     <w ref="IV.3" lemma="appono" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Adj|Voice=Pass">apponenda</w>
-    <w ana="#anus #culus" ref="IV.3" lemma="podicus" pos="NOMcom" msd="Case=Gen|Numb=Sing">podici</w>
+    <w ana="#culus" ref="IV.3" lemma="podicus" pos="NOMcom" msd="Case=Gen|Numb=Sing">podici</w>
     <w ref="IV.3" lemma="fistula" pos="NOMcom" msd="Case=Abl|Numb=Sing">fistula</w>
     <w ref="IV.3" lemma="dextera" pos="NOMcom" msd="Case=Abl|Numb=Sing">dextera</w>
     <w ref="IV.3" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>

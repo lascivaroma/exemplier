@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -42,7 +42,7 @@
     <w ref="2.629" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
     <w ref="2.629" lemma="natus?" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut">natum</w>
     <w ref="2.629" lemma="flamma" pos="NOMcom" msd="Case=Dat|Numb=Plur">flammis</w>
-    <w ana="#female #cunnus #womb" ref="2.629" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uteroque</w>
+    <w ana="#cunnus #female #womb" ref="2.629" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uteroque</w>
     <w ref="2.629" lemma="que" pos="CON" msd="MORPH=empty">{uteroque}</w>
     <w ref="2.629" lemma="parens1" pos="NOMcom" msd="Case=Gen|Numb=Sing">parentis</w>
     <w ref="2.630" lemma="eripio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">eripuit</w>

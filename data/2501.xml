@@ -1,4 +1,4 @@
-<div type="fragment" ana="#caves #female #culus #cunnus #metaphore">
+<div type="fragment" ana="#caves #culus #cunnus #female #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,7 +30,7 @@
     <w ref="79.7" lemma="molior" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">molitur</w>
     <w ref="79.7" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
     <w ref="79.7" lemma="uterque" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">utramque</w>
-    <w ana="#caves #female #culus #cunnus #metaphore" ref="79.7" lemma="cauerna" pos="NOMcom" msd="Case=Acc|Numb=Sing">cavernam</w>
+    <w ana="#caves #culus #cunnus #female #metaphore" ref="79.7" lemma="cauerna" pos="NOMcom" msd="Case=Acc|Numb=Sing">cavernam</w>
     <w ref="79.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="79.8" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
     <w ref="79.8" lemma="quis2" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>

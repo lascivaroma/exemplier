@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -42,8 +42,8 @@
     <w ref="2.11" lemma="uapor" pos="NOMcom" msd="Case=Acc|Numb=Sing">vaporem</w>
     <w ref="2.11" lemma="desiderium" pos="NOMcom" msd="Case=Acc|Numb=Sing">desiderium</w>
     <w ref="2.11" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
-    <w ana="#acte #metonymie #amo" ref="2.11" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
-    <w ana="#acte #metonymie #amo" ref="2.11" lemma="uenerius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">venerium</w>
+    <w ana="#acte #amo #composite #metonymie" ref="2.11" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #amo #composite #metonymie" ref="2.11" lemma="uenerius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">venerium</w>
     <w ref="2.11" lemma="ualeo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">valeant</w>
     <w ref="2.11" lemma="ministro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ministrare</w>
     <w ref="2.11" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

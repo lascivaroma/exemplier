@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #pubic_hair">
+<div type="fragment" ana="#male #pubicHair">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="tragus" pos="NOMcom" msd="Case=Nom|Numb=Sing">tragus</w>
         <w lemma="celer" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">celeresque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{celeresque}</w>
-        <w ana="#male #pubic_hair" lemma="pilus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">pili</w>
+        <w ana="#male #pubicHair" lemma="pilus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">pili</w>
         <w lemma="miror" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos|Mood=Adj|Voice=Dep">mirandaque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{mirandaque}</w>
         <w lemma="mater" pos="NOMcom" msd="Case=Dat|Numb=Sing">matri</w>

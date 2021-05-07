@@ -1,4 +1,4 @@
-<div type="fragment" ana="#parties clitoris #female #cunnus">
+<div type="fragment" ana="#clitoris #cunnus #female #pars">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.422-6.423">
         <w lemma="callidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">callidus</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-        <w ana="#partiesclitoris" lemma="crista" pos="NOMcom" msd="Case=Dat|Numb=Sing">cristae</w>
+        <w ana="#clitoris #cunnus #female #pars" lemma="crista" pos="NOMcom" msd="Case=Dat|Numb=Sing">cristae</w>
         <w lemma="digitus" pos="NOMcom" msd="Case=Acc|Numb=Plur">digitos</w>
         <w lemma="imprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">inpressit</w>
         <w lemma="aliptes" pos="NOMcom" msd="Case=Nom|Numb=Sing">aliptes</w>

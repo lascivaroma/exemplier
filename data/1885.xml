@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -42,7 +42,7 @@
     <w ref="4.1199" lemma="abundans2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">abundans</w>
     <w ref="4.1200" lemma="natura" pos="NOMcom" msd="Case=Nom|Numb=Sing">natura</w>
     <w ref="4.1200" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#acte #metonymie #amo" ref="4.1200" lemma="uenus1" pos="NOMpro" msd="Case=Acc|Numb=Sing">Venerem</w>
+    <w ana="#acte #amo #metonymie" ref="4.1200" lemma="uenus1" pos="NOMpro" msd="Case=Acc|Numb=Sing">Venerem</w>
     <w ref="4.1200" lemma="salio1" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">salientum</w>
     <w ref="4.1200" lemma="laetus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">laeta</w>
     <w ref="4.1200" lemma="retracto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">retractat</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="3.793" lemma="sentio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">Sentiat</w>
     <w ref="3.793" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
     <w ref="3.793" lemma="inferus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Sup">imis</w>
-    <w ana="#acte #metonymie #amo" ref="3.793" lemma="Uenus" pos="NOMpro" msd="Case=Acc|Numb=Sing">venerem</w>
+    <w ana="#acte #amo #metonymie" ref="3.793" lemma="Uenus" pos="NOMpro" msd="Case=Acc|Numb=Sing">venerem</w>
     <w ref="3.793" lemma="resoluo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">resoluta</w>
     <w ref="3.793" lemma="medulla" pos="NOMcom" msd="Case=Abl|Numb=Plur">medullis</w>
     <w ref="3.794" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">Femina</w>

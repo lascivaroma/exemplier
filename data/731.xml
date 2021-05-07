@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -31,7 +31,7 @@
     <w ref="5.18" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">tuam</w>
     <w ref="5.18" lemma="plenus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">plenus</w>
     <w ref="5.18" lemma="maturo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">maturaverit</w>
-    <w ana="#female #cunnus #womb" ref="5.18" lemma="uterus" pos="NOMcom" msd="Case=Nom|Numb=Sing">uterus</w>
+    <w ana="#cunnus #female #womb" ref="5.18" lemma="uterus" pos="NOMcom" msd="Case=Nom|Numb=Sing">uterus</w>
     <w ref="5.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="5.18" lemma="opimus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Comp">opimiore</w>
     <w ref="5.18" lemma="fructus" pos="NOMcom" msd="Case=Abl|Numb=Sing">fructu</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #lettres #metaphore #mentula">
+<div type="fragment" ana="#composite #lettres #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,16 +14,16 @@
         <idno type="CTS_URN">urn:cts:latinLit:stoa0045.stoa010.perseus-lat2</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:85">
-        <w lemma="Lais" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #lettres">LAIS</w>
-        <w lemma="sum?" pos="NOMpro" msd="Case=Acc|Numb=Sing" ana="#male #lettres">Eros</w>
+        <w lemma="Lais" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#composite #lettres #male #mentula #metaphore">LAIS</w>
+        <w lemma="sum?" pos="NOMpro" msd="Case=Acc|Numb=Sing" ana="#composite #lettres #male #mentula #metaphore">Eros</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-        <w lemma="Itys" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#male #lettres">Itys</w>
+        <w lemma="Itys" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#composite #lettres #male #mentula #metaphore">Itys</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w lemma="Chiron" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#male #lettres">Chiron</w>
+        <w lemma="Chiron" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#composite #lettres #male #mentula #metaphore">Chiron</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-        <w lemma="herus" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#male #lettres">Eros</w>
+        <w lemma="herus" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#composite #lettres #male #mentula #metaphore">Eros</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w lemma="Itys" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#male #lettres">Itys</w>
+        <w lemma="Itys" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#composite #lettres #male #mentula #metaphore">Itys</w>
         <w lemma="alter" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">alter</w>
         <w lemma="nomen" pos="NOMcom" msd="Case=Acc|Numb=Plur">nomina</w>
         <w lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>

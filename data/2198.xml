@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #res #prostitution">
+<div type="fragment" ana="#acte #ellipse #euphemism #prostitution #res">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
     <w ref="94" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
     <w ref="94" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
     <w ref="94" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
-    <w ana="#acte #euphemism #ellipse #res #prostitution" ref="94" lemma="commercium" pos="NOMcom" msd="Case=Nom|Numb=Sing">commercium</w>
+    <w ana="#acte #ellipse #euphemism #prostitution #res" ref="94" lemma="commercium" pos="NOMcom" msd="Case=Nom|Numb=Sing">commercium</w>
     <w ref="94" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

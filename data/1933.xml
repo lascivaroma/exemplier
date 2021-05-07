@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #enter">
+<div type="fragment" ana="#acte #enter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
     <w ref="1.19" lemma="quamuis1" pos="ADVrel" msd="MORPH=empty">quamuis</w>
     <w ref="1.19" lemma="iuuenis1" pos="NOMcom" msd="Case=Dat|Numb=Sing">iuueni</w>
     <w ref="1.19" lemma="uiolenter" pos="ADV" msd="Deg=Pos">uiolenter</w>
-    <w ana="#acte #metonymie #enter" ref="1.19" lemma="irruo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">inruenti</w>
+    <w ana="#acte #enter #metonymie" ref="1.19" lemma="irruo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">inruenti</w>
     <w ref="1.19" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
     <w ref="1.19" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=Fem">sua</w>
     <w ref="1.19" lemma="libido" pos="NOMcom" msd="Case=Abl|Numb=Sing">libidine</w>

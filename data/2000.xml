@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #consequences">
+<div type="fragment" ana="#acte #consequences #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="25" lemma="occasio" pos="NOMcom" msd="Case=Nom|Numb=Sing">occasio</w>
     <w ref="25" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #consequences" ref="25" lemma="deuirgino" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">devirginatur</w>
+    <w ana="#acte #consequences #metonymie" ref="25" lemma="deuirgino" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">devirginatur</w>
     <w ref="25" lemma="Pannychis" pos="NOMpro" msd="Case=Nom|Numb=Sing">Pannychis</w>
     <w ref="25" lemma="noster" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">nostra</w>
     <w ref="25" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>

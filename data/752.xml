@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="171" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="171" lemma="natus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">gnati</w>
     <w ref="171" lemma="apparo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">apparas</w>
-    <w ana="#female #cunnus #womb" ref="172" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uteroque</w>
+    <w ana="#cunnus #female #womb" ref="172" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uteroque</w>
     <w ref="172" lemma="que" pos="CON" msd="MORPH=empty">{uteroque}</w>
     <w ref="172" lemma="proles" pos="NOMcom" msd="Case=Acc|Numb=Sing">prolem</w>
     <w ref="172" lemma="capio2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">capere</w>

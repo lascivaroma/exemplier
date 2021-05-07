@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #composite #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,9 +17,9 @@
         <w lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
         <w lemma="igitur" pos="CONcoo" msd="MORPH=empty">igitur</w>
         <w lemma="tunica" pos="NOMcom" msd="Case=Acc|Numb=Sing">tunicam</w>
-        <w lemma="pars" pos="NOMcom" msd="Case=Dat|Numb=Sing" ana="#male #euphemisms #aidoion">parti</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Dat|Numb=Sing" ana="#aidoion #composite #euphemism #male #mentula">parti</w>
         <w lemma="praetendo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">praetende</w>
-        <w lemma="tego" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass" ana="#male #euphemisms #aidoion">tegendae</w>
+        <w lemma="tego" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass" ana="#aidoion #composite #euphemism #male #mentula">tegendae</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

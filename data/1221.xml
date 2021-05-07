@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #frapper">
+<div type="fragment" ana="#acte #frapper #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="9" lemma="taceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">taces</w>
     <w ref="9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="9" lemma="nocturno" pos="VER" msd="MORPH=empty">nocturne</w>
-    <w ana="#metaphore #acte #frapper" ref="9" lemma="percussor" pos="NOMcom" msd="Case=Nom|Numb=Sing">percussor</w>
+    <w ana="#acte #frapper #metaphore" ref="9" lemma="percussor" pos="NOMcom" msd="Case=Nom|Numb=Sing">percussor</w>
     <w ref="9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="9" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
     <w ref="9" lemma="ne3" pos="ADVneg" msd="MORPH=empty">ne</w>

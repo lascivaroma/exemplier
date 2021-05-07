@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="libet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">libet</w>
         <w lemma="cruciate" pos="VER" msd="MORPH=empty">cruciate</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w lemma="uerecundus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#male #euphemisms #aidoion #mentula">uerecunda</w>
+        <w lemma="uerecundus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#aidoion #euphemism #male #mentula">uerecunda</w>
         <w lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
         <w lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
         <w lemma="nolo" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">nolite</w>

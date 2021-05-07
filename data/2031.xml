@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #pleasure">
+<div type="fragment" ana="#acte #composite #metonymie #pleasure">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,8 +18,8 @@
     <w ref="87" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="87" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
     <w ref="87" lemma="patior" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Dep|Person=3">pateretur</w>
-    <w ana="#acte #metonymie #pleasure" ref="87" lemma="satis1" pos="ADJqua" msd="Deg=Pos">satis</w>
-    <w ana="#acte #metonymie #pleasure" ref="87" lemma="fio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fieri</w>
+    <w ana="#acte #composite #metonymie #pleasure" ref="87" lemma="satis1" pos="ADJqua" msd="Deg=Pos">satis</w>
+    <w ana="#acte #composite #metonymie #pleasure" ref="87" lemma="fio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fieri</w>
     <w ref="87" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
     <w ref="87" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="87" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>

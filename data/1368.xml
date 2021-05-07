@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #devoir #service #passive">
+<div type="fragment" ana="#acte #devoir #metaphore #passive #service">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi0959.phi004.perseus-lat2</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:2.688" type="line">
-    <w ana="#metaphore #acte #devoir #service #passive" ref="2.688" lemma="officium" pos="NOMcom" msd="Case=Nom|Numb=Sing">Officium</w>
+    <w ana="#acte #devoir #metaphore #passive #service" ref="2.688" lemma="officium" pos="NOMcom" msd="Case=Nom|Numb=Sing">Officium</w>
     <w ref="2.688" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">faciat</w>
     <w ref="2.688" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">nulla</w>
     <w ref="2.688" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>

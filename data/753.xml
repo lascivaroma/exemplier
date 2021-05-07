@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="369" lemma="rogo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">rogat</w>
     <w ref="369" lemma="infelix" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">infelix</w>
     <w ref="369" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#female #cunnus #womb" ref="370" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ana="#cunnus #female #womb" ref="370" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
     <w ref="370" lemma="dirus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">dirum</w>
     <w ref="370" lemma="condo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">condat</w>
     <w ref="370" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #anatomie #metaphore #mentula">
+<div type="fragment" ana="#anatomie #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
         <w lemma="incalesco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Incaluit</w>
         <w lemma="quotiens1" pos="ADVrel" msd="MORPH=empty">quotiens</w>
         <w lemma="saucius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">saucia</w>
-        <w lemma="uena" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #anatomie #metaphore #mentula">vena</w>
+        <w lemma="uena" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#anatomie #male #mentula #metaphore">vena</w>
         <w lemma="merum" pos="NOMcom" msd="Case=Abl|Numb=Sing">mero</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

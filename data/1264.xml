@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #agriculture #moudre">
+<div type="fragment" ana="#acte #agriculture #metaphore #moudre">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="82.2" lemma="lambo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">lambere</w>
     <w ref="82.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="82.2" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
-    <w ana="#metaphore #acte #agriculture #moudre" ref="82.2" lemma="molo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">molere</w>
+    <w ana="#acte #agriculture #metaphore #moudre" ref="82.2" lemma="molo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">molere</w>
     <w ref="82.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

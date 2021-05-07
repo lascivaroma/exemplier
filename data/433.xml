@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #foreskin">
+<div type="fragment" ana="#foreskin #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,6 +24,6 @@
         <w lemma="linea" pos="NOMcom" msd="Case=Abl|Numb=Sing">linea</w>
         <w lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
         <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
-        <w ana="#male #foreskin" lemma="frenum" pos="NOMcom" msd="Case=Acc|Numb=Sing">frenum</w>
+        <w ana="#foreskin #male" lemma="frenum" pos="NOMcom" msd="Case=Acc|Numb=Sing">frenum</w>
     </quote>
  </div>

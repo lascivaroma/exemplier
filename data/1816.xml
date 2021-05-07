@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #fututio #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:22.22" type="chapter">
     <w ref="22.22" lemma="mulier" pos="NOMcom" msd="Case=Acc|Numb=Plur">mulieres</w>
-    <w ana="#acte #metonymie #amo #futuo" ref="22.22" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
+    <w ana="#acte #amo #fututio #metonymie" ref="22.22" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
     <w ref="22.22" lemma="auidus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Sup">avidissimas</w>
     <w ref="22.22" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Plur">virosque</w>
     <w ref="22.22" lemma="que" pos="CON" msd="MORPH=empty">{virosque}</w>

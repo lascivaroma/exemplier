@@ -1,4 +1,4 @@
-<div type="fragment" ana="#caves #culus #metaphore #male">
+<div type="fragment" ana="#caves #culus #male #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="luteus2" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">luteae</w>
         <w lemma="Symplegas" pos="NOMpro" msd="Case=Gen|Numb=Sing">Symplegadis</w>
-        <w ana="#caves #culus" lemma="antrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">antrum</w>
+        <w ana="#caves #culus #male #metaphore" lemma="antrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">antrum</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

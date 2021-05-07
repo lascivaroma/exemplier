@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #proprieteprivee #metaphore #mentula">
+<div type="fragment" ana="#male #mentula #metaphore #proprietePrivee">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat1:8.3">
         <w lemma="profero" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">prolatoque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{prolatoque}</w>
-        <w lemma="peculium" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #proprieteprivee #metaphore #mentula">peculio</w>
+        <w lemma="peculium" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #mentula #metaphore #proprietePrivee">peculio</w>
         <w lemma="coepio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">coepit</w>
         <w lemma="rogo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">rogare</w>
         <w lemma="stuprum" pos="NOMcom" msd="Case=Acc|Numb=Sing">stuprum</w>

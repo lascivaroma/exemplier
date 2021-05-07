@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #couper #tailler">
+<div type="fragment" ana="#acte #couper #desir #metaphore #tailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -38,7 +38,7 @@
     <w ref="7.21" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
     <w ref="7.21" lemma="compauitus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem">compavita</w>
     <w ref="7.21" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
-    <w ana="#metaphore #acte #couper #tailler #desir" ref="7.21" lemma="dirumpo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">dirupta</w>
+    <w ana="#acte #couper #desir #metaphore #tailler" ref="7.21" lemma="dirumpo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">dirupta</w>
     <w ref="7.21" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ipsa</w>
     <w ref="7.21" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
     <w ref="7.21" lemma="cruciabilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">cruciabilem</w>

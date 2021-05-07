@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #anatomie #metaphore #mentula">
+<div type="fragment" ana="#anatomie #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="rigidus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Fem|Deg=Pos">rigida</w>
         <w lemma="pulso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">pulsabis</w>
         <w lemma="pallium" pos="NOMcom" msd="Case=Acc|Numb=Plur">pallia</w>
-        <w lemma="uena" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #anatomie">vena</w>
+        <w lemma="uena" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#anatomie #male #mentula #metaphore">vena</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">Sis</w>
         <w lemma="grauis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">gravior</w>

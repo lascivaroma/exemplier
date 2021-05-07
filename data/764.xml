@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #clitoris">
+<div type="fragment" ana="#clitoris #cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="6.129" lemma="rigidus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">rigidae</w>
     <w ref="6.129" lemma="tentigo" pos="NOMcom" msd="Case=Abl|Numb=Sing">tentigine</w>
     <w ref="6.129" lemma="ne2" pos="ADV" msd="MORPH=empty">{tentigine}</w>
-    <w ana="#female #cunnus #womb" ref="6.129" lemma="uolua" pos="NOMcom" msd="Case=Gen|Numb=Sing">volvae</w>
+    <w ana="#clitoris #cunnus #female #womb" ref="6.129" lemma="uolua" pos="NOMcom" msd="Case=Gen|Numb=Sing">volvae</w>
     <w ref="6.129" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="6.130" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="6.130" lemma="lasso" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">lassata</w>

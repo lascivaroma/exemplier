@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #futuo">
+<div type="fragment" ana="#acte #fututio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -38,7 +38,7 @@
     <w ref="1.73.3" lemma="custos" pos="NOMcom" msd="Case=Abl|Numb=Plur">custodibus</w>
     <w ref="1.73.3" lemma="ingens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">ingens</w>
     <w ref="1.73.4" lemma="turba" pos="NOMcom" msd="Case=Nom|Numb=Sing">Turba</w>
-    <w ana="#acte #futuo" ref="1.73.4" lemma="futuo" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=MascNeut">fututorum</w>
+    <w ana="#acte #fututio" ref="1.73.4" lemma="futuo" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=MascNeut">fututorum</w>
     <w ref="1.73.4" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="1.73.4" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="1.73.4" lemma="ingeniosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">ingeniosus</w>

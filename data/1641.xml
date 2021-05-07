@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="106.5" lemma="lasciuus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">lascivos</w>
     <w ref="106.5" lemma="meretrix" pos="NOMcom" msd="Case=Gen|Numb=Plur">meretricum</w>
     <w ref="106.5" lemma="imitor" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Pres|Voice=Dep">imitantia</w>
-    <w ana="#acte #metonymie #coeo" ref="106.5" lemma="coetus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coetus</w>
+    <w ana="#acte #coeo #metonymie" ref="106.5" lemma="coetus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coetus</w>
     <w ref="106.6" lemma="uibro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vibrat</w>
   </quote>
 </div>

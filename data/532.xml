@@ -18,7 +18,7 @@
         <w lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
         <w lemma="ullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">ulla</w>
         <w lemma="nego" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">negaverit</w>
-        <w ana="#excitation" lemma="udus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">udis</w>
+        <w ana="#excitation #female" lemma="udus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">udis</w>
         <w lemma="inguen" pos="NOMcom" msd="Case=Dat|Numb=Plur">inguinibus</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="siue2" pos="CONsub" msd="MORPH=empty">sive</w>

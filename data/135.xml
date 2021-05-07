@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #specialisation #euphemism #vagin">
+<div type="fragment" ana="#euphemism #female #specialisation #vagina">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:stoa0085d.stoa001</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0085d.stoa001:177">
-        <w lemma="corpus" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#female #specialisation #euphemism #vagin">corpus</w>
+        <w lemma="corpus" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#euphemism #female #specialisation #vagina">corpus</w>
         <w lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=Fem">earum</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>

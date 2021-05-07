@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #chevaucher #course">
+<div type="fragment" ana="#acte #chevaucher #course #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="430" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">Viderat</w>
     <w ref="430" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="430" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-    <w ana="#metaphore #acte #chevaucher #course" ref="430" lemma="cursus" pos="NOMcom" msd="Case=Abl|Numb=Sing">cursu</w>
+    <w ana="#acte #chevaucher #course #metaphore" ref="430" lemma="cursus" pos="NOMcom" msd="Case=Abl|Numb=Sing">cursu</w>
     <w ref="430" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
     <w ref="430" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
     <w ref="430" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

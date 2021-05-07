@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #copulation #desir #castration">
+<div type="fragment" ana="#adjoiningParts #castration #copulation #desir #euphemism #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="distorqueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">distorquet</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="alius" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Masc">alium</w>
-        <w lemma="delumbo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3" ana="#male #euphemisms #voisinage #copulation #desir #castration">delumbat</w>
+        <w lemma="delumbo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3" ana="#adjoiningParts #castration #copulation #desir #euphemism #male">delumbat</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

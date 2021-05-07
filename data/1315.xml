@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #lutter #sebattre">
+<div type="fragment" ana="#acte #lutter #metaphore #seBattre">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="2.15.4" lemma="que" pos="CON" msd="MORPH=empty">{quantaque}</w>
     <w ref="2.15.4" lemma="tollo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">sublato</w>
     <w ref="2.15.4" lemma="lumen" pos="NOMcom" msd="Case=Abl|Numb=Sing">lumine</w>
-    <w ana="#metaphore #acte #lutter #sebattre" ref="2.15.4" lemma="rixa" pos="NOMcom" msd="Case=Nom|Numb=Sing">rixa</w>
+    <w ana="#acte #lutter #metaphore #seBattre" ref="2.15.4" lemma="rixa" pos="NOMcom" msd="Case=Nom|Numb=Sing">rixa</w>
     <w ref="2.15.4" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
     <w ref="2.15.4" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
   </quote>

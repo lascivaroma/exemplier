@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #enter">
+<div type="fragment" ana="#acte #enter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="69" lemma="lex" pos="NOMcom" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=2">leges</w>
     <w ref="69" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="69" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
-    <w ana="#acte #metonymie #enter" ref="69" lemma="ineo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2">inieris</w>
+    <w ana="#acte #enter #metonymie" ref="69" lemma="ineo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2">inieris</w>
     <w ref="69" lemma="Tertulla" pos="NOMpro" msd="Case=Acc|Numb=Sing">Tertullam</w>
     <w ref="69" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
     <w ref="69" lemma="Terentilla" pos="NOMpro" msd="Case=Acc|Numb=Sing">Terentillam</w>

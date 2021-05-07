@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #manger #manger_des_yeux">
+<div type="fragment" ana="#acte #manger #mangerDesYeux #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -36,7 +36,7 @@
     <w ref="9.59.3" lemma="puer" pos="NOMcom" msd="Case=Acc|Numb=Plur">pueros</w>
     <w ref="9.59.3" lemma="oculus" pos="NOMcom" msd="Case=Abl|Numb=Plur">oculisque</w>
     <w ref="9.59.3" lemma="que" pos="CON" msd="MORPH=empty">{oculisque}</w>
-    <w ana="#metaphore #acte #manger #manger_des_yeux" ref="9.59.3" lemma="comedo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">comedit</w>
+    <w ana="#acte #manger #mangerDesYeux #metaphore" ref="9.59.3" lemma="comedo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">comedit</w>
     <w ref="9.59.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="9.59.4" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
     <w ref="9.59.4" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Masc">hos</w>

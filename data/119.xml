@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+<div type="fragment" ana="#composite #euphemism #male #mentula #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,9 +15,9 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:9.1">
         <w lemma="cur" pos="ADVint" msd="MORPH=empty">Cur</w>
-        <w lemma="obscenus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" ana="#male #specialisation #euphemism #mentula">obscena</w>
+        <w lemma="obscenus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" ana="#composite #euphemism #male #mentula #specialisation">obscena</w>
         <w lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
-        <w lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #specialisation #euphemism #mentula">pars</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#composite #euphemism #male #mentula #specialisation">pars</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
         <w lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
         <w lemma="uestis" pos="NOMcom" msd="Case=Abl|Numb=Sing">ueste</w>

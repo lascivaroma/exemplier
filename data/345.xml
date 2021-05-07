@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #misc">
+<div type="fragment" ana="#divers #male #penis">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="quod2" pos="CONsub" msd="Numb=Sing">quod</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">sis</w>
-        <w ana="#male #penis" lemma="fascinum" pos="NOMcom" msd="Case=Abl|Numb=Sing">fascino</w>
+        <w ana="#divers #male #penis" lemma="fascinum" pos="NOMcom" msd="Case=Abl|Numb=Sing">fascino</w>
         <w lemma="grauis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">grauis</w>
         <w lemma="tendo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">tento</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

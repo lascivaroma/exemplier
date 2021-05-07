@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #know">
+<div type="fragment" ana="#acte #composite #know #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,8 +19,8 @@
     <w ref="6.21.5" lemma="uero4" pos="CONcoo" msd="Deg=Pos">vero</w>
     <w ref="6.21.5" lemma="uicesimus" pos="ADJord" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">vicesimum</w>
     <w ref="6.21.5" lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Sing">feminae</w>
-    <w ana="#acte #metonymie #know" ref="6.21.5" lemma="notitia" pos="NOMcom" msd="Case=Acc|Numb=Sing">notitiam</w>
-    <w ana="#acte #metonymie #know" ref="6.21.5" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">habuisse</w>
+    <w ana="#acte #composite #know #metonymie" ref="6.21.5" lemma="notitia" pos="NOMcom" msd="Case=Acc|Numb=Sing">notitiam</w>
+    <w ana="#acte #composite #know #metonymie" ref="6.21.5" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">habuisse</w>
     <w ref="6.21.5" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="6.21.5" lemma="turpis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Sup">turpissimis</w>
     <w ref="6.21.5" lemma="habeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habent</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #have #orgasm">
+<div type="fragment" ana="#acte #have #metonymie #orgasme">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -31,7 +31,7 @@
     <w ref="46.11" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
     <w ref="46.11" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="46.11" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">esset</w>
-    <w ana="#acte #metonymie #have #orgasm" ref="46.11" lemma="potior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">potitus</w>
+    <w ana="#acte #have #metonymie #orgasme" ref="46.11" lemma="potior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">potitus</w>
     <w ref="46.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
   </quote>
 </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -31,8 +31,8 @@
     <w ref="1.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.21" lemma="uinolentia" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">vinolentia</w>
     <w ref="1.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #amo" ref="1.21" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
-    <w ana="#acte #metonymie #amo" ref="1.21" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">venerio</w>
+    <w ana="#acte #amo #composite #metonymie" ref="1.21" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ana="#acte #amo #composite #metonymie" ref="1.21" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">venerio</w>
     <w ref="1.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.21" lemma="iracundia" pos="NOMcom" msd="Case=Abl|Numb=Sing">iracundia</w>
     <w ref="1.21" lemma="custodio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">custodiantur</w>

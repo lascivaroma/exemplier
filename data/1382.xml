@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #chevaucher #femme #effeminé">
+<div type="fragment" ana="#acte #chevaucher #effeminé #femme #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,6 +17,6 @@
     <w ref="2.17" lemma="super2" pos="PRE" msd="MORPH=empty">super</w>
     <w ref="2.17" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
     <w ref="2.17" lemma="sessim" pos="ADV" msd="Deg=Pos">sessim</w>
-    <w ana="#metaphore #acte #chevaucher #femme #effeminé" ref="2.17" lemma="resideo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">residens</w>
+    <w ana="#acte #chevaucher #effeminé #femme #metaphore" ref="2.17" lemma="resideo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">residens</w>
   </quote>
 </div>

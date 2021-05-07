@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -43,7 +43,7 @@
     <w ref="IV.3" lemma="aegroto" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">aegrotantis</w>
     <w ref="IV.3" lemma="spongia" pos="NOMcom" msd="Case=Gen|Numb=Sing">spongiae</w>
     <w ref="IV.3" lemma="commodo1" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">commodandae</w>
-    <w ana="#anus #culus" ref="IV.3" lemma="podicus" pos="NOMcom" msd="Case=Gen|Numb=Sing">podici</w>
+    <w ana="#culus" ref="IV.3" lemma="podicus" pos="NOMcom" msd="Case=Gen|Numb=Sing">podici</w>
     <w ref="IV.3" lemma="exprimo" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">expressae</w>
     <w ref="IV.3" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
     <w ref="IV.3" lemma="decoctio" pos="NOMcom" msd="Case=Abl|Numb=Sing">decoctione</w>

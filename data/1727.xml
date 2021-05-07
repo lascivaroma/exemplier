@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #metonymie #acte #embrace">
+<div type="fragment" ana="#acte #embrace #male #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -35,7 +35,7 @@
     <w ref="1.18" lemma="opprimo" pos="VER" msd="Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">obpressa</w>
     <w ref="1.18" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="1.18" lemma="alienus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">alieno</w>
-    <w ana="#acte #male #metonymie #acte #embrace" ref="1.18" lemma="comprimo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">conpressa</w>
+    <w ana="#acte #embrace #male #metonymie" ref="1.18" lemma="comprimo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">conpressa</w>
     <w ref="1.18" lemma="peccatum" pos="NOMcom" msd="Case=Abl|Numb=Sing">peccato</w>
     <w ref="1.18" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     <w ref="1.18" lemma="quanto1" pos="ADVrel" msd="MORPH=empty">quanto</w>

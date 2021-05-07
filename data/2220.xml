@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals">
+<div type="fragment" ana="#acte #animal">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="23" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="24" lemma="alius" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">alia</w>
     <w ref="24" lemma="alius" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">aliam</w>
-    <w ana="#acte #animals" ref="24" lemma="scando" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">scandit</w>
+    <w ana="#acte #animal" ref="24" lemma="scando" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">scandit</w>
     <w ref="24" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

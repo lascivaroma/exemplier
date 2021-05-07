@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #res">
+<div type="fragment" ana="#culus #male #res">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
         <w lemma="do" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dare</w>
         <w lemma="masculus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">mascula</w>
         <w lemma="nomen" pos="NOMcom" msd="Case=Acc|Numb=Plur">nomina</w>
-        <w ana="#male #culus" lemma="res" pos="NOMcom" msd="Case=Dat|Numb=Plur">rebus</w>
+        <w ana="#culus #male #res" lemma="res" pos="NOMcom" msd="Case=Dat|Numb=Plur">rebus</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

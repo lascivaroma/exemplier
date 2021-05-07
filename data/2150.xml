@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #violence #irrumatio">
+<div type="fragment" ana="#acte #irrumatio #metonymie #violence">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="35" lemma="mors" pos="NOMcom" msd="Case=Acc|Numb=Sing">mortem</w>
     <w ref="35" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
     <w ref="35" lemma="uis" pos="NOMcom" msd="Case=Acc|Numb=Sing">uim</w>
-    <w ana="#acte #metonymie #violence #irrumatio" ref="35" lemma="conspurco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">conspurcasset</w>
+    <w ana="#acte #irrumatio #metonymie #violence" ref="35" lemma="conspurco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">conspurcasset</w>
     <w ref="35" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="35" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
     <w ref="35" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">eat</w>

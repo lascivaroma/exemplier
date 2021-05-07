@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #voisinage #womb">
+<div type="fragment" ana="#adjoiningParts #cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="2.128" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
     <w ref="2.128" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="2.128" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
-    <w ana="#female #cunnus #voisinage #womb" ref="2.128" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ana="#adjoiningParts #cunnus #female #womb" ref="2.128" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
     <w ref="2.128" lemma="elabor2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Dep">elapsum</w>
     <w ref="2.128" lemma="excido1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">excidit</w>
     <w ref="2.128" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #mentula">
+<div type="fragment" ana="#adjoiningParts #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
         <w lemma="iocosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">iocosa</w>
         <w lemma="mollis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">molle</w>
         <w lemma="rumpo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">ruperit</w>
-        <w lemma="latus1" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #euphemisms #voisinage #mentula">latus</w>
+        <w lemma="latus1" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#adjoiningParts #euphemism #male #mentula">latus</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

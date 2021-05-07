@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #bouche">
+<div type="fragment" ana="#bouche #male #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
         <w lemma="barbatus2" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">barbatis</w>
         <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
         <w lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
-        <w lemma="summum1" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #specialisation #bouche">summa</w>
+        <w lemma="summum1" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#bouche #male #specialisation">summa</w>
         <w lemma="peto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">petet</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

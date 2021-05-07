@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #medical #metaphore #mentula">
+<div type="fragment" ana="#male #medicale #mentula #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="11.60.3" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
     <w ref="11.60.3" lemma="tendo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tendere</w>
     <w ref="11.60.3" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possit</w>
-    <w ana="#male #medical #metaphore #mentula" ref="11.60.3" lemma="aluta2" pos="NOMcom" msd="Case=Acc|Numb=Sing">alutam</w>
+    <w ana="#male #medicale #mentula #metaphore" ref="11.60.3" lemma="aluta2" pos="NOMcom" msd="Case=Acc|Numb=Sing">alutam</w>
     <w ref="11.60.4" lemma="qui" pos="PROrel" msd="MORPH=empty">Quodque</w>
     <w ref="11.60.4" lemma="que" pos="CON" msd="MORPH=empty">{Quodque}</w>
     <w ref="11.60.4" lemma="senex2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem">senem</w>

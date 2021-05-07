@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -43,7 +43,7 @@
     <w ref="14.35" lemma="que" pos="CON" msd="MORPH=empty">{perfossasque}</w>
     <w ref="14.35" lemma="uates" pos="NOMcom" msd="Case=Nom|Numb=Plur">uates</w>
     <w ref="14.35" lemma="uicinus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">vicino</w>
-    <w ana="#anus #culus" ref="14.35" lemma="podex" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
+    <w ana="#culus" ref="14.35" lemma="podex" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
     <w ref="14.35" lemma="nudo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">nudat</w>
     <w ref="14.35" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

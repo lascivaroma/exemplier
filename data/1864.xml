@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,8 +23,8 @@
     <w ref="V.8" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
     <w ref="V.8" lemma="sequor" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">sequi</w>
     <w ref="V.8" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-    <w ana="#acte #metonymie #amo" ref="V.8" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
-    <w ana="#acte #metonymie #amo" ref="V.8" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerio</w>
+    <w ana="#acte #amo #composite #metonymie" ref="V.8" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ana="#acte #amo #composite #metonymie" ref="V.8" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerio</w>
     <w ref="V.8" lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>
     <w ref="V.8" lemma="semen1" pos="NOMcom" msd="Case=Abl|Numb=Sing">semine</w>
     <w ref="V.8" lemma="sanguis" pos="NOMcom" msd="Case=Gen|Numb=Sing">sanguinis</w>

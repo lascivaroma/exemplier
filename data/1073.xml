@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #futuo #actor">
+<div type="fragment" ana="#acte #actor #fututio #male">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -39,7 +39,7 @@
     <w ref="7.18.3" lemma="cupio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">cupiat</w>
     <w ref="7.18.3" lemma="repeto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">repetatque</w>
     <w ref="7.18.3" lemma="que" pos="CON" msd="MORPH=empty">{repetatque}</w>
-    <w ana="#acte #male #futuo #actor" ref="7.18.3" lemma="fututor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fututor</w>
+    <w ana="#acte #actor #fututio #male" ref="7.18.3" lemma="fututor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fututor</w>
     <w ref="7.18.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="7.18.4" lemma="miror" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2">Miraris</w>
     <w ref="7.18.4" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>

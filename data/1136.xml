@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #fellatio #acte">
+<div type="fragment" ana="#acte #fellatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="59.1" lemma="bononiensis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">Bononiensis</w>
     <w ref="59.1" lemma="rufa" pos="NOMcom" msd="Case=Nom|Numb=Sing">Rufa</w>
     <w ref="59.1" lemma="rufulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">Rufulum</w>
-    <w ana="#acte #fellatio #acte" ref="59.1" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fellat</w>
+    <w ana="#acte #fellatio" ref="59.1" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fellat</w>
     <w ref="59.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="59.2" lemma="uxor" pos="NOMcom" msd="Case=Nom|Numb=Sing">uxor</w>
     <w ref="59.2" lemma="menen" pos="NOMcom" msd="Case=Gen|Numb=Sing">Meneni</w>

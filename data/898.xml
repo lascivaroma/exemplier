@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -42,7 +42,7 @@
     <w ref="8.5" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
     <w ref="8.5" lemma="aridus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">aridas</w>
     <w ref="8.5" lemma="natus2" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com">natis</w>
-    <w ana="#anus #culus" ref="8.6" lemma="podex" pos="NOMcom" msd="Case=Nom|Numb=Sing">podex</w>
+    <w ana="#culus" ref="8.6" lemma="podex" pos="NOMcom" msd="Case=Nom|Numb=Sing">podex</w>
     <w ref="8.6" lemma="uelut1" pos="ADVrel" msd="MORPH=empty">velut</w>
     <w ref="8.6" lemma="crudus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">crudae</w>
     <w ref="8.6" lemma="bos" pos="NOMcom" msd="Case=Gen|Numb=Sing">bovis</w>

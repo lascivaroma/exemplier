@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #manger">
+<div type="fragment" ana="#acte #manger #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
     <w ref="28.12" lemma="nihilum" pos="NOMcom" msd="Case=Abl|Numb=Sing">nihilo</w>
     <w ref="28.12" lemma="paruus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Comp">minore</w>
     <w ref="28.12" lemma="uerpa" pos="NOMcom" msd="Case=Nom|Numb=Plur">verpa</w>
-    <w ana="#metaphore #acte #manger" ref="28.13" lemma="farcio" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">farti</w>
+    <w ana="#acte #manger #metaphore" ref="28.13" lemma="farcio" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">farti</w>
     <w ref="28.13" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">estis</w>
     <w ref="28.13" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

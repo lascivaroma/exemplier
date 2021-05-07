@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #oral">
+<div type="fragment" ana="#acte #composite #oral">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,8 +21,8 @@
     <w ref="8.19" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
     <w ref="8.19" lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Sing">inguine</w>
     <w ref="8.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #oral" ref="8.20" lemma="os1" pos="NOMcom" msd="Case=Abl|Numb=Sing">ore</w>
-    <w ana="#acte #oral" ref="8.20" lemma="allaboro" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">adlaborandum</w>
+    <w ana="#acte #composite #oral" ref="8.20" lemma="os1" pos="NOMcom" msd="Case=Abl|Numb=Sing">ore</w>
+    <w ana="#acte #composite #oral" ref="8.20" lemma="allaboro" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">adlaborandum</w>
     <w ref="8.20" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="8.20" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
     <w ref="8.20" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

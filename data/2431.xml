@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #nautique">
+<div type="fragment" ana="#mentula #metaphore #nautique #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="124" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
     <w ref="124" lemma="requies" pos="NOMcom" msd="Case=Nom|Numb=Sing">requies</w>
     <w ref="124" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
-    <w ana="#mentula #metaphore #pointu #nautique" ref="124" lemma="clauus" pos="NOMcom" msd="Case=Acc|Numb=Sing">clavumque</w>
+    <w ana="#mentula #metaphore #nautique #pointu" ref="124" lemma="clauus" pos="NOMcom" msd="Case=Acc|Numb=Sing">clavumque</w>
     <w ref="124" lemma="que" pos="CON" msd="MORPH=empty">{clavumque}</w>
     <w ref="124" lemma="affigo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">adfixus</w>
     <w ref="124" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>

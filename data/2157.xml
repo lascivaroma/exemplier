@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #insulter">
+<div type="fragment" ana="#acte #insulter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="15.72" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
     <w ref="15.72" lemma="mater" pos="NOMcom" msd="Case=Dat|Numb=Sing">matri</w>
     <w ref="15.72" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
-    <w ana="#acte #metonymie #insulter" ref="15.72" lemma="illudo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">inlusit</w>
+    <w ana="#acte #insulter #metonymie" ref="15.72" lemma="illudo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">inlusit</w>
     <w ref="15.73" lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
     <w ref="15.73" lemma="Nero" pos="NOMpro" msd="Case=Nom|Numb=Sing">Nero</w>
     <w ref="15.73" lemma="uoco" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">vocato</w>

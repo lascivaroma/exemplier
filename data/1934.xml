@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #enter">
+<div type="fragment" ana="#acte #enter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="1.5.3" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Plur">uiris</w>
     <w ref="1.5.3" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="1.5.3" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Plur">uiros</w>
-    <w ana="#acte #metonymie #enter" ref="1.5.3" lemma="irruo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">irruentibus</w>
+    <w ana="#acte #enter #metonymie" ref="1.5.3" lemma="irruo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">irruentibus</w>
     <w ref="1.5.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.5.3" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
     <w ref="1.5.3" lemma="ob" pos="PRE" msd="MORPH=empty">ob</w>

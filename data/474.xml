@@ -1,4 +1,4 @@
-<div type="fragment" ana="#fossa #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #female #fossa #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
         <w lemma="nescio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">Nescio</w>
         <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
-        <w ana="#fossa" lemma="piscina" pos="NOMcom" msd="Case=Acc|Numb=Sing">piscinam</w>
+        <w ana="#cunnus #female #fossa #metaphore" lemma="piscina" pos="NOMcom" msd="Case=Acc|Numb=Sing">piscinam</w>
         <w lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
         <w lemma="futuo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">futuisse</w>
         <w lemma="puto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">puto</w>

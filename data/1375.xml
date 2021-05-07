@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #devoir #service">
+<div type="fragment" ana="#acte #devoir #metaphore #service">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="25" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="25" lemma="noster" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=MascNeut">nostrum</w>
     <w ref="25" lemma="disco" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">discite</w>
-    <w ana="#metaphore #acte #devoir #service" ref="25" lemma="munus" pos="NOMcom" msd="Case=Acc|Numb=Sing">munus</w>
+    <w ana="#acte #devoir #metaphore #service" ref="25" lemma="munus" pos="NOMcom" msd="Case=Acc|Numb=Sing">munus</w>
     <w ref="25" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

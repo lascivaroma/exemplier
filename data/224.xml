@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #voisinage #reproduction">
+<div type="fragment" ana="#adjoiningParts #euphemism #reproduction">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:87.5">
         <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
         <w lemma="uallis" pos="NOMcom" msd="Case=Abl|Numb=Sing">valle</w>
-        <w lemma="femur" pos="NOMcom" msd="Case=Gen|Numb=Plur" ana="#euphemisms #voisinage #reproduction">femorum</w>
+        <w lemma="femur" pos="NOMcom" msd="Case=Gen|Numb=Plur" ana="#adjoiningParts #euphemism #reproduction">femorum</w>
         <w lemma="altrinsecus" pos="ADV" msd="Deg=Pos">altrinsecus</w>
         <w lemma="par2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">pares</w>
         <w lemma="ruga" pos="NOMcom" msd="Case=Acc|Numb=Plur">rugas</w>

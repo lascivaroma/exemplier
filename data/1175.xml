@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #manger">
+<div type="fragment" ana="#acte #manger #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="6.276" lemma="fletus" pos="NOMcom" msd="Case=Acc|Numb=Sing">fletumque</w>
     <w ref="6.276" lemma="que" pos="CON" msd="MORPH=empty">{fletumque}</w>
     <w ref="6.276" lemma="labellum1" pos="NOMcom" msd="Case=Dat|Numb=Plur">labellis</w>
-    <w ana="#metaphore #acte #manger" ref="6.277" lemma="exorbes" pos="NOMcom" msd="Numb=Sing|Person=2">exorbes</w>
+    <w ana="#acte #manger #metaphore" ref="6.277" lemma="exorbes" pos="NOMcom" msd="Numb=Sing|Person=2">exorbes</w>
     <w ref="6.277" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="6.277" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
     <w ref="6.277" lemma="scriptum" pos="VER" msd="Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">scripta</w>

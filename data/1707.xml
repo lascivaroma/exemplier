@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #metonymie #acte #embrace">
+<div type="fragment" ana="#acte #embrace #male #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -45,7 +45,7 @@
     <w ref="688" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="689" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
     <w ref="689" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
-    <w ana="#acte #male #metonymie #acte #embrace" ref="689" lemma="comprimo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">cómpressisse</w>
+    <w ana="#acte #embrace #male #metonymie" ref="689" lemma="comprimo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">cómpressisse</w>
     <w ref="689" lemma="uinulentus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">vinulentum</w>
     <w ref="689" lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Sing">virginem</w>
     <w ref="689" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

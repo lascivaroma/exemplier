@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #consequences">
+<div type="fragment" ana="#acte #consequences #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -32,7 +32,7 @@
     <w ref="XXIII.3" lemma="noctu" pos="ADV" msd="Deg=Pos">noctu</w>
     <w ref="XXIII.3" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="XXIII.3" lemma="antrum" pos="NOMcom" msd="Case=Abl|Numb=Sing">antro</w>
-    <w ana="#acte #metonymie #consequences" ref="XXIII.3" lemma="deuirgino" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">deuirginauit</w>
+    <w ana="#acte #consequences #metonymie" ref="XXIII.3" lemma="deuirgino" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">deuirginauit</w>
     <w ref="XXIII.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

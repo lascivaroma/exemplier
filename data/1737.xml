@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rub #cunnilingus">
+<div type="fragment" ana="#acte #cunnilingus #metonymie #rub">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="9.4" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
     <w ref="9.4" lemma="Rhodope" pos="NOMpro" msd="Case=Nom|Numb=Sing">Rhodopes</w>
     <w ref="9.4" lemma="udus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">uda</w>
-    <w ana="#acte #metonymie #rub #cunnilingus" ref="9.4" lemma="tero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">terit</w>
+    <w ana="#acte #cunnilingus #metonymie #rub" ref="9.4" lemma="tero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">terit</w>
     <w ref="9.4" lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur">inguina</w>
     <w ref="9.4" lemma="barba" pos="NOMcom" msd="Case=Abl|Numb=Sing">barba</w>
     <w ref="9.4" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>

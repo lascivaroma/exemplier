@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #concomitant">
+<div type="fragment" ana="#acte #concomitant #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="3.14.20" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="3.14.20" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="3.14.20" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-    <w ana="#acte #metonymie #concomitant" ref="3.14.20" lemma="lectus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">lecto</w>
+    <w ana="#acte #concomitant #metonymie" ref="3.14.20" lemma="lectus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">lecto</w>
     <w ref="3.14.20" lemma="crimen" pos="NOMcom" msd="Case=Acc|Numb=Plur">crimina</w>
     <w ref="3.14.20" lemma="pono" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">pone</w>
     <w ref="3.14.20" lemma="tuus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">tuo</w>

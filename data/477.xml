@@ -1,4 +1,4 @@
-<div type="fragment" ana="#household #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #female #household #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,7 +29,7 @@
         <w lemma="procul" pos="ADV" msd="Deg=Pos">procul</w>
         <w lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
         <w lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">meo</w>
-        <w ana="#household" lemma="foculus" pos="NOMcom" msd="Case=Abl|Numb=Sing">foculo</w>
+        <w ana="#cunnus #female #household #metaphore" lemma="foculus" pos="NOMcom" msd="Case=Abl|Numb=Sing">foculo</w>
         <w lemma="discedo1" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">discede</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

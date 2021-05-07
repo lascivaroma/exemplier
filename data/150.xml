@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #erection  #euphemism">
+<div type="fragment" ana="#composite #erection #euphemism #male #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,10 +17,10 @@
         <w lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Neut">haec</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
         <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
-        <w lemma="arrigo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass" ana="#male #specialisation #erection">arrectos</w>
+        <w lemma="arrigo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass" ana="#composite #erection #euphemism #male #specialisation">arrectos</w>
         <w lemma="uerbum" pos="NOMcom" msd="Case=Nom|Numb=Plur">uerba</w>
         <w lemma="loquor" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">locuta</w>
-        <w lemma="procus" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #specialisation #erection">procos</w>
+        <w lemma="procus" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#composite #erection #euphemism #male #specialisation">procos</w>
         <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     </quote>
  </div>

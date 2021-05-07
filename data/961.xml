@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #topographique #culus #anus">
+<div type="fragment" ana="#culus #metaphore #topographique">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -43,7 +43,7 @@
     <w ref="106.9" lemma="humerus" pos="NOMcom" msd="Case=Acc|Numb=Plur">umeros</w>
     <w ref="106.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="106.9" lemma="luteus2" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">luteae</w>
-    <w ana="#metaphore #topographique #culus #anus" ref="106.9" lemma="symplegas" pos="NOMcom" msd="Case=Gen|Numb=Sing">Symplegadis</w>
+    <w ana="#culus #metaphore #topographique" ref="106.9" lemma="symplegas" pos="NOMcom" msd="Case=Gen|Numb=Sing">Symplegadis</w>
     <w ref="106.9" lemma="antrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">antrum</w>
     <w ref="106.9" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

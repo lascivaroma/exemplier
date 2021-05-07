@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #descriptive-functional #euphemism #mentula">
+<div type="fragment" ana="#descriptiveFunctional #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
         <w lemma="aegroto" pos="VER" msd="Case=Acc|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">aegrotantes</w>
         <w lemma="uehemens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">uehemens</w>
-        <w lemma="genitalis" pos="NOMcom" msd="Case=Gen|Numb=Plur" ana="#male #descriptive-functional">genitalium</w>
+        <w lemma="genitalis" pos="NOMcom" msd="Case=Gen|Numb=Plur" ana="#descriptiveFunctional #euphemism #male #mentula">genitalium</w>
         <w lemma="tentigo" pos="NOMcom" msd="Case=Nom|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act">tentigo</w>
     </quote>
  </div>

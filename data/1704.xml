@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #metonymie #acte #embrace">
+<div type="fragment" ana="#acte #embrace #male #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="29" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
     <w ref="29" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
     <w ref="29" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>
-    <w ana="#acte #male #metonymie #acte #embrace" ref="29" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">compresserit</w>
+    <w ana="#acte #embrace #male #metonymie" ref="29" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">compresserit</w>
     <w ref="29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="30" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
     <w ref="30" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">illum</w>

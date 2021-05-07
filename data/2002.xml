@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #consequences">
+<div type="fragment" ana="#acte #consequences #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="XXXIII.1" lemma="que" pos="CON" msd="MORPH=empty">{eiusque}</w>
     <w ref="XXXIII.1" lemma="filia" pos="NOMcom" msd="Case=Acc|Numb=Sing">filiam</w>
     <w ref="XXXIII.1" lemma="Deianira" pos="NOMpro" msd="Case=Acc|Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act">Deianiram</w>
-    <w ana="#acte #metonymie #consequences" ref="XXXIII.1" lemma="deuirgino" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">deuirginasset</w>
+    <w ana="#acte #consequences #metonymie" ref="XXXIII.1" lemma="deuirgino" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">deuirginasset</w>
     <w ref="XXXIII.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
   </quote>
 </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="2.62.4" lemma="qui1" pos="PROint" msd="Case=Dat|Numb=Sing|Gend=Com">Cui</w>
     <w ref="2.62.4" lemma="praesto1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">praestas</w>
     <w ref="2.62.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#anus #culus" ref="2.62.4" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Sing">culum</w>
+    <w ana="#culus" ref="2.62.4" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Sing">culum</w>
     <w ref="2.62.4" lemma="qui1" pos="PROrel" msd="Numb=Sing|Gend=Neut">quod</w>
     <w ref="2.62.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.62.4" lemma="labienus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Labiene</w>

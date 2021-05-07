@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #joke #jeu">
+<div type="fragment" ana="#acte #jeu #joke #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="022.2" lemma="cupidineus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">Cupidineos</w>
     <w ref="022.2" lemma="disco" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">discite</w>
     <w ref="022.2" lemma="fero" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ferre</w>
-    <w ana="#metaphore #acte #joke #jeu" ref="022.2" lemma="iocus" pos="NOMcom" msd="Case=Acc|Numb=Plur">iocos</w>
+    <w ana="#acte #jeu #joke #metaphore" ref="022.2" lemma="iocus" pos="NOMcom" msd="Case=Acc|Numb=Plur">iocos</w>
     <w ref="022.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

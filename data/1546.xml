@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rester_avec">
+<div type="fragment" ana="#acte #metonymie #resterAvec">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -32,7 +32,7 @@
     <w ref="4.4" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="4.4" lemma="uirgo" pos="NOMcom" msd="Case=Abl|Numb=Sing">uirgine</w>
     <w ref="4.4" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
-    <w ana="#acte #metonymie #rester_avec" ref="4.4" lemma="maneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">mansit</w>
+    <w ana="#acte #metonymie #resterAvec" ref="4.4" lemma="maneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">mansit</w>
     <w ref="4.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
   </quote>
 </div>

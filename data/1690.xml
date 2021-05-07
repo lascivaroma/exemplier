@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metonymie #acte #misceo">
+<div type="fragment" ana="#acte #metonymie #misceo">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,6 +21,6 @@
     <w ref="5.21" lemma="comminus" pos="ADV" msd="Deg=Pos">comminus</w>
     <w ref="5.21" lemma="uxorius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">uxoria</w>
     <w ref="5.21" lemma="coniugatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">coniugatione</w>
-    <w ana="#metonymie #acte #misceo" ref="5.21" lemma="misceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">misceri</w>
+    <w ana="#acte #metonymie #misceo" ref="5.21" lemma="misceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">misceri</w>
   </quote>
 </div>

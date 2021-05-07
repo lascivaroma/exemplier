@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="32" lemma="meretrix" pos="NOMcom" msd="Case=Abl|Numb=Plur">meretricibus</w>
     <w ref="32" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
     <w ref="32" lemma="effectus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">effectu</w>
-    <w ana="#acte #metonymie #amo" ref="32" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
+    <w ana="#acte #amo #metonymie" ref="32" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
     <w ref="32" lemma="aureus2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">aureos</w>
   </quote>
 </div>

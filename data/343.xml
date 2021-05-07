@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #misc">
+<div type="fragment" ana="#divers #male #penis">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
         <w lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=MascNeut">ipsum</w>
         <w lemma="homo" pos="NOMcom" msd="Case=Acc|Numb=Sing">hominem</w>
         <w lemma="lacinia" pos="NOMcom" msd="Case=Acc|Numb=Sing">laciniam</w>
-        <w ana="#male #penis" lemma="fascinum" pos="NOMcom" msd="Case=Gen|Numb=Sing">fascini</w>
+        <w ana="#divers #male #penis" lemma="fascinum" pos="NOMcom" msd="Case=Gen|Numb=Sing">fascini</w>
         <w lemma="credo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2">crederes</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

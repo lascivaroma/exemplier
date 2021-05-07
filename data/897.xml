@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="68.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="68.6" lemma="qui2" pos="CONsub" msd="Numb=Sing|Gend=Neut">quod</w>
     <w ref="68.6" lemma="nos" pos="PROper" msd="Case=Acc|Numb=Plur">nos</w>
-    <w ana="#anus #culus" ref="68.6" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Sing">culum</w>
+    <w ana="#culus" ref="68.6" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Sing">culum</w>
     <w ref="68.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="68.6" lemma="couleo" pos="NOMcom" msd="Case=Nom|Numb=Sing">κουλεόν</w>
     <w ref="68.6" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>

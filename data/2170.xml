@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #harass">
+<div type="fragment" ana="#acte #harass #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="11.81.1" lemma="cum2" pos="PRE" msd="MORPH=empty">Cum</w>
     <w ref="11.81.1" lemma="senex1" pos="NOMcom" msd="Case=Abl|Numb=Sing">sene</w>
     <w ref="11.81.1" lemma="communis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">communem</w>
-    <w ana="#acte #metonymie #harass" ref="11.81.1" lemma="uexo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vexat</w>
+    <w ana="#acte #harass #metonymie" ref="11.81.1" lemma="uexo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vexat</w>
     <w ref="11.81.1" lemma="spado" pos="NOMcom" msd="Case=Nom|Numb=Sing">spado</w>
     <w ref="11.81.1" lemma="Dindymus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Dindymus</w>
     <w ref="11.81.1" lemma="Aegle" pos="NOMpro" msd="Case=Acc|Numb=Sing">Aeglen</w>

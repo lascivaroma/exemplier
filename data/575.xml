@@ -1,4 +1,4 @@
-<div type="fragment" ana="#parties clitoris #female #cunnus #son">
+<div type="fragment" ana="#clitoris #composite #cunnus #female #pars #son">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:77.5-77.6">
         <w lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
         <w lemma="misellus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">misella</w>
-        <w ana="#partiesclitoris #son #composite" lemma="landicus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">landicae</w>
+        <w ana="#clitoris #composite #cunnus #female #pars #son" lemma="landicus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">landicae</w>
         <w lemma="uix" pos="ADV" msd="Deg=Pos">uix</w>
         <w lemma="possum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">posse</w>
         <w lemma="iuro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iurat</w>

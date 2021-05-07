@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #vol">
+<div type="fragment" ana="#acte #metaphore #vol">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi2349.phi005.perseus-lat1:10.91" type="comment">
     <w ref="10.91" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
-    <w ana="#metaphore #acte #vol" ref="10.91" lemma="furtum" pos="NOMcom" msd="Case=Nom|Numb=Sing">furtum</w>
+    <w ana="#acte #metaphore #vol" ref="10.91" lemma="furtum" pos="NOMcom" msd="Case=Nom|Numb=Sing">furtum</w>
     <w ref="10.91" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="10.91" lemma="adulterium" pos="NOMcom" msd="Case=Nom|Numb=Sing">adulterium</w>
     <w ref="10.91" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

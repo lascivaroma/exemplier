@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #epouser #noces">
+<div type="fragment" ana="#acte #epouser #metaphore #noces">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="4.45" lemma="quis1" pos="PROint" msd="Case=Gen|Numb=Sing|Gend=Com">Cuius</w>
     <w ref="4.45" lemma="mater" pos="NOMcom" msd="Case=Nom|Numb=Sing">mater</w>
     <w ref="4.45" lemma="cotidianus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">cottidianis</w>
-    <w ana="#metaphore #acte #epouser #noces" ref="4.45" lemma="nuptiae" pos="NOMcom" msd="Case=Abl|Numb=Plur">nuptiis</w>
+    <w ana="#acte #epouser #metaphore #noces" ref="4.45" lemma="nuptiae" pos="NOMcom" msd="Case=Abl|Numb=Plur">nuptiis</w>
     <w ref="4.45" lemma="delecto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">delectetur</w>
     <w ref="4.45" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

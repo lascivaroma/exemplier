@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="7.11" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
     <w ref="7.11" lemma="idem" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eiusdem</w>
     <w ref="7.11" lemma="dies" pos="NOMcom" msd="Case=Gen|Numb=Sing">diei</w>
-    <w ana="#acte #metonymie #coeo" ref="7.11" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
+    <w ana="#acte #coeo #metonymie" ref="7.11" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
     <w ref="7.11" lemma="alter" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascNeut">alterum</w>
     <w ref="7.11" lemma="dominus" pos="NOMcom" msd="Case=Dat|Numb=Sing">domino</w>
     <w ref="7.11" lemma="similis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">similem</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #animal">
+<div type="fragment" ana="#animal #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="quod2" pos="CONsub" msd="Case=Acc|Numb=Sing">quod</w>
         <w lemma="alius" pos="PROind" msd="Case=Dat|Numb=Plur|Gend=Com">aliis</w>
-        <w lemma="lepor" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #animal">leporem</w>
+        <w lemma="lepor" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#animal #male">leporem</w>
         <w lemma="excito1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">excitaui</w>
         <w lemma="&quot;" pos="PUNC" msd="MORPH=empty">"</w>
     </quote>

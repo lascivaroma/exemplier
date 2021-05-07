@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rub #cinaedus">
+<div type="fragment" ana="#acte #cinaedus #metonymie #rub">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -31,7 +31,7 @@
     <w ref="24" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eum</w>
     <w ref="24" lemma="basium" pos="NOMcom" msd="Case=Abl|Numb=Plur">basiisque</w>
     <w ref="24" lemma="que" pos="CON" msd="MORPH=empty">{basiisque}</w>
-    <w ana="#acte #metonymie #rub #cinaedus" ref="24" lemma="distero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">distrivit</w>
+    <w ana="#acte #cinaedus #metonymie #rub" ref="24" lemma="distero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">distrivit</w>
     <w ref="24" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

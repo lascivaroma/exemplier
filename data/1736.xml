@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rub #masturbation">
+<div type="fragment" ana="#acte #masturbatio #metonymie #rub">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="82.33" lemma="lentus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">lentior</w>
     <w ref="82.33" lemma="cubo" pos="NOMcom" msd="Numb=Sing|Person=2">cubes</w>
     <w ref="82.33" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #rub #masturbation" ref="82.34" lemma="tero" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass">tereris</w>
+    <w ana="#acte #masturbatio #metonymie #rub" ref="82.34" lemma="tero" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass">tereris</w>
     <w ref="82.34" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
     <w ref="82.34" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="82.34" lemma="donec" pos="CONsub" msd="MORPH=empty">donec</w>

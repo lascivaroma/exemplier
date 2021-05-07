@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #descriptive-functional #euphemism #mentula">
+<div type="fragment" ana="#descriptiveFunctional #euphemism #male #mentula">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,7 +30,7 @@
     <w ref="24.6" lemma="item" pos="ADV" msd="Deg=Pos">item</w>
     <w ref="24.6" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="24.6" lemma="pruritus" pos="NOMcom" msd="Case=Abl|Numb=Sing">pruritu</w>
-    <w ana="#male #descriptive-functional #euphemism #mentula" ref="24.6" lemma="genitalis" pos="NOMcom" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos">genitalium</w>
+    <w ana="#descriptiveFunctional #euphemism #male #mentula" ref="24.6" lemma="genitalis" pos="NOMcom" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos">genitalium</w>
     <w ref="24.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

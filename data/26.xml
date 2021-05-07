@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #personnification">
+<div type="fragment" ana="#composite #male #personnification">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,12 +25,12 @@
         <w lemma="extendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">extendit</w>
         <w lemma="*" pos="PUNC" msd="MORPH=empty">*</w>
         <w lemma="sollicito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">sollicitavit</w>
-        <w lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #personnification">inguina</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#composite #male #personnification">inguina</w>
         <w lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Neut">mea</w>
         <w lemma="mille" pos="ADJcar" msd="Case=Ind">mille</w>
         <w lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
         <w lemma="mors" pos="NOMcom" msd="Case=Abl|Numb=Plur">mortibus</w>
-        <w lemma="frigidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos" ana="#male #personnification">frigida</w>
+        <w lemma="frigidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos" ana="#composite #male #personnification">frigida</w>
         <w lemma="*" pos="PUNC" msd="MORPH=empty">*</w>
     </quote>
  </div>

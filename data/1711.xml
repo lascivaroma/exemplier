@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #metonymie #acte #embrace">
+<div type="fragment" ana="#acte #embrace #male #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="1073" lemma="uir" pos="NOMcom" msd="Case=Nom|Numb=Sing">vir</w>
     <w ref="1073" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">dicat</w>
     <w ref="1073" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
-    <w ana="#acte #male #metonymie #acte #embrace" ref="1073" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">comprime</w>
+    <w ana="#acte #embrace #male #metonymie" ref="1073" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">comprime</w>
     <w ref="1073" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">hunc</w>
     <w ref="1073" lemma="si" pos="CONsub" msd="Numb=Sing|Person=2">sis</w>
     <w ref="1073" lemma="uolo" pos="" msd="MORPH=empty">{sis}</w>

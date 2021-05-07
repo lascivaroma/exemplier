@@ -1,4 +1,4 @@
-<div type="fragment" ana="#doors #anus #cunnus #metaphore">
+<div type="fragment" ana="#culus #cunnus #doors #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
         <w lemma="eo1" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">eundo</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="exeo1" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Ger|Voice=Act">exeundo</w>
-        <w ana="#doors #anus" lemma="porta" pos="NOMcom" msd="Case=Nom|Numb=Sing">porta</w>
+        <w ana="#culus #cunnus #doors #metaphore" lemma="porta" pos="NOMcom" msd="Case=Nom|Numb=Sing">porta</w>
         <w lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
         <w lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">faciet</w>
         <w lemma="patens" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp">patentiorem</w>

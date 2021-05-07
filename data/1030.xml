@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #futuo">
+<div type="fragment" ana="#acte #fututio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="11.7.13" lemma="quotiens1" pos="ADVrel" msd="MORPH=empty">quotiens</w>
     <w ref="11.7.13" lemma="placeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">placet</w>
     <w ref="11.7.13" lemma="eo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ire</w>
-    <w ana="#acte #futuo" ref="11.7.13" lemma="futuo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">fututum</w>
+    <w ana="#acte #fututio" ref="11.7.13" lemma="futuo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">fututum</w>
     <w ref="11.7.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="11.7.14" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">Quae</w>
     <w ref="11.7.14" lemma="uerum?" pos="ADJqua" msd="Case=Acc|Numb=Sing">verum</w>

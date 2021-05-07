@@ -1,4 +1,4 @@
-<div type="fragment" ana="#cunnus #metaphore #female #animal #male #loan-word #fellatio #acte #homoeros">
+<div type="fragment" ana="#acte #animal #cunnus #fellatio #female #homoeros #loadWord #male #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
         <w lemma="lauo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">lavari</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
-        <w ana="#cunnus #animal #metaphore" lemma="colocyntha" pos="NOMcom" msd="Case=Nom|Numb=Sing">colocyntha</w>
+        <w ana="#acte #animal #cunnus #fellatio #female #homoeros #loadWord #male #metaphore" lemma="colocyntha" pos="NOMcom" msd="Case=Nom|Numb=Sing">colocyntha</w>
         <w lemma="bibo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">bibit</w>
         <w lemma="uel1" pos="ADV" msd="MORPH=empty">vel</w>
         <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>

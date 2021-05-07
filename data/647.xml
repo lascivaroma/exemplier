@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="2.463" lemma="attonitus2" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Fem|Deg=Pos">Attonitae</w>
     <w ref="2.463" lemma="manus" pos="NOMcom" msd="Case=Abl|Numb=Plur">manibusque</w>
     <w ref="2.463" lemma="que" pos="CON" msd="MORPH=empty">{manibusque}</w>
-    <w ana="#female #cunnus #womb" ref="2.463" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ana="#cunnus #female #womb" ref="2.463" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
     <w ref="2.463" lemma="celo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">celare</w>
     <w ref="2.463" lemma="uolo3" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">volenti</w>
     <w ref="2.464" lemma="“" pos="PUNC" msd="MORPH=empty">“</w>

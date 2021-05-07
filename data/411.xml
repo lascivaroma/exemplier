@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #testicle">
+<div type="fragment" ana="#male #testicules">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">Habebat</w>
         <w lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
         <w lemma="inguen" pos="NOMcom" msd="Case=Gen|Numb=Plur">inguinum</w>
-        <w ana="#male #testicle" lemma="pondus" pos="NOMcom" msd="Case=Acc|Numb=Sing">pondus</w>
+        <w ana="#male #testicules" lemma="pondus" pos="NOMcom" msd="Case=Acc|Numb=Sing">pondus</w>
         <w lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
         <w lemma="grandis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">grande</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

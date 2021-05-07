@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #bouche #euphemism">
+<div type="fragment" ana="#bouche #euphemism #male #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi1294.phi002.perseus-lat2</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.46.6">
-        <w lemma="superus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Sup" ana="#male #specialisation #bouche #euphemism">Summa</w>
+        <w lemma="superus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Sup" ana="#bouche #euphemism #male #specialisation">Summa</w>
         <w lemma="peto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">petas</w>
         <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
         <w lemma="illic2" pos="ADV" msd="Deg=Pos">illic</w>

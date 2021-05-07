@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #concomitant">
+<div type="fragment" ana="#acte #concomitant #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="6.37" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
     <w ref="6.37" lemma="quantum3" pos="ADVrel" msd="Case=Acc|Numb=Sing|Gend=MascNeut">quantum</w>
     <w ref="6.37" lemma="iubeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">iussit</w>
-    <w ana="#acte #metonymie #concomitant" ref="6.37" lemma="anhelo" pos="NOMcom" msd="Numb=Sing|Deg=Pos|Person=2">anheles</w>
+    <w ana="#acte #concomitant #metonymie" ref="6.37" lemma="anhelo" pos="NOMcom" msd="Numb=Sing|Deg=Pos|Person=2">anheles</w>
     <w ref="6.37" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#pars #euphemism">
+<div type="fragment" ana="#euphemism #pars">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
         <w lemma="signo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">signari</w>
         <w lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">vidisti</w>
-        <w ana="#pars #euphemism" lemma="uirginal" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos">virginal</w>
+        <w ana="#euphemism #pars" lemma="uirginal" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos">virginal</w>
         <w lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Sing">feminae</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="fides2" pos="NOMcom" msd="Case=Acc|Numb=Sing">fidem</w>

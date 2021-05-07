@@ -1,4 +1,4 @@
-<div type="fragment" ana="#cunnus #metaphore #female">
+<div type="fragment" ana="#cunnus #female #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
         <w lemma="barba" pos="NOMcom" msd="Case=Acc|Numb=Sing">Barbam</w>
         <w lemma="uello" pos="NOMcom" msd="Case=Abl|Mood=Inf|Tense=Pres|Voice=Act">vellere</w>
         <w lemma="mortuus?" pos="VER" msd="Case=Dat|Numb=Sing|Gend=MascNeut">mortuo</w>
-        <w ana="#cunnus #metaphore" lemma="leo" pos="NOMcom" msd="Case=Dat|Numb=Sing">leoni</w>
+        <w ana="#cunnus #female #metaphore" lemma="leo" pos="NOMcom" msd="Case=Dat|Numb=Sing">leoni</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

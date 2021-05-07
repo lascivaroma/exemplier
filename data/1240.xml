@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #couper #tailler #desir">
+<div type="fragment" ana="#acte #couper #desir #metaphore #tailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="809" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
     <w ref="809" lemma="miser" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">miser</w>
     <w ref="809" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#metaphore #acte #couper #tailler #desir" ref="809" lemma="dirumpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass|Person=1">dirumpi</w>
+    <w ana="#acte #couper #desir #metaphore #tailler" ref="809" lemma="dirumpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass|Person=1">dirumpi</w>
     <w ref="809" lemma="hymenaeus" pos="NOMcom" msd="Case=Acc|Numb=Sing">hymenaeum</w>
     <w ref="809" lemma="canto" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">cantando</w>
     <w ref="809" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act">licet</w>

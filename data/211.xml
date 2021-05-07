@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #cuisine  #mentula">
+<div type="fragment" ana="#adjoiningParts #cuisine #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
         <w lemma="tendo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">tendentes</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
-        <w lemma="ilia" pos="NOMcom" msd="Case=Nom|Numb=Plur" ana="#male #euphemisms #voisinage #cuisine">ilia</w>
+        <w lemma="ilia" pos="NOMcom" msd="Case=Nom|Numb=Plur" ana="#adjoiningParts #cuisine #euphemism #male #mentula">ilia</w>
         <w lemma="appello1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">appellantur</w>
     </quote>
  </div>

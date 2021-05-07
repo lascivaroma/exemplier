@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #frapper #irrumatio">
+<div type="fragment" ana="#acte #frapper #irrumatio #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="10" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">haberet</w>
     <w ref="10" lemma="clamo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">clamaretque</w>
     <w ref="10" lemma="que" pos="CON" msd="MORPH=empty">{clamaretque}</w>
-    <w ana="#metaphore #acte #frapper #irrumatio" ref="10" lemma="concido?" pos="VER" msd="Mood=Imp|Tense=Pres|Voice=Act|Person=2">Concide</w>
+    <w ana="#acte #frapper #irrumatio #metaphore" ref="10" lemma="concido?" pos="VER" msd="Mood=Imp|Tense=Pres|Voice=Act|Person=2">Concide</w>
     <w ref="10" lemma="magire" pos="ADV" msd="Mood=Inf|Tense=Pres|Voice=Act">Magire</w>
   </quote>
 </div>

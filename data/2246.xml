@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio #homme">
+<div type="fragment" ana="#acte #animal #homme #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="149.8" lemma="munus" pos="NOMcom" msd="Case=Abl|Numb=Sing">munere</w>
     <w ref="149.8" lemma="dignitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">dignitatis</w>
     <w ref="149.8" lemma="opto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">optas</w>
-    <w ana="#acte #animals #salio #homme" ref="149.9" lemma="admissarius" pos="NOMcom" msd="Case=Nom|Numb=Sing">Admissarius</w>
+    <w ana="#acte #animal #homme #salio" ref="149.9" lemma="admissarius" pos="NOMcom" msd="Case=Nom|Numb=Sing">Admissarius</w>
     <w ref="149.9" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
     <w ref="149.9" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
     <w ref="149.9" lemma="patronus" pos="NOMcom" msd="Case=Nom|Numb=Sing">patronus</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #euphemism #ellipse #res">
+<div type="fragment" ana="#acte #ellipse #euphemism #res">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,6 +24,6 @@
     <w ref="6.21.5" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="6.21.5" lemma="turpis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Sup">turpissimis</w>
     <w ref="6.21.5" lemma="habeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habent</w>
-    <w ana="#acte #euphemism #ellipse #res" ref="6.21.5" lemma="res" pos="NOMcom" msd="Case=Abl|Numb=Plur">rebus</w>
+    <w ana="#acte #ellipse #euphemism #res" ref="6.21.5" lemma="res" pos="NOMcom" msd="Case=Abl|Numb=Plur">rebus</w>
   </quote>
 </div>

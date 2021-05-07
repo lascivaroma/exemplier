@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #mentula">
+<div type="fragment" ana="#adjoiningParts #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,6 +17,6 @@
         <w lemma="tumeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tument</w>
         <w lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
         <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
-        <w lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #euphemisms #voisinage #mentula">inguina</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#adjoiningParts #euphemism #male #mentula">inguina</w>
     </quote>
  </div>

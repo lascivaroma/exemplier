@@ -1,4 +1,4 @@
-<div type="fragment" ana="#field #female #cunnus #metaphore">
+<div type="fragment" ana="#composite #cunnus #female #field #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,9 +21,9 @@
         <w lemma="pariter" pos="ADV" msd="Deg=Pos">pariterque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{pariterque}</w>
         <w lemma="insinuo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">insinuata</w>
-        <w ana="#field" lemma="sulcus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sulco</w>
+        <w ana="#composite #cunnus #female #field #metaphore" lemma="sulcus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sulco</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-        <w ana="#field" lemma="aruum" pos="NOMcom" msd="Case=Abl|Numb=Sing">aruo</w>
+        <w ana="#composite #cunnus #female #field #metaphore" lemma="aruum" pos="NOMcom" msd="Case=Abl|Numb=Sing">aruo</w>
         <w lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=MascNeut">suo</w>
         <w lemma="pariter" pos="ADV" msd="Deg=Pos">pariter</w>
         <w lemma="homo" pos="NOMcom" msd="Case=Acc|Numb=Sing">hominem</w>

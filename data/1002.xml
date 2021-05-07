@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #culus #anus">
+<div type="fragment" ana="#culus #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
     <w ref="1180" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1181" lemma="conuenio" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">conveniebatne</w>
     <w ref="1181" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-    <w ana="#metaphore #culus #anus" ref="1181" lemma="uagina" pos="NOMcom" msd="Case=Acc|Numb=Sing">vaginam</w>
+    <w ana="#culus #metaphore" ref="1181" lemma="uagina" pos="NOMcom" msd="Case=Acc|Numb=Sing">vaginam</w>
     <w ref="1181" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">tuam</w>
     <w ref="1181" lemma="machaera" pos="NOMcom" msd="Case=Acc|Numb=Sing">machaera</w>
     <w ref="1181" lemma="miles" pos="NOMcom" msd="Case=Gen|Numb=Sing">militis</w>

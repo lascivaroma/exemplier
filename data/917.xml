@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -36,7 +36,7 @@
     <w ref="44.5" lemma="patera" pos="NOMcom" msd="Numb=Sing|Person=2">pateris</w>
     <w ref="44.5" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
     <w ref="44.5" lemma="canus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">cano</w>
-    <w ana="#anus #culus" ref="44.5" lemma="podex" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
+    <w ana="#culus" ref="44.5" lemma="podex" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
     <w ref="44.5" lemma="morbus" pos="NOMcom" msd="Case=Acc|Numb=Sing">morbum</w>
     <w ref="44.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="44.6" lemma="femineus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">femineis</w>

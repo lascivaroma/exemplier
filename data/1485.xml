@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #m2f #dormir_avec">
+<div type="fragment" ana="#acte #composite #dormirAvec #m2f #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,12 +18,12 @@
     <w ref="19.57" lemma="forsitan" pos="ADV" msd="Deg=Pos">Forsitan</w>
     <w ref="19.57" lemma="inuitus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">invitus</w>
     <w ref="19.57" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">mecum</w>
-    <w ana="#acte #metonymie #m2f #dormir_avec" ref="19.57" lemma="cum3" pos="CON" msd="MORPH=empty">{mecum}</w>
+    <w ana="#acte #composite #dormirAvec #m2f #metonymie" ref="19.57" lemma="cum3" pos="CON" msd="MORPH=empty">{mecum}</w>
     <w ref="19.57" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
     <w ref="19.57" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="19.57" lemma="improbus" pos="ADV" msd="Gend=Masc|Deg=Pos">inprobe</w>
     <w ref="19.57" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #m2f #dormir_avec" ref="19.57" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">dormis</w>
+    <w ana="#acte #composite #dormirAvec #m2f #metonymie" ref="19.57" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">dormis</w>
     <w ref="19.57" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="19.58" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
     <w ref="19.58" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

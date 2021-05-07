@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male  #metaphore #animal #mentula">
+<div type="fragment" ana="#animal #male #mentula #metaphore #personnification">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -38,7 +38,7 @@
         <w lemma="mitra" pos="NOMcom" msd="Case=Gen|Numb=Sing">mitrae</w>
         <w lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
         <w lemma="natus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">natibus</w>
-        <w lemma="natrix" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #personnification">natricem</w>
+        <w lemma="natrix" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#animal #male #mentula #metaphore #personnification">natricem</w>
         <w lemma="imprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">inpressit</w>
         <w lemma="crassus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">crassam</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>

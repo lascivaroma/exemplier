@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio">
+<div type="fragment" ana="#acte #animal #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="6.24.3" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">Qui</w>
     <w ref="6.24.3" lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
     <w ref="6.24.3" lemma="iuuenca" pos="NOMcom" msd="Case=Acc|Numb=Sing">iuvencam</w>
-    <w ana="#acte #animals #salio" ref="6.24.3" lemma="superuenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">supervenit</w>
+    <w ana="#acte #animal #salio" ref="6.24.3" lemma="superuenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">supervenit</w>
     <w ref="6.24.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="6.24.3" lemma="certus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">certis</w>
     <w ref="6.24.3" lemma="signum" pos="NOMcom" msd="Case=Abl|Numb=Plur">signis</w>

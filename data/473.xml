@@ -1,4 +1,4 @@
-<div type="fragment" ana="#fossa #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #female #fossa #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
         <w lemma="praesto2" pos="ADV" msd="Deg=Pos">praesto</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
         <w lemma="uirginalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">uirginalem</w>
-        <w ana="#fossa" lemma="scrobis" pos="NOMcom" msd="Case=Acc|Numb=Sing">scrobem</w>
+        <w ana="#cunnus #female #fossa #metaphore" lemma="scrobis" pos="NOMcom" msd="Case=Acc|Numb=Sing">scrobem</w>
         <w lemma="effodio" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">effodientibus</w>
         <w lemma="maritus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">maritis</w>
         <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>

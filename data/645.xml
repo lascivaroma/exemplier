@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,7 +30,7 @@
     <w ref="4.555" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">toto</w>
     <w ref="4.556" lemma="strido" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">stridere</w>
     <w ref="4.556" lemma="apis" pos="NOMcom" msd="Case=Acc|Numb=Plur">apes</w>
-    <w ana="#female #cunnus #womb" ref="4.556" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ana="#cunnus #female #womb" ref="4.556" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
     <w ref="4.556" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="4.556" lemma="rumpo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">ruptis</w>
     <w ref="4.556" lemma="efferuo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">effervere</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #etreavec">
+<div type="fragment" ana="#acte #composite #etreAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,8 +26,8 @@
     <w ref="817" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">sum</w>
     <w ref="817" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="817" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">tecum</w>
-    <w ana="#acte #metonymie #etreavec" ref="817" lemma="cum3" pos="CON" msd="MORPH=empty">{tecum}</w>
-    <w ana="#acte #metonymie #etreavec" ref="817" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">fui</w>
+    <w ana="#acte #composite #etreAvec #metonymie" ref="817" lemma="cum3" pos="CON" msd="MORPH=empty">{tecum}</w>
+    <w ana="#acte #composite #etreAvec #metonymie" ref="817" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">fui</w>
     <w ref="817" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
   </quote>
 </div>

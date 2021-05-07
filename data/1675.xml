@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #join">
+<div type="fragment" ana="#acte #composite #join #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,9 +22,9 @@
     <w ref="1259" lemma="amans1" pos="NOMcom" msd="Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act">amantem</w>
     <w ref="1259" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1259" lemma="ubi3" pos="CONsub" msd="MORPH=empty">úbi</w>
-    <w ana="#acte #metonymie #join" ref="1259" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
-    <w ana="#acte #metonymie #join" ref="1259" lemma="labrum1" pos="NOMcom" msd="Case=Acc|Numb=Plur">labra</w>
-    <w ana="#acte #metonymie #join" ref="1259" lemma="labellum1" pos="NOMcom" msd="Case=Acc|Numb=Plur">labélla</w>
-    <w ana="#acte #metonymie #join" ref="1259" lemma="adiungo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">adiungit</w>
+    <w ana="#acte #composite #join #metonymie" ref="1259" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ana="#acte #composite #join #metonymie" ref="1259" lemma="labrum1" pos="NOMcom" msd="Case=Acc|Numb=Plur">labra</w>
+    <w ana="#acte #composite #join #metonymie" ref="1259" lemma="labellum1" pos="NOMcom" msd="Case=Acc|Numb=Plur">labélla</w>
+    <w ana="#acte #composite #join #metonymie" ref="1259" lemma="adiungo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">adiungit</w>
   </quote>
 </div>

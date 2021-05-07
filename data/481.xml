@@ -1,4 +1,4 @@
-<div type="fragment" ana="#household #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #female #household #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
         <w lemma="os1" pos="NOMcom" msd="Case=Abl|Numb=Sing">ore</w>
         <w lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
         <w lemma="deuoueo" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">devota</w>
-        <w ana="#household" lemma="focus" pos="NOMcom" msd="Case=Dat|Numb=Plur">focis</w>
+        <w ana="#cunnus #female #household #metaphore" lemma="focus" pos="NOMcom" msd="Case=Dat|Numb=Plur">focis</w>
         <w lemma="inguen" pos="NOMcom" msd="Case=Gen|Numb=Sing">inguinis</w>
         <w lemma="arma" pos="NOMcom" msd="Case=Acc|Numb=Plur">arma</w>
         <w lemma="gero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">geram</w>

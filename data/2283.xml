@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #oral">
+<div type="fragment" ana="#acte #composite #oral">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,8 +17,8 @@
     <w ref="3.75.5" lemma="coepio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">Coepisti</w>
     <w ref="3.75.5" lemma="purus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">puras</w>
     <w ref="3.75.5" lemma="ops" pos="NOMcom" msd="Case=Abl|Numb=Plur">opibus</w>
-    <w ana="#acte #oral" ref="3.75.5" lemma="corrumpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">corrumpere</w>
-    <w ana="#acte #oral" ref="3.75.5" lemma="bucca" pos="NOMcom" msd="Case=Acc|Numb=Plur">buccas</w>
+    <w ana="#acte #composite #oral" ref="3.75.5" lemma="corrumpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">corrumpere</w>
+    <w ana="#acte #composite #oral" ref="3.75.5" lemma="bucca" pos="NOMcom" msd="Case=Acc|Numb=Plur">buccas</w>
     <w ref="3.75.5" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
   </quote>
 </div>

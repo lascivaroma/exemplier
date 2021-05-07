@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #know">
+<div type="fragment" ana="#acte #know #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="61.179" lemma="bonus" pos="ADJqua" msd="Case=Voc|Numb=Plur|Gend=Fem|Deg=Pos">bonae</w>
     <w ref="61.179" lemma="senex1" pos="NOMcom" msd="Case=Dat|Numb=Plur|Gend=Com">senibus</w>
     <w ref="61.179" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Plur">viris</w>
-    <w ana="#acte #metonymie #know" ref="61.180" lemma="cognosco" pos="ADJqua" msd="Case=Voc|Numb=Plur|Gend=Fem|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">cognitae</w>
+    <w ana="#acte #know #metonymie" ref="61.180" lemma="cognosco" pos="ADJqua" msd="Case=Voc|Numb=Plur|Gend=Fem|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">cognitae</w>
     <w ref="61.180" lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
     <w ref="61.180" lemma="femina" pos="NOMcom" msd="Case=Voc|Numb=Plur">feminae</w>
     <w ref="61.180" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

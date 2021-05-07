@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #vagina">
+<div type="fragment" ana="#cunnus #female #vagina">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -35,7 +35,7 @@
     <w ref="12.2" lemma="itaque" pos="ADV" msd="MORPH=empty">itaque</w>
     <w ref="12.2" lemma="onero" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">oneratam</w>
     <w ref="12.2" lemma="foetus" pos="NOMcom" msd="Case=Abl|Numb=Plur">foetibus</w>
-    <w ana="#female #cunnus #vagina" ref="12.2" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ana="#cunnus #female #vagina" ref="12.2" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
     <w ref="12.2" lemma="tamquam1" pos="ADVrel" msd="MORPH=empty">tamquam</w>
     <w ref="12.2" lemma="obsto" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">obstantem</w>
     <w ref="12.2" lemma="partuus" pos="NOMcom" msd="Case=Nom|Numb=Plur">partui</w>

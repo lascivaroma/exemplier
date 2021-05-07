@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:33.praef" type="chapter">
     <w ref="33.praef" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="33.praef" lemma="poculum" pos="NOMcom" msd="Case=Abl|Numb=Plur">poculis</w>
-    <w ana="#acte #metonymie #amo" ref="33.praef" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Plur">libidines</w>
+    <w ana="#acte #amo #metonymie" ref="33.praef" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Plur">libidines</w>
     <w ref="33.praef" lemma="caelo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">caelare</w>
     <w ref="33.praef" lemma="iuuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">iuvit</w>
     <w ref="33.praef" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>

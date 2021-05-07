@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #euphemisms #voisinage #cunnus">
+<div type="fragment" ana="#adjoiningParts #cunnus #euphemism #female #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="infinitus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">infinito</w>
         <w lemma="lacer" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">lacerum</w>
         <w lemma="pateo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">patet</w>
-        <w lemma="inguen" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #euphemisms #voisinage">inguen</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#adjoiningParts #cunnus #euphemism #female #male">inguen</w>
         <w lemma="hiatus" pos="NOMcom" msd="Case=Abl|Numb=Sing">hiatu</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>

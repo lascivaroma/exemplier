@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #humiliant #urine #ejaculation">
+<div type="fragment" ana="#acte #ejaculation #humiliant #metaphore #urine">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="11.170" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
     <w ref="11.170" lemma="oculus" pos="NOMcom" msd="Case=Abl|Numb=Plur">oculis</w>
     <w ref="11.170" lemma="concipio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">concepta</w>
-    <w ana="#metaphore #acte #humiliant #urine #ejaculation" ref="11.170" lemma="urina" pos="NOMcom" msd="Case=Nom|Numb=Sing">urina</w>
+    <w ana="#acte #ejaculation #humiliant #metaphore #urine" ref="11.170" lemma="urina" pos="NOMcom" msd="Case=Nom|Numb=Sing">urina</w>
     <w ref="11.170" lemma="moueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">movetur</w>
     <w ref="11.170" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

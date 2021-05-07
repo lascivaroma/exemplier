@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #disgrace">
+<div type="fragment" ana="#acte #disgrace #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="3.8" lemma="ibi" pos="ADV" msd="Deg=Pos">ibi</w>
     <w ref="3.8" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="3.8" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
-    <w ana="#acte #metonymie #disgrace" ref="3.8" lemma="stuprum" pos="NOMcom" msd="Case=Abl|Numb=Sing">stupro</w>
+    <w ana="#acte #disgrace #metonymie" ref="3.8" lemma="stuprum" pos="NOMcom" msd="Case=Abl|Numb=Sing">stupro</w>
     <w ref="3.8" lemma="filius" pos="NOMcom" msd="Case=Gen|Numb=Sing">filii</w>
     <w ref="3.8" lemma="mentio1" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentio</w>
     <w ref="3.8" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">esset</w>

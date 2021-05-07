@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="2.21.11.2" lemma="ebrius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">ebrio</w>
     <w ref="2.21.11.2" lemma="imperator" pos="NOMcom" msd="Case=Abl|Numb=Sing">imperatore</w>
     <w ref="2.21.11.2" lemma="pretium" pos="NOMcom" msd="Case=Acc|Numb=Sing">pretium</w>
-    <w ana="#acte #metonymie #amo" ref="2.21.11.2" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Plur">libidinum</w>
+    <w ana="#acte #amo #metonymie" ref="2.21.11.2" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Plur">libidinum</w>
     <w ref="2.21.11.2" lemma="Romanus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">Romanum</w>
     <w ref="2.21.11.2" lemma="imperium" pos="NOMcom" msd="Case=Acc|Numb=Sing">imperium</w>
     <w ref="2.21.11.2" lemma="peto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">petit</w>

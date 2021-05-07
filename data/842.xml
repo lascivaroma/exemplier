@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #womb #medical">
+<div type="fragment" ana="#female #medicale #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="80.1" lemma="interior2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">interiores</w>
     <w ref="80.1" lemma="adhibeo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">adhibita</w>
     <w ref="80.1" lemma="patefacio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">patefacit</w>
-    <w ana="#female #womb #medical" ref="80.1" lemma="matrix" pos="NOMcom" msd="Case=Acc|Numb=Sing">matricem</w>
+    <w ana="#female #medicale #womb" ref="80.1" lemma="matrix" pos="NOMcom" msd="Case=Acc|Numb=Sing">matricem</w>
     <w ref="80.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

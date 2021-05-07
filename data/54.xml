@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #anatomie #metaphore #mentula">
+<div type="fragment" ana="#anatomie #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="uagus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">uago</w>
         <w lemma="singultio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">singultiet</w>
         <w lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Sing">inguine</w>
-        <w lemma="uena" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #anatomie">uena</w>
+        <w lemma="uena" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#anatomie #male #mentula #metaphore">uena</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

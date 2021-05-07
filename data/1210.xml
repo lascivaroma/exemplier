@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #frapper #pedicatio">
+<div type="fragment" ana="#acte #frapper #metaphore #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="15.5" lemma="frutex" pos="NOMcom" msd="Case=Acc|Numb=Plur">frutices</w>
     <w ref="15.5" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Sing">loco</w>
     <w ref="15.5" lemma="remoueo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">remoto</w>
-    <w ana="#metaphore #acte #frapper #pedicatio" ref="15.6" lemma="percido2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">percisum</w>
+    <w ana="#acte #frapper #metaphore #pedicatio" ref="15.6" lemma="percido2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">percisum</w>
     <w ref="15.6" lemma="scio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">sciet</w>
     <w ref="15.6" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
     <w ref="15.6" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>

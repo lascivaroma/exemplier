@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male  #metaphore #animal #mentula">
+<div type="fragment" ana="#animal #male #mentula #metaphore #personnification">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
         <w lemma="serenus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">serena</w>
         <w lemma="ingens" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">ingentis</w>
         <w lemma="trepido" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">trepidare</w>
-        <w lemma="Titus" pos="NOMpro" msd="Case=Nom|Numb=Plur" ana="#male #personnification">Titos</w>
+        <w lemma="Titus" pos="NOMpro" msd="Case=Nom|Numb=Plur" ana="#animal #male #mentula #metaphore #personnification">Titos</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
         <w lemma="carmen1" pos="NOMcom" msd="Case=Nom|Numb=Plur">carmina</w>

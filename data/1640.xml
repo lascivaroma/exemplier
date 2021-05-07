@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="79.1" lemma="legitimus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">legitimi</w>
     <w ref="79.1" lemma="genialis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">genialia</w>
     <w ref="79.1" lemma="foedus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">foedera</w>
-    <w ana="#acte #metonymie #coeo" ref="79.1" lemma="coetus" pos="NOMcom" msd="Case=Gen|Numb=Sing">coetus</w>
+    <w ana="#acte #coeo #metonymie" ref="79.1" lemma="coetus" pos="NOMcom" msd="Case=Gen|Numb=Sing">coetus</w>
     <w ref="79.2" lemma="reperio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">repperit</w>
     <w ref="79.2" lemma="obscenus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">obscenas</w>
     <w ref="79.2" lemma="Uenus" pos="NOMpro" msd="Case=Acc|Numb=Plur">veneres</w>

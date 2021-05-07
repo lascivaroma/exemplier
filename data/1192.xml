@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme">
+<div type="fragment" ana="#accomplissement #acte #ejaculation #humiliant #metaphore #orgasme">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -39,7 +39,7 @@
     <w ref="1.18" lemma="mobilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">mobile</w>
     <w ref="1.18" lemma="colluo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2">conlueris</w>
     <w ref="1.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme" ref="1.18" lemma="patro" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">patranti</w>
+    <w ana="#accomplissement #acte #ejaculation #humiliant #metaphore #orgasme" ref="1.18" lemma="patro" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">patranti</w>
     <w ref="1.18" lemma="frango" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">fractus</w>
     <w ref="1.18" lemma="ocellus" pos="NOMcom" msd="Case=Abl|Numb=Sing">ocello</w>
     <w ref="1.18" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

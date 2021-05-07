@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #toucher #masturbation">
+<div type="fragment" ana="#acte #masturbatio #metonymie #toucher">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="5.11" lemma="caute" pos="ADV" msd="Deg=Pos">caute</w>
     <w ref="5.11" lemma="manus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">manus</w>
     <w ref="5.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #toucher #masturbation" ref="5.11" lemma="contrecto" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">contrectauisse</w>
+    <w ana="#acte #masturbatio #metonymie #toucher" ref="5.11" lemma="contrecto" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">contrectauisse</w>
     <w ref="5.11" lemma="uirilia" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">uirilia</w>
     <w ref="5.11" lemma="dormio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">dormientis</w>
   </quote>

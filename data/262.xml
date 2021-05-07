@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
         <w lemma="distorqueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">distorsit</w>
         <w lemma="immitto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">immisso</w>
         <w lemma="per" pos="PRE" msd="MORPH=empty">per</w>
-        <w lemma="obscenum" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#male #euphemisms #aidoion">obscaena</w>
+        <w lemma="obscenum" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#aidoion #euphemism #male #mentula">obscaena</w>
         <w lemma="ignis" pos="NOMcom" msd="Case=Abl|Numb=Sing">igne</w>
     </quote>
  </div>

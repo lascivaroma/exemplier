@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #glans">
+<div type="fragment" ana="#glans #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="leuo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">levat</w>
         <w lemma="exstinguo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">extinctum</w>
         <w lemma="sollicito" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">sollicitata</w>
-        <w ana="#male #glans" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+        <w ana="#glans #male" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

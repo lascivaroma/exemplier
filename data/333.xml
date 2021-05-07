@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #res">
+<div type="fragment" ana="#male #penis #res">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,6 +20,6 @@
         <w lemma="unde2" pos="ADVint" msd="MORPH=empty">unde</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Par|Tense=Fut|Voice=Act">foret</w>
         <w lemma="neruosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp">nervosius</w>
-        <w ana="#male #penis" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">illud</w>
+        <w ana="#male #penis #res" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">illud</w>
     </quote>
  </div>

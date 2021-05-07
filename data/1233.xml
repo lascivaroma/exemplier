@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #couper #tailler #pedicatio">
+<div type="fragment" ana="#acte #couper #metaphore #pedicatio #tailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -40,7 +40,7 @@
     <w ref="9.132" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=MascFem">omnes</w>
     <w ref="9.133" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
     <w ref="9.133" lemma="digitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">digito</w>
-    <w ana="#metaphore #acte #couper #tailler #pedicatio" ref="9.133" lemma="scalpo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">scalpunt</w>
+    <w ana="#acte #couper #metaphore #pedicatio #tailler" ref="9.133" lemma="scalpo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">scalpunt</w>
     <w ref="9.133" lemma="unus" pos="ADJcar" msd="Case=Abl|Numb=Sing|Gend=MascNeut">uno</w>
     <w ref="9.133" lemma="caput" pos="NOMcom" msd="Case=Nom|Numb=Sing">caput</w>
     <w ref="9.133" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

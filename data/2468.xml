@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #aidoion">
+<div type="fragment" ana="#aidoion #euphemism">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,7 +30,7 @@
     <w ref="13.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="13.2" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Plur|Gend=MascNeut">quorum</w>
     <w ref="13.2" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
-    <w ana="#euphemisms #aidoion" ref="13.2" lemma="obscenum" pos="NOMcom" msd="Case=Nom|Numb=Plur|Gend=Neut">obscena</w>
+    <w ana="#aidoion #euphemism" ref="13.2" lemma="obscenum" pos="NOMcom" msd="Case=Nom|Numb=Plur|Gend=Neut">obscena</w>
     <w ref="13.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="13.2" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
     <w ref="13.2" lemma="remedium" pos="NOMcom" msd="Case=Abl|Numb=Sing">remedio</w>

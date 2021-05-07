@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #euphemisms #aidoion #cunnus">
+<div type="fragment" ana="#aidoion #cunnus #euphemism #female">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
         <w lemma="sum" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuitque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{fuitque}</w>
         <w lemma="unus" pos="ADJcar" msd="Case=Nom|Numb=Sing|Gend=Fem">Una</w>
-        <w lemma="pudicitia" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#female #euphemisms #aidoion #cunnus">pudicitiae</w>
+        <w lemma="pudicitia" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#aidoion #cunnus #euphemism #female">pudicitiae</w>
         <w lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>
         <w lemma="notus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">nota</w>
         <w lemma="meus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=Fem">meae</w>

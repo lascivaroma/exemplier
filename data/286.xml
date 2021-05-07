@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #abstracts #mentula">
+<div type="fragment" ana="#abstracts #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:47.2">
         <w lemma="denudo" pos="ADJqua" msd="Case=Abl|Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act">denuda</w>
-        <w lemma="turpitudo" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #abstracts">turpitudinem</w>
+        <w lemma="turpitudo" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#abstracts #euphemism #male #mentula">turpitudinem</w>
         <w lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">tuam</w>
     </quote>
  </div>

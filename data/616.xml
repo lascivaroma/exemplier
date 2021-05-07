@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #labia">
+<div type="fragment" ana="#cunnus #female #labia">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="II.124" lemma="ulcero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">ulcerata</w>
     <w ref="II.124" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="II.124" lemma="connaturo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">connaturata</w>
-    <w ana="#female #cunnus #labia" ref="II.124" lemma="fibra" pos="NOMcom" msd="Case=Abl|Numb=Plur">fibris</w>
+    <w ana="#cunnus #female #labia" ref="II.124" lemma="fibra" pos="NOMcom" msd="Case=Abl|Numb=Plur">fibris</w>
     <w ref="II.124" lemma="femininus" pos="ADJqua" msd="Case=Gen|Numb=Sing">feminini</w>
     <w ref="II.124" lemma="sinus" pos="NOMcom" msd="Case=Nom|Numb=Plur">sinus</w>
     <w ref="II.124" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

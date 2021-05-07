@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #oral #allusion #impure">
+<div type="fragment" ana="#acte #allusion #impure #oral">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="2.12.1" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
     <w ref="2.12.1" lemma="oleo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">olent</w>
     <w ref="2.12.1" lemma="tuus" pos="PROpos" msd="Case=Nom|Numb=Plur|Gend=Neut">tua</w>
-    <w ana="#acte #oral #allusion #impure" ref="2.12.1" lemma="basium" pos="NOMcom" msd="Case=Nom|Numb=Plur">basia</w>
+    <w ana="#acte #allusion #impure #oral" ref="2.12.1" lemma="basium" pos="NOMcom" msd="Case=Nom|Numb=Plur">basia</w>
     <w ref="2.12.1" lemma="myrrha" pos="NOMcom" msd="Case=Acc|Numb=Sing">murram</w>
     <w ref="2.12.2" lemma="qui" pos="PROrel" msd="Case=Nom|Gend=Neut">Quodque</w>
     <w ref="2.12.2" lemma="que" pos="CON" msd="MORPH=empty">{Quodque}</w>

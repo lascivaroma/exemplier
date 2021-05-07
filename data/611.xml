@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #labia">
+<div type="fragment" ana="#cunnus #female #labia">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="I.102" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
     <w ref="I.102" lemma="aperio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">aperiat</w>
     <w ref="I.102" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
-    <w ana="#female #cunnus #labia" ref="I.102" lemma="fibra" pos="NOMcom" msd="Case=Acc|Numb=Plur">fibras</w>
+    <w ana="#cunnus #female #labia" ref="I.102" lemma="fibra" pos="NOMcom" msd="Case=Acc|Numb=Plur">fibras</w>
     <w ref="I.102" lemma="distendo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">distendat</w>
     <w ref="I.102" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

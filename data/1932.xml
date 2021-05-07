@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #enter">
+<div type="fragment" ana="#acte #enter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="14.74" lemma="placeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">placet</w>
     <w ref="14.74" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="14.75" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">ibo</w>
-    <w ana="#acte #metonymie #enter" ref="14.75" lemma="irruo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">inruentis</w>
+    <w ana="#acte #enter #metonymie" ref="14.75" lemma="irruo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">inruentis</w>
     <w ref="14.75" lemma="gressus" pos="NOMcom" msd="Case=Abl|Numb=Plur">gressibus</w>
     <w ref="14.75" lemma="obuiam" pos="ADV" msd="Deg=Pos">obviam</w>
     <w ref="14.75" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

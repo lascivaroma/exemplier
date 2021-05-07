@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="8.11.6" lemma="uterque" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">utriusque</w>
     <w ref="8.11.6" lemma="sexus" pos="NOMcom" msd="Case=Gen|Numb=Sing">sexus</w>
     <w ref="8.11.6" lemma="accendo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">accendenda</w>
-    <w ana="#acte #metonymie #amo" ref="8.11.6" lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing">venus</w>
+    <w ana="#acte #amo #metonymie" ref="8.11.6" lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing">venus</w>
     <w ref="8.11.6" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="8.11.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

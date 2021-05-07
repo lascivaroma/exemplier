@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec">
+<div type="fragment" ana="#acte #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:112" type="section">
-    <w ana="#acte #metonymie #dormir_avec" ref="112" lemma="iaceo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Iacuerunt</w>
+    <w ana="#acte #dormirAvec #metonymie" ref="112" lemma="iaceo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Iacuerunt</w>
     <w ref="112" lemma="ergo2" pos="CONcoo" msd="MORPH=empty">ergo</w>
     <w ref="112" lemma="una" pos="ADV" msd="Numb=Sing">una</w>
     <w ref="112" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>

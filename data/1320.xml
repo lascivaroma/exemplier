@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #lutter #sebattre">
+<div type="fragment" ana="#acte #lutter #metaphore #seBattre">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -32,7 +32,7 @@
     <w ref="1.2.117" lemma="impetus" pos="NOMcom" msd="Case=Nom|Numb=Sing">impetus</w>
     <w ref="1.2.117" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="1.2.117" lemma="quis1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
-    <w ana="#metaphore #acte #lutter #sebattre" ref="1.2.118" lemma="continuo2" pos="ADV" msd="Deg=Pos">continuo</w>
+    <w ana="#acte #lutter #metaphore #seBattre" ref="1.2.118" lemma="continuo2" pos="ADV" msd="Deg=Pos">continuo</w>
     <w ref="1.2.118" lemma="fio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">fiat</w>
     <w ref="1.2.118" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

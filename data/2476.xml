@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #descriptive-functional #euphemism #mentula">
+<div type="fragment" ana="#descriptiveFunctional #euphemism #male #mentula">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="4.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="4.1" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Plur">feminis</w>
     <w ref="4.1" lemma="super1" pos="ADV" msd="MORPH=empty">super</w>
-    <w ana="#male #descriptive-functional #euphemism #mentula" ref="4.1" lemma="genitalis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">genitale</w>
+    <w ana="#descriptiveFunctional #euphemism #male #mentula" ref="4.1" lemma="genitalis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">genitale</w>
     <w ref="4.1" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=Fem">earum</w>
     <w ref="4.1" lemma="situs2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">sita</w>
     <w ref="4.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>

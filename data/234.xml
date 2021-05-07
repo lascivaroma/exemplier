@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -45,7 +45,7 @@
         <w lemma="tensio" pos="NOMcom" msd="Case=Acc|Numb=Sing">tensionem</w>
         <w lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
         <w lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">fuisse</w>
-        <w lemma="ueretrum" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #euphemisms #aidoion #mentula">ueretri</w>
+        <w lemma="ueretrum" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#aidoion #euphemism #male #mentula">ueretri</w>
         <w lemma="nimius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">nimiam</w>
         <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
         <w lemma="paruus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">paruo</w>

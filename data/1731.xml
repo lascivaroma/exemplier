@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #metonymie #acte #embrace">
+<div type="fragment" ana="#acte #embrace #male #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="1.5.1" lemma="rosa" pos="NOMcom" msd="Case=Abl|Numb=Sing">rosa</w>
     <w ref="1.5.2" lemma="perfundo2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">perfusus</w>
     <w ref="1.5.2" lemma="liquidus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">liquidis</w>
-    <w ana="#acte #male #metonymie #acte #embrace" ref="1.5.2" lemma="urgeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">urget</w>
+    <w ana="#acte #embrace #male #metonymie" ref="1.5.2" lemma="urgeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">urget</w>
     <w ref="1.5.2" lemma="odor" pos="NOMcom" msd="Case=Abl|Numb=Plur">odoribus</w>
     <w ref="1.5.3" lemma="gratus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">grato</w>
     <w ref="1.5.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

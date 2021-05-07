@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #petrir">
+<div type="fragment" ana="#acte #metaphore #petrir">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="9.22.4" lemma="impudenter" pos="ADV" msd="Deg=Pos">impudenter</w>
     <w ref="9.22.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="9.22.4" lemma="&quot;" pos="PUNC" msd="MORPH=empty">"</w>
-    <w ana="#metaphore #acte #petrir" ref="9.22.4" lemma="depso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">depsit</w>
+    <w ana="#acte #metaphore #petrir" ref="9.22.4" lemma="depso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">depsit</w>
     <w ref="9.22.4" lemma="&quot;" pos="PUNC" msd="MORPH=empty">"</w>
     <w ref="9.22.4" lemma="multo2" pos="ADV" msd="Deg=Pos">multo</w>
     <w ref="9.22.4" lemma="impudens" pos="ADV" msd="Numb=Sing|Deg=Comp">impudentius</w>

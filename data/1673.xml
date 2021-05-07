@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #join">
+<div type="fragment" ana="#acte #composite #join #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,11 +19,11 @@
     <w ref="292b" lemma="si" pos="CONsub" msd="MORPH=empty">sis</w>
     <w ref="292b" lemma="uolo" pos="" msd="MORPH=empty">{sis}</w>
     <w ref="292b" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #join" ref="292b" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ana="#acte #composite #join #metonymie" ref="292b" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="292b" lemma="illac" pos="ADV" msd="Case=Abl|Gend=Fem">illac</w>
     <w ref="292b" lemma="numquam" pos="ADVneg" msd="MORPH=empty">numquam</w>
-    <w ana="#acte #metonymie #join" ref="292b" lemma="limo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">limavi</w>
-    <w ana="#acte #metonymie #join" ref="292b" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+    <w ana="#acte #composite #join #metonymie" ref="292b" lemma="limo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">limavi</w>
+    <w ana="#acte #composite #join #metonymie" ref="292b" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
     <w ref="292b" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #impotence #euphemism">
+<div type="fragment" ana="#euphemism #impotence #male #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi003.perseus-lat2:12.14">
         <w lemma="Inachius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">Inachia</w>
-        <w lemma="langueo" pos="NOMcom" msd="Case=Nom|Numb=Sing|Person=2" ana="#male #specialisation #impotence #euphemism">langues</w>
+        <w lemma="langueo" pos="NOMcom" msd="Case=Nom|Numb=Sing|Person=2" ana="#euphemism #impotence #male #specialisation">langues</w>
         <w lemma="parum2" pos="ADV" msd="Deg=Comp">minus</w>
         <w lemma="ac2" pos="CONsub" msd="MORPH=empty">ac</w>
         <w lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>

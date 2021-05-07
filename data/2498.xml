@@ -1,4 +1,4 @@
-<div type="fragment" ana="#caves #female #culus #cunnus #metaphore">
+<div type="fragment" ana="#caves #culus #cunnus #female #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.646.41ff.</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:28.8" type="chapter">
     <w ref="28.8" lemma="idem" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eiusdem</w>
-    <w ana="#caves #female #culus #cunnus #metaphore" ref="28.8" lemma="cauerna" pos="NOMcom" msd="Case=Acc|Numb=Sing">cavernam</w>
+    <w ana="#caves #culus #cunnus #female #metaphore" ref="28.8" lemma="cauerna" pos="NOMcom" msd="Case=Acc|Numb=Sing">cavernam</w>
     <w ref="28.8" lemma="sinister" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">sinistro</w>
     <w ref="28.8" lemma="lacertus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">lacerto</w>
     <w ref="28.8" lemma="alligo2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">alligatam</w>

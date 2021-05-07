@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #travailler">
+<div type="fragment" ana="#acte #metaphore #travailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,7 +30,7 @@
     <w ref="5.14" lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Plur">puellas</w>
     <w ref="5.14" lemma="audio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">audire</w>
     <w ref="5.14" lemma="taediosus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=MascNeut|Deg=Pos">taediosi</w>
-    <w ana="#metaphore #acte #travailler" ref="5.14" lemma="opus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">operis</w>
+    <w ana="#acte #metaphore #travailler" ref="5.14" lemma="opus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">operis</w>
     <w ref="5.14" lemma="circumscribo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">circumscribentes</w>
     <w ref="5.14" lemma="mora" pos="NOMcom" msd="Case=Acc|Numb=Plur">moras</w>
     <w ref="5.14" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>

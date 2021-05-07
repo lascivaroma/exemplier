@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #violence">
+<div type="fragment" ana="#acte #composite #metonymie #violence">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,8 +22,8 @@
     <w ref="8.1a.8" lemma="ingenuus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">ingenuam</w>
     <w ref="8.1a.8" lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Sing">uirginem</w>
     <w ref="8.1a.8" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
-    <w ana="#acte #metonymie #violence" ref="8.1a.8" lemma="sui1" pos="PROref" msd="Case=Abl|Numb=Sing">se</w>
-    <w ana="#acte #metonymie #violence" ref="8.1a.8" lemma="corrumpo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">corruptam</w>
+    <w ana="#acte #composite #metonymie #violence" ref="8.1a.8" lemma="sui1" pos="PROref" msd="Case=Abl|Numb=Sing">se</w>
+    <w ana="#acte #composite #metonymie #violence" ref="8.1a.8" lemma="corrumpo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">corruptam</w>
     <w ref="8.1a.8" lemma="poeticus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">poetico</w>
     <w ref="8.1a.8" lemma="iocus" pos="NOMcom" msd="Case=Abl|Numb=Sing">ioco</w>
     <w ref="8.1a.8" lemma="significo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">significauerat</w>

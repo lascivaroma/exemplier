@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #violence">
+<div type="fragment" ana="#acte #composite #metonymie #violence">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -31,8 +31,8 @@
     <w ref="1.2.2" lemma="dominor" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">dominante</w>
     <w ref="1.2.2" lemma="castus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">castam</w>
     <w ref="1.2.2" lemma="ueritas" pos="NOMcom" msd="Case=Gen|Numb=Sing">ueritatis</w>
-    <w ana="#acte #metonymie #violence" ref="1.2.2" lemma="uirginitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">uirginitatem</w>
-    <w ana="#acte #metonymie #violence" ref="1.2.2" lemma="corrumpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">corrumpere</w>
+    <w ana="#acte #composite #metonymie #violence" ref="1.2.2" lemma="uirginitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">uirginitatem</w>
+    <w ana="#acte #composite #metonymie #violence" ref="1.2.2" lemma="corrumpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">corrumpere</w>
     <w ref="1.2.2" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
     <w ref="1.2.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
         <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>
         <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
         <w lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Plur">partes</w>
-        <w lemma="obscenus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos" ana="#male #euphemisms #aidoion">obscenas</w>
+        <w lemma="obscenus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos" ana="#aidoion #euphemism #male #mentula">obscenas</w>
         <w lemma="pertineo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pertinent</w>
     </quote>
  </div>

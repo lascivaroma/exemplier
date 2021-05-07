@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -36,7 +36,7 @@
     <w ref="38.18" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="38.18" lemma="unus" pos="ADJcar" msd="Case=Acc|Numb=Sing|Gend=MascNeut">unum</w>
     <w ref="38.18" lemma="igitur" pos="CONcoo" msd="MORPH=empty">igitur</w>
-    <w ana="#acte #metonymie #coeo" ref="38.18" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">coitum</w>
+    <w ana="#acte #coeo #metonymie" ref="38.18" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">coitum</w>
     <w ref="38.18" lemma="concipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">concepit</w>
     <w ref="38.18" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>
   </quote>

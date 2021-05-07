@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #etreavec">
+<div type="fragment" ana="#acte #composite #etreAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,8 +24,8 @@
     <w ref="706" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="706" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>
     <w ref="706" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">mecum</w>
-    <w ana="#acte #metonymie #etreavec" ref="706" lemma="cum3" pos="CON" msd="MORPH=empty">{mecum}</w>
-    <w ana="#acte #metonymie #etreavec" ref="706" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
+    <w ana="#acte #composite #etreAvec #metonymie" ref="706" lemma="cum3" pos="CON" msd="MORPH=empty">{mecum}</w>
+    <w ana="#acte #composite #etreAvec #metonymie" ref="706" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
     <w ref="706" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #descriptive-functional #euphemism #mentula">
+<div type="fragment" ana="#descriptiveFunctional #euphemism #male #mentula">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -45,7 +45,7 @@
     <w ref="10.22" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>
     <w ref="10.22" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
     <w ref="10.22" lemma="uastus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">vastum</w>
-    <w ana="#male #descriptive-functional #euphemism #mentula" ref="10.22" lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">genitale</w>
+    <w ana="#descriptiveFunctional #euphemism #male #mentula" ref="10.22" lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">genitale</w>
     <w ref="10.22" lemma="suscipio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">susciperet</w>
     <w ref="10.22" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
   </quote>

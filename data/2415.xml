@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #armes">
+<div type="fragment" ana="#armes #mentula #metaphore #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:130" type="section">
     <w ref="130" lemma="paratus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Paratus</w>
     <w ref="130" lemma="miles" pos="NOMcom" msd="Case=Nom|Numb=Sing">miles</w>
-    <w ana="#mentula #metaphore #pointu #armes" ref="130" lemma="arma" pos="NOMcom" msd="Case=Acc|Numb=Plur">arma</w>
+    <w ana="#armes #mentula #metaphore #pointu" ref="130" lemma="arma" pos="NOMcom" msd="Case=Acc|Numb=Plur">arma</w>
     <w ref="130" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="130" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">habui</w>
     <w ref="130" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

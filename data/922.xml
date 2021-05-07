@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -43,7 +43,7 @@
     <w ref="2.83" lemma="sinapismus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos">sinapismum</w>
     <w ref="2.83" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
     <w ref="2.83" lemma="suppono" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Adj|Voice=Pass">supponenda</w>
-    <w ana="#anus #culus" ref="2.83" lemma="podicus" pos="NOMcom" msd="Case=Gen|Numb=Sing">podici</w>
+    <w ana="#culus" ref="2.83" lemma="podicus" pos="NOMcom" msd="Case=Gen|Numb=Sing">podici</w>
     <w ref="2.83" lemma="acer2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">acria</w>
     <w ref="2.83" lemma="collyrium" pos="NOMcom" msd="Case=Acc|Numb=Sing">collyria</w>
     <w ref="2.83" lemma="ob" pos="PRE" msd="MORPH=empty">ob</w>

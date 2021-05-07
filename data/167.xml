@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #mentula">
+<div type="fragment" ana="#adjoiningParts #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
         <w lemma="recutitus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Deg=Pos">recutitorum</w>
         <w lemma="fugio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">fugis</w>
-        <w lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #euphemisms #voisinage #euphemism">inguina</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#adjoiningParts #euphemism #male #mentula">inguina</w>
         <w lemma="Iudaei" pos="NOMpro" msd="Case=Gen|Numb=Plur">Iudaeorum</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>

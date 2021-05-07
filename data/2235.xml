@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio #femme">
+<div type="fragment" ana="#acte #animal #femme #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="8.2.13" lemma="gero" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">gerunt</w>
     <w ref="8.2.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="8.2.13" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#acte #animals #salio #femme" ref="8.2.13" lemma="salacitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">salacitatem</w>
+    <w ana="#acte #animal #femme #salio" ref="8.2.13" lemma="salacitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">salacitatem</w>
     <w ref="8.2.13" lemma="fecunditas" pos="NOMcom" msd="Case=Acc|Numb=Sing">fecunditatemque</w>
     <w ref="8.2.13" lemma="que" pos="CON" msd="MORPH=empty">{fecunditatemque}</w>
     <w ref="8.2.13" lemma="uernaculus1" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">vernaculam</w>

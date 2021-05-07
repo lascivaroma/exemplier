@@ -1,4 +1,4 @@
-<div type="fragment" ana="#caves #culus #cunnus #female #metaphore #male">
+<div type="fragment" ana="#caves #culus #cunnus #female #male #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="gemitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">gemitumque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{gemitumque}</w>
         <w lemma="do" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">dedere</w>
-        <w ana="#caves #culus #cunnus" lemma="cauerna" pos="NOMcom" msd="Case=Nom|Numb=Plur">cavernae</w>
+        <w ana="#caves #culus #cunnus #female #male #metaphore" lemma="cauerna" pos="NOMcom" msd="Case=Nom|Numb=Plur">cavernae</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

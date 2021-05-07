@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #position #futuor">
+<div type="fragment" ana="#acte #composite #fututio #metonymie #position">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,8 +19,8 @@
     <w ref="55" lemma="matrona" pos="NOMcom" msd="Case=Nom|Numb=Sing">matrona</w>
     <w ref="55" lemma="ornataphaler" pos="VER" msd="Case=Abl|Numb=Sing">ornataphaleris</w>
     <w ref="55" lemma="pelagius" pos="ADJqua" msd="Case=Abl|Numb=Plur|Deg=Pos">pelagiis</w>
-    <w ana="#acte #metonymie #position #futuor" ref="55" lemma="tollo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">tollat</w>
-    <w ana="#acte #metonymie #position #futuor" ref="55" lemma="pes" pos="NOMcom" msd="Case=Acc|Numb=Plur">pedes</w>
+    <w ana="#acte #composite #fututio #metonymie #position" ref="55" lemma="tollo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">tollat</w>
+    <w ana="#acte #composite #fututio #metonymie #position" ref="55" lemma="pes" pos="NOMcom" msd="Case=Acc|Numb=Plur">pedes</w>
     <w ref="55" lemma="indomitus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">indomita</w>
     <w ref="55" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="55" lemma="stratum" pos="NOMcom" msd="Case=Abl|Numb=Sing">strato</w>

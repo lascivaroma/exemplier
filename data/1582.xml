@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="3.6.28" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
     <w ref="3.6.28" lemma="frater" pos="NOMcom" msd="Case=Gen|Numb=Plur">fratrum</w>
     <w ref="3.6.28" lemma="uxor" pos="NOMcom" msd="Case=Abl|Numb=Plur">uxoribus</w>
-    <w ana="#acte #metonymie #coeo" ref="3.6.28" lemma="coeo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">coire</w>
+    <w ana="#acte #coeo #metonymie" ref="3.6.28" lemma="coeo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">coire</w>
     <w ref="3.6.28" lemma="cogo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">coguntur</w>
     <w ref="3.6.28" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
   </quote>

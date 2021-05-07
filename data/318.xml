@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #natura #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #natura">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -40,7 +40,7 @@
         <w lemma="recte" pos="ADV" msd="Deg=Pos">recte</w>
         <w lemma="super2" pos="PRE" msd="MORPH=empty">super</w>
         <w lemma="purulentus" pos="ADJqua" msd="Case=Acc|Numb=Sing">purulenta</w>
-        <w lemma="naturalis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#male #natura #euphemism #mentula">naturalia</w>
+        <w lemma="naturalis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#euphemism #male #mentula #natura">naturalia</w>
         <w lemma="impono" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">imponitur</w>
     </quote>
  </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#irrumo #fellatio #implicite #acte">
+<div type="fragment" ana="#acte #composite #fellatio #implicite #irrumatio">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,9 +17,9 @@
         <w lemma="proinde" pos="ADV" msd="Deg=Pos">proinde</w>
         <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
         <w lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eo</w>
-        <w ana="#irrumo #fellatio #implicite #composite" lemma="insulto" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Fut|Voice=Act">insultaturum</w>
+        <w ana="#acte #composite #fellatio #implicite #irrumatio" lemma="insulto" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Fut|Voice=Act">insultaturum</w>
         <w lemma="omnis" pos="PROind" msd="Case=Gen|Numb=Plur|Gend=Com">omnium</w>
-        <w ana="#irrumo #fellatio #implicite #composite" lemma="caput" pos="NOMcom" msd="Case=Abl|Numb=Plur">capitibus</w>
+        <w ana="#acte #composite #fellatio #implicite #irrumatio" lemma="caput" pos="NOMcom" msd="Case=Abl|Numb=Plur">capitibus</w>
         <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
         <w lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
         <w lemma="nego" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">negante</w>

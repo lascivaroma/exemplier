@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #agriculture #creuser #acte">
+<div type="fragment" ana="#acte #agriculture #creuser #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="9.45" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
     <w ref="9.45" lemma="miser" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">miser</w>
     <w ref="9.45" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
-    <w ana="#metaphore #agriculture #creuser #acte" ref="9.45" lemma="fodio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">foderit</w>
+    <w ana="#acte #agriculture #creuser #metaphore" ref="9.45" lemma="fodio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">foderit</w>
     <w ref="9.45" lemma="ager" pos="NOMcom" msd="Case=Acc|Numb=Sing">agrum</w>
     <w ref="9.45" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="9.46" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #labia">
+<div type="fragment" ana="#cunnus #female #labia">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -43,7 +43,7 @@
     <w ref="164" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="164" lemma="grauis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Sup">gravissimam</w>
     <w ref="164" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
-    <w ana="#female #cunnus #labia" ref="165" lemma="uterus" pos="NOMcom" msd="Case=Gen|Numb=Sing">uteri</w>
+    <w ana="#cunnus #female #labia" ref="165" lemma="uterus" pos="NOMcom" msd="Case=Gen|Numb=Sing">uteri</w>
     <w ref="165" lemma="dolor" pos="NOMcom" msd="Case=Nom|Numb=Plur">dolores</w>
     <w ref="165" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
     <w ref="165" lemma="oborior" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">oboriuntur</w>

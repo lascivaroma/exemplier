@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #m2puer #dormir_avec">
+<div type="fragment" ana="#acte #composite #dormirAvec #m2puer #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,10 +28,10 @@
     <w ref="11.56.10" lemma="pexo" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=Fem">pexa</w>
     <w ref="11.56.10" lemma="torus" pos="NOMcom" msd="Case=Acc|Numb=Plur">toros</w>
     <w ref="11.56.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #m2puer #dormir_avec" ref="11.56.11" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">Dormiat</w>
+    <w ana="#acte #composite #dormirAvec #m2puer #metonymie" ref="11.56.11" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">Dormiat</w>
     <w ref="11.56.11" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="11.56.11" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">tecum</w>
-    <w ana="#acte #metonymie #m2puer #dormir_avec" ref="11.56.11" lemma="cum3" pos="CON" msd="MORPH=empty">{tecum}</w>
+    <w ana="#acte #composite #dormirAvec #m2puer #metonymie" ref="11.56.11" lemma="cum3" pos="CON" msd="MORPH=empty">{tecum}</w>
     <w ref="11.56.11" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="11.56.11" lemma="modo1" pos="ADV" msd="Deg=Pos">modo</w>
     <w ref="11.56.11" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>

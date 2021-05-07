@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio">
+<div type="fragment" ana="#acte #animal #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="6.37.9" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
     <w ref="6.37.9" lemma="uulgaris" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">vulgaris</w>
     <w ref="6.37.9" lemma="asellus" pos="NOMcom" msd="Case=Nom|Numb=Sing">asellus</w>
-    <w ana="#acte #animals #salio" ref="6.37.9" lemma="admoueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">admovetur</w>
+    <w ana="#acte #animal #salio" ref="6.37.9" lemma="admoueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">admovetur</w>
     <w ref="6.37.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="6.37.9" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
     <w ref="6.37.9" lemma="solicito" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">solicitet</w>

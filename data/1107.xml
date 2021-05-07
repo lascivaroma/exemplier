@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #pedico">
+<div type="fragment" ana="#acte #male #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
     <w ref="28.2" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
     <w ref="28.2" lemma="hortus" pos="NOMcom" msd="Case=Abl|Numb=Sing">horto</w>
     <w ref="28.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #male #pedico" ref="28.3" lemma="paedico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=2">pedicabere</w>
+    <w ana="#acte #male #pedicatio" ref="28.3" lemma="paedico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=2">pedicabere</w>
     <w ref="28.3" lemma="fascinum" pos="NOMcom" msd="Case=Abl|Numb=Sing">fascino</w>
     <w ref="28.3" lemma="pedalis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">pedali</w>
     <w ref="28.3" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

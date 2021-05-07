@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #movement">
+<div type="fragment" ana="#acte #composite #metonymie #movement">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,9 +30,9 @@
     <w ref="3.134" lemma="semel" pos="ADJadv.mul" msd="MORPH=empty">semel</w>
     <w ref="3.134" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
     <w ref="3.134" lemma="iterum" pos="ADV" msd="Deg=Pos">iterum</w>
-    <w ana="#acte #metonymie #movement" ref="3.134" lemma="super2" pos="PRE" msd="MORPH=empty">super</w>
+    <w ana="#acte #composite #metonymie #movement" ref="3.134" lemma="super2" pos="PRE" msd="MORPH=empty">super</w>
     <w ref="3.134" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
-    <w ana="#acte #metonymie #movement" ref="3.134" lemma="palpito" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">palpitet</w>
+    <w ana="#acte #composite #metonymie #movement" ref="3.134" lemma="palpito" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">palpitet</w>
     <w ref="3.134" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
   </quote>
 </div>

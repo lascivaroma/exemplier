@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #pedico">
+<div type="fragment" ana="#acte #male #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:35.1-35.2" type="line">
-    <w ana="#acte #male #pedico" ref="35.1" lemma="paedico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=2">Pedicabere</w>
+    <w ana="#acte #male #pedicatio" ref="35.1" lemma="paedico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=2">Pedicabere</w>
     <w ref="35.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="35.1" lemma="fur" pos="NOMcom" msd="Case=Nom|Numb=Sing">fur</w>
     <w ref="35.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

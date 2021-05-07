@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #futuo">
+<div type="fragment" ana="#acte #fututio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -37,7 +37,7 @@
     <w ref="37.4" lemma="quisquis1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quidquid</w>
     <w ref="37.4" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="37.4" lemma="puella" pos="NOMcom" msd="Case=Gen|Numb=Plur">puellarum</w>
-    <w ana="#acte #futuo" ref="37.5" lemma="confutuo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">confutuere</w>
+    <w ana="#acte #fututio" ref="37.5" lemma="confutuo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">confutuere</w>
     <w ref="37.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="37.5" lemma="puto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">putare</w>
     <w ref="37.5" lemma="ceteri" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc">ceteros</w>

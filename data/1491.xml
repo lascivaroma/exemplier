@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #m2f #dormir_avec">
+<div type="fragment" ana="#acte #composite #dormirAvec #m2f #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -33,9 +33,9 @@
     <w ref="30.15" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2">tuleris</w>
     <w ref="30.15" lemma="aio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ait</w>
     <w ref="30.15" lemma="Raelus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Rahel</w>
-    <w ana="#acte #metonymie #m2f #dormir_avec" ref="30.15" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">dormiat</w>
+    <w ana="#acte #composite #dormirAvec #m2f #metonymie" ref="30.15" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">dormiat</w>
     <w ref="30.15" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">tecum</w>
-    <w ana="#acte #metonymie #m2f #dormir_avec" ref="30.15" lemma="cum3" pos="CON" msd="MORPH=empty">{tecum}</w>
+    <w ana="#acte #composite #dormirAvec #m2f #metonymie" ref="30.15" lemma="cum3" pos="CON" msd="MORPH=empty">{tecum}</w>
     <w ref="30.15" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">hac</w>
     <w ref="30.15" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Sing">nocte</w>
     <w ref="30.15" lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #have">
+<div type="fragment" ana="#acte #have #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="9.497" lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Plur">di</w>
     <w ref="9.497" lemma="nempe" pos="ADV" msd="Deg=Pos">nempe</w>
     <w ref="9.497" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Plur|Gend=Fem">suas</w>
-    <w ana="#acte #metonymie #have" ref="9.497" lemma="habeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">habuere</w>
+    <w ana="#acte #have #metonymie" ref="9.497" lemma="habeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">habuere</w>
     <w ref="9.497" lemma="soror" pos="NOMcom" msd="Case=Acc|Numb=Plur">sorores</w>
   </quote>
 </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #aggression">
+<div type="fragment" ana="#acte #aggression #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,7 +30,7 @@
     <w ref="7.8.9" lemma="animus" pos="NOMcom" msd="Case=Abl|Numb=Sing">animo</w>
     <w ref="7.8.9" lemma="infitior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">infitiatus</w>
     <w ref="7.8.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
-    <w ana="#acte #metonymie #aggression" ref="7.8.9" lemma="rapio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">raptum</w>
+    <w ana="#acte #aggression #metonymie" ref="7.8.9" lemma="rapio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">raptum</w>
     <w ref="7.8.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="7.8.9" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
     <w ref="7.8.9" lemma="nuptiae" pos="NOMcom" msd="Case=Acc|Numb=Plur">nuptias</w>

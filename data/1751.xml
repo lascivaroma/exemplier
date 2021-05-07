@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rub #masturbation">
+<div type="fragment" ana="#acte #masturbatio #metonymie #rub">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="4.1195" lemma="communis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">communia</w>
     <w ref="4.1195" lemma="quaero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">quaerens</w>
     <w ref="4.1196" lemma="gaudium" pos="NOMcom" msd="Case=Acc|Numb=Plur">gaudia</w>
-    <w ana="#acte #metonymie #rub #masturbation" ref="4.1196" lemma="sollicito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sollicitat</w>
+    <w ana="#acte #masturbatio #metonymie #rub" ref="4.1196" lemma="sollicito" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sollicitat</w>
     <w ref="4.1196" lemma="spatium" pos="NOMcom" msd="Case=Acc|Numb=Sing">spatium</w>
     <w ref="4.1196" lemma="decurro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">decurrere</w>
     <w ref="4.1196" lemma="amor" pos="NOMcom" msd="Case=Gen|Numb=Sing">amoris</w>

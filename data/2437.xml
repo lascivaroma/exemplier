@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #botanique">
+<div type="fragment" ana="#botanique #mentula #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="1.1.115" lemma="pudeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">pudeat</w>
     <w ref="1.1.115" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
     <w ref="1.1.115" lemma="uiso" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">visere</w>
-    <w ana="#mentula #metaphore #botanique" ref="1.1.115" lemma="ramus" pos="NOMcom" msd="Case=Abl|Numb=Sing">ramo</w>
+    <w ana="#botanique #mentula #metaphore" ref="1.1.115" lemma="ramus" pos="NOMcom" msd="Case=Abl|Numb=Sing">ramo</w>
     <w ref="1.1.115" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

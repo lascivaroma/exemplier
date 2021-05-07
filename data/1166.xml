@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #acte #passive">
+<div type="fragment" ana="#acte #male #passive">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
     <w ref="9.40" lemma="computo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">computat</w>
     <w ref="9.40" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="9.40" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#male #acte #passive" ref="9.40" lemma="ceueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cevet</w>
+    <w ana="#acte #male #passive" ref="9.40" lemma="ceueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cevet</w>
     <w ref="9.40" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

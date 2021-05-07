@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="14.66" lemma="fera" pos="NOMcom" msd="Case=Gen|Numb=Plur">ferarum</w>
     <w ref="14.67" lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Plur">inguinibus</w>
     <w ref="14.67" lemma="truncus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">truncis</w>
-    <w ana="#female #cunnus #womb" ref="14.67" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uteroque</w>
+    <w ana="#cunnus #female #womb" ref="14.67" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uteroque</w>
     <w ref="14.67" lemma="que" pos="CON" msd="MORPH=empty">{uteroque}</w>
     <w ref="14.67" lemma="exsto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">exstante</w>
     <w ref="14.67" lemma="coerceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">coercet</w>

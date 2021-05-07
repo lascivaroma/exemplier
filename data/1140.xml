@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #fellatio #acte">
+<div type="fragment" ana="#acte #fellatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="2.73.1" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing">quod</w>
     <w ref="2.73.1" lemma="sobrius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">sobria</w>
     <w ref="2.73.1" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
-    <w ana="#acte #fellatio #acte" ref="2.73.1" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">fellat</w>
+    <w ana="#acte #fellatio" ref="2.73.1" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">fellat</w>
     <w ref="2.73.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

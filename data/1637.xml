@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="4.214" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="4.214" lemma="quam1" pos="PROrel" msd="Case=Acc">quam</w>
     <w ref="4.214" lemma="dispar" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">dispare</w>
-    <w ana="#acte #metonymie #coeo" ref="4.214" lemma="coetus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coetu</w>
+    <w ana="#acte #coeo #metonymie" ref="4.214" lemma="coetus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coetu</w>
     <w ref="4.215" lemma="Cyllarus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Cyllarus</w>
     <w ref="4.215" lemma="ignarus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">ignaro</w>
     <w ref="4.215" lemma="genero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">generarat</w>

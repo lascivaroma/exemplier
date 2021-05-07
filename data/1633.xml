@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,8 +20,8 @@
     <w ref="22" lemma="masculus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">masculos</w>
     <w ref="22" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="22" lemma="frequens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">frequens</w>
-    <w ana="#acte #metonymie #coeo" ref="22" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coitus</w>
-    <w ana="#acte #metonymie #coeo" ref="22" lemma="male" pos="ADV" msd="Deg=Pos">male</w>
+    <w ana="#acte #coeo #composite #metonymie" ref="22" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coitus</w>
+    <w ana="#acte #coeo #composite #metonymie" ref="22" lemma="male" pos="ADV" msd="Deg=Pos">male</w>
     <w ref="22" lemma="accipio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">accipere</w>
     <w ref="22" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="22" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>

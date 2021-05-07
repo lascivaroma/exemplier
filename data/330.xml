@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #natura  #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #natura #remove">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="radix" pos="NOMcom" msd="Case=Acc|Numb=Sing">radicem</w>
         <w lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
         <w lemma="alterutris" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">alterutrius</w>
-        <w lemma="sexus" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #natura #remove">sexus</w>
+        <w lemma="sexus" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#euphemism #male #mentula #natura #remove">sexus</w>
         <w lemma="similitudo" pos="NOMcom" msd="Case=Acc|Numb=Sing">similitudinem</w>
         <w lemma="refero" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">referre</w>
     </quote>

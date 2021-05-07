@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="22.22" lemma="que" pos="CON" msd="MORPH=empty">{marcentesque}</w>
     <w ref="22.22" lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
     <w ref="22.22" lemma="senium" pos="NOMcom" msd="Case=Abl|Numb=Sing">senio</w>
-    <w ana="#acte #metonymie #coeo" ref="22.22" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Plur">coitus</w>
+    <w ana="#acte #coeo #metonymie" ref="22.22" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Plur">coitus</w>
     <w ref="22.22" lemma="excito1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">excitat</w>
     <w ref="22.22" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

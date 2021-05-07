@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #disgrace">
+<div type="fragment" ana="#acte #disgrace #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="16.19" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="16.19" lemma="nouitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">novitatem</w>
     <w ref="16.19" lemma="quisque2" pos="PROind" msd="Case=Gen|Numb=Sing|Gend=Com">cuiusque</w>
-    <w ana="#acte #metonymie #disgrace" ref="16.19" lemma="stuprum" pos="NOMcom" msd="Case=Gen|Numb=Sing">stupri</w>
+    <w ana="#acte #disgrace #metonymie" ref="16.19" lemma="stuprum" pos="NOMcom" msd="Case=Gen|Numb=Sing">stupri</w>
     <w ref="16.19" lemma="perscribo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">perscripsit</w>
     <w ref="16.19" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
     <w ref="16.19" lemma="obsigno" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">obsignata</w>

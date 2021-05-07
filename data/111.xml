@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+<div type="fragment" ana="#composite #euphemism #male #mentula #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="Priapus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Priape</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w lemma="pars" pos="NOMcom" msd="Case=Dat|Numb=Sing" ana="#male #specialisation #euphemism #mentula">parti</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Dat|Numb=Sing" ana="#composite #euphemism #male #mentula #specialisation">parti</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
         <w lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
@@ -31,7 +31,7 @@
         <w lemma="pater" pos="NOMcom" msd="Case=Nom|Numb=Sing">pater</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
-        <w lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #specialisation #euphemism #mentula">pars</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#composite #euphemism #male #mentula #specialisation">pars</w>
         <w lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=2">uideris</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>

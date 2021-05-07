@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #toucher #masturbation">
+<div type="fragment" ana="#acte #masturbatio #metonymie #toucher">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,6 +28,6 @@
     <w ref="140" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
     <w ref="140" lemma="deus" pos="NOMcom" msd="Case=Gen|Numb=Plur">deorum</w>
     <w ref="140" lemma="beneficium" pos="NOMcom" msd="Case=Acc|Numb=Plur">beneficia</w>
-    <w ana="#acte #metonymie #toucher #masturbation" ref="140" lemma="tracto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tractat</w>
+    <w ana="#acte #masturbatio #metonymie #toucher" ref="140" lemma="tracto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tractat</w>
   </quote>
 </div>

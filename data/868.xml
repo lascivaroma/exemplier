@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus #medical">
+<div type="fragment" ana="#culus #medicale">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="205.10" lemma="moueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">moues</w>
     <w ref="205.10" lemma="os1" pos="NOMcom" msd="Case=Acc|Numb=Sing">os</w>
     <w ref="205.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#anus #culus #medical" ref="205.10" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Sing">culum</w>
+    <w ana="#culus #medicale" ref="205.10" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Sing">culum</w>
     <w ref="205.10" lemma="porrigo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">porrigis</w>
     <w ref="205.10" lemma="ultro" pos="ADV" msd="Deg=Pos">ultro</w>
     <w ref="205.10" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

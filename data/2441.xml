@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #outil #metaphore #mentula">
+<div type="fragment" ana="#male #mentula #metaphore #outil">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="5" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
     <w ref="5" lemma="is" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">ei</w>
     <w ref="5" lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
-    <w ana="#male #outil #metaphore #mentula" ref="5" lemma="uasatus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">vasatos</w>
+    <w ana="#male #mentula #metaphore #outil" ref="5" lemma="uasatus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">vasatos</w>
     <w ref="5" lemma="perquiro" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">perquirerent</w>
     <w ref="5" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Masc">eosque</w>
     <w ref="5" lemma="que" pos="CON" msd="MORPH=empty">{eosque}</w>

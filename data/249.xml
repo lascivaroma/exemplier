@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
         <w lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
         <w lemma="inicio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">iniecta</w>
         <w lemma="uestis" pos="NOMcom" msd="Case=Abl|Numb=Sing">veste</w>
-        <w lemma="pudendus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" ana="#male #euphemisms #aidoion">pudenda</w>
+        <w lemma="pudendus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" ana="#aidoion #euphemism #male #mentula">pudenda</w>
         <w lemma="lateo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">latet</w>
         <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     </quote>

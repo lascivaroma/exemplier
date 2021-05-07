@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="II.14" lemma="inguen" pos="NOMcom" msd="Case=Nom|Numb=Plur">inguina</w>
     <w ref="II.14" lemma="perungo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Adj|Voice=Pass">perungenda</w>
     <w ref="II.14" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#anus #culus" ref="II.14" lemma="podex" pos="NOMcom" msd="Case=Nom|Numb=Sing">podex</w>
+    <w ana="#culus" ref="II.14" lemma="podex" pos="NOMcom" msd="Case=Nom|Numb=Sing">podex</w>
     <w ref="II.14" lemma="intra?" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">interius</w>
     <w ref="II.14" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="1.45" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
     <w ref="1.45" lemma="confusus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">confuso</w>
     <w ref="1.45" lemma="parens1" pos="NOMcom" msd="Case=Gen|Numb=Plur">parentium</w>
-    <w ana="#acte #metonymie #coeo" ref="1.45" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
+    <w ana="#acte #coeo #metonymie" ref="1.45" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
     <w ref="1.45" lemma="passim" pos="ADV" msd="Deg=Pos">passim</w>
     <w ref="1.45" lemma="incertus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">incertique</w>
     <w ref="1.45" lemma="que" pos="CON" msd="MORPH=empty">{incertique}</w>

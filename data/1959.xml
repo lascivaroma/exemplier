@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #position #futuor">
+<div type="fragment" ana="#acte #composite #fututio #metonymie #position">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,10 +26,10 @@
     <w ref="863" lemma="simul1" pos="ADV" msd="Deg=Pos">simul</w>
     <w ref="863" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     <w ref="864" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
-    <w ana="#acte #metonymie #position #futuor" ref="864" lemma="conquinisco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">conquiniscet</w>
+    <w ana="#acte #composite #fututio #metonymie #position" ref="864" lemma="conquinisco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">conquiniscet</w>
     <w ref="864" lemma="istic2" pos="ADV" msd="Deg=Pos">istic</w>
     <w ref="864" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #position #futuor" ref="864" lemma="conquinisco" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2">conquiniscito</w>
+    <w ana="#acte #composite #fututio #metonymie #position" ref="864" lemma="conquinisco" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2">conquiniscito</w>
     <w ref="864" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

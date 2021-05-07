@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #have #homosexuel">
+<div type="fragment" ana="#acte #have #homoeros #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="1.524" lemma="male" pos="ADV" msd="Deg=Pos">male</w>
     <w ref="1.524" lemma="uir" pos="NOMcom" msd="Case=Nom|Numb=Sing">vir</w>
     <w ref="1.524" lemma="quaero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">quaerit</w>
-    <w ana="#acte #metonymie #have #homosexuel" ref="1.524" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
+    <w ana="#acte #have #homoeros #metonymie" ref="1.524" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
     <w ref="1.524" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Sing">virum</w>
     <w ref="1.524" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

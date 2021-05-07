@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,8 +17,8 @@
     <w ref="3.176" lemma="hortor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">hortatur</w>
     <w ref="3.176" lemma="etenim" pos="CONcoo" msd="MORPH=empty">etenim</w>
     <w ref="3.176" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-    <w ana="#acte #metonymie #amo" ref="3.176" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
-    <w ana="#acte #metonymie #amo" ref="3.176" lemma="Uenereus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerium</w>
+    <w ana="#acte #amo #composite #metonymie" ref="3.176" lemma="usus" pos="NOMcom" msd="Case=Acc|Numb=Sing">usum</w>
+    <w ana="#acte #amo #composite #metonymie" ref="3.176" lemma="Uenereus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerium</w>
     <w ref="3.176" lemma="prouoco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">prouocans</w>
     <w ref="3.176" lemma="aetas" pos="NOMcom" msd="Case=Gen|Numb=Sing">aetatis</w>
     <w ref="3.176" lemma="uigor" pos="NOMcom" msd="Case=Nom|Numb=Sing">uigor</w>

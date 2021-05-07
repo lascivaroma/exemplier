@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #duco #prostitution">
+<div type="fragment" ana="#acte #duco #metonymie #prostitution">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="169" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">Quid</w>
     <w ref="169" lemma="modus" pos="NOMcom" msd="Case=Abl|Numb=Sing">modist</w>
     <w ref="169" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">{modist}</w>
-    <w ana="#acte #metonymie #duco #prostitution" ref="169" lemma="ducto" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">ductando</w>
+    <w ana="#acte #duco #metonymie #prostitution" ref="169" lemma="ducto" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">ductando</w>
     <w ref="169" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="169" lemma="amo" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">amando</w>
     <w ref="169" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="3.98.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="3.98.2" lemma="sabelle" pos="ADJqua" msd="Deg=Pos">Sabelle</w>
     <w ref="3.98.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#anus #culus" ref="3.98.2" lemma="culus" pos="NOMcom" msd="Case=Abl|Numb=Sing">culo</w>
+    <w ana="#culus" ref="3.98.2" lemma="culus" pos="NOMcom" msd="Case=Abl|Numb=Sing">culo</w>
     <w ref="3.98.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

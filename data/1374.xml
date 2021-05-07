@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #devoir #service">
+<div type="fragment" ana="#acte #devoir #metaphore #service">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,7 +29,7 @@
     <w ref="9.67.7" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">vis</w>
     <w ref="9.67.8" lemma="accipio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Accipere</w>
     <w ref="9.67.8" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Neut">hoc</w>
-    <w ana="#metaphore #acte #devoir #service" ref="9.67.8" lemma="munus" pos="NOMcom" msd="Case=Acc|Numb=Sing">munus</w>
+    <w ana="#acte #devoir #metaphore #service" ref="9.67.8" lemma="munus" pos="NOMcom" msd="Case=Acc|Numb=Sing">munus</w>
     <w ref="9.67.8" lemma="condicio" pos="NOMcom" msd="Case=Abl|Numb=Sing">condicione</w>
     <w ref="9.67.8" lemma="malus3" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=Fem">mala</w>
     <w ref="9.67.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="102.23" lemma="teneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tenet</w>
     <w ref="102.23" lemma="nos" pos="PROper" msd="Case=Nom|Numb=Plur">nos</w>
     <w ref="102.23" lemma="maternus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">maternus</w>
-    <w ana="#female #cunnus #womb" ref="102.23" lemma="uterus" pos="NOMcom" msd="Case=Nom|Numb=Sing">uterus</w>
+    <w ana="#cunnus #female #womb" ref="102.23" lemma="uterus" pos="NOMcom" msd="Case=Nom|Numb=Sing">uterus</w>
     <w ref="102.23" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="102.23" lemma="praeparo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">praeparat</w>
     <w ref="102.23" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>

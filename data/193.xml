@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #mentula #voisinage #copulation #desir">
+<div type="fragment" ana="#adjoiningParts #copulation #desir #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="que" pos="CON" msd="MORPH=empty">{penemque}</w>
         <w lemma="arcanus" pos="ADJqua" msd="Case=Acc|Numb=Plur">arcanaque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{arcanaque}</w>
-        <w lemma="lumbus" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #euphemisms #voisinage #copulation #desir">lumbi</w>
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#adjoiningParts #copulation #desir #euphemism #male #mentula">lumbi</w>
         <w lemma="runco" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">runcantem</w>
     </quote>
  </div>

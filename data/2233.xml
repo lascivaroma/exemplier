@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio">
+<div type="fragment" ana="#acte #animal #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="8.2.12" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
     <w ref="8.2.12" lemma="pater" pos="NOMcom" msd="Case=Nom|Numb=Plur">patres</w>
     <w ref="8.2.12" lemma="nimis" pos="ADV" msd="Deg=Pos">nimis</w>
-    <w ana="#acte #animals #salio" ref="8.2.12" lemma="salax" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">salaces</w>
+    <w ana="#acte #animal #salio" ref="8.2.12" lemma="salax" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">salaces</w>
     <w ref="8.2.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="8.2.12" lemma="nec" pos="CONcoo" msd="MORPH=empty">nec</w>
     <w ref="8.2.12" lemma="fecundus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">fecundae</w>

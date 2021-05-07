@@ -1,4 +1,4 @@
-<div type="fragment" ana="#cunnus #metaphore #animal #female">
+<div type="fragment" ana="#animal #cunnus #female #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,7 +29,7 @@
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
         <w lemma="uirgo" pos="NOMcom" msd="Case=Abl|Numb=Plur">virginibus</w>
         <w lemma="appello1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">appellant</w>
-        <w ana="#cunnus #metaphore" lemma="porcus" pos="NOMcom" msd="Case=Acc|Numb=Sing">porcum</w>
+        <w ana="#animal #cunnus #female #metaphore" lemma="porcus" pos="NOMcom" msd="Case=Acc|Numb=Sing">porcum</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="Graecus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Graecae</w>

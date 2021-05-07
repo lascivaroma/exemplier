@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #labia">
+<div type="fragment" ana="#cunnus #female #labia">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="II.114" lemma="thior" pos="NOMcom" msd="Case=Nom|Numb=Sing">thimus</w>
     <w ref="II.114" lemma="aliquando" pos="ADV" msd="Deg=Pos">aliquando</w>
     <w ref="II.114" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-    <w ana="#female #cunnus #labia" ref="II.114" lemma="fibra" pos="NOMcom" msd="Case=Abl|Numb=Plur">fibris</w>
+    <w ana="#cunnus #female #labia" ref="II.114" lemma="fibra" pos="NOMcom" msd="Case=Abl|Numb=Plur">fibris</w>
     <w ref="II.114" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="II.114" lemma="aliquando" pos="ADV" msd="Deg=Pos">aliquando</w>
     <w ref="II.114" lemma="in" pos="PRE" msd="MORPH=empty">in</w>

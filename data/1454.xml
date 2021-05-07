@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #aller_en_vue_de">
+<div type="fragment" ana="#acte #allerEnVueDe #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,6 +24,6 @@
     <w ref="2.7.4" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">uiderit</w>
     <w ref="2.7.4" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="2.7.4" lemma="metuo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">metuat</w>
-    <w ana="#acte #metonymie #aller_en_vue_de" ref="2.7.4" lemma="accedo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">accedere</w>
+    <w ana="#acte #allerEnVueDe #metonymie" ref="2.7.4" lemma="accedo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">accedere</w>
   </quote>
 </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #outil #metaphore #mentula">
+<div type="fragment" ana="#male #mentula #metaphore #outil">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
     <w ref="31" lemma="subictor" pos="NOMcom" msd="Case=Gen|Numb=Plur|Gend=MascNeut">subactorum</w>
     <w ref="31" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
     <w ref="31" lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
-    <w ana="#male #outil #metaphore #mentula" ref="31" lemma="uasatus" pos="ADJqua" msd="Case=Gen|Numb=Plur">vasatorum</w>
+    <w ana="#male #mentula #metaphore #outil" ref="31" lemma="uasatus" pos="ADJqua" msd="Case=Gen|Numb=Plur">vasatorum</w>
     <w ref="31" lemma="multitudo" pos="NOMcom" msd="Case=Nom|Numb=Sing">multitudo</w>
     <w ref="31" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

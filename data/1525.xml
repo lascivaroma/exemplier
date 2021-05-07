@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec">
+<div type="fragment" ana="#acte #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="2.5.14" lemma="concubitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">concubitu</w>
     <w ref="2.5.14" lemma="suus" pos="PROpos.ref" msd="Case=Gen|Numb=Sing|Gend=Fem">suae</w>
     <w ref="2.5.14" lemma="uxor" pos="NOMcom" msd="Case=Gen|Numb=Sing">uxoris</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="2.5.14" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">iacuisset</w>
+    <w ana="#acte #dormirAvec #metonymie" ref="2.5.14" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3">iacuisset</w>
     <w ref="2.5.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.5.14" lemma="imputo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">imputaret</w>
     <w ref="2.5.14" lemma="ille" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Masc">illi</w>

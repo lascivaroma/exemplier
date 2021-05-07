@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #testicle">
+<div type="fragment" ana="#composite #male #testicules">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,8 +17,8 @@
         <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">Qui</w>
         <w lemma="primus" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Sup">primus</w>
         <w lemma="puer" pos="NOMcom" msd="Case=Dat|Numb=Plur">pueris</w>
-        <w ana="#male #testicules" lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut">genitalia</w>
-        <w ana="#male #testicules" lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
+        <w ana="#composite #male #testicules" lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut">genitalia</w>
+        <w ana="#composite #male #testicules" lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
         <w lemma="recido2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">recidit</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>

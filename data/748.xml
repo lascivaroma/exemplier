@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="245" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=1">videram</w>
     <w ref="245" lemma="nondum" pos="ADVneg" msd="MORPH=empty">nondum</w>
     <w ref="245" lemma="dies" pos="NOMcom" msd="Case=Acc|Numb=Sing">diem</w>
-    <w ana="#female #cunnus #womb" ref="246" lemma="uterus" pos="NOMcom" msd="Case=Dat|Numb=Sing">uterique</w>
+    <w ana="#cunnus #female #womb" ref="246" lemma="uterus" pos="NOMcom" msd="Case=Dat|Numb=Sing">uterique</w>
     <w ref="246" lemma="que" pos="CON" msd="MORPH=empty">{uterique}</w>
     <w ref="246" lemma="nondum" pos="ADVneg" msd="MORPH=empty">nondum</w>
     <w ref="246" lemma="soluo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=1">solveram</w>

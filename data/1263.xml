@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #agriculture #moudre">
+<div type="fragment" ana="#acte #agriculture #metaphore #moudre">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="79.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="79.7" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fellat</w>
     <w ref="79.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#metaphore #acte #agriculture #moudre" ref="79.7" lemma="molo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pas|Person=3">molitur</w>
+    <w ana="#acte #agriculture #metaphore #moudre" ref="79.7" lemma="molo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pas|Person=3">molitur</w>
     <w ref="79.7" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
     <w ref="79.7" lemma="uterque" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">utramque</w>
     <w ref="79.7" lemma="cauerna" pos="NOMcom" msd="Case=Acc|Numb=Sing">cavernam</w>

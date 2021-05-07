@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #copulation #desir">
+<div type="fragment" ana="#adjoiningParts #copulation #desir #euphemism #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:stoa0159.stoa004.thayer-lat1</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0159.stoa004.thayer-lat1:11.1.98">
-        <w lemma="lumbus" pos="VER" msd="Case=Gen|Numb=Plur" ana="#male #euphemisms #voisinage #copulation #desir">Lumbi</w>
+        <w lemma="lumbus" pos="VER" msd="Case=Gen|Numb=Plur" ana="#adjoiningParts #copulation #desir #euphemism #male">Lumbi</w>
         <w lemma="ob" pos="PRE" msd="MORPH=empty">ob</w>
         <w lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
         <w lemma="lasciuia" pos="NOMcom" msd="Case=Acc|Numb=Sing">lasciviam</w>

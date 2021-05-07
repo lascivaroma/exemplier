@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #armes">
+<div type="fragment" ana="#armes #mentula #metaphore #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -38,7 +38,7 @@
     <w ref="V.9" lemma="dolor" pos="NOMcom" msd="Case=Abl|Numb=Sing">dolore</w>
     <w ref="V.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="V.9" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
-    <w ana="#mentula #metaphore #pointu #armes" ref="V.9" lemma="cornu" pos="NOMcom" msd="Case=Nom|Numb=Sing">cornu</w>
+    <w ana="#armes #mentula #metaphore #pointu" ref="V.9" lemma="cornu" pos="NOMcom" msd="Case=Nom|Numb=Sing">cornu</w>
     <w ref="V.9" lemma="puto" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">putaretur</w>
     <w ref="V.9" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
   </quote>

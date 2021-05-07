@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #metonymie #acte #embrace">
+<div type="fragment" ana="#acte #embrace #male #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -45,7 +45,7 @@
     <w ref="6.9" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
     <w ref="6.9" lemma="commoueo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">commoueat</w>
     <w ref="6.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #male #metonymie #acte #embrace" ref="6.9" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">conprimatur</w>
+    <w ana="#acte #embrace #male #metonymie" ref="6.9" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">conprimatur</w>
     <w ref="6.9" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="6.9" lemma="dea" pos="NOMcom" msd="Case=Nom|Numb=Sing">dea</w>
     <w ref="6.9" lemma="pertundo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Imp|Tense=Pres|Voice=Act">Pertunda</w>

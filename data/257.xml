@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="malus3" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Sup">Pessima</w>
         <w lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-        <w lemma="obscena" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#male #euphemisms #aidoion">obscenis</w>
+        <w lemma="obscena" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#aidoion #euphemism #male #mentula">obscenis</w>
         <w lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
         <w lemma="magis" pos="ADV" msd="Deg=Sup">maximeque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{maximeque}</w>

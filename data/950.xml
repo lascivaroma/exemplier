@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="V.10" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
     <w ref="V.10" lemma="immitto" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">immissis</w>
     <w ref="V.10" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
-    <w ana="#anus #culus" ref="V.10" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
+    <w ana="#culus" ref="V.10" lemma="podix" pos="NOMcom" msd="Case=Acc|Numb=Sing">podicem</w>
     <w ref="V.10" lemma="digitus" pos="NOMcom" msd="Case=Abl|Numb=Plur">digitis</w>
     <w ref="V.10" lemma="sentio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">sentietur</w>
     <w ref="V.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

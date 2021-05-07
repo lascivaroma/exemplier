@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #lutter #sebattre">
+<div type="fragment" ana="#acte #lutter #metaphore #seBattre">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="5.21" lemma="prius" pos="ADJadv.ord" msd="Deg=Comp">priusque</w>
     <w ref="5.21" lemma="que" pos="CON" msd="MORPH=empty">{priusque}</w>
     <w ref="5.21" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
-    <w ana="#metaphore #acte #lutter #sebattre" ref="5.21" lemma="proelium" pos="NOMcom" msd="Case=Abl|Numb=Plur">proeliis</w>
+    <w ana="#acte #lutter #metaphore #seBattre" ref="5.21" lemma="proelium" pos="NOMcom" msd="Case=Abl|Numb=Plur">proeliis</w>
     <w ref="5.21" lemma="uelitatus" pos="VER" msd="Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">velitatus</w>
     <w ref="5.21" lemma="altus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">altum</w>
     <w ref="5.21" lemma="sopor" pos="NOMcom" msd="Case=Acc|Numb=Sing">soporem</w>

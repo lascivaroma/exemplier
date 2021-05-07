@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #consequences #tired">
+<div type="fragment" ana="#acte #consequences #metonymie #tired">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="26.3" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">totis</w>
     <w ref="26.3" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
     <w ref="26.3" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Plur">noctibus</w>
-    <w ana="#acte #metonymie #consequences #tired" ref="26.3" lemma="fatigo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fatigant</w>
+    <w ana="#acte #consequences #metonymie #tired" ref="26.3" lemma="fatigo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fatigant</w>
     <w ref="26.4" lemma="uicinus2" pos="ADJqua" msd="Case=Nom|Numb=Plur|Deg=Pos">uicinae</w>
     <w ref="26.4" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
     <w ref="26.4" lemma="finis" pos="NOMcom" msd="Case=Abl|Numb=Sing">fine</w>

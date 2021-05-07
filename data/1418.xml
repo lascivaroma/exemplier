@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #duco #prostitution">
+<div type="fragment" ana="#acte #composite #duco #metonymie #prostitution">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -35,8 +35,8 @@
     <w ref="730" lemma="poto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">potare</w>
     <w ref="730" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="730" lemma="unus" pos="ADJcar" msd="Case=Acc|Numb=Sing|Gend=MascNeut">únum</w>
-    <w ana="#acte #metonymie #duco #prostitution" ref="730" lemma="scortum" pos="NOMcom" msd="Case=Acc|Numb=Sing">scortum</w>
-    <w ana="#acte #metonymie #duco #prostitution" ref="730" lemma="duco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ducere</w>
+    <w ana="#acte #composite #duco #metonymie #prostitution" ref="730" lemma="scortum" pos="NOMcom" msd="Case=Acc|Numb=Sing">scortum</w>
+    <w ana="#acte #composite #duco #metonymie #prostitution" ref="730" lemma="duco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ducere</w>
     <w ref="730" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

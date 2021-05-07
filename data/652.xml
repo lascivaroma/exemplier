@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
     <w ref="8.132" lemma="taurus" pos="NOMcom" msd="Case=Acc|Numb=Sing">taurum</w>
     <w ref="8.133" lemma="discors" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">discordemque</w>
     <w ref="8.133" lemma="que" pos="CON" msd="MORPH=empty">{discordemque}</w>
-    <w ana="#female #cunnus #womb" ref="8.133" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ana="#cunnus #female #womb" ref="8.133" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
     <w ref="8.133" lemma="fetus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">fetum</w>
     <w ref="8.133" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tulit</w>
     <w ref="8.133" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

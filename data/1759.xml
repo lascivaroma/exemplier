@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #toucher #fututio">
+<div type="fragment" ana="#acte #fututio #metonymie #toucher">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="3.681" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="3.682" lemma="possum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Posse</w>
     <w ref="3.682" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=MascNeut">suo</w>
-    <w ana="#acte #metonymie #toucher #fututio" ref="3.682" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">tangi</w>
+    <w ana="#acte #fututio #metonymie #toucher" ref="3.682" lemma="tango" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">tangi</w>
     <w ref="3.682" lemma="credo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">credet</w>
     <w ref="3.682" lemma="amor" pos="NOMcom" msd="Case=Abl|Numb=Sing">amore</w>
     <w ref="3.682" lemma="dea" pos="NOMcom" msd="Case=Acc|Numb=Plur">deas</w>

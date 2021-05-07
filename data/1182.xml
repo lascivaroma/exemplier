@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #manger">
+<div type="fragment" ana="#acte #manger #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="47" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="47" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">haec</w>
     <w ref="47" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
-    <w ana="#metaphore #acte #manger" ref="47" lemma="ligurrio" pos="NOMcom" msd="Case=Gen|Numb=Sing">liguris</w>
+    <w ana="#acte #manger #metaphore" ref="47" lemma="ligurrio" pos="NOMcom" msd="Case=Gen|Numb=Sing">liguris</w>
     <w ref="47" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="47" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
     <w ref="47" lemma="facio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">factum</w>

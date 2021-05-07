@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,8 +15,8 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.37" type="part">
     <w ref="I.37" lemma="etenim" pos="CONcoo" msd="MORPH=empty">etenim</w>
-    <w ana="#acte #metonymie #amo" ref="I.37" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
-    <w ana="#acte #metonymie #amo" ref="I.37" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">venerio</w>
+    <w ana="#acte #amo #composite #metonymie" ref="I.37" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ana="#acte #amo #composite #metonymie" ref="I.37" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">venerio</w>
     <w ref="I.37" lemma="depuellatio" pos="NOMcom" msd="Case=Gen|Numb=Sing">depuellationis</w>
     <w ref="I.37" lemma="tempus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">tempore</w>
     <w ref="I.37" lemma="materia" pos="NOMcom" msd="Case=Nom|Numb=Sing">materia</w>

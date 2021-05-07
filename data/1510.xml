@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec #celibat">
+<div type="fragment" ana="#acte #celibat #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="6.6" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
     <w ref="6.6" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="6.6" lemma="uiduus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">viduas</w>
-    <w ana="#acte #metonymie #dormir_avec #celibat" ref="6.6" lemma="iaceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">iacere</w>
+    <w ana="#acte #celibat #dormirAvec #metonymie" ref="6.6" lemma="iaceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">iacere</w>
     <w ref="6.6" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Plur">noctes</w>
     <w ref="6.7" lemma="nequiquam" pos="ADV" msd="Deg=Pos">nequiquam</w>
     <w ref="6.7" lemma="tacitus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">tacitum</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #harass">
+<div type="fragment" ana="#acte #harass #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="8.46.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="8.46.7" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
     <w ref="8.46.7" lemma="tener" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">tenerum</w>
-    <w ana="#acte #metonymie #harass" ref="8.46.7" lemma="uexo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">vexabit</w>
+    <w ana="#acte #harass #metonymie" ref="8.46.7" lemma="uexo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">vexabit</w>
     <w ref="8.46.7" lemma="sponsa" pos="NOMcom" msd="Case=Nom|Numb=Sing">sponsa</w>
     <w ref="8.46.7" lemma="maritus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">maritum</w>
     <w ref="8.46.8" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>

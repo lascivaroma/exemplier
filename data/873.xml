@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="97.11" lemma="possum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">posse</w>
     <w ref="97.11" lemma="puto" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1">putemus</w>
     <w ref="97.12" lemma="aegrotus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">aegroti</w>
-    <w ana="#anus #culus" ref="97.12" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Sing">culum</w>
+    <w ana="#culus" ref="97.12" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Sing">culum</w>
     <w ref="97.12" lemma="lingo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">lingere</w>
     <w ref="97.12" lemma="carnifex" pos="NOMcom" msd="Case=Gen|Numb=Plur">carnificis</w>
     <w ref="97.12" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #devoir #service #patentia">
+<div type="fragment" ana="#acte #devoir #metaphore #patentia #service">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,6 +22,6 @@
     <w ref="2.8" lemma="alius" pos="PROind" msd="Case=Gen|Numb=Plur|Gend=MascNeut">aliorum</w>
     <w ref="2.8" lemma="amor" pos="NOMcom" msd="Case=Dat|Numb=Sing">amori</w>
     <w ref="2.8" lemma="flagitiose" pos="ADV" msd="Deg=Sup">flagitiosissime</w>
-    <w ana="#metaphore #acte #devoir #service #patentia" ref="2.8" lemma="seruio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">serviebat</w>
+    <w ana="#acte #devoir #metaphore #patentia #service" ref="2.8" lemma="seruio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">serviebat</w>
   </quote>
 </div>

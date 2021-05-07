@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rub #masturbate">
+<div type="fragment" ana="#acte #masturbatio #metonymie #rub">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="92" lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur">inguina</w>
     <w ref="92" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
     <w ref="92" lemma="ingenium" pos="NOMcom" msd="Case=Acc|Numb=Plur">ingenia</w>
-    <w ana="#acte #metonymie #rub #masturbate" ref="92" lemma="frico" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fricare</w>
+    <w ana="#acte #masturbatio #metonymie #rub" ref="92" lemma="frico" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fricare</w>
     <w ref="92" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

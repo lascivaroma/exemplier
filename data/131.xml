@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,7 +29,7 @@
         <w lemma="lingua" pos="NOMcom" msd="Case=Gen|Numb=Sing">linguae</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="simulacrum" pos="NOMcom" msd="Case=Nom|Numb=Sing">simulacrum</w>
-        <w lemma="membrum" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #specialisation #euphemism #mentula">membri</w>
+        <w lemma="membrum" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#euphemism #male #mentula #specialisation">membri</w>
         <w lemma="uirilis" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Com|Deg=Pos">virilis</w>
         <w lemma="reuelo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">revelatur</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="8.1.9" lemma="suus" pos="PROpos.ref" msd="Case=Gen|Numb=Sing|Gend=Fem">suae</w>
     <w ref="8.1.9" lemma="gens" pos="NOMcom" msd="Case=Gen|Numb=Sing">gentis</w>
     <w ref="8.1.9" lemma="connubium" pos="NOMcom" msd="Case=Abl|Numb=Sing">conubio</w>
-    <w ana="#acte #metonymie #coeo" ref="8.1.9" lemma="coeo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">coire</w>
+    <w ana="#acte #coeo #metonymie" ref="8.1.9" lemma="coeo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">coire</w>
     <w ref="8.1.9" lemma="patior" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Dep|Person=3">pateretur</w>
     <w ref="8.1.9" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
   </quote>

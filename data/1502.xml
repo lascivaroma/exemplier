@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec">
+<div type="fragment" ana="#acte #composite #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,9 +21,9 @@
     <w ref="5.87" lemma="fagineus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">faginea</w>
     <w ref="5.87" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing">quod</w>
     <w ref="5.87" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">tecum</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="5.87" lemma="cum3" pos="CON" msd="MORPH=empty">{tecum}</w>
+    <w ana="#acte #composite #dormirAvec #metonymie" ref="5.87" lemma="cum3" pos="CON" msd="MORPH=empty">{tecum}</w>
     <w ref="5.87" lemma="frons2" pos="NOMcom" msd="Case=Abl|Numb=Sing">fronde</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="5.87" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=1">iacebam</w>
+    <w ana="#acte #composite #dormirAvec #metonymie" ref="5.87" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=1">iacebam</w>
     <w ref="5.87" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="5.88" lemma="despicio" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">Despice</w>
     <w ref="5.88" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>

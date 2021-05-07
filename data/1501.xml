@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec">
+<div type="fragment" ana="#acte #composite #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,9 +19,9 @@
     <w ref="2.5.63" lemma="tametsi2" pos="CONsub" msd="MORPH=empty">tametsi</w>
     <w ref="2.5.63" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="2.5.63" lemma="actum" pos="NOMcom" msd="Case=Abl|Numb=Plur">acta</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="2.5.63" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ana="#acte #composite #dormirAvec #metonymie" ref="2.5.63" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="2.5.63" lemma="muliercula" pos="NOMcom" msd="Case=Abl|Numb=Plur">mulierculis</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="2.5.63" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">iacebat</w>
+    <w ana="#acte #composite #dormirAvec #metonymie" ref="2.5.63" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">iacebat</w>
     <w ref="2.5.63" lemma="ebrius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">ebrius</w>
     <w ref="2.5.63" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.5.63" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

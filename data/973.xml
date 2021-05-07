@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #anneau #culus #anus">
+<div type="fragment" ana="#anneau #culus #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -43,7 +43,7 @@
     <w ref="7.30" lemma="neque" pos="ADVneg" msd="MORPH=empty">neque</w>
     <w ref="7.30" lemma="quisquam" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">quicquam</w>
     <w ref="7.30" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
-    <w ana="#metaphore #anneau #culus #anus" ref="7.30" lemma="anus?" pos="NOMcom" msd="Case=Abl|Numb=Sing">ano</w>
+    <w ana="#anneau #culus #metaphore" ref="7.30" lemma="anus?" pos="NOMcom" msd="Case=Abl|Numb=Sing">ano</w>
     <w ref="7.30" lemma="demo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">demendum</w>
     <w ref="7.30" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="7.30" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

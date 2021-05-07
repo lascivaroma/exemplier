@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #descriptive-functional #euphemism">
+<div type="fragment" ana="#descriptiveFunctional #euphemism #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1:26.128">
         <w lemma="Uerrinus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Verrini</w>
-        <w lemma="genitalis" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Com|Deg=Pos" ana="#male #descriptive-functional">genitalis</w>
+        <w lemma="genitalis" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Com|Deg=Pos" ana="#descriptiveFunctional #euphemism #male">genitalis</w>
         <w lemma="uro" pos="VER" msd="Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">usti</w>
         <w lemma="cinis" pos="NOMcom" msd="Case=Acc|Numb=Sing">cinerem</w>
         <w lemma="bibo2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">bibere</w>

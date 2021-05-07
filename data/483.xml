@@ -1,4 +1,4 @@
-<div type="fragment" ana="#containers #female #cunnus #metaphore">
+<div type="fragment" ana="#contenant #cunnus #female #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
         <w lemma="que" pos="CON" msd="MORPH=empty">{praeterque}</w>
         <w lemma="uesica" pos="NOMcom" msd="Case=Dat|Numb=Sing">vesicae</w>
         <w lemma="iungo" pos="VER" msd="Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">iunctus</w>
-        <w ana="#containers" lemma="utriculus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">utriculus</w>
+        <w ana="#contenant #cunnus #female #metaphore" lemma="utriculus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">utriculus</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="unde1" pos="ADVrel" msd="MORPH=empty">unde</w>
         <w lemma="dico2" pos="VER" msd="Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">dictus</w>

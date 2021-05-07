@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #join">
+<div type="fragment" ana="#acte #composite #join #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,10 +24,10 @@
     <w ref="2.14.22" lemma="ego" pos="PROper" msd="Case=Abl|Numb=Sing">mecum</w>
     <w ref="2.14.22" lemma="cum3" pos="CON" msd="MORPH=empty">{mecum}</w>
     <w ref="2.14.22" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">habuit</w>
-    <w ana="#acte #metonymie #join" ref="2.14.22" lemma="pono" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">positum</w>
+    <w ana="#acte #composite #join #metonymie" ref="2.14.22" lemma="pono" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">positum</w>
     <w ref="2.14.22" lemma="lentus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">lenta</w>
     <w ref="2.14.22" lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
-    <w ana="#acte #metonymie #join" ref="2.14.22" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+    <w ana="#acte #composite #join #metonymie" ref="2.14.22" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
     <w ref="2.14.22" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

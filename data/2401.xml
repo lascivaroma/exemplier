@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #armes">
+<div type="fragment" ana="#armes #mentula #metaphore #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="9.14" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">hoc</w>
     <w ref="9.14" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
     <w ref="9.14" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
-    <w ana="#mentula #metaphore #pointu #armes" ref="9.14" lemma="telum" pos="NOMcom" msd="Case=Nom|Numb=Sing">telum</w>
+    <w ana="#armes #mentula #metaphore #pointu" ref="9.14" lemma="telum" pos="NOMcom" msd="Case=Nom|Numb=Sing">telum</w>
     <w ref="9.14" lemma="desum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">desit</w>
     <w ref="9.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="9.14" lemma="inermis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">inermis</w>

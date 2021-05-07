@@ -1,4 +1,4 @@
-<div type="fragment" ana="#caves #female #culus #cunnus #metaphore">
+<div type="fragment" ana="#caves #culus #cunnus #female #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="2.25" lemma="pulmo" pos="NOMcom" msd="Case=Abl|Numb=Plur">pulmonibus</w>
     <w ref="2.25" lemma="adhaereo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">adhaerente</w>
     <w ref="2.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#caves #female #culus #cunnus #metaphore" ref="2.25" lemma="cauerna" pos="NOMcom" msd="Case=Nom|Numb=Sing">cavernae</w>
+    <w ana="#caves #culus #cunnus #female #metaphore" ref="2.25" lemma="cauerna" pos="NOMcom" msd="Case=Nom|Numb=Sing">cavernae</w>
     <w ref="2.25" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
     <w ref="2.25" lemma="meatus" pos="NOMcom" msd="Case=Nom|Numb=Sing">meatus</w>
     <w ref="2.25" lemma="ibidem" pos="ADV" msd="Deg=Pos">ibidem</w>

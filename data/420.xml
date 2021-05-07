@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #glans">
+<div type="fragment" ana="#glans #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.75.3">
         <w lemma="pasco" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">Pastas</w>
-        <w ana="#male #glans" lemma="glans" pos="NOMcom" msd="Case=Abl|Numb=Sing">glande</w>
+        <w ana="#glans #male" lemma="glans" pos="NOMcom" msd="Case=Abl|Numb=Sing">glande</w>
         <w lemma="natus1" pos="NOMcom" msd="Case=Dat|Numb=Plur">natis</w>
         <w lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habet</w>
         <w lemma="secundus1" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Secundus</w>

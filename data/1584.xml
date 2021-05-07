@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="14.21" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="14.21" lemma="gigno" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Adj|Voice=Pass">gignendos</w>
     <w ref="14.21" lemma="filius" pos="NOMcom" msd="Case=Acc|Numb=Plur">filios</w>
-    <w ana="#acte #metonymie #coeo" ref="14.21" lemma="coeo1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">coierunt</w>
+    <w ana="#acte #coeo #metonymie" ref="14.21" lemma="coeo1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">coierunt</w>
     <w ref="14.21" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Masc">eosque</w>
     <w ref="14.21" lemma="que" pos="CON" msd="MORPH=empty">{eosque}</w>
     <w ref="14.21" lemma="gigno" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">genuerunt</w>

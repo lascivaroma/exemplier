@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="5.17.10" lemma="continuus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">continuos</w>
     <w ref="5.17.10" lemma="annus" pos="NOMcom" msd="Case=Acc|Numb=Plur">annos</w>
     <w ref="5.17.10" lemma="computo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Adj|Voice=Pass">computandos</w>
-    <w ana="#acte #metonymie #coeo" ref="5.17.10" lemma="coeo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">coire</w>
+    <w ana="#acte #coeo #metonymie" ref="5.17.10" lemma="coeo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">coire</w>
     <w ref="5.17.10" lemma="parum2" pos="ADV" msd="Deg=Sup">minime</w>
     <w ref="5.17.10" lemma="propter2" pos="PRE" msd="MORPH=empty">propter</w>
     <w ref="5.17.10" lemma="naturalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">naturalem</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#parties clitoris #female #cunnus">
+<div type="fragment" ana="#clitoris #cunnus #female #pars">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
         <w lemma="barbatus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">barbato</w>
         <w lemma="macer" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">macer</w>
         <w lemma="eminens" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">eminente</w>
-        <w ana="#partiesclitoris" lemma="nasus" pos="NOMcom" msd="Case=Abl|Numb=Sing">naso</w>
+        <w ana="#clitoris #cunnus #female #pars" lemma="nasus" pos="NOMcom" msd="Case=Abl|Numb=Sing">naso</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
         <w lemma="credo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">credas</w>

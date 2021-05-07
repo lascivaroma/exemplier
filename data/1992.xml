@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #consequences">
+<div type="fragment" ana="#acte #composite #consequences #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,8 +22,8 @@
     <w ref="1.2.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.2.1" lemma="“" pos="PUNC" msd="MORPH=empty">“</w>
     <w ref="1.2.1" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
-    <w ana="#acte #metonymie #consequences" ref="1.2.1" lemma="uirginitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">uirginitatem</w>
-    <w ana="#acte #metonymie #consequences" ref="1.2.1" lemma="eripio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">eripuit</w>
+    <w ana="#acte #composite #consequences #metonymie" ref="1.2.1" lemma="uirginitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">uirginitatem</w>
+    <w ana="#acte #composite #consequences #metonymie" ref="1.2.1" lemma="eripio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">eripuit</w>
     <w ref="1.2.1" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="1.2.1" lemma="”" pos="PUNC" msd="MORPH=empty">”</w>
     <w ref="1.2.1" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #toucher #actif">
+<div type="fragment" ana="#acte #actif #metonymie #toucher">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -33,7 +33,7 @@
     <w ref="24.4.27" lemma="excello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">excellit</w>
     <w ref="24.4.27" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="24.4.27" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
-    <w ana="#acte #metonymie #toucher #actif" ref="24.4.27" lemma="contrecto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">contrectare</w>
+    <w ana="#acte #actif #metonymie #toucher" ref="24.4.27" lemma="contrecto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">contrectare</w>
     <w ref="24.4.27" lemma="aliquis" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">aliquam</w>
     <w ref="24.4.27" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">voluit</w>
     <w ref="24.4.27" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>

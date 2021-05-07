@@ -1,4 +1,4 @@
-<div type="fragment" ana="#field #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #female #field #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="cubo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">cubare</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="pando2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">pandit</w>
-        <w ana="#field" lemma="saltus2" pos="NOMcom" msd="Case=Acc|Numb=Sing">saltum</w>
+        <w ana="#cunnus #female #field #metaphore" lemma="saltus2" pos="NOMcom" msd="Case=Acc|Numb=Sing">saltum</w>
         <w lemma="sauium" pos="NOMcom" msd="Case=Dat|Numb=Plur">saviis</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

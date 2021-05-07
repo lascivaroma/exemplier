@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec">
+<div type="fragment" ana="#acte #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="4.9" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
     <w ref="4.9" lemma="nuper" pos="ADV" msd="Deg=Pos">nuper</w>
     <w ref="4.9" lemma="uittatus" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">vittata</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="4.9" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">iacebat</w>
+    <w ana="#acte #dormirAvec #metonymie" ref="4.9" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">iacebat</w>
     <w ref="4.10" lemma="sanguis" pos="NOMcom" msd="Case=Abl|Numb=Sing">sanguine</w>
     <w ref="4.10" lemma="adhuc" pos="ADV" msd="Deg=Pos">adhuc</w>
     <w ref="4.10" lemma="uiuus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">vivo</w>

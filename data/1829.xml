@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="12.4" lemma="mors" pos="NOMcom" msd="Case=Acc|Numb=Sing">mortem</w>
     <w ref="12.4" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
     <w ref="12.4" lemma="promitto" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem">promissae</w>
-    <w ana="#acte #metonymie #amo" ref="12.4" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
+    <w ana="#acte #amo #metonymie" ref="12.4" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
     <w ref="12.4" lemma="praemium" pos="NOMcom" msd="Case=Acc|Numb=Plur">praemia</w>
     <w ref="12.4" lemma="imitatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">imitatione</w>
     <w ref="12.4" lemma="flagitiosus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">flagitiosi</w>

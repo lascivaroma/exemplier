@@ -1,4 +1,4 @@
-<div type="fragment" ana="#labia #female #cunnus">
+<div type="fragment" ana="#cunnus #female #labia">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
         <w lemma="annecto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">adnexa</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
         <w lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">quas</w>
-        <w ana="#labia" lemma="pinna" pos="NOMcom" msd="Case=Acc|Numb=Plur">pinnas</w>
+        <w ana="#cunnus #female #labia" lemma="pinna" pos="NOMcom" msd="Case=Acc|Numb=Plur">pinnas</w>
         <w lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vocant</w>
         <w lemma="femininus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">feminini</w>
         <w lemma="sinus" pos="NOMcom" msd="Case=Nom|Numb=Sing">sinus</w>

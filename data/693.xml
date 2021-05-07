@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:5.21" type="chapter">
     <w ref="5.21" lemma="ad2" pos="PRE" msd="MORPH=empty">Ad</w>
-    <w ana="#female #cunnus #womb" ref="5.21" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
+    <w ana="#cunnus #female #womb" ref="5.21" lemma="uulua" pos="NOMcom" msd="Case=Acc|Numb=Sing">vulvam</w>
     <w ref="5.21" lemma="mollio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">mollienda</w>
     <w ref="5.21" lemma="ouum" pos="NOMcom" msd="Case=Gen|Numb=Sing">ovi</w>
     <w ref="5.21" lemma="uitellus" pos="NOMcom" msd="Case=Nom|Numb=Sing">vitellus</w>

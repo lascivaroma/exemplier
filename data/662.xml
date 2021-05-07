@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="1.671" lemma="pudor" pos="NOMcom" msd="Case=Acc|Numb=Sing">pudorem</w>
     <w ref="1.672" lemma="surgo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">surgentemque</w>
     <w ref="1.672" lemma="que" pos="CON" msd="MORPH=empty">{surgentemque}</w>
-    <w ana="#female #cunnus #womb" ref="1.672" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ana="#cunnus #female #womb" ref="1.672" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
     <w ref="1.672" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
     <w ref="1.672" lemma="aeger" pos="ADJqua" msd="Case=Gen|Numb=Sing">aegrosin</w>
     <w ref="1.672" lemma="ne2" pos="ADV" msd="MORPH=empty">{aegrosin}</w>

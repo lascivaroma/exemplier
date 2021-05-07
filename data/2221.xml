@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals">
+<div type="fragment" ana="#acte #animal">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="6.37.9" lemma="colluctor" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">conluctari</w>
     <w ref="6.37.9" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
     <w ref="6.37.9" lemma="admissarius" pos="NOMcom" msd="Case=Dat|Numb=Sing">admissario</w>
-    <w ana="#acte #animals" ref="6.37.9" lemma="ascendo" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">ascendenti</w>
+    <w ana="#acte #animal" ref="6.37.9" lemma="ascendo" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">ascendenti</w>
     <w ref="6.37.9" lemma="auerto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">avertere</w>
     <w ref="6.37.9" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
     <w ref="6.37.9" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possit</w>

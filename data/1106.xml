@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #pedico">
+<div type="fragment" ana="#acte #male #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="3.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="3.9" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
     <w ref="3.9" lemma="do" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">da</w>
-    <w ana="#acte #male #pedico" ref="3.9" lemma="paedico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">pedicare</w>
+    <w ana="#acte #male #pedicatio" ref="3.9" lemma="paedico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">pedicare</w>
     <w ref="3.9" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
     <w ref="3.9" lemma="latine" pos="ADV" msd="Deg=Pos">Latine</w>
     <w ref="3.10" lemma="dico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dicere</w>

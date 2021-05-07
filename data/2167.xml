@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #harass">
+<div type="fragment" ana="#acte #harass #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="139" lemma="torus" pos="NOMcom" msd="Case=Acc|Numb=Sing">Torum</w>
     <w ref="139" lemma="frequens" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">frequenti</w>
     <w ref="139" lemma="tractatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">tractatione</w>
-    <w ana="#acte #metonymie #harass" ref="139" lemma="uexo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">vexavi</w>
+    <w ana="#acte #harass #metonymie" ref="139" lemma="uexo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">vexavi</w>
     <w ref="139" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="139" lemma="amor" pos="NOMcom" msd="Case=Gen|Numb=Sing">amoris</w>
     <w ref="139" lemma="meus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=MascNeut">mei</w>

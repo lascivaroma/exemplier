@@ -1,4 +1,4 @@
-<div type="fragment" ana="#fente #female #cunnus #misc">
+<div type="fragment" ana="#cunnus #divers #female #fente">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="auidus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">avidae</w>
         <w lemma="lambo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">lambit</w>
         <w lemma="meretrix" pos="NOMcom" msd="Case=Gen|Numb=Sing">meretricis</w>
-        <w ana="#fente #misc" lemma="hiatus" pos="NOMcom" msd="Case=Acc|Numb=Plur">hiatus</w>
+        <w ana="#cunnus #divers #female #fente" lemma="hiatus" pos="NOMcom" msd="Case=Acc|Numb=Plur">hiatus</w>
         <w lemma="consumo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">consumens</w>
         <w lemma="luxus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">luxu</w>
         <w lemma="flagitium" pos="NOMcom" msd="Case=Abl|Numb=Plur">flagitiisque</w>

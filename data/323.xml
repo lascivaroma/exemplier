@@ -1,4 +1,4 @@
-<div type="fragment" ana="#natura #euphemism #neutral">
+<div type="fragment" ana="#euphemism #natura #neutral">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -35,7 +35,7 @@
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="scapula" pos="NOMcom" msd="Case=Dat|Numb=Plur">scapulis</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w lemma="naturalis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#natura #euphemism #neutral">naturalibus</w>
+        <w lemma="naturalis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#euphemism #natura #neutral">naturalibus</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="os2" pos="NOMcom" msd="Case=Abl|Numb=Plur">ossibus</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

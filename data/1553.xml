@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rester_avec #prostitution">
+<div type="fragment" ana="#acte #composite #metonymie #prostitution #resterAvec">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,9 +18,9 @@
     <w ref="278" lemma="cum" pos="PRE" msd="MORPH=empty">cumque</w>
     <w ref="278" lemma="que" pos="CON" msd="MORPH=empty">{cumque}</w>
     <w ref="278" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">ea</w>
-    <w ana="#acte #metonymie #rester_avec #prostitution" ref="278" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Sing">noctem</w>
+    <w ana="#acte #composite #metonymie #prostitution #resterAvec" ref="278" lemma="nox" pos="NOMcom" msd="Case=Acc|Numb=Sing">noctem</w>
     <w ref="278" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="278" lemma="stramentum" pos="NOMcom" msd="Case=Abl|Numb=Plur">stramentis</w>
-    <w ana="#acte #metonymie #rester_avec #prostitution #composite" ref="278" lemma="pernocto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">pernoctare</w>
+    <w ana="#acte #composite #metonymie #prostitution #resterAvec" ref="278" lemma="pernocto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">pernoctare</w>
   </quote>
 </div>

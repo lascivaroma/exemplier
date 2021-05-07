@@ -1,4 +1,4 @@
-<div type="fragment" ana="#household #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #female #household #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -37,7 +37,7 @@
         <w lemma="dulcis" pos="ADJqua" msd="Case=Acc|Deg=Pos">dulce</w>
         <w lemma="condio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">condiens</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-        <w ana="#household" lemma="aula2" pos="NOMcom" msd="Case=Acc|Numb=Sing">ollam</w>
+        <w ana="#cunnus #female #household #metaphore" lemma="aula2" pos="NOMcom" msd="Case=Acc|Numb=Sing">ollam</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="lectulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">lectulum</w>
         <w lemma="suaue" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos">suave</w>

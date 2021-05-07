@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #disgrace">
+<div type="fragment" ana="#acte #disgrace #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="882" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="883" lemma="stuprum" pos="NOMcom" msd="Case=Gen|Numb=Sing">stupri</w>
     <w ref="883" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #disgrace" ref="883" lemma="dedecor" pos="VER" msd="Case=Gen|Numb=Sing">dedecoris</w>
+    <w ana="#acte #disgrace #metonymie" ref="883" lemma="dedecor" pos="VER" msd="Case=Gen|Numb=Sing">dedecoris</w>
     <w ref="883" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
     <w ref="883" lemma="uir" pos="NOMcom" msd="Case=Abl|Numb=Sing">viro</w>
     <w ref="883" lemma="argutus" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">argutam</w>

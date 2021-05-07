@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #personnification">
+<div type="fragment" ana="#composite #male #personnification">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="bene" pos="ADV" msd="Case=Nom|Gend=Neut|Deg=Comp">melius</w>
         <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
         <w lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
-        <w lemma="ad2" pos="PRE" msd="MORPH=empty" ana="#male #personnification">ad</w>
-        <w lemma="lacrima" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #personnification">lacrimas</w>
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty" ana="#composite #male #personnification">ad</w>
+        <w lemma="lacrima" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#composite #male #personnification">lacrimas</w>
     </quote>
  </div>

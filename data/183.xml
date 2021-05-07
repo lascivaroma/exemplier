@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #euphemisms #voisinage  #cunnus">
+<div type="fragment" ana="#adjoiningParts #cunnus #euphemism #female #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="ullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">ulla</w>
         <w lemma="nego" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">negaverit</w>
         <w lemma="udus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">udis</w>
-        <w lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#male #euphemisms #voisinage">inguinibus</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#adjoiningParts #cunnus #euphemism #female #male">inguinibus</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="siue2" pos="CONsub" msd="MORPH=empty">sive</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>

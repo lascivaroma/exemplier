@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #position #futuor">
+<div type="fragment" ana="#acte #composite #fututio #metonymie #position">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,8 +15,8 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:10.81.4" type="line">
     <w ref="10.81.4" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
-    <w ana="#acte #metonymie #position #futuor" ref="10.81.4" lemma="pes" pos="NOMcom" msd="Case=Acc|Numb=Sing">pedem</w>
-    <w ana="#acte #metonymie #position #futuor" ref="10.81.4" lemma="tollo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">sustulit</w>
+    <w ana="#acte #composite #fututio #metonymie #position" ref="10.81.4" lemma="pes" pos="NOMcom" msd="Case=Acc|Numb=Sing">pedem</w>
+    <w ana="#acte #composite #fututio #metonymie #position" ref="10.81.4" lemma="tollo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">sustulit</w>
     <w ref="10.81.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="10.81.4" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing">hic</w>
     <w ref="10.81.4" lemma="tunica" pos="NOMcom" msd="Case=Acc|Numb=Sing">tunicam</w>

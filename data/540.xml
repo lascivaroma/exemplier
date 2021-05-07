@@ -1,4 +1,4 @@
-<div type="fragment" ana="#adjoining_parts #euphemism #female">
+<div type="fragment" ana="#adjoiningParts #composite #euphemism #female">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,8 +18,8 @@
         <w lemma="que" pos="CON" msd="MORPH=empty">{ardentemque}</w>
         <w lemma="titio" pos="NOMcom" msd="Case=Acc|Numb=Sing">titionem</w>
         <w lemma="gero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">gerens</w>
-        <w ana="#adjoining_parts #euphemism #composite" lemma="medius" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">mediis</w>
-        <w ana="#adjoining_parts #euphemism #composite" lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Plur">inguinibus</w>
+        <w ana="#adjoiningParts #composite #euphemism #female" lemma="medius" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">mediis</w>
+        <w ana="#adjoiningParts #composite #euphemism #female" lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Plur">inguinibus</w>
         <w lemma="obtrudo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">obtrudit</w>
     </quote>
  </div>

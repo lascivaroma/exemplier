@@ -1,4 +1,4 @@
-<div type="fragment" ana="#doors #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #doors #female #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="castus2" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Deg=Pos">casto</w>
         <w lemma="sceleratus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">sceleratum</w>
         <w lemma="insisto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">insistere</w>
-        <w ana="#doors" lemma="limen" pos="NOMcom" msd="Case=Acc|Numb=Sing">limen</w>
+        <w ana="#cunnus #doors #female #metaphore" lemma="limen" pos="NOMcom" msd="Case=Acc|Numb=Sing">limen</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

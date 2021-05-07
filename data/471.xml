@@ -1,4 +1,4 @@
-<div type="fragment" ana="#fossa #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #female #fossa #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
         <w lemma="quater" pos="ADJadv.mul" msd="MORPH=empty">quater</w>
         <w lemma="uoro" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">uoret</w>
         <w lemma="profundus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">profunda</w>
-        <w ana="#fossa" lemma="fossa" pos="NOMcom" msd="Case=Nom|Numb=Sing">fossa</w>
+        <w ana="#cunnus #female #fossa #metaphore" lemma="fossa" pos="NOMcom" msd="Case=Nom|Numb=Sing">fossa</w>
         <w lemma="lubricus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">lubricum</w>
         <w lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>

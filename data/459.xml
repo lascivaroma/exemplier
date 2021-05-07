@@ -1,4 +1,4 @@
-<div type="fragment" ana="#field #anus #male #homoeros">
+<div type="fragment" ana="#culus #field #homoeros #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="Labienus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Labiene</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="tres" pos="ADJcar" msd="Case=Acc|Numb=Plur|Gend=MascFem">tres</w>
-        <w ana="#field #anus" lemma="agellus" pos="NOMcom" msd="Case=Acc|Numb=Plur">agellos</w>
+        <w ana="#culus #field #homoeros #male" lemma="agellus" pos="NOMcom" msd="Case=Acc|Numb=Plur">agellos</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

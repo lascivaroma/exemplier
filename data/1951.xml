@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #position #oral">
+<div type="fragment" ana="#acte #composite #metonymie #oral #position">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,8 +30,8 @@
     <w ref="83" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">tuam</w>
     <w ref="83" lemma="occulto" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">occultantem</w>
     <w ref="83" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
-    <w ana="#acte #metonymie #position #oral" ref="83" lemma="caput" pos="NOMcom" msd="Case=Abl|Numb=Sing">capite</w>
-    <w ana="#acte #metonymie #position #oral" ref="83" lemma="demissus" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">demisso</w>
+    <w ana="#acte #composite #metonymie #oral #position" ref="83" lemma="caput" pos="NOMcom" msd="Case=Abl|Numb=Sing">capite</w>
+    <w ana="#acte #composite #metonymie #oral #position" ref="83" lemma="demissus" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">demisso</w>
     <w ref="83" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

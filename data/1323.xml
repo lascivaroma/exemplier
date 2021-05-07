@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #tuer #mourir">
+<div type="fragment" ana="#acte #metaphore #mourir #tuer">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="2.17" lemma="nauiter" pos="ADV" msd="Deg=Pos">naviter</w>
     <w ref="2.17" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="2.17" lemma="occido2" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">occide</w>
-    <w ana="#metaphore #acte #tuer #mourir" ref="2.17" lemma="morior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Fut|Voice=Dep">moriturus</w>
+    <w ana="#acte #metaphore #mourir #tuer" ref="2.17" lemma="morior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Fut|Voice=Dep">moriturus</w>
     <w ref="2.17" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

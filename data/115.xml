@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
         <w lemma="]" pos="PUNC" msd="MORPH=empty">]</w>
         <w lemma="tensio" pos="NOMcom" msd="Case=Acc|Numb=Sing">tensionem</w>
-        <w lemma="particula" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #specialisation #euphemism #mentula">particulae</w>
+        <w lemma="particula" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#euphemism #male #mentula #specialisation">particulae</w>
         <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
         <w lemma="assiduus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">assidua</w>
         <w lemma="patratio" pos="NOMcom" msd="Case=Abl|Numb=Sing">patratione</w>

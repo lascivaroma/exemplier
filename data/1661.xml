@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #join">
+<div type="fragment" ana="#acte #join #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,7 +29,7 @@
     <w ref="1.46.7" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
     <w ref="1.46.7" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="1.46.7" lemma="impar" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">inpari</w>
-    <w ana="#acte #metonymie #join" ref="1.46.7" lemma="iungo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">iungi</w>
+    <w ana="#acte #join #metonymie" ref="1.46.7" lemma="iungo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">iungi</w>
     <w ref="1.46.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.46.7" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
     <w ref="1.46.7" lemma="elanguesco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">elanguescendum</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#natura #euphemism #neutral">
+<div type="fragment" ana="#euphemism #natura #neutral">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
         <w lemma="inflammo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">inflammatam</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
-        <w lemma="naturalis" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#natura #euphemism #neutral">naturalia</w>
+        <w lemma="naturalis" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" ana="#euphemism #natura #neutral">naturalia</w>
         <w lemma="sordidus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">sordida</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>

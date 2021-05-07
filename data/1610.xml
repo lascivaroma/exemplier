@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="19.2.8" lemma="scientia" pos="NOMcom" msd="Case=Abl|Numb=Sing">scientia</w>
     <w ref="19.2.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="19.2.8" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
-    <w ana="#acte #metonymie #coeo" ref="19.2.8" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
+    <w ana="#acte #coeo #metonymie" ref="19.2.8" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
     <w ref="19.2.8" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">venerio</w>
     <w ref="19.2.8" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
     <w ref="19.2.8" lemma="existimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">existimabat</w>

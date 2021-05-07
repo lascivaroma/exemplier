@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #metonymie #acte #embrace">
+<div type="fragment" ana="#acte #embrace #male #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -33,7 +33,7 @@
     <w ref="1.19" lemma="femina" pos="NOMcom" msd="Case=Dat|Numb=Plur">feminis</w>
     <w ref="1.19" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="1.19" lemma="captiuitas" pos="NOMcom" msd="Case=Abl|Numb=Sing">captiuitate</w>
-    <w ana="#acte #male #metonymie #acte #embrace" ref="1.19" lemma="comprimo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">conpressis</w>
+    <w ana="#acte #embrace #male #metonymie" ref="1.19" lemma="comprimo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">conpressis</w>
     <w ref="1.19" lemma="alienus2" pos="ADJqua" msd="Case=Gen|Numb=Plur|Deg=Pos">alieni</w>
     <w ref="1.19" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
     <w ref="1.19" lemma="omnis" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Com">omni</w>

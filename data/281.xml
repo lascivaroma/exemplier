@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #abstracts #mentula">
+<div type="fragment" ana="#abstracts #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:83.4">
-        <w lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#male #euphemisms #abstracts">Venus</w>
+        <w lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#abstracts #euphemism #male #mentula">Venus</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
         <w lemma="quietus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">quieta</w>
     </quote>

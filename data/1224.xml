@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #frapper #futuo">
+<div type="fragment" ana="#acte #frapper #fututio #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -41,7 +41,7 @@
     <w ref="59.4" lemma="panis" pos="NOMcom" msd="Case=Acc|Numb=Sing">panem</w>
     <w ref="59.5" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
     <w ref="59.5" lemma="semirasus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">semiraso</w>
-    <w ana="#metaphore #acte #frapper #futuo" ref="59.5" lemma="tundo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">tunderetur</w>
+    <w ana="#acte #frapper #fututio #metaphore" ref="59.5" lemma="tundo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">tunderetur</w>
     <w ref="59.5" lemma="ustor" pos="NOMcom" msd="Case=Abl|Numb=Sing">ustore</w>
     <w ref="59.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

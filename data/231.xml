@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:stoa0234b.stoa001.opp-lat1</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.opp-lat1:1.27">
-        <w lemma="ueretrum" pos="NOMcom" msd="Case=Gen|Numb=Sing|Deg=Pos" ana="#male #euphemisms #aidoion #mentula">veretri</w>
+        <w lemma="ueretrum" pos="NOMcom" msd="Case=Gen|Numb=Sing|Deg=Pos" ana="#aidoion #euphemism #male #mentula">veretri</w>
         <w lemma="dolor" pos="NOMcom" msd="Case=Nom|Numb=Plur">dolores</w>
         <w lemma="fel" pos="NOMcom" msd="Case=Nom|Numb=Sing">fel</w>
         <w lemma="taurinus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">taurinum</w>

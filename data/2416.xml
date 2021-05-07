@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #armes">
+<div type="fragment" ana="#armes #mentula #metaphore #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="5.77" lemma="trado" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">tradimus</w>
     <w ref="5.77" lemma="arma" pos="NOMcom" msd="Case=Acc|Numb=Plur">arma</w>
     <w ref="5.77" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#mentula #metaphore #pointu #armes" ref="5.78" lemma="arma" pos="NOMcom" msd="Case=Acc|Numb=Plur">arma</w>
+    <w ana="#armes #mentula #metaphore #pointu" ref="5.78" lemma="arma" pos="NOMcom" msd="Case=Acc|Numb=Plur">arma</w>
     <w ref="5.78" lemma="ministerium" pos="NOMcom" msd="Case=Abl|Numb=Plur">ministeriis</w>
     <w ref="5.78" lemma="quippe1" pos="ADV" msd="MORPH=empty">quippe</w>
     <w ref="5.78" lemma="dico1" pos="VER" msd="Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">dicata</w>

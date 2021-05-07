@@ -1,4 +1,4 @@
-<div type="fragment" ana="#fente #female #cunnus #misc">
+<div type="fragment" ana="#cunnus #divers #female #fente">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="tenuis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">tenui</w>
         <w lemma="disto" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act">distantia</w>
-        <w ana="#fente #misc" lemma="rima" pos="NOMcom" msd="Case=Abl|Numb=Sing">rima</w>
+        <w ana="#cunnus #divers #female #fente" lemma="rima" pos="NOMcom" msd="Case=Abl|Numb=Sing">rima</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

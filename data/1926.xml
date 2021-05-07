@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #enter">
+<div type="fragment" ana="#acte #enter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="52.3" lemma="libidinosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">libidinosus</w>
     <w ref="52.4" lemma="alternis" pos="ADV" msd="Deg=Pos">alternis</w>
     <w ref="52.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#acte #metonymie #enter" ref="52.4" lemma="eo1" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">eundo</w>
+    <w ana="#acte #enter #metonymie" ref="52.4" lemma="eo1" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">eundo</w>
     <w ref="52.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="52.4" lemma="exeo1" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Ger|Voice=Act">exeundo</w>
     <w ref="52.5" lemma="porta" pos="NOMcom" msd="Case=Abl|Numb=Sing">porta</w>

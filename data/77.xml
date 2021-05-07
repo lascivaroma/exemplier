@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #anatomie #metaphore #mentula">
+<div type="fragment" ana="#anatomie #composite #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,8 +18,8 @@
         <w lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">is</w>
         <w lemma="unde1" pos="ADVrel" msd="MORPH=empty">unde</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Par|Tense=Fut|Voice=Act">foret</w>
-        <w lemma="neruosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp" ana="#male #anatomie">nervosius</w>
-        <w lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut" ana="#male #anatomie">illud</w>
+        <w lemma="neruosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp" ana="#anatomie #composite #male #mentula #metaphore">nervosius</w>
+        <w lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut" ana="#anatomie #composite #male #mentula #metaphore">illud</w>
         <w lemma="quod1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
         <w lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">posset</w>
         <w lemma="zona" pos="NOMcom" msd="Case=Acc|Numb=Sing">zonam</w>

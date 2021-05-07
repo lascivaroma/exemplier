@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="97.2" lemma="utrumne" pos="ADVint" msd="MORPH=empty">utrumne</w>
     <w ref="97.2" lemma="os1" pos="NOMcom" msd="Case=Acc|Numb=Sing">os</w>
     <w ref="97.2" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
-    <w ana="#anus #culus" ref="97.2" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Sing">culum</w>
+    <w ana="#culus" ref="97.2" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Sing">culum</w>
     <w ref="97.2" lemma="olfacio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1">olfacerem</w>
     <w ref="97.2" lemma="aemilium" pos="NOMcom" msd="Case=Dat|Numb=Sing">Aemilio</w>
     <w ref="97.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

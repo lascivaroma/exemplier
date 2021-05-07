@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #disgrace">
+<div type="fragment" ana="#acte #disgrace #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="2.99" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="2.99" lemma="satis1" pos="ADJqua" msd="Case=Ind|Deg=Pos">satis</w>
     <w ref="2.99" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
-    <w ana="#acte #metonymie #disgrace" ref="2.99" lemma="probrum" pos="NOMcom" msd="Case=Gen|Numb=Sing">probri</w>
+    <w ana="#acte #disgrace #metonymie" ref="2.99" lemma="probrum" pos="NOMcom" msd="Case=Gen|Numb=Sing">probri</w>
     <w ref="2.99" lemma="insimulo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">insimulasti</w>
     <w ref="2.99" lemma="pudicus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Sup">pudicissimam</w>
     <w ref="2.99" lemma="femina" pos="NOMcom" msd="Case=Acc|Numb=Sing">feminam</w>

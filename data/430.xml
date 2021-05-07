@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #foreskin">
+<div type="fragment" ana="#foreskin #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="incumbo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act">incumbens</w>
         <w lemma="nodus" pos="NOMcom" msd="Case=Abl|Numb=Plur">nodis</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-        <w ana="#male #foreskin" lemma="cortex" pos="NOMcom" msd="Case=Abl|Numb=Sing">cortice</w>
+        <w ana="#foreskin #male" lemma="cortex" pos="NOMcom" msd="Case=Abl|Numb=Sing">cortice</w>
         <w lemma="crudus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">crudo</w>
         <w lemma="intorqueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">intorquet</w>
         <w lemma="superus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Sup">summis</w>

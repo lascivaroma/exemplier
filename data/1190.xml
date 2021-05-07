@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme">
+<div type="fragment" ana="#accomplissement #acte #ejaculation #humiliant #metaphore #orgasme">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="8.3.44" lemma="ducto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ductare</w>
     <w ref="8.3.44" lemma="exercitus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">exercitus</w>
     <w ref="8.3.44" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme" ref="8.3.44" lemma="patro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">patrare</w>
+    <w ana="#accomplissement #acte #ejaculation #humiliant #metaphore #orgasme" ref="8.3.44" lemma="patro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">patrare</w>
     <w ref="8.3.44" lemma="bellum" pos="NOMcom" msd="Case=Acc|Numb=Plur">bella</w>
     <w ref="8.3.44" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="8.3.44" lemma="apud" pos="PRE" msd="MORPH=empty">apud</w>

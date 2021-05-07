@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="3.22.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="3.22.2" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
     <w ref="3.22.2" lemma="laboro" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">laborantis</w>
-    <w ana="#female #cunnus #womb" ref="3.22.2" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ana="#cunnus #female #womb" ref="3.22.2" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
     <w ref="3.22.2" lemma="puella" pos="NOMcom" msd="Case=Acc|Numb=Plur">puellas</w>
     <w ref="3.22.3" lemma="ter" pos="ADJadv.mul" msd="MORPH=empty">ter</w>
     <w ref="3.22.3" lemma="uoco" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">vocata</w>

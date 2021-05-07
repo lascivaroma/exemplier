@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #masturbor">
+<div type="fragment" ana="#acte #composite #masturbor">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,8 +21,8 @@
     <w ref="2.7" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">cui</w>
     <w ref="2.7" lemma="permitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">permiseris</w>
     <w ref="2.7" lemma="illuc" pos="ADV" msd="Deg=Pos">illuc</w>
-    <w ana="#acte #masturbor" ref="2.7" lemma="digitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">digitum</w>
-    <w ana="#acte #masturbor" ref="2.7" lemma="intingo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">intingere</w>
+    <w ana="#acte #composite #masturbor" ref="2.7" lemma="digitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">digitum</w>
+    <w ana="#acte #composite #masturbor" ref="2.7" lemma="intingo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">intingere</w>
     <w ref="2.7" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
   </quote>
 </div>

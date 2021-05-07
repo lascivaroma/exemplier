@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #vol">
+<div type="fragment" ana="#acte #metaphore #vol">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="1.34.2" lemma="pecco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">peccas</w>
     <w ref="1.34.2" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
     <w ref="1.34.2" lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Neut">tua</w>
-    <w ana="#metaphore #acte #vol" ref="1.34.2" lemma="furtum" pos="NOMcom" msd="Case=Acc|Numb=Plur">furta</w>
+    <w ana="#acte #metaphore #vol" ref="1.34.2" lemma="furtum" pos="NOMcom" msd="Case=Acc|Numb=Plur">furta</w>
     <w ref="1.34.2" lemma="tego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">tegis</w>
   </quote>
 </div>

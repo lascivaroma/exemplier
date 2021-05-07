@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #misc">
+<div type="fragment" ana="#dildo #divers #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
         <w lemma="]" pos="PUNC" msd="MORPH=empty">]</w>
-        <w ana="#male #dildo" lemma="fascinum" pos="NOMcom" msd="Case=Gen|Numb=Plur">fascinorum</w>
+        <w ana="#dildo #divers #male" lemma="fascinum" pos="NOMcom" msd="Case=Gen|Numb=Plur">fascinorum</w>
         <w lemma="ingens" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos">ingentium</w>
         <w lemma="rubor" pos="NOMcom" msd="Case=Abl|Numb=Sing">rubore</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>

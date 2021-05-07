@@ -1,4 +1,4 @@
-<div type="fragment" ana="#pars #euphemism">
+<div type="fragment" ana="#composite #euphemism #pars">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,8 +15,8 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0684.phi001.remacle-lat1:5.15">
         <w lemma="sic" pos="ADV" msd="Deg=Pos">Sic</w>
-        <w ana="#pars #euphemism #composite" lemma="locus" pos="NOMcom" msd="Case=Gen|Numb=Sing">loci</w>
-        <w ana="#pars #euphemism #composite" lemma="muliebris" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">muliebres</w>
+        <w ana="#composite #euphemism #pars" lemma="locus" pos="NOMcom" msd="Case=Gen|Numb=Sing">loci</w>
+        <w ana="#composite #euphemism #pars" lemma="muliebris" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos">muliebres</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="ubi1" pos="ADVrel" msd="MORPH=empty">ubi</w>
         <w lemma="nascor" pos="VER" msd="Case=Gen|Numb=Sing|Mood=Ger|Voice=Dep">nascendi</w>

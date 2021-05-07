@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #womb #medical">
+<div type="fragment" ana="#female #medicale #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="79.1" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="79.1" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Neut">omnia</w>
     <w ref="79.1" lemma="carcinomatus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">carcinomata</w>
-    <w ana="#female #womb #medical" ref="79.1" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ana="#female #medicale #womb" ref="79.1" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
     <w ref="79.1" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
     <w ref="79.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="79.1" lemma="cancerosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">cancerosa</w>

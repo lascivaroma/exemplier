@@ -1,4 +1,4 @@
-<div type="fragment" ana="#doors #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #doors #female #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,6 +19,6 @@
         <w lemma="notus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">nota</w>
         <w lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">fertur</w>
         <w lemma="regio" pos="NOMcom" msd="Case=Abl|Numb=Sing">regione</w>
-        <w ana="#doors" lemma="uia" pos="NOMcom" msd="Case=Gen|Numb=Plur">viarum</w>
+        <w ana="#cunnus #doors #female #metaphore" lemma="uia" pos="NOMcom" msd="Case=Gen|Numb=Plur">viarum</w>
     </quote>
  </div>

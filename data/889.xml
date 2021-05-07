@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="11.46.5" lemma="miser" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">miseros</w>
     <w ref="11.46.5" lemma="frustra" pos="ADV" msd="Deg=Pos">frustra</w>
     <w ref="11.46.5" lemma="cunnus" pos="NOMcom" msd="Case=Acc|Numb=Plur">cunnos</w>
-    <w ana="#anus #culus" ref="11.46.5" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Plur">culosque</w>
+    <w ana="#culus" ref="11.46.5" lemma="culus" pos="NOMcom" msd="Case=Acc|Numb=Plur">culosque</w>
     <w ref="11.46.5" lemma="que" pos="CON" msd="MORPH=empty">{culosque}</w>
     <w ref="11.46.5" lemma="lacesso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">lacessis</w>
     <w ref="11.46.5" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>

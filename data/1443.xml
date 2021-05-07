@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #aggression">
+<div type="fragment" ana="#acte #aggression #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="7.7.3" lemma="tyrannicida" pos="NOMcom" msd="Case=Gen|Numb=Plur">tyrannicidarum</w>
     <w ref="7.7.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="7.7.3" lemma="duo" pos="ADJcar" msd="Case=Gen|Numb=Plur|Gend=Fem">duarum</w>
-    <w ana="#acte #metonymie #aggression" ref="7.7.3" lemma="rapio" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">raptarum</w>
+    <w ana="#acte #aggression #metonymie" ref="7.7.3" lemma="rapio" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">raptarum</w>
     <w ref="7.7.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="7.7.3" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="7.7.3" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibus</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #personnification">
+<div type="fragment" ana="#composite #male #personnification">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,8 +18,8 @@
         <w lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
         <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
         <w lemma="uiuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vivit</w>
-        <w lemma="sollicito" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" ana="#male #personnification">sollicitata</w>
-        <w lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#male #personnification">Venus</w>
+        <w lemma="sollicito" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" ana="#composite #male #personnification">sollicitata</w>
+        <w lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing" ana="#composite #male #personnification">Venus</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

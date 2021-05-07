@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,8 +22,8 @@
     <w ref="book.33.68" lemma="que" pos="CON" msd="MORPH=empty">{fierique}</w>
     <w ref="book.33.68" lemma="cupio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">cupies</w>
     <w ref="book.33.68" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-    <w ana="#acte #metonymie #amo" ref="book.33.68" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
-    <w ana="#acte #metonymie #amo" ref="book.33.68" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerio</w>
+    <w ana="#acte #amo #composite #metonymie" ref="book.33.68" lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+    <w ana="#acte #amo #composite #metonymie" ref="book.33.68" lemma="Uenereus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">uenerio</w>
     <w ref="book.33.68" lemma="tardus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp">tardiorem</w>
     <w ref="book.33.68" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="book.33.68" lemma="de" pos="PRE" msd="MORPH=empty">de</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #joke #jeu">
+<div type="fragment" ana="#acte #jeu #joke #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="26.8" lemma="fenestra" pos="NOMcom" msd="Case=Acc|Numb=Sing">fenestram</w>
     <w ref="26.8" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">vidit</w>
     <w ref="26.8" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eum</w>
-    <w ana="#metaphore #acte #joke #jeu" ref="26.8" lemma="iocor" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">iocantem</w>
+    <w ana="#acte #jeu #joke #metaphore" ref="26.8" lemma="iocor" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">iocantem</w>
     <w ref="26.8" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="26.8" lemma="rebeccus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem">Rebecca</w>
     <w ref="26.8" lemma="uxor" pos="NOMcom" msd="Case=Abl|Numb=Sing">uxore</w>

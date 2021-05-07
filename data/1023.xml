@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #futuo">
+<div type="fragment" ana="#acte #fututio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="9.2.10" lemma="addico2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">addictus</w>
     <w ref="9.2.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="9.2.10" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">te</w>
-    <w ana="#acte #futuo" ref="9.2.10" lemma="futuo" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">futuente</w>
+    <w ana="#acte #fututio" ref="9.2.10" lemma="futuo" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">futuente</w>
     <w ref="9.2.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="9.2.10" lemma="cliens" pos="NOMcom" msd="Case=Nom|Numb=Sing">cliens</w>
     <w ref="9.2.10" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>

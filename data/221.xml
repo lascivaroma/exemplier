@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #voisinage #reproduction">
+<div type="fragment" ana="#adjoiningParts #euphemism #male #mentula #reproduction">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
         <w lemma="apprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">apprimetue</w>
         <w lemma="ue" pos="CON" msd="MORPH=empty">{apprimetue}</w>
         <w lemma="lucidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">lucidum</w>
-        <w lemma="femur" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #voisinage #reproduction #mentula">femur</w>
+        <w lemma="femur" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#adjoiningParts #euphemism #male #mentula #reproduction">femur</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

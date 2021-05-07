@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #composite #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,8 +16,8 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0631.phi002.perseus-lat4:85.41">
         <w lemma="uenter" pos="NOMcom" msd="Case=Dat|Numb=Sing">uentri</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-        <w lemma="turpis" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=Fem|Deg=Sup" ana="#male #euphemisms #aidoion #mentula">turpissumae</w>
-        <w lemma="pars" pos="NOMcom" msd="Case=Dat|Numb=Sing" ana="#male #euphemisms #aidoion #mentula">parti</w>
+        <w lemma="turpis" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=Fem|Deg=Sup" ana="#aidoion #composite #euphemism #male #mentula">turpissumae</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Dat|Numb=Sing" ana="#aidoion #composite #euphemism #male #mentula">parti</w>
         <w lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
     </quote>
  </div>

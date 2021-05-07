@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme">
+<div type="fragment" ana="#accomplissement #acte #ejaculation #humiliant #metaphore #orgasme">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:stoa0159.stoa004.thayer-lat1</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0159.stoa004.thayer-lat1:9.5" type="entry">
-    <w ana="#metaphore #acte #humiliant #accomplissement #ejaculation #orgasme" ref="9.5" lemma="patratio" pos="NOMcom" msd="Case=Nom|Numb=Sing">Patratio</w>
+    <w ana="#accomplissement #acte #ejaculation #humiliant #metaphore #orgasme" ref="9.5" lemma="patratio" pos="NOMcom" msd="Case=Nom|Numb=Sing">Patratio</w>
     <w ref="9.5" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
     <w ref="9.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="9.5" lemma="res" pos="NOMcom" msd="Case=Gen|Numb=Sing">rei</w>

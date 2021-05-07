@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #contenants #metaphore #mentula">
+<div type="fragment" ana="#contenant #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
         <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
         <w lemma="refero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">Refero</w>
-        <w lemma="uas2" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #contenants #metaphore #mentula">vasa</w>
+        <w lemma="uas2" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#contenant #male #mentula #metaphore">vasa</w>
         <w lemma="saluus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">salva</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

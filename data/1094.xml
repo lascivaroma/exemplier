@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #pedico">
+<div type="fragment" ana="#acte #male #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi1294.phi002.perseus-lat2</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:7.67.1-7.67.3" type="line">
-    <w ana="#acte #male #pedico" ref="7.67.1" lemma="paedico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Pedicat</w>
+    <w ana="#acte #male #pedicatio" ref="7.67.1" lemma="paedico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Pedicat</w>
     <w ref="7.67.1" lemma="puer" pos="NOMcom" msd="Case=Acc|Numb=Plur">pueros</w>
     <w ref="7.67.1" lemma="tribae" pos="NOMcom" msd="Case=Acc|Numb=Plur">tribas</w>
     <w ref="7.67.1" lemma="philaenis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">Philaenis</w>

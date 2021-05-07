@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #harass">
+<div type="fragment" ana="#acte #harass #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,7 +30,7 @@
     <w ref="106.14" lemma="bellum" pos="NOMcom" msd="Case=Acc|Numb=Plur">bella</w>
     <w ref="106.14" lemma="lacesso" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">lacessiti</w>
     <w ref="106.15" lemma="irritus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">irrita</w>
-    <w ana="#acte #metonymie #harass" ref="106.15" lemma="uexo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">vexato</w>
+    <w ana="#acte #harass #metonymie" ref="106.15" lemma="uexo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">vexato</w>
     <w ref="106.15" lemma="consumo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act|Person=3">consumere</w>
     <w ref="106.15" lemma="gaudium" pos="NOMcom" msd="Case=Acc|Numb=Plur">gaudia</w>
     <w ref="106.15" lemma="lectus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">lecto</w>

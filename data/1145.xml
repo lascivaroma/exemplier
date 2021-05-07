@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #fellatio #acte">
+<div type="fragment" ana="#acte #fellatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="7.67.13" lemma="libidinor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">libidinatur</w>
     <w ref="7.67.13" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="7.67.14" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>
-    <w ana="#acte #fellatio #acte" ref="7.67.14" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fellat</w>
+    <w ana="#acte #fellatio" ref="7.67.14" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fellat</w>
     <w ref="7.67.14" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
     <w ref="7.67.14" lemma="puto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">putat</w>
     <w ref="7.67.14" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>

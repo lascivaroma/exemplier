@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #lutter #sebattre">
+<div type="fragment" ana="#acte #lutter #metaphore #seBattre">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="7.21" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
     <w ref="7.21" lemma="furiosus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">furiosos</w>
     <w ref="7.21" lemma="dirigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">direxit</w>
-    <w ana="#metaphore #acte #lutter #sebattre" ref="7.21" lemma="impetus" pos="NOMcom" msd="Case=Acc|Numb=Plur">impetus</w>
+    <w ana="#acte #lutter #metaphore #seBattre" ref="7.21" lemma="impetus" pos="NOMcom" msd="Case=Acc|Numb=Plur">impetus</w>
     <w ref="7.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="7.21" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="7.21" lemma="festiuus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">festivus</w>

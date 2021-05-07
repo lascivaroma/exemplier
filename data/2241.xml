@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio">
+<div type="fragment" ana="#acte #animal #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="6.329" lemma="fas" pos="NOMcom" msd="Case=Ind">fas</w>
     <w ref="6.329" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="6.329" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #animals #salio" ref="6.329" lemma="admitto" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">admitte</w>
+    <w ana="#acte #animal #salio" ref="6.329" lemma="admitto" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">admitte</w>
     <w ref="6.329" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Plur">viros</w>
     <w ref="6.329" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #anatomie #metaphore #mentula">
+<div type="fragment" ana="#anatomie #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
         <w lemma="infeliciter" pos="ADV" msd="Deg=Pos">infeliciter</w>
         <w lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
         <w lemma="turpiter" pos="ADV" msd="Deg=Pos">turpiter</w>
-        <w lemma="eneruatus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass" ana="#male #anatomie">eneruatos</w>
+        <w lemma="eneruatus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass" ana="#anatomie #male #mentula #metaphore">eneruatos</w>
         <w lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
         <w lemma="corrumpo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">corruptos</w>
         <w lemma="occulto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">occultare</w>

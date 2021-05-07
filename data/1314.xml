@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #lutter #sebattre">
+<div type="fragment" ana="#acte #lutter #metaphore #seBattre">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="10.55.4" lemma="opus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">opus</w>
     <w ref="10.55.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="10.55.4" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Plur|Gend=Fem">suas</w>
-    <w ana="#metaphore #acte #lutter #sebattre" ref="10.55.4" lemma="palaestra" pos="NOMcom" msd="Case=Acc|Numb=Plur">palaestras</w>
+    <w ana="#acte #lutter #metaphore #seBattre" ref="10.55.4" lemma="palaestra" pos="NOMcom" msd="Case=Acc|Numb=Plur">palaestras</w>
     <w ref="10.55.5" lemma="lorum" pos="NOMcom" msd="Case=Abl|Numb=Sing">Loro</w>
     <w ref="10.55.5" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="10.55.5" lemma="similis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">similis</w>

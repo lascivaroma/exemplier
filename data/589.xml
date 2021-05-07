@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #metaphore #labia #automatic">
+<div type="fragment" ana="#automatic #female #labia #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="II.126" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="II.126" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
     <w ref="II.126" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-    <w ana="#female #metaphore #labia #automatic" ref="II.126" lemma="pinnaculum" pos="NOMcom" msd="Case=Abl|Numb=Plur">pinnaculis</w>
+    <w ana="#automatic #female #labia #metaphore" ref="II.126" lemma="pinnaculum" pos="NOMcom" msd="Case=Abl|Numb=Plur">pinnaculis</w>
     <w ref="II.126" lemma="afor" pos="ADJqua" msd="Case=Gen|Numb=Sing|Deg=Pos">aforis</w>
     <w ref="II.126" lemma="fibra" pos="NOMcom" msd="Case=Gen|Numb=Plur">fibrarum</w>
     <w ref="II.126" lemma="connaturatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">connaturatione</w>

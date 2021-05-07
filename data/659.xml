@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="10.495" lemma="que" pos="CON" msd="MORPH=empty">{Iamque}</w>
     <w ref="10.495" lemma="grauis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">gravem</w>
     <w ref="10.495" lemma="cresco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">crescens</w>
-    <w ana="#female #cunnus #womb" ref="10.495" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ana="#cunnus #female #womb" ref="10.495" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
     <w ref="10.495" lemma="perstringo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">perstrinxerat</w>
     <w ref="10.495" lemma="arbor" pos="NOMcom" msd="Case=Nom|Numb=Sing">arbor</w>
     <w ref="10.496" lemma="pectus" pos="NOMcom" msd="Case=Acc|Numb=Plur">pectoraque</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="23.18" lemma="mundus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp">mundiorem</w>
     <w ref="23.18" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="23.19" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
-    <w ana="#anus #culus" ref="23.19" lemma="culus" pos="NOMcom" msd="Case=Nom|Numb=Sing">culus</w>
+    <w ana="#culus" ref="23.19" lemma="culus" pos="NOMcom" msd="Case=Nom|Numb=Sing">culus</w>
     <w ref="23.19" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
     <w ref="23.19" lemma="purus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">purior</w>
     <w ref="23.19" lemma="salillum" pos="NOMcom" msd="Case=Abl|Numb=Sing">salillo</w>

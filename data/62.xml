@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #anatomie #metaphore #mentula">
+<div type="fragment" ana="#anatomie #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Masc">hi</w>
         <w lemma="mos" pos="NOMcom" msd="Case=Nom|Numb=Plur">mores</w>
         <w lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
-        <w lemma="penis" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #anatomie">penemque</w>
+        <w lemma="penis" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#anatomie #male #mentula #metaphore">penemque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{penemque}</w>
         <w lemma="arcanum" pos="ADJqua" msd="Case=Acc|Numb=Plur|Deg=Pos">arcanaque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{arcanaque}</w>

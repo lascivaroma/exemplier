@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #ficus #plaie_anale">
+<div type="fragment" ana="#ficus #metaphore #plaieAnale">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -33,7 +33,7 @@
     <w ref="2.13" lemma="tumidus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">tumidae</w>
     <w ref="2.13" lemma="medicus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">medico</w>
     <w ref="2.13" lemma="rideo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">ridente</w>
-    <w ana="#metaphore #ficus #plaie_anale" ref="2.13" lemma="marisca" pos="NOMcom" msd="Case=Nom|Numb=Sing">mariscae</w>
+    <w ana="#ficus #metaphore #plaieAnale" ref="2.13" lemma="marisca" pos="NOMcom" msd="Case=Nom|Numb=Sing">mariscae</w>
     <w ref="2.13" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

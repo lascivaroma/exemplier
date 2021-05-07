@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #f2m #dormir_avec">
+<div type="fragment" ana="#acte #composite #dormirAvec #f2m #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,9 +27,9 @@
     <w ref="52.2.1" lemma="somanitus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com">Somanitis</w>
     <w ref="52.2.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="52.2.1" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Fem">quae</w>
-    <w ana="#acte #metonymie #f2m #dormir_avec" ref="52.2.1" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ana="#acte #composite #dormirAvec #f2m #metonymie" ref="52.2.1" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="52.2.1" lemma="rex" pos="NOMcom" msd="Case=Abl|Numb=Sing">rege</w>
-    <w ana="#acte #metonymie #f2m #dormir_avec" ref="52.2.1" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">dormiret</w>
+    <w ana="#acte #composite #dormirAvec #f2m #metonymie" ref="52.2.1" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">dormiret</w>
     <w ref="52.2.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="52.2.1" lemma="senilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">senile</w>
     <w ref="52.2.1" lemma="corpus" pos="NOMcom" msd="Case=Acc|Numb=Sing">corpus</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio">
+<div type="fragment" ana="#acte #animal #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0684.phi002.thayer-lat1:3.9.5" type="section">
     <w ref="3.9.5" lemma="Galli" pos="NOMpro" msd="Case=Acc|Numb=Plur">Gallos</w>
-    <w ana="#acte #animals #salio" ref="3.9.5" lemma="salax" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">salaces</w>
+    <w ana="#acte #animal #salio" ref="3.9.5" lemma="salax" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">salaces</w>
     <w ref="3.9.5" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
     <w ref="3.9.5" lemma="animaduerto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">animadvertunt</w>
     <w ref="3.9.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

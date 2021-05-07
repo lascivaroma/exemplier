@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #subigo #soumission">
+<div type="fragment" ana="#acte #metaphore #soumission #subigo">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="2.2" lemma="respondeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">respondit</w>
     <w ref="2.2" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="2.2" lemma="galla" pos="NOMcom" msd="Case=Acc|Numb=Sing">Gallam</w>
-    <w ana="#metaphore #acte #subigo #soumission" ref="2.2" lemma="subigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">subigo</w>
+    <w ana="#acte #metaphore #soumission #subigo" ref="2.2" lemma="subigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">subigo</w>
     <w ref="2.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

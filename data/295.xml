@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #descriptive-functional #euphemism #mentula">
+<div type="fragment" ana="#descriptiveFunctional #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -34,7 +34,7 @@
         <w lemma="sano" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sanat</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
-        <w lemma="genitalis" pos="NOMcom" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#male #descriptive-functional #euphemism #mentula">genitalibus</w>
+        <w lemma="genitalis" pos="NOMcom" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos" ana="#descriptiveFunctional #euphemism #male #mentula">genitalibus</w>
         <w lemma="laboro" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">laborantibus</w>
         <w lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
         <w lemma="adicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">adicitur</w>

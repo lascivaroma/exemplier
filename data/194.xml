@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #mentula #voisinage #copulation #desir">
+<div type="fragment" ana="#adjoiningParts #copulation #desir #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="tener" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">teneris</w>
         <w lemma="haereo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">haerebit</w>
         <w lemma="dextera" pos="NOMcom" msd="Case=Nom|Numb=Sing">dextera</w>
-        <w lemma="lumbus" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#male #euphemisms #voisinage #copulation #desir">lumbis</w>
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#adjoiningParts #copulation #desir #euphemism #male #mentula">lumbis</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

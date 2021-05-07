@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #pedico">
+<div type="fragment" ana="#acte #male #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="11.88.1" lemma="possum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">posse</w>
     <w ref="11.88.1" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
     <w ref="11.88.1" lemma="dies" pos="NOMcom" msd="Case=Abl|Numb=Plur">diebus</w>
-    <w ana="#acte #male #pedico" ref="11.88.2" lemma="paedico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Pedicare</w>
+    <w ana="#acte #male #pedicatio" ref="11.88.2" lemma="paedico2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Pedicare</w>
     <w ref="11.88.2" lemma="nego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">negat</w>
     <w ref="11.88.2" lemma="charisianus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Charisianus</w>
     <w ref="11.88.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

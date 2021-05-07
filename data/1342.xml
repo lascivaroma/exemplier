@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #epouser #noces">
+<div type="fragment" ana="#acte #epouser #metaphore #noces">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="2.7.21" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=MascFem">Quis</w>
     <w ref="2.7.21" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
     <w ref="2.7.21" lemma="famula" pos="NOMcom" msd="Case=Gen|Numb=Sing">famulae</w>
-    <w ana="#metaphore #acte #epouser #noces" ref="2.7.21" lemma="connubium" pos="NOMcom" msd="Case=Acc|Numb=Plur">conubia</w>
+    <w ana="#acte #epouser #metaphore #noces" ref="2.7.21" lemma="connubium" pos="NOMcom" msd="Case=Acc|Numb=Plur">conubia</w>
     <w ref="2.7.21" lemma="liber1" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">liber</w>
     <w ref="2.7.21" lemma="ineo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">inire</w>
     <w ref="2.7.22" lemma="tergum" pos="NOMcom" msd="Case=Acc|Numb=Plur">Tergaque</w>

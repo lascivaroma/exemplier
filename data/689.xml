@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -35,7 +35,7 @@
     <w ref="4.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="4.1" lemma="plene" pos="ADV" msd="Deg=Comp">plenius</w>
     <w ref="4.1" lemma="super2" pos="PRE" msd="MORPH=empty">super</w>
-    <w ana="#female #cunnus #womb" ref="4.1" lemma="uulua" pos="NOMcom" msd="Case=Gen|Numb=Sing">vulvae</w>
+    <w ana="#cunnus #female #womb" ref="4.1" lemma="uulua" pos="NOMcom" msd="Case=Gen|Numb=Sing">vulvae</w>
     <w ref="4.1" lemma="ceruix" pos="NOMcom" msd="Case=Acc|Numb=Sing">cervicem</w>
     <w ref="4.1" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
     <w ref="4.1" lemma="ostendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">ostendit</w>

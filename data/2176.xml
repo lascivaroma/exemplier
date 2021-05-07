@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #disgrace">
+<div type="fragment" ana="#acte #disgrace #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="7.6.3" lemma="alo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">alitur</w>
     <w ref="7.6.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="7.6.3" lemma="mater" pos="NOMcom" msd="Case=Acc|Numb=Sing">matrem</w>
-    <w ana="#acte #metonymie #disgrace" ref="7.6.3" lemma="stuprum" pos="NOMcom" msd="Case=Abl|Numb=Sing">stupro</w>
+    <w ana="#acte #disgrace #metonymie" ref="7.6.3" lemma="stuprum" pos="NOMcom" msd="Case=Abl|Numb=Sing">stupro</w>
     <w ref="7.6.3" lemma="superuenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">supervenit</w>
   </quote>
 </div>

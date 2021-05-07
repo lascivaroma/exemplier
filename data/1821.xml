@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #fututio #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="11" lemma="Iulia" pos="NOMpro" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">Iuliam</w>
     <w ref="11" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
     <w ref="11" lemma="ob" pos="PRE" msd="MORPH=empty">ob</w>
-    <w ana="#acte #metonymie #amo #futuo" ref="11" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Plur">libidines</w>
+    <w ana="#acte #amo #fututio #metonymie" ref="11" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Plur">libidines</w>
     <w ref="11" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
     <w ref="11" lemma="adulterium" pos="NOMcom" msd="Case=Acc|Numb=Plur">adulteria</w>
     <w ref="11" lemma="damno" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">damnatam</w>

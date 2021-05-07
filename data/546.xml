@@ -1,4 +1,4 @@
-<div type="fragment" ana="#pars #euphemism">
+<div type="fragment" ana="#composite #euphemism #pars">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,8 +22,8 @@
         <w lemma="doceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">docet</w>
         <w lemma="Phyllis" pos="NOMpro" msd="Case=Nom|Numb=Sing">Phyllis</w>
         <w lemma=")" pos="PUNC" msd="MORPH=empty">)</w>
-        <w ana="#pars #euphemism #composite" lemma="muliebris" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">muliebre</w>
-        <w ana="#pars #euphemism #composite" lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">membrum</w>
+        <w ana="#composite #euphemism #pars" lemma="muliebris" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">muliebre</w>
+        <w ana="#composite #euphemism #pars" lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">membrum</w>
         <w lemma="quadrangulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">quadrangulum</w>
         <w lemma="cerno" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">cernit</w>
         <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>

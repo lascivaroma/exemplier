@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #masturbor">
+<div type="fragment" ana="#acte #composite #masturbor">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,8 +19,8 @@
     <w ref="6.238" lemma="mora" pos="NOMcom" msd="Case=Gen|Numb=Sing">morae</w>
     <w ref="6.238" lemma="sileo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">silet</w>
     <w ref="6.238" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#acte #masturbor" ref="6.238" lemma="praeputium" pos="NOMcom" msd="Case=Acc|Numb=Plur">praeputia</w>
-    <w ana="#acte #masturbor" ref="6.238" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ducit</w>
+    <w ana="#acte #composite #masturbor" ref="6.238" lemma="praeputium" pos="NOMcom" msd="Case=Acc|Numb=Plur">praeputia</w>
+    <w ana="#acte #composite #masturbor" ref="6.238" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ducit</w>
     <w ref="6.238" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

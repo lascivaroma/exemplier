@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="55.4.2" lemma="meus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=MascNeut">mei</w>
     <w ref="55.4.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="55.4.2" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
-    <w ana="#acte #metonymie #amo" ref="55.4.2" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing">libidinem</w>
+    <w ana="#acte #amo #metonymie" ref="55.4.2" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing">libidinem</w>
     <w ref="55.4.2" lemma="ardor" pos="NOMcom" msd="Case=Nom|Numb=Sing">ardor</w>
     <w ref="55.4.2" lemma="impello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inpellit</w>
     <w ref="55.4.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

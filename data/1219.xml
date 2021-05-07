@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #frapper">
+<div type="fragment" ana="#acte #frapper #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi056.perseus-lat1:9.22.4" type="section">
     <w ref="9.22.4" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
     <w ref="9.22.4" lemma="&quot;" pos="PUNC" msd="MORPH=empty">"</w>
-    <w ana="#metaphore #acte #frapper" ref="9.22.4" lemma="bateo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Batuit</w>
+    <w ana="#acte #frapper #metaphore" ref="9.22.4" lemma="bateo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Batuit</w>
     <w ref="9.22.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="9.22.4" lemma="&quot;" pos="PUNC" msd="MORPH=empty">"</w>
     <w ref="9.22.4" lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inquit</w>

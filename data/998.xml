@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #anneau #culus #anus">
+<div type="fragment" ana="#anneau #culus #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="159.1" lemma="ponticus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Deg=Pos">Pontici</w>
     <w ref="159.1" lemma="surculus" pos="NOMcom" msd="Case=Acc|Numb=Sing">surculum</w>
     <w ref="159.1" lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
-    <w ana="#metaphore #anneau #culus #anus" ref="159.1" lemma="anulus" pos="NOMcom" msd="Case=Abl|Numb=Sing">anulo</w>
+    <w ana="#anneau #culus #metaphore" ref="159.1" lemma="anulus" pos="NOMcom" msd="Case=Abl|Numb=Sing">anulo</w>
     <w ref="159.1" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2">habeto</w>
     <w ref="159.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi1294.phi002.perseus-lat2</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.73.6" type="line">
-    <w ana="#acte #metonymie #amo" ref="9.73.6" lemma="prurio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">pruris</w>
+    <w ana="#acte #amo #metonymie" ref="9.73.6" lemma="prurio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">pruris</w>
     <w ref="9.73.6" lemma="dominus" pos="NOMcom" msd="Case=Gen|Numb=Sing">domini</w>
     <w ref="9.73.6" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="9.73.6" lemma="Ganymedes" pos="NOMpro" msd="Case=Abl|Numb=Sing">Ganymede</w>

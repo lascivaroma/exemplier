@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #specialisation  #euphemism">
+<div type="fragment" ana="#castration #euphemism #female #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iacet</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
         <w lemma="medius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">medio</w>
-        <w lemma="siccus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" ana="#female #specialisation #castration  #euphemism">sicca</w>
+        <w lemma="siccus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" ana="#castration #euphemism #female #specialisation">sicca</w>
         <w lemma="puella" pos="NOMcom" msd="Case=Nom|Numb=Sing">puella</w>
         <w lemma="torus" pos="NOMcom" msd="Case=Abl|Numb=Sing">toro</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>

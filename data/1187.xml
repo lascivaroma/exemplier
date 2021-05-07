@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #humiliant #urine #ejaculation">
+<div type="fragment" ana="#acte #ejaculation #humiliant #metaphore #urine">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
     <w ref="11.46.2" lemma="incipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Incipit</w>
     <w ref="11.46.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="11.46.2" lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">medios</w>
-    <w ana="#metaphore #acte #humiliant #urine #ejaculation" ref="11.46.2" lemma="meio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">meiere</w>
+    <w ana="#acte #ejaculation #humiliant #metaphore #urine" ref="11.46.2" lemma="meio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">meiere</w>
     <w ref="11.46.2" lemma="uerpa" pos="NOMcom" msd="Case=Nom|Numb=Sing">verpa</w>
     <w ref="11.46.2" lemma="pes" pos="NOMcom" msd="Case=Acc|Numb=Plur">pedes</w>
     <w ref="11.46.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

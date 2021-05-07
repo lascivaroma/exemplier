@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #voisinage #mentula">
+<div type="fragment" ana="#adjoiningParts #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
         <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
         <w lemma="timeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1">timerem</w>
         <w lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
-        <w lemma="latus1" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #voisinage #mentula">latus</w>
+        <w lemma="latus1" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#adjoiningParts #euphemism #male #mentula">latus</w>
         <w lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=MascNeut">meum</w>
         <w lemma="frater" pos="NOMcom" msd="Case=Nom|Numb=Sing">frater</w>
         <w lemma="conuello" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">convelleret</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #fellatio #irrumo #actor">
+<div type="fragment" ana="#acte #actor #fellatio #irrumatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -37,7 +37,7 @@
     <w ref="10.12" lemma="praesertim" pos="ADV" msd="Deg=Pos">praesertim</w>
     <w ref="10.12" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibus</w>
     <w ref="10.12" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">esset</w>
-    <w ana="#acte #fellatio #irrumo #actor" ref="10.12" lemma="irrumator" pos="NOMcom" msd="Case=Nom|Numb=Sing">irrumator</w>
+    <w ana="#acte #actor #fellatio #irrumatio" ref="10.12" lemma="irrumator" pos="NOMcom" msd="Case=Nom|Numb=Sing">irrumator</w>
     <w ref="10.13" lemma="praetor" pos="NOMcom" msd="Case=Nom|Numb=Sing">praetor</w>
     <w ref="10.13" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
     <w ref="10.13" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">faceret</w>

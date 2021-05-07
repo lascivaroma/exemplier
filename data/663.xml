@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="1.617" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="1.617" lemma="mors" pos="NOMcom" msd="Case=Abl|Numb=Sing">morte</w>
     <w ref="1.617" lemma="oculus" pos="NOMcom" msd="Case=Acc|Numb=Plur">oculos</w>
-    <w ana="#female #cunnus #womb" ref="1.617" lemma="uterus" pos="NOMcom" msd="Case=Gen|Numb=Sing">uterique</w>
+    <w ana="#cunnus #female #womb" ref="1.617" lemma="uterus" pos="NOMcom" msd="Case=Gen|Numb=Sing">uterique</w>
     <w ref="1.617" lemma="que" pos="CON" msd="MORPH=empty">{uterique}</w>
     <w ref="1.617" lemma="nefandus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">nefandam</w>
     <w ref="1.618" lemma="proluuies" pos="NOMcom" msd="Case=Acc|Numb=Sing">proluviem</w>

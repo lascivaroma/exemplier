@@ -1,4 +1,4 @@
-<div type="fragment" ana="#sinus #euphemism   #female #cunnus">
+<div type="fragment" ana="#composite #cunnus #euphemism #female #sinus">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="ardeo" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos|Mood=Par|Tense=Pres|Voice=Act">ardens</w>
         <w lemma="pando2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">pandere</w>
         <w lemma="fraus" pos="NOMcom" msd="Case=Abl|Numb=Sing">fraude</w>
-        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Plur">sinus</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Plur">sinus</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

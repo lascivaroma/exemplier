@@ -1,4 +1,4 @@
-<div type="fragment" ana="#sinus #euphemism #female #cunnus">
+<div type="fragment" ana="#composite #cunnus #euphemism #female #sinus">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -34,8 +34,8 @@
         <w lemma="angustus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">angustum</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
-        <w ana="#sinus #euphemism #composite" lemma="femininus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">femininum</w>
-        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Sing">sinum</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="femininus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">femininum</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Sing">sinum</w>
         <w lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">comprimat</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

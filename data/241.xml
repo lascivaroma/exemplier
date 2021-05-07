@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
         <w lemma="nascor" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">nascuntur</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
         <w lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
-        <w lemma="uerecundus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp" ana="#male #euphemisms #aidoion #uerecunda">uerecundioribus</w>
+        <w lemma="uerecundus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp" ana="#aidoion #euphemism #male #mentula">uerecundioribus</w>
         <w lemma="terra" pos="NOMcom" msd="Case=Gen|Numb=Sing">terrae</w>
         <w lemma="malum1" pos="NOMcom" msd="Case=Gen|Numb=Sing">mali</w>
         <w lemma="radix" pos="NOMcom" msd="Case=Nom|Numb=Sing">radix</w>

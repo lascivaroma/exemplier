@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="3.154" lemma="mater" pos="NOMcom" msd="Case=Gen|Numb=Sing">matris</w>
     <w ref="3.154" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="3.155" lemma="uos" pos="PROper" msd="Case=Voc|Numb=Plur">vos</w>
-    <w ana="#female #cunnus #womb" ref="3.155" lemma="uterus" pos="NOMcom" msd="Case=Voc|Numb=Sing">uteri</w>
+    <w ana="#cunnus #female #womb" ref="3.155" lemma="uterus" pos="NOMcom" msd="Case=Voc|Numb=Sing">uteri</w>
     <w ref="3.155" lemma="fortuna" pos="NOMcom" msd="Case=Nom|Numb=Sing">fortuna</w>
     <w ref="3.155" lemma="meus" pos="PROpos" msd="Case=Gen|Numb=Sing|Gend=MascNeut">mei</w>
     <w ref="3.155" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

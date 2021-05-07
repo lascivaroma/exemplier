@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio">
+<div type="fragment" ana="#acte #animal #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,6 +19,6 @@
     <w ref="6.37.2" lemma="facio" pos="VER" msd="Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">factum</w>
     <w ref="6.37.2" lemma="mas" pos="NOMcom" msd="Case=Acc|Numb=Sing">marem</w>
     <w ref="6.37.2" lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Sing">feminae</w>
-    <w ana="#acte #animals #salio" ref="6.37.2" lemma="iniungo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">iniungi</w>
+    <w ana="#acte #animal #salio" ref="6.37.2" lemma="iniungo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">iniungi</w>
   </quote>
 </div>

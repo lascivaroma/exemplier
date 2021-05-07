@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metonymie #acte #misceo">
+<div type="fragment" ana="#acte #metonymie #misceo">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="6.31.43" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=Fem">sua</w>
     <w ref="6.31.43" lemma="impurus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">inpuro</w>
     <w ref="6.31.43" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
-    <w ana="#metonymie #acte #misceo" ref="6.31.43" lemma="misceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">miscetur</w>
+    <w ana="#acte #metonymie #misceo" ref="6.31.43" lemma="misceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">miscetur</w>
     <w ref="6.31.43" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

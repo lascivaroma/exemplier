@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="7.29" lemma="confero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">confert</w>
     <w ref="7.29" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="7.29" lemma="magnitudo" pos="NOMcom" msd="Case=Nom|Numb=Sing">magnitudo</w>
-    <w ana="#female #cunnus #womb" ref="7.29" lemma="uolua" pos="NOMcom" msd="Case=Gen|Numb=Sing">volvae</w>
+    <w ana="#cunnus #female #womb" ref="7.29" lemma="uolua" pos="NOMcom" msd="Case=Gen|Numb=Sing">volvae</w>
     <w ref="7.29" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="7.29" lemma="uis" pos="NOMcom" msd="Case=Nom|Numb=Sing">vis</w>
     <w ref="7.29" lemma="neruus" pos="NOMcom" msd="Case=Gen|Numb=Plur">nervorum</w>

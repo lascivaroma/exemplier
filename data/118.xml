@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+<div type="fragment" ana="#composite #euphemism #male #mentula #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,8 +22,8 @@
         <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
         <w lemma="denique" pos="ADV" msd="Deg=Pos">denique</w>
         <w lemma="possum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">possunt</w>
-        <w lemma="pars" pos="NOMcom" msd="Case=Dat|Numb=Plur" ana="#male #specialisation #euphemism #mentula">Partibus</w>
-        <w lemma="obscenus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos" ana="#male #specialisation #euphemism #mentula">obscenis</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Dat|Numb=Plur" ana="#composite #euphemism #male #mentula #specialisation">Partibus</w>
+        <w lemma="obscenus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos" ana="#composite #euphemism #male #mentula #specialisation">obscenis</w>
         <w lemma="oppono" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">opposuisse</w>
         <w lemma="manus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">manus</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>

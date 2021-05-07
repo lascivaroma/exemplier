@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #duco #prostitution">
+<div type="fragment" ana="#acte #composite #duco #metonymie #prostitution">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,8 +17,8 @@
     <w ref="819" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
     <w ref="819" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
     <w ref="819" lemma="uir" pos="NOMcom" msd="Case=Nom|Numb=Sing">vir</w>
-    <w ana="#acte #metonymie #duco #prostitution" ref="819" lemma="scortum" pos="NOMcom" msd="Case=Acc|Numb=Sing">scortum</w>
-    <w ana="#acte #metonymie #duco #prostitution" ref="819" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">duxit</w>
+    <w ana="#acte #composite #duco #metonymie #prostitution" ref="819" lemma="scortum" pos="NOMcom" msd="Case=Acc|Numb=Sing">scortum</w>
+    <w ana="#acte #composite #duco #metonymie #prostitution" ref="819" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">duxit</w>
     <w ref="819" lemma="clam1" pos="ADV" msd="Deg=Pos">clam</w>
     <w ref="819" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
     <w ref="819" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Sing|Gend=Fem">suam</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#doors #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #doors #female #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
         <w lemma="que" pos="CON" msd="MORPH=empty">{itque}</w>
         <w lemma="redeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">reditque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{reditque}</w>
-        <w ana="#doors" lemma="uia" pos="NOMcom" msd="Case=Acc|Numb=Sing">viam</w>
+        <w ana="#cunnus #doors #female #metaphore" lemma="uia" pos="NOMcom" msd="Case=Acc|Numb=Sing">viam</w>
         <w lemma="totiens" pos="ADV" msd="Deg=Pos">totiens</w>
         <w lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uteroque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{uteroque}</w>

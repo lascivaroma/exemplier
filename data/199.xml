@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #euphemisms #voisinage #copulation #desir #castration">
+<div type="fragment" ana="#adjoiningParts #castration #copulation #desir #euphemism #female">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:stoa0110.stoa009</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0110.stoa009:424">
-        <w lemma="abdomen" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#female #euphemisms #voisinage #copulation #desir #castration">abdomen</w>
+        <w lemma="abdomen" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#adjoiningParts #castration #copulation #desir #euphemism #female">abdomen</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
         <w lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
         <w lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Plur">feminarum</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="16.3" lemma="peto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">petitur</w>
     <w ref="16.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="16.3" lemma="tumesco" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">tumescentem</w>
-    <w ana="#female #cunnus #womb" ref="16.3" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ana="#cunnus #female #womb" ref="16.3" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
     <w ref="16.3" lemma="abscondo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">abscondisti</w>
     <w ref="16.3" lemma="quasi1" pos="ADVrel" msd="MORPH=empty">quasi</w>
     <w ref="16.3" lemma="indecens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">indecens</w>

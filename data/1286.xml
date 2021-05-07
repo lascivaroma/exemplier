@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #subigo #soumission">
+<div type="fragment" ana="#acte #metaphore #soumission #subigo">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi011.perseus-lat2:203" type="line">
     <w ref="203" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
     <w ref="203" lemma="scelestus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">scelestus</w>
-    <w ana="#metaphore #acte #subigo #soumission" ref="203" lemma="subigito" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">subigitare</w>
+    <w ana="#acte #metaphore #soumission #subigo" ref="203" lemma="subigito" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">subigitare</w>
     <w ref="203" lemma="occipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">occepit</w>
     <w ref="203" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

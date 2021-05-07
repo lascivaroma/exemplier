@@ -1,4 +1,4 @@
-<div type="fragment" ana="#sinus #euphemism #female #cunnus">
+<div type="fragment" ana="#composite #cunnus #euphemism #female #sinus">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,8 +17,8 @@
         <w lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
         <w lemma="distendo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">distentis</w>
         <w lemma="fibra" pos="NOMcom" msd="Case=Abl|Numb=Plur">fibris</w>
-        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Nom|Numb=Sing">sinus</w>
-        <w ana="#sinus #euphemism #composite" lemma="femininus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">feminini</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="sinus" pos="NOMcom" msd="Case=Nom|Numb=Sing">sinus</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="femininus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">feminini</w>
         <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
         <w lemma="uterque" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">utraque</w>
         <w lemma="minister1" pos="NOMcom" msd="Case=Gen|Numb=Plur">ministrorum</w>

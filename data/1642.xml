@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="106.13" lemma="cassus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">cassa</w>
     <w ref="106.13" lemma="libido" pos="NOMcom" msd="Case=Nom|Numb=Sing">libido</w>
     <w ref="106.14" lemma="femineus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">femineos</w>
-    <w ana="#acte #metonymie #coeo" ref="106.14" lemma="coetus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coetus</w>
+    <w ana="#acte #coeo #metonymie" ref="106.14" lemma="coetus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coetus</w>
     <w ref="106.14" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="106.14" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="106.14" lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Plur|Gend=Neut">sua</w>

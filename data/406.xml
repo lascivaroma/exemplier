@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #testicle">
+<div type="fragment" ana="#male #testicules">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -35,7 +35,7 @@
         <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
         <w lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
         <w lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
-        <w ana="#male #testicle" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Sing">uiro</w>
+        <w ana="#male #testicules" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Sing">uiro</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">haec</w>
         <w lemma="mamma" pos="NOMcom" msd="Case=Gen|Numb=Plur">mammarum</w>

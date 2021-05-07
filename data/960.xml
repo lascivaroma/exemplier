@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #topographique #culus #anus">
+<div type="fragment" ana="#culus #metaphore #topographique">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,6 +25,6 @@
     <w ref="93.4" lemma="tero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">teris</w>
     <w ref="93.4" lemma="incuso" pos="VER" msd="Case=Acc|Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">incusas</w>
     <w ref="93.4" lemma="pumex" pos="NOMcom" msd="Case=Abl|Numb=Sing">pumice</w>
-    <w ana="#metaphore #topographique #culus #anus" ref="93.4" lemma="clazomena" pos="NOMcom" msd="Case=Acc|Numb=Sing">Clazomenas</w>
+    <w ana="#culus #metaphore #topographique" ref="93.4" lemma="clazomena" pos="NOMcom" msd="Case=Acc|Numb=Sing">Clazomenas</w>
   </quote>
 </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -31,7 +31,7 @@
     <w ref="1669" lemma="auidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">avidum</w>
     <w ref="1669" lemma="pectus" pos="NOMcom" msd="Case=Acc|Numb=Sing">pectus</w>
     <w ref="1669" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
-    <w ana="#female #cunnus #womb" ref="1669" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ana="#cunnus #female #womb" ref="1669" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
     <w ref="1669" lemma="tenus2" pos="PRE" msd="MORPH=empty">tenus</w>
     <w ref="1670" lemma="exsero2" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">exerta</w>
     <w ref="1670" lemma="uastus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">vastos</w>

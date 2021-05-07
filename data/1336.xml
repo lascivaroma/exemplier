@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #epouser #noces">
+<div type="fragment" ana="#acte #epouser #metaphore #noces">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="43" lemma="ecastor" pos="INJ" msd="MORPH=empty">ecastor</w>
     <w ref="43" lemma="cotidie" pos="ADV" msd="Deg=Pos">cottidie</w>
     <w ref="43" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Sing">viro</w>
-    <w ana="#metaphore #acte #epouser #noces" ref="43" lemma="nubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">núbit</w>
+    <w ana="#acte #epouser #metaphore #noces" ref="43" lemma="nubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">núbit</w>
     <w ref="43" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="43" lemma="nubo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">nupsitque</w>
     <w ref="43" lemma="que" pos="CON" msd="MORPH=empty">{nupsitque}</w>

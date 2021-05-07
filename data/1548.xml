@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rester_avec #prostitution">
+<div type="fragment" ana="#acte #composite #metonymie #prostitution #resterAvec">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,9 +18,9 @@
     <w ref="2.6.49" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
     <w ref="2.6.49" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.6.49" lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
-    <w ana="#acte #metonymie #rester_avec #prostitution #composite" ref="2.6.49" lemma="nox" pos="NOMcom" msd="Case=Nom|Numb=Sing">nox</w>
+    <w ana="#acte #composite #metonymie #prostitution #resterAvec" ref="2.6.49" lemma="nox" pos="NOMcom" msd="Case=Nom|Numb=Sing">nox</w>
     <w ref="2.6.49" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
-    <w ana="#acte #metonymie #rester_avec #prostitution #composite" ref="2.6.49" lemma="promitto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">promissa</w>
+    <w ana="#acte #composite #metonymie #prostitution #resterAvec" ref="2.6.49" lemma="promitto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">promissa</w>
     <w ref="2.6.49" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="2.6.49" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.6.49" lemma="langueo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">languere</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #join">
+<div type="fragment" ana="#acte #composite #join #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -31,9 +31,9 @@
     <w ref="1.8.26" lemma="osculum" pos="NOMcom" msd="Case=Acc|Numb=Plur">Oscula</w>
     <w ref="1.8.26" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.8.26" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
-    <w ana="#acte #metonymie #join" ref="1.8.26" lemma="femur" pos="NOMcom" msd="Case=Dat|Numb=Sing">femori</w>
-    <w ana="#acte #metonymie #join" ref="1.8.26" lemma="consero2" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">conseruisse</w>
-    <w ana="#acte #metonymie #join" ref="1.8.26" lemma="femur" pos="NOMcom" msd="Case=Acc|Numb=Sing">femur</w>
+    <w ana="#acte #composite #join #metonymie" ref="1.8.26" lemma="femur" pos="NOMcom" msd="Case=Dat|Numb=Sing">femori</w>
+    <w ana="#acte #composite #join #metonymie" ref="1.8.26" lemma="consero2" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">conseruisse</w>
+    <w ana="#acte #composite #join #metonymie" ref="1.8.26" lemma="femur" pos="NOMcom" msd="Case=Acc|Numb=Sing">femur</w>
     <w ref="1.8.26" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana=" #male #euphemism #penis #specialisation">
+<div type="fragment" ana="#composite #euphemism #male #penis #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,8 +20,8 @@
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
         <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
-        <w ana="#euphemism #penis #specialisation #composite" lemma="inferus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Comp">inferiore</w>
-        <w ana="#euphemism #penis #specialisation #composite" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing">parte</w>
+        <w ana="#composite #euphemism #male #penis #specialisation" lemma="inferus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Comp">inferiore</w>
+        <w ana="#composite #euphemism #male #penis #specialisation" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing">parte</w>
         <w lemma="erumpo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">erumpere</w>
         <w lemma="soleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3">solet</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

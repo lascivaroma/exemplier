@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #armes">
+<div type="fragment" ana="#armes #mentula #metaphore #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="11.78.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="11.78.6" lemma="dum2" pos="CONsub" msd="MORPH=empty">Dum</w>
     <w ref="11.78.6" lemma="metuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">metuit</w>
-    <w ana="#mentula #metaphore #pointu #armes" ref="11.78.6" lemma="telum" pos="NOMcom" msd="Case=Gen|Numb=Sing">teli</w>
+    <w ana="#armes #mentula #metaphore #pointu" ref="11.78.6" lemma="telum" pos="NOMcom" msd="Case=Gen|Numb=Sing">teli</w>
     <w ref="11.78.6" lemma="uulnus" pos="NOMcom" msd="Case=Acc|Numb=Plur">vulnera</w>
     <w ref="11.78.6" lemma="primus" pos="ADJord" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Sup">prima</w>
     <w ref="11.78.6" lemma="nouus" pos="VER" msd="Case=Gen|Numb=Sing|Gend=MascNeut">novi</w>

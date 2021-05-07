@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #humiliant #urine #ejaculation">
+<div type="fragment" ana="#acte #ejaculation #humiliant #metaphore #urine">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -41,7 +41,7 @@
     <w ref="1.2.43" lemma="numus" pos="NOMcom" msd="Case=Acc|Numb=Plur">nummos</w>
     <w ref="1.2.43" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.2.44" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">hunc</w>
-    <w ana="#metaphore #acte #humiliant #urine #ejaculation" ref="1.2.44" lemma="permingo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">perminxerunt</w>
+    <w ana="#acte #ejaculation #humiliant #metaphore #urine" ref="1.2.44" lemma="permingo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">perminxerunt</w>
     <w ref="1.2.44" lemma="calo1" pos="NOMcom" msd="Case=Nom|Numb=Plur">calones</w>
     <w ref="1.2.44" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     <w ref="1.2.44" lemma="quin1" pos="ADV" msd="Deg=Pos">quin</w>

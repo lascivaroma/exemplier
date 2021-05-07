@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -31,7 +31,7 @@
     <w ref="3.427" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="3.428" lemma="delphin" pos="NOMcom" msd="Case=Acc|Numb=Plur">delphinum</w>
     <w ref="3.428" lemma="cauda" pos="NOMcom" msd="Case=Acc|Numb=Plur">caudas</w>
-    <w ana="#female #cunnus #womb" ref="3.428" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ana="#cunnus #female #womb" ref="3.428" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
     <w ref="3.428" lemma="committo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">commissa</w>
     <w ref="3.428" lemma="lupus" pos="NOMcom" msd="Case=Gen|Numb=Plur">luporum</w>
     <w ref="3.428" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

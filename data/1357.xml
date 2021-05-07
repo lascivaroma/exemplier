@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #joke #jeu #jeunesse">
+<div type="fragment" ana="#acte #jeu #jeunesse #joke #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="28" lemma="omnis" pos="PROind" msd="Case=Gen|Numb=Plur|Gend=Com">omnium</w>
     <w ref="28" lemma="hic1" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">huic</w>
     <w ref="28" lemma="aliquis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">aliqui</w>
-    <w ana="#metaphore #acte #joke #jeu #jeunesse" ref="28" lemma="ludus" pos="NOMcom" msd="Case=Nom|Numb=Sing">ludus</w>
+    <w ana="#acte #jeu #jeunesse #joke #metaphore" ref="28" lemma="ludus" pos="NOMcom" msd="Case=Nom|Numb=Sing">ludus</w>
     <w ref="28" lemma="aetas" pos="NOMcom" msd="Case=Dat|Numb=Sing">aetati</w>
     <w ref="28" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="28" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>

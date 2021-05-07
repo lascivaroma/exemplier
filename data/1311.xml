@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #lutter #sebattre">
+<div type="fragment" ana="#acte #lutter #metaphore #seBattre">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="2.17" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">His</w>
     <w ref="2.17" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="2.17" lemma="huiusmodi" pos="ADV" msd="Deg=Pos">huiusmodi</w>
-    <w ana="#metaphore #acte #lutter #sebattre" ref="2.17" lemma="colluctatio" pos="NOMcom" msd="Case=Abl|Numb=Plur">colluctationibus</w>
+    <w ana="#acte #lutter #metaphore #seBattre" ref="2.17" lemma="colluctatio" pos="NOMcom" msd="Case=Abl|Numb=Plur">colluctationibus</w>
     <w ref="2.17" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="2.17" lemma="confinium" pos="NOMcom" msd="Case=Acc|Numb=Plur|Deg=Pos">confinia</w>
     <w ref="2.17" lemma="lux" pos="NOMcom" msd="Case=Gen|Numb=Plur">lucis</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana=" #female #cunnus #euphemism #specialisation">
+<div type="fragment" ana="#composite #cunnus #euphemism #female #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
         <w lemma="exprimo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">exprimunturque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{exprimunturque}</w>
         <w lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">ipsis</w>
-        <w ana="#euphemism #specialisation #composite" lemma="uitalia" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">uitalibus</w>
+        <w ana="#composite #cunnus #euphemism #female #specialisation" lemma="uitalia" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">uitalibus</w>
         <w lemma="cruor" pos="NOMcom" msd="Case=Nom|Numb=Plur">cruores</w>
         <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
         <w lemma="taceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tacet</w>

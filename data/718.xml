@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,7 +30,7 @@
     <w ref="2.6" lemma="que" pos="CON" msd="MORPH=empty">{proraque}</w>
     <w ref="2.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="2.6" lemma="latus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">lato</w>
-    <w ana="#female #cunnus #womb" ref="2.6" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ana="#cunnus #female #womb" ref="2.6" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
     <w ref="2.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.6" lemma="quo1" pos="ADVrel" msd="MORPH=empty">quo</w>
     <w ref="2.6" lemma="facile" pos="ADV" msd="Deg=Comp">facilius</w>

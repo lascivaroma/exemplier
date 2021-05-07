@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio">
+<div type="fragment" ana="#acte #animal #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="2.4.8" lemma="octo" pos="ADJcar" msd="Case=Ind">octo</w>
     <w ref="2.4.8" lemma="mensis" pos="NOMcom" msd="Case=Gen|Numb=Plur">mensum</w>
     <w ref="2.4.8" lemma="incipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">incipit</w>
-    <w ana="#acte #animals #salio" ref="2.4.8" lemma="salio1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">salire</w>
+    <w ana="#acte #animal #salio" ref="2.4.8" lemma="salio1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">salire</w>
     <w ref="2.4.8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.4.8" lemma="permaneo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">permanet</w>
     <w ref="2.4.8" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>

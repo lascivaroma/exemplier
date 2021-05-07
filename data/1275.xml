@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #agriculture #semer">
+<div type="fragment" ana="#acte #agriculture #metaphore #semer">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:4.1107" type="line">
     <w ref="4.1107" lemma="muliebris" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">muliebria</w>
-    <w ana="#metaphore #acte #agriculture #semer" ref="4.1107" lemma="consero2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">conserat</w>
+    <w ana="#acte #agriculture #metaphore #semer" ref="4.1107" lemma="consero2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">conserat</w>
     <w ref="4.1107" lemma="aruum" pos="NOMcom" msd="Case=Acc|Numb=Plur">arva</w>
   </quote>
 </div>

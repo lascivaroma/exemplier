@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #humiliant #urine #ejaculation">
+<div type="fragment" ana="#acte #ejaculation #humiliant #metaphore #urine">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="2.7.52" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
     <w ref="2.7.52" lemma="forma" pos="NOMcom" msd="Case=Gen|Numb=Sing">formae</w>
     <w ref="2.7.52" lemma="bonus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Com|Deg=Comp">melioris</w>
-    <w ana="#metaphore #acte #humiliant #urine #ejaculation" ref="2.7.52" lemma="meio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">meiat</w>
+    <w ana="#acte #ejaculation #humiliant #metaphore #urine" ref="2.7.52" lemma="meio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">meiat</w>
     <w ref="2.7.52" lemma="idem" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eodem</w>
     <w ref="2.7.52" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

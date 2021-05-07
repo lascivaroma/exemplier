@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #pecco #illicit">
+<div type="fragment" ana="#acte #illicit #metonymie #pecco">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="1.2.63" lemma="matrona" pos="NOMcom" msd="Case=Abl|Numb=Sing">matrona</w>
     <w ref="1.2.63" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.2.63" lemma="ancilla" pos="NOMcom" msd="Case=Abl|Numb=Sing">ancilla</w>
-    <w ana="#acte #metonymie #pecco #illicit" ref="1.2.63" lemma="pecco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">peccesne</w>
+    <w ana="#acte #illicit #metonymie #pecco" ref="1.2.63" lemma="pecco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">peccesne</w>
     <w ref="1.2.63" lemma="ne2" pos="ADV" msd="MORPH=empty">{peccesne}</w>
     <w ref="1.2.63" lemma="togatus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">togata</w>
     <w ref="1.2.63" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>

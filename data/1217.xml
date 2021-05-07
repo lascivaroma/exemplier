@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #frapper #pedicatio">
+<div type="fragment" ana="#acte #frapper #metaphore #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="2.72.2" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
     <w ref="2.72.3" lemma="os1" pos="NOMcom" msd="Case=Acc|Numb=Sing">Os</w>
     <w ref="2.72.3" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
-    <w ana="#metaphore #acte #frapper #pedicatio" ref="2.72.3" lemma="percido2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">percisum</w>
+    <w ana="#acte #frapper #metaphore #pedicatio" ref="2.72.3" lemma="percido2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">percisum</w>
     <w ref="2.72.3" lemma="quanto1" pos="ADVrel" msd="MORPH=empty">quanto</w>
     <w ref="2.72.3" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="2.72.3" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>

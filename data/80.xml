@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #lettres #metaphore #mentula ">
+<div type="fragment" ana="#lettres #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
         <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
         <w lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
         <w lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
-        <w lemma="paedico2" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1" ana="#male #lettres">pedico</w>
+        <w lemma="paedico2" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1" ana="#lettres #male #mentula #metaphore">pedico</w>
         <w lemma="semper" pos="ADV" msd="Deg=Pos">semper</w>
         <w lemma="blaesus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">blaesaque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{blaesaque}</w>

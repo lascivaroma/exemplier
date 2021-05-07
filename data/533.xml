@@ -21,7 +21,7 @@
         <w lemma="lusus" pos="NOMcom" msd="Case=Gen|Numb=Sing">lususque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{lususque}</w>
         <w lemma="libellus" pos="NOMcom" msd="Case=Gen|Numb=Sing">libelli</w>
-        <w ana="#excitation" lemma="udus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos|Person=2">Uda</w>
+        <w ana="#excitation #female" lemma="udus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos|Person=2">Uda</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="puella" pos="NOMcom" msd="Case=Voc|Numb=Sing">puella</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

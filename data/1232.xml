@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #couper #tailler">
+<div type="fragment" ana="#acte #couper #metaphore #tailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,7 +30,7 @@
     <w ref="9.7" lemma="faber1" pos="NOMcom" msd="Case=Gen|Numb=Sing">fabri</w>
     <w ref="9.7" lemma="superincuruo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">superincurvatus</w>
     <w ref="9.7" lemma="secure" pos="ADV" msd="Deg=Pos">secure</w>
-    <w ana="#metaphore #acte #couper #tailler" ref="9.7" lemma="dedolo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">dedolabat</w>
+    <w ana="#acte #couper #metaphore #tailler" ref="9.7" lemma="dedolo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">dedolabat</w>
     <w ref="9.7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

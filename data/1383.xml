@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #chevaucher #femme #effeminé">
+<div type="fragment" ana="#acte #chevaucher #effeminé #femme #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="3.778" lemma="theba" pos="NOMcom" msd="Case=Dat|Numb=Plur">Thebaïs</w>
     <w ref="3.778" lemma="hectoreus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">Hectoreo</w>
     <w ref="3.778" lemma="nupta" pos="VER" msd="Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">nupta</w>
-    <w ana="#metaphore #acte #chevaucher #femme #effeminé" ref="3.778" lemma="resido" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">resedit</w>
+    <w ana="#acte #chevaucher #effeminé #femme #metaphore" ref="3.778" lemma="resido" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">resedit</w>
     <w ref="3.778" lemma="equus" pos="NOMcom" msd="Case=Abl|Numb=Sing">equo</w>
     <w ref="3.778" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

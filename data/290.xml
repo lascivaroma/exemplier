@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #descriptive-functional #euphemisms #mentula">
+<div type="fragment" ana="#composite #descriptiveFunctional #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,10 +14,10 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi0920.phi001</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0920.phi001:536">
-        <w lemma="pellicula" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #descriptive-functional">pellicula</w>
+        <w lemma="pellicula" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#composite #descriptiveFunctional #euphemism #male #mentula">pellicula</w>
         <w lemma="exter" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Sup">extrema</w>
         <w lemma="exaptus" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">exaptum</w>
-        <w lemma="pendo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act" ana="#male #descriptive-functional">pendere</w>
+        <w lemma="pendo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act" ana="#composite #descriptiveFunctional #euphemism #male #mentula">pendere</w>
         <w lemma="onus" pos="NOMcom" msd="Case=Acc|Numb=Sing">onus</w>
         <w lemma="ingens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">ingens</w>
     </quote>

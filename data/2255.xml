@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio">
+<div type="fragment" ana="#acte #animal #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,6 +26,6 @@
     <w ref="7.6.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="7.6.3" lemma="mater" pos="NOMcom" msd="Case=Acc|Numb=Sing">matrem</w>
     <w ref="7.6.3" lemma="stuprum" pos="NOMcom" msd="Case=Abl|Numb=Sing">stupro</w>
-    <w ana="#acte #animals #salio" ref="7.6.3" lemma="superuenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">supervenit</w>
+    <w ana="#acte #animal #salio" ref="7.6.3" lemma="superuenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">supervenit</w>
   </quote>
 </div>

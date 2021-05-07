@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #tuer #mourir">
+<div type="fragment" ana="#acte #metaphore #mourir #tuer">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="1.10.5" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="1.10.5" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
     <w ref="1.10.5" lemma="complector" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">complexa</w>
-    <w ana="#metaphore #acte #tuer #mourir" ref="1.10.5" lemma="morior" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Dep">morientem</w>
+    <w ana="#acte #metaphore #mourir #tuer" ref="1.10.5" lemma="morior" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Dep">morientem</w>
     <w ref="1.10.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.10.5" lemma="galle" pos="NOMcom" msd="Case=Abl|Numb=Sing">Galle</w>
     <w ref="1.10.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

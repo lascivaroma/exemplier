@@ -1,4 +1,4 @@
-<div type="fragment" ana="#topographic #female #cunnus #metaphore">
+<div type="fragment" ana="#composite #cunnus #female #metaphore #topographique">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,8 +23,8 @@
         <w lemma="sauium" pos="NOMcom" msd="Case=Acc|Numb=Plur">sauia</w>
         <w lemma="penis" pos="NOMcom" msd="Case=Acc|Numb=Sing">penem</w>
         <w lemma="/" pos="PUNC" msd="MORPH=empty">/</w>
-        <w ana="#topographic #composite" lemma="confinium" pos="NOMcom" msd="Case=Abl|Numb=Plur">confiniis</w>
-        <w ana="#topographic #composite" lemma="latus1" pos="NOMcom" msd="Case=Gen|Numb=Plur">laterum</w>
+        <w ana="#composite #cunnus #female #metaphore #topographique" lemma="confinium" pos="NOMcom" msd="Case=Abl|Numb=Plur">confiniis</w>
+        <w ana="#composite #cunnus #female #metaphore #topographique" lemma="latus1" pos="NOMcom" msd="Case=Gen|Numb=Plur">laterum</w>
         <w lemma="retorqueo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">retortum</w>
         <w lemma="suscipio" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">suscipe</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #cuir #metaphore #mentula #medical">
+<div type="fragment" ana="#composite #cuir #male #medicale #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,10 +17,10 @@
         <w lemma="deinde" pos="ADV" msd="Deg=Pos">Deinde</w>
         <w lemma="experior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">experta</w>
         <w lemma="latus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">latus</w>
-        <w lemma="madidus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos" ana="#male #cuir #metaphore #mentula">madidoque</w>
+        <w lemma="madidus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos" ana="#composite #cuir #male #medicale #mentula #metaphore">madidoque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{madidoque}</w>
         <w lemma="similis" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Sup">simillima</w>
-        <w lemma="lorum" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #cuir #metaphore #mentula">loro</w>
+        <w lemma="lorum" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#composite #cuir #male #medicale #mentula #metaphore">loro</w>
         <w lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur">Inguina</w>
         <w lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
         <w lemma="lassus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">lassa</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #misc">
+<div type="fragment" ana="#dildo #divers #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="profero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Profert</w>
         <w lemma="Oenothea" pos="NOMpro" msd="Case=Nom|Numb=Sing">Oenothea</w>
         <w lemma="scorteus" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">scorteum</w>
-        <w ana="#male #dildo" lemma="fascinum" pos="NOMcom" msd="Case=Acc|Numb=Sing">fascinum</w>
+        <w ana="#dildo #divers #male" lemma="fascinum" pos="NOMcom" msd="Case=Acc|Numb=Sing">fascinum</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
         <w lemma="paulatim" pos="ADV" msd="Deg=Pos">paulatim</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #metonymie #acte #embrace">
+<div type="fragment" ana="#acte #embrace #male #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi003.perseus-lat2:28" type="line">
     <w ref="28" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
     <w ref="28" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
-    <w ana="#acte #male #metonymie #acte #embrace" ref="28" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">compressit</w>
+    <w ana="#acte #embrace #male #metonymie" ref="28" lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">compressit</w>
     <w ref="28" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
     <w ref="28" lemma="superus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Sup">summo</w>
     <w ref="28" lemma="adolescens1" pos="NOMcom" msd="Case=Nom|Numb=Sing">adulescens</w>

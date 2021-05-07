@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #anneau #culus #anus">
+<div type="fragment" ana="#anneau #culus #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="7.26" lemma="uesica" pos="NOMcom" msd="Case=Gen|Numb=Plur">vesicae</w>
     <w ref="7.26" lemma="ceruix" pos="NOMcom" msd="Case=Acc|Numb=Sing">cervicem</w>
     <w ref="7.26" lemma="iuxta2" pos="PRE" msd="MORPH=empty">iuxta</w>
-    <w ana="#metaphore #anneau #culus #anus" ref="7.26" lemma="anus2" pos="NOMcom" msd="Case=Acc|Numb=Sing">anum</w>
+    <w ana="#anneau #culus #metaphore" ref="7.26" lemma="anus2" pos="NOMcom" msd="Case=Acc|Numb=Sing">anum</w>
     <w ref="7.26" lemma="cutis" pos="NOMcom" msd="Case=Gen|Numb=Sing">cutis</w>
     <w ref="7.26" lemma="plaga2" pos="NOMcom" msd="Case=Nom|Numb=Sing">plaga</w>
     <w ref="7.26" lemma="lunatus" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">lunata</w>

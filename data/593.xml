@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #metaphore #labia #automatic">
+<div type="fragment" ana="#automatic #female #labia #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="II.127" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
     <w ref="II.127" lemma="membranus" pos="NOMcom" msd="Case=Nom|Numb=Sing">membranum</w>
     <w ref="II.127" lemma="post2" pos="PRE" msd="Deg=Pos">post</w>
-    <w ana="#female #metaphore #labia #automatic" ref="II.127" lemma="pinnaculum" pos="NOMcom" msd="Case=Nom|Numb=Plur">pinnacula</w>
+    <w ana="#automatic #female #labia #metaphore" ref="II.127" lemma="pinnaculum" pos="NOMcom" msd="Case=Nom|Numb=Plur">pinnacula</w>
     <w ref="II.127" lemma="immitto" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">immissis</w>
     <w ref="II.127" lemma="digitus" pos="NOMcom" msd="Case=Abl|Numb=Plur">digitis</w>
     <w ref="II.127" lemma="in" pos="PRE" msd="MORPH=empty">in</w>

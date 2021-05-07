@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #duco #prostitution">
+<div type="fragment" ana="#acte #composite #duco #metonymie #prostitution">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,8 +22,8 @@
     <w ref="269" lemma="liber2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">liber</w>
     <w ref="269" lemma="tango" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">tetigit</w>
     <w ref="269" lemma="neque" pos="CONcoo" msd="MORPH=empty">neque</w>
-    <w ana="#acte #metonymie #duco #prostitution" ref="269" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">duxit</w>
-    <w ana="#acte #metonymie #duco #prostitution" ref="269" lemma="domus" pos="NOMcom" msd="Case=Acc|Numb=Sing">domum</w>
+    <w ana="#acte #composite #duco #metonymie #prostitution" ref="269" lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">duxit</w>
+    <w ana="#acte #composite #duco #metonymie #prostitution" ref="269" lemma="domus" pos="NOMcom" msd="Case=Acc|Numb=Sing">domum</w>
     <w ref="269" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="270" lemma="seruulus" pos="NOMcom" msd="Case=Gen|Numb=Plur">servolorum</w>
     <w ref="270" lemma="sordidulus" pos="NOMcom" msd="Case=Gen|Numb=Plur|Gend=MascNeut">sordidulorum</w>

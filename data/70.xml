@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #anatomie  #metaphore #mentula">
+<div type="fragment" ana="#anatomie #composite #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
         <w lemma="nullus" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">nullis</w>
         <w lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Plur|Gend=Com">suis</w>
-        <w lemma="neruus" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#male #anatomie">nervis</w>
+        <w lemma="neruus" pos="NOMcom" msd="Case=Abl|Numb=Plur" ana="#anatomie #composite #male #mentula #metaphore">nervis</w>
         <w lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
         <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
         <w lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
@@ -33,7 +33,7 @@
         <w lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
         <w lemma="modus" pos="NOMcom" msd="Case=Gen|Numb=Sing">modi</w>
         <w lemma="uita" pos="NOMcom" msd="Case=Abl|Numb=Sing">vita</w>
-        <w lemma="neruus" pos="NOMcom" msd="Case=Nom|Numb=Plur" ana="#male #anatomie">nervi</w>
+        <w lemma="neruus" pos="NOMcom" msd="Case=Nom|Numb=Plur" ana="#anatomie #composite #male #mentula #metaphore">nervi</w>
         <w lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
         <w lemma="possum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">potuerunt</w>
         <w lemma="homo" pos="NOMcom" msd="Case=Gen|Numb=Sing">hominis</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#pars #euphemism">
+<div type="fragment" ana="#euphemism #pars">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1672.phi002.digilibLT-lat1:1.8">
         <w lemma="tum" pos="ADV" msd="Deg=Pos">Tum</w>
         <w lemma="mulier" pos="NOMcom" msd="Case=Gen|Numb=Sing">mulieris</w>
-        <w ana="#pars #euphemism" lemma="uirginal" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">virginal</w>
+        <w ana="#euphemism #pars" lemma="uirginal" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">virginal</w>
         <w lemma="biblum" pos="NOMcom" msd="Case=Abl|Numb=Sing">biblo</w>
         <w lemma="contego" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">contegere</w>
         <w lemma="consigno" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">consignareque</w>

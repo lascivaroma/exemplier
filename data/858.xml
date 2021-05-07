@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #womb #medical">
+<div type="fragment" ana="#female #medicale #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="79.1" lemma="metromania" pos="NOMcom" msd="Case=Acc|Numb=Sing">Metromaniam</w>
     <w ref="79.1" lemma="latinus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">latino</w>
     <w ref="79.1" lemma="sermo" pos="NOMcom" msd="Case=Abl|Numb=Sing">sermone</w>
-    <w ana="#female #womb #medical" ref="79.1" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
+    <w ana="#female #medicale #womb" ref="79.1" lemma="matrica" pos="NOMcom" msd="Case=Gen|Numb=Plur">matricis</w>
     <w ref="79.1" lemma="furor1" pos="NOMcom" msd="Case=Acc|Numb=Plur">furores</w>
     <w ref="79.1" lemma="siue2" pos="CONsub" msd="MORPH=empty">siue</w>
     <w ref="79.1" lemma="insania" pos="NOMcom" msd="Case=Acc|Numb=Sing">insaniam</w>

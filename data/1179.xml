@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #manger">
+<div type="fragment" ana="#acte #manger #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="87.1" lemma="syriscus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Syriscus</w>
     <w ref="87.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="87.1" lemma="inguen" pos="NOMcom" msd="Case=Gen|Numb=Plur">inguinum</w>
-    <w ana="#metaphore #acte #manger" ref="87.1" lemma="ligurritor" pos="NOMcom" msd="Case=Nom|Numb=Sing">ligurritor</w>
+    <w ana="#acte #manger #metaphore" ref="87.1" lemma="ligurritor" pos="NOMcom" msd="Case=Nom|Numb=Sing">ligurritor</w>
     <w ref="87.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

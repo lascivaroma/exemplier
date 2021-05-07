@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #futuo #detendre">
+<div type="fragment" ana="#acte #detendre #fututio #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="18.1" lemma="magnus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Sup">maxima</w>
     <w ref="18.1" lemma="penis" pos="NOMcom" msd="Case=Abl|Numb=Sing">pene</w>
     <w ref="18.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#acte #metonymie #futuo #detendre" ref="18.2" lemma="laxus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem">laxa</w>
+    <w ana="#acte #detendre #fututio #metonymie" ref="18.2" lemma="laxus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem">laxa</w>
     <w ref="18.2" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
     <w ref="18.2" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
     <w ref="18.2" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>

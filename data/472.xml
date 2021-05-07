@@ -1,4 +1,4 @@
-<div type="fragment" ana="#fossa #culus #metaphore #male #homoeros">
+<div type="fragment" ana="#culus #fossa #homoeros #male #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
         <w lemma="Socraticus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">Socraticos</w>
         <w lemma="notus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Sup">notissima</w>
-        <w ana="#fossa #culus" lemma="fossa" pos="NOMcom" msd="Case=Nom|Numb=Sing">fossa</w>
+        <w ana="#culus #fossa #homoeros #male #metaphore" lemma="fossa" pos="NOMcom" msd="Case=Nom|Numb=Sing">fossa</w>
         <w lemma="cinaedus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">cinaedos</w>
         <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>

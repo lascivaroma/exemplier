@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #labia">
+<div type="fragment" ana="#cunnus #female #labia">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="192" lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
     <w ref="192" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
     <w ref="192" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-    <w ana="#female #cunnus #labia" ref="192" lemma="pinnacula" pos="NOMcom" msd="Case=Abl|Numb=Plur">pinnaculis</w>
+    <w ana="#cunnus #female #labia" ref="192" lemma="pinnacula" pos="NOMcom" msd="Case=Abl|Numb=Plur">pinnaculis</w>
     <w ref="192" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
     <w ref="192" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="192" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>

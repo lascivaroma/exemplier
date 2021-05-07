@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="IV.3" lemma="facio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">factam</w>
     <w ref="IV.3" lemma="spongia" pos="NOMcom" msd="Case=Dat|Numb=Plur">spongiis</w>
     <w ref="IV.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
-    <w ana="#anus #culus" ref="IV.3" lemma="podex" pos="NOMcom" msd="Case=Nom|Numb=Sing">podex</w>
+    <w ana="#culus" ref="IV.3" lemma="podex" pos="NOMcom" msd="Case=Nom|Numb=Sing">podex</w>
     <w ref="IV.3" lemma="detergeo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Adj|Voice=Pass">detergendus</w>
     <w ref="IV.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="IV.3" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>

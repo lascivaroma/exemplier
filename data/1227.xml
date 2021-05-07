@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #frapper">
+<div type="fragment" ana="#acte #frapper #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
 	<w ref="6.123" lemma="iaceo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">iacens</w>
 	<w ref="6.123" lemma="cunctus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=MascNeut|Deg=Pos">cunctorum</w>
 	<w ref="6.123" lemma="absorbeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">absorbuit</w>
-	<w ana="#metaphore #acte #frapper" ref="6.123" lemma="ictus" pos="NOMcom" msd="Case=Acc|Numb=Plur">ictus</w>
+	<w ana="#acte #frapper #metaphore" ref="6.123" lemma="ictus" pos="NOMcom" msd="Case=Acc|Numb=Plur">ictus</w>
 	<w ref="6.123" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

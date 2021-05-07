@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #amo">
+<div type="fragment" ana="#acte #amo #composite #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,8 +30,8 @@
     <w ref="I.5" lemma="utrumne" pos="ADVint" msd="MORPH=empty">utrumne</w>
     <w ref="I.5" lemma="prohibeo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Adj|Voice=Pass">prohibendus</w>
     <w ref="I.5" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
-    <w ana="#acte #metonymie #amo" ref="I.5" lemma="usus" pos="NOMcom" msd="Case=Nom|Numb=Sing">usus</w>
-    <w ana="#acte #metonymie #amo" ref="I.5" lemma="Uenereus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">uenerius</w>
+    <w ana="#acte #amo #composite #metonymie" ref="I.5" lemma="usus" pos="NOMcom" msd="Case=Nom|Numb=Sing">usus</w>
+    <w ana="#acte #amo #composite #metonymie" ref="I.5" lemma="Uenereus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">uenerius</w>
     <w ref="I.5" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
     <w ref="I.5" lemma="admitto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Adj|Voice=Pass">admittendus</w>
     <w ref="I.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

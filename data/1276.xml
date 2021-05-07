@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #agriculture #semer">
+<div type="fragment" ana="#acte #agriculture #metaphore #semer">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,6 +22,6 @@
     <w ref="14.23" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=MascNeut">hoc</w>
     <w ref="14.23" lemma="opus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">opus</w>
     <w ref="14.23" lemma="creo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">creatum</w>
-    <w ana="#metaphore #acte #agriculture #semer" ref="14.23" lemma="semino" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">seminaret</w>
+    <w ana="#acte #agriculture #metaphore #semer" ref="14.23" lemma="semino" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">seminaret</w>
   </quote>
 </div>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="5.41" lemma="natura" pos="NOMcom" msd="Case=Acc|Numb=Sing">naturam</w>
     <w ref="5.41" lemma="monstrosus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">monstrosae</w>
     <w ref="5.41" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
-    <w ana="#acte #metonymie #coeo" ref="5.41" lemma="coeo1" pos="VER" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Mood=Ger|Voice=Act">coeundi</w>
+    <w ana="#acte #coeo #metonymie" ref="5.41" lemma="coeo1" pos="VER" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Mood=Ger|Voice=Act">coeundi</w>
     <w ref="5.41" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="5.41" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Plur">feminis</w>
     <w ref="5.41" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

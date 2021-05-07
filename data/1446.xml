@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #aller_en_vue_de">
+<div type="fragment" ana="#acte #allerEnVueDe #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="13.46" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="13.46" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
     <w ref="13.46" lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
-    <w ana="#acte #metonymie #aller_en_vue_de" ref="13.46" lemma="eo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ire</w>
+    <w ana="#acte #allerEnVueDe #metonymie" ref="13.46" lemma="eo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ire</w>
     <w ref="13.46" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="13.46" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
     <w ref="13.46" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

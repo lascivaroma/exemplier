@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #rester_avec #prostitution">
+<div type="fragment" ana="#acte #metonymie #prostitution #resterAvec">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="5.766" lemma="que" pos="CON" msd="MORPH=empty">{noctemque}</w>
     <w ref="5.766" lemma="dies" pos="NOMcom" msd="Case=Acc|Numb=Sing">diemque</w>
     <w ref="5.766" lemma="que" pos="CON" msd="MORPH=empty">{diemque}</w>
-    <w ana="#acte #metonymie #rester_avec #prostitution" ref="5.766" lemma="moror1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">morantur</w>
+    <w ana="#acte #metonymie #prostitution #resterAvec" ref="5.766" lemma="moror1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">morantur</w>
     <w ref="5.766" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

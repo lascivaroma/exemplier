@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #armes">
+<div type="fragment" ana="#armes #mentula #metaphore #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="25.6" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
     <w ref="25.7" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="25.7" lemma="pubes1" pos="NOMcom" msd="Case=Acc|Numb=Sing">pubem</w>
-    <w ana="#mentula #metaphore #pointu #armes" ref="25.7" lemma="capulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">capulumque</w>
+    <w ana="#armes #mentula #metaphore #pointu" ref="25.7" lemma="capulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">capulumque</w>
     <w ref="25.7" lemma="que" pos="CON" msd="MORPH=empty">{capulumque}</w>
     <w ref="25.7" lemma="coleus" pos="NOMcom" msd="Case=Gen|Numb=Plur">coleorum</w>
     <w ref="25.7" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

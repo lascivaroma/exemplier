@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #couper #tailler">
+<div type="fragment" ana="#acte #couper #metaphore #tailler">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="76.8" lemma="et2" pos="CONcoo" msd="Deg=Pos">et</w>
     <w ref="76.8" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
     <w ref="76.9" lemma="fur" pos="NOMcom" msd="Case=Acc|Numb=Sing">furum</w>
-    <w ana="#metaphore #acte #couper #tailler" ref="76.9" lemma="scindo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">scindere</w>
+    <w ana="#acte #couper #metaphore #tailler" ref="76.9" lemma="scindo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">scindere</w>
     <w ref="76.9" lemma="paudex" pos="NOMcom" msd="Case=Acc|Numb=Plur">podices</w>
     <w ref="76.9" lemma="soleo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=SemDep|Person=1">solebam</w>
     <w ref="76.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

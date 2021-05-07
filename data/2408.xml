@@ -1,4 +1,4 @@
-<div type="fragment" ana="#mentula #metaphore #pointu #armes">
+<div type="fragment" ana="#armes #mentula #metaphore #pointu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
     <w ref="121" lemma="uiuus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos">vivum</w>
     <w ref="121" lemma="persido" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">persedit</w>
     <w ref="121" lemma="uulnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulnere</w>
-    <w ana="#mentula #metaphore #pointu #armes" ref="121" lemma="mucro" pos="NOMcom" msd="Case=Nom|Numb=Sing">mucro</w>
+    <w ana="#armes #mentula #metaphore #pointu" ref="121" lemma="mucro" pos="NOMcom" msd="Case=Nom|Numb=Sing">mucro</w>
     <w ref="121" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>
 </div>

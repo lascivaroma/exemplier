@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #oral">
+<div type="fragment" ana="#acte #composite #oral">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.79.4" type="line">
     <w ref="12.79.4" lemma="quisquis1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=MascFem">Quisquis</w>
-    <w ana="#acte #oral" ref="12.79.4" lemma="nihil" pos="PROind" msd="Case=Ind">nil</w>
-    <w ana="#acte #oral" ref="12.79.4" lemma="nego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">negat</w>
+    <w ana="#acte #composite #oral" ref="12.79.4" lemma="nihil" pos="PROind" msd="Case=Ind">nil</w>
+    <w ana="#acte #composite #oral" ref="12.79.4" lemma="nego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">negat</w>
   </quote>
 </div>

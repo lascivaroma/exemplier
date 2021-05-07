@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:4.27" type="chapter">
     <w ref="4.27" lemma="3" pos="ADJcar" msd="MORPH=empty">27</w>
     <w ref="4.27" lemma="ex" pos="PRE" msd="MORPH=empty">Ex</w>
-    <w ana="#female #cunnus #womb" ref="4.27" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
+    <w ana="#cunnus #female #womb" ref="4.27" lemma="uulua" pos="NOMcom" msd="Case=Abl|Numb=Sing">vulva</w>
     <w ref="4.27" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
     <w ref="4.27" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Plur">feminis</w>
     <w ref="4.27" lemma="uehemens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">vehemens</w>

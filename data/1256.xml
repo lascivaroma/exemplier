@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #agriculture #creuser #acte">
+<div type="fragment" ana="#acte #agriculture #creuser #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="51.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="51.4" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
     <w ref="51.4" lemma="curuus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">curuos</w>
-    <w ana="#metaphore #agriculture #creuser #acte" ref="51.4" lemma="excauo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">excauetur</w>
+    <w ana="#acte #agriculture #creuser #metaphore" ref="51.4" lemma="excauo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">excauetur</w>
     <w ref="51.4" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
     <w ref="51.4" lemma="lumbus" pos="NOMcom" msd="Case=Acc|Numb=Plur">lumbos</w>
     <w ref="51.4" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>

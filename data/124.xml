@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+<div type="fragment" ana="#euphemism #male #mentula #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="uxor" pos="NOMcom" msd="Case=Gen|Numb=Sing">uxoris</w>
         <w lemma="coepio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">coepit</w>
         <w lemma="lingo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">lingere</w>
-        <w lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #specialisation #euphemism #mentula">membra</w>
+        <w lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#euphemism #male #mentula #specialisation">membra</w>
         <w lemma="suus" pos="PROpos.ref" msd="Case=Gen|Numb=Sing|Gend=Fem">suae</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

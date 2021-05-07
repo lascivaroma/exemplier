@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #anatomie #metaphore #mentula">
+<div type="fragment" ana="#anatomie #male #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
         <w lemma="indomitus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">indomito</w>
         <w lemma="constans" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">constantior</w>
         <w lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Sing">inguine</w>
-        <w lemma="neruus" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #anatomie">nervos</w>
+        <w lemma="neruus" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#anatomie #male #mentula #metaphore">nervos</w>
         <w lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
         <w lemma="nouus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">nova</w>
         <w lemma="collis" pos="NOMcom" msd="Case=Abl|Numb=Plur">collibus</w>

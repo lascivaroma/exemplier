@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="15.16" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
     <w ref="15.16" lemma="egredior" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">egreditur</w>
     <w ref="15.16" lemma="semen1" pos="NOMcom" msd="Case=Acc|Numb=Sing">semen</w>
-    <w ana="#acte #metonymie #coeo" ref="15.16" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Sing">coitus</w>
+    <w ana="#acte #coeo #metonymie" ref="15.16" lemma="coitus" pos="NOMcom" msd="Case=Nom|Numb=Sing">coitus</w>
     <w ref="15.16" lemma="lauo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">lavabit</w>
     <w ref="15.16" lemma="aqua" pos="NOMcom" msd="Case=Nom|Numb=Sing">aqua</w>
     <w ref="15.16" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">omne</w>

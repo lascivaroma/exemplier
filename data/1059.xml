@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #futuo">
+<div type="fragment" ana="#acte #fututio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="10.29.5" lemma="puella" pos="NOMcom" msd="Case=Voc|Numb=Plur">puellae</w>
     <w ref="10.29.5" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="10.29.6" lemma="munus" pos="NOMcom" msd="Case=Abl|Numb=Plur">Muneribus</w>
-    <w ana="#acte #futuo" ref="10.29.6" lemma="futuus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">futuis</w>
+    <w ana="#acte #fututio" ref="10.29.6" lemma="futuus" pos="ADJqua" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">futuis</w>
     <w ref="10.29.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="10.29.6" lemma="sextilis" pos="ADJqua" msd="Case=Voc|Numb=Sing|Gend=Fem|Deg=Pos">Sextiliane</w>
     <w ref="10.29.6" lemma="ne2" pos="ADV" msd="MORPH=empty">{Sextiliane}</w>

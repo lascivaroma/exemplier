@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #epouser #noces">
+<div type="fragment" ana="#acte #epouser #metaphore #noces">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="4.171" lemma="meditor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">meditatur</w>
     <w ref="4.171" lemma="amor" pos="NOMcom" msd="Case=Acc|Numb=Sing">amorem</w>
     <w ref="4.171" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
-    <w ana="#metaphore #acte #epouser #noces" ref="4.172" lemma="coniugium" pos="NOMcom" msd="Case=Acc|Numb=Sing">coniugium</w>
+    <w ana="#acte #epouser #metaphore #noces" ref="4.172" lemma="coniugium" pos="NOMcom" msd="Case=Acc|Numb=Sing">coniugium</w>
     <w ref="4.172" lemma="uoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vocat</w>
     <w ref="4.172" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     <w ref="4.172" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">hoc</w>

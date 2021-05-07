@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:stoa0293b.stoa002</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0293b.stoa002:28">
-        <w lemma="uereter" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #euphemisms #aidoion #mentula">ueretrum</w>
+        <w lemma="uereter" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#aidoion #euphemism #male #mentula">ueretrum</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
         <w lemma="oblongus" pos="ADJqua" msd="Numb=Sing|Gend=Neut|Deg=Pos">oblongum</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

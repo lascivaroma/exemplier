@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #voisinage #womb">
+<div type="fragment" ana="#adjoiningParts #cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -30,7 +30,7 @@
     <w ref="220" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="221" lemma="gemini" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">geminos</w>
     <w ref="221" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-    <w ana="#female #cunnus #voisinage #womb" ref="221" lemma="uenter" pos="NOMcom" msd="Case=Abl|Numb=Sing">ventre</w>
+    <w ana="#adjoiningParts #cunnus #female #womb" ref="221" lemma="uenter" pos="NOMcom" msd="Case=Abl|Numb=Sing">ventre</w>
     <w ref="221" lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
     <w ref="221" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=1">videor</w>
     <w ref="221" lemma="filius" pos="NOMcom" msd="Case=Acc|Numb=Plur">filios</w>

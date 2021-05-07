@@ -1,4 +1,4 @@
-<div type="fragment" ana="#adjoining_parts #kidneys #euphemism #female">
+<div type="fragment" ana="#adjoiningParts #euphemism #female #kidneys">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -45,7 +45,7 @@
     <w ref="14.26" lemma="corruptio" pos="NOMcom" msd="Case=Abl|Numb=Sing">corruptione</w>
     <w ref="14.26" lemma="integritas" pos="NOMcom" msd="Case=Gen|Numb=Sing">integritatis</w>
     <w ref="14.26" lemma="infundo2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">infunderetur</w>
-    <w ana="#adjoining_parts #kidneys #euphemism #female" ref="14.26" lemma="gremium" pos="NOMcom" msd="Case=Abl|Numb=Sing">gremio</w>
+    <w ana="#adjoiningParts #euphemism #female #kidneys" ref="14.26" lemma="gremium" pos="NOMcom" msd="Case=Abl|Numb=Sing">gremio</w>
     <w ref="14.26" lemma="maritus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">maritus</w>
     <w ref="14.26" lemma="uxor" pos="NOMcom" msd="Case=Gen|Numb=Sing">uxoris</w>
     <w ref="14.26" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

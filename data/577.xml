@@ -1,4 +1,4 @@
-<div type="fragment" ana="#parties clitoris #female #cunnus #son">
+<div type="fragment" ana="#clitoris #cunnus #female #pars #son">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -37,7 +37,7 @@
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
         <w lemma="medius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Neut|Deg=Pos">medio</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
-        <w ana="#partiesclitoris #son" lemma="landica" pos="NOMcom" msd="Case=Nom|Numb=Sing">landica</w>
+        <w ana="#clitoris #cunnus #female #pars #son" lemma="landica" pos="NOMcom" msd="Case=Nom|Numb=Sing">landica</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

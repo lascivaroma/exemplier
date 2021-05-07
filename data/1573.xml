@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="12.4.8" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">ea</w>
     <w ref="12.4.8" lemma="causa" pos="NOMcom" msd="Case=Abl|Numb=Sing">causa</w>
     <w ref="12.4.8" lemma="nondum" pos="ADVneg" msd="MORPH=empty">nondum</w>
-    <w ana="#acte #metonymie #coeo" ref="12.4.8" lemma="coeo1" pos="VER" msd="Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">coito</w>
+    <w ana="#acte #coeo #metonymie" ref="12.4.8" lemma="coeo1" pos="VER" msd="Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">coito</w>
     <w ref="12.4.8" lemma="matrimonium" pos="NOMcom" msd="Case=Abl|Numb=Sing">matrimonio</w>
     <w ref="12.4.8" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">datur</w>
   </quote>

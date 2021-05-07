@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #tuer #mourir #male">
+<div type="fragment" ana="#acte #male #metaphore #mourir #tuer">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -21,7 +21,7 @@
     <w ref="130" lemma="riuus" pos="NOMcom" msd="Case=Abl|Numb=Plur">rivis</w>
     <w ref="130" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="131" lemma="labor2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">labitur</w>
-    <w ana="#metaphore #acte #tuer #mourir #male" ref="131" lemma="exsanguis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">exanguis</w>
+    <w ana="#acte #male #metaphore #mourir #tuer" ref="131" lemma="exsanguis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">exanguis</w>
     <w ref="131" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="131" lemma="destillo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">destillat</w>
     <w ref="131" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>

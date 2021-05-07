@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #outil #metaphore #mentula">
+<div type="fragment" ana="#male #mentula #metaphore #outil">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
         <w lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
         <w lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
-        <w lemma="instrumentum" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #outil #metaphore #mentula">instrumenta</w>
+        <w lemma="instrumentum" pos="NOMcom" msd="Case=Acc|Numb=Plur" ana="#male #mentula #metaphore #outil">instrumenta</w>
         <w lemma="pecco" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">peccasse</w>
     </quote>
  </div>

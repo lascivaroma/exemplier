@@ -1,4 +1,4 @@
-<div type="fragment" ana=" #male #euphemism #penis #specialisation">
+<div type="fragment" ana="#euphemism #male #penis #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
         <w lemma="cieo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ciet</w>
         <w lemma="irrito" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">inritans</w>
-        <w ana="#euphemism #penis #specialisation" lemma="locus" pos="NOMcom" msd="Case=Acc|Numb=Plur">loca</w>
+        <w ana="#euphemism #male #penis #specialisation" lemma="locus" pos="NOMcom" msd="Case=Acc|Numb=Plur">loca</w>
         <w lemma="turgidus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">turgida</w>
         <w lemma="semen1" pos="NOMcom" msd="Case=Abl|Numb=Sing">semine</w>
         <w lemma="multus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">multo</w>

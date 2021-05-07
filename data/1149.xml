@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #fellatio #acte #actor">
+<div type="fragment" ana="#acte #actor #fellatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="11.66.2" lemma="negotiator" pos="NOMcom" msd="Case=Nom|Numb=Sing">negotiator</w>
     <w ref="11.66.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="11.66.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
-    <w ana="#acte #fellatio #acte #actor" ref="11.66.3" lemma="fellator" pos="NOMcom" msd="Case=Nom|Numb=Sing">fellator</w>
+    <w ana="#acte #actor #fellatio" ref="11.66.3" lemma="fellator" pos="NOMcom" msd="Case=Nom|Numb=Sing">fellator</w>
     <w ref="11.66.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>
     <w ref="11.66.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="11.66.3" lemma="lanista" pos="NOMcom" msd="Case=Nom|Numb=Sing">lanista</w>

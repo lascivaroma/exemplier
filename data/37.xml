@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #metaphore #animal #mentula">
+<div type="fragment" ana="#animal #male #mentula #metaphore #personnification">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
         <w lemma="inguen" pos="NOMcom" msd="Case=Abl|Numb=Plur">inguinibus</w>
         <w lemma="quare2" pos="ADVint" msd="MORPH=empty">quare</w>
         <w lemma="detondeo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">detonsus</w>
-        <w lemma="gurgulium" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #personnification">gurgulio</w>
+        <w lemma="gurgulium" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#animal #male #mentula #metaphore #personnification">gurgulio</w>
         <w lemma="exsto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">extat</w>
         <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>

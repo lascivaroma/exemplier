@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #lutter #sebattre">
+<div type="fragment" ana="#acte #lutter #metaphore #seBattre">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="5.76" lemma="que" pos="CON" msd="MORPH=empty">{Exercentque}</w>
     <w ref="5.76" lemma="torus" pos="NOMcom" msd="Case=Abl|Numb=Plur">toris</w>
     <w ref="5.76" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
-    <w ana="#metaphore #acte #lutter #sebattre" ref="5.76" lemma="luctamen" pos="NOMcom" msd="Case=Acc|Numb=Sing">luctamen</w>
+    <w ana="#acte #lutter #metaphore #seBattre" ref="5.76" lemma="luctamen" pos="NOMcom" msd="Case=Acc|Numb=Sing">luctamen</w>
     <w ref="5.76" lemma="anhelus" pos="NOMcom" msd="Case=Acc|Numb=Sing">anhelum</w>
     <w ref="5.76" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="5.77" lemma="cunctus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">Cuncta</w>

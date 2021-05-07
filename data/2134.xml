@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #violence">
+<div type="fragment" ana="#acte #composite #metonymie #violence">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -34,8 +34,8 @@
     <w ref="2.6.15" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.6.15" lemma="dos" pos="NOMcom" msd="Case=Gen|Numb=Sing">dotis</w>
     <w ref="2.6.15" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
-    <w ana="#acte #metonymie #violence" ref="2.6.15" lemma="iniuria" pos="NOMcom" msd="Case=Abl|Numb=Sing">iniuria</w>
-    <w ana="#acte #metonymie #violence" ref="2.6.15" lemma="contraho" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3">contrahebant</w>
+    <w ana="#acte #composite #metonymie #violence" ref="2.6.15" lemma="iniuria" pos="NOMcom" msd="Case=Abl|Numb=Sing">iniuria</w>
+    <w ana="#acte #composite #metonymie #violence" ref="2.6.15" lemma="contraho" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3">contrahebant</w>
     <w ref="2.6.15" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.6.15" lemma="honestus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">honesta</w>
     <w ref="2.6.15" lemma="nimirum" pos="ADV" msd="Deg=Pos">nimirum</w>

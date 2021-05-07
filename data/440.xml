@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #pubic_hair">
+<div type="fragment" ana="#male #pubicHair">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">idque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{idque}</w>
         <w lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
-        <w ana="#male #pubic_hair" lemma="pubes1" pos="NOMcom" msd="Case=Abl|Numb=Sing">pube</w>
+        <w ana="#male #pubicHair" lemma="pubes1" pos="NOMcom" msd="Case=Abl|Numb=Sing">pube</w>
         <w lemma="contego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">contegitur</w>
     </quote>
  </div>

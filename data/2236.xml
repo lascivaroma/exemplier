@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #animals #salio #femme">
+<div type="fragment" ana="#acte #animal #femme #salio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="8.11.5" lemma="masculus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Masculus</w>
     <w ref="8.11.5" lemma="pauus" pos="NOMcom" msd="Case=Dat|Numb=Sing">pavo</w>
     <w ref="8.11.5" lemma="gallinaceus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">gallinaceam</w>
-    <w ana="#acte #animals #salio #femme" ref="8.11.5" lemma="salacitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">salacitatem</w>
+    <w ana="#acte #animal #femme #salio" ref="8.11.5" lemma="salacitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">salacitatem</w>
     <w ref="8.11.5" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habet</w>
     <w ref="8.11.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="8.11.5" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>

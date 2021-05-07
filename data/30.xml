@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male  #metaphore #animal #mentula">
+<div type="fragment" ana="#animal #composite #male #mentula #metaphore #personnification">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="obdormisso" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">obdormisse</w>
         <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
-        <w lemma="draco" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #personnification">draconem</w>
+        <w lemma="draco" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#animal #composite #male #mentula #metaphore #personnification">draconem</w>
         <w lemma="repente" pos="ADV" msd="Deg=Pos">repente</w>
         <w lemma="irrepo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">irrepsisse</w>
         <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
@@ -72,7 +72,7 @@
         <w lemma="macula" pos="NOMcom" msd="Case=Acc|Numb=Sing">maculam</w>
         <w lemma="uelut1" pos="ADVrel" msd="MORPH=empty">uelut</w>
         <w lemma="pingo" pos="VER" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">picti</w>
-        <w lemma="draco" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #personnification">draconis</w>
+        <w lemma="draco" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#animal #composite #male #mentula #metaphore #personnification">draconis</w>
         <w lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
         <w lemma="possum1" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">potuisse</w>
         <w lemma="umquam" pos="ADV" msd="Deg=Pos">umquam</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #joke #jeu #female-subject">
+<div type="fragment" ana="#acte #femaleSubject #jeu #joke #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi0472.phi001.perseus-lat2</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:17.17" type="line">
-    <w ana="#metaphore #acte #joke #jeu #female-subject" ref="17.17" lemma="ludo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ludere</w>
+    <w ana="#acte #femaleSubject #jeu #joke #metaphore" ref="17.17" lemma="ludo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ludere</w>
     <w ref="17.17" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">hanc</w>
     <w ref="17.17" lemma="sino" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sinit</w>
     <w ref="17.17" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemism #culus #anus">
+<div type="fragment" ana="#culus #euphemism">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -34,7 +34,7 @@
     <w ref="9.47.6" lemma="in" pos="PRE" msd="MORPH=empty">In</w>
     <w ref="9.47.6" lemma="mollis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">molli</w>
     <w ref="9.47.6" lemma="rigidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">rigidam</w>
-    <w ana="#euphemism #culus #anus" ref="9.47.6" lemma="clunis" pos="NOMcom" msd="Case=Abl|Numb=Sing">clune</w>
+    <w ana="#culus #euphemism" ref="9.47.6" lemma="clunis" pos="NOMcom" msd="Case=Abl|Numb=Sing">clune</w>
     <w ref="9.47.6" lemma="libenter" pos="ADV" msd="Deg=Pos">libenter</w>
     <w ref="9.47.6" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">habes</w>
     <w ref="9.47.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

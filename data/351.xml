@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #misc">
+<div type="fragment" ana="#divers #male #penis">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="uos" pos="PROper" msd="Case=Dat|Numb=Plur">vobis</w>
         <w lemma="frons1" pos="NOMcom" msd="Case=Acc|Numb=Sing">frontem</w>
         <w lemma="taberna" pos="NOMcom" msd="Case=Gen|Numb=Sing">tabernae</w>
-        <w ana="#male #penis" lemma="sopio" pos="NOMcom" msd="Case=Abl|Numb=Plur">sopionibus</w>
+        <w ana="#divers #male #penis" lemma="sopio" pos="NOMcom" msd="Case=Abl|Numb=Plur">sopionibus</w>
         <w lemma="scribo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1">scribam</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

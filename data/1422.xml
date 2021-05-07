@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #duco #prostitution">
+<div type="fragment" ana="#acte #duco #metonymie #prostitution">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -37,7 +37,7 @@
     <w ref="868" lemma="amica" pos="NOMcom" msd="Case=Gen|Numb=Sing">amicae</w>
     <w ref="868" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">das</w>
     <w ref="868" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-    <w ana="#acte #metonymie #duco #prostitution" ref="868" lemma="duco" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">ductas</w>
+    <w ana="#acte #duco #metonymie #prostitution" ref="868" lemma="duco" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">ductas</w>
     <w ref="868" lemma="gratis" pos="ADV" msd="Deg=Pos">gratiis</w>
     <w ref="868" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
   </quote>

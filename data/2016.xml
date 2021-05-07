@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #consequences #tired">
+<div type="fragment" ana="#acte #consequences #metonymie #tired">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,7 +14,7 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi1294.phi002.perseus-lat2</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.67.3" type="line">
-    <w ana="#acte #metonymie #consequences #tired" ref="9.67.3" lemma="fessus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Fessus</w>
+    <w ana="#acte #consequences #metonymie #tired" ref="9.67.3" lemma="fessus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Fessus</w>
     <w ref="9.67.3" lemma="mille" pos="ADJcar" msd="Case=Ind">mille</w>
     <w ref="9.67.3" lemma="modus" pos="NOMcom" msd="Case=Abl|Numb=Plur">modis</w>
     <w ref="9.67.3" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">illud</w>

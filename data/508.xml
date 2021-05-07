@@ -1,4 +1,4 @@
-<div type="fragment" ana="#sinus #euphemism #female #cunnus">
+<div type="fragment" ana="#composite #cunnus #euphemism #female #sinus">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,8 +19,8 @@
         <w lemma="desputo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut">desputum</w>
         <w lemma="semen1" pos="NOMcom" msd="Case=Nom|Numb=Sing">semen</w>
         <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
-        <w ana="#sinus #euphemism #composite" lemma="muliebris" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">muliebris</w>
-        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Nom|Numb=Sing">sinus</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="muliebris" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">muliebris</w>
+        <w ana="#composite #cunnus #euphemism #female #sinus" lemma="sinus" pos="NOMcom" msd="Case=Nom|Numb=Sing">sinus</w>
         <w lemma="humidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">humidus</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">fuerit</w>
         <w lemma="respectus" pos="NOMcom" msd="Case=Nom|Numb=Sing">respectus</w>

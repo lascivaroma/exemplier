@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -40,7 +40,7 @@
     <w ref="2.14" lemma="filius" pos="NOMcom" msd="Case=Acc|Numb=Sing">filium</w>
     <w ref="2.14" lemma="occulo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">occuleret</w>
     <w ref="2.14" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ana="#female #cunnus #womb" ref="2.14" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
+    <w ana="#cunnus #female #womb" ref="2.14" lemma="uterus" pos="NOMcom" msd="Case=Acc|Numb=Sing">uterum</w>
     <w ref="2.14" lemma="ostendo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">ostendens</w>
     <w ref="2.14" lemma="lateo" pos="NOMcom" msd="Case=Abl|Mood=Inf|Tense=Pres|Voice=Act">latere</w>
     <w ref="2.14" lemma="respondeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">respondit</w>

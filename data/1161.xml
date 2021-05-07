@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #acte #passive">
+<div type="fragment" ana="#acte #female #passive">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -29,7 +29,7 @@
     <w ref="6.322" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ipsa</w>
     <w ref="6.322" lemma="medullina" pos="NOMcom" msd="Case=Gen|Numb=Sing">Medullinae</w>
     <w ref="6.322" lemma="fluctus" pos="NOMcom" msd="Case=Acc|Numb=Sing">fluctum</w>
-    <w ana="#female #acte #passive" ref="6.322" lemma="crisso" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">crisantis</w>
+    <w ana="#acte #female #passive" ref="6.322" lemma="crisso" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">crisantis</w>
     <w ref="6.322" lemma="adoro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">adorat</w>
     <w ref="6.322" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="6.323" lemma="palma" pos="NOMcom" msd="Case=Nom|Numb=Sing">palma</w>

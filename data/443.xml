@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #attitude">
+<div type="fragment" ana="#attitude #composite #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,8 +17,8 @@
         <w lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">habuit</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="homo" pos="NOMcom" msd="Case=Acc|Numb=Sing">hominem</w>
-        <w ana="#male #attitude" lemma="penis" pos="NOMcom" msd="Case=Abl|Numb=Sing">pene</w>
-        <w ana="#male #attitude" lemma="promineo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">prominente</w>
+        <w ana="#attitude #composite #male" lemma="penis" pos="NOMcom" msd="Case=Abl|Numb=Sing">pene</w>
+        <w ana="#attitude #composite #male" lemma="promineo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">prominente</w>
         <w lemma="ultra2" pos="PRE" msd="MORPH=empty">ultra</w>
         <w lemma="modus" pos="NOMcom" msd="Case=Acc|Numb=Sing">modum</w>
         <w lemma="animal" pos="NOMcom" msd="Case=Gen|Numb=Plur">animalium</w>

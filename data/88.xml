@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #medical #metaphore #mentula">
+<div type="fragment" ana="#male #medicale #mentula #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,7 +28,7 @@
         <w lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
         <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
-        <w lemma="ulcus" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #medical #metaphore #mentula">ulcus</w>
+        <w lemma="ulcus" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #medicale #mentula #metaphore">ulcus</w>
         <w lemma="uoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">uocatur</w>
     </quote>
  </div>

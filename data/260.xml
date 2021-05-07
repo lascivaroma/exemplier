@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -15,7 +15,7 @@
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:9.1">
         <w lemma="cur" pos="ADVint" msd="MORPH=empty">Cur</w>
-        <w lemma="obscenus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" ana="#male #euphemisms #aidoion">obscena</w>
+        <w lemma="obscenus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" ana="#aidoion #euphemism #male #mentula">obscena</w>
         <w lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
         <w lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing">pars</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>

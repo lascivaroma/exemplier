@@ -1,4 +1,4 @@
-<div type="fragment" ana=" #male #euphemism #penis #specialisation">
+<div type="fragment" ana="#composite #euphemism #male #penis #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,9 +17,9 @@
         <w lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
         <w lemma="Scylla" pos="NOMpro" msd="Case=Nom|Numb=Sing">Scylla</w>
         <w lemma="latro2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">latrans</w>
-        <w ana="#euphemism #penis #specialisation #composite" lemma="inferus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Sup">infima</w>
+        <w ana="#composite #euphemism #male #penis #specialisation" lemma="inferus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Sup">infima</w>
         <w lemma="inguen" pos="NOMcom" msd="Case=Gen|Numb=Plur">inguinum</w>
-        <w ana="#euphemism #penis #specialisation #composite" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing">parte</w>
+        <w ana="#composite #euphemism #male #penis #specialisation" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing">parte</w>
         <w lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
         <w lemma="mens" pos="NOMcom" msd="Case=Abl|Numb=Sing">mente</w>
         <w lemma="durus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">dura</w>

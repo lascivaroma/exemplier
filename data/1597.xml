@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
     <w ref="7.6" lemma="sicut1" pos="ADVrel" msd="MORPH=empty">sicut</w>
     <w ref="7.6" lemma="sternuo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">sternuisse</w>
     <w ref="7.6" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
-    <w ana="#acte #metonymie #coeo" ref="7.6" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
+    <w ana="#acte #coeo #metonymie" ref="7.6" lemma="coitus" pos="NOMcom" msd="Case=Abl|Numb=Sing">coitu</w>
     <w ref="7.6" lemma="abortiuus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">abortivum</w>
     <w ref="7.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

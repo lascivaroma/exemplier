@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec #celibat">
+<div type="fragment" ana="#acte #celibat #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -24,7 +24,7 @@
     <w ref="2.18b.4" lemma="desero2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">desertum</w>
     <w ref="2.18b.4" lemma="Eous" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem">Eoa</w>
     <w ref="2.18b.4" lemma="patior" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">passa</w>
-    <w ana="#acte #metonymie #dormir_avec #celibat" ref="2.18b.4" lemma="iaceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">iacere</w>
+    <w ana="#acte #celibat #dormirAvec #metonymie" ref="2.18b.4" lemma="iaceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">iacere</w>
     <w ref="2.18b.4" lemma="domus" pos="NOMcom" msd="Case=Abl|Numb=Sing">domo</w>
     <w ref="2.18b.4" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
   </quote>

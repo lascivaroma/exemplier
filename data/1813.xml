@@ -1,4 +1,4 @@
-<div type="fragment" ana="#amo #pedication #metonymie #acte">
+<div type="fragment" ana="#acte #amo #metonymie #pedicatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="2.8" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
     <w ref="2.8" lemma="alius" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Masc">alios</w>
     <w ref="2.8" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
-    <w ana="#amo #pedication #metonymie #acte" ref="2.8" lemma="amo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">amabat</w>
+    <w ana="#acte #amo #metonymie #pedicatio" ref="2.8" lemma="amo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">amabat</w>
     <w ref="2.8" lemma="turpiter" pos="ADV" msd="Deg=Sup">turpissime</w>
   </quote>
 </div>

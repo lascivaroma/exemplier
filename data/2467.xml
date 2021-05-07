@@ -1,4 +1,4 @@
-<div type="fragment" ana="#euphemisms #aidoion #semen">
+<div type="fragment" ana="#aidoion #euphemism #semen">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -25,7 +25,7 @@
     <w ref="2.3.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="2.3.2" lemma="irritatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">irritationem</w>
     <w ref="2.3.2" lemma="humerus" pos="NOMcom" msd="Case=Gen|Numb=Plur">umeris</w>
-    <w ana="#euphemisms #aidoion" ref="2.3.2" lemma="obscenus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">obsceni</w>
+    <w ana="#aidoion #euphemism #semen" ref="2.3.2" lemma="obscenus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">obsceni</w>
     <w ref="2.3.2" lemma="altus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">altumve</w>
     <w ref="2.3.2" lemma="ue" pos="CON" msd="MORPH=empty">{altumve}</w>
     <w ref="2.3.2" lemma="suspirium" pos="NOMcom" msd="Case=Acc|Numb=Sing">suspirium</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec">
+<div type="fragment" ana="#acte #composite #dormirAvec #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,8 +26,8 @@
     <w ref="19" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
     <w ref="19" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="19" lemma="unus" pos="ADJcar" msd="Case=Abl|Numb=Sing|Gend=MascNeut">uno</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="19" lemma="dormio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dormiunt</w>
-    <w ana="#acte #metonymie #dormir_avec" ref="19" lemma="lectus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">lecto</w>
+    <w ana="#acte #composite #dormirAvec #metonymie" ref="19" lemma="dormio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dormiunt</w>
+    <w ana="#acte #composite #dormirAvec #metonymie" ref="19" lemma="lectus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">lecto</w>
     <w ref="19" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
   </quote>
 </div>

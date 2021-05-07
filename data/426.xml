@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #foreskin">
+<div type="fragment" ana="#foreskin #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">Eo</w>
         <w lemma="facio" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">facto</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-        <w ana="#male #foreskin" lemma="cutis" pos="NOMcom" msd="Case=Nom|Numb=Sing">cutis</w>
+        <w ana="#foreskin #male" lemma="cutis" pos="NOMcom" msd="Case=Nom|Numb=Sing">cutis</w>
         <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
         <w lemma="uinculum" pos="NOMcom" msd="Case=Acc|Numb=Sing">vinculum</w>
         <w lemma="inclino" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">inclinatur</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#irrumo fellatio implicite #acte">
+<div type="fragment" ana="#acte #composite #fellatio #implicite #irrumatio">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -28,13 +28,13 @@
         <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
         <w lemma="nato" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">natanti</w>
         <w lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
-        <w ana="#irrumofellatioimplicite #composite" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
-        <w ana="#irrumofellatioimplicite #composite" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Sing">femina</w>
+        <w ana="#acte #composite #fellatio #implicite #irrumatio" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+        <w ana="#acte #composite #fellatio #implicite #irrumatio" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Sing">femina</w>
         <w lemma="uersor" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Dep|Person=3">uersarentur</w>
         <w lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
-        <w ana="#irrumofellatioimplicite #composite" lemma="ludo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">luderent</w>
-        <w ana="#irrumofellatioimplicite #composite" lemma="lingua" pos="NOMcom" msd="Case=Abl|Numb=Sing">lingua</w>
-        <w ana="#irrumofellatioimplicite #composite" lemma="morsus" pos="NOMcom" msd="Case=Abl|Numb=Sing">morsuque</w>
+        <w ana="#acte #composite #fellatio #implicite #irrumatio" lemma="ludo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">luderent</w>
+        <w ana="#acte #composite #fellatio #implicite #irrumatio" lemma="lingua" pos="NOMcom" msd="Case=Abl|Numb=Sing">lingua</w>
+        <w ana="#acte #composite #fellatio #implicite #irrumatio" lemma="morsus" pos="NOMcom" msd="Case=Abl|Numb=Sing">morsuque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{morsuque}</w>
         <w lemma="sensim" pos="ADV" msd="Deg=Pos">sensim</w>
         <w lemma="appeto" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">adpetentes</w>

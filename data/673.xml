@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="6.115" lemma="que" pos="CON" msd="MORPH=empty">{Quaeque}</w>
     <w ref="6.115" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
     <w ref="6.115" lemma="abrado" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem">abrasas</w>
-    <w ana="#female #cunnus #womb" ref="6.115" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ana="#cunnus #female #womb" ref="6.115" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
     <w ref="6.115" lemma="demitto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">demittere</w>
     <w ref="6.115" lemma="faux" pos="NOMcom" msd="Case=Acc|Numb=Plur">fauces</w>
     <w ref="6.115" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

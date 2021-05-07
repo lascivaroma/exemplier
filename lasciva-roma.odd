@@ -96,7 +96,7 @@
             <attDef ident="corresp" mode="add" usage="req">
               <desc>Référence bibliographique de l'extrait</desc>
               <datatype>
-                <dataRef key="text"/>
+                <dataRef key="data.text"/>
               </datatype>
             </attDef>
             <attDef ident="ana" mode="change" usage="req">

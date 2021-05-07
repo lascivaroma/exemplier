@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #futuo #actor">
+<div type="fragment" ana="#acte #actor #fututio #male">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -26,7 +26,7 @@
     <w ref="63.16" lemma="uenio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">uenire</w>
     <w ref="63.16" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="63.16" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=MascNeut">suo</w>
-    <w ana="#acte #male #futuo #actor" ref="63.16" lemma="fututor" pos="NOMcom" msd="Case=Abl|Numb=Sing">fututore</w>
+    <w ana="#acte #actor #fututio #male" ref="63.16" lemma="fututor" pos="NOMcom" msd="Case=Abl|Numb=Sing">fututore</w>
     <w ref="63.16" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="63.17" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
     <w ref="63.17" lemma="tot" pos="PROdem" msd="Case=Ind">tot</w>

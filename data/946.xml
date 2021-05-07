@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="II.1" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="II.1" lemma="sphincter" pos="NOMcom" msd="Case=Abl|Numb=Sing">sphinctere</w>
     <w ref="II.1" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
-    <w ana="#anus #culus" ref="II.1" lemma="podix" pos="NOMcom" msd="Case=Abl|Numb=Sing|Deg=Pos">podice</w>
+    <w ana="#culus" ref="II.1" lemma="podix" pos="NOMcom" msd="Case=Abl|Numb=Sing|Deg=Pos">podice</w>
     <w ref="II.1" lemma="paralysis" pos="NOMcom" msd="Case=Gen|Numb=Sing">paralysi</w>
     <w ref="II.1" lemma="uitio1" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">uitiato</w>
     <w ref="II.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>

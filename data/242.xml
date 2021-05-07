@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
         <w lemma="obscurus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com">obscuris</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
-        <w lemma="uerecundus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp" ana="#male #euphemisms #aidoion">uerecundioribus</w>
+        <w lemma="uerecundus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp" ana="#aidoion #euphemism #male #mentula">uerecundioribus</w>
         <w lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Plur">partibus</w>
     </quote>
  </div>

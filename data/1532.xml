@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #dormir_avec #nu">
+<div type="fragment" ana="#acte #dormirAvec #metonymie #nu">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:9.484" type="line">
     <w ref="9.484" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
-    <w ana="#acte #metonymie #dormir_avec #nu" ref="9.484" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">iacui</w>
+    <w ana="#acte #dormirAvec #metonymie #nu" ref="9.484" lemma="iaceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">iacui</w>
     <w ref="9.484" lemma="totus" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">totis</w>
     <w ref="9.484" lemma="resoluo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">resoluta</w>
     <w ref="9.484" lemma="medulla" pos="NOMcom" msd="Case=Abl|Numb=Plur">medullis</w>

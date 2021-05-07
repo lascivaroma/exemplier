@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #humiliant #urine #ejaculation">
+<div type="fragment" ana="#acte #ejaculation #humiliant #metaphore #urine">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="374.6" lemma="miser" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">miserum</w>
     <w ref="374.6" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="374.6" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
-    <w ana="#metaphore #acte #humiliant #urine #ejaculation" ref="374.6" lemma="mingo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">mingitur</w>
+    <w ana="#acte #ejaculation #humiliant #metaphore #urine" ref="374.6" lemma="mingo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">mingitur</w>
     <w ref="374.6" lemma="ars" pos="NOMcom" msd="Case=Gen|Numb=Sing">artis</w>
     <w ref="374.6" lemma="opus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">opus</w>
     <w ref="374.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

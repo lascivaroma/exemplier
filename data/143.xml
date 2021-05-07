@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #erection  #euphemism">
+<div type="fragment" ana="#composite #erection #euphemism #male #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,10 +20,10 @@
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
         <w lemma="satur" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">satur</w>
         <w lemma="supinus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">supinus</w>
-        <w lemma="pertundo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1" ana="#male #specialisation #erection">pertundo</w>
-        <w lemma="tunica" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #specialisation #erection">tunicamque</w>
+        <w lemma="pertundo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1" ana="#composite #erection #euphemism #male #specialisation">pertundo</w>
+        <w lemma="tunica" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#composite #erection #euphemism #male #specialisation">tunicamque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{tunicamque}</w>
-        <w lemma="pallium" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #specialisation #erection">palliumque</w>
+        <w lemma="pallium" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#composite #erection #euphemism #male #specialisation">palliumque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{palliumque}</w>
         <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>

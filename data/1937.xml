@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #enter">
+<div type="fragment" ana="#acte #enter #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="4" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
     <w ref="4" lemma="uiduus" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">viduam</w>
     <w ref="4" lemma="quis2" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">quis</w>
-    <w ana="#acte #metonymie #enter" ref="4" lemma="incurso" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">incurset</w>
+    <w ana="#acte #enter #metonymie" ref="4" lemma="incurso" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">incurset</w>
     <w ref="4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="4" lemma="dum2" pos="CONsub" msd="MORPH=empty">dum</w>
     <w ref="4" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>

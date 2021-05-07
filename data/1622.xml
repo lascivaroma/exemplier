@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #coeo">
+<div type="fragment" ana="#acte #coeo #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="49.2.5" lemma="error" pos="NOMcom" msd="Case=Abl|Numb=Sing">errore</w>
     <w ref="49.2.5" lemma="decipio" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">decepti</w>
     <w ref="49.2.5" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascFem">omnem</w>
-    <w ana="#acte #metonymie #coeo" ref="49.2.5" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">coitum</w>
+    <w ana="#acte #coeo #metonymie" ref="49.2.5" lemma="coitus" pos="NOMcom" msd="Case=Acc|Numb=Sing">coitum</w>
     <w ref="49.2.5" lemma="spurcus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos">spurcum</w>
     <w ref="49.2.5" lemma="puto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">putamus</w>
     <w ref="49.2.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

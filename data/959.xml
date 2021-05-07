@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #ficus #anus #culus">
+<div type="fragment" ana="#culus #ficus #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -20,7 +20,7 @@
     <w ref="12.96.9" lemma="res" pos="NOMcom" msd="Case=Nom|Numb=Sing">res</w>
     <w ref="12.96.9" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="12.96.9" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
-    <w ana="#metaphore #ficus #anus #culus" ref="12.96.9" lemma="chias" pos="NOMcom" msd="Case=Acc|Numb=Sing">Chiam</w>
+    <w ana="#culus #ficus #metaphore" ref="12.96.9" lemma="chias" pos="NOMcom" msd="Case=Acc|Numb=Sing">Chiam</w>
     <w ref="12.96.9" lemma="uolo3" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">volo</w>
     <w ref="12.96.9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="12.96.9" lemma="nolo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">nolo</w>

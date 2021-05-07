@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #join">
+<div type="fragment" ana="#acte #join #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -22,7 +22,7 @@
     <w ref="4.28" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
     <w ref="4.28" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
     <w ref="4.28" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
-    <w ana="#acte #metonymie #join" ref="4.28" lemma="iungo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">iunxit</w>
+    <w ana="#acte #join #metonymie" ref="4.28" lemma="iungo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">iunxit</w>
     <w ref="4.28" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="4.28" lemma="amor" pos="NOMcom" msd="Case=Acc|Numb=Plur">amores</w>
     <w ref="4.29" lemma="aufero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">abstulit</w>

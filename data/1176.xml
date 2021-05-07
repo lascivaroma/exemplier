@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #manger">
+<div type="fragment" ana="#acte #manger #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
     <w ref="9.5" lemma="nos" pos="PROper" msd="Case=Nom|Numb=Plur">nos</w>
     <w ref="9.5" lemma="colaphus" pos="NOMcom" msd="Case=Acc|Numb=Sing">colaphum</w>
     <w ref="9.5" lemma="incutio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">incutimus</w>
-    <w ana="#metaphore #acte #manger" ref="9.5" lemma="lambo" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">lambenti</w>
+    <w ana="#acte #manger #metaphore" ref="9.5" lemma="lambo" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">lambenti</w>
     <w ref="9.5" lemma="crustulum" pos="NOMcom" msd="Case=Nom|Numb=Plur">crustula</w>
     <w ref="9.5" lemma="seruus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">servo</w>
     <w ref="9.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #fellatio #acte">
+<div type="fragment" ana="#acte #fellatio">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="44.8" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
     <w ref="44.8" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
     <w ref="44.8" lemma="cunnus" pos="NOMcom" msd="Case=Acc|Numb=Sing">cunnum</w>
-    <w ana="#acte #fellatio #acte" ref="44.8" lemma="lambo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">lambere</w>
+    <w ana="#acte #fellatio" ref="44.8" lemma="lambo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">lambere</w>
     <w ref="44.8" lemma="causa" pos="NOMcom" msd="Case=Nom|Numb=Sing">causa</w>
     <w ref="44.8" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
     <w ref="44.8" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>

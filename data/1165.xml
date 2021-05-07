@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #acte #passive">
+<div type="fragment" ana="#acte #male #passive">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -41,7 +41,7 @@
     <w ref="2.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.21" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
     <w ref="2.21" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
-    <w ana="#male #acte #passive" ref="2.21" lemma="ceueo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">ceventem</w>
+    <w ana="#acte #male #passive" ref="2.21" lemma="ceueo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">ceventem</w>
     <w ref="2.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.21" lemma="sextus" pos="ADJord" msd="Case=Abl|Deg=Pos">Sexte</w>
     <w ref="2.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

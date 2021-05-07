@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus #metaphore #ficus">
+<div type="fragment" ana="#culus #ficus #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -35,7 +35,7 @@
     <w ref="6.49.10" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="6.49.11" lemma="insero2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">Inserta</w>
     <w ref="6.49.11" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
-    <w ana="#anus #culus #metaphore #ficus" ref="6.49.11" lemma="ficus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">ficus</w>
+    <w ana="#culus #ficus #metaphore" ref="6.49.11" lemma="ficus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">ficus</w>
     <w ref="6.49.11" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
     <w ref="6.49.11" lemma="cupressus" pos="NOMcom" msd="Case=Abl|Numb=Sing">cupressu</w>
     <w ref="6.49.11" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

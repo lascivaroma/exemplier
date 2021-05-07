@@ -1,4 +1,4 @@
-<div type="fragment" ana="#anus #culus">
+<div type="fragment" ana="#culus">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="V.4" lemma="praeterea" pos="ADV" msd="Deg=Pos">praeterea</w>
     <w ref="V.4" lemma="sicut1" pos="ADVrel" msd="MORPH=empty">sicut</w>
     <w ref="V.4" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
-    <w ana="#anus #culus" ref="V.4" lemma="podex" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
+    <w ana="#culus" ref="V.4" lemma="podex" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
     <w ref="V.4" lemma="uel2" pos="CONcoo" msd="MORPH=empty">uel</w>
     <w ref="V.4" lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Plur">feminarum</w>
     <w ref="V.4" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>

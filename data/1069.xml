@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #male #futuo #actor">
+<div type="fragment" ana="#acte #actor #fututio #male">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -41,7 +41,7 @@
     <w ref="148.8" lemma="attero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Adterit</w>
     <w ref="148.8" lemma="assiduus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">adsiduo</w>
     <w ref="148.8" lemma="penis" pos="NOMcom" msd="Case=Abl|Numb=Sing">pene</w>
-    <w ana="#acte #male #futuo #actor" ref="148.8" lemma="fututor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fututor</w>
+    <w ana="#acte #actor #fututio #male" ref="148.8" lemma="fututor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fututor</w>
     <w ref="148.8" lemma="hebes" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">hebes</w>
     <w ref="148.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
   </quote>

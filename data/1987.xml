@@ -1,4 +1,4 @@
-<div type="fragment" ana="#acte #metonymie #concomitant">
+<div type="fragment" ana="#acte #concomitant #metonymie">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -18,7 +18,7 @@
     <w ref="4.1192" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>
     <w ref="4.1192" lemma="semper" pos="ADV" msd="Deg=Pos">semper</w>
     <w ref="4.1192" lemma="fictus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">ficto</w>
-    <w ana="#acte #metonymie #concomitant" ref="4.1192" lemma="suspiro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">suspirat</w>
+    <w ana="#acte #concomitant #metonymie" ref="4.1192" lemma="suspiro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">suspirat</w>
     <w ref="4.1192" lemma="amor" pos="NOMcom" msd="Case=Abl|Numb=Sing">amore</w>
   </quote>
 </div>

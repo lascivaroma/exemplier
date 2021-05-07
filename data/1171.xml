@@ -1,4 +1,4 @@
-<div type="fragment" ana="#metaphore #acte #manger">
+<div type="fragment" ana="#acte #manger #metaphore">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -27,7 +27,7 @@
     <w ref="80.6" lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
     <w ref="80.6" lemma="medius" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">medii</w>
     <w ref="80.6" lemma="tentus" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem">tenta</w>
-    <w ana="#metaphore #acte #manger" ref="80.6" lemma="uoro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">vorare</w>
+    <w ana="#acte #manger #metaphore" ref="80.6" lemma="uoro" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">vorare</w>
     <w ref="80.6" lemma="uir" pos="NOMcom" msd="Case=Gen|Numb=Plur">viri</w>
     <w ref="80.6" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
   </quote>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #mentula #voisinage #copulation #desir">
+<div type="fragment" ana="#adjoiningParts #copulation #desir #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -19,7 +19,7 @@
         <w lemma="attero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">attritus</w>
         <w lemma="Catinensis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">Catinensi</w>
         <w lemma="pumex" pos="NOMcom" msd="Case=Abl|Numb=Sing">pumice</w>
-        <w lemma="lumbus" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #voisinage #copulation #desir">lumbum</w>
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#adjoiningParts #copulation #desir #euphemism #male #mentula">lumbum</w>
         <w lemma="squaleo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">squalentis</w>
         <w lemma="traduco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">traducit</w>
         <w lemma="auus" pos="NOMcom" msd="Case=Acc|Numb=Plur">avos</w>

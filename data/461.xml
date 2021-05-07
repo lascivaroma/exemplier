@@ -1,4 +1,4 @@
-<div type="fragment" ana="#field #female #cunnus #metaphore">
+<div type="fragment" ana="#cunnus #female #field #metaphore">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -16,7 +16,7 @@
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi006.perseus-lat2:922">
         <w lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
         <w lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">illum</w>
-        <w ana="#field" lemma="saltus2" pos="NOMcom" msd="Case=Acc|Numb=Sing">saltum</w>
+        <w ana="#cunnus #female #field #metaphore" lemma="saltus2" pos="NOMcom" msd="Case=Acc|Numb=Sing">saltum</w>
         <w lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">video</w>
         <w lemma="obsaepio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=SupU|Voice=Act">opsaeptum</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

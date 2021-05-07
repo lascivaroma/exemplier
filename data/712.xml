@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #womb">
+<div type="fragment" ana="#cunnus #female #womb">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -44,7 +44,7 @@
     <w ref="7.29" lemma="manus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">manu</w>
     <w ref="7.29" lemma="deduco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">deducere</w>
     <w ref="7.29" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
-    <w ana="#female #cunnus #womb" ref="7.29" lemma="uolua" pos="NOMcom" msd="Case=Abl|Numb=Sing">volva</w>
+    <w ana="#cunnus #female #womb" ref="7.29" lemma="uolua" pos="NOMcom" msd="Case=Abl|Numb=Sing">volva</w>
     <w ref="7.29" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="7.29" lemma="totus" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascNeut">totumque</w>
     <w ref="7.29" lemma="que" pos="CON" msd="MORPH=empty">{totumque}</w>

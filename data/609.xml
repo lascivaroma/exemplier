@@ -1,4 +1,4 @@
-<div type="fragment" ana="#female #cunnus #labia">
+<div type="fragment" ana="#cunnus #female #labia">
   <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -23,7 +23,7 @@
     <w ref="I.21" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="I.21" lemma="exter" pos="ADV" msd="Case=Nom|Gend=Neut|Deg=Comp">exterius</w>
     <w ref="I.21" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
-    <w ana="#female #cunnus #labia" ref="I.21" lemma="fibra" pos="NOMcom" msd="Case=Dat|Numb=Plur">fibris</w>
+    <w ana="#cunnus #female #labia" ref="I.21" lemma="fibra" pos="NOMcom" msd="Case=Dat|Numb=Plur">fibris</w>
     <w ref="I.21" lemma="annecto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">adnexa</w>
     <w ref="I.21" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="I.21" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">quas</w>

@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #specialisation #erection  #euphemism">
+<div type="fragment" ana="#composite #erection #euphemism #male #specialisation">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -14,13 +14,13 @@
         <idno type="CTS_URN">urn:cts:latinLit:phi1294.phi002.perseus-lat2</idno>
     </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:6.71.3-6.71.4">
-        <w lemma="tendo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act" ana="#male #specialisation #erection  #euphemism">Tendere</w>
+        <w lemma="tendo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act" ana="#composite #erection #euphemism #male #specialisation">Tendere</w>
         <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
         <w lemma="tremulus3" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">tremulum</w>
         <w lemma="Pelias" pos="NOMpro" msd="Case=Acc|Numb=Sing">Pelian</w>
         <w lemma="Hecuba" pos="NOMpro" msd="Case=Gen|Numb=Sing">Hecubaeque</w>
         <w lemma="que" pos="CON" msd="MORPH=empty">{Hecubaeque}</w>
-        <w lemma="maritus1" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #specialisation #erection  #euphemism">maritum</w>
+        <w lemma="maritus1" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#composite #erection #euphemism #male #specialisation">maritum</w>
         <w lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">posset</w>
     </quote>
  </div>

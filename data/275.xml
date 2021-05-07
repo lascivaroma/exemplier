@@ -1,4 +1,4 @@
-<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#aidoion #euphemism #male #mentula">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="ne3" pos="ADVneg" msd="MORPH=empty">ne</w>
         <w lemma="uelamen" pos="NOMcom" msd="Case=Acc|Numb=Sing">velamen</w>
         <w lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>
-        <w lemma="secreto" pos="ADV" msd="Numb=Sing|Deg=Pos" ana="#male #euphemisms #aidoion">secreto</w>
+        <w lemma="secreto" pos="ADV" msd="Numb=Sing|Deg=Pos" ana="#aidoion #euphemism #male #mentula">secreto</w>
         <w lemma="membrum" pos="NOMcom" msd="Case=Gen|Numb=Plur">membrorum</w>
         <w lemma="sufficio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">sufficiens</w>
         <w lemma="retineo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">retinere</w>

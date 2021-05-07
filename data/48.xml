@@ -1,4 +1,4 @@
-<div type="fragment" ana="#femal #anatomie #clitoris">
+<div type="fragment" ana="#anatomie #clitoris #female #male">
     <bibl ref="#adams">
         <author>J. N. Adams</author>,
         <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
@@ -17,7 +17,7 @@
         <w lemma="barbatus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">barbato</w>
         <w lemma="macer" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">macer</w>
         <w lemma="eminens" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com">eminente</w>
-        <w lemma="nasus" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #anatomie">naso</w>
+        <w lemma="nasus" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#anatomie #clitoris #female #male">naso</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
 <note>Ici nasus == clitoris</note>
