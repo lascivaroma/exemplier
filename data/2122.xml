@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
-  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>1.2.2-1.2.2</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:1.2.2-1.2.2" type="section">
+<div type="fragment" ana="#acte #metonymie #violence">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">198</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Sénèque le Père</persName> [<persName xml:lang="eng">Seneca, Lucius Annaeus, ca. 55 B.C.-ca. 39 A.D. (Seneca the Elder)</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/23497389/</idno><idno type="LC">n82-166595</idno>
+        </author>,
+        <title xml:lang="lat">Controuersiae / Controversiae</title>,
+        <biblScope unit="ref">1.2.2</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1014.phi001.perseus-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:1.2.2" type="section">
     <w ref="1.2.2" lemma="“" pos="PUNC" msd="MORPH=empty">“</w>
     <w ref="1.2.2" lemma="uis" pos="NOMcom" msd="Case=Acc|Numb=Sing">uim</w>
     <w ana="#acte #metonymie #violence" ref="1.2.2" lemma="affero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">adferebat</w>

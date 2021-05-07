@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
-  <bibl ref="#adams"><author>Claudian</author>, <title>Panegyricus dictus Manlio Theodoro consuli</title>, <biblscope>1.303-1.306</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0089.stoa013.perseus-lat2:1.303-1.306" type="line">
+<div type="fragment" ana="#acte #metonymie #violence">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">198</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Claudien</persName> [<persName xml:lang="eng">Claudianus, Claudius.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/246763674/</idno><idno type="LC">n80-98606</idno>
+        </author>,
+        <title xml:lang="lat">De Consulatu Fl. Mallii Theodori / Panegyricus dictus Manlio Theodoro consuli</title>,
+        <biblScope unit="ref">1.303-1.305</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0089.stoa013.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0089.stoa013.perseus-lat2:1.303-1.305" type="line">
     <w ref="1.303" lemma="obuius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">obvia</w>
     <w ref="1.303" lemma="fulmineus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Masc|Deg=Pos">fulminei</w>
     <w ref="1.303" lemma="propero" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">properent</w>

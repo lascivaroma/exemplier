@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
-  <bibl ref="#adams"><author>Juvenal</author>, <title>Satires</title>, <biblscope>6.448-6.452</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.658.3ff.</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.448-6.452" type="line">
+<div type="fragment" ana="#acte #metonymie #join">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">179</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Juvénal</persName> [<persName xml:lang="eng">Juvenal</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/83985148/</idno><idno type="LC">n79-60985</idno>
+        </author>,
+        <title xml:lang="lat">Saturae </title>,
+        <biblScope unit="ref">6.448</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1276.phi001.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.658.3ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.448" type="line">
     <w ref="6.448" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="6.448" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">habeat</w>
     <w ref="6.448" lemma="matrona" pos="NOMcom" msd="Case=Nom|Numb=Sing">matrona</w>

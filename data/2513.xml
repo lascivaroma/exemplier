@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:92" ana="#adjoining_parts #kidneys #euphemism #female">
-  <bibl ref="#adams"><author>Anthologia Latina</author>, <title>Anthologia Latina</title>, <biblscope>034.1-034.2</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.2322.36ff.</biblscope></bibl>
+<div type="fragment" ana="#adjoining_parts #kidneys #euphemism #female">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">92</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+             
+            <idno type="VIAF">https://viaf.org/viaf/180649646/</idno><idno type="LC">nan</idno>
+        </author>,
+        <title xml:lang="lat">Anthologie Latine</title>,
+        <biblScope unit="ref">034.1-034.2</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.2322.36ff.</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:034.1-034.2" type="line">
     <w ref="034.1" lemma="in" pos="PRE" msd="MORPH=empty">In</w>
     <w ana="#adjoining_parts #kidneys #euphemism #female" ref="034.1" lemma="gremium" pos="NOMcom" msd="Case=Abl|Numb=Sing">gremio</w>

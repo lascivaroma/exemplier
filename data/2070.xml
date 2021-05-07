@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
-  <bibl ref="#adams"><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblscope>2.32.57-2.32.60</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.32.57-2.32.60" type="line">
+<div type="fragment" ana="#acte #metonymie #violence">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">198</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Properce</persName> [<persName xml:lang="eng">Propertius, Sextus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100907186/</idno><idno type="LC">n79-42233</idno>
+        </author>,
+        <title xml:lang="lat">Elegiae</title>,
+        <biblScope unit="ref">2.32.57-2.32.58</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0620.phi001.perseus-lat3</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.32.57-2.32.58" type="line">
     <w ref="2.32.57" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
     <w ref="2.32.57" lemma="quondam" pos="ADV" msd="Deg=Pos">quondam</w>
     <w ref="2.32.57" lemma="magnus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">magni</w>

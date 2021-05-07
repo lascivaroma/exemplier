@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:105" ana="">
-  <bibl><author>Vulgate</author>, <title>James</title>, <biblScope>46.3-46.3</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0031.tlg020.obi-lat1:46.3-46.3" type="verse">
+<div type="fragment" ana="">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">105</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Vulgate</persName> [<persName xml:lang="eng">Vulgate</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/208174761/</idno><idno type="LC">nan</idno>
+        </author>,
+        <title xml:lang="lat">Jean</title>,
+        <biblScope unit="ref">46.3</biblScope>
+        <idno type="CTS_URN">urn:cts:greekLit:tlg0031.tlg020.obi-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:greekLit:tlg0031.tlg020.obi-lat1:46.3" type="verse">
     <w ref="46.3" lemma="audio" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">audite</w>
     <w ref="46.3" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
     <w ref="46.3" lemma="domus" pos="NOMcom" msd="Case=Voc|Numb=Sing">domus</w>

@@ -1,4 +1,18 @@
-<div type="fragment" corresp="adams:84" ana="#field #female #cunnus #metaphore">
+<div type="fragment" ana="#field #female #cunnus #metaphore">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">84</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Plaute</persName> [<persName xml:lang="eng">Plautus, Titus Maccius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/66462281/</idno><idno type="LC">n80-14980</idno>
+        </author>,
+        <title xml:lang="lat">Casina </title>,
+        <biblScope unit="ref">922</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0119.phi006.perseus-lat2</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi006.perseus-lat2:922">
         <w lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
         <w lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">illum</w>

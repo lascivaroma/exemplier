@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:163" ana="#metaphore #acte #devoir #service #active">
-  <bibl><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblscope>2.22a.23-2.22a.24</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.22a.23-2.22a.24" type="line">
+<div type="fragment" ana="#metaphore #acte #devoir #service #active">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">163</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Properce</persName> [<persName xml:lang="eng">Propertius, Sextus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100907186/</idno><idno type="LC">n79-42233</idno>
+        </author>,
+        <title xml:lang="lat">Elegiae</title>,
+        <biblScope unit="ref">2.22a.23-2.22a.24</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0620.phi001.perseus-lat3</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.22a.23-2.22a.24" type="line">
     <w ref="2.22a.23" lemma="saepe" pos="ADV" msd="Deg=Pos">saepe</w>
     <w ref="2.22a.23" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="2.22a.23" lemma="experior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">experta</w>

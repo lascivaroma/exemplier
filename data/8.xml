@@ -1,5 +1,19 @@
-<div  type="fragment" corresp="adams:30" ana="#male #personnification">
-    <quote xml:lang="lat" source="Mulomedicina Chironis 731">
+<div type="fragment" ana="#male #personnification">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">30</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Pseudo-Chiron</persName> [<persName xml:lang="eng">Chiro Centaurus, pseud (Chiron)</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/88760546</idno><idno type="LC">nan</idno>
+        </author>,
+        <title xml:lang="lat">Mulomedicina Chironis</title>,
+        <biblScope unit="ref">731</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0085d.stoa001</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0085d.stoa001:731">
         <w lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
         <w lemma="praecido2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">praecisus</w>
         <w lemma="intus1" pos="ADV" msd="Deg=Pos">intus</w>

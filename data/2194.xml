@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:203" ana="#acte #euphemism #ellipse #res">
-  <bibl ref="#adams"><author>Lucretius</author>, <title>De Rerum Natura</title>, <biblscope>2.168-2.174</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:2.168-2.174" type="line">
+<div type="fragment" ana="#acte #euphemism #ellipse #res">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">203</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Lucrèce</persName> [<persName xml:lang="eng">Lucretius Carus, Titus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/106388020/</idno><idno type="LC">n79-33010</idno>
+        </author>,
+        <title xml:lang="lat">De Rerum Natura</title>,
+        <biblScope unit="ref">2.173-2.174</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0550.phi001.perseus-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:2.173-2.174" type="line">
     <w ref="2.173" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ana="#acte #euphemism #ellipse #res" ref="2.173" lemma="res" pos="NOMcom" msd="Case=Nom|Numb=Sing">res</w>
     <w ref="2.173" lemma="per" pos="PRE" msd="MORPH=empty">per</w>

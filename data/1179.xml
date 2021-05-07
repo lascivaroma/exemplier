@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:141" ana="#metaphore #acte #manger">
-  <bibl><author>Ausonius, Decimus Magnus</author>, <title>Epigrammaton Liber</title>, <biblScope>87.1-87.1</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:87.1-87.1" type="line">
+<div type="fragment" ana="#metaphore #acte #manger">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">141</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ausone</persName> [<persName xml:lang="eng">Ausonius, Decimus Magnus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/109786483/</idno><idno type="LC">n80-128611</idno>
+        </author>,
+        <title xml:lang="lat">Epigrammata / Epigrammaton Liber</title>,
+        <biblScope unit="ref">87.1</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0045.stoa010.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:87.1" type="line">
     <w ref="87.1" lemma="eunus" pos="ADJcar" msd="Case=Nom|Numb=Sing|Gend=Masc">EUNUS</w>
     <w ref="87.1" lemma="syriscus" pos="NOMcom" msd="Case=Nom|Numb=Sing">Syriscus</w>
     <w ref="87.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

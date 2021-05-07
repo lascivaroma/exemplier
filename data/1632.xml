@@ -1,7 +1,20 @@
-<div type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
-  <bibl ref="#adams"><author>Marcellus Empiricus</author>, <title>De medicamentis liber</title>, <biblscope>book.33.70-book.33.70</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1:book.33.70-book.33.70" type="part">
+<div type="fragment" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">179</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Marcellus Empiricus</persName> [<persName xml:lang="eng">Marcellus, Empiricus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/196567001/</idno><idno type="LC">n83-218012</idno>
+        </author>,
+        <title xml:lang="lat">De medicamentis liber</title>,
+        <biblScope unit="ref">book.33.70</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1:book.33.70" type="part">
     <w ref="book.33.70" lemma="semen1" pos="NOMcom" msd="Case=Acc|Numb=Sing">Semen</w>
     <w ref="book.33.70" lemma="lactuca" pos="NOMcom" msd="Case=Gen|Numb=Sing">lactucae</w>
     <w ref="book.33.70" lemma="tero" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut">tritum</w>

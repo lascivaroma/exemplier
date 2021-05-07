@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:52" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">52</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Scribonius Largus</persName> 
+            <idno type="VIAF">nan</idno><idno type="LC">nan</idno>
+        </author>,
+        <title xml:lang="lat">nan</title>,
+        <biblScope unit="ref">234</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1011.phi001</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1011.phi001:234">
         <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
         <w lemma="ueretrum" pos="NOMcom" msd="Case=Gen|Numb=Sing" ana="#male #euphemisms #aidoion">ueretri</w>

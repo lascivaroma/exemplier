@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
-  <bibl ref="#adams"><author>Apuleius</author>, <title>Metamorphoses</title>, <biblscope>8.7-8.7</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:8.7-8.7" type="chapter">
+<div type="fragment" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">196</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Apulée</persName> [<persName xml:lang="eng">Apuleius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/32115433</idno><idno type="LC">n80-126286</idno>
+        </author>,
+        <title xml:lang="lat">Metamorphoses</title>,
+        <biblScope unit="ref">8.7</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1212.phi002.perseus-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:8.7" type="chapter">
     <w ref="8.7" lemma="eiulatus" pos="NOMcom" msd="Case=Acc|Numb=Sing">eiulatum</w>
     <w ref="8.7" lemma="coerceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">coercere</w>
     <w ref="8.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

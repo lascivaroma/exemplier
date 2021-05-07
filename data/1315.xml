@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:158" ana="#metaphore #acte #lutter #sebattre">
-  <bibl><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblScope>2.15.3-2.15.4</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.15.3-2.15.4" type="line">
+<div type="fragment" ana="#metaphore #acte #lutter #sebattre">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">158</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Properce</persName> [<persName xml:lang="eng">Propertius, Sextus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100907186/</idno><idno type="LC">n79-42233</idno>
+        </author>,
+        <title xml:lang="lat">Elegiae</title>,
+        <biblScope unit="ref">2.15.3-2.15.4</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0620.phi001.perseus-lat3</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.15.3-2.15.4" type="line">
     <w ref="2.15.3" lemma="quam2" pos="ADVint" msd="MORPH=empty">quam</w>
     <w ref="2.15.3" lemma="multus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">multa</w>
     <w ref="2.15.3" lemma="appono" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">apposita</w>

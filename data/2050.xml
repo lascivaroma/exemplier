@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
-  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>Phormio</title>, <biblscope>413-414</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL I.241.68ff.</biblscope></bibl>
+<div type="fragment" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">196</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Térence</persName> [<persName xml:lang="eng">Terence</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/5940148947872254950006/</idno><idno type="LC">n79-66715</idno>
+        </author>,
+        <title xml:lang="lat">Phormio </title>,
+        <biblScope unit="ref">413-414</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0134.phi004.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL I.241.68ff.</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi004.perseus-lat2:413-414" type="line">
     <w ref="413" lemma="ita" pos="ADV" msd="Deg=Pos">Itane</w>
     <w ref="413" lemma="ne2" pos="ADV" msd="MORPH=empty">{Itane}</w>

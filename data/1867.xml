@@ -1,7 +1,19 @@
-<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
-  <bibl ref="#adams"><author>Marcellus Empiricus</author>, <title>De medicamentis liber</title>, <biblscope>book.33.65-book.33.65</biblscope></bibl>
-
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1:book.33.65-book.33.65" type="part">
+<div type="fragment" ana="#acte #metonymie #amo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">188</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Marcellus Empiricus</persName> [<persName xml:lang="eng">Marcellus, Empiricus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/196567001/</idno><idno type="LC">n83-218012</idno>
+        </author>,
+        <title xml:lang="lat">De medicamentis liber</title>,
+        <biblScope unit="ref">book.33.65</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1:book.33.65" type="part">
     <w ref="book.33.65" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
     <w ref="book.33.65" lemma="quis2" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
     <w ref="book.33.65" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>

@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:56" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">56</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Pseudo-Cicéron</persName> [<persName xml:lang="eng">Pseudo-Cicero</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/78769600/</idno><idno type="LC">n79-32166</idno>
+        </author>,
+        <title xml:lang="lat">In Sallustium (frag.)</title>,
+        <biblScope unit="ref">8.22</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0474.phi074</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi074:8.22">
         <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
         <w lemma="is" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">ea</w>

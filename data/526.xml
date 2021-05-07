@@ -1,4 +1,18 @@
-<div type="fragment" corresp="adams:91" ana="#sinus #euphemism #female #cunnus">
+<div type="fragment" ana="#sinus #euphemism #female #cunnus">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">91</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Caelius Aurelianus</persName> [<persName xml:lang="eng">Caelius Aurelianus (Aurelianus, Caelius)</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/102322199</idno><idno type="LC">n85-800480</idno>
+        </author>,
+        <title xml:lang="lat">Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>,
+        <biblScope unit="ref">II.124</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.124">
         <w lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
         <w lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>

@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #have">
-  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>130-130</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:130-130" type="section">
+<div type="fragment" ana="#acte #metonymie #have">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">185</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Pétrone</persName> [<persName xml:lang="eng">Petronius Arbiter </persName>]
+            <idno type="VIAF">https://viaf.org/viaf/95155909/</idno><idno type="LC">n79-142770</idno>
+        </author>,
+        <title xml:lang="lat">Satyricon / Satirae</title>,
+        <biblScope unit="ref">130</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0972.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:130" type="section">
     <w ref="130" lemma="tamquam2" pos="CONsub" msd="MORPH=empty">tanquam</w>
     <w ref="130" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ea</w>
     <w ref="130" lemma="magnus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">maior</w>

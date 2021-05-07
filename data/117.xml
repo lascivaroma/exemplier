@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:45" ana="#male #specialisation #euphemism #mentula">
+<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">45</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Pomponius Porphyrion</persName> [<persName xml:lang="eng">Pomponius Porphyrio, 3rd cent.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/68839172/</idno><idno type="LC">nr97-44688</idno>
+        </author>,
+        <title xml:lang="lat">Commentum in Horati Sermones</title>,
+        <biblScope unit="ref">1.5.100</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1512.phi005</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1512.phi005:1.5.100">
         <w lemma="urbanus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Sup">Vrbanissimum</w>
         <w lemma="nomen" pos="NOMcom" msd="Case=Acc|Numb=Sing">nomen</w>

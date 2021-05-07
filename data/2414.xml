@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:14" ana="#mentula #metaphore #pointu #armes">
-  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>1.9.25-1.9.26</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.9.25-1.9.26" type="line">
+<div type="fragment" ana="#mentula #metaphore #pointu #armes">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">14</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ovide</persName> [<persName xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/88342447/</idno><idno type="LC">n79-41738</idno>
+        </author>,
+        <title xml:lang="lat">Amores </title>,
+        <biblScope unit="ref">1.9.25-1.9.26</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0959.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.9.25-1.9.26" type="line">
     <w ref="1.9.25" lemma="nempe" pos="ADV" msd="Deg=Pos">Nempe</w>
     <w ref="1.9.25" lemma="maritus1" pos="NOMcom" msd="Case=Gen|Numb=Plur">maritorum</w>
     <w ref="1.9.25" lemma="somnus" pos="NOMcom" msd="Case=Abl|Numb=Plur">somnis</w>

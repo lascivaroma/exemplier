@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:160" ana="#metaphore #acte #epouser #noces">
-  <bibl><author>P. Vergilius Maro</author>, <title>Georgics</title>, <biblScope>3.56-3.62</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi002.perseus-lat2:3.56-3.62" type="line">
+<div type="fragment" ana="#metaphore #acte #epouser #noces">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">160</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Virgile</persName> [<persName xml:lang="eng">Vergil/Virgil</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/8194433/</idno><idno type="LC">n79-14062</idno>
+        </author>,
+        <title xml:lang="lat">Georgica</title>,
+        <biblScope unit="ref">3.60-3.61</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0690.phi002.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi002.perseus-lat2:3.60-3.61" type="line">
     <w ref="3.60" lemma="aetas" pos="NOMcom" msd="Case=Nom|Numb=Sing">Aetas</w>
     <w ref="3.60" lemma="lucina" pos="NOMcom" msd="Case=Acc|Numb=Sing">Lucinam</w>
     <w ref="3.60" lemma="iustus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">iustosque</w>

@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:159" ana="#metaphore #acte #tuer #mourir">
-  <bibl><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblScope>79-79</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:79-79" type="section">
+<div type="fragment" ana="#metaphore #acte #tuer #mourir">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">159</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Pétrone</persName> [<persName xml:lang="eng">Petronius Arbiter </persName>]
+            <idno type="VIAF">https://viaf.org/viaf/95155909/</idno><idno type="LC">n79-142770</idno>
+        </author>,
+        <title xml:lang="lat">Satyricon / Satirae</title>,
+        <biblScope unit="ref">79</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0972.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:79" type="section">
     <w ref="79" lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">Ego</w>
     <w ref="79" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
     <w ana="#metaphore #acte #tuer #mourir" ref="79" lemma="pereo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">perire</w>

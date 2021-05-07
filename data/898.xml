@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:112" ana="#anus #culus">
-  <bibl><author>Horace</author>, <title>Epodi</title>, <biblScope>8.1-8.6</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi003.perseus-lat2:8.1-8.6" type="line">
+<div type="fragment" ana="#anus #culus">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">112</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Horace</persName> [<persName xml:lang="eng">Horace</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100227522/</idno><idno type="LC">n79-81354</idno>
+        </author>,
+        <title xml:lang="lat">Epodi </title>,
+        <biblScope unit="ref">8.1-8.6</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0893.phi003.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi003.perseus-lat2:8.1-8.6" type="line">
     <w ref="8.1" lemma="rogo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Rogare</w>
     <w ref="8.1" lemma="longus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">longo</w>
     <w ref="8.1" lemma="putidus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">putidam</w>

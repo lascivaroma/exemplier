@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:149" ana="#metaphore #acte #couper #tailler">
-  <bibl><author>Plautus, Titus Maccius</author>, <title>Curculio</title>, <biblScope>401-401</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi008.perseus-lat2:401-401" type="line">
+<div type="fragment" ana="#metaphore #acte #couper #tailler">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">149</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Plaute</persName> [<persName xml:lang="eng">Plautus, Titus Maccius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/66462281/</idno><idno type="LC">n80-14980</idno>
+        </author>,
+        <title xml:lang="lat">Curculio </title>,
+        <biblScope unit="ref">401</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0119.phi008.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi008.perseus-lat2:401" type="line">
     <w ref="401" lemma="licet" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Licetne</w>
     <w ref="401" lemma="ne2" pos="ADV" msd="MORPH=empty">{Licetne}</w>
     <w ana="#metaphore #acte #couper #tailler" ref="401" lemma="inforo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ínforare</w>

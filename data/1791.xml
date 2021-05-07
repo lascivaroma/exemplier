@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #actif">
-  <bibl ref="#adams"><author>Prologi historiarum Philippicarum Pompei Trogi</author>, <title>Epitoma historiarum Philippicarum</title>, <biblscope>7.3.4-7.3.4</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.774.47ff.</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0167.stoa001.digilibLT-lat1:7.3.4-7.3.4" type="section">
+<div type="fragment" ana="#acte #metonymie #toucher #actif">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">185</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Justin</persName> [<persName xml:lang="eng">Justinus, Marcus Junianus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/24616821/</idno><idno type="LC">n82-43687</idno>
+        </author>,
+        <title xml:lang="lat">Epitome Historiarum Philippicarum</title>,
+        <biblScope unit="ref">7.3.4</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0167.stoa001.digilibLT-lat1</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.774.47ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0167.stoa001.digilibLT-lat1:7.3.4" type="section">
     <w ref="7.3.4" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">Quae</w>
     <w ref="7.3.4" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
     <w ref="7.3.4" lemma="uenio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">venerunt</w>

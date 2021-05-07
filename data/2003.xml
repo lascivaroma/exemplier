@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences">
-  <bibl ref="#adams"><author>Scribonius Largus</author>, <title>Compositions Médicales</title>, <biblscope>18-18</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1011.phi001.lascivaroma-lat1:18-18" type="section">
+<div type="fragment" ana="#acte #metonymie #consequences">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">195</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Scribonius Largus</persName> [<persName xml:lang="eng">Scribonius Largus, ca. 1-ca. 50</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100210100/</idno><idno type="LC">n82-239358</idno>
+        </author>,
+        <title xml:lang="lat">Compositiones / Compositiones Medcamentorum</title>,
+        <biblScope unit="ref">18</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1011.phi001.lascivaroma-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1011.phi001.lascivaroma-lat1:18" type="section">
     <w ref="18" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Plur">viros</w>
     <w ref="18" lemma="facile" pos="ADV" msd="Deg=Comp">facilius</w>
     <w ref="18" lemma="mulier" pos="NOMcom" msd="Case=Abl|Numb=Plur">mulieribus</w>

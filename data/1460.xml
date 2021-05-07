@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aller_en_vue_de #f2m">
-  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>1.71.3-1.71.4</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.71.3-1.71.4" type="line">
+<div type="fragment" ana="#acte #metonymie #aller_en_vue_de #f2m">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">175</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Martial</persName> [<persName xml:lang="eng">Martial</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/8099277/</idno><idno type="LC">n82-13667</idno>
+        </author>,
+        <title xml:lang="lat">Epigrammata / Epigrams (Book 1-12)</title>,
+        <biblScope unit="ref">1.71.3-1.71.4</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1294.phi002.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:1.71.3-1.71.4" type="line">
     <w ref="1.71.3" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">Omnis</w>
     <w ref="1.71.3" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
     <w ref="1.71.3" lemma="infundo2" pos="NOMcom" msd="Case=Abl|Numb=Sing|Gend=MascNeut">infuso</w>

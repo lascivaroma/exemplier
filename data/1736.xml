@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:183" ana="#acte #metonymie #rub #masturbation">
-  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>82.33-82.34</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:82.33-82.34" type="line">
+<div type="fragment" ana="#acte #metonymie #rub #masturbation">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">183</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Priapées</persName> [<persName xml:lang="eng">Priapea</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/184679300/</idno><idno type="LC">n79-056813</idno>
+        </author>,
+        <title xml:lang="lat">Priapea</title>,
+        <biblScope unit="ref">82.33-82.34</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:82.33-82.34" type="line">
     <w ref="82.33" lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">Licebit</w>
     <w ref="82.33" lemma="aeger2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">aeger</w>
     <w ref="82.33" lemma="anguis" pos="NOMcom" msd="Case=Abl|Numb=Sing">angue</w>

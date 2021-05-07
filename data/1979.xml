@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #concomitant">
-  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>6.6-6.11</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:6.6-6.11" type="line">
+<div type="fragment" ana="#acte #metonymie #concomitant">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">195</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Catulle</persName> [<persName xml:lang="eng">Catullus, Gaius Valerius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100218993/</idno><idno type="LC">n79-6943</idno>
+        </author>,
+        <title xml:lang="lat">Carmina</title>,
+        <biblScope unit="ref">6.10-6.11</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0472.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:6.10-6.11" type="line">
     <w ref="6.10" lemma="tremulus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">tremulique</w>
     <w ref="6.10" lemma="que" pos="CON" msd="MORPH=empty">{tremulique}</w>
     <w ref="6.10" lemma="quatio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">quassa</w>

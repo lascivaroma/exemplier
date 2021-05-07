@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:200" ana="#acte #metonymie #insulter">
-  <bibl ref="#adams"><author>Tacitus, Cornelius</author>, <title>Annales</title>, <biblscope>13.17-13.17</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1351.phi005.lascivaroma-lat1:13.17-13.17" type="chapter">
+<div type="fragment" ana="#acte #metonymie #insulter">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">200</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Tacitus, Cornelius</persName> [<persName xml:lang="eng">Tacitus, Cornelius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100226923/</idno><idno type="LC">n80-145600</idno>
+        </author>,
+        <title xml:lang="lat">Annales / Ab excessu divi Augusti</title>,
+        <biblScope unit="ref">13.17</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1351.phi005.lascivaroma-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1351.phi005.lascivaroma-lat1:13.17" type="chapter">
     <w ref="13.17" lemma="trado" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tradunt</w>
     <w ref="13.17" lemma="plerique" pos="NOMcom" msd="Case=Nom|Numb=Plur|Gend=Masc">plerique</w>
     <w ref="13.17" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=MascNeut">eorum</w>

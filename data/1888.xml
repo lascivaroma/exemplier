@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
-  <bibl ref="#adams"><author>Virgil</author>, <title>Georgics</title>, <biblscope>3.97-3.100</biblscope></bibl>
-  <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>12</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi002.perseus-lat2:3.97-3.100" type="line">
+<div type="fragment" ana="#acte #metonymie #amo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">188</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Virgile</persName> [<persName xml:lang="eng">Vergil/Virgil</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/8194433/</idno><idno type="LC">n79-14062</idno>
+        </author>,
+        <title xml:lang="lat">Georgica</title>,
+        <biblScope unit="ref">3.97</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0690.phi002.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>12</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi002.perseus-lat2:3.97" type="line">
     <w ref="3.97" lemma="frigidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">frigidus</w>
     <w ref="3.97" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ana="#acte #metonymie #amo" ref="3.97" lemma="Uenus" pos="NOMpro" msd="Case=Acc|Numb=Sing">Venerem</w>

@@ -1,7 +1,20 @@
-<div type="fragment" corresp="adams:177" ana="#acte #metonymie #m2f #dormir_avec">
-  <bibl ref="#adams"><author>Cyprian Saint, Bishop of Carthage</author>, <title>Epistulae</title>, <biblscope>4.4-4.4</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.1.2030.1ff</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0104a.stoa012.opp-lat1:4.4-4.4" type="section">
+<div type="fragment" ana="#acte #metonymie #m2f #dormir_avec">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">177</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Cyprien</persName> [<persName xml:lang="eng">Cyprian, Saint, Bishop of Carthage</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100179090/</idno><idno type="LC">n80-2958</idno>
+        </author>,
+        <title xml:lang="lat">Epistolae</title>,
+        <biblScope unit="ref">4.4</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0104a.stoa012.opp-lat1</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.1.2030.1ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0104a.stoa012.opp-lat1:4.4" type="section">
     <w ref="4.4" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
     <w ref="4.4" lemma="idcirco" pos="ADV" msd="Deg=Pos">idcirco</w>
     <w ref="4.4" lemma="consulte" pos="ADV" msd="MORPH=empty">consulte</w>

@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
-  <bibl ref="#adams"><author>Lucretius</author>, <title>De Rerum Natura</title>, <biblscope>4.1192-4.1196</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.658.3ff.</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:4.1192-4.1196" type="line">
+<div type="fragment" ana="#acte #metonymie #join">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">179</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Lucrèce</persName> [<persName xml:lang="eng">Lucretius Carus, Titus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/106388020/</idno><idno type="LC">n79-33010</idno>
+        </author>,
+        <title xml:lang="lat">De Rerum Natura</title>,
+        <biblScope unit="ref">4.1192-4.1194</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0550.phi001.perseus-lat1</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.658.3ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:4.1192-4.1194" type="line">
     <w ref="4.1192" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
     <w ref="4.1192" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>
     <w ref="4.1192" lemma="semper" pos="ADV" msd="Deg=Pos">semper</w>

@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:30" ana="#male #personnification">
+<div type="fragment" ana="#male #personnification">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">30</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Pétrone</persName> [<persName xml:lang="eng">Petronius Arbiter </persName>]
+            <idno type="VIAF">https://viaf.org/viaf/95155909/</idno><idno type="LC">n79-142770</idno>
+        </author>,
+        <title xml:lang="lat">Satyricon / Satirae</title>,
+        <biblScope unit="ref">132.8</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0972.phi001</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001:132.8">
         <w lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#male #personnification">mentula</w>
         <w lemma="confugio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3" ana="#male #personnification">confugerat</w>

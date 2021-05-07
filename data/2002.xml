@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences">
-  <bibl ref="#adams"><author>Caius Iulius Hyginus</author>, <title>Fabvlae</title>, <biblscope>XXXIII.1-XXXIII.1</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1263.phi001.corpuscorporum-lat1:XXXIII.1-XXXIII.1" type="chapter">
+<div type="fragment" ana="#acte #metonymie #consequences">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">195</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Hygin</persName> [<persName xml:lang="eng">Hyginus, C. Julius.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100956061/</idno><idno type="LC">n84-175578</idno>
+        </author>,
+        <title xml:lang="lat">Fabulae (Genealogiae) / Fabellae</title>,
+        <biblScope unit="ref">XXXIII.1</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1263.phi001.corpuscorporum-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1263.phi001.corpuscorporum-lat1:XXXIII.1" type="chapter">
     <w ref="XXXIII.1" lemma="Hercules" pos="NOMpro" msd="Case=Nom|Numb=Sing">Hercules</w>
     <w ref="XXXIII.1" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="XXXIII.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>

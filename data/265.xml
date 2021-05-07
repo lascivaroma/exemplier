@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:56" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">56</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Augustin</persName> [<persName xml:lang="eng">Augustine, Saint, Bishop of Hippo</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/66806872/</idno><idno type="LC">n80-126290</idno>
+        </author>,
+        <title xml:lang="lat">De Ciutate Dei / De Civitate Dei</title>,
+        <biblScope unit="ref">7.21</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0040.stoa003.opp-lat3</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0040.stoa003.opp-lat3:7.21">
         <w lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Sing|Gend=Com">Cui</w>
         <w lemma="membrum" pos="NOMcom" msd="Case=Dat|Numb=Sing" ana="#male #euphemisms #aidoion">membro</w>

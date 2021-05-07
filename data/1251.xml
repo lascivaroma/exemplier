@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:151" ana="#metaphore #agriculture #creuser #acte">
-  <bibl><author>Juvenal</author>, <title>Satires</title>, <biblScope>9.45-9.49</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:9.45-9.49" type="line">
+<div type="fragment" ana="#metaphore #agriculture #creuser #acte">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">151</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Juvénal</persName> [<persName xml:lang="eng">Juvenal</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/83985148/</idno><idno type="LC">n79-60985</idno>
+        </author>,
+        <title xml:lang="lat">Saturae </title>,
+        <biblScope unit="ref">9.45-9.46</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1276.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:9.45-9.46" type="line">
     <w ref="9.45" lemma="seruus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">servus</w>
     <w ref="9.45" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">erit</w>
     <w ref="9.45" lemma="parum2" pos="ADV" msd="Deg=Comp">minus</w>

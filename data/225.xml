@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:52" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">52</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Varron</persName> [<persName xml:lang="eng">Varro, Marcus Terentius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100219311/</idno><idno type="LC">n79-60808</idno>
+        </author>,
+        <title xml:lang="lat">Menippeae </title>,
+        <biblScope unit="ref">282</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0684.phi011</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0684.phi011:282">
         <w lemma="deinde" pos="ADV" msd="Deg=Pos">dein</w>
         <w lemma="immitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">immittit</w>

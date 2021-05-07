@@ -1,4 +1,18 @@
-<div type="fragment" corresp="adams:96" ana="#fente #female #cunnus #misc">
+<div type="fragment" ana="#fente #female #cunnus #misc">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">96</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Claudien</persName> [<persName xml:lang="eng">Claudianus, Claudius.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/246763674/</idno><idno type="LC">n80-98606</idno>
+        </author>,
+        <title xml:lang="lat">Carmina Minora\Carminum minorum corpusculum</title>,
+        <biblScope unit="ref">43.6-43.8</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0089.stoa001.perseus-lat2</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0089.stoa001.perseus-lat2:43.6-43.8">
         <w lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
         <w lemma="spurcus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">spurcos</w>

@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:9" ana="#mentula">
-  <bibl ref="#adams"><author>Anthologia Latina</author>, <title>Anthologia Latina</title>, <biblscope>902.6-902.6</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:902.6-902.6" type="line">
+<div type="fragment" ana="#mentula">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">9</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+             
+            <idno type="VIAF">https://viaf.org/viaf/180649646/</idno><idno type="LC">nan</idno>
+        </author>,
+        <title xml:lang="lat">Anthologie Latine</title>,
+        <biblScope unit="ref">902.6</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:902.6" type="line">
     <w ref="902.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
     <w ref="902.6" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="902.6" lemma="laudo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">laudatur</w>

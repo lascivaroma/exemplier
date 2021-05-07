@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:54" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">54</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Pline le Jeune</persName> [<persName xml:lang="eng">Pliny the Younger</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/10638270/</idno><idno type="LC">n79-75182</idno>
+        </author>,
+        <title xml:lang="lat">Epistulae </title>,
+        <biblScope unit="ref">3.14.2</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1318.phi001.perseus-lat1</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1318.phi001.perseus-lat1:3.14.2">
         <w lemma="alius" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">Alius</w>
         <w lemma="faux" pos="NOMcom" msd="Case=Acc|Numb=Plur">fauces</w>

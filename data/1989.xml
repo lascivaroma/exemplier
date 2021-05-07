@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences">
-  <bibl ref="#adams"><author>Quintilian</author>, <title>Institutio Oratoria</title>, <biblscope>6.3.75-6.3.75</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1002.phi001.perseus-lat2:6.3.75-6.3.75" type="section">
+<div type="fragment" ana="#acte #metonymie #consequences">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">195</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Quintilien</persName> [<persName xml:lang="eng">Quintilian</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/34451872/</idno><idno type="LC">n80-46563</idno>
+        </author>,
+        <title xml:lang="lat">Institutio Oratoria / Institutiones Oratoriae</title>,
+        <biblScope unit="ref">6.3.75</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1002.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1002.phi001.perseus-lat2:6.3.75" type="section">
     <w ref="6.3.75" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
     <w ref="6.3.75" lemma="Cicero" pos="NOMpro" msd="Case=Nom|Numb=Sing">Cicero</w>
     <w ref="6.3.75" lemma="obiurgo" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">obiurgantibus</w>

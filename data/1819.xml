@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
-  <bibl ref="#adams"><author>Ovid</author>, <title>Metamorphoses</title>, <biblscope>9.483-9.484</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+<div type="fragment" ana="#acte #metonymie #amo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">188</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ovide</persName> [<persName xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/88342447/</idno><idno type="LC">n79-41738</idno>
+        </author>,
+        <title xml:lang="lat">Metamorphoses</title>,
+        <biblScope unit="ref">9.483-9.484</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0959.phi006.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:9.483-9.484" type="line">
     <w ref="9.483" lemma="quam2" pos="ADVint" msd="Gend=Fem">quam</w>
     <w ref="9.483" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>

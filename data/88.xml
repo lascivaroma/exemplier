@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:40" ana="#male #medical #metaphore #mentula">
+<div type="fragment" ana="#male #medical #metaphore #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">40</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Servius</persName> [<persName xml:lang="eng">Servius, 4th cent.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/10970700/</idno><idno type="LC">n82-221524</idno>
+        </author>,
+        <title xml:lang="lat">In Vergilii Aeneidos Libros </title>,
+        <biblScope unit="ref">1.151</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi2349.phi007</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi2349.phi007:1.151">
         <w lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
         <w lemma="proprie" pos="ADV" msd="Deg=Pos">proprie</w>

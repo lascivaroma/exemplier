@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
-  <bibl><author>Seneca, Lucius Annaeus</author>, <title>de consolatione ad Helviam</title>, <biblScope>16.3-16.4</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0255.stoa006.perseus-lat2:16.3-16.4" type="section">
+<div type="fragment" ana="#female #cunnus #womb">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">102</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Sénèque</persName> [<persName xml:lang="eng">Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/90637919/</idno><idno type="LC">n79-4229</idno>
+        </author>,
+        <title xml:lang="lat">De consolatione ad Helviam/ Ad Helviam Matrem de Consolatione (Dialogorum Liber XII)</title>,
+        <biblScope unit="ref">16.3-16.4</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0255.stoa006.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0255.stoa006.perseus-lat2:16.3-16.4" type="section">
     <w ref="16.3" lemma="periculosus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">periculosa</w>
     <w ref="16.3" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
     <w ref="16.3" lemma="probus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">probis</w>

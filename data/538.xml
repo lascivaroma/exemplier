@@ -1,4 +1,18 @@
-<div type="fragment" corresp="adams:92" ana="#adjoining_parts #euphemism #female">
+<div type="fragment" ana="#adjoining_parts #euphemism #female">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">92</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Jérôme</persName> [<persName xml:lang="eng">Jerome, Saint, d. 419 or 20</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/95147024/</idno><idno type="LC">n79-124709</idno>
+        </author>,
+        <title xml:lang="lat">Epistulae</title>,
+        <biblScope unit="ref">22.11.2</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0162.stoa004.opp-lat1</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0162.stoa004.opp-lat1:22.11.2">
         <w lemma="uirtus" pos="NOMcom" msd="Case=Nom|Numb=Sing">uirtus</w>
         <w lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>

@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
-  <bibl ref="#adams"><author>Suetonius ca. 69-ca. 122</author>, <title>Caligula</title>, <biblscope>41-41</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo014.perseus-lat2:41-41" type="chapter">
+<div type="fragment" ana="#acte #metonymie #amo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">188</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Suétone</persName> [<persName xml:lang="eng">Suetonius, ca. 69-ca. 122</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/89599270/</idno><idno type="LC">n50-53072</idno>
+        </author>,
+        <title xml:lang="lat">Caligula</title>,
+        <biblScope unit="ref">41</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1348.abo014.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo014.perseus-lat2:41" type="chapter">
     <w ref="41" lemma="mitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">misit</w>
     <w ref="41" lemma="circum1" pos="ADV" msd="MORPH=empty">circum</w>
     <w ref="41" lemma="forum1" pos="NOMcom" msd="Case=Acc|Numb=Plur">fora</w>

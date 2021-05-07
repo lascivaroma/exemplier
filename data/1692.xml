@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:181" ana="#metonymie #acte #misceo">
-  <bibl ref="#adams"><author>Philastrius Saint, Bishop of Brescia active 383-391</author>, <title>Diversarum hereseon liber</title>, <biblscope>57.1-57.2</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0122a.stoa001.opp-lat1:57.1-57.2" type="section">
+<div type="fragment" ana="#metonymie #acte #misceo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">181</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Filastre de Brescia</persName> [<persName xml:lang="eng">Philastrius, Saint, Bishop of Brescia, active 383-391</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/784145858106523022189</idno><idno type="LC">nr96-043976</idno>
+        </author>,
+        <title xml:lang="lat">Diversarum hereseon liber</title>,
+        <biblScope unit="ref">57.1</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0122a.stoa001.opp-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0122a.stoa001.opp-lat1:57.1" type="section">
     <w ref="57.1" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
     <w ref="57.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="57.1" lemma="ecclesia" pos="NOMcom" msd="Case=Abl|Numb=Sing">ecclesia</w>

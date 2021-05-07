@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:136" ana="#male #acte #passive">
-  <bibl><author>Persius</author>, <title>Satires</title>, <biblScope>1.87-1.87</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0969.phi001.perseus-lat2:1.87-1.87" type="line">
+<div type="fragment" ana="#male #acte #passive">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">136</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Perse</persName> [<persName xml:lang="eng">Persius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100198157/</idno><idno type="LC">n79-60980</idno>
+        </author>,
+        <title xml:lang="lat">Saturae / Satires</title>,
+        <biblScope unit="ref">1.87</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0969.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0969.phi001.perseus-lat2:1.87" type="line">
     <w ref="1.87" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
     <w ref="1.87" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.87" lemma="romulus" pos="NOMcom" msd="Case=Voc|Numb=Sing">Romule</w>

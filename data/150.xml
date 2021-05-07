@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:46" ana="#male #specialisation #erection  #euphemism">
+<div type="fragment" ana="#male #specialisation #erection  #euphemism">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">46</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Priapées</persName> [<persName xml:lang="eng">Priapea</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/184679300/</idno><idno type="LC">n79-056813</idno>
+        </author>,
+        <title xml:lang="lat">Priapea</title>,
+        <biblScope unit="ref">68.32</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:68.32">
         <w lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Neut">haec</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">es</w>

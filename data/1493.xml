@@ -1,9 +1,22 @@
-<div  type="fragment" corresp="adams:177" ana="#acte #metonymie #m2puer #dormir_avec">
-  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>3.73.1-3.73.2</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.1.2030.1ff</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:3.73.1-3.73.2" type="line">
+<div type="fragment" ana="#acte #metonymie #m2puer #dormir_avec">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">177</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Martial</persName> [<persName xml:lang="eng">Martial</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/8099277/</idno><idno type="LC">n82-13667</idno>
+        </author>,
+        <title xml:lang="lat">Epigrammata / Epigrams (Book 1-12)</title>,
+        <biblScope unit="ref">3.73.1</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1294.phi002.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.1.2030.1ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:3.73.1" type="line">
     <w ana="#acte #metonymie #m2puer #dormir_avec" ref="3.73.1" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">Dormis</w>
-    <w  ana="#acte #metonymie #m2puer #dormir_avec" ref="3.73.1" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+    <w ana="#acte #metonymie #m2puer #dormir_avec" ref="3.73.1" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="3.73.1" lemma="puer" pos="NOMcom" msd="Case=Abl|Numb=Plur">pueris</w>
     <w ref="3.73.1" lemma="mutonio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=2">mutuniatis</w>
   </quote>

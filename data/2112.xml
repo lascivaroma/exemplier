@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
-  <bibl ref="#adams"><author>Vopiscus, Flavius fl. 3./4. Jh.</author>, <title>Tyranni Triginta</title>, <biblscope>6-6</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi024.perseus-lat2:6-6" type="chapter">
+<div type="fragment" ana="#acte #metonymie #violence">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">198</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Histoire Auguste</persName> [<persName xml:lang="eng">Trebellius, Pollio, 3./4. Jh. (attributed author)</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/47569598/</idno><idno type="LC">none</idno>
+        </author>,
+        <title xml:lang="lat">The Thirty Pretenders (Tyranni Triginta)</title>,
+        <biblScope unit="ref">6</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi2331.phi024.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.1056.35ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi024.perseus-lat2:6" type="chapter">
     <w ref="6" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
     <w ref="6" lemma="matrimonium" pos="NOMcom" msd="Case=Dat|Numb=Plur">matrimoniis</w>
     <w ref="6" lemma="miles" pos="NOMcom" msd="Case=Gen|Numb=Plur">militum</w>

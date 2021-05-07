@@ -1,18 +1,31 @@
-<div type="fragment" corresp="adams:153" ana="#metaphore #acte #petrir">
-  <bibl><author>Cicero</author>, <title>Letters to his Friends</title>, <biblScope>9.22.4-9.22.4</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi056.perseus-lat1:9.22.4-9.22.4" type="section">
+<div type="fragment" ana="#metaphore #acte #petrir">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">153</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Cicéron</persName> [<persName xml:lang="eng">Cicero, Marcus Tullius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/78769600/</idno><idno type="LC">n79-32166</idno>
+        </author>,
+        <title xml:lang="lat">Epistulae ad Familiares </title>,
+        <biblScope unit="ref">9.22.4</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0474.phi056.perseus-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi056.perseus-lat1:9.22.4" type="section">
     <w ref="9.22.4" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
-    <w ref="9.22.4" lemma='"' pos="PUNC" msd="MORPH=empty">"</w>
+    <w ref="9.22.4" lemma="&quot;" pos="PUNC" msd="MORPH=empty">"</w>
     <w ref="9.22.4" lemma="bateo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Batuit</w>
     <w ref="9.22.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ref="9.22.4" lemma='"' pos="PUNC" msd="MORPH=empty">"</w>
+    <w ref="9.22.4" lemma="&quot;" pos="PUNC" msd="MORPH=empty">"</w>
     <w ref="9.22.4" lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inquit</w>
     <w ref="9.22.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="9.22.4" lemma="impudenter" pos="ADV" msd="Deg=Pos">impudenter</w>
     <w ref="9.22.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
-    <w ref="9.22.4" lemma='"' pos="PUNC" msd="MORPH=empty">"</w>
+    <w ref="9.22.4" lemma="&quot;" pos="PUNC" msd="MORPH=empty">"</w>
     <w ana="#metaphore #acte #petrir" ref="9.22.4" lemma="depso" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">depsit</w>
-    <w ref="9.22.4" lemma='"' pos="PUNC" msd="MORPH=empty">"</w>
+    <w ref="9.22.4" lemma="&quot;" pos="PUNC" msd="MORPH=empty">"</w>
     <w ref="9.22.4" lemma="multo2" pos="ADV" msd="Deg=Pos">multo</w>
     <w ref="9.22.4" lemma="impudens" pos="ADV" msd="Numb=Sing|Deg=Comp">impudentius</w>
     <w ref="9.22.4" lemma="." pos="PUNC" msd="MORPH=empty">.</w>

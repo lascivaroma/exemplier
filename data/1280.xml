@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:156" ana="#metaphore #acte #subigo #soumission">
-  <bibl><author>Macrobe</author>, <title>Saturnalia</title>, <biblScope>2.2-2.2</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0186.stoa001.thayer-lat1:2.2-2.2" type="chapter">
+<div type="fragment" ana="#metaphore #acte #subigo #soumission">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">156</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Macrobe</persName> [<persName xml:lang="eng">Macrobius, Ambrosius Aurelius Theodosius.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/39387062/</idno><idno type="LC">n50-43606</idno>
+        </author>,
+        <title xml:lang="lat">Saturnalia</title>,
+        <biblScope unit="ref">2.2</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0186.stoa001.thayer-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0186.stoa001.thayer-lat1:2.2" type="chapter">
   <note>Besoin de texte supplémentaire,cf.p156</note>
     <w ref="2.2" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">Ille</w>
     <w ref="2.2" lemma="urbane" pos="ADV" msd="Numb=Sing|Deg=Pos">urbane</w>

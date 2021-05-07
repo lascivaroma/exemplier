@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:38" ana="#male #anatomie #metaphore #mentula">
+<div type="fragment" ana="#male #anatomie #metaphore #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">38</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Juvénal</persName> [<persName xml:lang="eng">Juvenal</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/83985148/</idno><idno type="LC">n79-60985</idno>
+        </author>,
+        <title xml:lang="lat">Saturae </title>,
+        <biblScope unit="ref">3.9.33-3.9.34</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1276.phi001.perseus-lat2</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:3.9.33-3.9.34">
         <w lemma="quis1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">quas</w>
         <w lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Plur">sinus</w>

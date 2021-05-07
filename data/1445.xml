@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aller_en_vue_de">
-  <bibl ref="#adams"><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblscope>113-113</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:113-113" type="section">
+<div type="fragment" ana="#acte #metonymie #aller_en_vue_de">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">175</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Pétrone</persName> [<persName xml:lang="eng">Petronius Arbiter </persName>]
+            <idno type="VIAF">https://viaf.org/viaf/95155909/</idno><idno type="LC">n79-142770</idno>
+        </author>,
+        <title xml:lang="lat">Satyricon / Satirae</title>,
+        <biblScope unit="ref">113</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0972.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:113" type="section">
     <w ref="113" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
     <w ref="113" lemma="uir" pos="NOMcom" msd="Case=Nom|Numb=Sing">vir</w>
     <w ref="113" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">fueris</w>

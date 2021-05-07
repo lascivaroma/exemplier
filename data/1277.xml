@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:155" ana="#metaphore #acte #militaire #soumettre #subigo">
-  <bibl><author>Suetonius ca. 69-ca. 122</author>, <title>Divus Julius</title>, <biblScope>49-49</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo011.perseus-lat2:49-49" type="unknown">
+<div type="fragment" ana="#metaphore #acte #militaire #soumettre #subigo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">155</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Suétone</persName> [<persName xml:lang="eng">Suetonius, ca. 69-ca. 122</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/89599270/</idno><idno type="LC">n50-53072</idno>
+        </author>,
+        <title xml:lang="lat">Iulius / Julius Caesar</title>,
+        <biblScope unit="ref">49</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1348.abo011.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo011.perseus-lat2:49" type="unknown">
     <w ref="49" lemma="gallia" pos="NOMcom" msd="Case=Acc|Numb=Plur">Gallias</w>
     <w ref="49" lemma="caesar" pos="NOMcom" msd="Case=Nom|Numb=Sing">Caesar</w>
     <w ref="49" lemma="subigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">subegit</w>

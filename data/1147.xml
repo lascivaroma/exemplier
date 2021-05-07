@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:130" ana="#acte #fellatio #acte">
-  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>12.79.4-12.79.4</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.79.4-12.79.4" type="line">
+<div type="fragment" ana="#acte #fellatio #acte">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">130</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Martial</persName> [<persName xml:lang="eng">Martial</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/8099277/</idno><idno type="LC">n82-13667</idno>
+        </author>,
+        <title xml:lang="lat">Epigrammata / Epigrams (Book 1-12)</title>,
+        <biblScope unit="ref">12.79.4</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1294.phi002.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.79.4" type="line">
     <w ref="12.79.4" lemma="quisquis1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=MascFem">Quisquis</w>
     <w ref="12.79.4" lemma="nihil" pos="PROind" msd="Case=Ind">nil</w>
     <w ref="12.79.4" lemma="nego" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">negat</w>

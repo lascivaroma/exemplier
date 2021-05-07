@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:59" ana="#natura #euphemism #neutral">
+<div type="fragment" ana="#natura #euphemism #neutral">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">59</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Columelle</persName> [<persName xml:lang="eng">Columella, Lucius Junius Moderatus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/95243635/</idno><idno type="LC">n80-56875</idno>
+        </author>,
+        <title xml:lang="lat">de Re Rustica</title>,
+        <biblScope unit="ref">6.30.4</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0845.phi002.perseus-lat3</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:6.30.4">
         <w lemma="qui2" pos="ADVrel" msd="Case=Abl">quo</w>
         <w lemma="mano" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">manat</w>

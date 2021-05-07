@@ -1,4 +1,18 @@
-<div type="fragment" corresp="adams:67" ana="#male #testicle">
+<div type="fragment" ana="#male #testicle">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">67</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Plaute</persName> [<persName xml:lang="eng">Plautus, Titus Maccius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/66462281/</idno><idno type="LC">n80-14980</idno>
+        </author>,
+        <title xml:lang="lat">Miles Gloriosus</title>,
+        <biblScope unit="ref">1420b-1421</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0119.phi012.perseus-lat2</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi012.perseus-lat2:1420b-1421">
         <w lemma="saluus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">Salvis</w>
         <w ana="#male #testicules" lemma="testis1" pos="NOMcom" msd="Case=Abl|Numb=Plur">testibus</w>

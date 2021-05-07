@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:142" ana="#metaphore #acte #humiliant #urine #ejaculation">
-  <bibl><author>Anthologia Latina</author>, <title>Anthologia Latina</title>, <biblScope>374.6-374.6</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:374.6-374.6" type="line">
+<div type="fragment" ana="#metaphore #acte #humiliant #urine #ejaculation">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">142</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+             
+            <idno type="VIAF">https://viaf.org/viaf/180649646/</idno><idno type="LC">nan</idno>
+        </author>,
+        <title xml:lang="lat">Anthologie Latine</title>,
+        <biblScope unit="ref">374.6</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:374.6" type="line">
     <w ref="374.6" lemma="qui" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">Quodque</w>
     <w ref="374.6" lemma="que" pos="CON" msd="MORPH=empty">{Quodque}</w>
     <w ref="374.6" lemma="nimis" pos="ADV" msd="Deg=Pos">nimis</w>

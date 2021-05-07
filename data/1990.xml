@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences">
-  <bibl ref="#adams"><author>Nonius Marcellus</author>, <title>De compendiosa doctrina libri XX</title>, <biblscope>II.m.39-II.m.39</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0213a.stoa001.digilibLT-lat1:II.m.39-II.m.39" type="section">
+<div type="fragment" ana="#acte #metonymie #consequences">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">195</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Nonius Marcellus</persName> [<persName xml:lang="eng">Nonius Marcellus, 4th cent.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/59182520/</idno><idno type="LC">n86-113590</idno>
+        </author>,
+        <title xml:lang="lat">De conpendiosa doctrina </title>,
+        <biblScope unit="ref">II.m.39</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0213a.stoa001.digilibLT-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0213a.stoa001.digilibLT-lat1:II.m.39" type="section">
     <w ref="II.m.39" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
     <w ref="II.m.39" lemma="ephebus" pos="NOMcom" msd="Case=Acc|Numb=Sing">ephebum</w>
     <w ana="#acte #metonymie #consequences" ref="II.m.39" lemma="muliero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">mulieravit</w>

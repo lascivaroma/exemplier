@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:146" ana="#metaphore #acte #frapper #pedicatio">
-  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>2.72.2-2.72.6</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:2.72.2-2.72.6" type="line">
+<div type="fragment" ana="#metaphore #acte #frapper #pedicatio">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">146</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Martial</persName> [<persName xml:lang="eng">Martial</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/8099277/</idno><idno type="LC">n82-13667</idno>
+        </author>,
+        <title xml:lang="lat">Epigrammata / Epigrams (Book 1-12)</title>,
+        <biblScope unit="ref">2.72.2-2.72.6</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1294.phi002.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:2.72.2-2.72.6" type="line">
     <w ref="2.72.2" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
     <w ref="2.72.3" lemma="os1" pos="NOMcom" msd="Case=Acc|Numb=Sing">Os</w>
     <w ref="2.72.3" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>

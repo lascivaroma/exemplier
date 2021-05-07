@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences">
-  <bibl ref="#adams"><author>Vopiscus, Flavius fl. 3./4. Jh.</author>, <title>Firmus Saturninus, Proculus et Bonosus</title>, <biblscope>12-12</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi029.perseus-lat2:12-12" type="chapter">
+<div type="fragment" ana="#acte #metonymie #consequences">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">195</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Histoire Auguste</persName> [<persName xml:lang="eng">Vopiscus, Flavius,  fl. 3./4. Jh. (attributed author)</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/95221497/</idno><idno type="LC">none</idno>
+        </author>,
+        <title xml:lang="lat">Firmus Saturninus, Proculus et Bonosus                            </title>,
+        <biblScope unit="ref">12</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi2331.phi029.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi029.perseus-lat2:12" type="chapter">
     <w ref="12" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     <w ref="12" lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=MascFem">omnes</w>
     <w ref="12" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>

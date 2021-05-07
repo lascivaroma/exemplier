@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:46" ana="#male #specialisation #euphemism #mentula">
+<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">46</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ovide</persName> [<persName xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/88342447/</idno><idno type="LC">n79-41738</idno>
+        </author>,
+        <title xml:lang="lat">Fasti </title>,
+        <biblScope unit="ref">4.221-4.222</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0959.phi007.perseus-lat2</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi007.perseus-lat2:4.221-4.222">
         <w lemma="unde2" pos="ADVint" msd="MORPH=empty">unde</w>
         <w lemma="uenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">venit</w>

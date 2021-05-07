@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:200" ana="#acte #metonymie #harass">
-  <bibl ref="#adams"><author>Ausonius, Decimus Magnus</author>, <title>Epigrammaton Liber</title>, <biblscope>106.13-106.18</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:106.13-106.18" type="line">
+<div type="fragment" ana="#acte #metonymie #harass">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">200</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ausone</persName> [<persName xml:lang="eng">Ausonius, Decimus Magnus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/109786483/</idno><idno type="LC">n80-128611</idno>
+        </author>,
+        <title xml:lang="lat">Epigrammata / Epigrammaton Liber</title>,
+        <biblScope unit="ref">106.13-106.15</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0045.stoa010.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:106.13-106.15" type="line">
     <w ref="106.13" lemma="deseco" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">desectos</w>
     <w ref="106.13" lemma="sic" pos="ADV" msd="Deg=Pos">sic</w>
     <w ref="106.13" lemma="fama" pos="NOMcom" msd="Case=Nom|Numb=Sing">fama</w>

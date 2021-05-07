@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:200" ana="#acte #metonymie #insulter">
-  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Eunuch</title>, <biblscope>644-645</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi003.perseus-lat2:644-645" type="line">
+<div type="fragment" ana="#acte #metonymie #insulter">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">200</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Térence</persName> [<persName xml:lang="eng">Terence</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/5940148947872254950006/</idno><idno type="LC">n79-66715</idno>
+        </author>,
+        <title xml:lang="lat">Eunuchus </title>,
+        <biblScope unit="ref">644-645</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0134.phi003.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi003.perseus-lat2:644-645" type="line">
     <w ref="644" lemma="quin1" pos="ADV" msd="Deg=Pos">Quin</w>
     <w ref="644" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
     <w ref="644" lemma="insuper1" pos="ADV" msd="Deg=Pos">insuper</w>

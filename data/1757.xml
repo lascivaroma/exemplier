@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #fututio">
-  <bibl ref="#adams"><author>Horace</author>, <title>Sermones</title>, <biblscope>1.2.28-1.2.30</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.28-1.2.30" type="line">
+<div type="fragment" ana="#acte #metonymie #toucher #fututio">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">185</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Horace</persName> [<persName xml:lang="eng">Horace</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100227522/</idno><idno type="LC">n79-81354</idno>
+        </author>,
+        <title xml:lang="lat">Sermones  / Saturae</title>,
+        <biblScope unit="ref">1.2.28-1.2.30</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0893.phi004.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.28-1.2.30" type="line">
     <w ref="1.2.28" lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
     <w ref="1.2.28" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
     <w ref="1.2.28" lemma="nolo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">nolint</w>

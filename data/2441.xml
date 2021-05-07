@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:42" ana="#male #outil #metaphore #mentula">
-  <bibl ref="#adams"><author>Vopiscus, Flavius fl. 3./4. Jh.</author>, <title>Antoninus Heliogobalus</title>, <biblscope>5-5</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi017.perseus-lat2:5-5" type="chapter">
+<div type="fragment" ana="#male #outil #metaphore #mentula">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">42</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Histoire Auguste</persName> [<persName xml:lang="eng">Lampridius, Aelius (attributed author)</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/30344893/</idno><idno type="LC">nr93-6584</idno>
+        </author>,
+        <title xml:lang="lat">Elagabali Vita / Antoninus Heliogabalus/ Antoninus Elagabulus / </title>,
+        <biblScope unit="ref">5</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi2331.phi017.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi017.perseus-lat2:5" type="chapter">
     <w ref="5" lemma="Roma" pos="NOMpro" msd="Case=Loc|Numb=Sing">Romae</w>
     <w ref="5" lemma="denique" pos="ADV" msd="Deg=Pos">denique</w>
     <w ref="5" lemma="nihil" pos="PROind" msd="Case=Ind">nihil</w>

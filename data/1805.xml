@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:187" ana="#acte #metonymie #have #homosexuel">
-  <bibl ref="#adams"><author>Ovid</author>, <title>Art of Love</title>, <biblscope>1.523-1.524</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:1.523-1.524" type="line">
+<div type="fragment" ana="#acte #metonymie #have #homosexuel">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">187</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ovide</persName> [<persName xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/88342447/</idno><idno type="LC">n79-41738</idno>
+        </author>,
+        <title xml:lang="lat">Ars Amatoria</title>,
+        <biblScope unit="ref">1.523-1.524</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0959.phi004.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:1.523-1.524" type="line">
     <w ref="1.523" lemma="cetera1" pos="NOMcom" msd="Case=Acc|Numb=Plur">Cetera</w>
     <w ref="1.523" lemma="lasciuus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">lascivae</w>
     <w ref="1.523" lemma="facio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">faciant</w>

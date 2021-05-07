@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
-  <bibl ref="#adams"><author>Virgil</author>, <title>Georgics</title>, <biblscope>2.328-2.333</biblscope></bibl>
-  <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>12</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi002.perseus-lat2:2.328-2.333" type="line">
+<div type="fragment" ana="#acte #metonymie #amo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">188</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Virgile</persName> [<persName xml:lang="eng">Vergil/Virgil</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/8194433/</idno><idno type="LC">n79-14062</idno>
+        </author>,
+        <title xml:lang="lat">Georgica</title>,
+        <biblScope unit="ref">2.329</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0690.phi002.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>12</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi002.perseus-lat2:2.329" type="line">
     <w ref="2.329" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ana="#acte #metonymie #amo" ref="2.329" lemma="Uenus" pos="NOMpro" msd="Case=Acc|Numb=Sing">Venerem</w>
     <w ref="2.329" lemma="certus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">certis</w>

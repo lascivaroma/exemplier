@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
-  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Phoenissae</title>, <biblScope>245-247</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi003.perseus-lat2:245-247" type="line">
+<div type="fragment" ana="#female #cunnus #womb">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">102</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Sénèque</persName> [<persName xml:lang="eng">Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/90637919/</idno><idno type="LC">n79-4229</idno>
+        </author>,
+        <title xml:lang="lat">Phoenissae</title>,
+        <biblScope unit="ref">245-247</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1017.phi003.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi003.perseus-lat2:245-247" type="line">
     <w ref="245" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=1">videram</w>
     <w ref="245" lemma="nondum" pos="ADVneg" msd="MORPH=empty">nondum</w>
     <w ref="245" lemma="dies" pos="NOMcom" msd="Case=Acc|Numb=Sing">diem</w>

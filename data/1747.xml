@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:183" ana="#acte #metonymie #rub #masturbation">
-  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>3.7.73-3.7.77</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.73-3.7.77" type="line">
+<div type="fragment" ana="#acte #metonymie #rub #masturbation">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">183</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ovide</persName> [<persName xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/88342447/</idno><idno type="LC">n79-41738</idno>
+        </author>,
+        <title xml:lang="lat">Amores </title>,
+        <biblScope unit="ref">3.7.73-3.7.74</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0959.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.73-3.7.74" type="line">
     <w ref="3.7.73" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">Hanc</w>
     <w ref="3.7.73" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
     <w ref="3.7.73" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>

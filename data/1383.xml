@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:165" ana="#metaphore #acte #chevaucher #femme #effeminé">
-  <bibl><author>Ovid</author>, <title>Ars Amatoria</title>, <biblscope>3.777-3.778</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:3.777-3.778" type="line">
+<div type="fragment" ana="#metaphore #acte #chevaucher #femme #effeminé">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">165</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ovide</persName> [<persName xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/88342447/</idno><idno type="LC">n79-41738</idno>
+        </author>,
+        <title xml:lang="lat">Ars Amatoria</title>,
+        <biblScope unit="ref">3.777-3.778</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0959.phi004.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:3.777-3.778" type="line">
     <w ref="3.777" lemma="numquam" pos="ADVneg" msd="MORPH=empty">numquam</w>
     <w ref="3.778" lemma="theba" pos="NOMcom" msd="Case=Dat|Numb=Plur">Thebaïs</w>
     <w ref="3.778" lemma="hectoreus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">Hectoreo</w>

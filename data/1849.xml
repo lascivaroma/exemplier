@@ -1,7 +1,19 @@
-<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
-  <bibl ref="#adams"><author>Paris, Julius</author>, <title>Facta et Dicta Memorabilia</title>, <biblscope>9.12.8-9.12.8</biblscope></bibl>
-
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1038.phi001.perseus-lat1:9.12.8-9.12.8" type="section">
+<div type="fragment" ana="#acte #metonymie #amo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">188</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Valère Maxime</persName> [<persName xml:lang="eng">Valerius Maximus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/25395604/</idno><idno type="LC">n82-97560</idno>
+        </author>,
+        <title xml:lang="lat">Facta et Dicta Memorabilia</title>,
+        <biblScope unit="ref">9.12.8</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1038.phi001.perseus-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1038.phi001.perseus-lat1:9.12.8" type="section">
     <w ref="9.12.8" lemma="Cornelius" pos="NOMpro" msd="Case=Nom|Numb=Sing">Cornelius</w>
     <w ref="9.12.8" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
     <w ref="9.12.8" lemma="Gallus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Gallus</w>

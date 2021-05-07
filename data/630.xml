@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:100" ana="#female #cunnus #voisinage #womb">
-  <bibl><author>Cicero</author>, <title>In Defense of Aulus Cluentius Habitus</title>, <biblScope>34-34</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi010.perseus-lat2:34-34" type="section">
+<div type="fragment" ana="#female #cunnus #voisinage #womb">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">100</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Cicéron</persName> [<persName xml:lang="eng">Cicero, Marcus Tullius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/78769600/</idno><idno type="LC">n79-32166</idno>
+        </author>,
+        <title xml:lang="lat">pro Cluentio / Oratio pro Cluentio</title>,
+        <biblScope unit="ref">34</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0474.phi010.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi010.perseus-lat2:34" type="section">
     <w ref="34" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing">quo</w>
     <w ref="34" lemma="ille" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">illa</w>
     <w ref="34" lemma="pretium" pos="NOMcom" msd="Case=Abl|Numb=Sing">pretio</w>

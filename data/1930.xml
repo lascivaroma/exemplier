@@ -1,7 +1,20 @@
-<div type="fragment" corresp="adams:190" ana="#acte #metonymie #enter">
-  <bibl ref="#adams"><author>Philastrius Saint, Bishop of Brescia active 383-391</author>, <title>Diversarum hereseon liber</title>, <biblscope>33.4-33.4</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.451.68ff</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0122a.stoa001.opp-lat1:33.4-33.4" type="section">
+<div type="fragment" ana="#acte #metonymie #enter">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">190</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Filastre de Brescia</persName> [<persName xml:lang="eng">Philastrius, Saint, Bishop of Brescia, active 383-391</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/784145858106523022189</idno><idno type="LC">nr96-043976</idno>
+        </author>,
+        <title xml:lang="lat">Diversarum hereseon liber</title>,
+        <biblScope unit="ref">33.4</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0122a.stoa001.opp-lat1</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.451.68ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0122a.stoa001.opp-lat1:33.4" type="section">
     <w ref="33.4" lemma="tunc" pos="ADV" msd="Deg=Pos">Tunc</w>
     <w ref="33.4" lemma="ergo2" pos="CONcoo" msd="MORPH=empty">ergo</w>
     <w ref="33.4" lemma="tenebrae" pos="NOMcom" msd="Case=Nom|Numb=Plur">tenebrae</w>

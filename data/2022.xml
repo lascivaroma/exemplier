@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
-  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Controversiae</title>, <biblscope>7.6.7-7.6.7</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:7.6.7-7.6.7" type="section">
+<div type="fragment" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">196</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Sénèque le Père</persName> [<persName xml:lang="eng">Seneca, Lucius Annaeus, ca. 55 B.C.-ca. 39 A.D. (Seneca the Elder)</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/23497389/</idno><idno type="LC">n82-166595</idno>
+        </author>,
+        <title xml:lang="lat">Controuersiae / Controversiae</title>,
+        <biblScope unit="ref">7.6.7</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1014.phi001.perseus-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:7.6.7" type="section">
     <w ref="7.6.7" lemma="seruus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">Seruus</w>
     <w ref="7.6.7" lemma="noster" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Masc">noster</w>
     <w ref="7.6.7" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>

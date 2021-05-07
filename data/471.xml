@@ -1,4 +1,18 @@
-<div type="fragment" corresp="adams:85" ana="#fossa #female #cunnus #metaphore">
+<div type="fragment" ana="#fossa #female #cunnus #metaphore">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">85</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Priapées</persName> [<persName xml:lang="eng">Priapea</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/184679300/</idno><idno type="LC">n79-056813</idno>
+        </author>,
+        <title xml:lang="lat">Priapea</title>,
+        <biblScope unit="ref">83.32</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:83.32">
         <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
         <w lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=MascNeut">tuum</w>

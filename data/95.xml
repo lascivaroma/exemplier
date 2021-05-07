@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:42" ana="#male #contenants #metaphore #mentula">
+<div type="fragment" ana="#male #contenants #metaphore #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">42</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Priapées</persName> [<persName xml:lang="eng">Priapea</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/184679300/</idno><idno type="LC">n79-056813</idno>
+        </author>,
+        <title xml:lang="lat">Priapea</title>,
+        <biblScope unit="ref">68.23-68.24</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:68.23-68.24">
         <w lemma="hic2" pos="ADV" msd="Deg=Pos">hic</w>
         <w lemma="lego2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1">legimus</w>

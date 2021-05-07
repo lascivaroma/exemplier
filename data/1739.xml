@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:183" ana="#acte #metonymie #rub #fututio">
-  <bibl ref="#adams"><author>Anthologia Latina</author>, <title>Anthologia Latina</title>, <biblscope>148.5-148.8</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:148.5-148.8" type="line">
+<div type="fragment" ana="#acte #metonymie #rub #fututio">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">183</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+             
+            <idno type="VIAF">https://viaf.org/viaf/180649646/</idno><idno type="LC">nan</idno>
+        </author>,
+        <title xml:lang="lat">Anthologie Latine</title>,
+        <biblScope unit="ref">148.7-148.8</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:148.7-148.8" type="line">
     <w ref="148.7" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">Hanc</w>
     <w ref="148.7" lemma="foueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fouet</w>
     <w ref="148.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

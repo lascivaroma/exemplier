@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher #fututio">
-  <bibl ref="#adams"><author>Horace</author>, <title>Sermones</title>, <biblscope>1.2.53-1.2.57</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.53-1.2.57" type="line">
+<div type="fragment" ana="#acte #metonymie #toucher #fututio">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">185</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Horace</persName> [<persName xml:lang="eng">Horace</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100227522/</idno><idno type="LC">n79-81354</idno>
+        </author>,
+        <title xml:lang="lat">Sermones  / Saturae</title>,
+        <biblScope unit="ref">1.2.54</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0893.phi004.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.54" type="line">
     <w ref="1.2.54" lemma="‘" pos="PUNC" msd="MORPH=empty">‘</w>
     <w ref="1.2.54" lemma="matrona" pos="NOMcom" msd="Case=Acc|Numb=Sing">matronam</w>
     <w ref="1.2.54" lemma="nullus" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">nullam</w>

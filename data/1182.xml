@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:141" ana="#metaphore #acte #manger">
-  <bibl><author>Cicero</author>, <title>On His House</title>, <biblScope>47-47</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi020.perseus-lat2:47-47" type="section">
+<div type="fragment" ana="#metaphore #acte #manger">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">141</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Cicéron</persName> [<persName xml:lang="eng">Cicero, Marcus Tullius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/78769600/</idno><idno type="LC">n79-32166</idno>
+        </author>,
+        <title xml:lang="lat">de Domo sua / Oratio de Domo Sua / pro Domo Sua</title>,
+        <biblScope unit="ref">47</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0474.phi020.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi020.perseus-lat2:47" type="section">
     <w ref="47" lemma="sextus" pos="ADJcar" msd="Case=Ind">Sexte</w>
     <w ref="47" lemma="noster" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Masc">noster</w>
     <w ref="47" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

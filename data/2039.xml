@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
-  <bibl ref="#adams"><author>Corpus Tibullianum</author>, <title>Elegiae</title>, <biblscope>2.1.11-2.1.12</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0660.phi001.perseus-lat2:2.1.11-2.1.12" type="line">
+<div type="fragment" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">196</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Tibulle</persName> [<persName xml:lang="eng">Tibullus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100219266/</idno><idno type="LC">n78-87625</idno>
+        </author>,
+        <title xml:lang="lat">Elegiae</title>,
+        <biblScope unit="ref">2.1.11-2.1.12</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0660.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0660.phi001.perseus-lat2:2.1.11-2.1.12" type="line">
     <w ref="2.1.11" lemma="uos" pos="PROper" msd="Case=Voc|Numb=Plur">uos</w>
     <w ref="2.1.11" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
     <w ref="2.1.11" lemma="absum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">abesse</w>

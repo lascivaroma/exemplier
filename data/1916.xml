@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:189" ana="#acte #metonymie #patior #female">
-  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>73.1-73.1</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:73.1-73.1" type="line">
+<div type="fragment" ana="#acte #metonymie #patior #female">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">189</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Priapées</persName> [<persName xml:lang="eng">Priapea</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/184679300/</idno><idno type="LC">n79-056813</idno>
+        </author>,
+        <title xml:lang="lat">Priapea</title>,
+        <biblScope unit="ref">73.1</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:73.1" type="line">
     <w ref="73.1" lemma="obliquus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">Obliquis</w>
     <w ref="73.1" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
     <w ref="73.1" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>

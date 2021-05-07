@@ -1,7 +1,20 @@
-<div type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
-  <bibl ref="#adams"><author>Pseudo-Acro</author>, <title>Commentum in Horati Carmina</title>, <biblscope>3.6.18-3.6.18</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0004a.stoa001.horatiusNet-lat1:3.6.18-3.6.18" type="comment">
+<div type="fragment" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">179</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Pseudo-Acron</persName> [<persName xml:lang="eng">Pseudo-Acro</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/56720050/</idno><idno type="LC">nr97-44694</idno>
+        </author>,
+        <title xml:lang="lat">Commentum in Horati Carmina</title>,
+        <biblScope unit="ref">3.6.18</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0004a.stoa001.horatiusNet-lat1</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0004a.stoa001.horatiusNet-lat1:3.6.18" type="comment">
     <w ref="3.6.18" lemma="bonus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos">Bonum</w>
     <w ref="3.6.18" lemma="par2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">paris</w>
     <w ref="3.6.18" lemma="sanguis" pos="NOMcom" msd="Case=Gen|Numb=Sing">sanguinis</w>

@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:9" ana="#mentula">
-  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>45.3-45.7</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:45.3-45.7" type="line">
+<div type="fragment" ana="#mentula">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">9</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Priapées</persName> [<persName xml:lang="eng">Priapea</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/184679300/</idno><idno type="LC">n79-056813</idno>
+        </author>,
+        <title xml:lang="lat">Priapea</title>,
+        <biblScope unit="ref">45.3-45.7</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:45.3-45.7" type="line">
     <w ref="45.3" lemma="puella" pos="NOMcom" msd="Case=Gen|Numb=Sing">puellae</w>
     <w ref="45.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="45.4" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>

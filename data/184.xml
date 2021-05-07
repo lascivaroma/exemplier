@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:48" ana="#male #euphemisms #voisinage #copulation">
+<div type="fragment" ana="#male #euphemisms #voisinage #copulation">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">48</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Catulle</persName> [<persName xml:lang="eng">Catullus, Gaius Valerius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100218993/</idno><idno type="LC">n79-6943</idno>
+        </author>,
+        <title xml:lang="lat">Carmina</title>,
+        <biblScope unit="ref">16.11</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0472.phi001.perseus-lat2</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:16.11">
         <w lemma="durus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">duros</w>
         <w lemma="nequeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">nequeunt</w>

@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:136" ana="#acte #fellatio #acte">
-  <bibl><author>Claudius Claudianus</author>, <title>Carminum minorum corpusculum</title>, <biblScope>44.4-44.8</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0089.stoa001.perseus-lat2:44.4-44.8" type="line">
+<div type="fragment" ana="#acte #fellatio #acte">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">136</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Claudien</persName> [<persName xml:lang="eng">Claudianus, Claudius.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/246763674/</idno><idno type="LC">n80-98606</idno>
+        </author>,
+        <title xml:lang="lat">Carmina Minora\Carminum minorum corpusculum</title>,
+        <biblScope unit="ref">44.4-44.8</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0089.stoa001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0089.stoa001.perseus-lat2:44.4-44.8" type="line">
     <w ref="44.4" lemma="area" pos="NOMcom" msd="Case=Acc|Numb=Plur">Areas</w>
     <w ref="44.4" lemma="crates" pos="NOMcom" msd="Numb=Sing|Person=3">crat</w>
     <w ref="44.4" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>

@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:112" ana="#anus #culus">
-  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>48.17-48.17</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:48.17-48.17" type="paragraph">
+<div type="fragment" ana="#anus #culus">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">112</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Cassius Felix</persName> [<persName xml:lang="eng">Cassius Felix, fl. 477</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/71367291/</idno><idno type="LC">no2002-62176</idno>
+        </author>,
+        <title xml:lang="lat">De Medicina</title>,
+        <biblScope unit="ref">48.17</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:48.17" type="paragraph">
     <w ref="48.17" lemma="trociscus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc">Trociscus</w>
     <w ref="48.17" lemma="catotericus" pos="NOMcom" msd="Case=Nom|Numb=Sing">catotericus</w>
     <w ref="48.17" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>

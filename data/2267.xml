@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:208" ana="#acte #masturbor">
-  <bibl ref="#adams"><author>Ovid</author>, <title>Art of Love</title>, <biblscope>2.705-2.706</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:2.705-2.706" type="line">
+<div type="fragment" ana="#acte #masturbor">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">208</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ovide</persName> [<persName xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/88342447/</idno><idno type="LC">n79-41738</idno>
+        </author>,
+        <title xml:lang="lat">Ars Amatoria</title>,
+        <biblScope unit="ref">2.706</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0959.phi004.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:2.706" type="line">
     <w ref="2.706" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
     <w ana="#acte #masturbor" ref="2.706" lemma="manus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">manus</w>
     <w ref="2.706" lemma="in" pos="PRE" msd="MORPH=empty">in</w>

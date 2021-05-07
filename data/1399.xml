@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:168" ana="#metaphore #acte #peler #raboter">
-  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblscope>58.1-58.5</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:58.1-58.5" type="line">
+<div type="fragment" ana="#metaphore #acte #peler #raboter">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">168</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Catulle</persName> [<persName xml:lang="eng">Catullus, Gaius Valerius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100218993/</idno><idno type="LC">n79-6943</idno>
+        </author>,
+        <title xml:lang="lat">Carmina</title>,
+        <biblScope unit="ref">58.4-58.5</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0472.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:58.4-58.5" type="line">
     <w ref="58.4" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
     <w ref="58.4" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="58.4" lemma="quadriuium" pos="NOMcom" msd="Case=Abl|Numb=Plur">quadriviis</w>

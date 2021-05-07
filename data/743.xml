@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:102" ana="#female #cunnus #womb">
-  <bibl><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Epistulae</title>, <biblScope>102.23-102.23</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi015.perseus-lat2:102.23-102.23" type="section">
+<div type="fragment" ana="#female #cunnus #womb">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">102</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Sénèque</persName> [<persName xml:lang="eng">Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/90637919/</idno><idno type="LC">n79-4229</idno>
+        </author>,
+        <title xml:lang="lat">Epistulae / Epistulae Morales ad Lucilium</title>,
+        <biblScope unit="ref">102.23</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1017.phi015.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi015.perseus-lat2:102.23" type="section">
     <w ref="102.23" lemma="quemadmodum1" pos="ADVrel" msd="MORPH=empty">Quemadmodum</w>
     <w ref="102.23" lemma="decem" pos="ADJcar" msd="Case=Ind">decem</w>
     <w ref="102.23" lemma="mensis" pos="NOMcom" msd="Case=Abl|Numb=Plur">mensibus</w>

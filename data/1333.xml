@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:160" ana="#metaphore #acte #epouser #noces">
-  <bibl><author>Cicero</author>, <title>Rhetorica ad Herennium [sp.]</title>, <biblScope>4.45-4.45</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi073.corpcorp-lat1:4.45-4.45" type="chapter">
+<div type="fragment" ana="#metaphore #acte #epouser #noces">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">160</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Cicéron</persName> [<persName xml:lang="eng">Rhetorica ad Herennium</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/301874210/</idno><idno type="LC">n86-114110</idno>
+        </author>,
+        <title xml:lang="lat">Rhetorica ad Herennium </title>,
+        <biblScope unit="ref">4.45</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0474.phi073.corpcorp-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi073.corpcorp-lat1:4.45" type="chapter">
     <w ref="4.45" lemma="»" pos="PUNC" msd="MORPH=empty">»</w>
     <w ref="4.45" lemma="obscenitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">Obscenitatis</w>
     <w ref="4.45" lemma="uito" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">vitandae</w>

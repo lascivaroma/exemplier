@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
-  <bibl ref="#adams"><author>Ovid</author>, <title>Amores</title>, <biblscope>1.10.33-1.10.34</biblscope></bibl>
-  <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>13</biblscope></bibl>
+<div type="fragment" ana="#acte #metonymie #amo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">188</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ovide</persName> [<persName xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/88342447/</idno><idno type="LC">n79-41738</idno>
+        </author>,
+        <title xml:lang="lat">Amores </title>,
+        <biblScope unit="ref">1.10.33-1.10.34</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0959.phi001.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>13</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.33-1.10.34" type="line">
     <w ref="1.10.33" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">Quae</w>
     <w ana="#acte #metonymie #amo" ref="1.10.33" lemma="Uenus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Venus</w>

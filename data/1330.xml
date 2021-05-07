@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:159" ana="#metaphore #acte #tuer #mourir #male">
-  <bibl><author>Ausonius, Decimus Magnus</author>, <title>Cento Nuptialis</title>, <biblScope>128-131</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:128-131" type="line">
+<div type="fragment" ana="#metaphore #acte #tuer #mourir #male">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">159</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ausone</persName> [<persName xml:lang="eng">Ausonius, Decimus Magnus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/109786483/</idno><idno type="LC">n80-128611</idno>
+        </author>,
+        <title xml:lang="lat">Cento Nuptialis (Edyll. XIII)</title>,
+        <biblScope unit="ref">130-131</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0045.stoa003.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:130-131" type="line">
     <w ref="130" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="130" lemma="sudor" pos="NOMcom" msd="Case=Nom|Numb=Sing">sudor</w>
     <w ref="130" lemma="fluo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fluit</w>

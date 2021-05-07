@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
-  <bibl ref="#adams"><author>Appendix Vergiliana, Lydia.</author>, <title>Appendix Vergiliana, Lydia - Dirae</title>, <biblscope>138-139</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.658.3ff.</biblscope></bibl>
+<div type="fragment" ana="#acte #metonymie #join">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">179</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+             
+            <idno type="VIAF">https://viaf.org/viaf/24146332838818730292/</idno><idno type="LC">n84-208759</idno>
+        </author>,
+        <title xml:lang="lat">Lydia</title>,
+        <biblScope unit="ref">138-139</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0692.phi002.remacle-lat1</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.2.658.3ff.</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0692.phi002.remacle-lat1:138-139" type="line">
     <w ref="138" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
     <w ref="138" lemma="mas" pos="NOMcom" msd="Case=Acc|Numb=Sing">mas</w>

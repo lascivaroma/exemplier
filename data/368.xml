@@ -1,4 +1,18 @@
-<div type="fragment" corresp="adams:68" ana="#male #testicle">
+<div type="fragment" ana="#male #testicle">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">68</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Perse</persName> [<persName xml:lang="eng">Persius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100198157/</idno><idno type="LC">n79-60980</idno>
+        </author>,
+        <title xml:lang="lat">Saturae / Satires</title>,
+        <biblScope unit="ref">1.103-1.104</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0969.phi001.perseus-lat1</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0969.phi001.perseus-lat1:1.103-1.104">
         <w lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Neut">haec</w>
         <w lemma="fio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">fierent</w>

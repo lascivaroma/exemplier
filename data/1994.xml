@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences">
-  <bibl ref="#adams"><author>Cicero</author>, <title>For Marcus Caelius</title>, <biblscope>49-49</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi024.perseus-lat2:49-49" type="unknown">
+<div type="fragment" ana="#acte #metonymie #consequences">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">195</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Cicéron</persName> [<persName xml:lang="eng">Cicero, Marcus Tullius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/78769600/</idno><idno type="LC">n79-32166</idno>
+        </author>,
+        <title xml:lang="lat">pro Caelio / Oratio pro M. Caelio</title>,
+        <biblScope unit="ref">49</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0474.phi024.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi024.perseus-lat2:49" type="unknown">
     <w ref="49" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="49" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">hac</w>
     <w ref="49" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>

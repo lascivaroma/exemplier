@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:157" ana="#metaphore #acte #travailler">
-  <bibl><author>Horace</author>, <title>Epodi</title>, <biblScope>12.13-12.16</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi003.perseus-lat2:12.13-12.16" type="line">
+<div type="fragment" ana="#metaphore #acte #travailler">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">157</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Horace</persName> [<persName xml:lang="eng">Horace</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100227522/</idno><idno type="LC">n79-81354</idno>
+        </author>,
+        <title xml:lang="lat">Epodi </title>,
+        <biblScope unit="ref">12.15-12.16</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0893.phi003.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi003.perseus-lat2:12.15-12.16" type="line">
     <w ref="12.15" lemma="inachius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">Inachiam</w>
     <w ref="12.15" lemma="ter" pos="ADJadv.mul" msd="MORPH=empty">ter</w>
     <w ref="12.15" lemma="nox" pos="NOMcom" msd="Case=Voc|Numb=Sing">nocte</w>

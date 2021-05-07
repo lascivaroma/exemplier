@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:151" ana="#metaphore #couper #tailler #pedicatio">
-  <bibl><author>Petronius Arbiter</author>, <title>Satyricon</title>, <biblScope>79-80</biblScope></bibl>
-  <note>Débat sur la valeur de diuido ici</note>
+<div type="fragment" ana="#metaphore #couper #tailler #pedicatio">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">151</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Pétrone</persName> [<persName xml:lang="eng">Petronius Arbiter </persName>]
+            <idno type="VIAF">https://viaf.org/viaf/95155909/</idno><idno type="LC">n79-142770</idno>
+        </author>,
+        <title xml:lang="lat">Satyricon / Satirae</title>,
+        <biblScope unit="ref">79-80</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0972.phi001.perseus-lat2</idno>
+    </bibl>
+    <note>Débat sur la valeur de diuido ici</note>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:79-80" type="section">
     <w ref="79" lemma="”" pos="PUNC" msd="MORPH=empty">”</w>
     <w ref="79" lemma="non" pos="ADVneg" msd="MORPH=empty">Non</w>

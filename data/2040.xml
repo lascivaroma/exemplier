@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
-  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>61.107-61.112</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:61.107-61.112" type="line">
+<div type="fragment" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">196</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Catulle</persName> [<persName xml:lang="eng">Catullus, Gaius Valerius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100218993/</idno><idno type="LC">n79-6943</idno>
+        </author>,
+        <title xml:lang="lat">Carmina</title>,
+        <biblScope unit="ref">61.107-61.112</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0472.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:61.107-61.112" type="line">
     <w ref="61.107" lemma="o" pos="INJ" msd="MORPH=empty">o</w>
     <w ref="61.107" lemma="cubile" pos="NOMcom" msd="Case=Voc|Numb=Sing">cubile</w>
     <w ref="61.107" lemma="quod2" pos="CONsub" msd="Gend=Neut">quod</w>

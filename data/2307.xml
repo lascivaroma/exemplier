@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:9" ana="#mentula">
-  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>37.1-37.5</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:37.1-37.5" type="line">
+<div type="fragment" ana="#mentula">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">9</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Catulle</persName> [<persName xml:lang="eng">Catullus, Gaius Valerius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100218993/</idno><idno type="LC">n79-6943</idno>
+        </author>,
+        <title xml:lang="lat">Carmina</title>,
+        <biblScope unit="ref">37.3</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0472.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:37.3" type="line">
     <w ref="37.3" lemma="sol" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">solis</w>
     <w ref="37.3" lemma="puto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">putatis</w>
     <w ref="37.3" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>

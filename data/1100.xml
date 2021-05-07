@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:123" ana="#acte #male #pedico">
-  <bibl><author>Martial</author>, <title>Epigrammata</title>, <biblScope>11.87.1-11.87.2</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.87.1-11.87.2" type="line">
+<div type="fragment" ana="#acte #male #pedico">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">123</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Martial</persName> [<persName xml:lang="eng">Martial</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/8099277/</idno><idno type="LC">n82-13667</idno>
+        </author>,
+        <title xml:lang="lat">Epigrammata / Epigrams (Book 1-12)</title>,
+        <biblScope unit="ref">11.87.1-11.87.2</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1294.phi002.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.87.1-11.87.2" type="line">
     <w ref="11.87.1" lemma="diues" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">Dives</w>
     <w ref="11.87.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2">eras</w>
     <w ref="11.87.1" lemma="quondam" pos="ADV" msd="Deg=Pos">quondam</w>

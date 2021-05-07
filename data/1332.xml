@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:159" ana="#metaphore #acte #epouser #noces">
-  <bibl><author>Iulius Valerius Alexander Polemus</author>, <title>Res gestae Alexandri Macedonis translatae ex Aesopo graeco</title>, <biblScope>1.7-1.7</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1672.phi002.digilibLT-lat1:1.7-1.7" type="chapter">
+<div type="fragment" ana="#metaphore #acte #epouser #noces">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">159</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Iulius Valerius Alexander Polemus</persName> [<persName xml:lang="eng">Valerius, Julius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/12398599/</idno><idno type="LC">n94-97580</idno>
+        </author>,
+        <title xml:lang="lat">Res Gestae Alexandri Macedonis</title>,
+        <biblScope unit="ref">1.7</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1672.phi002.digilibLT-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1672.phi002.digilibLT-lat1:1.7" type="chapter">
     <w ref="1.7" lemma="at2" pos="CONcoo" msd="MORPH=empty">At</w>
     <w ref="1.7" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
     <w ref="1.7" lemma="sceptrum" pos="NOMcom" msd="Case=Abl|Numb=Sing">sceptro</w>

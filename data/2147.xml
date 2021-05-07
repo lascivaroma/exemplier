@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
-  <bibl ref="#adams"><author>Seneca, Lucius Annaeus, 55 B.C.-ca. 39 A.D.</author>, <title>Excerpta Controversiae</title>, <biblscope>7.6-7.6</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.630.82ff.</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi002.perseus-lat1:7.6-7.6" type="chapter">
+<div type="fragment" ana="#acte #metonymie #violence">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">198</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Sénèque le Père</persName> [<persName xml:lang="eng">Seneca, Lucius Annaeus, ca. 55 B.C.-ca. 39 A.D. (Seneca the Elder)</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/23497389/</idno><idno type="LC">n82-166595</idno>
+        </author>,
+        <title xml:lang="lat">Excerpta Controversiae</title>,
+        <biblScope unit="ref">7.6</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1014.phi002.perseus-lat1</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IV.630.82ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi002.perseus-lat1:7.6" type="chapter">
     <w ref="7.6" lemma="timeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Timuit</w>
     <w ref="7.6" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ille</w>
     <w ref="7.6" lemma="supplicium" pos="NOMcom" msd="Case=Acc|Numb=Sing">supplicium</w>

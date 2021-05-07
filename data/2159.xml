@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:200" ana="#acte #metonymie #insulter">
-  <bibl ref="#adams"><author>Curtius Rufus, Quintus</author>, <title>Historiarum Alexandri Magni</title>, <biblscope>3.12.21-3.12.22</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1. 389.76ff</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0860.phi001.perseus-lat2:3.12.21-3.12.22" type="section">
+<div type="fragment" ana="#acte #metonymie #insulter">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">200</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Quinte-Curce</persName> [<persName xml:lang="eng">Curtius Rufus, Quintus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/73866222/</idno><idno type="LC">n50-34703</idno>
+        </author>,
+        <title xml:lang="lat">Historiae Alexandri Magni </title>,
+        <biblScope unit="ref">3.12.22</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0860.phi001.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1. 389.76ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0860.phi001.perseus-lat2:3.12.22" type="section">
     <w ref="3.12.22" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="3.12.22" lemma="adeo2" pos="ADV" msd="Deg=Pos">adeo</w>
     <w ref="3.12.22" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>

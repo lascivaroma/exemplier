@@ -1,5 +1,19 @@
-<div  type="fragment" corresp="adams:57" ana="#male #euphemisms #abstracts #mentula">
-    <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg048:47.2">
+<div type="fragment" ana="#male #euphemisms #abstracts #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">57</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Vulgate</persName> [<persName xml:lang="eng">Vulgate</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/208174761/</idno><idno type="LC">nan</idno>
+        </author>,
+        <title xml:lang="lat">Isaiah</title>,
+        <biblScope unit="ref">47.2</biblScope>
+        <idno type="CTS_URN">urn:cts:greekLit:tlg0527.tlg048.obi-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg048.obi-lat1:47.2">
         <w lemma="denudo" pos="ADJqua" msd="Case=Abl|Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act">denuda</w>
         <w lemma="turpitudo" pos="NOMcom" msd="Case=Acc|Numb=Sing" ana="#male #euphemisms #abstracts">turpitudinem</w>
         <w lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">tuam</w>

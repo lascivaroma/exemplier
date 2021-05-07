@@ -1,7 +1,20 @@
-<div type="fragment" corresp="adams:56" ana="#euphemisms #aidoion #semen">
-  <bibl ref="#adams"><author>Seneca, Lucius Annaeus</author>, <title>de Ira</title>, <biblscope>2.3.2-2.3.2</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IX.2.159. 70ff.</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0255.stoa010.perseus-lat2:2.3.2-2.3.2" type="section">
+<div type="fragment" ana="#euphemisms #aidoion #semen">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">56</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Sénèque</persName> [<persName xml:lang="eng">Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/90637919/</idno><idno type="LC">n79-4229</idno>
+        </author>,
+        <title xml:lang="lat">De Ira (Dialogorum Liber III-V)</title>,
+        <biblScope unit="ref">2.3.2</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0255.stoa010.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IX.2.159. 70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0255.stoa010.perseus-lat2:2.3.2" type="section">
     <w ref="2.3.2" lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
     <w ref="2.3.2" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
     <w ref="2.3.2" lemma="quis2" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">quis</w>

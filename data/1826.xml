@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
-  <bibl ref="#adams"><author>Apuleius</author>, <title>Metamorphoses</title>, <biblscope>7.21-7.21</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:7.21-7.21" type="chapter">
+<div type="fragment" ana="#acte #metonymie #amo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">188</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Apulée</persName> [<persName xml:lang="eng">Apuleius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/32115433</idno><idno type="LC">n80-126286</idno>
+        </author>,
+        <title xml:lang="lat">Metamorphoses</title>,
+        <biblScope unit="ref">7.21</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1212.phi002.perseus-lat1</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:7.21" type="chapter">
     <w ref="7.21" lemma="illicitas" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=Fem">illicitas</w>
     <w ref="7.21" lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
     <w ref="7.21" lemma="incognitus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">incognitas</w>

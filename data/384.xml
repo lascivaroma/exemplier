@@ -1,4 +1,18 @@
-<div type="fragment" corresp="adams:69" ana="#male #testicle">
+<div type="fragment" ana="#male #testicle">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">69</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Phèdre</persName> [<persName xml:lang="eng">Phaedrus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100219094/</idno><idno type="LC">n50-47685</idno>
+        </author>,
+        <title xml:lang="lat">Fabulae  / Fabulae Aesopiae</title>,
+        <biblScope unit="ref">3.11.3</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0975.phi001.perseus-lat2</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0975.phi001.perseus-lat2:3.11.3">
         <w lemma="damnum" pos="NOMcom" msd="Case=Acc|Numb=Sing">Damnum</w>
         <w lemma="insector2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">insectatus</w>

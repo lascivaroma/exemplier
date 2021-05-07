@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:208" ana="#acte #oral">
-  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>4.12.1-4.12.2</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:4.12.1-4.12.2" type="line">
+<div type="fragment" ana="#acte #oral">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">208</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Martial</persName> [<persName xml:lang="eng">Martial</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/8099277/</idno><idno type="LC">n82-13667</idno>
+        </author>,
+        <title xml:lang="lat">Epigrammata / Epigrams (Book 1-12)</title>,
+        <biblScope unit="ref">4.12.2</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1294.phi002.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:4.12.2" type="line">
     <w ref="4.12.2" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">Hoc</w>
     <w ref="4.12.2" lemma="saltem" pos="ADV" msd="Deg=Pos">saltem</w>
     <w ref="4.12.2" lemma="pudeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">pudeat</w>

@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:148" ana="#metaphore #acte #frapper">
-  <bibl><author>Maximien</author>, <title>Elegiae</title>, <biblScope>5.93-5.98</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0196.stoa001.latinlibrary-lat1:5.93-5.98" type="line">
+<div type="fragment" ana="#metaphore #acte #frapper">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">148</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Maximien l'Étrusque</persName> [<persName xml:lang="eng">Maximianus, 6th cent.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/88034428/</idno><idno type="LC">n85-311132</idno>
+        </author>,
+        <title xml:lang="lat">Elegiae</title>,
+        <biblScope unit="ref">5.97-5.98</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0196.stoa001.latinlibrary-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0196.stoa001.latinlibrary-lat1:5.97-5.98" type="line">
     <w ref="5.97" lemma="quo1" pos="ADVrel" msd="Gend=MascNeut">quo</w>
     <w ref="5.97" lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
     <w ref="5.97" lemma="feruor" pos="NOMcom" msd="Case=Nom|Numb=Sing">feruor</w>

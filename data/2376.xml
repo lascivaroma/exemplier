@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:9" ana="#mentula">
-  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>49.1-49.4</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:49.1-49.4" type="line">
+<div type="fragment" ana="#mentula">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">9</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Priapées</persName> [<persName xml:lang="eng">Priapea</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/184679300/</idno><idno type="LC">n79-056813</idno>
+        </author>,
+        <title xml:lang="lat">Priapea</title>,
+        <biblScope unit="ref">49.3-49.4</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:49.3-49.4" type="line">
     <w ref="49.3" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="49.3" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ana="#mentula" ref="49.4" lemma="mentula" pos="NOMcom" msd="Case=Nom|Numb=Sing">mentula</w>

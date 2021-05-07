@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:166" ana="#metaphore #acte #chevaucher #course">
-  <bibl><author>Ovid</author>, <title>Remedy of Love</title>, <biblscope>429-432</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi005.perseus-lat2:429-432" type="line">
+<div type="fragment" ana="#metaphore #acte #chevaucher #course">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">166</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ovide</persName> [<persName xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/88342447/</idno><idno type="LC">n79-41738</idno>
+        </author>,
+        <title xml:lang="lat">Remedia Amoris </title>,
+        <biblScope unit="ref">429-430</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0959.phi005.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi005.perseus-lat2:429-430" type="line">
     <w ref="429" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">Ille</w>
     <w ref="429" lemma="quod2" pos="CONsub" msd="Case=Acc">quod</w>
     <w ref="429" lemma="obscenus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">obscenas</w>

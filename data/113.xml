@@ -1,5 +1,19 @@
-<div  type="fragment" corresp="adams:45" ana="#male #specialisation #euphemism #mentula">
-    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0299.stoa001.opp-lat1:309.9-309.10">
+<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">45</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+             
+            <idno type="VIAF">https://viaf.org/viaf/180649646/</idno><idno type="LC">n84-93130</idno>
+        </author>,
+        <title xml:lang="lat">Anthologia Latina</title>,
+        <biblScope unit="ref">309.9-309.10</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:309.9-309.10">
         <w lemma="dum2" pos="CONsub" msd="MORPH=empty">Dum</w>
         <w lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing" ana="#male #specialisation #euphemism #mentula">parte</w>
         <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>

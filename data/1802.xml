@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #have">
-  <bibl ref="#adams"><author>Virgil</author>, <title>Eclogues</title>, <biblscope>1.27-1.34</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VI.3.2409.33ff.</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi001.perseus-lat2:1.27-1.34" type="line">
+<div type="fragment" ana="#acte #metonymie #have">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">185</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Virgile</persName> [<persName xml:lang="eng">Vergil/Virgil</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/8194433/</idno><idno type="LC">n79-14062</idno>
+        </author>,
+        <title xml:lang="lat">Eclogae / Eclogues / Bucolica</title>,
+        <biblScope unit="ref">1.30-1.31</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0690.phi001.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>VI.3.2409.33ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi001.perseus-lat2:1.30-1.31" type="line">
     <w ref="1.30" lemma="respicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">respexit</w>
     <w ref="1.30" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
     <w ref="1.30" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

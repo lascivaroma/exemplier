@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:105" ana="#female #womb">
-  <bibl><author>Tertullian</author>, <title>De Carne Christi</title>, <biblScope>20-20</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa012.opp-lat1:20-20" type="chapter">
+<div type="fragment" ana="#female #womb">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">105</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Tertullien</persName> [<persName xml:lang="eng">Tertullian, ca. 160-ca. 230</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100226395/</idno><idno type="LC">n79-91867</idno>
+        </author>,
+        <title xml:lang="lat">De Carne Christi</title>,
+        <biblScope unit="ref">20</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0275.stoa012.opp-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa012.opp-lat1:20" type="chapter">
     <w ref="20" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
     <w ref="20" lemma="adhaereo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">adhaesit</w>
     <w ref="20" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>

@@ -1,4 +1,18 @@
-<div type="fragment" corresp="adams:68" ana="#male #testicle">
+<div type="fragment" ana="#male #testicle">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">68</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ammien Marcellin</persName> [<persName xml:lang="eng">Ammianus Marcellinus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/89594750/</idno><idno type="LC">n80-65875</idno>
+        </author>,
+        <title xml:lang="lat">Res Gestae </title>,
+        <biblScope unit="ref">16.7.5</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0023.stoa001.perseus-lat1</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0023.stoa001.perseus-lat1:16.7.5">
         <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
         <w lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>

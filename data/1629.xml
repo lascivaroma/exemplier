@@ -1,7 +1,20 @@
-<div type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
-  <bibl ref="#adams"><author>Vulgate</author>, <title>Leviticus</title>, <biblscope>15.31-16.1</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg003.obi-lat1:15.31-16.1" type="verse">
+<div type="fragment" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">179</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Vulgate</persName> [<persName xml:lang="eng">Vulgate</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/208174761/</idno><idno type="LC">nan</idno>
+        </author>,
+        <title xml:lang="lat">Lévitique</title>,
+        <biblScope unit="ref">15.32</biblScope>
+        <idno type="CTS_URN">urn:cts:greekLit:tlg0527.tlg003.obi-lat1</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg003.obi-lat1:15.32" type="verse">
     <w ref="15.32" lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ista</w>
     <w ref="15.32" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="15.32" lemma="lex" pos="NOMcom" msd="Case=Nom|Numb=Sing">lex</w>

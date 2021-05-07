@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
-  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Pseudolus</title>, <biblscope>1259-1264</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi016.perseus-lat2:1259-1264" type="line">
+<div type="fragment" ana="#acte #metonymie #join">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">179</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Plaute</persName> [<persName xml:lang="eng">Plautus, Titus Maccius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/66462281/</idno><idno type="LC">n80-14980</idno>
+        </author>,
+        <title xml:lang="lat">Pseudolus </title>,
+        <biblScope unit="ref">1261</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0119.phi016.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi016.perseus-lat2:1261" type="line">
     <w ref="1261" lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
     <w ana="#acte #metonymie #join" ref="1261" lemma="mamma" pos="NOMcom" msd="Case=Acc|Numb=Sing">mámmam</w>
     <w ana="#acte #metonymie #join" ref="1261" lemma="mammiculus" pos="NOMcom" msd="Case=Nom|Numb=Plur|Deg=Pos">mammicula</w>

@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
-  <bibl ref="#adams"><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblscope>21.21-21.21</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:21.21-21.21" type="chapter">
+<div type="fragment" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">179</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Pline l'Ancien</persName> [<persName xml:lang="eng">Pliny the Elder</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100219162/</idno><idno type="LC">n79-42075</idno>
+        </author>,
+        <title xml:lang="lat">Naturalis Historia / Historia Naturalis</title>,
+        <biblScope unit="ref">21.21</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0978.phi001.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:21.21" type="chapter">
     <w ref="21.21" lemma="efficax" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Sup">efficacissimamque</w>
     <w ref="21.21" lemma="que" pos="CON" msd="MORPH=empty">{efficacissimamque}</w>
     <w ref="21.21" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>

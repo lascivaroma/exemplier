@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:150" ana="#metaphore #couper #tailler #desir">
-  <bibl><author>Catullus</author>, <title>Carmina</title>, <biblScope>11.17-11.24</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:11.17-11.24" type="line">
+<div type="fragment" ana="#metaphore #couper #tailler #desir">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">150</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Catulle</persName> [<persName xml:lang="eng">Catullus, Gaius Valerius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100218993/</idno><idno type="LC">n79-6943</idno>
+        </author>,
+        <title xml:lang="lat">Carmina</title>,
+        <biblScope unit="ref">11.17-11.24</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0472.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:11.17-11.24" type="line">
     <w ref="11.17" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="11.17" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Plur|Gend=Com">suis</w>
     <w ref="11.17" lemma="uiuo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">vivat</w>

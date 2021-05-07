@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
-  <bibl><author>Valerius Flaccus, Gaius</author>, <title>Argonautica</title>, <biblScope>2.422-2.424</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1035.phi001.perseus-lat2:2.422-2.424" type="line">
+<div type="fragment" ana="#female #cunnus #womb">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">100</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Valerius Flaccus</persName> [<persName xml:lang="eng">Valerius Flaccus, Gaius, 1st cent.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100899421/</idno><idno type="LC">n84-216357</idno>
+        </author>,
+        <title xml:lang="lat">Argonautica</title>,
+        <biblScope unit="ref">2.422-2.424</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1035.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1035.phi001.perseus-lat2:2.422-2.424" type="line">
     <w ref="2.422" lemma="eo1" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">i</w>
     <w ref="2.422" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="2.422" lemma="memor" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">memor</w>

@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:183" ana="#acte #metonymie #rub #futuo">
-  <bibl ref="#adams"><author>Anthologia Latina</author>, <title>Anthologia Latina</title>, <biblscope>190.7-190.8</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:190.7-190.8" type="line">
+<div type="fragment" ana="#acte #metonymie #rub #futuo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">183</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+             
+            <idno type="VIAF">https://viaf.org/viaf/180649646/</idno><idno type="LC">nan</idno>
+        </author>,
+        <title xml:lang="lat">Anthologie Latine</title>,
+        <biblScope unit="ref">190.8</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:190.8" type="line">
     <w ref="190.8" lemma="tu" pos="PROper" msd="Case=Abl|Numb=Sing">Te</w>
     <w ref="190.8" lemma="dux" pos="NOMcom" msd="Case=Abl|Numb=Sing">duce</w>
     <w ref="190.8" lemma="lasciuus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos">lasciuae</w>

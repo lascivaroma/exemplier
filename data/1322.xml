@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:158" ana="#metaphore #acte #lutter #sebattre">
-  <bibl><author>Arnobius of Sicca</author>, <title>Arnobii adversus nationes Libri VII</title>, <biblScope>5.9-5.9</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.9-5.9" type="section">
+<div type="fragment" ana="#metaphore #acte #lutter #sebattre">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">158</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Arnobe</persName> [<persName xml:lang="eng">Arnobius, of Sicca</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100902203/</idno><idno type="LC">n79-63599</idno>
+        </author>,
+        <title xml:lang="lat">Adversus Nationes \ Disputationum Adversus Gentes</title>,
+        <biblScope unit="ref">5.9</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0034.stoa001.opp-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.9" type="section">
     <w ref="5.9" lemma="uis" pos="NOMcom" msd="Case=Abl|Numb=Sing">ui</w>
     <w ref="5.9" lemma="mater" pos="NOMcom" msd="Case=Acc|Numb=Sing">matrem</w>
     <w ana="#metaphore #acte #lutter #sebattre" ref="5.9" lemma="aggredior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">adgressus</w>

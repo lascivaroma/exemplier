@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
-  <bibl><author>P. Vergilius Maro</author>, <title>Aeneid</title>, <biblScope>11.809-11.815</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi003.perseus-lat2:11.809-11.815" type="line">
+<div type="fragment" ana="#female #cunnus #womb">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">100</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Virgile</persName> [<persName xml:lang="eng">Vergil/Virgil</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/8194433/</idno><idno type="LC">n79-14062</idno>
+        </author>,
+        <title xml:lang="lat">Aeneis  / Aeneid</title>,
+        <biblScope unit="ref">11.809-11.815</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0690.phi003.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi003.perseus-lat2:11.809-11.815" type="line">
     <w ref="11.809" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="11.809" lemma="prius" pos="ADJadv.ord" msd="Deg=Comp">prius</w>
     <w ref="11.809" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>

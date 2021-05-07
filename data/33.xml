@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:31" ana="#male  #metaphore #animal #mentula">
+<div type="fragment" ana="#male  #metaphore #animal #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">31</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Constantia</persName> 
+            <idno type="VIAF">nan</idno><idno type="LC">nan</idno>
+        </author>,
+        <title xml:lang="lat">Epistula ad Baldericum</title>,
+        <biblScope unit="ref">69-72</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0097.phi001</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0097.phi001:69-72">
         <w lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>

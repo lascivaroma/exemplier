@@ -1,4 +1,18 @@
-<div type="fragment" corresp="adams:91" ana="#sinus #euphemism  #female #cunnus">
+<div type="fragment" ana="#sinus #euphemism  #female #cunnus">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">91</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Lactance</persName> [<persName xml:lang="eng">Lactantius, ca. 240-ca. 320.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100198064/</idno><idno type="LC">n50-41328</idno>
+        </author>,
+        <title xml:lang="lat">Institutiones Divinae / Divinarum Institutionum</title>,
+        <biblScope unit="ref">1.20.36</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0171.stoa009.opp-lat1</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0171.stoa009.opp-lat1:1.20.36">
         <w lemma="tutinus" pos="ADJqua" msd="Case=Nom|Numb=Sing">Tutinus</w>
         <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>

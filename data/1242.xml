@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:150" ana="#metaphore #acte #couper #tailler">
-  <bibl><author>Apuleius</author>, <title>Metamorphoses</title>, <biblScope>10.22-10.22</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:10.22-10.22" type="chapter">
+<div type="fragment" ana="#metaphore #acte #couper #tailler">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">150</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Apulée</persName> [<persName xml:lang="eng">Apuleius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/32115433</idno><idno type="LC">n80-126286</idno>
+        </author>,
+        <title xml:lang="lat">Metamorphoses</title>,
+        <biblScope unit="ref">10.22</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1212.phi002.perseus-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:10.22" type="chapter">
     <w ref="10.22" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
     <w ref="10.22" lemma="amplus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">amplo</w>
     <w ref="10.22" lemma="os1" pos="NOMcom" msd="Case=Abl|Numb=Sing">ore</w>

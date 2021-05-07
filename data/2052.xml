@@ -1,7 +1,20 @@
-<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
-  <bibl ref="#adams"><author>Vulgate</author>, <title>Genesis</title>, <biblscope>34.30-35.2</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL I.241.68ff.</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg001.obi-lat1:34.30-35.2" type="verse">
+<div type="fragment" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">196</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Vulgate</persName> [<persName xml:lang="eng">Vulgate</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/208174761/</idno><idno type="LC">nan</idno>
+        </author>,
+        <title xml:lang="lat">Génèse</title>,
+        <biblScope unit="ref">34.31</biblScope>
+        <idno type="CTS_URN">urn:cts:greekLit:tlg0527.tlg001.obi-lat1</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL I.241.68ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg001.obi-lat1:34.31" type="verse">
      <w ref="34.31" lemma="respondeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">responderunt</w>
     <w ref="34.31" lemma="numquid" pos="ADVint" msd="MORPH=empty">numquid</w>
     <w ref="34.31" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>

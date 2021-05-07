@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:181" ana="#acte #male #metonymie #acte #embrace">
-  <bibl ref="#adams"><author>Horace</author>, <title>Odes</title>, <biblscope>1.5.1-1.5.3</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
+<div type="fragment" ana="#acte #male #metonymie #acte #embrace">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">181</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Horace</persName> [<persName xml:lang="eng">Horace</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100227522/</idno><idno type="LC">n79-81354</idno>
+        </author>,
+        <title xml:lang="lat">Carmina  / Odae</title>,
+        <biblScope unit="ref">1.5.1-1.5.3</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0893.phi001.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.2157.70ff.</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi001.perseus-lat2:1.5.1-1.5.3" type="line">
     <w ref="1.5.1" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=MascFem">Quis</w>
     <w ref="1.5.1" lemma="multus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Fem|Deg=Pos">multa</w>

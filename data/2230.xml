@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:206" ana="#acte #animals #salio">
-  <bibl ref="#adams"><author>Ovid</author>, <title>Book of Days</title>, <biblscope>4.771-4.772</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi007.perseus-lat2:4.771-4.772" type="line">
+<div type="fragment" ana="#acte #animals #salio">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">206</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ovide</persName> [<persName xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/88342447/</idno><idno type="LC">n79-41738</idno>
+        </author>,
+        <title xml:lang="lat">Fasti </title>,
+        <biblScope unit="ref">4.771-4.772</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0959.phi007.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi007.perseus-lat2:4.771-4.772" type="line">
     <w ref="4.771" lemma="sum" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sitque</w>
     <w ref="4.771" lemma="que" pos="CON" msd="MORPH=empty">{sitque}</w>
     <w ana="#acte #animals #salio" ref="4.771" lemma="salax" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">salax</w>

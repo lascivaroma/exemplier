@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:105" ana="">
-  <bibl><author>Vulgate</author>, <title>Numbers</title>, <biblScope>8.16-8.16</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg004.obi-lat1:8.16-8.16" type="verse">
+<div type="fragment" ana="">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">105</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Vulgate</persName> [<persName xml:lang="eng">Vulgate</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/208174761/</idno><idno type="LC">nan</idno>
+        </author>,
+        <title xml:lang="lat">Nombres</title>,
+        <biblScope unit="ref">8.16</biblScope>
+        <idno type="CTS_URN">urn:cts:greekLit:tlg0527.tlg004.obi-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg004.obi-lat1:8.16" type="verse">
     <w ref="8.16" lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>
     <w ref="8.16" lemma="primogenitae" pos="ADJqua" msd="Case=Abl|Numb=Plur|Deg=Pos">primogenitis</w>
     <w ref="8.16" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Neut">quae</w>

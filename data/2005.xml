@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:195" ana="#acte #metonymie #consequences">
-  <bibl ref="#adams"><author>Historia Apollonii regis Tyri recensio B</author>, <title>Historia Apollonii regis Tyri recensio B</title>, <biblscope>1.2-1.2</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0323.stoa001.digilibLT-lat1:1.2-1.2" type="paragraph">
+<div type="fragment" ana="#acte #metonymie #consequences">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">195</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+             
+            <idno type="VIAF">https://viaf.org/viaf/6806151002122230280008/</idno><idno type="LC">n82-005890</idno>
+        </author>,
+        <title xml:lang="lat">Historia Apollonii Regis Tyri</title>,
+        <biblScope unit="ref">1.2</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0323.stoa001.digilibLT-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0323.stoa001.digilibLT-lat1:1.2" type="paragraph">
     <w ref="1.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="1.2" lemma="stimulo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">stimulante</w>
     <w ref="1.2" lemma="furor1" pos="NOMcom" msd="Case=Abl|Numb=Sing">furore</w>

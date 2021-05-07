@@ -1,7 +1,20 @@
-<div type="fragment" corresp="adams:175" ana="#acte #metonymie #aller_en_vue_de">
-  <bibl ref="#adams"><author>Paris, Julius</author>, <title>Facta et Dicta Memorabilia</title>, <biblscope>7.3.10-7.3.10</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.2.639.32ff</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1038.phi001.perseus-lat1:7.3.10-7.3.10" type="section">
+<div type="fragment" ana="#acte #metonymie #aller_en_vue_de">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">175</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Valère Maxime</persName> [<persName xml:lang="eng">Valerius Maximus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/25395604/</idno><idno type="LC">n82-97560</idno>
+        </author>,
+        <title xml:lang="lat">Facta et Dicta Memorabilia</title>,
+        <biblScope unit="ref">7.3.10</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1038.phi001.perseus-lat1</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>V.2.639.32ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1038.phi001.perseus-lat1:7.3.10" type="section">
     <w ref="7.3.10" lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
     <w ref="7.3.10" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eum</w>
     <w ref="7.3.10" lemma="inconcessus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com">inconcessis</w>

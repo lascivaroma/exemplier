@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
-  <bibl ref="#adams"><author>Iustinianus</author>, <title>Digesta Iustiniani Augusti</title>, <biblscope>12.4.8-12.4.8</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.1418.7ff.</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0168.stoa001b.corpuscorporum-lat1:12.4.8-12.4.8" type="section">
+<div type="fragment" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">179</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Justinien</persName> [<persName xml:lang="eng">Justinian I, Emperor of the East, 483?-565</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/88881722/</idno><idno type="LC">n79-32202</idno>
+        </author>,
+        <title xml:lang="lat">Digesta Iustiani</title>,
+        <biblScope unit="ref">12.4.8</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0168.stoa001b.corpuscorporum-lat1</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.1418.7ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0168.stoa001b.corpuscorporum-lat1:12.4.8" type="section">
     <w ref="12.4.8" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
     <w ref="12.4.8" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
     <w ref="12.4.8" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>

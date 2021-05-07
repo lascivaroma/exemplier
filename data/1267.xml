@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:153" ana="#metaphore #acte #agriculture #moudre">
-  <bibl><author>Horace</author>, <title>Satires</title>, <biblScope>1.2.31-1.2.35</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.31-1.2.35" type="line">
+<div type="fragment" ana="#metaphore #acte #agriculture #moudre">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">153</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Horace</persName> [<persName xml:lang="eng">Horace</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100227522/</idno><idno type="LC">n79-81354</idno>
+        </author>,
+        <title xml:lang="lat">Sermones  / Saturae</title>,
+        <biblScope unit="ref">1.2.34-1.2.35</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0893.phi004.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.34-1.2.35" type="line">
     <w ref="1.2.34" lemma="huc" pos="ADV" msd="Deg=Pos">huc</w>
     <w ref="1.2.34" lemma="iuuenis1" pos="NOMcom" msd="Case=Nom|Numb=Plur">iuvenes</w>
     <w ref="1.2.34" lemma="aequus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">aequom</w>

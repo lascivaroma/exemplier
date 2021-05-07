@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
-  <bibl ref="#adams"><author>Ovid</author>, <title>Metamorphoses</title>, <biblscope>12.201-12.203</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VII.1.1670.67ff.</biblscope></bibl>
+<div type="fragment" ana="#acte #metonymie #violence">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">198</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ovide</persName> [<persName xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/88342447/</idno><idno type="LC">n79-41738</idno>
+        </author>,
+        <title xml:lang="lat">Metamorphoses</title>,
+        <biblScope unit="ref">12.201-12.203</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0959.phi006.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VII.1.1670.67ff.</biblscope></bibl>
   <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:12.201-12.203" type="line">
     <w ref="12.201" lemma="“" pos="PUNC" msd="MORPH=empty">“</w>
     <w ref="12.201" lemma="magnus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">Magnum</w>

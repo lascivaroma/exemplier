@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:144" ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme #composite">
-  <bibl><author>Ausonius, Decimus Magnus</author>, <title>Cento Nuptialis</title>, <biblScope>128-131</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:128-131" type="line">
+<div type="fragment" ana="#metaphore #acte #atteindre_objectif #ejaculation #orgasme #composite">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">144</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ausone</persName> [<persName xml:lang="eng">Ausonius, Decimus Magnus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/109786483/</idno><idno type="LC">n80-128611</idno>
+        </author>,
+        <title xml:lang="lat">Cento Nuptialis (Edyll. XIII)</title>,
+        <biblScope unit="ref">128-131</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0045.stoa003.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:128-131" type="line">
     <w ref="128" lemma="iam" pos="ADV" msd="Deg=Pos">iamque</w>
     <w ref="128" lemma="que" pos="CON" msd="MORPH=empty">{iamque}</w>
     <w ref="128" lemma="fere" pos="ADV" msd="Deg=Pos">fere</w>

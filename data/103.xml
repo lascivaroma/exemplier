@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:43" ana="#male #proprieteprivee #metaphore #mentula">
+<div type="fragment" ana="#male #proprieteprivee #metaphore #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">43</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Plaute</persName> [<persName xml:lang="eng">Plautus, Titus Maccius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/66462281/</idno><idno type="LC">n80-14980</idno>
+        </author>,
+        <title xml:lang="lat">Pseudolus </title>,
+        <biblScope unit="ref">1187-1189</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0119.phi016.perseus-lat2</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi016.perseus-lat2:1187-1189">
         <w lemma="meus" pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Fem">mea</w>
         <w lemma="quidem" pos="ADV" msd="Deg=Pos">quidem</w>

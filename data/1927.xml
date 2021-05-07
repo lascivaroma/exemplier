@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:190" ana="#acte #metonymie #enter">
-  <bibl ref="#adams"><author>Cassian, John ca. 360-ca. 435</author>, <title>De Incarnatione Domini Contra Nestorum</title>, <biblscope>1.5.5-1.5.5</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0076c.stoa003.opp-lat1:1.5.5-1.5.5" type="section">
+<div type="fragment" ana="#acte #metonymie #enter">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">190</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Jean Cassien</persName> [<persName xml:lang="eng">Cassian, John (Cassianus), ca. 360-ca. 435</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/7408676/</idno><idno type="LC">n82-220110</idno>
+        </author>,
+        <title xml:lang="lat">De Incarnatione Domini Contra Nestorum</title>,
+        <biblScope unit="ref">1.5.5</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0076c.stoa003.opp-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0076c.stoa003.opp-lat1:1.5.5" type="section">
     <w ref="1.5.5" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
     <w ref="1.5.5" lemma="ergo2" pos="CONcoo" msd="MORPH=empty">ergo</w>
     <w ref="1.5.5" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>

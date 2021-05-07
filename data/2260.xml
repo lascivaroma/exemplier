@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:206" ana="#acte #animals #salio #humain">
-  <bibl ref="#adams"><author>Plautus, Titus Maccius</author>, <title>Curculio</title>, <biblscope>50b-50b</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi008.perseus-lat2:50b-50b" type="line">
+<div type="fragment" ana="#acte #animals #salio #humain">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">206</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Plaute</persName> [<persName xml:lang="eng">Plautus, Titus Maccius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/66462281/</idno><idno type="LC">n80-14980</idno>
+        </author>,
+        <title xml:lang="lat">Curculio </title>,
+        <biblScope unit="ref">50b</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0119.phi008.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi008.perseus-lat2:50b" type="line">
     <w ref="50b" lemma="iam" pos="ADV" msd="Deg=Pos">Iamne</w>
     <w ref="50b" lemma="ne2" pos="ADV" msd="MORPH=empty">{Iamne}</w>
     <w ref="50b" lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ea</w>

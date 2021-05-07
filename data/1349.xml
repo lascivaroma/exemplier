@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:162" ana="#metaphore #acte #joke #jeu">
-  <bibl><author>Anthologia Latina</author>, <title>Anthologia Latina</title>, <biblscope>021.285-022.2</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:021.285-022.2" type="line">
+<div type="fragment" ana="#metaphore #acte #joke #jeu">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">162</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+             
+            <idno type="VIAF">https://viaf.org/viaf/180649646/</idno><idno type="LC">nan</idno>
+        </author>,
+        <title xml:lang="lat">Anthologie Latine</title>,
+        <biblScope unit="ref">021.285-022.2</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:021.285-022.2" type="line">
     <w ref="021.285" lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
     <w ref="022.1" lemma="eo1" pos="VER" msd="Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2">Ite</w>
     <w ref="022.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

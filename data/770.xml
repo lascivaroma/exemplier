@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:101" ana="#female #womb">
-  <bibl><author>Scribonius Largus</author>, <title>Compositiones</title>, <biblScope>121-121</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1011.phi001.lascivaroma-lat1:121-121" type="section">
+<div type="fragment" ana="#female #womb">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">101</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Scribonius Largus</persName> [<persName xml:lang="eng">Scribonius Largus, ca. 1-ca. 50</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100210100/</idno><idno type="LC">n82-239358</idno>
+        </author>,
+        <title xml:lang="lat">Compositiones / Compositiones Medcamentorum</title>,
+        <biblScope unit="ref">121</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1011.phi001.lascivaroma-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1011.phi001.lascivaroma-lat1:121" type="section">
     <w ref="121" lemma="is" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">eis</w>
     <w ref="121" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     <w ref="121" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>

@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:189" ana="#acte #metonymie #patior">
-  <bibl ref="#adams"><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Naturales quaestiones</title>, <biblscope>1.16.6-1.16.6</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi016.corpuscorporum-lat1:1.16.6-1.16.6" type="section">
+<div type="fragment" ana="#acte #metonymie #patior">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">189</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+             [<persName xml:lang="eng">Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/90637919/</idno><idno type="LC">n79-4229</idno>
+        </author>,
+        <title xml:lang="lat">Naturales Quaestiones / Quaestiones naturales</title>,
+        <biblScope unit="ref">1.16.6</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1017.phi016.corpuscorporum-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi016.corpuscorporum-lat1:1.16.6" type="section">
     <w ref="1.16.6" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">Est</w>
     <w ref="1.16.6" lemma="aliquis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">aliqua</w>
     <w ref="1.16.6" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>

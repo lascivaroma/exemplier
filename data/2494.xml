@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:61" ana="#male #natura  #euphemism #mentula">
-  <bibl ref="#adams"><author>Gaius</author>, <title>Institutiones</title>, <biblscope>3.193-3.193</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1251.phi001.corpuscorporum-lat1:3.193-3.193" type="section">
+<div type="fragment" ana="#male #natura  #euphemism #mentula">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">61</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Gaius</persName> [<persName xml:lang="eng">Gaius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/5725215/</idno><idno type="LC">n80-120984</idno>
+        </author>,
+        <title xml:lang="lat">Institutiones / Institutiones Juris Civilis</title>,
+        <biblScope unit="ref">3.193</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1251.phi001.corpuscorporum-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1251.phi001.corpuscorporum-lat1:3.193" type="section">
     <w ref="3.193" lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Neut">Quid</w>
     <w ref="3.193" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
     <w ref="3.193" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>

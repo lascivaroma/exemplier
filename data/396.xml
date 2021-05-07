@@ -1,4 +1,18 @@
-<div type="fragment" corresp="adams:70" ana="#male #testicle">
+<div type="fragment" ana="#male #testicle">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">70</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Pline l'Ancien</persName> [<persName xml:lang="eng">Pliny the Elder</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100219162/</idno><idno type="LC">n79-42075</idno>
+        </author>,
+        <title xml:lang="lat">Naturalis Historia / Historia Naturalis</title>,
+        <biblScope unit="ref">35.12</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0978.phi001.perseus-lat2</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:35.12">
         <w ana="#male #testicules" lemma="uirilitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">virilitatem</w>
         <w lemma="amputo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">amputare</w>

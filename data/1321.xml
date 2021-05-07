@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:158" ana="#metaphore #acte #lutter #sebattre">
-  <bibl><author>Apuleius</author>, <title>Metamorphoses</title>, <biblScope>7.21-7.21</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:7.21-7.21" type="chapter">
+<div type="fragment" ana="#metaphore #acte #lutter #sebattre">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">158</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Apulée</persName> [<persName xml:lang="eng">Apuleius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/32115433</idno><idno type="LC">n80-126286</idno>
+        </author>,
+        <title xml:lang="lat">Metamorphoses</title>,
+        <biblScope unit="ref">7.21</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1212.phi002.perseus-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:7.21" type="chapter">
     <w ref="7.21" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
     <w ref="7.21" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">eam</w>
     <w ref="7.21" lemma="furiosus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">furiosos</w>

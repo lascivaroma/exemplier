@@ -1,7 +1,20 @@
-<div type="fragment" corresp="adams:56" ana="#euphemisms #aidoion">
-  <bibl ref="#adams"><author>Flavius Iosephus</author>, <title>De Iudaeorum Vetustate sive Contra Apionem</title>, <biblscope>2.143-2.143</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IX.2.159. 70ff.</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0526.tlg003.opp-lat1:2.143-2.143" type="section">
+<div type="fragment" ana="#euphemisms #aidoion">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">56</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Flavius Josèphe</persName> [<persName xml:lang="eng">Josephus, Flavius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/22143666/</idno><idno type="LC">n80015583</idno>
+        </author>,
+        <title xml:lang="lat">Contre Apion</title>,
+        <biblScope unit="ref">2.143</biblScope>
+        <idno type="CTS_URN">urn:cts:greekLit:tlg0526.tlg003.opp-lat1</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IX.2.159. 70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0526.tlg003.opp-lat1:2.143" type="section">
     <w ref="2.143" lemma="unde1" pos="ADVrel" msd="MORPH=empty">unde</w>
     <w ref="2.143" lemma="recte" pos="ADV" msd="Deg=Pos">recte</w>
     <w ref="2.143" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>

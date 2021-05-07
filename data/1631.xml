@@ -1,7 +1,20 @@
-<div type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
-  <bibl ref="#adams"><author>Vulgate</author>, <title>Leviticus</title>, <biblscope>19.19-19.21</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg003.obi-lat1:19.19-19.21" type="verse">
+<div type="fragment" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">179</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Vulgate</persName> [<persName xml:lang="eng">Vulgate</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/208174761/</idno><idno type="LC">nan</idno>
+        </author>,
+        <title xml:lang="lat">Lévitique</title>,
+        <biblScope unit="ref">19.20</biblScope>
+        <idno type="CTS_URN">urn:cts:greekLit:tlg0527.tlg003.obi-lat1</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>III.1567.48ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg003.obi-lat1:19.20" type="verse">
     <w ref="19.20" lemma="homo" pos="NOMcom" msd="Case=Nom|Numb=Sing">homo</w>
     <w ref="19.20" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
     <w ref="19.20" lemma="dormio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">dormierit</w>

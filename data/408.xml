@@ -1,4 +1,18 @@
-<div type="fragment" corresp="adams:71" ana="#male #testicle">
+<div type="fragment" ana="#male #testicle">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">71</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Plaute</persName> [<persName xml:lang="eng">Plautus, Titus Maccius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/66462281/</idno><idno type="LC">n80-14980</idno>
+        </author>,
+        <title xml:lang="lat">Poenulus</title>,
+        <biblScope unit="ref">863</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0119.phi015.perseus-lat2</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi015.perseus-lat2:863">
         <w lemma="refero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">Refero</w>
         <w ana="#male #testicle" lemma="uas2" pos="NOMcom" msd="Case=Acc|Numb=Plur">vasa</w>

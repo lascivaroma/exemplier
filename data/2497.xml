@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:85" ana="#caves #culus #metaphore">
-  <bibl ref="#adams"><author>Scribonius Largus</author>, <title>Compositions Médicales</title>, <biblscope>95-95</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.646.41ff.</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1011.phi001.lascivaroma-lat1:95-95" type="section">
+<div type="fragment" ana="#caves #culus #metaphore">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">85</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Scribonius Largus</persName> [<persName xml:lang="eng">Scribonius Largus, ca. 1-ca. 50</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100210100/</idno><idno type="LC">n82-239358</idno>
+        </author>,
+        <title xml:lang="lat">Compositiones / Compositiones Medcamentorum</title>,
+        <biblScope unit="ref">95</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1011.phi001.lascivaroma-lat1</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.646.41ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1011.phi001.lascivaroma-lat1:95" type="section">
     <w ref="95" lemma="prosum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">prodest</w>
     <w ref="95" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="95" lemma="doleo" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">dolenti</w>

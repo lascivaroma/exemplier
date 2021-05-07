@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:53" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">53</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Théodore Priscien</persName> [<persName xml:lang="eng">Priscianus, Theodorus.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/79060995/</idno><idno type="LC">n85-56645</idno>
+        </author>,
+        <title xml:lang="lat">Euporiston</title>,
+        <biblScope unit="ref">1.27</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0234b.stoa001.opp-lat1</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.opp-lat1:1.27">
         <w lemma="ueretrum" pos="NOMcom" msd="Case=Gen|Numb=Sing|Deg=Pos" ana="#male #euphemisms #aidoion #mentula">veretri</w>
         <w lemma="dolor" pos="NOMcom" msd="Case=Nom|Numb=Plur">dolores</w>

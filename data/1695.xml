@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:180" ana="#metonymie #acte #misceo">
-  <bibl ref="#adams"><author>Lucius Ampelius</author>, <title>Liber memorialis</title>, <biblscope>9-9</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0024.stoa001.digilibLT-lat1:9-9" type="unknown">
+<div type="fragment" ana="#metonymie #acte #misceo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">180</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Lucius Ampelius</persName> [<persName xml:lang="eng">Ampelius, Lucius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/51704102/</idno><idno type="LC">n81-84530</idno>
+        </author>,
+        <title xml:lang="lat">Liber Memorialis</title>,
+        <biblScope unit="ref">9</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0024.stoa001.digilibLT-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0024.stoa001.digilibLT-lat1:9" type="unknown">
     <w ref="9" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
     <w ref="9" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
     <w ref="9" lemma="Mars" pos="NOMpro" msd="Case=Abl|Numb=Sing">Marte</w>

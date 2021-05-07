@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:119" ana="#acte #male #futuo #actor">
-  <bibl><author>Anthologia Latina</author>, <title>Anthologia Latina</title>, <biblScope>148.5-148.8</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:148.5-148.8" type="line">
+<div type="fragment" ana="#acte #male #futuo #actor">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">119</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+             
+            <idno type="VIAF">https://viaf.org/viaf/180649646/</idno><idno type="LC">nan</idno>
+        </author>,
+        <title xml:lang="lat">Anthologie Latine</title>,
+        <biblScope unit="ref">148.5-148.8</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:148.5-148.8" type="line">
     <w ref="148.5" lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
     <w ref="148.5" lemma="qua1" pos="ADVrel" msd="Gend=Fem">qua</w>
     <w ref="148.5" lemma="longus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">longa</w>

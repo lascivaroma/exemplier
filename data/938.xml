@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:112" ana="#anus #culus">
-  <bibl><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblScope>II.62-II.62</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.62-II.62" type="part">
+<div type="fragment" ana="#anus #culus">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">112</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Caelius Aurelianus</persName> [<persName xml:lang="eng">Caelius Aurelianus (Aurelianus, Caelius)</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/102322199</idno><idno type="LC">n85-800480</idno>
+        </author>,
+        <title xml:lang="lat">Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>,
+        <biblScope unit="ref">II.62</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.62" type="part">
     <w ref="II.62" lemma="aliquis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Masc">aliqui</w>
     <w ref="II.62" lemma="ergo2" pos="CONcoo" msd="MORPH=empty">ergo</w>
     <w ref="II.62" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>

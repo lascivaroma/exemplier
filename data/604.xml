@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:99" ana="#female #cunnus #labia">
-  <bibl><author>Mustio</author>, <title>Gynaecia</title>, <biblScope>203-203</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:temp0001.temp001.bolton-lat1:203-203" type="None">
+<div type="fragment" ana="#female #cunnus #labia">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">99</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Mustio</persName> [<persName xml:lang="eng">Mustio</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/79251637/</idno><idno type="LC">nan</idno>
+        </author>,
+        <title xml:lang="lat">Gynaecia</title>,
+        <biblScope unit="ref">203</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0205b.stoa001.bolton-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0205b.stoa001.bolton-lat1:203" type="None">
     <w ref="203" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
     <w ref="203" lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
     <w ana="#female #cunnus #labia" ref="203" lemma="pinnacula" pos="NOMcom" msd="Case=Dat|Numb=Plur">pinnaculis</w>

@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:106" ana="#female #womb #medical">
-  <bibl><author>Cassius Felix</author>, <title>De medicina</title>, <biblScope>82.1-82.1</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:82.1-82.1" type="paragraph">
+<div type="fragment" ana="#female #womb #medical">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">106</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Cassius Felix</persName> [<persName xml:lang="eng">Cassius Felix, fl. 477</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/71367291/</idno><idno type="LC">no2002-62176</idno>
+        </author>,
+        <title xml:lang="lat">De Medicina</title>,
+        <biblScope unit="ref">82.1</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:82.1" type="paragraph">
     <w ana="#female #womb #medical" ref="82.1" lemma="matricus" pos="NOMcom" msd="Case=Dat|Numb=Plur">Matricis</w>
     <w ref="82.1" lemma="emorragianium" pos="ADJqua" msd="Case=Acc|Numb=Sing">emorragian</w>
     <w ref="82.1" lemma="Latinus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">latino</w>

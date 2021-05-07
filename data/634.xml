@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:100" ana="#female #cunnus #voisinage #womb">
-  <bibl><author>Plautus, Titus Maccius</author>, <title>Stichus</title>, <biblScope>159-160</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi018.perseus-lat2:159-160" type="line">
+<div type="fragment" ana="#female #cunnus #voisinage #womb">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">100</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Plaute</persName> [<persName xml:lang="eng">Plautus, Titus Maccius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/66462281/</idno><idno type="LC">n80-14980</idno>
+        </author>,
+        <title xml:lang="lat">Stichus </title>,
+        <biblScope unit="ref">159-160</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0119.phi018.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi018.perseus-lat2:159-160" type="line">
     <w ref="159" lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
     <w ref="159" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
     <w ref="159" lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>

@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:49" ana="#female #euphemisms #voisinage #copulation #desir #castration">
+<div type="fragment" ana="#female #euphemisms #voisinage #copulation #desir #castration">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">49</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Donat</persName> [<persName xml:lang="eng">Donatus, Aelius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/37012417/</idno><idno type="LC">n82-32152</idno>
+        </author>,
+        <title xml:lang="lat">Commentum Terenti</title>,
+        <biblScope unit="ref">424</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0110.stoa009</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0110.stoa009:424">
         <w lemma="abdomen" pos="NOMcom" msd="Case=Nom|Numb=Sing" ana="#female #euphemisms #voisinage #copulation #desir #castration">abdomen</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>

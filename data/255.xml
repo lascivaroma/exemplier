@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:56" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">56</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Salluste</persName> [<persName xml:lang="eng">Sallust, 86-34 B.C.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/104162705/</idno><idno type="LC">n79-18348</idno>
+        </author>,
+        <title xml:lang="lat">Iugurtha / Bellum Iugurthinum</title>,
+        <biblScope unit="ref">85.41</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0631.phi002.perseus-lat4</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0631.phi002.perseus-lat4:85.41">
         <w lemma="uenter" pos="NOMcom" msd="Case=Dat|Numb=Sing">uentri</w>
         <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>

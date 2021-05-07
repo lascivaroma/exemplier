@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:45" ana="#male #specialisation #euphemism #mentula">
+<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">45</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Caelius Aurelianus</persName> [<persName xml:lang="eng">Caelius Aurelianus (Aurelianus, Caelius)</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/102322199</idno><idno type="LC">n85-800480</idno>
+        </author>,
+        <title xml:lang="lat">Acutae Passiones  / Celeres Passiones / Morbis Acutis</title>,
+        <biblScope unit="ref">3.175</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0041a.stoa001</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001:3.175">
         <w lemma="Satyriasis" pos="NOMpro" msd="Case=Nom|Numb=Plur">Satyriasis</w>
         <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>

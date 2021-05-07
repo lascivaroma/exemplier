@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
-  <bibl><author>Silius Italicus, Tiberius Catius</author>, <title>Punica</title>, <biblScope>6.501-6.503</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1345.phi001.perseus-lat2:6.501-6.503" type="line">
+<div type="fragment" ana="#female #cunnus #womb">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">100</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Silius Italicus</persName> [<persName xml:lang="eng">Silius Italicus, Tiberius Catius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/27071645/</idno><idno type="LC">n79-120267</idno>
+        </author>,
+        <title xml:lang="lat">Punica</title>,
+        <biblScope unit="ref">6.501-6.503</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1345.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1345.phi001.perseus-lat2:6.501-6.503" type="line">
     <w ref="6.501" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
     <w ref="6.501" lemma="unus" pos="ADJcar" msd="Case=Nom|Numb=Sing|Gend=MascNeut">unum</w>
     <w ref="6.501" lemma="," pos="PUNC" msd="MORPH=empty">,</w>

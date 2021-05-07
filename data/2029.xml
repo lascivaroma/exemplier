@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:196" ana="#acte #metonymie #pleasure">
-  <bibl ref="#adams"><author>Juvenal</author>, <title>Satires</title>, <biblscope>6.399O-6.368</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.399O-6.368" type="line">
+<div type="fragment" ana="#acte #metonymie #pleasure">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">196</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Juvénal</persName> [<persName xml:lang="eng">Juvenal</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/83985148/</idno><idno type="LC">n79-60985</idno>
+        </author>,
+        <title xml:lang="lat">Saturae </title>,
+        <biblScope unit="ref">6.399O-6.368</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1276.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.399O-6.368" type="line">
     <w ref="6.399O" lemma="crimen" pos="NOMcom" msd="Case=Nom|Numb=Sing">crimen</w>
     <w ref="6.399O" lemma="communis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">commune</w>
     <w ref="6.399O" lemma="taceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">tacetur</w>

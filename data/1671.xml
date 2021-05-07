@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:179" ana="#acte #metonymie #join">
-  <bibl ref="#adams"><author>Corpus Tibullianum</author>, <title>Elegiae</title>, <biblscope>1.8.24-1.8.26</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0660.phi001.perseus-lat2:1.8.24-1.8.26" type="line">
+<div type="fragment" ana="#acte #metonymie #join">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">179</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Tibulle</persName> [<persName xml:lang="eng">Tibullus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100219266/</idno><idno type="LC">n78-87625</idno>
+        </author>,
+        <title xml:lang="lat">Elegiae</title>,
+        <biblScope unit="ref">1.8.24-1.8.26</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0660.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0660.phi001.perseus-lat2:1.8.24-1.8.26" type="line">
     <w ref="1.8.24" lemma="forma" pos="NOMcom" msd="Case=Nom|Numb=Sing">Forma</w>
     <w ref="1.8.24" lemma="nihil" pos="PROind" msd="Case=Ind">nihil</w>
     <w ref="1.8.24" lemma="magicus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">magicis</w>

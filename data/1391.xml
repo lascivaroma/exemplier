@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:166" ana="#metaphore #acte #faire_chemin">
-  <bibl><author>Propertius, Sextus</author>, <title>Elegies</title>, <biblscope>2.33a.21-2.33a.22</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.33a.21-2.33a.22" type="line">
+<div type="fragment" ana="#metaphore #acte #faire_chemin">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">166</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Properce</persName> [<persName xml:lang="eng">Propertius, Sextus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100907186/</idno><idno type="LC">n79-42233</idno>
+        </author>,
+        <title xml:lang="lat">Elegiae</title>,
+        <biblScope unit="ref">2.33a.22</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0620.phi001.perseus-lat3</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.33a.22" type="line">
     <w ref="2.33a.22" lemma="nox" pos="NOMcom" msd="Case=Abl|Numb=Plur">noctibus</w>
     <w ref="2.33a.22" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">his</w>
     <w ref="2.33a.22" lemma="uacuus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">vacui</w>

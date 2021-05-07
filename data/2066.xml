@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:198" ana="#acte #metonymie #violence">
-  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Self-Tormenter</title>, <biblscope>230-231</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi002.perseus-lat2:230-231" type="line">
+<div type="fragment" ana="#acte #metonymie #violence">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">198</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Térence</persName> [<persName xml:lang="eng">Terence</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/5940148947872254950006/</idno><idno type="LC">n79-66715</idno>
+        </author>,
+        <title xml:lang="lat">Heauton Timorumenos  / Hautontimorumenos</title>,
+        <biblScope unit="ref">231</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0134.phi002.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi002.perseus-lat2:231" type="line">
     <w ref="231" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
     <w ref="231" lemma="uereor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1">vereor</w>
     <w ref="231" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>

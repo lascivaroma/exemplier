@@ -1,7 +1,20 @@
-<div type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
-  <bibl ref="#adams"><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Epistulae</title>, <biblscope>24.16-24.16</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi015.perseus-lat2:24.16-24.16" type="section">
+<div type="fragment" ana="#acte #metonymie #amo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">188</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Sénèque</persName> [<persName xml:lang="eng">Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/90637919/</idno><idno type="LC">n79-4229</idno>
+        </author>,
+        <title xml:lang="lat">Epistulae / Epistulae Morales ad Lucilium</title>,
+        <biblScope unit="ref">24.16</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1017.phi015.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII2.1333.67ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi015.perseus-lat2:24.16" type="section">
     <w ref="24.16" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Fem">Ipsae</w>
     <w ref="24.16" lemma="uoluptas" pos="NOMcom" msd="Case=Nom|Numb=Plur">voluptates</w>
     <w ref="24.16" lemma="in" pos="PRE" msd="MORPH=empty">in</w>

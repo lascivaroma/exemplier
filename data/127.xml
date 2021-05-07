@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:46" ana="#male #specialisation #euphemism #mentula">
+<div type="fragment" ana="#male #specialisation #euphemism #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">46</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Properce</persName> [<persName xml:lang="eng">Propertius, Sextus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100907186/</idno><idno type="LC">n79-42233</idno>
+        </author>,
+        <title xml:lang="lat">Elegiae</title>,
+        <biblScope unit="ref">2.16.14</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0620.phi001.perseus-lat3</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0620.phi001.perseus-lat3:2.16.14">
         <w lemma="rumpo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">rumpat</w>
         <w lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>

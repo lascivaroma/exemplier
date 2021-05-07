@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:177" ana="#acte #metonymie #etreavec">
-  <bibl ref="#adams"><author>Priaepia</author>, <title>Priapeia</title>, <biblscope>14.3-14.4</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:14.3-14.4" type="line">
+<div type="fragment" ana="#acte #metonymie #etreavec">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">177</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Priapées</persName> [<persName xml:lang="eng">Priapea</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/184679300/</idno><idno type="LC">n79-056813</idno>
+        </author>,
+        <title xml:lang="lat">Priapea</title>,
+        <biblScope unit="ref">14.3-14.4</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:14.3-14.4" type="line">
     <w ref="14.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
     <w ref="14.3" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
     <w ref="14.3" lemma="nox" pos="NOMcom" msd="Numb=Sing">nocte</w>

@@ -1,4 +1,18 @@
-<div type="fragment" corresp="adams:69" ana="#male #testicle">
+<div type="fragment" ana="#male #testicle">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">69</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Paulus Diaconus</persName> [<persName xml:lang="eng">Paulus Diaconus (Paul, the Deacon, ca. 720-799?)</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/40174477/</idno><idno type="LC">n80-56870</idno>
+        </author>,
+        <title xml:lang="lat">Epitoma Festi</title>,
+        <biblScope unit="ref">267.polimenta</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0224.stoa004.alim-lat1</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0224.stoa004.alim-lat1:267.polimenta">
         <w ana="#male #testicules" lemma="polimentum" pos="NOMcom" msd="Case=Acc|Numb=Plur">polimenta</w>
         <w lemma="testiculus" pos="NOMcom" msd="Case=Gen|Numb=Sing">testiculi</w>

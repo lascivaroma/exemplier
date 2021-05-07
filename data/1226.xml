@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:149" ana="#metaphore #acte #frapper">
-  <bibl><author>Maximien</author>, <title>Elegiae</title>, <biblScope>5.131-5.132</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0196.stoa001.latinlibrary-lat1:5.131-5.132" type="line">
+<div type="fragment" ana="#metaphore #acte #frapper">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">149</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Maximien l'Étrusque</persName> [<persName xml:lang="eng">Maximianus, 6th cent.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/88034428/</idno><idno type="LC">n85-311132</idno>
+        </author>,
+        <title xml:lang="lat">Elegiae</title>,
+        <biblScope unit="ref">5.131-5.132</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0196.stoa001.latinlibrary-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0196.stoa001.latinlibrary-lat1:5.131-5.132" type="line">
     <w ref="5.131" lemma="sterno" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">sternitur</w>
     <w ana="#metaphore #acte #frapper" ref="5.131" lemma="ico" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">icta</w>
     <w ref="5.131" lemma="tuus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">tuo</w>

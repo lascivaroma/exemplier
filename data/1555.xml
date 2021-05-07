@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:179" ana="#acte #metonymie #coeo">
-  <bibl ref="#adams"><author>Lucretius</author>, <title>De Rerum Natura</title>, <biblscope>4.1052-4.1057</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:4.1052-4.1057" type="line">
+<div type="fragment" ana="#acte #metonymie #coeo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">179</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Lucrèce</persName> [<persName xml:lang="eng">Lucretius Carus, Titus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/106388020/</idno><idno type="LC">n79-33010</idno>
+        </author>,
+        <title xml:lang="lat">De Rerum Natura</title>,
+        <biblScope unit="ref">4.1055-4.1056</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0550.phi001.perseus-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:4.1055-4.1056" type="line">
     <w ref="4.1055" lemma="eo3" pos="ADV" msd="Case=Abl|Numb=Sing|Deg=Pos">eo</w>
     <w ref="4.1055" lemma="tendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tendit</w>
     <w ref="4.1055" lemma="gestio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">gestitque</w>

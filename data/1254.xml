@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:151" ana="#metaphore #agriculture #creuser #acte">
-  <bibl><author>Ausonius, Decimus Magnus</author>, <title>Epigrammaton Liber</title>, <biblScope>77.5-77.8</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:77.5-77.8" type="line">
+<div type="fragment" ana="#metaphore #agriculture #creuser #acte">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">151</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ausone</persName> [<persName xml:lang="eng">Ausonius, Decimus Magnus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/109786483/</idno><idno type="LC">n80-128611</idno>
+        </author>,
+        <title xml:lang="lat">Epigrammata / Epigrammaton Liber</title>,
+        <biblScope unit="ref">77.7</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0045.stoa010.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:77.7" type="line">
     <w ref="77.7" lemma="peruerto" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">perversae</w>
     <w ref="77.7" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
     <w ref="77.7" lemma="posticus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">postico</w>

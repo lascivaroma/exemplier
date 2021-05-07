@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:163" ana="#metaphore #acte #devoir #service #passive">
-  <bibl><author>Plautus, Titus Maccius</author>, <title>Cistellaria</title>, <biblscope>657-657</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi007.perseus-lat2:657-657" type="line">
+<div type="fragment" ana="#metaphore #acte #devoir #service #passive">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">163</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Plaute</persName> [<persName xml:lang="eng">Plautus, Titus Maccius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/66462281/</idno><idno type="LC">n80-14980</idno>
+        </author>,
+        <title xml:lang="lat">Cistellaria </title>,
+        <biblScope unit="ref">657</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0119.phi007.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi007.perseus-lat2:657" type="line">
     <w ref="657" lemma="facio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass">faciundum</w>
     <w ref="657" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
     <w ref="657" lemma="puerilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">puerile</w>

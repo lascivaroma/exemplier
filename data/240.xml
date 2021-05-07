@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:54" ana="#male #euphemisms #aidoion #mentula">
+<div type="fragment" ana="#male #euphemisms #aidoion #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">54</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Marcellus Empiricus</persName> [<persName xml:lang="eng">Marcellus, Empiricus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/196567001/</idno><idno type="LC">n83-218012</idno>
+        </author>,
+        <title xml:lang="lat">De medicamentis liber</title>,
+        <biblScope unit="ref">31.16</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1:31.16">
         <w lemma="ad2" pos="PRE" msd="MORPH=empty">Ad</w>
         <w lemma="ficus1" pos="NOMcom" msd="Case=Acc|Numb=Plur">ficos</w>

@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:188" ana="#acte #metonymie #amo">
-  <bibl ref="#adams"><author>Ovid</author>, <title>Remède à l'amour</title>, <biblscope>805-806</biblscope></bibl>
-  <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>14</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi005.perseus-lat2:805-806" type="line">
+<div type="fragment" ana="#acte #metonymie #amo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">188</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ovide</persName> [<persName xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/88342447/</idno><idno type="LC">n79-41738</idno>
+        </author>,
+        <title xml:lang="lat">Remedia Amoris </title>,
+        <biblScope unit="ref">805</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0959.phi005.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#ErnoutVenus"><title>Venus</title>, <biblscope>14</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi005.perseus-lat2:805" type="line">
     <w ref="805" lemma="uinum" pos="NOMcom" msd="Case=Nom|Numb=Plur">Vina</w>
     <w ref="805" lemma="paro2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">parant</w>
     <w ref="805" lemma="animus" pos="NOMcom" msd="Case=Acc|Numb=Sing">animum</w>

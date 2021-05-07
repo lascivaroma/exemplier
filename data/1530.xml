@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:177" ana="#acte #metonymie #dormir_avec #nu">
-  <bibl ref="#adams"><author>Ovid</author>, <title>Ars Amatoria</title>, <biblscope>2.579-2.580</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:2.579-2.580" type="line">
+<div type="fragment" ana="#acte #metonymie #dormir_avec #nu">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">177</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ovide</persName> [<persName xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/88342447/</idno><idno type="LC">n79-41738</idno>
+        </author>,
+        <title xml:lang="lat">Ars Amatoria</title>,
+        <biblScope unit="ref">2.580</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0959.phi004.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>VII.1.15.38ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi004.perseus-lat2:2.580" type="line">
     <w ref="2.580" lemma="implico" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">Impliciti</w>
     <w ref="2.580" lemma="laqueus" pos="NOMcom" msd="Case=Abl|Numb=Plur">laqueis</w>
     <w ref="2.580" lemma="nudus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">nudus</w>

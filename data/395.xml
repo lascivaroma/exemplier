@@ -1,4 +1,18 @@
-<div type="fragment" corresp="adams:70" ana="#male #testicle">
+<div type="fragment" ana="#male #testicle">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">70</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Paulus Diaconus</persName> [<persName xml:lang="eng">Paulus Diaconus (Paul, the Deacon, ca. 720-799?)</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/40174477/</idno><idno type="LC">n80-56870</idno>
+        </author>,
+        <title xml:lang="lat">Epitoma Festi</title>,
+        <biblScope unit="ref">84</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0224.stoa004.alim-lat1</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0224.stoa004.alim-lat1:84">
         <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
         <w lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>

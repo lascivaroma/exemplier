@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher">
-  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Mother-in-Law</title>, <biblscope>147-152</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi005.perseus-lat2:147-152" type="line">
+<div type="fragment" ana="#acte #metonymie #toucher">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">185</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Térence</persName> [<persName xml:lang="eng">Terence</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/5940148947872254950006/</idno><idno type="LC">n79-66715</idno>
+        </author>,
+        <title xml:lang="lat">Hecyra </title>,
+        <biblScope unit="ref">150-151</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0134.phi005.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi005.perseus-lat2:150-151" type="line">
     <w ref="150" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     <w ref="150" lemma="cam" pos="PRE" msd="Numb=Sing">cam</w>
     <w ref="150" lemma="ludibrium" pos="NOMcom" msd="Case=Dat|Numb=Sing">ludibrio</w>

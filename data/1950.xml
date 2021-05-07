@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:191" ana="#acte #metonymie #position">
-  <bibl ref="#adams"><author>Catullus</author>, <title>Carmina</title>, <biblscope>15.14-15.19</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:15.14-15.19" type="line">
+<div type="fragment" ana="#acte #metonymie #position">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">191</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Catulle</persName> [<persName xml:lang="eng">Catullus, Gaius Valerius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100218993/</idno><idno type="LC">n79-6943</idno>
+        </author>,
+        <title xml:lang="lat">Carmina</title>,
+        <biblScope unit="ref">15.18-15.19</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0472.phi001.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:15.18-15.19" type="line">
     <w ref="15.18" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
     <w ref="15.18" lemma="attraho" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">attractis</w>
     <w ana="#acte #metonymie #position" ref="15.18" lemma="pes" pos="NOMcom" msd="Case=Abl|Numb=Plur">pedibus</w>

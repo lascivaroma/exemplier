@@ -1,4 +1,18 @@
-<div type="fragment" corresp="adams:46" ana="#male #specialisation #erection  #euphemism">
+<div type="fragment" ana="#male #specialisation #erection  #euphemism">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">46</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Horace</persName> [<persName xml:lang="eng">Horace</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/100227522/</idno><idno type="LC">n79-81354</idno>
+        </author>,
+        <title xml:lang="lat">Sermones  / Saturae</title>,
+        <biblScope unit="ref">2.7.47-2.7.48</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0893.phi004.perseus-lat2</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:2.7.47-2.7.48">
         <w lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
         <w lemma="natura" pos="NOMcom" msd="Case=Nom|Numb=Sing">natura</w>

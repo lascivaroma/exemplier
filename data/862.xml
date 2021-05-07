@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:107" ana="#female #womb #medical">
-  <bibl><author>Theodorus Priscianus</author>, <title>Euporiston</title>, <biblScope>3.2-3.2</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1:3.2-3.2" type="chapter">
+<div type="fragment" ana="#female #womb #medical">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">107</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Théodore Priscien</persName> [<persName xml:lang="eng">Priscianus, Theodorus.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/79060995/</idno><idno type="LC">n85-56645</idno>
+        </author>,
+        <title xml:lang="lat">Euporiston</title>,
+        <biblScope unit="ref">3.2</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1:3.2" type="chapter">
     <w ref="3.2" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Plur|Gend=Com">Quibus</w>
     <w ref="3.2" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
     <w ref="3.2" lemma="repentinus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">repentina</w>

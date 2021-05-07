@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:112" ana="#anus #culus">
-  <bibl><author>Caelius Aurelianus</author>, <title>Celerum passionum libri III</title>, <biblScope>3.135-3.135</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:3.135-3.135" type="part">
+<div type="fragment" ana="#anus #culus">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">112</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Caelius Aurelianus</persName> [<persName xml:lang="eng">Caelius Aurelianus (Aurelianus, Caelius)</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/102322199</idno><idno type="LC">n85-800480</idno>
+        </author>,
+        <title xml:lang="lat">Acutae Passiones  / Celeres Passiones / Morbis Acutis</title>,
+        <biblScope unit="ref">3.135</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1:3.135" type="part">
     <w ref="3.135" lemma="alius" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Masc">alii</w>
     <w ref="3.135" lemma="paudex" pos="ADJqua" msd="Case=Acc|Numb=Sing">podicem</w>
     <w ref="3.135" lemma="cataplasmo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass">cataplasmandum</w>

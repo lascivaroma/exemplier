@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:55" ana="#male #euphemisms #aidoion">
+<div type="fragment" ana="#male #euphemisms #aidoion">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">55</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Sénèque</persName> [<persName xml:lang="eng">Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/90637919/</idno><idno type="LC">n79-4229</idno>
+        </author>,
+        <title xml:lang="lat">De consolatione ad Marciam (ad Marciam De Consolatione) (Dialogorum Liber VI )</title>,
+        <biblScope unit="ref">22.3</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0255.stoa007.perseus-lat2</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0255.stoa007.perseus-lat2:22.3">
         <w lemma="totus" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Fem">totas</w>
         <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>

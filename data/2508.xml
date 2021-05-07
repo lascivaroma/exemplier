@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:92" ana="#adjoining_parts #kidneys #euphemism #female">
-  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Eunuch</title>, <biblscope>582-584</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.2322.36ff.</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi003.perseus-lat2:582-584" type="line">
+<div type="fragment" ana="#adjoining_parts #kidneys #euphemism #female">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">92</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Térence</persName> [<persName xml:lang="eng">Terence</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/5940148947872254950006/</idno><idno type="LC">n79-66715</idno>
+        </author>,
+        <title xml:lang="lat">Eunuchus </title>,
+        <biblScope unit="ref">584</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0134.phi003.perseus-lat2</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.2322.36ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi003.perseus-lat2:584" type="line">
     <w ref="584" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">Quo</w>
     <w ref="584" lemma="pactum" pos="NOMcom" msd="Case=Abl|Numb=Sing">pacto</w>
     <w ref="584" lemma="Danai" pos="NOMpro" msd="Case=Gen|Numb=Plur">Danaae</w>

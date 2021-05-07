@@ -1,7 +1,20 @@
-<div  type="fragment" corresp="adams:56" ana="#euphemisms #aidoion">
-  <bibl ref="#adams"><author>Pomponius Mela</author>, <title>De Redito Suo</title>, <biblscope>3.53-3.53</biblscope></bibl>
-  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IX.2.159. 70ff.</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0200.stoa001.latinlibrary-lat1:3.53-3.53" type="paragraph">
+<div type="fragment" ana="#euphemisms #aidoion">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">56</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Pomponius Mela</persName> [<persName xml:lang="eng">Mela, Pomponius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/34489209/</idno><idno type="LC">n80-139084</idno>
+        </author>,
+        <title xml:lang="lat">De Chorographia</title>,
+        <biblScope unit="ref">3.53</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0200.stoa001.latinlibrary-lat1</idno>
+    </bibl>
+    <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IX.2.159. 70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0200.stoa001.latinlibrary-lat1:3.53" type="paragraph">
     <w ref="3.53" lemma="linum" pos="NOMcom" msd="Case=Dat|Numb=Sing">Lino</w>
     <w ref="3.53" lemma="alius" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Masc">alii</w>
     <w ref="3.53" lemma="uestio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">vestiuntur</w>

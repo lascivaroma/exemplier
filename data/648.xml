@@ -1,6 +1,19 @@
-<div type="fragment" corresp="adams:100" ana="#female #cunnus #womb">
-  <bibl><author>Ovid</author>, <title>Metamorphoses</title>, <biblScope>2.626-2.632</biblScope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:2.626-2.632" type="line">
+<div type="fragment" ana="#female #cunnus #womb">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">100</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Ovide</persName> [<persName xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D.</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/88342447/</idno><idno type="LC">n79-41738</idno>
+        </author>,
+        <title xml:lang="lat">Metamorphoses</title>,
+        <biblScope unit="ref">2.626-2.632</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0959.phi006.perseus-lat2</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi006.perseus-lat2:2.626-2.632" type="line">
     <w ref="2.626" lemma="ut4" pos="CONsub" msd="MORPH=empty">Ut</w>
     <w ref="2.626" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
     <w ref="2.626" lemma="ingratus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">ingratos</w>

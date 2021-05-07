@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:185" ana="#acte #metonymie #toucher">
-  <bibl ref="#adams"><author>Eugraphius</author>, <title>Commentum Heauton Hecyra</title>, <biblscope>153-153</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0119a.stoa001e.digilibLT-lat1:153-153" type="comment">
+<div type="fragment" ana="#acte #metonymie #toucher">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">185</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Eugraphius</persName> [<persName xml:lang="eng">Eugraphius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/189946453/</idno><idno type="LC">no2002-104393</idno>
+        </author>,
+        <title xml:lang="lat">Commentum Hecyra</title>,
+        <biblScope unit="ref">153</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0119a.stoa001e.digilibLT-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0119a.stoa001e.digilibLT-lat1:153" type="comment">
     <w ref="153" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
     <w ref="153" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
     <w ref="153" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>

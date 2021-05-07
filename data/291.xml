@@ -1,4 +1,18 @@
-<div  type="fragment" corresp="adams:57" ana="#male #descriptive-functional #euphemisms #mentula">
+<div type="fragment" ana="#male #descriptive-functional #euphemisms #mentula">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">57</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Lucrèce</persName> [<persName xml:lang="eng">Lucretius Carus, Titus</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/106388020/</idno><idno type="LC">n79-33010</idno>
+        </author>,
+        <title xml:lang="lat">De Rerum Natura</title>,
+        <biblScope unit="ref">4.1042-4.1044</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0550.phi001.perseus-lat1</idno>
+    </bibl>
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0550.phi001.perseus-lat1:4.1042-4.1044">
         <w lemma="per" pos="PRE" msd="MORPH=empty">per</w>
         <w lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>

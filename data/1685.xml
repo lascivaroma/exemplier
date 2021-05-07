@@ -1,6 +1,19 @@
-<div  type="fragment" corresp="adams:181" ana="#metonymie #acte #misceo">
-  <bibl ref="#adams"><author>Cicero</author>, <title>De Divinatione</title>, <biblscope>1.60-1.60</biblscope></bibl>
-  <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi053.perseus-lat1:1.60-1.60" type="section">
+<div type="fragment" ana="#metonymie #acte #misceo">
+  <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">181</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+            <persName xml:lang="fr">Cicéron</persName> [<persName xml:lang="eng">Cicero, Marcus Tullius</persName>]
+            <idno type="VIAF">https://viaf.org/viaf/78769600/</idno><idno type="LC">n79-32166</idno>
+        </author>,
+        <title xml:lang="lat">de Diuinatione / de Divinatione / de Divinatione ad M. Brutum</title>,
+        <biblScope unit="ref">1.60</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:phi0474.phi053.perseus-lat1</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi053.perseus-lat1:1.60" type="section">
     <w ref="1.60" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
     <w ref="1.60" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
     <w ref="1.60" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>

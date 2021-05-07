@@ -1,5 +1,19 @@
-<div  type="fragment" corresp="adams:30" ana="#male #personnification">
-    <quote xml:lang="lat" source="Hist Apoll Try 34">
+<div type="fragment" ana="#male #personnification">
+    <bibl ref="#adams">
+        <author>J. N. Adams</author>,
+        <title xml:lang="lat">The Latin Sexual Vocabulary</title>,
+        <biblScope unit="page">30</biblScope>
+    </bibl>
+    <bibl type="source">
+        <author>
+             
+            <idno type="VIAF">https://viaf.org/viaf/6806151002122230280008/</idno><idno type="LC">n82-005890</idno>
+        </author>,
+        <title xml:lang="lat">Historia Apollonii Regis Tyri</title>,
+        <biblScope unit="ref">34</biblScope>
+        <idno type="CTS_URN">urn:cts:latinLit:stoa0150a.stoa001</idno>
+    </bibl>
+    <quote xml:lang="lat" source="urn:cts:latinLit:stoa0150a.stoa001:34">
         <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
         <w lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">potest</w>
         <w lemma="bene" pos="ADV" msd="Case=Nom|Gend=Neut|Deg=Comp">melius</w>
