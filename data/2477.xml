@@ -1,0 +1,9 @@
+<div  type="fragment" corresp="adams:56" ana="#male #descriptive-functional #euphemism #mentula">
+  <bibl ref="#adams"><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblscope>1.11-1.11</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.1815.42ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:1.11-1.11" type="chapter">
+    <w ref="1.11" lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+    <w ana="#male #descriptive-functional #euphemism #mentula" ref="1.11" lemma="genitalis" pos="NOMcom" msd="Case=Abl|Numb=Plur|Gend=Com">genitalibus</w>
+    <w ref="1.11" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

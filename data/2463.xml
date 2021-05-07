@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:56" ana="#euphemisms #aidoion">
+  <bibl ref="#adams"><author>Horace</author>, <title>Sermones</title>, <biblscope>1.2.25-1.2.28</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IX.2.159. 70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi004.perseus-lat2:1.2.25-1.2.28" type="line">
+    <w ref="1.2.25" lemma="Maltinus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Maltinus</w>
+    <w ref="1.2.25" lemma="tunica" pos="NOMcom" msd="Case=Abl|Numb=Plur">tunicis</w>
+    <w ref="1.2.25" lemma="demitto" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">demissis</w>
+    <w ref="1.2.25" lemma="ambulo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ambulat</w>
+    <w ref="1.2.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.2.25" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1.2.25" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ana="#male #euphemisms #aidoion #mentula" ref="1.2.26" lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Sing">inguen</w>
+    <w ref="1.2.26" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ana="#male #euphemisms #aidoion #mentula" ref="1.2.26" lemma="obscenus" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">obscaenum</w>
+    <w ref="1.2.26" lemma="subduco" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">subductis</w>
+    <w ref="1.2.26" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+  </quote>
+</div>

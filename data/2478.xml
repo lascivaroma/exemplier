@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:56" ana="#male #descriptive-functional #euphemism #mentula">
+  <bibl ref="#adams"><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblscope>7.16-7.16</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.1815.42ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:7.16-7.16" type="chapter">
+    <w ref="7.16" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+    <w ref="7.16" lemma="(" pos="PUNC" msd="MORPH=empty">(</w>
+    <w ref="7.16" lemma="quidam" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Fem">Quasdam</w>
+    <w ref="7.16" lemma="concresco" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">concreto</w>
+    <w ana="#male #descriptive-functional #euphemism #mentula" ref="7.16" lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">genitali</w>
+    <w ref="7.16" lemma="gigno" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">gigni</w>
+    <w ref="7.16" lemma="infaustus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">infausto</w>
+    <w ref="7.16" lemma="omen" pos="NOMcom" msd="Case=Abl|Numb=Sing">omine</w>
+    <w ref="7.16" lemma="Cornelia" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Cornelia</w>
+    <w ref="7.16" lemma="Gracchus" pos="NOMpro" msd="Case=Gen|Numb=Plur">Gracchorum</w>
+    <w ref="7.16" lemma="mater" pos="NOMcom" msd="Case=Nom|Numb=Sing">mater</w>
+    <w ref="7.16" lemma="indicium" pos="NOMcom" msd="Case=Abl|Numb=Sing">indicio</w>
+    <w ref="7.16" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="7.16" lemma=")" pos="PUNC" msd="MORPH=empty">)</w>
+  </quote>
+</div>

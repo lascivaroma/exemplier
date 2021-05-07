@@ -1,0 +1,41 @@
+<div type="fragment" corresp="adams:92" ana="#adjoining_parts #kidneys #euphemism #female">
+  <bibl ref="#adams"><author>Augustine</author>, <title>De Nuptiis et Concupiscentia</title>, <biblscope>2.19-2.19</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.2322.36ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0040.stoa056a.opp-lat1:2.19-2.19" type="section">
+    <w ref="2.19" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.19" lemma="puto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">putauit</w>
+    <w ref="2.19" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="2.19" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="2.19" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="2.19" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="2.19" lemma="dico2" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=MascNeut">dictum</w>
+    <w ref="2.19" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.19" lemma="suscito1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">suscitauit</w>
+    <w ref="2.19" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="2.19" lemma="dominus" pos="NOMcom" msd="Case=Nom|Numb=Sing">dominus</w>
+    <w ref="2.19" lemma="semen1" pos="NOMcom" msd="Case=Acc|Numb=Sing">semen</w>
+    <w ref="2.19" lemma="alius" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">aliud</w>
+    <w ref="2.19" lemma="pro1" pos="PRE" msd="MORPH=empty">pro</w>
+    <w ref="2.19" lemma="Abel" pos="NOMpro" msd="Case=Abl">Abel</w>
+    <w ref="2.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.19" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="2.19" lemma="credo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">crederetur</w>
+    <w ref="2.19" lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Sing">deus</w>
+    <w ref="2.19" lemma="ille" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">illi</w>
+    <w ref="2.19" lemma="excito1" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">excitasse</w>
+    <w ref="2.19" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Sing">libidinem</w>
+    <w ref="2.19" lemma="coeo1" pos="VER" msd="Case=Gen|Numb=Sing|Mood=Ger|Voice=Act">coeundi</w>
+    <w ref="2.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.19" lemma="quis1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
+    <w ref="2.19" lemma="motus" pos="NOMcom" msd="Case=Abl|Numb=Sing">motu</w>
+    <w ref="2.19" lemma="excito1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">excitaretur</w>
+    <w ref="2.19" lemma="semen1" pos="NOMcom" msd="Case=Nom|Numb=Sing">semen</w>
+    <w ref="2.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.19" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ana="#adjoining_parts #kidneys #euphemism #female" ref="2.19" lemma="gremium" pos="NOMcom" msd="Case=Abl|Numb=Sing">gremio</w>
+    <w ref="2.19" lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Sing">feminae</w>
+    <w ref="2.19" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possit</w>
+    <w ref="2.19" lemma="infundo2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">infundi</w>
+    <w ref="2.19" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

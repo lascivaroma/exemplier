@@ -1,0 +1,11 @@
+<div  type="fragment" corresp="adams:51" ana="#euphemisms #voisinage #reproduction">
+  <bibl ref="#adams"><author>Vulgate</author>, <title>Numbers</title>, <biblscope>5.26-5.29</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VI.1.472.68ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg004.obi-lat1:5.26-5.29" type="verse">
+    <w ref="5.27" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.27" lemma="inflo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">inflato</w>
+    <w ref="5.27" lemma="uenter" pos="NOMcom" msd="Case=Abl|Numb=Sing">ventre</w>
+    <w ref="5.27" lemma="computresco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">conputrescet</w>
+    <w ana="#euphemisms #voisinage #reproduction" ref="5.27" lemma="femur" pos="NOMcom" msd="Case=Nom|Numb=Sing">femur</w>
+  </quote>
+</div>

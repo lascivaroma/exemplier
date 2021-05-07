@@ -1,0 +1,28 @@
+<div  type="fragment" corresp="adams:56" ana="#male #descriptive-functional #euphemism #mentula">
+  <bibl ref="#adams"><author>Celsus, Aulus Cornelius</author>, <title>De Medicina</title>, <biblscope>4.1-4.1</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.1815.42ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:4.1-4.1" type="chapter">
+    <w ref="4.1" lemma="potius" pos="ADV" msd="Deg=Comp">potius</w>
+    <w ref="4.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="4.1" lemma="sinistra1" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">sinistram</w>
+    <w ref="4.1" lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Sing">partem</w>
+    <w ref="4.1" lemma="inclino" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem">inclinata</w>
+    <w ref="4.1" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="4.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="4.1" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Plur">feminis</w>
+    <w ref="4.1" lemma="super1" pos="ADV" msd="MORPH=empty">super</w>
+    <w ana="#male #descriptive-functional #euphemism #mentula" ref="4.1" lemma="genitalis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">genitale</w>
+    <w ref="4.1" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=Fem">earum</w>
+    <w ref="4.1" lemma="situs2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">sita</w>
+    <w ref="4.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="4.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="4.1" lemma="supra" pos="ADV" msd="Deg=Pos">supraque</w>
+    <w ref="4.1" lemma="que" pos="CON" msd="MORPH=empty">{supraque}</w>
+    <w ref="4.1" lemma="elabor2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Dep">elapsa</w>
+    <w ref="4.1" lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+    <w ref="4.1" lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">ipsa</w>
+    <w ref="4.1" lemma="uulua" pos="NOMcom" msd="Case=Nom|Numb=Sing">vulva</w>
+    <w ref="4.1" lemma="sustineo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">sustinetur</w>
+    <w ref="4.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

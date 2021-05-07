@@ -1,0 +1,33 @@
+<div type="fragment" corresp="adams:53" ana="#male #euphemisms #aidoion #mentula">
+  <bibl ref="#adams"><author>Flavius Vegetius Renatus</author>, <title>Digesta artis mulomedicinae</title>, <biblscope>2.79.12-2.79.12</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0287.stoa002.digilibLT-lat1:2.79.12-2.79.12" type="paragraph">
+    <w ref="2.79.12" lemma="sulfur" pos="NOMcom" msd="Case=Nom|Numb=Sing">Sulfur</w>
+    <w ref="2.79.12" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="2.79.12" lemma="uiuus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">vivum</w>
+    <w ref="2.79.12" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.79.12" lemma="puluis" pos="NOMcom" msd="Case=Acc|Numb=Sing">pulverem</w>
+    <w ref="2.79.12" lemma="redigo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">rediges</w>
+    <w ref="2.79.12" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.79.12" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="2.79.12" lemma="oleum" pos="NOMcom" msd="Case=Abl|Numb=Sing">oleo</w>
+    <w ref="2.79.12" lemma="totus" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=MascNeut">totum</w>
+    <w ref="2.79.12" lemma="uenter" pos="NOMcom" msd="Case=Acc|Numb=Sing">ventrem</w>
+    <w ref="2.79.12" lemma="animal" pos="NOMcom" msd="Case=Gen|Numb=Sing">animalis</w>
+    <w ref="2.79.12" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#male #euphemisms #aidoion #mentula" ref="2.79.12" lemma="ueretrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">veretrum</w>
+    <w ref="2.79.12" lemma="perfrico" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">perfricabis</w>
+    <w ref="2.79.12" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.79.12" lemma="absinthium" pos="NOMcom" msd="Case=Acc|Numb=Sing">absinthium</w>
+    <w ref="2.79.12" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="2.79.12" lemma="largiter" pos="ADV" msd="Deg=Pos">largiter</w>
+    <w ref="2.79.12" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="2.79.12" lemma="uinum" pos="NOMcom" msd="Case=Abl|Numb=Sing">vino</w>
+    <w ref="2.79.12" lemma="decoquo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">decoques</w>
+    <w ref="2.79.12" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.79.12" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="2.79.12" lemma="sinistra1" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">sinistram</w>
+    <w ref="2.79.12" lemma="naris" pos="NOMcom" msd="Case=Acc|Numb=Sing">narem</w>
+    <w ref="2.79.12" lemma="defundo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">defundes</w>
+    <w ref="2.79.12" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,43 @@
+<div type="fragment" corresp="adams:56" ana="#euphemisms #aidoion #semen">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus</author>, <title>de Ira</title>, <biblscope>2.3.2-2.3.2</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IX.2.159. 70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0255.stoa010.perseus-lat2:2.3.2-2.3.2" type="section">
+    <w ref="2.3.2" lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
+    <w ref="2.3.2" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="2.3.2" lemma="quis2" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">quis</w>
+    <w ref="2.3.2" lemma="pallor" pos="NOMcom" msd="Case=Acc|Numb=Sing">pallorem</w>
+    <w ref="2.3.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.3.2" lemma="lacrima" pos="NOMcom" msd="Case=Acc|Numb=Plur">lacrimas</w>
+    <w ref="2.3.2" lemma="procido1" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">procidentis</w>
+    <w ref="2.3.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.3.2" lemma="irritatio" pos="NOMcom" msd="Case=Acc|Numb=Sing">irritationem</w>
+    <w ref="2.3.2" lemma="humerus" pos="NOMcom" msd="Case=Gen|Numb=Plur">umeris</w>
+    <w ana="#euphemisms #aidoion" ref="2.3.2" lemma="obscenus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">obsceni</w>
+    <w ref="2.3.2" lemma="altus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">altumve</w>
+    <w ref="2.3.2" lemma="ue" pos="CON" msd="MORPH=empty">{altumve}</w>
+    <w ref="2.3.2" lemma="suspirium" pos="NOMcom" msd="Case=Acc|Numb=Sing">suspirium</w>
+    <w ref="2.3.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.3.2" lemma="oculus" pos="NOMcom" msd="Case=Acc|Numb=Plur">oculos</w>
+    <w ref="2.3.2" lemma="subito" pos="ADV" msd="Deg=Pos">subito</w>
+    <w ref="2.3.2" lemma="acer2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Comp">acriores</w>
+    <w ref="2.3.2" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="2.3.2" lemma="quis2" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="2.3.2" lemma="hic1" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">his</w>
+    <w ref="2.3.2" lemma="similis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">simile</w>
+    <w ref="2.3.2" lemma="indicium" pos="NOMcom" msd="Case=Acc|Numb=Sing">indicium</w>
+    <w ref="2.3.2" lemma="affectus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">adfectus</w>
+    <w ref="2.3.2" lemma="animus" pos="NOMcom" msd="Case=Gen|Numb=Sing">animique</w>
+    <w ref="2.3.2" lemma="que" pos="CON" msd="MORPH=empty">{animique}</w>
+    <w ref="2.3.2" lemma="signum" pos="NOMcom" msd="Case=Acc|Numb=Sing">signum</w>
+    <w ref="2.3.2" lemma="puto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">putat</w>
+    <w ref="2.3.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.3.2" lemma="fallo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">fallitur</w>
+    <w ref="2.3.2" lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+    <w ref="2.3.2" lemma="intelligo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">intellegit</w>
+    <w ref="2.3.2" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
+    <w ref="2.3.2" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Masc">hos</w>
+    <w ref="2.3.2" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="2.3.2" lemma="pulsus" pos="NOMcom" msd="Case=Nom|Numb=Sing">pulsus</w>
+    <w ref="2.3.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

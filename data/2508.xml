@@ -1,0 +1,17 @@
+<div  type="fragment" corresp="adams:92" ana="#adjoining_parts #kidneys #euphemism #female">
+  <bibl ref="#adams"><author>Publius Terentius Afer</author>, <title>The Eunuch</title>, <biblscope>582-584</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.2322.36ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0134.phi003.perseus-lat2:582-584" type="line">
+    <w ref="584" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">Quo</w>
+    <w ref="584" lemma="pactum" pos="NOMcom" msd="Case=Abl|Numb=Sing">pacto</w>
+    <w ref="584" lemma="Danai" pos="NOMpro" msd="Case=Gen|Numb=Plur">Danaae</w>
+    <w ref="584" lemma="mitto" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">misisse</w>
+    <w ref="584" lemma="aio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">aiunt</w>
+    <w ref="584" lemma="quondam" pos="ADV" msd="Deg=Pos">quondam</w>
+    <w ref="584" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#adjoining_parts #kidneys #euphemism #female" ref="584" lemma="gremium" pos="NOMcom" msd="Case=Acc|Numb=Sing">gremium</w>
+    <w ref="584" lemma="imbir" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1">imbirem</w>
+    <w ref="584" lemma="aureus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">aureum</w>
+    <w ref="584" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:53" ana="#female #euphemisms #aidoion #cunnus">
+  <bibl ref="#adams"><author>Caelius Aurelianus</author>, <title>Gynaeciorum Sorani e graeco uersorum et retractatorum quae exstant</title>, <biblscope>II.1-II.2</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.1-II.2" type="part">
+    <w ref="II.1" lemma="de" pos="PRE" msd="MORPH=empty">De</w>
+    <w ref="II.1" lemma="incarnatus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut">incarnato</w>
+    <w ref="II.1" lemma="femininus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">feminino</w>
+    <w ana="#female #euphemisms #aidoion #cunnus" ref="II.1" lemma="ueretrum" pos="NOMcom" msd="Case=Abl">veretro</w>
+    <w ref="II.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="II.1" lemma="qui1" pos="CONsub" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="II.1" lemma="grex" pos="NOMcom" msd="Numb=Sing">Greci</w>
+    <w ref="II.1" lemma="atreton" pos="NOMcom" msd="Case=Acc|Numb=Sing">atreton</w>
+    <w ref="II.1" lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vocant</w>
+  </quote>
+</div>

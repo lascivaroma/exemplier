@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:56" ana="#male #descriptive-functional #euphemism #mentula">
+  <bibl ref="#adams"><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblscope>11.49-11.49</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.1815.42ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:11.49-11.49" type="chapter">
+    <w ref="11.49" lemma="piscis" pos="NOMcom" msd="Case=Abl|Numb=Plur">piscibus</w>
+    <w ref="11.49" lemma="serpens" pos="NOMcom" msd="Case=Abl|Numb=Plur">serpentibusque</w>
+    <w ref="11.49" lemma="que" pos="CON" msd="MORPH=empty">{serpentibusque}</w>
+    <w ref="11.49" lemma="nullus" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Com">nulli</w>
+    <w ref="11.49" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.49" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="11.49" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=MascNeut">eorum</w>
+    <w ref="11.49" lemma="uicis" pos="NOMcom" msd="Case=Abl|Numb=Sing">vice</w>
+    <w ref="11.49" lemma="binus" pos="ADJdis" msd="Case=Nom|Numb=Plur|Gend=Fem">binae</w>
+    <w ref="11.49" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ana="#male #descriptive-functional #euphemism #mentula" ref="11.49" lemma="genitalia" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut">genitalia</w>
+    <w ref="11.49" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="11.49" lemma="renus" pos="NOMcom" msd="Case=Abl|Numb=Plur">renibus</w>
+    <w ref="11.49" lemma="uena" pos="NOMcom" msd="Case=Nom|Numb=Plur">venae</w>
+    <w ref="11.49" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

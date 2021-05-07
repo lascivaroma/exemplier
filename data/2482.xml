@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:56" ana="#male #descriptive-functional #euphemism #mentula">
+  <bibl ref="#adams"><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblscope>20.13-20.13</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.1815.42ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:20.13-20.13" type="chapter">
+    <w ref="20.13" lemma="ideo" pos="ADV" msd="Deg=Pos">ideo</w>
+    <w ref="20.13" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="20.13" lemma="profluuium" pos="NOMcom" msd="Case=Abl|Numb=Sing">profluvio</w>
+    <w ana="#male #descriptive-functional #euphemism #mentula" ref="20.13" lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">genitali</w>
+    <w ref="20.13" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">datur</w>
+    <w ref="20.13" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="20.13" lemma="Uenus" pos="NOMpro" msd="Case=Acc|Numb=Sing">venerem</w>
+    <w ref="20.13" lemma="crebro2" pos="ADV" msd="Deg=Pos">crebro</w>
+    <w ref="20.13" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="20.13" lemma="somnium" pos="NOMcom" msd="Case=Acc|Numb=Plur">somnia</w>
+    <w ref="20.13" lemma="imaginor" pos="VER" msd="Case=Dat|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep">imaginantibus</w>
+    <w ref="20.13" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

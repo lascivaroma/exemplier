@@ -1,0 +1,23 @@
+<div type="fragment" corresp="adams:56" ana="#male #descriptive-functional #euphemism #mentula">
+  <bibl ref="#adams"><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblscope>24.6-24.6</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.1815.42ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:24.6-24.6" type="chapter">
+    <w ref="24.6" lemma="palpebrae" pos="NOMcom" msd="Case=Acc|Numb=Plur">palpebras</w>
+    <w ref="24.6" lemma="lentiscinus" pos="ADJqua" msd="Case=Nom|Numb=Sing">lentiscina</w>
+    <w ref="24.6" lemma="commode" pos="ADV" msd="Deg=Sup">commodissime</w>
+    <w ref="24.6" lemma="replico" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">replicat</w>
+    <w ref="24.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="24.6" lemma="frango" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">fractis</w>
+    <w ref="24.6" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="24.6" lemma="utilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Sup">utilissima</w>
+    <w ref="24.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="24.6" lemma="auris" pos="NOMcom" msd="Case=Abl|Numb=Plur">auribus</w>
+    <w ref="24.6" lemma="purulentus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com">purulentis</w>
+    <w ref="24.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="24.6" lemma="item" pos="ADV" msd="Deg=Pos">item</w>
+    <w ref="24.6" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="24.6" lemma="pruritus" pos="NOMcom" msd="Case=Abl|Numb=Sing">pruritu</w>
+    <w ana="#male #descriptive-functional #euphemism #mentula" ref="24.6" lemma="genitalis" pos="NOMcom" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Pos">genitalium</w>
+    <w ref="24.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

@@ -1,0 +1,24 @@
+<div  type="fragment" corresp="adams:56" ana="#euphemisms #aidoion">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Remède à l'amour</title>, <biblscope>437-438</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IX.2.159. 70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi005.perseus-lat2:437-438" type="line">
+    <w ref="437" lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">Quid</w>
+    <w ref="437" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="437" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="437" lemma="clam1" pos="ADV" msd="Deg=Pos">clam</w>
+    <w ref="437" lemma="lateo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">latuit</w>
+    <w ref="437" lemma="reddo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">reddente</w>
+    <w ana="#male #euphemisms #aidoion #mentula" ref="437" lemma="obscenus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">obscena</w>
+    <w ref="437" lemma="puella" pos="NOMcom" msd="Case=Abl|Numb=Sing">puella</w>
+    <w ref="437" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="438" lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+    <w ref="438" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">vidit</w>
+    <w ref="438" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="438" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Neut">quae</w>
+    <w ref="438" lemma="mos" pos="NOMcom" msd="Case=Nom|Numb=Sing">mos</w>
+    <w ref="438" lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+    <w ref="438" lemma="uideo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">videre</w>
+    <w ref="438" lemma="ueto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vetat</w>
+    <w ref="438" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

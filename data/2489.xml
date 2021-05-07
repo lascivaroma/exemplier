@@ -1,0 +1,18 @@
+<div  type="fragment" corresp="adams:56" ana="#male #descriptive-functional #euphemism #mentula">
+  <bibl ref="#adams"><author>Columella, Lucius Junius Moderatus</author>, <title>Res Rustica</title>, <biblscope>8.2.3-8.2.3</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.1815.42ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:8.2.3-8.2.3" type="section">
+    <w ref="8.2.3" lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+    <w ref="8.2.3" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="8.2.3" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">id</w>
+    <w ref="8.2.3" lemma="patior" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">patiuntur</w>
+    <w ref="8.2.3" lemma="amitto" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">amissis</w>
+    <w ana="#male #descriptive-functional #euphemism #mentula" ref="8.2.3" lemma="genitalis" pos="NOMcom" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">genitalibus</w>
+    <w ref="8.2.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8.2.3" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="8.2.3" lemma="ferrum" pos="NOMcom" msd="Case=Abl|Numb=Sing">ferro</w>
+    <w ref="8.2.3" lemma="candeo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos|Mood=Par|Tense=Pres|Voice=Act">candente</w>
+    <w ref="8.2.3" lemma="calcar" pos="NOMcom" msd="Case=Abl|Numb=Plur">calcaribus</w>
+    <w ref="8.2.3" lemma="inuro" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">inustis</w>
+  </quote>
+</div>

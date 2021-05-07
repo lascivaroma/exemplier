@@ -1,0 +1,27 @@
+<div type="fragment" corresp="adams:42" ana="#male #outil #metaphore #mentula">
+  <bibl ref="#adams"><author>Vopiscus, Flavius fl. 3./4. Jh.</author>, <title>Antoninus Heliogobalus</title>, <biblscope>8-8</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi017.perseus-lat2:8-8" type="chapter">
+    <w ref="8" lemma="lauacrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">Lavacrum</w>
+    <w ref="8" lemma="publicus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">publicum</w>
+    <w ref="8" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="8" lemma="aedes" pos="NOMcom" msd="Case=Abl|Numb=Plur">aedibus</w>
+    <w ref="8" lemma="aulicus" pos="NOMcom" msd="Case=Abl|Numb=Sing">aulicis</w>
+    <w ref="8" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fecit</w>
+    <w ref="8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8" lemma="simul1" pos="ADV" msd="Deg=Pos">simul</w>
+    <w ref="8" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="8" lemma="Plautinus" pos="NOMpro" msd="Case=Gen|Numb=Sing|Deg=Pos">Plautini</w>
+    <w ref="8" lemma="populus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">populo</w>
+    <w ref="8" lemma="exhibeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">exhibuit</w>
+    <w ref="8" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="8" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="8" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="8" lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eo</w>
+    <w ref="8" lemma="condicio" pos="NOMcom" msd="Case=Acc|Numb=Plur">condiciones</w>
+    <w ref="8" lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
+    <w ana="#male #outil #metaphore #mentula" ref="8" lemma="uasatus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=MascNeut|Deg=Pos">vasatorum</w>
+    <w ref="8" lemma="homo" pos="NOMcom" msd="Case=Gen|Numb=Plur">hominum</w>
+    <w ref="8" lemma="colligo3" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">colligeret</w>
+    <w ref="8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

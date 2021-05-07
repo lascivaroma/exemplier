@@ -1,0 +1,39 @@
+<div  type="fragment" corresp="adams:92" ana="#adjoining_parts #kidneys #euphemism #female">
+  <bibl ref="#adams"><author>Prudentius b. 348</author>, <title>Contra Orationem Symmachia</title>, <biblscope>1.1.64-1.1.72</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.2322.36ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0238.stoa007.perseus-lat2:1.1.64-1.1.72" type="line">
+    <w ref="1.1.64" lemma="capio2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">capta</w>
+    <w ref="1.1.64" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibus</w>
+    <w ref="1.1.64" lemma="uolucer" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">volucrem</w>
+    <w ref="1.1.64" lemma="uirguncula" pos="NOMcom" msd="Case=Nom|Numb=Sing">virguncula</w>
+    <w ref="1.1.64" lemma="fero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">ferret</w>
+    <w ref="1.1.64" lemma="amor" pos="NOMcom" msd="Case=Acc|Numb=Sing">amorem</w>
+    <w ref="1.1.64" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.1.65" lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+    <w ref="1.1.65" lemma="foris1" pos="NOMcom" msd="Case=Abl|Numb=Plur">foribus</w>
+    <w ref="1.1.65" lemma="surdus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">surdis</w>
+    <w ref="1.1.65" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.1.65" lemma="serus" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">sera</w>
+    <w ref="1.1.65" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">quas</w>
+    <w ref="1.1.65" lemma="uel1" pos="ADV" msd="MORPH=empty">vel</w>
+    <w ref="1.1.65" lemma="pessulus" pos="ADJqua" msd="Case=Nom|Numb=Sing">pessulus</w>
+    <w ref="1.1.65" lemma="ars" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Com|Deg=Pos">artis</w>
+    <w ref="1.1.66" lemma="firmo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">firmarat</w>
+    <w ref="1.1.66" lemma="cuneus" pos="NOMcom" msd="Case=Abl|Numb=Plur">cuneis</w>
+    <w ref="1.1.66" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.1.66" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="1.1.66" lemma="tectum" pos="NOMcom" msd="Case=Acc|Numb=Sing">tectum</w>
+    <w ref="1.1.66" lemma="diues" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">dives</w>
+    <w ref="1.1.66" lemma="amator" pos="NOMcom" msd="Case=Nom|Numb=Sing">amator</w>
+    <w ref="1.1.67" lemma="imbrex" pos="NOMcom" msd="Case=Abl|Numb=Plur">imbricibus</w>
+    <w ref="1.1.67" lemma="rumpo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">ruptis</w>
+    <w ref="1.1.67" lemma="undo" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">undantis</w>
+    <w ref="1.1.67" lemma="desuper" pos="ADV" msd="Deg=Pos">desuper</w>
+    <w ref="1.1.67" lemma="aurum" pos="NOMcom" msd="Case=Gen|Numb=Sing">auri</w>
+    <w ref="1.1.68" lemma="infundo2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">infundens</w>
+    <w ref="1.1.68" lemma="pluuia" pos="NOMcom" msd="Case=Acc|Numb=Sing">pluviam</w>
+    <w ana="#adjoining_parts #kidneys #euphemism #female" ref="1.1.68" lemma="gremium" pos="NOMcom" msd="Case=Abl|Numb=Sing">gremio</w>
+    <w ref="1.1.68" lemma="excipio" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">excipientis</w>
+    <w ref="1.1.68" lemma="amica" pos="NOMcom" msd="Case=Gen|Numb=Sing">amicae</w>
+  </quote>
+</div>

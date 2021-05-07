@@ -1,0 +1,31 @@
+<div type="fragment" corresp="adams:56" ana="#male #descriptive-functional #euphemism #mentula">
+  <bibl ref="#adams"><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblscope>11.44-11.44</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.1815.42ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:11.44-11.44" type="chapter">
+    <w ref="11.44" lemma="pollex" pos="NOMcom" msd="Case=Nom|Numb=Sing">pollex</w>
+    <w ref="11.44" lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+    <w ref="11.44" lemma="is" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">iis</w>
+    <w ref="11.44" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="11.44" lemma="articulus" pos="NOMcom" msd="Case=Gen|Numb=Plur">articuli</w>
+    <w ref="11.44" lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+    <w ref="11.44" lemma="homo" pos="NOMcom" msd="Case=Dat|Numb=Sing">homini</w>
+    <w ref="11.44" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.44" lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+    <w ref="11.44" lemma="praeter2" pos="PRE" msd="MORPH=empty">praeter</w>
+    <w ana="#male #descriptive-functional #euphemism #mentula" ref="11.44" lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">genitale</w>
+    <w ref="11.44" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+    <w ref="11.44" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="11.44" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+    <w ref="11.44" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="11.44" lemma="mas" pos="NOMcom" msd="Case=Abl|Numb=Plur">maribus</w>
+    <w ref="11.44" lemma="tantum2" pos="ADV" msd="Deg=Pos">tantum</w>
+    <w ref="11.44" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+    <w ref="11.44" lemma="uiscus2" pos="NOMcom" msd="Case=Nom|Numb=Plur">viscera</w>
+    <w ref="11.44" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="11.44" lemma="interior2" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">interiora</w>
+    <w ref="11.44" lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Neut">omnia</w>
+    <w ref="11.44" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="11.44" lemma="exemplar" pos="NOMcom" msd="Case=Acc|Numb=Sing">exemplar</w>
+    <w ref="11.44" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

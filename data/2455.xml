@@ -1,0 +1,25 @@
+<div type="fragment" corresp="adams:53" ana="#male #euphemisms #aidoion #mentula">
+  <bibl ref="#adams"><author>Flavius Vegetius Renatus</author>, <title>Digesta artis mulomedicinae</title>, <biblscope>1.61.1-1.61.1</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0287.stoa002.digilibLT-lat1:1.61.1-1.61.1" type="paragraph">
+    <w ref="1.61.1" lemma="item" pos="ADV" msd="Deg=Pos">Item</w>
+    <w ref="1.61.1" lemma="alius" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Masc">alium</w>
+    <w ref="1.61.1" lemma="contero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">conteres</w>
+    <w ref="1.61.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.61.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.61.1" lemma="anus2" pos="NOMcom" msd="Case=Acc|Numb=Sing">anum</w>
+    <w ref="1.61.1" lemma="inicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">inicies</w>
+    <w ref="1.61.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.61.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#male #euphemisms #aidoion #mentula" ref="1.61.1" lemma="uereter" pos="NOMcom" msd="Case=Acc|Numb=Sing">veretrum</w>
+    <w ref="1.61.1" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="1.61.1" lemma="quo1" pos="ADVrel" msd="Numb=Sing">quo</w>
+    <w ref="1.61.1" lemma="mingo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Fut|Voice=Dep">mincturus</w>
+    <w ref="1.61.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="1.61.1" lemma="insero2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">inseres</w>
+    <w ref="1.61.1" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="1.61.1" lemma="mox" pos="ADV" msd="Deg=Pos">mox</w>
+    <w ref="1.61.1" lemma="egeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">egeret</w>
+    <w ref="1.61.1" lemma="lotium" pos="NOMcom" msd="Case=Nom|Numb=Sing">lotium</w>
+    <w ref="1.61.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

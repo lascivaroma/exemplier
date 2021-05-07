@@ -1,0 +1,15 @@
+<div  type="fragment" corresp="adams:56" ana="#male #descriptive-functional #euphemism #mentula">
+  <bibl ref="#adams"><author>Seneca, Lucius Annaeus (Plays)</author>, <title>Naturales quaestiones</title>, <biblscope>7.31.2-7.31.3</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.1815.42ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1017.phi016.corpuscorporum-lat1:7.31.2-7.31.3" type="section">
+    <w ref="7.31.3" lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+    <w ref="7.31.3" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="7.31.3" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">potest</w>
+    <w ref="7.31.3" lemma="exuo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">exui</w>
+    <w ref="7.31.3" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="7.31.3" lemma="alius" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc">alius</w>
+    <w ana="#male #descriptive-functional #euphemism #mentula" ref="7.31.3" lemma="genitalia" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Neut">genitalia</w>
+    <w ref="7.31.3" lemma="excido1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">excidit</w>
+    <w ref="7.31.3" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

@@ -1,0 +1,20 @@
+<div type="fragment" corresp="adams:56" ana="#male #descriptive-functional #euphemism #mentula">
+  <bibl ref="#adams"><author>Pliny, the Elder</author>, <title>Naturalis Historia</title>, <biblscope>23.2-23.2</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.1815.42ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:23.2-23.2" type="chapter">
+    <w ref="23.2" lemma="medeor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">medetur</w>
+    <w ref="23.2" lemma="illino" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">inlita</w>
+    <w ref="23.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="23.2" lemma="testis1" pos="NOMcom" msd="Case=Abl|Numb=Plur">testibus</w>
+    <w ref="23.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#male #descriptive-functional #euphemism #mentula" ref="23.2" lemma="genitalis" pos="NOMcom" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">genitalibus</w>
+    <w ref="23.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="23.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="23.2" lemma="uinum" pos="NOMcom" msd="Case=Abl|Numb=Sing">vino</w>
+    <w ref="23.2" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="23.2" lemma="aduersus3" pos="PRE" msd="MORPH=empty">adversus</w>
+    <w ref="23.2" lemma="stranguria" pos="NOMcom" msd="Case=Acc|Numb=Plur">strangurias</w>
+    <w ref="23.2" lemma="bibo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">bibitur</w>
+    <w ref="23.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

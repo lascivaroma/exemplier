@@ -1,0 +1,44 @@
+<div type="fragment" corresp="adams:53" ana="#male #euphemisms #aidoion #mentula">
+  <bibl ref="#adams"><author>Flavius Vegetius Renatus</author>, <title>Digesta artis mulomedicinae</title>, <biblscope>1.46.1-1.46.1</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0287.stoa002.digilibLT-lat1:1.46.1-1.46.1" type="paragraph">
+    <w ref="1.46.1" lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+    <w ref="1.46.1" lemma="quis2" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="1.46.1" lemma="iumentum" pos="NOMcom" msd="Case=Nom|Numb=Sing">iumentum</w>
+    <w ref="1.46.1" lemma="calculosus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">calculosum</w>
+    <w ref="1.46.1" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">fuerit</w>
+    <w ref="1.46.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.46.1" lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">haec</w>
+    <w ref="1.46.1" lemma="signum" pos="NOMcom" msd="Case=Acc|Numb=Plur">signa</w>
+    <w ref="1.46.1" lemma="monstro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">monstrabit</w>
+    <w ref="1.46.1" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="1.46.1" lemma="torqueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">torquetur</w>
+    <w ref="1.46.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.46.1" lemma="gemo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">gemit</w>
+    <w ref="1.46.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.46.1" lemma="extendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">extendit</w>
+    <w ref="1.46.1" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+    <w ref="1.46.1" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="1.46.1" lemma="conatus" pos="NOMcom" msd="Case=Acc|Numb=Sing">conatum</w>
+    <w ref="1.46.1" lemma="mingo" pos="VER" msd="Case=Gen|Numb=Sing|Mood=Ger|Voice=Act">mingendi</w>
+    <w ref="1.46.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.46.1" lemma="stillo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">stillat</w>
+    <w ana="#male #euphemisms #aidoion #mentula" ref="1.46.1" lemma="ueretrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">veretrum</w>
+    <w ref="1.46.1" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="1.46.1" lemma="gutta" pos="NOMcom" msd="Case=Dat|Numb=Plur">guttis</w>
+    <w ref="1.46.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.46.1" lemma="urina" pos="NOMcom" msd="Case=Acc|Numb=Sing">urinam</w>
+    <w ref="1.46.1" lemma="modicus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">modicam</w>
+    <w ref="1.46.1" lemma="mitto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">mittit</w>
+    <w ref="1.46.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.46.1" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="1.46.1" lemma="plenus" pos="NOMcom" msd="Case=Abl|Numb=Sing|Deg=Pos">pleno</w>
+    <w ref="1.46.1" lemma="mingo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">mingere</w>
+    <w ref="1.46.1" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="1.46.1" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">potest</w>
+    <w ref="1.46.1" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="1.46.1" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="1.46.1" lemma="cotidie" pos="ADV" msd="Deg=Pos">cotidie</w>
+    <w ref="1.46.1" lemma="patior" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">patitur</w>
+    <w ref="1.46.1" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

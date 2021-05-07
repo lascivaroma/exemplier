@@ -1,0 +1,45 @@
+<div type="fragment" corresp="adams:53" ana="#male #euphemisms #aidoion #mentula">
+  <bibl ref="#adams"><author>Flavius Vegetius Renatus</author>, <title>Digesta artis mulomedicinae</title>, <biblscope>2.79.6-2.79.6</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0287.stoa002.digilibLT-lat1:2.79.6-2.79.6" type="paragraph">
+    <w ref="2.79.6" lemma="ex" pos="PRE" msd="MORPH=empty">Ex</w>
+    <w ref="2.79.6" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">his</w>
+    <w ref="2.79.6" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="2.79.6" lemma="causa" pos="NOMcom" msd="Case=Abl|Numb=Plur">causis</w>
+    <w ref="2.79.6" lemma="passio" pos="NOMcom" msd="Case=Nom|Numb=Sing">passio</w>
+    <w ref="2.79.6" lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ista</w>
+    <w ref="2.79.6" lemma="descendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">descendit</w>
+    <w ref="2.79.6" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="2.79.6" lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+    <w ref="2.79.6" lemma="iumentum" pos="NOMcom" msd="Case=Nom|Numb=Sing">iumentum</w>
+    <w ref="2.79.6" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="2.79.6" lemma="opus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">opere</w>
+    <w ref="2.79.6" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="2.79.6" lemma="cursus" pos="NOMcom" msd="Case=Abl|Numb=Sing">cursu</w>
+    <w ref="2.79.6" lemma="magnus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">magna</w>
+    <w ref="2.79.6" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing">parte</w>
+    <w ref="2.79.6" lemma="dies" pos="NOMcom" msd="Case=Gen|Numb=Sing">diei</w>
+    <w ref="2.79.6" lemma="cogo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">cogatur</w>
+    <w ref="2.79.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.79.6" lemma="urina" pos="NOMcom" msd="Case=Gen|Numb=Sing">urinae</w>
+    <w ref="2.79.6" lemma="facio" pos="VER" msd="Case=Gen|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">faciendae</w>
+    <w ref="2.79.6" lemma="spatium" pos="NOMcom" msd="Case=Nom|Numb=Sing">spatium</w>
+    <w ref="2.79.6" lemma="denego" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">denegetur</w>
+    <w ref="2.79.6" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.79.6" lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
+    <w ref="2.79.6" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="2.79.6" lemma="uesica" pos="NOMcom" msd="Case=Gen|Numb=Sing">vesicae</w>
+    <w ref="2.79.6" lemma="meatus" pos="NOMcom" msd="Case=Abl|Numb=Sing">meatu</w>
+    <w ref="2.79.6" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+    <w ref="2.79.6" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ana="#male #euphemisms #aidoion #mentula" ref="2.79.6" lemma="ueretrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">veretrum</w>
+    <w ref="2.79.6" lemma="nascor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">nascitur</w>
+    <w ref="2.79.6" lemma="tumor" pos="NOMcom" msd="Case=Nom|Numb=Sing">tumor</w>
+    <w ref="2.79.6" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.79.6" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="2.79.6" lemma="dolor" pos="NOMcom" msd="Case=Abl|Numb=Sing">dolore</w>
+    <w ref="2.79.6" lemma="egestio" pos="NOMcom" msd="Case=Gen|Numb=Sing">egestionis</w>
+    <w ref="2.79.6" lemma="foramen" pos="NOMcom" msd="Case=Nom|Numb=Sing">foramen</w>
+    <w ref="2.79.6" lemma="angusto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">angustat</w>
+    <w ref="2.79.6" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

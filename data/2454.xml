@@ -1,0 +1,45 @@
+<div type="fragment" corresp="adams:53" ana="#male #euphemisms #aidoion #mentula">
+  <bibl ref="#adams"><author>Flavius Vegetius Renatus</author>, <title>Digesta artis mulomedicinae</title>, <biblscope>1.51.1-1.51.1</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0287.stoa002.digilibLT-lat1:1.51.1-1.51.1" type="paragraph">
+    <w ref="1.51.1" lemma="hic1" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">Huic</w>
+    <w ref="1.51.1" lemma="manus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">manum</w>
+    <w ref="1.51.1" lemma="subicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">subicies</w>
+    <w ref="1.51.1" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="1.51.1" lemma="anus2" pos="NOMcom" msd="Case=Acc|Numb=Sing">anum</w>
+    <w ref="1.51.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.51.1" lemma="deprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">deprimes</w>
+    <w ref="1.51.1" lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+    <w ref="1.51.1" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ana="#male #euphemisms #aidoion #mentula" ref="1.51.1" lemma="ueretrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">veretrum</w>
+    <w ref="1.51.1" lemma="uersus1" pos="NOMcom" msd="Numb=Sing">versus</w>
+    <w ref="1.51.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.51.1" lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
+    <w ref="1.51.1" lemma="inuenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">invenies</w>
+    <w ref="1.51.1" lemma="uesica" pos="NOMcom" msd="Case=Acc|Numb=Sing">vesicam</w>
+    <w ref="1.51.1" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+    <w ref="1.51.1" lemma="lotium" pos="NOMcom" msd="Case=Abl|Numb=Sing">lotio</w>
+    <w ref="1.51.1" lemma="plenus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">plenam</w>
+    <w ref="1.51.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.51.1" lemma="quam1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Fem">quam</w>
+    <w ref="1.51.1" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="1.51.1" lemma="dextera" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">dextra</w>
+    <w ref="1.51.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.51.1" lemma="sinister" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">sinistra</w>
+    <w ref="1.51.1" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing">parte</w>
+    <w ref="1.51.1" lemma="leuiter" pos="ADV" msd="Deg=Pos">leviter</w>
+    <w ref="1.51.1" lemma="adduco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">adduces</w>
+    <w ref="1.51.1" lemma="sursum" pos="ADV" msd="Deg=Pos">sursum</w>
+    <w ref="1.51.1" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="1.51.1" lemma="anus2" pos="NOMcom" msd="Case=Acc|Numb=Sing">anum</w>
+    <w ref="1.51.1" lemma="uersus1" pos="VER" msd="Numb=Sing">versus</w>
+    <w ref="1.51.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.51.1" lemma="deprimo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">deprimes</w>
+    <w ref="1.51.1" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="1.51.1" lemma="oleum" pos="NOMcom" msd="Case=Abl|Numb=Sing">oleo</w>
+    <w ref="1.51.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.51.1" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.51.1" lemma="minctio" pos="NOMcom" msd="Case=Acc|Numb=Sing">minctionem</w>
+    <w ref="1.51.1" lemma="prouoco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">provocas</w>
+    <w ref="1.51.1" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

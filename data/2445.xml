@@ -1,0 +1,14 @@
+<div  type="fragment" corresp="adams:51" ana="#euphemisms #voisinage #reproduction">
+  <bibl ref="#adams"><author>Vulgate</author>, <title>Numbers</title>, <biblscope>5.21-5.25</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VI.1.472.68ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg004.obi-lat1:5.21-5.25" type="verse">
+    <w ref="5.22" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.22" lemma="uterus" pos="NOMcom" msd="Case=Abl|Numb=Sing">utero</w>
+    <w ref="5.22" lemma="tumesco" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">tumescente</w>
+    <w ref="5.22" lemma="putresco" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">putrescat</w>
+    <w ana="#euphemisms #voisinage #reproduction" ref="5.22" lemma="femur" pos="NOMcom" msd="Case=Acc|Numb=Sing">femur</w>
+    <w ref="5.22" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.22" lemma="respondeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">respondebit</w>
+    <w ref="5.22" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>
+  </quote>
+</div>

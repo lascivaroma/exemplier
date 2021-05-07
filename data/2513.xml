@@ -1,0 +1,24 @@
+<div type="fragment" corresp="adams:92" ana="#adjoining_parts #kidneys #euphemism #female">
+  <bibl ref="#adams"><author>Anthologia Latina</author>, <title>Anthologia Latina</title>, <biblscope>034.1-034.2</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.2322.36ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:034.1-034.2" type="line">
+    <w ref="034.1" lemma="in" pos="PRE" msd="MORPH=empty">In</w>
+    <w ana="#adjoining_parts #kidneys #euphemism #female" ref="034.1" lemma="gremium" pos="NOMcom" msd="Case=Abl|Numb=Sing">gremio</w>
+    <w ref="034.1" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
+    <w ref="034.1" lemma="quidam" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">quoddam</w>
+    <w ref="034.1" lemma="genus1" pos="NOMcom" msd="Case=Acc|Numb=Sing">genus</w>
+    <w ref="034.1" lemma="herba" pos="NOMcom" msd="Case=Nom|Numb=Sing">herba</w>
+    <w ref="034.1" lemma="uiresco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">uirescit</w>
+    <w ref="034.1" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="034.2" lemma="sentio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Sensit</w>
+    <w ref="034.2" lemma="durus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">dura</w>
+    <w ref="034.2" lemma="filix" pos="NOMcom" msd="Case=Nom|Numb=Sing">filix</w>
+    <w ref="034.2" lemma="†" pos="PUNC" msd="MORPH=empty">†</w>
+    <w ref="034.2" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ref="034.2" lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Sing">loco</w>
+    <w ref="034.2" lemma="†" pos="PUNC" msd="MORPH=empty">†</w>
+    <w ref="034.2" lemma="exaestuo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">exaestuat</w>
+    <w ref="034.2" lemma="ignis" pos="NOMcom" msd="Case=Nom|Numb=Sing">ignis</w>
+    <w ref="034.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

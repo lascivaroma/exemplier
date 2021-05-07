@@ -1,0 +1,29 @@
+<div  type="fragment" corresp="adams:56" ana="#euphemisms #aidoion">
+  <bibl ref="#adams"><author>Pomponius Mela</author>, <title>De Redito Suo</title>, <biblscope>3.53-3.53</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IX.2.159. 70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0200.stoa001.latinlibrary-lat1:3.53-3.53" type="paragraph">
+    <w ref="3.53" lemma="linum" pos="NOMcom" msd="Case=Dat|Numb=Sing">Lino</w>
+    <w ref="3.53" lemma="alius" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Masc">alii</w>
+    <w ref="3.53" lemma="uestio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">vestiuntur</w>
+    <w ref="3.53" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="3.53" lemma="lana" pos="NOMcom" msd="Case=Abl|Numb=Plur">lanis</w>
+    <w ref="3.53" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">quas</w>
+    <w ref="3.53" lemma="dico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1">diximus</w>
+    <w ref="3.53" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.53" lemma="alius" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Masc">alii</w>
+    <w ref="3.53" lemma="auis" pos="NOMcom" msd="Case=Gen|Numb=Plur">avium</w>
+    <w ref="3.53" lemma="fera" pos="NOMcom" msd="Case=Gen|Numb=Plur">ferarumque</w>
+    <w ref="3.53" lemma="que" pos="CON" msd="MORPH=empty">{ferarumque}</w>
+    <w ref="3.53" lemma="pellis" pos="NOMcom" msd="Case=Abl|Numb=Plur">pellibus</w>
+    <w ref="3.53" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="3.53" lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing">pars</w>
+    <w ref="3.53" lemma="nudus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">nudi</w>
+    <w ref="3.53" lemma="ago" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">agunt</w>
+    <w ref="3.53" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="3.53" lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing">pars</w>
+    <w ref="3.53" lemma="tantum2" pos="ADV" msd="Deg=Pos">tantum</w>
+    <w ana="#euphemisms #aidoion" ref="3.53" lemma="obscenum" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">obscena</w>
+    <w ref="3.53" lemma="uelo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">velati</w>
+    <w ref="3.53" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+  </quote>
+</div>

@@ -1,0 +1,18 @@
+<div type="fragment" corresp="adams:51" ana="#euphemisms #voisinage #reproduction">
+  <bibl ref="#adams"><author>Jerome Saint d. 419 or 20</author>, <title>Epistolae</title>, <biblscope>65.10.2-65.10.2</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VI.1.472.68ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0162.stoa004.opp-lat1:65.10.2-65.10.2" type="section">
+    <w ref="65.10.2" lemma="quod1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="65.10.2" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ana="#euphemisms #voisinage #reproduction" ref="65.10.2" lemma="femur" pos="NOMcom" msd="Case=Nom|Numb=Sing">femor</w>
+    <w ref="65.10.2" lemma="significo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">significet</w>
+    <w ref="65.10.2" lemma="opus?" pos="NOMcom" msd="Case=Acc|Numb=Plur">opera</w>
+    <w ref="65.10.2" lemma="nuptiae" pos="NOMcom" msd="Case=Gen|Numb=Plur">nuptiarum</w>
+    <w ref="65.10.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="65.10.2" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">his</w>
+    <w ref="65.10.2" lemma="breuiter" pos="ADV" msd="Deg=Pos">breuiter</w>
+    <w ref="65.10.2" lemma="exemplum" pos="NOMcom" msd="Case=Abl|Numb=Plur">exemplis</w>
+    <w ref="65.10.2" lemma="doceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=2">doceberis</w>
+    <w ref="65.10.2" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

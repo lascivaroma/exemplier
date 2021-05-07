@@ -1,0 +1,27 @@
+<div  type="fragment" corresp="adams:56" ana="#euphemisms #aidoion">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Book of Days</title>, <biblscope>6.629-6.634</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IX.2.159. 70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi007.perseus-lat2:6.629-6.634" type="line">
+    <w ref="6.631" lemma="hic1" pos="PROdem" msd="MORPH=empty">hic</w>
+    <w ref="6.631" lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+    <w ref="6.631" lemma="cinis" pos="NOMcom" msd="Case=Acc|Numb=Plur">cineres</w>
+    <w ana="#male #euphemisms #aidoion #mentula" ref="6.631" lemma="obscenus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Deg=Pos">obsceni</w>
+    <w ref="6.631" lemma="forma" pos="NOMcom" msd="Case=Nom|Numb=Sing">forma</w>
+    <w ref="6.631" lemma="uirilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">virilis</w>
+    <w ref="6.632" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="6.632" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="6.632" lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+    <w ref="6.632" lemma="uideo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">visa</w>
+    <w ref="6.632" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+    <w ref="6.632" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.632" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="6.632" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="6.632" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+    <w ref="6.632" lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
+    <w ref="6.632" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="6.633" lemma="iussum" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">iussa</w>
+    <w ref="6.633" lemma="focus" pos="NOMcom" msd="Case=Abl|Numb=Sing">foco</w>
+    <w ref="6.633" lemma="captiuus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">captiva</w>
+    <w ref="6.633" lemma="sedeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sedet</w>
+  </quote>
+</div>

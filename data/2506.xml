@@ -1,0 +1,45 @@
+<div type="fragment" corresp="adams:85" ana="#caves #female #culus #cunnus #metaphore">
+  <bibl ref="#adams"><author>Theodorus Priscianus</author>, <title>Euporiston</title>, <biblscope>2.25-2.25</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.646.41ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0234b.stoa001.digilibLT-lat1:2.25-2.25" type="chapter">
+    <w ref="2.25" lemma="pinguis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">Pingui</w>
+    <w ref="2.25" lemma="etenim" pos="CONcoo" msd="MORPH=empty">etenim</w>
+    <w ref="2.25" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.25" lemma="frigidus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">frigido</w>
+    <w ref="2.25" lemma="flegma" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act">flegmate</w>
+    <w ref="2.25" lemma="angustia" pos="NOMcom" msd="Case=Abl|Numb=Plur">angustiis</w>
+    <w ref="2.25" lemma="cartillago" pos="NOMcom" msd="Case=Gen|Numb=Sing|Gend=Com">cartillaginis</w>
+    <w ref="2.25" lemma="pulmo" pos="NOMcom" msd="Case=Abl|Numb=Plur">pulmonibus</w>
+    <w ref="2.25" lemma="adhaereo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">adhaerente</w>
+    <w ref="2.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ana="#caves #female #culus #cunnus #metaphore" ref="2.25" lemma="cauerna" pos="NOMcom" msd="Case=Nom|Numb=Sing">cavernae</w>
+    <w ref="2.25" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="2.25" lemma="meatus" pos="NOMcom" msd="Case=Nom|Numb=Sing">meatus</w>
+    <w ref="2.25" lemma="ibidem" pos="ADV" msd="Deg=Pos">ibidem</w>
+    <w ref="2.25" lemma="qui1" pos="PROrel" msd="Case=Dat|Numb=Plur|Gend=Com">quibus</w>
+    <w ref="2.25" lemma="naturaliter" pos="ADV" msd="Deg=Pos">naturaliter</w>
+    <w ref="2.25" lemma="spiritus" pos="NOMcom" msd="Case=Nom|Numb=Sing">spiritus</w>
+    <w ref="2.25" lemma="reddo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">redditur</w>
+    <w ref="2.25" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.25" lemma="accipio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">accipitur</w>
+    <w ref="2.25" lemma="concludo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">concluduntur</w>
+    <w ref="2.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.25" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.25" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="2.25" lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">hoc</w>
+    <w ref="2.25" lemma="impedimentum" pos="NOMcom" msd="Case=Abl|Numb=Sing">impedimento</w>
+    <w ref="2.25" lemma="suspirium" pos="NOMcom" msd="Case=Nom|Numb=Sing">suspirium</w>
+    <w ref="2.25" lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+    <w ref="2.25" lemma="anhelitus" pos="NOMcom" msd="Case=Nom|Numb=Sing">anhelitus</w>
+    <w ref="2.25" lemma="molestus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Sup">molestissimus</w>
+    <w ref="2.25" lemma="nascor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">nascitur</w>
+    <w ref="2.25" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.25" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="2.25" lemma="sedeo" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">sedendo</w>
+    <w ref="2.25" lemma="magis2" pos="ADV" msd="Deg=Comp">magis</w>
+    <w ref="2.25" lemma="quam1" pos="ADVrel" msd="MORPH=empty">quam</w>
+    <w ref="2.25" lemma="iaceo" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Ger|Voice=Act">iacendo</w>
+    <w ref="2.25" lemma="respiro" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">respirent</w>
+    <w ref="2.25" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

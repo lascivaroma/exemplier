@@ -1,0 +1,39 @@
+<div  type="fragment" corresp="adams:56" ana="#male #descriptive-functional #euphemism #mentula">
+  <bibl ref="#adams"><author>Apuleius</author>, <title>Metamorphoses</title>, <biblscope>10.22-10.22</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.1815.42ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:10.22-10.22" type="chapter">
+    <w ref="10.22" lemma="labia" pos="NOMcom" msd="Case=Acc|Numb=Plur">labiasque</w>
+    <w ref="10.22" lemma="que" pos="CON" msd="MORPH=empty">{labiasque}</w>
+    <w ref="10.22" lemma="modicus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">modicas</w>
+    <w ref="10.22" lemma="ambrosio" pos="NOMcom" msd="Case=Abl|Numb=Sing">ambrosio</w>
+    <w ref="10.22" lemma="ros" pos="NOMcom" msd="Case=Abl|Numb=Sing">rore</w>
+    <w ref="10.22" lemma="purpuro" pos="VER" msd="Case=Acc|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">purpurantes</w>
+    <w ref="10.22" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+    <w ref="10.22" lemma="amplus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">amplo</w>
+    <w ref="10.22" lemma="os1" pos="NOMcom" msd="Case=Abl|Numb=Sing">ore</w>
+    <w ref="10.22" lemma="tam" pos="ADV" msd="Deg=Pos">tamque</w>
+    <w ref="10.22" lemma="que" pos="CON" msd="MORPH=empty">{tamque}</w>
+    <w ref="10.22" lemma="enormis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">enormi</w>
+    <w ref="10.22" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="10.22" lemma="saxeus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">saxeis</w>
+    <w ref="10.22" lemma="dens" pos="NOMcom" msd="Case=Abl|Numb=Plur">dentibus</w>
+    <w ref="10.22" lemma="deformis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">deformi</w>
+    <w ref="10.22" lemma="sauior" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">saviari</w>
+    <w ref="10.22" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.22" lemma="noue" pos="ADV" msd="Deg=Sup">novissime</w>
+    <w ref="10.22" lemma="qui1" pos="PROint" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ref="10.22" lemma="pactum" pos="NOMcom" msd="Case=Abl|Numb=Sing">pacto</w>
+    <w ref="10.22" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.22" lemma="quamquam2" pos="CONsub" msd="MORPH=empty">quamquam</w>
+    <w ref="10.22" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="10.22" lemma="unguicula" pos="NOMcom" msd="Case=Abl|Numb=Plur">unguiculis</w>
+    <w ref="10.22" lemma="perpruriscor" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">perpruriscens</w>
+    <w ref="10.22" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="10.22" lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Sing">mulier</w>
+    <w ref="10.22" lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+    <w ref="10.22" lemma="uastus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">vastum</w>
+    <w ana="#male #descriptive-functional #euphemism #mentula" ref="10.22" lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">genitale</w>
+    <w ref="10.22" lemma="suscipio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">susciperet</w>
+    <w ref="10.22" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+  </quote>
+</div>

@@ -1,0 +1,32 @@
+<div type="fragment" corresp="adams:56" ana="#euphemisms #aidoion">
+  <bibl ref="#adams"><author>Arnobius of Sicca</author>, <title>Arnobii adversus nationes Libri VII</title>, <biblscope>5.12-5.12</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IX.2.159. 70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.12-5.12" type="section">
+    <w ref="5.12" lemma="agdestis" pos="NOMpro" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2">Agdestis</w>
+    <w ref="5.12" lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">iste</w>
+    <w ref="5.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.12" lemma="oro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">oro</w>
+    <w ref="5.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.12" lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
+    <w ana="#euphemisms #aidoion" ref="5.12" lemma="obscenitas" pos="NOMcom" msd="Case=Nom|Numb=Sing">obscenitas</w>
+    <w ref="5.12" lemma="amputo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">amputata</w>
+    <w ref="5.12" lemma="securitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">securitatem</w>
+    <w ref="5.12" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">fuerat</w>
+    <w ref="5.12" lemma="infero" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">inlatura</w>
+    <w ref="5.12" lemma="caelestia" pos="NOMcom" msd="Case=Dat|Numb=Plur|Gend=Com|Deg=Pos">caelestibus</w>
+    <w ref="5.12" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5.12" lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+    <w ref="5.12" lemma="terrenus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com">terrenis</w>
+    <w ref="5.12" lemma="animans1" pos="NOMcom" msd="Case=Abl|Numb=Plur">animantibus</w>
+    <w ref="5.12" lemma="unus" pos="ADJcar" msd="Case=Nom|Numb=Sing|Gend=Masc">unus</w>
+    <w ref="5.12" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="5.12" lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+    <w ref="5.12" lemma="deus" pos="NOMcom" msd="Case=Gen|Numb=Plur">deorum</w>
+    <w ref="5.12" lemma="aliquis" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">aliquis</w>
+    <w ref="5.12" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="5.12" lemma="immortalitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">inmortalitatis</w>
+    <w ref="5.12" lemma="praeditus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">praeditus</w>
+    <w ref="5.12" lemma="honor" pos="NOMcom" msd="Case=Abl|Numb=Sing">honore</w>
+    <w ref="5.12" lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+  </quote>
+</div>

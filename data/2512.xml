@@ -1,0 +1,26 @@
+<div type="fragment" corresp="adams:92" ana="#adjoining_parts #kidneys #euphemism #female">
+  <bibl ref="#adams"><author>Statius, P. Papinius (Publius Papinius)</author>, <title>Thebais</title>, <biblscope>1.233-1.235</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.2322.36ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1020.phi001.perseus-lat2:1.233-1.235" type="line">
+    <w ref="1.233" lemma="scando" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">scandere</w>
+    <w ref="1.233" lemma="quin1" pos="ADV" msd="Deg=Pos">quin</w>
+    <w ref="1.233" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="1.233" lemma="thalamus" pos="NOMcom" msd="Case=Acc|Numb=Plur">thalamos</w>
+    <w ref="1.233" lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">hic</w>
+    <w ref="1.233" lemma="impius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">impius</w>
+    <w ref="1.233" lemma="heres" pos="NOMcom" msd="Case=Nom|Numb=Sing">heres</w>
+    <w ref="1.234" lemma="pater" pos="NOMcom" msd="Case=Gen|Numb=Sing">patris</w>
+    <w ref="1.234" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="1.234" lemma="immeritus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">immeritae</w>
+    <w ana="#adjoining_parts #kidneys #euphemism #female" ref="1.234" lemma="gremium" pos="NOMcom" msd="Case=Acc|Numb=Sing">gremium</w>
+    <w ref="1.234" lemma="incesto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">incestare</w>
+    <w ref="1.234" lemma="parens1" pos="NOMcom" msd="Case=Gen|Numb=Sing">parentis</w>
+    <w ref="1.235" lemma="appeto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">appetiit</w>
+    <w ref="1.235" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="1.235" lemma="proprius" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">proprios</w>
+    <w ref="1.235" lemma="—" pos="PUNC" msd="MORPH=empty">—</w>
+    <w ref="1.235" lemma="monstrum" pos="NOMcom" msd="Case=Acc|Numb=Sing">monstrum</w>
+    <w ref="1.235" lemma="1" pos="ADJcar" msd="MORPH=empty">1</w>
+    <w ref="1.235" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

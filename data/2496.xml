@@ -1,0 +1,14 @@
+<div type="fragment" corresp="adams:61" ana="#male #natura #euphemism #mentula">
+  <bibl ref="#adams"><author>Firmicus Maternus, Julius</author>, <title>Mathesis</title>, <biblscope>VIII.31-VIII.31</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0123a.stoa002.digilibLT-lat1:VIII.31-VIII.31" type="chapter">
+    <w ref="VIII.31" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">Habebit</w>
+    <w ref="VIII.31" lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxorem</w>
+    <w ref="VIII.31" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ana="#male #natura #euphemism #mentula" ref="VIII.31" lemma="necessarius2" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">necessariis</w>
+    <w ref="VIII.31" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
+    <w ref="VIII.31" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Plur">partibus</w>
+    <w ref="VIII.31" lemma="habeo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">habentem</w>
+    <w ref="VIII.31" lemma="uitium" pos="NOMcom" msd="Case=Acc|Numb=Sing">uitium</w>
+    <w ref="VIII.31" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

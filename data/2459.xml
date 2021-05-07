@@ -1,0 +1,37 @@
+<div  type="fragment" corresp="adams:56" ana="#euphemisms #aidoion">
+  <bibl ref="#adams"><author>Ovid</author>, <title>Remède à l'amour</title>, <biblscope>429-432</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IX.2.159. 70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi005.perseus-lat2:429-432" type="line">
+    <w ref="429" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">Ille</w>
+    <w ref="429" lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+    <w ana="#male #euphemisms #aidoion #mentula" ref="429" lemma="obscenus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">obscenas</w>
+    <w ref="429" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="429" lemma="apertus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut">aperto</w>
+    <w ref="429" lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
+    <w ana="#male #euphemisms #aidoion #mentula" ref="429" lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Plur">partes</w>
+    <w ref="430" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">Viderat</w>
+    <w ref="430" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="430" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="430" lemma="cursus" pos="NOMcom" msd="Case=Abl|Numb=Sing">cursu</w>
+    <w ref="430" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+    <w ref="430" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">fuit</w>
+    <w ref="430" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="430" lemma="haereo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">haesit</w>
+    <w ref="430" lemma="amor" pos="NOMcom" msd="Case=Nom|Numb=Sing">amor</w>
+    <w ref="430" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="431" lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">Ille</w>
+    <w ref="431" lemma="quod2" pos="PROrel" msd="Case=Acc|Gend=Neut">quod</w>
+    <w ref="431" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="431" lemma="Uenus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Veneris</w>
+    <w ref="431" lemma="res" pos="NOMcom" msd="Case=Abl|Numb=Plur">rebus</w>
+    <w ref="431" lemma="surgo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">surgente</w>
+    <w ref="431" lemma="puella" pos="NOMcom" msd="Case=Abl|Numb=Sing">puella</w>
+    <w ref="432" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Vidit</w>
+    <w ref="432" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="432" lemma="immundus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">inmundo</w>
+    <w ref="432" lemma="signum" pos="NOMcom" msd="Case=Acc|Numb=Plur">signa</w>
+    <w ref="432" lemma="pudendus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">pudenda</w>
+    <w ref="432" lemma="torus" pos="NOMcom" msd="Case=Abl|Numb=Sing">toro</w>
+    <w ref="432" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

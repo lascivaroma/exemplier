@@ -1,0 +1,30 @@
+<div type="fragment" corresp="adams:85" ana="#caves #female #culus #cunnus #metaphore">
+  <bibl ref="#adams"><author>Ausonius, Decimus Magnus</author>, <title>Epigrammaton Liber</title>, <biblscope>79.6-79.8</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.646.41ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:79.6-79.8" type="line">
+    <w ref="79.6" lemma="Crispa" pos="NOMpro" msd="Case=Nom|Numb=Sing">Crispa</w>
+    <w ref="79.6" lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+    <w ref="79.6" lemma="cunetus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem">cunetas</w>
+    <w ref="79.6" lemma="exerceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">exercet</w>
+    <w ref="79.6" lemma="corpus" pos="NOMcom" msd="Case=Abl|Numb=Sing">corpore</w>
+    <w ref="79.6" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="79.6" lemma="unus" pos="ADJcar" msd="Case=Abl|Numb=Sing|Gend=MascNeut">uno</w>
+    <w ref="79.6" lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+    <w ref="79.7" lemma="deglubio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">deglubit</w>
+    <w ref="79.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="79.7" lemma="fello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fellat</w>
+    <w ref="79.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="79.7" lemma="molior" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">molitur</w>
+    <w ref="79.7" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="79.7" lemma="uterque" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">utramque</w>
+    <w ana="#caves #female #culus #cunnus #metaphore" ref="79.7" lemma="cauerna" pos="NOMcom" msd="Case=Acc|Numb=Sing">cavernam</w>
+    <w ref="79.7" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="79.8" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="79.8" lemma="quis2" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+    <w ref="79.8" lemma="inexpertus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">inexpertum</w>
+    <w ref="79.8" lemma="frustra" pos="ADV" msd="Deg=Pos">frustra</w>
+    <w ref="79.8" lemma="morior" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Dep">moritura</w>
+    <w ref="79.8" lemma="relinquo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">relinquat</w>
+    <w ref="79.8" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

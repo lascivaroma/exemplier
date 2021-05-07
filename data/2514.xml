@@ -1,0 +1,40 @@
+<div type="fragment" corresp="adams:92" ana="#adjoining_parts #kidneys #euphemism #female">
+  <bibl ref="#adams"><author>Augustine</author>, <title>De civitate dei</title>, <biblscope>14.26-14.26</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL VI.2.2322.36ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0040.stoa003.opp-lat4:14.26-14.26" type="chapter">
+    <w ref="14.26" lemma="proles" pos="NOMcom" msd="Case=Acc|Numb=Sing">prolem</w>
+    <w ref="14.26" lemma="sero3" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">seri</w>
+    <w ref="14.26" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="14.26" lemma="libido" pos="NOMcom" msd="Case=Gen|Numb=Sing">libidinis</w>
+    <w ref="14.26" lemma="morbus" pos="NOMcom" msd="Case=Abl|Numb=Sing">morbo</w>
+    <w ref="14.26" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.26" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="14.26" lemma="eo3" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">eo</w>
+    <w ref="14.26" lemma="uoluntas" pos="NOMcom" msd="Case=Gen|Numb=Sing">uoluntatis</w>
+    <w ref="14.26" lemma="nutus" pos="NOMcom" msd="Case=Abl|Numb=Sing">nutu</w>
+    <w ref="14.26" lemma="moueo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">mouerentur</w>
+    <w ref="14.26" lemma="membrum" pos="NOMcom" msd="Case=Nom|Numb=Plur">membra</w>
+    <w ref="14.26" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">illa</w>
+    <w ref="14.26" lemma="quo1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+    <w ref="14.26" lemma="cetera1" pos="NOMcom" msd="Case=Nom|Numb=Plur">cetera</w>
+    <w ref="14.26" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="14.26" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="14.26" lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+    <w ref="14.26" lemma="ardor" pos="NOMcom" msd="Case=Gen|Numb=Sing">ardoris</w>
+    <w ref="14.26" lemma="illecebrosus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">inlecebroso</w>
+    <w ref="14.26" lemma="stimulus" pos="NOMcom" msd="Case=Abl|Numb=Sing">stimulo</w>
+    <w ref="14.26" lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+    <w ref="14.26" lemma="tranquillitas" pos="NOMcom" msd="Case=Abl|Numb=Sing">tranquillitate</w>
+    <w ref="14.26" lemma="animus" pos="NOMcom" msd="Case=Gen|Numb=Sing">animi</w>
+    <w ref="14.26" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="14.26" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
+    <w ref="14.26" lemma="nullus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">nulla</w>
+    <w ref="14.26" lemma="corruptio" pos="NOMcom" msd="Case=Abl|Numb=Sing">corruptione</w>
+    <w ref="14.26" lemma="integritas" pos="NOMcom" msd="Case=Gen|Numb=Sing">integritatis</w>
+    <w ref="14.26" lemma="infundo2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">infunderetur</w>
+    <w ana="#adjoining_parts #kidneys #euphemism #female" ref="14.26" lemma="gremium" pos="NOMcom" msd="Case=Abl|Numb=Sing">gremio</w>
+    <w ref="14.26" lemma="maritus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">maritus</w>
+    <w ref="14.26" lemma="uxor" pos="NOMcom" msd="Case=Gen|Numb=Sing">uxoris</w>
+    <w ref="14.26" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

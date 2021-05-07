@@ -1,0 +1,26 @@
+<div  type="fragment" corresp="adams:40" ana="#male #medical #metaphore #mentula">
+  <bibl ref="#adams"><author>Martial</author>, <title>Epigrammata</title>, <biblscope>11.60.2-11.60.7</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.60.2-11.60.7" type="line">
+    <w ref="11.60.2" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="11.60.2" lemma="Phlogis" pos="NOMpro" msd="Case=Nom|Numb=Sing">Phlogis</w>
+    <w ref="11.60.2" lemma="ulcus" pos="NOMcom" msd="Case=Acc|Numb=Sing">ulcus</w>
+    <w ref="11.60.2" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habet</w>
+    <w ref="11.60.2" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="11.60.3" lemma="ulcus" pos="NOMcom" msd="Case=Acc|Numb=Sing">Ulcus</w>
+    <w ref="11.60.3" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habet</w>
+    <w ref="11.60.3" lemma="Priamus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Priami</w>
+    <w ref="11.60.3" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="11.60.3" lemma="tendo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">tendere</w>
+    <w ref="11.60.3" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">possit</w>
+    <w ana="#male #medical #metaphore #mentula" ref="11.60.3" lemma="aluta2" pos="NOMcom" msd="Case=Acc|Numb=Sing">alutam</w>
+    <w ref="11.60.4" lemma="qui" pos="PROrel" msd="MORPH=empty">Quodque</w>
+    <w ref="11.60.4" lemma="que" pos="CON" msd="MORPH=empty">{Quodque}</w>
+    <w ref="11.60.4" lemma="senex2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem">senem</w>
+    <w ref="11.60.4" lemma="Pelias" pos="NOMpro" msd="Case=Acc|Numb=Sing">Pelian</w>
+    <w ref="11.60.4" lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+    <w ref="11.60.4" lemma="sino" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sinat</w>
+    <w ref="11.60.4" lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+    <w ref="11.60.4" lemma="senex1" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=MascFem">senem</w>
+    <w ref="11.60.4" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+  </quote>
+</div>

@@ -1,0 +1,20 @@
+<div  type="fragment" corresp="adams:56" ana="#euphemisms #aidoion">
+  <bibl ref="#adams"><author>Cyprianus Gallus active 5th century</author>, <title>Heptateuchos</title>, <biblscope>deu.130-deu.133</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IX.2.159. 70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0104c.stoa001.opp-lat1:deu.130-deu.133" type="line">
+    <w ref="deu.132" lemma="insero2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">inserat</w>
+    <w ref="deu.132" lemma="hic1" pos="PROdem" msd="Case=Dat|Numb=Plur|Gend=Com">his</w>
+    <w ref="deu.132" lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">mediam</w>
+    <w ref="deu.132" lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">sese</w>
+    <w ref="deu.132" lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+    <w ref="deu.132" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">femina</w>
+    <w ref="deu.132" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="deu.132" lemma="neue1" pos="CONcoo" msd="MORPH=empty">neue</w>
+    <w ana="#male #euphemisms #aidoion #mentula" ref="deu.133" lemma="inguen" pos="NOMcom" msd="Case=Acc|Numb=Plur">inguina</w>
+    <w ref="deu.133" lemma="corripio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">corripiat</w>
+    <w ref="deu.133" lemma="alienus2" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">alieni</w>
+    <w ana="#male #euphemisms #aidoion #mentula" ref="deu.133" lemma="obscenus" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Neut">obscena</w>
+    <w ref="deu.133" lemma="maritus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">mariti</w>
+    <w ref="deu.133" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

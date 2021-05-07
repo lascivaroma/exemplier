@@ -1,0 +1,21 @@
+<div type="fragment" corresp="adams:85" ana="#caves #female #culus #cunnus #metaphore">
+  <bibl ref="#adams"><author>Cassius Felix</author>, <title>De medicina</title>, <biblscope>20.5-20.5</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL III.646.41ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1:20.5-20.5" type="paragraph">
+    <w ref="20.5" lemma="tunc" pos="ADV" msd="Deg=Pos">Tunc</w>
+    <w ref="20.5" lemma="illino" pos="NOMcom" msd="Numb=Sing|Gend=MascNeut">illitum</w>
+    <w ref="20.5" lemma="scindo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">scisso</w>
+    <w ref="20.5" lemma="linteolus" pos="NOMcom" msd="Case=Abl|Numb=Sing">linteolo</w>
+    <w ref="20.5" lemma="lemincus" pos="ADJqua" msd="Case=Acc|Numb=Sing">lemniscum</w>
+    <w ref="20.5" lemma="inicio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">inicies</w>
+    <w ref="20.5" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="20.5" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">eum</w>
+    <w ref="20.5" lemma="calco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">calcabis</w>
+    <w ref="20.5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="20.5" lemma="donec" pos="CONsub" msd="MORPH=empty">donec</w>
+    <w ref="20.5" lemma="repleo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">repleas</w>
+    <w ref="20.5" lemma="fistula" pos="NOMcom" msd="Case=Dat|Numb=Sing">fistulae</w>
+    <w ana="#caves #female #culus #cunnus #metaphore" ref="20.5" lemma="cauerna" pos="NOMcom" msd="Case=Acc|Numb=Sing">cauernam</w>
+    <w ref="20.5" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

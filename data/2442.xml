@@ -1,0 +1,41 @@
+<div  type="fragment" corresp="adams:42" ana="#male #outil #metaphore #mentula">
+  <bibl ref="#adams"><author>Vopiscus, Flavius fl. 3./4. Jh.</author>, <title>Antoninus Heliogobalus</title>, <biblscope>9-9</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi017.perseus-lat2:9-9" type="chapter">
+    <w ref="9" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9" lemma="Helionabalus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Heliogabalus</w>
+    <w ref="9" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9" lemma="ludibrium" pos="NOMcom" msd="Case=Nom|Numb=Sing">ludibrium</w>
+    <w ref="9" lemma="publicus2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">publicum</w>
+    <w ref="9" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">diceretur</w>
+    <w ref="9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9" lemma="nomen" pos="NOMcom" msd="Case=Acc|Numb=Sing">nomen</w>
+    <w ref="9" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="9" lemma="Antoninus" pos="NOMpro" msd="Case=Gen|Numb=Sing">Antonini</w>
+    <w ref="9" lemma="polluo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">pollueret</w>
+    <w ref="9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="9" lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+    <w ref="9" lemma="inuado2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">invaserat</w>
+    <w ref="9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9" lemma="prodo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Pass|Person=3">prodebatur</w>
+    <w ref="9" lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+    <w ref="9" lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+    <w ref="9" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Masc">eos</w>
+    <w ref="9" lemma="magis2" pos="ADV" msd="Deg=Sup">maxime</w>
+    <w ref="9" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="9" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+    <w ref="9" lemma="doleo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3">dolebant</w>
+    <w ref="9" lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+    <w ref="9" lemma="homo" pos="NOMcom" msd="Case=Acc|Numb=Plur">homines</w>
+    <w ref="9" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="9" lemma="exerceo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Adj|Voice=Pass">exercendas</w>
+    <w ref="9" lemma="libido" pos="NOMcom" msd="Case=Acc|Numb=Plur">libidines</w>
+    <w ref="9" lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
+    <w ana="#male #outil #metaphore #mentula" ref="9" lemma="uasatus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">vasatos</w>
+    <w ref="9" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9" lemma="magnus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Com|Deg=Comp">maioris</w>
+    <w ref="9" lemma="peculium" pos="NOMcom" msd="Case=Gen|Numb=Sing">peculii</w>
+    <w ref="9" lemma="oppono" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">opponi</w>
+    <w ref="9" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

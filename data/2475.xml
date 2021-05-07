@@ -1,0 +1,38 @@
+<div type="fragment" corresp="adams:56" ana="#euphemisms #aidoion">
+  <bibl ref="#adams"><author>Flavius Iosephus</author>, <title>De Iudaeorum Vetustate sive Contra Apionem</title>, <biblscope>2.143-2.143</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>TLL IX.2.159. 70ff.</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0526.tlg003.opp-lat1:2.143-2.143" type="section">
+    <w ref="2.143" lemma="unde1" pos="ADVrel" msd="MORPH=empty">unde</w>
+    <w ref="2.143" lemma="recte" pos="ADV" msd="Deg=Pos">recte</w>
+    <w ref="2.143" lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+    <w ref="2.143" lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">uidetur</w>
+    <w ref="2.143" lemma="Apion" pos="NOMpro" msd="Case=Nom|Numb=Sing">Apion</w>
+    <w ref="2.143" lemma="propter2" pos="PRE" msd="MORPH=empty">propter</w>
+    <w ref="2.143" lemma="patria" pos="NOMcom" msd="Case=Gen|Numb=Sing">patriae</w>
+    <w ref="2.143" lemma="suus" pos="PROpos.ref" msd="Case=Gen|Numb=Sing|Gend=Fem">suae</w>
+    <w ref="2.143" lemma="lex" pos="NOMcom" msd="Case=Acc|Numb=Plur">leges</w>
+    <w ref="2.143" lemma="multus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">multam</w>
+    <w ref="2.143" lemma="soluo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">soluisse</w>
+    <w ref="2.143" lemma="blasphemia" pos="NOMcom" msd="Case=Dat|Numb=Sing">blasphemiae</w>
+    <w ref="2.143" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="2.143" lemma="etenim" pos="CONcoo" msd="MORPH=empty">etenim</w>
+    <w ref="2.143" lemma="necessario" pos="ADV" msd="Deg=Pos">necessario</w>
+    <w ref="2.143" lemma="circumcido?" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">circumcisus</w>
+    <w ref="2.143" lemma="circa2" pos="PRE" msd="MORPH=empty">circa</w>
+    <w ana="#euphemisms #aidoion" ref="2.143" lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut">genitalia</w>
+    <w ref="2.143" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="2.143" lemma="uulnus" pos="NOMcom" msd="Case=Abl|Numb=Sing">uulnere</w>
+    <w ref="2.143" lemma="is" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">ei</w>
+    <w ref="2.143" lemma="facio" pos="VER" msd="Case=Dat|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">facto</w>
+    <w ref="2.143" lemma="nihil" pos="PROind" msd="Case=Ind">nihil</w>
+    <w ref="2.143" lemma="is" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">ei</w>
+    <w ref="2.143" lemma="circumcisio" pos="NOMcom" msd="Case=Nom|Numb=Sing">circumcisio</w>
+    <w ref="2.143" lemma="prosum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">profuit</w>
+    <w ref="2.143" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="2.143" lemma="putrefacio" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">putrefactus</w>
+    <w ref="2.143" lemma="magnus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">magnis</w>
+    <w ref="2.143" lemma="dolor" pos="NOMcom" msd="Case=Abl|Numb=Plur">doloribus</w>
+    <w ref="2.143" lemma="exspiro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">expirauit</w>
+    <w ref="2.143" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

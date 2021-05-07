@@ -1,0 +1,12 @@
+<div type="fragment" corresp="adams:53" ana="#male #euphemisms #aidoion #mentula">
+  <bibl ref="#adams"><author>Arnobius of Sicca</author>, <title>Arnobii adversus nationes Libri VII</title>, <biblscope>6.26-6.26</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:6.26-6.26" type="section">
+    <w ref="6.26" lemma="corpus" pos="NOMcom" msd="Case=Nom|Numb=Plur">corpora</w>
+    <w ref="6.26" lemma="femina" pos="NOMcom" msd="Case=Gen|Numb=Plur">feminarum</w>
+    <w ref="6.26" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#male #euphemisms #aidoion #mentula" ref="6.26" lemma="uereter" pos="NOMcom" msd="Case=Gen|Numb=Plur">ueretrorum</w>
+    <w ref="6.26" lemma="magnitudo" pos="NOMcom" msd="Case=Nom|Numb=Plur">magnitudines</w>
+    <w ref="6.26" lemma="publico" pos="VER" msd="Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">publicatae</w>
+    <w ref="6.26" lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+  </quote>
+</div>

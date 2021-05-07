@@ -1,0 +1,23 @@
+<div  type="fragment" corresp="adams:51" ana="#euphemisms #voisinage #reproduction">
+  <bibl ref="#adams"><author>Vulgate</author>, <title>Judith</title>, <biblscope>9.1-9.3</biblscope></bibl>
+  <bibl ref="#TLL"><title>TLL</title>, <biblscope>VI.1.472.68ff</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:greekLit:tlg0527.tlg020.obi-lat1:9.1-9.3" type="verse">
+    <w ref="9.2" lemma="uiolator" pos="NOMcom" msd="Case=Nom|Numb=Plur">violatores</w>
+    <w ref="9.2" lemma="exsisto" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">extiterunt</w>
+    <w ref="9.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="9.2" lemma="coinquinatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">coinquinatione</w>
+    <w ref="9.2" lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=Fem">sua</w>
+    <w ref="9.2" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.2" lemma="denudo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">denudaverunt</w>
+    <w ana="#euphemisms #voisinage #reproduction" ref="9.2" lemma="femur" pos="NOMcom" msd="Case=Acc|Numb=Sing">femur</w>
+    <w ref="9.2" lemma="uirgo" pos="NOMcom" msd="Case=Gen|Numb=Sing">virginis</w>
+    <w ref="9.2" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="9.2" lemma="confusio" pos="NOMcom" msd="Case=Acc|Numb=Sing">confusionem</w>
+    <w ref="9.3" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="9.3" lemma="do" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2">dedisti</w>
+    <w ref="9.3" lemma="mulier" pos="NOMcom" msd="Case=Acc|Numb=Plur">mulieres</w>
+    <w ref="9.3" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=Masc">eorum</w>
+    <w ref="9.3" lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+    <w ref="9.3" lemma="praeda" pos="NOMcom" msd="Case=Acc|Numb=Sing">praedam</w>
+  </quote>
+</div>

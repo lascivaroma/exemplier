@@ -1,0 +1,35 @@
+<div type="fragment" corresp="adams:61" ana="#male #natura #euphemism #mentula">
+  <bibl ref="#adams"><author>Firmicus Maternus, Julius</author>, <title>Mathesis</title>, <biblscope>IV.19-IV.19</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:stoa0123a.stoa002.digilibLT-lat1:IV.19-IV.19" type="chapter">
+    <w ref="IV.19" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">Faciet</w>
+    <w ref="IV.19" lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+    <w ref="IV.19" lemma="fecundus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">fecundos</w>
+    <w ref="IV.19" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="IV.19" lemma="multus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">multa</w>
+    <w ref="IV.19" lemma="suboles" pos="NOMcom" msd="Case=Abl|Numb=Sing">subole</w>
+    <w ref="IV.19" lemma="gaudeo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=SemDep">gaudentes</w>
+    <w ref="IV.19" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ref="IV.19" lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibus</w>
+    <w ref="IV.19" lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+    <w ref="IV.19" lemma="filia" pos="NOMcom" msd="Case=Abl|Numb=Plur">filiabus</w>
+    <w ref="IV.19" lemma="magnus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Sup">maxima</w>
+    <w ref="IV.19" lemma="laetitia" pos="NOMcom" msd="Case=Nom|Numb=Sing">laetitia</w>
+    <w ref="IV.19" lemma="confero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">conferatur</w>
+    <w ref="IV.19" lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+    <w ref="IV.19" lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+    <w ref="IV.19" lemma="uitium" pos="NOMcom" msd="Case=Acc|Numb=Plur">uitia</w>
+    <w ref="IV.19" lemma="facio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">facit</w>
+    <w ref="IV.19" lemma="circa2" pos="PRE" msd="MORPH=empty">circa</w>
+    <w ref="IV.19" lemma="naturalis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">naturalia</w>
+    <w ref="IV.19" lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+    <w ana="#male #natura #euphemism #mentula" ref="IV.19" lemma="necessarius2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">necessaria</w>
+    <w ref="IV.19" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="IV.19" lemma="mors" pos="NOMcom" msd="Case=Acc|Numb=Plur">mortes</w>
+    <w ref="IV.19" lemma="uero4" pos="CONcoo" msd="MORPH=empty">uero</w>
+    <w ref="IV.19" lemma="nota" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">notas</w>
+    <w ref="IV.19" lemma="gloriosus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos">gloriosasque</w>
+    <w ref="IV.19" lemma="que" pos="CON" msd="MORPH=empty">{gloriosasque}</w>
+    <w ref="IV.19" lemma="decerno" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">decernit</w>
+    <w ref="IV.19" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>

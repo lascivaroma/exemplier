@@ -1,0 +1,30 @@
+<div  type="fragment" corresp="adams:42" ana="#male #outil #metaphore #mentula">
+  <bibl ref="#adams"><author>Vopiscus, Flavius fl. 3./4. Jh.</author>, <title>Antoninus Heliogobalus</title>, <biblscope>5-5</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi017.perseus-lat2:5-5" type="chapter">
+    <w ref="5" lemma="Roma" pos="NOMpro" msd="Case=Loc|Numb=Sing">Romae</w>
+    <w ref="5" lemma="denique" pos="ADV" msd="Deg=Pos">denique</w>
+    <w ref="5" lemma="nihil" pos="PROind" msd="Case=Ind">nihil</w>
+    <w ref="5" lemma="ago" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">egit</w>
+    <w ref="5" lemma="alius" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Neut">aliud</w>
+    <w ref="5" lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+    <w ref="5" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="5" lemma="emissarius" pos="NOMcom" msd="Case=Acc|Numb=Plur">emissarios</w>
+    <w ref="5" lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">haberet</w>
+    <w ref="5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5" lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Plur|Gend=Masc">qui</w>
+    <w ref="5" lemma="is" pos="PROdem" msd="Case=Dat|Numb=Sing|Gend=Com">ei</w>
+    <w ref="5" lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
+    <w ana="#male #outil #metaphore #mentula" ref="5" lemma="uasatus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">vasatos</w>
+    <w ref="5" lemma="perquiro" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">perquirerent</w>
+    <w ref="5" lemma="is" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Masc">eosque</w>
+    <w ref="5" lemma="que" pos="CON" msd="MORPH=empty">{eosque}</w>
+    <w ref="5" lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+    <w ref="5" lemma="aula1" pos="NOMcom" msd="Case=Acc|Numb=Sing">aulam</w>
+    <w ref="5" lemma="perduco" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">perducerent</w>
+    <w ref="5" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="5" lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+    <w ref="5" lemma="is" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=MascNeut">eorum</w>
+    <w ref="5" lemma="conditio" pos="NOMcom" msd="Case=Abl|Numb=Plur">conditionibus</w>
+    <w ref="5" lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">posset</w>
+  </quote>
+</div>

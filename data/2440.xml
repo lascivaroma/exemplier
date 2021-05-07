@@ -1,0 +1,22 @@
+<div type="fragment" corresp="adams:42" ana="#male #outil #metaphore #mentula">
+  <bibl ref="#adams"><author>Vopiscus, Flavius fl. 3./4. Jh.</author>, <title>Antoninus Heliogobalus</title>, <biblscope>31-31</biblscope></bibl>
+  <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi017.perseus-lat2:31-31" type="chapter">
+    <w ref="31" lemma="causa" pos="NOMcom" msd="Case=Nom|Numb=Sing">causa</w>
+    <w ref="31" lemma="uehiculum" pos="NOMcom" msd="Case=Gen|Numb=Plur">vehiculorum</w>
+    <w ref="31" lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">erat</w>
+    <w ref="31" lemma="leno1" pos="NOMcom" msd="Case=Gen|Numb=Plur">lenonum</w>
+    <w ref="31" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="31" lemma="lena" pos="NOMcom" msd="Case=Gen|Numb=Plur">lenarum</w>
+    <w ref="31" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="31" lemma="meretrix" pos="NOMcom" msd="Case=Gen|Numb=Plur">meretricum</w>
+    <w ref="31" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="31" lemma="exsoleti" pos="VER" msd="Case=Gen|Numb=Plur|Gend=MascNeut">exsoletorum</w>
+    <w ref="31" lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+    <w ref="31" lemma="subictor" pos="NOMcom" msd="Case=Gen|Numb=Plur|Gend=MascNeut">subactorum</w>
+    <w ref="31" lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+    <w ref="31" lemma="bene" pos="ADV" msd="Deg=Pos">bene</w>
+    <w ana="#male #outil #metaphore #mentula" ref="31" lemma="uasatus" pos="ADJqua" msd="Case=Gen|Numb=Plur">vasatorum</w>
+    <w ref="31" lemma="multitudo" pos="NOMcom" msd="Case=Nom|Numb=Sing">multitudo</w>
+    <w ref="31" lemma="." pos="PUNC" msd="MORPH=empty">.</w>
+  </quote>
+</div>
