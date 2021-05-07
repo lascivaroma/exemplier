@@ -1,9 +1,12 @@
 <div type="fragment" corresp="adams:125" ana="#irrumo #fellatio #implicite #acte">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:3.96.3">
-        <w lemma="sion(génitif singulier)|si(-)">Si</w> 
-        <w lemma="tu(accusatif masculin singulier)|tu(ablatif masculin singulier)|tu(accusatif féminin singulier)|tu(ablatif féminin singulier)">te</w> 
-        <w ana="#irrumo #fellatio #implicite  #composite"  lemma="prendo(1ère singulier indicatif futur antérieur actif)">prendero</w>, 
-        <w lemma="Gargilius(vocatif singulier)|Gargilius(génitif singulier)|Gargilius(nominatif pluriel)|Gargilius(vocatif pluriel)">Gargili</w>, 
-        <w ana="#irrumo #fellatio #implicite  #composite" lemma="taceo(2ème singulier indicatif futur actif)">tacebis</w>.     
+        <w lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+        <w lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+        <w ana="#irrumo #fellatio #implicite #composite" lemma="prehendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act">prendero</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="Gargilius" pos="NOMpro" msd="Case=Voc|Numb=Sing">Gargili</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w ana="#irrumo #fellatio #implicite #composite" lemma="taceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">tacebis</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

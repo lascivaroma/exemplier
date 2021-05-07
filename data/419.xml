@@ -1,19 +1,21 @@
-<div type="fragment" corresp="adams:72"  ana="#male #glans">
+<div type="fragment" corresp="adams:72" ana="#male #glans">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1:33.67">
-        <w lemma="noceo(infinitif présent actif)|noceo(2ème singulier indicatif présent passif)|noceo(2ème singulier impératif présent passif)">Nocere</w> 
-        <w lemma="possum(infinitif présent actif)|Possis(ablatif singulier)">posse</w> 
-        <w lemma="femen(génitif singulier)|femina(datif pluriel)|femina(ablatif pluriel)">feminis</w> 
-        <w lemma="dico(3ème pluriel indicatif présent actif)">dicunt</w>, 
-        <w lemma="sion(génitif singulier)|si(-)">si</w> 
-        <w lemma="quis(nominatif masculin singulier)|queo(2ème singulier indicatif présent actif)">quis</w> 
-        <w lemma="membrana(accusatif singulier)|membranus(accusatif féminin singulier)">membranam</w> 
-        <w lemma="ovis(datif singulier)|Ouius(vocatif singulier)|ovum(génitif singulier)|Ouius(génitif singulier)|Ouius(nominatif pluriel)|Ouius(vocatif pluriel)">oui</w> 
-        <w  ana="#male #glans"  lemma="balanus(datif singulier)|balanus(ablatif singulier)">balano</w> 
-        <w lemma="suo(1ère singulier indicatif présent actif)|suum(datif singulier)|suum(ablatif singulier)|suus(datif masculin singulier)|suus(ablatif masculin singulier)|suus(datif neutre singulier)|suus(ablatif neutre singulier)">suo</w> 
-        <w lemma="ingero(3ème singulier subjonctif présent actif)">ingerat</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="femen(nominatif pluriel)|femen(vocatif pluriel)|femen(accusatif pluriel)|femina(nominatif singulier)|femina(vocatif singulier)|femina(ablatif singulier)|femino(2ème singulier impératif présent actif)">femina</w> 
-        <w lemma="coeo(3ème singulier subjonctif présent actif)">coeat</w>.     
+        <w lemma="noceo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">Nocere</w>
+        <w lemma="possum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">posse</w>
+        <w lemma="femina" pos="NOMcom" msd="Case=Dat|Numb=Plur">feminis</w>
+        <w lemma="dico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">dicunt</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+        <w lemma="quis2" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=MascFem">quis</w>
+        <w lemma="membrana" pos="NOMcom" msd="Case=Acc|Numb=Sing">membranam</w>
+        <w lemma="ouis" pos="NOMcom" msd="Case=Dat|Numb=Sing">oui</w>
+        <w ana="#male #glans" lemma="balanus" pos="NOMcom" msd="Case=Dat|Numb=Sing">balano</w>
+        <w lemma="suus" pos="PROpos.ref" msd="Case=Dat|Numb=Sing|Gend=MascNeut">suo</w>
+        <w lemma="ingero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">ingerat</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+        <w lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">femina</w>
+        <w lemma="coeo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">coeat</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

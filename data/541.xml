@@ -1,12 +1,13 @@
 <div type="fragment" corresp="adams:93" ana="#adjoining_parts #euphemism #female">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:8.25">
-        <w lemma="nes(accusatif singulier)|nam(-)">nam</w> 
-        <w lemma="sion(génitif singulier)|si(-)">si</w> 
-        <w lemma="facies(accusatif singulier)">faciem</w> 
-        <w lemma="tuus(accusatif féminin singulier)">tuam</w> 
-        <w ana="#adjoining_parts #euphemism #composite"  lemma="medium(datif pluriel)|medium(ablatif pluriel)|medius(datif masculin pluriel)|medius(ablatif masculin pluriel)|medius(datif féminin pluriel)|medius(ablatif féminin pluriel)|medius(datif neutre pluriel)|medius(ablatif neutre pluriel)|Media(datif pluriel)|Media(ablatif pluriel)|Media(datif pluriel)|Media(ablatif pluriel)|medion(datif pluriel)|medion(ablatif pluriel)|medius(datif pluriel)|medius(ablatif pluriel)">mediis</w> 
-        <w lemma="is(génitif masculin singulier)|is(génitif féminin singulier)|is(génitif neutre singulier)|Eus(nominatif neutre singulier comparatif)|Eus(vocatif neutre singulier comparatif)|Eus(accusatif neutre singulier comparatif)">eius</w> 
-        <w ana="#adjoining_parts #euphemism #composite"  lemma="femen(datif pluriel)|femen(ablatif pluriel)">feminibus</w> 
-        <w lemma="immitto(2ème singulier indicatif futur antérieur actif)|immitto(2ème singulier subjonctif parfait actif)">immiseris</w>,    
+        <w lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+        <w lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+        <w lemma="facies" pos="NOMcom" msd="Case=Acc|Numb=Sing">faciem</w>
+        <w lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=Fem">tuam</w>
+        <w ana="#adjoining_parts #euphemism #composite" lemma="medius" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">mediis</w>
+        <w lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+        <w ana="#adjoining_parts #euphemism #composite" lemma="femina" pos="NOMcom" msd="Case=Abl|Numb=Plur">feminibus</w>
+        <w lemma="immitto" pos="VER" msd="Numb=Sing|Deg=Pos|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">immiseris</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

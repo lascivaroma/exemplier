@@ -1,21 +1,21 @@
 <div type="fragment" corresp="adams:125" ana="#irrumo #fellatio #implicite #acte">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1348.abo011.perseus-lat2:22">
-        <w lemma="proinde(-)">proinde</w> 
-        <w lemma="ex(-)">ex</w> 
-        <w lemma="eo(1ère singulier indicatif présent actif)|is(ablatif masculin singulier)|is(ablatif neutre singulier)|Eus(datif singulier)|Eus(ablatif singulier)|Eus(datif masculin singulier)|Eus(ablatif masculin singulier)|Eus(datif neutre singulier)|Eus(ablatif neutre singulier)|eo(-)">eo</w> 
-        <w ana="#irrumo #fellatio #implicite  #composite"  lemma="insulto(accusatif masculin singulier participe futur actif)|insulto(nominatif neutre singulier participe futur actif)|insulto(vocatif neutre singulier participe futur actif)|insulto(accusatif neutre singulier participe futur actif)">insultaturum</w> 
-        <w lemma="omne(génitif pluriel)|omnis(génitif masculin pluriel)|omnis(génitif féminin pluriel)|omnis(génitif neutre pluriel)|omnia(génitif pluriel)">omnium</w> 
-        <w ana="#irrumo #fellatio #implicite  #composite" lemma="caput(datif pluriel)|caput(ablatif pluriel)|capud(datif pluriel)|capud(ablatif pluriel)">capitibus</w>; 
-        <w lemma="ac(-)">ac</w> 
-        <w lemma="nego(ablatif masculin singulier participe présent actif)|nego(ablatif féminin singulier participe présent actif)|nego(ablatif neutre singulier participe présent actif)|negans(nominatif neutre singulier)|negans(vocatif neutre singulier)|negans(accusatif neutre singulier)">negante</w> 
-        <w lemma="quidam(ablatif masculin singulier)|quidam(ablatif neutre singulier)">quodam</w> 
-        <w lemma="per(-)">per</w> 
-        <w lemma="contumelia(accusatif singulier)">contumeliam</w> 
-        <w lemma="facile(positif)|facilis(nominatif neutre singulier)|facilis(vocatif neutre singulier)|facilis(accusatif neutre singulier)">facile</w> 
-        <w lemma="hic(ablatif masculin singulier)|hic(nominatif neutre singulier)|hic(accusatif neutre singulier)|hic(ablatif neutre singulier)|hoc(-)">hoc</w> 
-        <w lemma="ullus(datif masculin singulier)|ullus(datif féminin singulier)|ullus(datif neutre singulier)|ullus(nominatif masculin pluriel)|ullus(vocatif masculin pluriel)">ulli</w> 
-        <w lemma="femina(génitif singulier)|femina(datif singulier)|femina(nominatif pluriel)|femina(vocatif pluriel)">feminae</w>
-          
-        <w lemma="sum(-)|foris(ablatif singulier)|forus(vocatif singulier)|forus(vocatif singulier)">fore</w>    
+        <w lemma="proinde" pos="ADV" msd="Deg=Pos">proinde</w>
+        <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+        <w lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">eo</w>
+        <w ana="#irrumo #fellatio #implicite #composite" lemma="insulto" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Fut|Voice=Act">insultaturum</w>
+        <w lemma="omnis" pos="PROind" msd="Case=Gen|Numb=Plur|Gend=Com">omnium</w>
+        <w ana="#irrumo #fellatio #implicite #composite" lemma="caput" pos="NOMcom" msd="Case=Abl|Numb=Plur">capitibus</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
+        <w lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+        <w lemma="nego" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">negante</w>
+        <w lemma="quidam" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quodam</w>
+        <w lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+        <w lemma="contumelia" pos="NOMcom" msd="Case=Acc|Numb=Sing">contumeliam</w>
+        <w lemma="facile" pos="ADV" msd="Deg=Pos">facile</w>
+        <w lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+        <w lemma="ullus" pos="PROind" msd="Case=Dat|Numb=Sing|Gend=Com">ulli</w>
+        <w lemma="femina" pos="NOMcom" msd="Case=Dat|Numb=Sing">feminae</w>
+        <w lemma="sum1" pos="VER" msd="Mood=Par|Tense=Fut|Voice=Act">fore</w>
     </quote>
  </div>

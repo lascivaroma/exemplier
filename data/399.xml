@@ -1,14 +1,15 @@
-<div type="fragment" corresp="adams:70"  ana="#male #testicle">
+<div type="fragment" corresp="adams:70" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:7.25">
-        <w lemma="nec(-)">Nec</w> 
-        <w lemma="invitus(nominatif masculin singulier)">invitus</w> 
-        <w lemma="Egus(datif singulier)|Egus(ablatif singulier)|ego(nominatif masculin singulier)|ego(nominatif féminin singulier)">ego</w> 
-        <w lemma="cursus(datif singulier)">cursui</w> 
-        <w lemma="ego(accusatif masculin singulier)|ego(ablatif masculin singulier)|ego(accusatif féminin singulier)|ego(ablatif féminin singulier)">me</w> 
-        <w lemma="commodo(1ère singulier indicatif imparfait actif)">commodabam</w> 
-        <w lemma="relinquo(nominatif masculin singulier participe présent actif)|relinquo(vocatif masculin singulier participe présent actif)|relinquo(nominatif féminin singulier participe présent actif)|relinquo(vocatif féminin singulier participe présent actif)|relinquo(nominatif neutre singulier participe présent actif)|relinquo(vocatif neutre singulier participe présent actif)|relinquo(accusatif neutre singulier participe présent actif)">relinquens</w> 
-        <w lemma="atrox(accusatif féminin singulier superlatif)">atrocissimam</w> 
-        <w lemma="uirilitas(génitif singulier)"  ana="#male #testicules">virilitatis</w> 
-        <w lemma="laniena(accusatif singulier)|lanienus(accusatif féminin singulier)">lanienam</w>;    
+        <w lemma="nec2" pos="CONcoo" msd="MORPH=empty">Nec</w>
+        <w lemma="inuitus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">invitus</w>
+        <w lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+        <w lemma="cursus" pos="NOMcom" msd="Case=Gen|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">cursui</w>
+        <w lemma="ego" pos="PROper" msd="Case=Acc|Numb=Sing">me</w>
+        <w lemma="commodo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=1">commodabam</w>
+        <w lemma="relinquo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">relinquens</w>
+        <w lemma="atrox" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Sup">atrocissimam</w>
+        <w ana="#male #testicules" lemma="uirilitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">virilitatis</w>
+        <w lemma="laniena" pos="NOMcom" msd="Case=Acc|Numb=Sing">lanienam</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     </quote>
  </div>

@@ -1,12 +1,12 @@
-<div type="fragment" corresp="adams:68"  ana="#male #testicle">
+<div type="fragment" corresp="adams:68" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:26.162">
-        <w lemma="arsenogonon(génitif singulier)">arsenogoni</w> 
-        <w lemma="autem(-)">autem</w> 
-        <w lemma="semen(accusatif singulier)|semen(nominatif singulier)|semen(vocatif singulier)">semen</w> 
-        <w  ana="#male #testicules" lemma="Geminus(accusatif singulier)|geminus(accusatif masculin singulier)|geminus(nominatif neutre singulier)|geminus(vocatif neutre singulier)|geminus(accusatif neutre singulier)">geminum</w>  
-        <w lemma="esse(infinitif présent actif)|sum(infinitif présent actif)">esse</w>
-
-        <w lemma="testis(datif pluriel)|testis(ablatif pluriel)|testis(datif pluriel)|testis(ablatif pluriel)">testibus</w> 
-        <w lemma="similis(nominatif neutre singulier)|similis(vocatif neutre singulier)|similis(accusatif neutre singulier)|Similis(ablatif singulier)|simile(nominatif singulier)|simile(vocatif singulier)|simile(accusatif singulier)">simile</w>.    
+        <w lemma="arsenogo" pos="NOMcom" msd="Case=Dat|Numb=Sing">arsenogoni</w>
+        <w lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+        <w lemma="semen1" pos="NOMcom" msd="Case=Acc|Numb=Sing">semen</w>
+        <w ana="#male #testicules" lemma="geminus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">geminum</w>
+        <w lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+        <w lemma="testis1" pos="NOMcom" msd="Case=Dat|Numb=Plur">testibus</w>
+        <w lemma="similis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">simile</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

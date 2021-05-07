@@ -1,9 +1,10 @@
-<div type="fragment" corresp="adams:67"  ana="#male #testicle">
+<div type="fragment" corresp="adams:67" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:15.7">
-        <w lemma="Magnus(datif pluriel)|Magnus(ablatif pluriel)|magnus(datif masculin pluriel)|magnus(ablatif masculin pluriel)|magnus(datif féminin pluriel)|magnus(ablatif féminin pluriel)|magnus(datif neutre pluriel)|magnus(ablatif neutre pluriel)|Magni(datif pluriel)|Magni(ablatif pluriel)">magnis</w> 
-        <w  ana="#male #testicules" lemma="testis(datif pluriel)|testis(ablatif pluriel)|testis(datif pluriel)|testis(ablatif pluriel)">testibus</w> 
-        <w lemma="iste(nominatif féminin singulier)|iste(ablatif féminin singulier)|iste(nominatif neutre pluriel)|iste(accusatif neutre pluriel)">ista</w> 
-        <w lemma="res(nominatif singulier)|res(vocatif singulier)|res(nominatif pluriel)|res(vocatif pluriel)|res(accusatif pluriel)">res</w> 
-        <w lemma="ago(3ème singulier indicatif futur passif)">agetur</w>.    
+        <w lemma="magnus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">magnis</w>
+        <w ana="#male #testicules" lemma="testis1" pos="NOMcom" msd="Case=Abl|Numb=Plur">testibus</w>
+        <w lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ista</w>
+        <w lemma="res" pos="NOMcom" msd="Case=Nom|Numb=Sing">res</w>
+        <w lemma="ago" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3">agetur</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

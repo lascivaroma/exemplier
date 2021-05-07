@@ -1,12 +1,15 @@
 <div type="fragment" corresp="adams:100" ana=" #female #voisinage #womb">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0684.phi002.ogl-lat1:2.8.6">
-        <w lemma="ito(1ère singulier subjonctif présent actif)|itis(accusatif singulier)|item(-)">item</w> 
-        <w lemma="in(-)">in</w> 
-        <w ana="#voisinage #womb"  lemma="venter(ablatif singulier)">ventre</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w>, 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="equus(nominatif singulier)|Equus(nominatif singulier)">equus</w>, 
-        <w lemma="mensis(accusatif pluriel)|mensis(nominatif pluriel)|mensis(vocatif pluriel)">menses</w> 
-        <w lemma="duodecim(-)">duodecim</w>.    
+        <w lemma="item" pos="ADV" msd="Deg=Pos">item</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w ana="#voisinage #womb" lemma="uenter" pos="NOMcom" msd="Case=Abl|Numb=Sing">ventre</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="equus" pos="NOMcom" msd="Case=Nom|Numb=Sing">equus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="mensis" pos="NOMcom" msd="Case=Acc|Numb=Plur">menses</w>
+        <w lemma="duodecim" pos="ADJcar" msd="Case=Ind">duodecim</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

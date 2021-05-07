@@ -1,13 +1,15 @@
 <div type="fragment" corresp="adams:94" ana="#pars #euphemism">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0238.stoa001.perseus-lat2:14.8-14.9">
-        <w lemma="intactus(accusatif singulier)|intactus(accusatif masculin singulier)|intactus(nominatif neutre singulier)|intactus(vocatif neutre singulier)|intactus(accusatif neutre singulier)">intactum</w> 
-        <w lemma="a(-)">ab</w> 
-        <w lemma="omne(ablatif singulier)|omne(datif singulier)|omnis(datif masculin singulier)|omnis(ablatif masculin singulier)|omnis(datif féminin singulier)|omnis(ablatif féminin singulier)|omnis(datif neutre singulier)|omnis(ablatif neutre singulier)">omni</w> 
-        <w lemma="crimen(ablatif singulier)">crimine</w> 
-        <w  ana="#pars #euphemism" lemma="virginal(nominatif singulier)|virginal(vocatif singulier)|virginal(accusatif singulier)">virginal</w>, 
-        <w lemma="Mors(accusatif pluriel)|Mors(génitif singulier)|mors(accusatif pluriel)|mors(génitif singulier)|Morta(datif pluriel)|Morta(ablatif pluriel)">mortis</w> 
-        <w lemma="deinde(-)">deinde</w> 
-        <w lemma="gloria(nominatif singulier)|gloria(vocatif singulier)|gloria(ablatif singulier)">gloria</w> 
-        <w lemma="Libera(génitif singulier)|Libera(datif singulier)|liber(génitif féminin singulier)|liber(datif féminin singulier)|liber(nominatif féminin pluriel)|liber(vocatif féminin pluriel)">liberae</w>.    
+        <w lemma="intactus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">intactum</w>
+        <w lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+        <w lemma="omnis" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Com">omni</w>
+        <w lemma="crimen" pos="NOMcom" msd="Case=Abl|Numb=Sing">crimine</w>
+        <w ana="#pars #euphemism" lemma="uirginal" pos="ADJqua" msd="Case=Nom|Numb=Sing">virginal</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="mors" pos="NOMcom" msd="Case=Gen|Numb=Sing">mortis</w>
+        <w lemma="deinde" pos="ADV" msd="Deg=Pos">deinde</w>
+        <w lemma="gloria" pos="NOMcom" msd="Case=Nom|Numb=Sing">gloria</w>
+        <w lemma="liber2" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">liberae</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

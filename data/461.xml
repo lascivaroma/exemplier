@@ -1,14 +1,16 @@
 <div type="fragment" corresp="adams:84" ana="#field #female #cunnus #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi006.perseus-lat2:922">
-        <w lemma="Ubii(nominatif pluriel)|Ubii(vocatif pluriel)|Ubius(génitif masculin singulier)|Ubius(nominatif masculin pluriel)|Ubius(vocatif masculin pluriel)|Ubius(génitif neutre singulier)|ubi(-)">ubi</w> 
-        <w lemma="ille(accusatif masculin singulier)">illum</w> 
-        <w ana="#field"  lemma="salio(supin en -um)|salio(accusatif masculin singulier participe parfait passif)|salio(nominatif neutre singulier participe parfait passif)|salio(vocatif neutre singulier participe parfait passif)|salio(accusatif neutre singulier participe parfait passif)|saltus(accusatif singulier)">saltum</w> 
-        <w lemma="uideo(1ère singulier indicatif présent actif)">video</w> 
-        <w lemma="obsaepio(supin en -um)|obsaepio(accusatif masculin singulier participe parfait passif)|obsaepio(nominatif neutre singulier participe parfait passif)|obsaepio(vocatif neutre singulier participe parfait passif)|obsaepio(accusatif neutre singulier participe parfait passif)|obsaeptus(accusatif masculin singulier)|obsaeptus(nominatif neutre singulier)|obsaeptus(vocatif neutre singulier)|obsaeptus(accusatif neutre singulier)">opsaeptum</w>, 
-        <w lemma="rogo(1ère singulier indicatif présent actif)|rogus(datif singulier)|rogus(ablatif singulier)|rogum(datif singulier)|rogum(ablatif singulier)">rogo</w> 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="alter(ablatif masculin singulier)|alter(ablatif neutre singulier)|altero(1ère singulier indicatif présent actif)|altero(positif)">altero</w> 
-        <w lemma="sino(3ème singulier subjonctif présent actif)">sinat</w> 
-        <w lemma="eo(infinitif présent actif)|iris(ablatif singulier)|Iros(vocatif singulier)|Iris(ablatif singulier)|Irus(vocatif singulier)|iris(ablatif singulier)">ire</w>.    
+        <w lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
+        <w lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">illum</w>
+        <w ana="#field" lemma="saltus2" pos="NOMcom" msd="Case=Acc|Numb=Sing">saltum</w>
+        <w lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">video</w>
+        <w lemma="obsaepio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=SupU|Voice=Act">opsaeptum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="rogo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">rogo</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="alter" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">altero</w>
+        <w lemma="sino" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sinat</w>
+        <w lemma="eo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">ire</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

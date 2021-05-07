@@ -1,10 +1,11 @@
-<div type="fragment" corresp="adams:73"  ana="#male #foreskin">
+<div type="fragment" corresp="adams:73" ana="#male #foreskin">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:7.35.4">
-        <w lemma="Judaeus(accusatif masculin singulier)|Judaeus(nominatif neutre singulier)|Judaeus(vocatif neutre singulier)|Judaeus(accusatif neutre singulier)">Iudaeum</w> 
-        <w lemma="nudo(2ème singulier impératif présent actif)|nudus(nominatif féminin singulier)|nudus(vocatif féminin singulier)|nudus(ablatif féminin singulier)|nudus(nominatif neutre pluriel)|nudus(vocatif neutre pluriel)|nudus(accusatif neutre pluriel)">nuda</w> 
-        <w lemma="sub(-)">sub</w> 
-        <w  ana="#male #foreskin"  lemma="cutis(ablatif singulier)|Cutis(ablatif singulier)">cute</w> 
-        <w lemma="pondus(accusatif singulier)|pondus(nominatif singulier)|pondus(vocatif singulier)">pondus</w> 
-        <w lemma="habeo(3ème singulier indicatif présent actif)">habet</w>,     
+        <w lemma="Iudaeus" pos="ADJqua" msd="Case=Acc|Numb=Sing">Iudaeum</w>
+        <w lemma="nudus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">nuda</w>
+        <w lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+        <w ana="#male #foreskin" lemma="cutis" pos="NOMcom" msd="Case=Abl|Numb=Sing">cute</w>
+        <w lemma="pondus" pos="NOMcom" msd="Case=Acc|Numb=Sing">pondus</w>
+        <w lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habet</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

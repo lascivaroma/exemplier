@@ -1,16 +1,19 @@
 <div type="fragment" corresp="adams:95" ana="#fente #female #cunnus #misc">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:87.5-87.7">
-        <w lemma="de(-)">de</w> 
-        <w lemma="valles(ablatif singulier)|vallis(ablatif singulier)|vallus(vocatif singulier)|vallus(vocatif singulier)">valle</w> 
-        <w lemma="femur(génitif pluriel)">femorum</w> 
-        <w lemma="altrinsecus(-)">altrinsecus</w> 
-        <w lemma="par(accusatif pluriel)|par(nominatif pluriel)|par(vocatif pluriel)|pareo(2ème singulier indicatif présent actif)|par(nominatif masculin pluriel)|par(vocatif masculin pluriel)|par(accusatif masculin pluriel)|par(nominatif féminin pluriel)|par(vocatif féminin pluriel)|par(accusatif féminin pluriel)|paro(2ème singulier subjonctif présent actif)|paro(2ème singulier subjonctif présent actif)">pares</w> 
-        <w lemma="ruga(accusatif pluriel)|rugo(2ème singulier indicatif présent actif)|Ruga(accusatif pluriel)">rugas</w>  
-        <w lemma="medium(nominatif singulier)|medium(vocatif singulier)|medium(accusatif singulier)|medius(accusatif masculin singulier)|medius(nominatif neutre singulier)|medius(vocatif neutre singulier)|medius(accusatif neutre singulier)|medion(nominatif singulier)|medion(vocatif singulier)|medion(accusatif singulier)|medius(accusatif singulier)">mediumque</w>, 
-        <w lemma="findo(génitif masculin singulier participe parfait passif)|findo(nominatif masculin pluriel participe parfait passif)|findo(vocatif masculin pluriel participe parfait passif)|findo(génitif neutre singulier participe parfait passif)|fissum(génitif singulier)|fissus(génitif masculin singulier)|fissus(nominatif masculin pluriel)|fissus(vocatif masculin pluriel)|fissus(génitif neutre singulier)">fissi</w> 
-        <w ana="#fente #misc"  lemma="rima(nominatif singulier)|rima(vocatif singulier)|rima(ablatif singulier)|rimo(2ème singulier impératif présent actif)">rima</w> 
-        <w lemma="qui(ablatif féminin singulier)|quis(ablatif féminin singulier)|qua(-)">qua</w> 
-        <w lemma="pateo(3ème singulier indicatif présent actif)">patet</w>, 
-        <w lemma="callis(accusatif singulier)">callem</w>     
+        <w lemma="de" pos="PRE" msd="MORPH=empty">de</w>
+        <w lemma="uallis" pos="NOMcom" msd="Case=Abl|Numb=Sing">valle</w>
+        <w lemma="femur" pos="NOMcom" msd="Case=Gen|Numb=Plur">femorum</w>
+        <w lemma="altrinsecus" pos="ADV" msd="Deg=Pos">altrinsecus</w>
+        <w lemma="par2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">pares</w>
+        <w lemma="ruga" pos="NOMcom" msd="Case=Acc|Numb=Plur">rugas</w>
+        <w lemma="medius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">mediumque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{mediumque}</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="findo" pos="VER" msd="Case=Gen|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">fissi</w>
+        <w ana="#fente #misc" lemma="rima" pos="NOMcom" msd="Case=Abl|Numb=Sing">rima</w>
+        <w lemma="qua1" pos="ADVrel" msd="Gend=Fem">qua</w>
+        <w lemma="pateo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">patet</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="callis" pos="NOMcom" msd="Case=Acc|Numb=Sing">callem</w>
     </quote>
  </div>

@@ -1,20 +1,19 @@
-<div type="fragment" corresp="adams:62"  ana="#male #res">
+<div type="fragment" corresp="adams:62" ana="#male #res">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:3.10">
-        <w lemma="Priapus(accusatif singulier)|Priapos(accusatif singulier)">Priapum</w> 
-            
-        <w lemma="inter(-)">inter</w> 
-        <w lemma="dea(accusatif pluriel)">deas</w> 
-        <w lemma="virgo(nominatif pluriel)|virgo(vocatif pluriel)|virgo(accusatif pluriel)">uirgines</w> 
-        <w lemma="atque(-)|at(-)">atque</w> 
-        <w lemma="mater(nominatif pluriel)|mater(vocatif pluriel)|mater(accusatif pluriel)">matres</w> 
-        <w lemma="circumfero(accusatif masculin singulier participe présent actif)|circumfero(accusatif féminin singulier participe présent actif)|circumferens(accusatif masculin singulier)|circumferens(accusatif féminin singulier)">circumferentem</w> 
-        <w lemma="res(nominatif singulier)|res(vocatif singulier)|res(nominatif pluriel)|res(vocatif pluriel)|res(accusatif pluriel)"  ana="#male #penis">res</w> 
-            
-        <w lemma="ille(accusatif féminin pluriel)">illas</w> 
-        <w lemma="proelium(génitif pluriel)">proeliorum</w> 
-        <w lemma="semper(-)">semper</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="expeditio(accusatif singulier)">expeditionem</w> 
-        <w lemma="paratus(accusatif féminin pluriel)|paro(accusatif féminin pluriel participe parfait passif)|paro(accusatif féminin pluriel participe parfait passif)">paratas</w>.    
+        <w lemma="Priapus" pos="NOMpro" msd="Case=Acc|Numb=Sing">Priapum</w>
+        <w lemma="inter" pos="PRE" msd="MORPH=empty">inter</w>
+        <w lemma="dea" pos="NOMcom" msd="Case=Acc|Numb=Plur">deas</w>
+        <w lemma="uirgo" pos="NOMcom" msd="Case=Acc|Numb=Plur">uirgines</w>
+        <w lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+        <w lemma="mater" pos="NOMcom" msd="Case=Acc|Numb=Plur">matres</w>
+        <w lemma="circumfero" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">circumferentem</w>
+        <w ana="#male #penis" lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Plur">res</w>
+        <w lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Fem">illas</w>
+        <w lemma="proelium" pos="NOMcom" msd="Case=Gen|Numb=Plur">proeliorum</w>
+        <w lemma="semper" pos="ADV" msd="Deg=Pos">semper</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="expeditio" pos="NOMcom" msd="Case=Acc|Numb=Sing">expeditionem</w>
+        <w lemma="paro2" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem">paratas</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

@@ -1,20 +1,23 @@
-<div type="fragment" corresp="adams:68"  ana="#male #testicle">
+<div type="fragment" corresp="adams:68" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.370-6.373">
-        <w lemma="ergo(1ère singulier indicatif présent actif)|ergo(-)|ergo(positif)">ergo</w> 
-        <w lemma="expectatus(accusatif masculin pluriel)|exspecto(accusatif masculin pluriel participe parfait passif)">expectatos</w> 
-        <w lemma="ac(-)">ac</w> 
-        <w lemma="iubeo(accusatif masculin pluriel participe parfait passif)|jussus(accusatif masculin pluriel)">iussos</w> 
-        <w lemma="cresco(infinitif présent actif)|cresco(2ème singulier indicatif présent passif)|cresco(2ème singulier indicatif futur passif)|cresco(2ème singulier impératif présent passif)">crescere</w> 
-        <w lemma="Primus(accusatif singulier)|primus(accusatif masculin singulier)|primus(nominatif neutre singulier)|primus(vocatif neutre singulier)|primus(accusatif neutre singulier)|primum(-)">primum</w> 
-        <w  ana="#male #testicules" lemma="testiculus(accusatif pluriel)">testiculos</w>, 
-        <w lemma="postquam(-)">postquam</w> 
-        <w lemma="coepio(3ème pluriel indicatif parfait actif)">coeperunt</w> 
-        <w lemma="esse(infinitif présent actif)|sum(infinitif présent actif)">esse</w> 
-        <w lemma="bilibris(nominatif masculin pluriel)|bilibris(vocatif masculin pluriel)|bilibris(accusatif masculin pluriel)|bilibris(nominatif féminin pluriel)|bilibris(vocatif féminin pluriel)|bilibris(accusatif féminin pluriel)|bilibris(accusatif pluriel)|bilibris(nominatif pluriel)|bilibris(vocatif pluriel)">bilibres</w>, 
-        <w lemma="tonsor(génitif singulier)|tonsorius(datif masculin pluriel)|tonsorius(ablatif masculin pluriel)|tonsorius(datif féminin pluriel)|tonsorius(ablatif féminin pluriel)|tonsorius(datif neutre pluriel)|tonsorius(ablatif neutre pluriel)">tonsoris</w> 
-        <w lemma="damno(1ère singulier indicatif présent actif)|damnum(datif singulier)|damnum(ablatif singulier)">damno</w> 
-        <w lemma="tantus(accusatif masculin singulier)|tantus(nominatif neutre singulier)|tantus(vocatif neutre singulier)|tantus(accusatif neutre singulier)|tantum(nominatif singulier)|tantum(vocatif singulier)|tantum(accusatif singulier)|tantum(-)">tantum</w> 
-        <w lemma="rapio(3ème singulier indicatif présent actif)">rapit</w> 
-        <w lemma="Heliodorus(nominatif singulier)">Heliodorus</w>.    
+        <w lemma="ergo2" pos="CONcoo" msd="MORPH=empty">ergo</w>
+        <w lemma="exspecto" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">expectatos</w>
+        <w lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+        <w lemma="iubeo" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">iussos</w>
+        <w lemma="cresco" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">crescere</w>
+        <w lemma="primum" pos="ADJadv.ord" msd="Deg=Sup">primum</w>
+        <w ana="#male #testicules" lemma="testiculus" pos="NOMcom" msd="Case=Acc|Numb=Plur">testiculos</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="postquam" pos="CONsub" msd="MORPH=empty">postquam</w>
+        <w lemma="coepio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3">coeperunt</w>
+        <w lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+        <w lemma="bilibris" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">bilibres</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="tonsor" pos="NOMcom" msd="Case=Gen|Numb=Sing">tonsoris</w>
+        <w lemma="damnum" pos="NOMcom" msd="Case=Dat|Numb=Sing">damno</w>
+        <w lemma="tantum2" pos="ADV" msd="Deg=Pos">tantum</w>
+        <w lemma="rapio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">rapit</w>
+        <w lemma="Heliodorus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Heliodorus</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

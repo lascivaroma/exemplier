@@ -1,30 +1,32 @@
 <div type="fragment" corresp="adams:98" ana="#parties clitoris #female #cunnus #son">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.112">
-        <w lemma="quidam(datif masculin pluriel)|quidam(ablatif masculin pluriel)|quidam(datif féminin pluriel)|quidam(ablatif féminin pluriel)|quidam(datif neutre pluriel)|quidam(ablatif neutre pluriel)">Quibusdam</w> 
-        <w ana="#parties clitoris #son"  lemma="landica(datif pluriel)|landica(ablatif pluriel)">landicis</w> 
-        <w lemma="horridus(nominatif féminin singulier)|horridus(vocatif féminin singulier)|horridus(ablatif féminin singulier)|horridus(nominatif neutre pluriel)|horridus(vocatif neutre pluriel)|horridus(accusatif neutre pluriel)">horrida</w> 
-        <w lemma="comito(3ème singulier indicatif présent passif)|comitor(3ème singulier indicatif présent actif)">comitatur</w> 
-        <w lemma="magnitudo(nominatif singulier)|magnitudo(vocatif singulier)">magnitudo</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="femina(accusatif pluriel)|femino(2ème singulier indicatif présent actif)">feminas</w> 
-        <w lemma="pars(génitif pluriel)">partium</w> 
-        <w lemma="">feditate</w> 
-        <w lemma="confundo(3ème singulier indicatif présent actif)">confundit</w> 
-        <w lemma="et(-)">et</w>, 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="plerique(nominatif masculin pluriel)|plerique(vocatif masculin pluriel)|pleo(infinitif présent passif)|plerus(génitif masculin singulier)|plerus(nominatif masculin pluriel)|plerus(vocatif masculin pluriel)|plerus(génitif neutre singulier)">plerique</w> 
-        <w lemma="memoro(3ème pluriel indicatif présent actif)">memorant</w>, 
-        <w lemma="ipse(nominatif masculin singulier)">ipse</w> 
-        <w lemma="adfectus(vocatif masculin singulier)|adficio(vocatif masculin singulier participe parfait passif)|adfecte(positif)">adfecte</w> 
-        <w lemma="tentigo(ablatif singulier)">tentigine</w> 
-        <w lemma="uir(génitif pluriel)|uiror(génitif pluriel)">virorum</w> 
-        <w lemma="similis(accusatif masculin singulier)|similis(accusatif féminin singulier)|Similis(accusatif singulier)|similo(1ère singulier subjonctif présent actif)">similem</w> 
-        <w lemma="appetentia(accusatif singulier)">appetentiam</w> 
-        <w lemma="sumo(3ème pluriel indicatif présent actif)">sumunt</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="uenero(1ère singulier subjonctif présent actif)|Uenus(accusatif singulier)|uenus(accusatif singulier)">venerem</w> 
-        <w lemma="cogo(vocatif masculin singulier participe parfait passif)|coacte(positif)|coactus(vocatif masculin singulier)">coacte</w> 
-        <w lemma="uenio(3ème pluriel indicatif présent actif)">veniunt</w>    
+        <w lemma="quidam" pos="PROind" msd="Case=Abl|Numb=Plur|Gend=Com">Quibusdam</w>
+        <w ana="#partiesclitoris #son" lemma="landicus" pos="NOMcom" msd="Case=Abl|Numb=Plur">landicis</w>
+        <w lemma="horridus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">horrida</w>
+        <w lemma="comitor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">comitatur</w>
+        <w lemma="magnitudo" pos="NOMcom" msd="Case=Nom|Numb=Sing">magnitudo</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="femina" pos="NOMcom" msd="Case=Acc|Numb=Plur">feminas</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Gen|Numb=Plur">partium</w>
+        <w lemma="feditas" pos="NOMcom" msd="Case=Abl|Numb=Sing">feditate</w>
+        <w lemma="confundo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">confundit</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ut1" pos="ADVrel" msd="MORPH=empty">ut</w>
+        <w lemma="plerique" pos="NOMcom" msd="Case=Nom|Numb=Plur">plerique</w>
+        <w lemma="memoro" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">memorant</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+        <w lemma="affecto" pos="VER" msd="MORPH=empty">adfecte</w>
+        <w lemma="tentigo" pos="NOMcom" msd="Case=Abl|Numb=Sing">tentigine</w>
+        <w lemma="uir" pos="NOMcom" msd="Case=Gen|Numb=Plur">virorum</w>
+        <w lemma="similis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">similem</w>
+        <w lemma="appetentia" pos="NOMcom" msd="Case=Acc|Numb=Sing">appetentiam</w>
+        <w lemma="sumo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sumunt</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="Uenus" pos="NOMpro" msd="Case=Acc|Numb=Sing">venerem</w>
+        <w lemma="coacte" pos="VER" msd="Mood=Par|Tense=Perf|Voice=Pass">coacte</w>
+        <w lemma="uenio" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">veniunt</w>
     </quote>
  </div>

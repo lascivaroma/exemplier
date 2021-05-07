@@ -1,37 +1,41 @@
 <div type="fragment" corresp="adams:91" ana="#sinus #euphemism #female #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.21">
-        <w lemma="interior(nominatif masculin singulier comparatif)|interior(vocatif masculin singulier comparatif)|interior(nominatif féminin singulier comparatif)|interior(vocatif féminin singulier comparatif)">interior</w> 
-        <w lemma="ergo(1ère singulier indicatif présent actif)|ergo(-)|ergo(positif)">ergo</w> 
-        <w lemma="pars(nominatif singulier)|pars(vocatif singulier)">pars</w> 
-        <w lemma="collum(datif singulier)|collum(ablatif singulier)|collus(datif singulier)|collus(ablatif singulier)">collo</w> 
-        <w lemma="matrix(génitif singulier)">matricis</w> 
-        <w lemma="connecto(3ème singulier indicatif présent passif)">connectitur</w>, 
-        <w lemma="exterior(nominatif neutre singulier comparatif)|exterior(vocatif neutre singulier comparatif)|exterior(accusatif neutre singulier comparatif)|exterus(nominatif neutre singulier comparatif)|exterus(vocatif neutre singulier comparatif)|exterus(accusatif neutre singulier comparatif)|exterius(positif)">exterius</w> 
-        <w lemma="Uerus(datif singulier)|Uerus(ablatif singulier)|uerus(datif masculin singulier)|uerus(ablatif masculin singulier)|uerus(datif neutre singulier)|uerus(ablatif neutre singulier)|uero(1ère singulier indicatif présent actif)|uerum(datif singulier)|uerum(ablatif singulier)|uerum(datif singulier)|uerum(ablatif singulier)|uero(-)|uero(nominatif singulier)|uero(vocatif singulier)">vero</w> 
-        <w lemma="fibra(datif pluriel)|fibra(ablatif pluriel)|fiber(datif masculin pluriel)|fiber(ablatif masculin pluriel)|fiber(datif féminin pluriel)|fiber(ablatif féminin pluriel)|fiber(datif neutre pluriel)|fiber(ablatif neutre pluriel)|fiber(datif pluriel)|fiber(ablatif pluriel)">fibris</w> 
-        <w lemma="adnecto(nominatif féminin singulier participe parfait passif)|adnecto(vocatif féminin singulier participe parfait passif)|adnecto(ablatif féminin singulier participe parfait passif)|adnecto(nominatif neutre pluriel participe parfait passif)|adnecto(vocatif neutre pluriel participe parfait passif)|adnecto(accusatif neutre pluriel participe parfait passif)|adnexus(nominatif féminin singulier)|adnexus(vocatif féminin singulier)|adnexus(ablatif féminin singulier)|adnexus(nominatif neutre pluriel)|adnexus(vocatif neutre pluriel)|adnexus(accusatif neutre pluriel)">adnexa</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
-        <w lemma="qui(accusatif féminin pluriel)|quis(accusatif féminin pluriel)">quas</w> 
-        <w lemma="pinna(accusatif pluriel)|pinnus(accusatif féminin pluriel)">pinnas</w> 
-        <w lemma="uoco(3ème pluriel indicatif présent actif)">vocant</w> 
-        <w ana="#sinus #euphemism #composite"  lemma="femininus(génitif masculin singulier)|femininus(nominatif masculin pluriel)|femininus(vocatif masculin pluriel)|femininus(génitif neutre singulier)">feminini</w> 
-        <w ana="#sinus #euphemism #composite"  lemma="sinus(nominatif singulier)|sinus(vocatif singulier)|sinus(génitif singulier)|sinus(nominatif pluriel)|sinus(vocatif pluriel)|sinus(accusatif pluriel)|sinus(nominatif singulier)">sinus</w>, 
-        <w lemma="inferior(nominatif neutre singulier comparatif)|inferior(vocatif neutre singulier comparatif)|inferior(accusatif neutre singulier comparatif)|inferius(vocatif masculin singulier)|inferius(nominatif masculin singulier)|inferus(nominatif neutre singulier comparatif)|inferus(vocatif neutre singulier comparatif)|inferus(accusatif neutre singulier comparatif)|inferius(-)">inferius</w> 
-        <w lemma="sessio(datif singulier)">sessioni</w> 
-        <w lemma="siue(-)|sion(génitif singulier)|si(-)">sive</w> 
-        <w lemma="longao(datif singulier)">longaoni</w>, 
-        <w lemma="ex(-)">ex</w> 
-        <w lemma="uterque(ablatif masculin singulier)|uterque(ablatif neutre singulier)|utroque(-)|uter(ablatif masculin singulier)|uter(ablatif neutre singulier)|utro(positif)">utroque</w> 
-        <w lemma="lateo(infinitif présent actif)|lateo(2ème singulier indicatif présent passif)|lateo(2ème singulier impératif présent passif)|later(ablatif singulier)|latus(ablatif singulier)|latere(positif)">latere</w> 
-        <w lemma="caro(datif pluriel)|caro(ablatif pluriel)|carnis(datif pluriel)|carnis(ablatif pluriel)">carnibus</w> 
-        <w lemma="ossium(génitif pluriel)">ossium</w> 
-        <w lemma="Q(-)">que</w> 
-        <w lemma="">Greci</w> 
-        <w lemma="scia(nominatif singulier)|scia(vocatif singulier)|scia(ablatif singulier)|scius(nominatif féminin singulier)|scius(vocatif féminin singulier)|scius(ablatif féminin singulier)|scius(nominatif neutre pluriel)|scius(vocatif neutre pluriel)|scius(accusatif neutre pluriel)">scia</w> 
-        <w lemma="uoco(3ème pluriel indicatif présent actif)">vocant</w>, 
-        <w lemma="superior(nominatif neutre singulier comparatif)|superior(vocatif neutre singulier comparatif)|superior(accusatif neutre singulier comparatif)|superus(nominatif neutre singulier comparatif)|superus(vocatif neutre singulier comparatif)|superus(accusatif neutre singulier comparatif)|superius(-)">superius</w> 
-        <w lemma="collum(datif singulier)|collum(ablatif singulier)|collus(datif singulier)|collus(ablatif singulier)">collo</w> 
-        <w lemma="">vesice</w>.
-    
+        <w lemma="interior2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">interior</w>
+        <w lemma="ergo2" pos="CONcoo" msd="MORPH=empty">ergo</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Nom|Numb=Sing">pars</w>
+        <w lemma="collum" pos="NOMcom" msd="Case=Abl|Numb=Sing">collo</w>
+        <w lemma="matricus" pos="NOMcom" msd="Case=Abl|Numb=Sing">matricis</w>
+        <w lemma="connecto" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">connectitur</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="exter" pos="ADV" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp">exterius</w>
+        <w lemma="uero4" pos="NOMcom" msd="Deg=Pos">vero</w>
+        <w lemma="fibra" pos="NOMcom" msd="Case=Abl|Numb=Plur">fibris</w>
+        <w lemma="annecto" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">adnexa</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Fem">quas</w>
+        <w lemma="pinna" pos="NOMcom" msd="Case=Acc|Numb=Plur">pinnas</w>
+        <w lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vocant</w>
+        <w ana="#sinus #euphemism #composite" lemma="femininus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">feminini</w>
+        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Nom|Numb=Sing">sinus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="infra?" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp">inferius</w>
+        <w lemma="sessio" pos="NOMcom" msd="Case=Dat|Numb=Sing">sessioni</w>
+        <w lemma="siue1" pos="CONcoo" msd="MORPH=empty">sive</w>
+        <w lemma="longao" pos="NOMcom" msd="Case=Gen|Numb=Sing">longaoni</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+        <w lemma="uterque" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">utroque</w>
+        <w lemma="latus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">latere</w>
+        <w lemma="caro1" pos="NOMcom" msd="Case=Dat|Numb=Plur">carnibus</w>
+        <w lemma="ossius" pos="NOMcom" msd="Case=Acc|Numb=Sing">ossium</w>
+        <w lemma="que" pos="PROrel" msd="MORPH=empty">que</w>
+        <w lemma="grex" pos="NOMcom" msd="Numb=Sing">Greci</w>
+        <w lemma="scio" pos="VER" msd="Numb=Sing">scia</w>
+        <w lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vocant</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="superus" pos="ADV" msd="Case=Acc|Deg=Comp">superius</w>
+        <w lemma="collum" pos="NOMcom" msd="Case=Abl|Numb=Sing">collo</w>
+        <w lemma="uesix" pos="NOMcom" msd="Case=Abl|Numb=Sing">vesice</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

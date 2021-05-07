@@ -1,12 +1,15 @@
 <div type="fragment" corresp="adams:89" ana="#doors #anus #cunnus #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:15.18-15.19">
-        <w lemma="qui(accusatif masculin singulier)|quis(accusatif masculin singulier)|quem(positif)">quem</w> 
-        <w lemma="attractus(datif masculin pluriel)|attractus(ablatif masculin pluriel)|attractus(datif féminin pluriel)|attractus(ablatif féminin pluriel)|attractus(datif neutre pluriel)|attractus(ablatif neutre pluriel)|adtraho(datif masculin pluriel participe parfait passif)|adtraho(ablatif masculin pluriel participe parfait passif)|adtraho(datif féminin pluriel participe parfait passif)|adtraho(ablatif féminin pluriel participe parfait passif)|adtraho(datif neutre pluriel participe parfait passif)|adtraho(ablatif neutre pluriel participe parfait passif)">attractis</w> 
-        <w lemma="pedis(datif pluriel)|pedis(ablatif pluriel)|pes(datif pluriel)|pes(ablatif pluriel)">pedibus</w> 
-        <w lemma="pateo(ablatif masculin singulier participe présent actif)|pateo(ablatif féminin singulier participe présent actif)|pateo(ablatif neutre singulier participe présent actif)|patens(nominatif neutre singulier)|patens(vocatif neutre singulier)|patens(accusatif neutre singulier)">patente</w> 
-        <w  ana="#doors #anus" lemma="porta(nominatif singulier)|porta(vocatif singulier)|porta(ablatif singulier)|porto(2ème singulier impératif présent actif)">porta</w> 
-        <w lemma="percurro(3ème pluriel indicatif futur actif)">percurrent</w> 
-        <w lemma="raphanus(génitif singulier)|raphanus(nominatif pluriel)|raphanus(vocatif pluriel)">raphanique</w> 
-        <w lemma="mugilis(accusatif pluriel)|mugilis(nominatif pluriel)|mugilis(vocatif pluriel)|mugilo(2ème singulier subjonctif présent actif)">mugilesque</w>.    
+        <w lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+        <w lemma="attraho" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">attractis</w>
+        <w lemma="pes" pos="NOMcom" msd="Case=Abl|Numb=Plur">pedibus</w>
+        <w lemma="pateo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">patente</w>
+        <w ana="#doors #anus" lemma="porta" pos="NOMcom" msd="Case=Abl|Numb=Sing">porta</w>
+        <w lemma="percurro" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3">percurrent</w>
+        <w lemma="raphanus" pos="NOMcom" msd="Case=Nom|Numb=Plur">raphanique</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{raphanique}</w>
+        <w lemma="mugilis" pos="NOMcom" msd="Case=Nom|Numb=Plur">mugilesque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{mugilesque}</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

@@ -1,8 +1,10 @@
 <div type="fragment" corresp="adams:85" ana="#caves #female #cunnus #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:85.35">
-        <w lemma="triplex(nominatif masculin singulier)|triplex(vocatif masculin singulier)|triplex(nominatif féminin singulier)|triplex(vocatif féminin singulier)|triplex(accusatif singulier)|triplex(nominatif singulier)|triplex(vocatif singulier)">triplexque</w> 
-        <w lemma="quadruplex(accusatif singulier)|quadruplex(nominatif singulier)|quadruplex(vocatif singulier)|quadruplex(accusatif singulier)|quadruplex(nominatif singulier)|quadruplex(vocatif singulier)">quadruplexque</w> 
-        <w lemma="compleo(2ème singulier subjonctif présent actif)">compleas</w> 
-        <w  ana="#caves" lemma="specus(accusatif singulier)">specum</w>    
+        <w lemma="triplex" pos="ADJmul" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">triplexque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{triplexque}</w>
+        <w lemma="quadruplex" pos="ADJmul" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">quadruplexque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{quadruplexque}</w>
+        <w lemma="compleo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">compleas</w>
+        <w ana="#caves" lemma="specus" pos="NOMcom" msd="Case=Acc|Numb=Sing">specum</w>
     </quote>
  </div>

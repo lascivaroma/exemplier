@@ -1,24 +1,25 @@
 <div type="fragment" corresp="adams:91" ana="#sinus #euphemism #female #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.18">
-        <w lemma="sion(génitif singulier)|si(-)">si</w> 
-        <w lemma="autem(-)">autem</w> 
-        <w lemma="totum(nominatif singulier)|totum(vocatif singulier)|totum(accusatif singulier)|totus(accusatif masculin singulier)|totus(nominatif neutre singulier)|totus(vocatif neutre singulier)|totus(accusatif neutre singulier)|totus(accusatif masculin singulier)|totus(nominatif neutre singulier)|totus(vocatif neutre singulier)|totus(accusatif neutre singulier)">totum</w> 
-        <w lemma="sum(3ème singulier indicatif futur antérieur actif)|sum(3ème singulier subjonctif parfait actif)">fuerit</w> 
-        <w lemma="collum(nominatif singulier)|collum(vocatif singulier)|collum(accusatif singulier)|collus(accusatif singulier)">collum</w> 
-        <w lemma="tumor(ablatif singulier)">tumore</w> 
-        <w lemma="possideo(supin en -um)|possideo(accusatif masculin singulier participe parfait passif)|possideo(nominatif neutre singulier participe parfait passif)|possideo(vocatif neutre singulier participe parfait passif)|possideo(accusatif neutre singulier participe parfait passif)|possido(supin en -um)|possido(accusatif masculin singulier participe parfait passif)|possido(nominatif neutre singulier participe parfait passif)|possido(vocatif neutre singulier participe parfait passif)|possido(accusatif neutre singulier participe parfait passif)|possessus(accusatif masculin singulier)|possessus(nominatif neutre singulier)|possessus(vocatif neutre singulier)|possessus(accusatif neutre singulier)|possessus(accusatif singulier)">possessum</w>, 
-        <w lemma="omne(nominatif pluriel)|omne(vocatif pluriel)|omne(accusatif pluriel)|omnis(nominatif neutre pluriel)|omnis(vocatif neutre pluriel)|omnis(accusatif neutre pluriel)|omnia(nominatif pluriel)|omnia(vocatif pluriel)|omnia(accusatif pluriel)|omnia(positif)">omnia</w> 
-        <w lemma="supradictus(nominatif féminin singulier)|supradictus(vocatif féminin singulier)|supradictus(ablatif féminin singulier)|supradictus(nominatif neutre pluriel)|supradictus(vocatif neutre pluriel)|supradictus(accusatif neutre pluriel)">supradicta</w> 
-        <w lemma="sequor(3ème pluriel indicatif futur actif)|sequo(3ème pluriel indicatif futur passif)">sequentur</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="magnus(vocatif masculin singulier superlatif)|maxime(positif)|Maximus(vocatif singulier)|maximus(vocatif masculin singulier)">maxime</w> 
-        <w lemma="dolor(génitif singulier)">doloris</w> 
-        <w lemma="causa(nominatif singulier)|causa(vocatif singulier)|causa(ablatif singulier)|causa(-)">causa</w> 
-        <w lemma="in(-)">in</w> 
-        <w  ana="#sinus #euphemism #composite" lemma="muliebris(accusatif masculin singulier)|muliebris(accusatif féminin singulier)">muliebrem</w> 
-        <w  ana="#sinus #euphemism #composite" lemma="sinus(accusatif singulier)|sinum(nominatif singulier)|sinum(vocatif singulier)|sinum(accusatif singulier)|sinus(accusatif singulier)">sinum</w> 
-        <w lemma="porrectus(accusatif masculin singulier)|porrectus(nominatif neutre singulier)|porrectus(vocatif neutre singulier)|porrectus(accusatif neutre singulier)|porrigo(supin en -um)|porrigo(accusatif masculin singulier participe parfait passif)|porrigo(nominatif neutre singulier participe parfait passif)|porrigo(vocatif neutre singulier participe parfait passif)|porrigo(accusatif neutre singulier participe parfait passif)|porrectum(nominatif singulier)|porrectum(vocatif singulier)|porrectum(accusatif singulier)|porricio(supin en -um)|porricio(accusatif masculin singulier participe parfait passif)|porricio(nominatif neutre singulier participe parfait passif)|porricio(vocatif neutre singulier participe parfait passif)|porricio(accusatif neutre singulier participe parfait passif)">porrectum</w> 
-        <w lemma="deuenio(3ème singulier indicatif futur actif)">deveniet</w>.
-    
+        <w lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+        <w lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+        <w lemma="totus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Neut">totum</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=3">fuerit</w>
+        <w lemma="collum" pos="NOMcom" msd="Case=Nom|Numb=Sing">collum</w>
+        <w lemma="tumor" pos="NOMcom" msd="Case=Abl|Numb=Sing">tumore</w>
+        <w lemma="possideo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">possessum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Neut">omnia</w>
+        <w lemma="supradico" pos="VER" msd="Case=Nom|Numb=Plur">supradicta</w>
+        <w lemma="sequor" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Fut|Voice=Dep|Person=3">sequentur</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="magis2" pos="ADV" msd="Deg=Sup">maxime</w>
+        <w lemma="dolor" pos="NOMcom" msd="Case=Gen|Numb=Sing">doloris</w>
+        <w lemma="causa" pos="NOMcom" msd="Case=Abl|Numb=Sing">causa</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w ana="#sinus #euphemism #composite" lemma="muliebris" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">muliebrem</w>
+        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Sing">sinum</w>
+        <w lemma="porrigo2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">porrectum</w>
+        <w lemma="deuenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">deveniet</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

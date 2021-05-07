@@ -1,24 +1,25 @@
 <div type="fragment" corresp="adams:91" ana="#sinus #euphemism #female #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.126">
-        <w lemma="nunc(-)">nunc</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="medium(datif singulier)|medium(ablatif singulier)|medius(datif masculin singulier)|medius(ablatif masculin singulier)|medius(datif neutre singulier)|medius(ablatif neutre singulier)|medio(1ère singulier indicatif présent actif)|medion(datif singulier)|medion(ablatif singulier)|medius(datif singulier)|medius(ablatif singulier)">medio</w> 
-        <w ana="#sinus #euphemism #composite"  lemma="sinus(ablatif singulier)">sinu</w> 
-        <w ana="#sinus #euphemism #composite"  lemma="muliebris(datif masculin singulier)|muliebris(ablatif masculin singulier)|muliebris(datif féminin singulier)|muliebris(ablatif féminin singulier)|muliebris(datif neutre singulier)|muliebris(ablatif neutre singulier)">muliebri</w>, 
-        <w lemma="nunc(-)">nunc</w> 
-        <w lemma="Circa(nominatif singulier)|Circa(vocatif singulier)|Circa(ablatif singulier)|circo(2ème singulier impératif présent actif)|circa(-)">circa</w> 
-        <w lemma="osculum(nominatif singulier)|osculum(vocatif singulier)|osculum(accusatif singulier)">osculum</w> 
-        <w lemma="matrix(génitif singulier)">matricis</w>, 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="uel(-)">vel</w> 
-        <w lemma="pulpa(nominatif singulier)|pulpa(vocatif singulier)|pulpa(ablatif singulier)|pulpo(2ème singulier impératif présent actif)">pulpa</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="idem(datif masculin pluriel)|idem(ablatif masculin pluriel)|idem(datif féminin pluriel)|idem(ablatif féminin pluriel)|idem(datif neutre pluriel)|idem(ablatif neutre pluriel)">eisdem</w> 
-        <w lemma="locum(datif pluriel)|locum(ablatif pluriel)|locus(datif pluriel)|locus(ablatif pluriel)|loca(datif pluriel)|loca(ablatif pluriel)">locis</w> 
-        <w lemma="ex(-)">ex</w> 
-        <w lemma="accido(datif masculin singulier participe présent actif)|accido(datif féminin singulier participe présent actif)|accido(datif neutre singulier participe présent actif)|accido(datif masculin singulier participe présent actif)|accido(datif féminin singulier participe présent actif)|accido(datif neutre singulier participe présent actif)|accidens(ablatif singulier)|accidens(datif singulier)">accidenti</w> 
-        <w lemma="aliqui(ablatif masculin singulier)|aliqui(ablatif neutre singulier)|aliquis(ablatif masculin singulier)|aliquis(ablatif neutre singulier)|aliquo(-)">aliquo</w> 
-        <w lemma="">adnascitur</w>
-    
+        <w lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="medius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">medio</w>
+        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+        <w ana="#sinus #euphemism #composite" lemma="muliebris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">muliebri</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+        <w lemma="circa2" pos="PRE" msd="MORPH=empty">circa</w>
+        <w lemma="osculum" pos="NOMcom" msd="Case=Acc|Numb=Sing">osculum</w>
+        <w lemma="matricus" pos="NOMcom" msd="Case=Abl|Numb=Sing">matricis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+        <w lemma="pulpa" pos="NOMcom" msd="Case=Nom|Numb=Sing">pulpa</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="idem" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">eisdem</w>
+        <w lemma="locus" pos="NOMcom" msd="Case=Abl|Numb=Plur">locis</w>
+        <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+        <w lemma="accidens" pos="VER" msd="Case=Abl|Numb=Sing">accidenti</w>
+        <w lemma="aliquis" pos="ADV" msd="Case=Abl|Numb=Sing|Gend=MascNeut">aliquo</w>
+        <w lemma="annascor" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">adnascitur</w>
     </quote>
  </div>

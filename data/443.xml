@@ -1,15 +1,16 @@
-<div type="fragment" corresp="adams:78"  ana="#male #attitude">
+<div type="fragment" corresp="adams:78" ana="#male #attitude">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi2331.phi007.perseus-lat2:10">
-        <w lemma="habeo(3ème singulier indicatif parfait actif)">habuit</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="homo(accusatif singulier)">hominem</w> 
-        <w  ana="#male #attitude"  lemma="penis(ablatif singulier)|penus(vocatif singulier)|pene(positif)">pene</w> 
-        <w   ana="#male #attitude" lemma="promineo(ablatif masculin singulier participe présent actif)|promineo(ablatif féminin singulier participe présent actif)|promineo(ablatif neutre singulier participe présent actif)|prominens(nominatif neutre singulier)|prominens(vocatif neutre singulier)|prominens(accusatif neutre singulier)|prominens(ablatif singulier)">prominente</w> 
-        <w lemma="ultra(-)">ultra</w> 
-        <w lemma="modus(accusatif singulier)">modum</w> 
-        <w lemma="animal(génitif pluriel)|animalis(génitif masculin pluriel)|animalis(génitif féminin pluriel)|animalis(génitif neutre pluriel)">animalium</w>, 
-        <w lemma="qui(accusatif masculin singulier)|quis(accusatif masculin singulier)|quem(positif)">quem</w> 
-        <w lemma="">Onon</w> 
-        <w lemma="appello(3ème singulier indicatif imparfait actif)">appellabat</w>    
+        <w lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">habuit</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="homo" pos="NOMcom" msd="Case=Acc|Numb=Sing">hominem</w>
+        <w ana="#male #attitude" lemma="penis" pos="NOMcom" msd="Case=Abl|Numb=Sing">pene</w>
+        <w ana="#male #attitude" lemma="promineo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">prominente</w>
+        <w lemma="ultra2" pos="PRE" msd="MORPH=empty">ultra</w>
+        <w lemma="modus" pos="NOMcom" msd="Case=Acc|Numb=Sing">modum</w>
+        <w lemma="animal" pos="NOMcom" msd="Case=Gen|Numb=Plur">animalium</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+        <w lemma="Onon" pos="ADVneg" msd="Case=Nom|Numb=Sing">Onon</w>
+        <w lemma="appello1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">appellabat</w>
     </quote>
  </div>

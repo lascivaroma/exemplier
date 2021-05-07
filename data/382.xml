@@ -1,19 +1,24 @@
-<div type="fragment" corresp="adams:69"  ana="#male #testicle">
+<div type="fragment" corresp="adams:69" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0224.stoa004.alim-lat1:267.polimenta">
-        <w lemma="polimenta(nominatif pluriel)|polimenta(vocatif pluriel)|polimenta(accusatif pluriel)|polimentum(nominatif pluriel)|polimentum(vocatif pluriel)|polimentum(accusatif pluriel)"  ana="#male #testicules" >polimenta</w>   
-        <w lemma="testiculus(génitif singulier)|testiculus(nominatif pluriel)|testiculus(vocatif pluriel)">testiculi</w> 
-        <w lemma="porcus(génitif pluriel)">porcorum</w> 
-        <w lemma="dico(3ème pluriel indicatif présent passif)">dicuntur</w>, 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="castro(3ème pluriel indicatif présent passif)">castrantur</w>, 
-        <w lemma="a(-)|a(-)|a(-)">a</w> 
-        <w lemma="">politiorie</w>
-                                
-        <w lemma="vestimentum(génitif pluriel)">vestimentorum</w>, 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="similiter(positif)">similiter</w>, 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="ille(nominatif féminin singulier)|ille(ablatif féminin singulier)|ille(nominatif neutre pluriel)|ille(accusatif neutre pluriel)|illa(-)">illa</w>, 
-        <w lemma="curo(3ème pluriel indicatif présent passif)">curantur</w>.     
+        <w ana="#male #testicules" lemma="polimentum" pos="NOMcom" msd="Case=Acc|Numb=Plur">polimenta</w>
+        <w lemma="testiculus" pos="NOMcom" msd="Case=Gen|Numb=Sing">testiculi</w>
+        <w lemma="porcus" pos="NOMcom" msd="Case=Gen|Numb=Plur">porcorum</w>
+        <w lemma="dico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">dicuntur</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+        <w lemma="castro" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">castrantur</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+        <w lemma="politiories" pos="NOMcom" msd="Case=Abl|Numb=Sing|Gend=Com">politiorie</w>
+        <w lemma="uestimentum" pos="NOMcom" msd="Case=Gen|Numb=Plur">vestimentorum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing">quod</w>
+        <w lemma="similiter" pos="ADV" msd="Deg=Pos">similiter</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Neut">illa</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="curo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">curantur</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

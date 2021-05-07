@@ -1,12 +1,14 @@
-<div type="fragment" corresp="adams:67"  ana="#male #testicle">
+<div type="fragment" corresp="adams:67" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi012.perseus-lat2:1426">
-        <w lemma="sion(génitif singulier)|si(-)">Si</w> 
-        <w lemma="posthac(-)">posthac</w> 
-        <w lemma="prehendo(1ère singulier indicatif futur antérieur actif)">prehendero</w> 
-        <w lemma="Egus(datif singulier)|Egus(ablatif singulier)|ego(nominatif masculin singulier)|ego(nominatif féminin singulier)">ego</w> 
-        <w lemma="tu(accusatif masculin singulier)|tu(ablatif masculin singulier)|tu(accusatif féminin singulier)|tu(ablatif féminin singulier)">te</w> 
-        <w lemma="">híc</w>, 
-        <w lemma="careo(2ème singulier indicatif futur actif)">carebis</w> 
-        <w  ana="#male #testicules" lemma="testis(datif pluriel)|testis(ablatif pluriel)|testis(datif pluriel)|testis(ablatif pluriel)">testibus</w>.    
+        <w lemma="si2" pos="CONsub" msd="MORPH=empty">Si</w>
+        <w lemma="posthac" pos="ADV" msd="Deg=Pos">posthac</w>
+        <w lemma="prehendo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=1">prehendero</w>
+        <w lemma="ego" pos="PROper" msd="Case=Nom|Numb=Sing">ego</w>
+        <w lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+        <w lemma="hic2" pos="ADV" msd="Deg=Pos">híc</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="careo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2">carebis</w>
+        <w ana="#male #testicules" lemma="testis1" pos="NOMcom" msd="Case=Abl|Numb=Plur">testibus</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

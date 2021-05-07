@@ -1,14 +1,15 @@
 <div type="fragment" corresp="adams:96" ana="#fente #female #cunnus #misc">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0089.stoa001.perseus-lat2:43.6-43.8">
-        <w lemma="nes(accusatif singulier)|nam(-)">nam</w> 
-        <w lemma="spurcus(accusatif masculin pluriel)">spurcos</w> 
-        <w lemma="auidus(génitif féminin singulier)|auidus(datif féminin singulier)|auidus(nominatif féminin pluriel)|auidus(vocatif féminin pluriel)">avidae</w> 
-        <w lemma="lambo(3ème singulier indicatif parfait actif)|lambo(3ème singulier indicatif présent actif)">lambit</w> 
-        <w lemma="meretrix(génitif singulier)|meretricius(datif masculin pluriel)|meretricius(ablatif masculin pluriel)|meretricius(datif féminin pluriel)|meretricius(ablatif féminin pluriel)|meretricius(datif neutre pluriel)|meretricius(ablatif neutre pluriel)|meretricium(datif pluriel)|meretricium(ablatif pluriel)">meretricis</w> 
-        <w ana="#fente #misc"  lemma="hiatus(nominatif singulier)|hiatus(vocatif singulier)|hiatus(génitif singulier)|hiatus(nominatif pluriel)|hiatus(vocatif pluriel)|hiatus(accusatif pluriel)|hio(nominatif masculin singulier participe parfait passif)">hiatus</w> 
-        <w lemma="consumo(nominatif masculin singulier participe présent actif)|consumo(vocatif masculin singulier participe présent actif)|consumo(nominatif féminin singulier participe présent actif)|consumo(vocatif féminin singulier participe présent actif)|consumo(nominatif neutre singulier participe présent actif)|consumo(vocatif neutre singulier participe présent actif)|consumo(accusatif neutre singulier participe présent actif)">consumens</w> 
-        <w lemma="luxus(ablatif singulier)">luxu</w> 
-        <w lemma="flagitium(datif pluriel)|flagitium(ablatif pluriel)">flagitiisque</w> 
-        <w lemma="domus(accusatif singulier)">domum</w>    
+        <w lemma="nam" pos="CONcoo" msd="MORPH=empty">nam</w>
+        <w lemma="spurcus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">spurcos</w>
+        <w lemma="auidus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">avidae</w>
+        <w lemma="lambo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">lambit</w>
+        <w lemma="meretrix" pos="NOMcom" msd="Case=Gen|Numb=Sing">meretricis</w>
+        <w ana="#fente #misc" lemma="hiatus" pos="NOMcom" msd="Case=Acc|Numb=Plur">hiatus</w>
+        <w lemma="consumo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">consumens</w>
+        <w lemma="luxus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">luxu</w>
+        <w lemma="flagitium" pos="NOMcom" msd="Case=Abl|Numb=Plur">flagitiisque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{flagitiisque}</w>
+        <w lemma="domus" pos="NOMcom" msd="Case=Acc|Numb=Sing">domum</w>
     </quote>
  </div>

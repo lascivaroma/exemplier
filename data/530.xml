@@ -1,16 +1,18 @@
 <div type="fragment" corresp="adams:91" ana="#adjoining_parts #bladder #female #cunnus #euphemism">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:1.38-1.39">
-        <w lemma="in(-)">in</w> 
-        <w lemma="caelum(nominatif singulier)|caelum(vocatif singulier)|caelum(accusatif singulier)|caelus(accusatif singulier)">caelum</w> 
-        <w lemma="qui(accusatif masculin pluriel)|quis(accusatif masculin pluriel)">quos</w> 
-        <w lemma="euenio(3ème singulier indicatif parfait actif)|euenio(3ème singulier indicatif présent actif)">evenit</w> 
-        <w lemma="bonus(nominatif féminin singulier superlatif)|bonus(vocatif féminin singulier superlatif)|bonus(ablatif féminin singulier superlatif)|bonus(nominatif neutre pluriel superlatif)|bonus(vocatif neutre pluriel superlatif)|bonus(accusatif neutre pluriel superlatif)|optimum(nominatif pluriel)|optimum(vocatif pluriel)|optimum(accusatif pluriel)|optimus(nominatif féminin singulier)|optimus(vocatif féminin singulier)|optimus(ablatif féminin singulier)|optimus(nominatif neutre pluriel)|optimus(vocatif neutre pluriel)|optimus(accusatif neutre pluriel)">optima</w> 
-        <w lemma="summum(génitif singulier)|summus(génitif masculin singulier)|summus(nominatif masculin pluriel)|summus(vocatif masculin pluriel)|summus(génitif neutre singulier)|summus(génitif singulier)|summus(nominatif pluriel)|summus(vocatif pluriel)">summi</w> 
-        <w lemma="nunc(-)">nunc</w> 
-        <w lemma="uia(nominatif singulier)|uia(vocatif singulier)|uia(ablatif singulier)|uio(2ème singulier impératif présent actif)">via</w> 
-        <w lemma="procedo(nominatif masculin singulier participe parfait passif)|processus(nominatif singulier)|processus(vocatif singulier)|processus(génitif singulier)|processus(nominatif pluriel)|processus(vocatif pluriel)|processus(accusatif pluriel)|processus(nominatif masculin singulier)">processus</w>, 
-        <w lemma="uetula(génitif singulier)|uetula(datif singulier)|uetula(nominatif pluriel)|uetula(vocatif pluriel)|uetulus(génitif féminin singulier)|uetulus(datif féminin singulier)|uetulus(nominatif féminin pluriel)|uetulus(vocatif féminin pluriel)">vetulae</w> 
-        <w ana="#adjoining_parts #bladder #euphemism"  lemma="uesica(nominatif singulier)|uesica(vocatif singulier)|uesica(ablatif singulier)|uesico(2ème singulier impératif présent actif)">vesica</w> 
-        <w lemma="beatus(génitif féminin singulier)|beatus(datif féminin singulier)|beatus(nominatif féminin pluriel)|beatus(vocatif féminin pluriel)|beo(génitif féminin singulier participe parfait passif)|beo(datif féminin singulier participe parfait passif)|beo(nominatif féminin pluriel participe parfait passif)|beo(vocatif féminin pluriel participe parfait passif)">beatae</w>?    
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="caelum1" pos="NOMcom" msd="Case=Acc|Numb=Sing">caelum</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Masc">quos</w>
+        <w lemma="euenio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">evenit</w>
+        <w lemma="bonus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Sup">optima</w>
+        <w lemma="superus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Sup">summi</w>
+        <w lemma="nunc" pos="ADV" msd="Deg=Pos">nunc</w>
+        <w lemma="uia" pos="NOMcom" msd="Case=Nom|Numb=Sing">via</w>
+        <w lemma="processus" pos="NOMcom" msd="Case=Gen|Numb=Sing">processus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="uetula" pos="NOMcom" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">vetulae</w>
+        <w ana="#adjoining_parts #bladder #euphemism" lemma="uesica" pos="NOMcom" msd="Case=Nom|Numb=Sing">vesica</w>
+        <w lemma="beatus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">beatae</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>
  </div>

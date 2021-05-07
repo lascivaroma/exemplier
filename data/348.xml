@@ -1,27 +1,30 @@
-<div type="fragment" corresp="adams:64"  ana="#male #misc">
+<div type="fragment" corresp="adams:64" ana="#male #misc">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.39">
-        <w lemma="phallus(génitif pluriel)">phallorum</w> 
-        <w lemma="ille(nominatif féminin singulier)|ille(ablatif féminin singulier)|ille(nominatif neutre pluriel)|ille(accusatif neutre pluriel)|illa(-)">illa</w> 
-        <w  ana="#male #dildo" lemma="fascinum(génitif pluriel)|Fascinus(génitif pluriel)|Fascinus(génitif pluriel)">fascinorumque</w> 
-        <w lemma="subrectio(nominatif singulier)|subrectio(vocatif singulier)">subrectio</w>, 
-        <w lemma="qui(accusatif masculin pluriel)|quis(accusatif masculin pluriel)">quos</w> 
-        <w lemma="ritus(datif pluriel)|ritus(ablatif pluriel)">ritibus</w> 
-        <w lemma="annuo(2ème singulier indicatif présent actif)|annuum(datif pluriel)|annuum(ablatif pluriel)|annuus(datif masculin pluriel)|annuus(ablatif masculin pluriel)|annuus(datif féminin pluriel)|annuus(ablatif féminin pluriel)|annuus(datif neutre pluriel)|annuus(ablatif neutre pluriel)|annua(datif pluriel)|annua(ablatif pluriel)|adnuo(2ème singulier indicatif présent actif)">annuis</w> 
-        <w lemma="adoro(3ème singulier indicatif présent actif)">adorat</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="concelebro(3ème singulier indicatif présent actif)">concelebrat</w> 
-        <w lemma="Graecia(nominatif singulier)|Graecia(vocatif singulier)|Graecia(ablatif singulier)">Graecia</w>, 
-        <w lemma="nonnus(vocatif singulier)|nonne(-)|non(-)">nonne</w> 
-        <w lemma="ille(génitif masculin singulier)|ille(génitif féminin singulier)|ille(génitif neutre singulier)">illius</w> 
-            
-        <w lemma="facinus(génitif singulier)">facinoris</w> 
-        <w lemma="similitudo(accusatif singulier)">similitudinem</w> 
-        <w lemma="refero(3ème singulier indicatif présent actif)">refert</w> 
-        <w lemma="qui(ablatif masculin singulier)|qui(ablatif neutre singulier)|quis(ablatif masculin singulier)|quis(ablatif neutre singulier)|quo(-)">quo</w> 
-        <w lemma="se(accusatif masculin singulier)|se(ablatif masculin singulier)|se(accusatif masculin pluriel)|se(ablatif masculin pluriel)|se(accusatif féminin singulier)|se(ablatif féminin singulier)|se(accusatif féminin pluriel)|se(ablatif féminin pluriel)|se(accusatif neutre singulier)|se(ablatif neutre singulier)|se(accusatif neutre pluriel)|se(ablatif neutre pluriel)|se(-)">se</w> 
-        <w lemma="a(-)">ab</w> 
-        <w lemma="debeo(datif masculin singulier participe parfait passif)|debeo(ablatif masculin singulier participe parfait passif)|debeo(datif neutre singulier participe parfait passif)|debeo(ablatif neutre singulier participe parfait passif)|debitum(datif singulier)|debitum(ablatif singulier)|debitus(datif masculin singulier)|debitus(ablatif masculin singulier)|debitus(datif neutre singulier)|debitus(ablatif neutre singulier)">debito</w> 
-        <w lemma="libo(1ère singulier subjonctif présent passif)|liber(nominatif singulier)|liber(vocatif singulier)|Liber(nominatif singulier)|Liber(vocatif singulier)|liber(nominatif masculin singulier)|liber(vocatif masculin singulier)|liber(nominatif singulier)|liber(vocatif singulier)">Liber</w> 
-        <w lemma="libero(3ème singulier indicatif parfait actif)">liberauit</w>?     
+        <w lemma="phallus" pos="NOMcom" msd="Case=Gen|Numb=Plur">phallorum</w>
+        <w lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+        <w ana="#male #dildo" lemma="fascinum" pos="NOMcom" msd="Case=Gen|Numb=Plur">fascinorumque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{fascinorumque}</w>
+        <w lemma="subrectio" pos="NOMcom" msd="Case=Nom|Numb=Sing">subrectio</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Masc">quos</w>
+        <w lemma="ritis" pos="NOMcom" msd="Case=Abl|Numb=Plur">ritibus</w>
+        <w lemma="annuus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">annuis</w>
+        <w lemma="adoro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">adorat</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="concelebro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">concelebrat</w>
+        <w lemma="Graecia" pos="NOMpro" msd="Case=Nom|Numb=Sing">Graecia</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="nonne" pos="ADVint.neg" msd="MORPH=empty">nonne</w>
+        <w lemma="ille" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">illius</w>
+        <w lemma="facinus" pos="NOMcom" msd="Case=Gen|Numb=Sing">facinoris</w>
+        <w lemma="similitudo" pos="NOMcom" msd="Case=Acc|Numb=Sing">similitudinem</w>
+        <w lemma="refero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">refert</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=MascNeut">quo</w>
+        <w lemma="sui1" pos="PROref" msd="Case=Acc|Numb=Sing">se</w>
+        <w lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+        <w lemma="debitum" pos="NOMcom" msd="Case=Abl|Numb=Sing">debito</w>
+        <w lemma="liber?" pos="NOMpro" msd="Case=Nom|Numb=Sing">Liber</w>
+        <w lemma="libero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">liberauit</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>
  </div>

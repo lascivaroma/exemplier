@@ -1,20 +1,22 @@
 <div type="fragment" corresp="adams:96" ana=" #female #cunnus #fesse #misc">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0293b.stoa005.digilibLT-lat1:32">
-        <w lemma="hic(génitif masculin singulier)|hic(génitif féminin singulier)|hic(génitif neutre singulier)">Huius</w> 
-        <w lemma="cervix(génitif singulier)">cervicis</w> 
-        <w lemma="uel(-)">vel</w> 
-        <w lemma="cornu(nominatif singulier)|cornu(vocatif singulier)|cornu(accusatif singulier)|cornu(ablatif singulier)|cornus(ablatif singulier)|cornus(ablatif singulier)">cornu</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="tres(datif masculin pluriel)|tres(ablatif masculin pluriel)|tres(datif féminin pluriel)|tres(ablatif féminin pluriel)|tres(datif neutre pluriel)|tres(ablatif neutre pluriel)|tribus(nominatif singulier)|tribus(vocatif singulier)|tribus(génitif singulier)|tribus(nominatif pluriel)|tribus(vocatif pluriel)|tribus(accusatif pluriel)">tribus</w> 
-        <w lemma="foramen(datif pluriel)|foramen(ablatif pluriel)">foraminibus</w> 
-        <w lemma="porrigo(3ème singulier indicatif présent passif)">porrigitur</w> 
-        <w lemma="usque(-)">usque</w> 
-        <w lemma="ad(-)">ad</w> 
-        <w ana="#fesse #misc"  lemma="longao(accusatif singulier)">longaonem</w>, 
-        <w lemma="in(-)">in</w> 
-        <w lemma="qui(ablatif féminin singulier)|quis(ablatif féminin singulier)|qua(-)">qua</w> 
-        <w lemma="res(nominatif singulier)|res(vocatif singulier)|res(nominatif pluriel)|res(vocatif pluriel)|res(accusatif pluriel)">res</w> 
-        <w lemma="Uenerius(accusatif féminin pluriel)|Ueneria(accusatif pluriel)|Veneriae(accusatif pluriel)">venerias</w> 
-        <w lemma="perficio(3ème singulier indicatif présent passif)">perficitur</w>.     
+        <w lemma="hic1" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">Huius</w>
+        <w lemma="ceruix" pos="NOMcom" msd="Case=Gen|Numb=Sing">cervicis</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+        <w lemma="cornu" pos="NOMcom" msd="Case=Abl|Numb=Sing">cornu</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="tres" pos="ADJcar" msd="Case=Abl|Numb=Plur|Gend=Com">tribus</w>
+        <w lemma="foramen" pos="NOMcom" msd="Case=Abl|Numb=Plur">foraminibus</w>
+        <w lemma="porrigo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">porrigitur</w>
+        <w lemma="usque" pos="ADV" msd="Deg=Pos">usque</w>
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+        <w ana="#fesse #misc" lemma="longao" pos="NOMcom" msd="Case=Acc|Numb=Sing">longaonem</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
+        <w lemma="res" pos="NOMcom" msd="Case=Acc|Numb=Sing">res</w>
+        <w lemma="ueneriae" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">venerias</w>
+        <w lemma="perficio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">perficitur</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

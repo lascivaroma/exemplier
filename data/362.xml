@@ -1,13 +1,14 @@
-<div type="fragment" corresp="adams:67"  ana="#male #testicle">
+<div type="fragment" corresp="adams:67" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi012.perseus-lat2:1420b-1421">
-        <w lemma="salvos(datif masculin pluriel)|salvos(ablatif masculin pluriel)|salvos(datif féminin pluriel)|salvos(ablatif féminin pluriel)|salvos(datif neutre pluriel)|salvos(ablatif neutre pluriel)|Salvius(datif pluriel)|Salvius(ablatif pluriel)|Salvia(datif pluriel)|Salvia(ablatif pluriel)|salvia(datif pluriel)|salvia(ablatif pluriel)">Salvis</w> 
-        <w  ana="#male #testicules" lemma="testis(datif pluriel)|testis(ablatif pluriel)|testis(datif pluriel)|testis(ablatif pluriel)">testibus</w> 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="tu(accusatif masculin singulier)|tu(ablatif masculin singulier)|tu(accusatif féminin singulier)|tu(ablatif féminin singulier)">te</w> 
-        <w lemma="">hódie</w> 
-        <w lemma="hinc(-)">hinc</w> 
-        <w lemma="amitto(1ère pluriel subjonctif présent actif)">amittamus</w> 
-        <w lemma="Uenerius(accusatif masculin singulier)|Uenerius(nominatif neutre singulier)|Uenerius(vocatif neutre singulier)|Uenerius(accusatif neutre singulier)">Venerium</w> 
-        <w lemma="nepotulus(accusatif singulier)">nepotulum</w>;    
+        <w lemma="saluus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">Salvis</w>
+        <w ana="#male #testicules" lemma="testis1" pos="NOMcom" msd="Case=Abl|Numb=Plur">testibus</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="tu" pos="PROper" msd="Case=Acc|Numb=Sing">te</w>
+        <w lemma="hodie" pos="ADV" msd="Deg=Pos">hódie</w>
+        <w lemma="hinc" pos="ADV" msd="Deg=Pos">hinc</w>
+        <w lemma="amitto" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1">amittamus</w>
+        <w lemma="uenerius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">Venerium</w>
+        <w lemma="nepotulus" pos="NOMcom" msd="Case=Acc|Numb=Sing">nepotulum</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     </quote>
  </div>

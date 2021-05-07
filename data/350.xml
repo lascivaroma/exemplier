@@ -1,33 +1,34 @@
-<div type="fragment" corresp="adams:64"  ana="#male #misc">
+<div type="fragment" corresp="adams:64" ana="#male #misc">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0040.stoa003.opp-lat3:6.9">
-        <w lemma="sed(-)|sed(-)">Sed</w> 
-        <w lemma="quis(nominatif neutre singulier)|quis(vocatif neutre singulier)|quis(accusatif neutre singulier)|quid(-)|quid(positif)">quid</w> 
-        <w lemma="hic(ablatif masculin singulier)|hic(nominatif neutre singulier)|hic(accusatif neutre singulier)|hic(ablatif neutre singulier)|hoc(-)">hoc</w> 
-        <w lemma="dica(accusatif singulier)|dico(1ère singulier indicatif futur actif)|dico(1ère singulier subjonctif présent actif)|Dice(accusatif singulier)">dicam</w>,
-
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="ibi(-)">ibi</w> 
-        <w lemma="sum(3ème singulier subjonctif présent actif)">sit</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="Priapus(nominatif singulier)|Priapos(nominatif singulier)">Priapus</w> 
-        <w lemma="nimie(comparatif)|nimius(nominatif masculin singulier)">nimius</w> 
-        <w lemma="masculus(nominatif masculin singulier)|masculus(nominatif singulier)">masculus</w>, 
-
-        <w lemma="supo(1ère singulier subjonctif présent passif)|supo(1ère singulier subjonctif présent passif)|super(nominatif masculin singulier)|super(vocatif masculin singulier)|super(-)">super</w> 
-        <w lemma="qui(génitif masculin singulier)|qui(génitif féminin singulier)|qui(génitif neutre singulier)|quis(génitif masculin singulier)|quis(génitif féminin singulier)|quis(génitif neutre singulier)">cuius</w> 
-        <w lemma="immanis(accusatif masculin singulier superlatif)|immanis(nominatif neutre singulier superlatif)|immanis(vocatif neutre singulier superlatif)|immanis(accusatif neutre singulier superlatif)">inmanissimum</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="turpis(accusatif masculin singulier superlatif)|turpis(nominatif neutre singulier superlatif)|turpis(vocatif neutre singulier superlatif)|turpis(accusatif neutre singulier superlatif)">turpissimum</w> 
-        <w  ana="#male #dildo" lemma="fascinum(nominatif singulier)|fascinum(vocatif singulier)|fascinum(accusatif singulier)|Fascinus(accusatif singulier)|Fascinus(accusatif singulier)">fascinum</w>             
-        <w lemma="sedeo(3ème pluriel indicatif parfait actif)|sedeo(infinitif présent actif)|sedeo(2ème singulier indicatif présent passif)|sedeo(2ème singulier impératif présent passif)|sedo(2ème singulier subjonctif présent passif)">sedere</w> 
-        <w lemma="nouo(2ème singulier impératif présent actif)|nouus(nominatif féminin singulier)|nouus(vocatif féminin singulier)|nouus(ablatif féminin singulier)|nouus(nominatif neutre pluriel)|nouus(vocatif neutre pluriel)|nouus(accusatif neutre pluriel)|Noua(nominatif singulier)|Noua(vocatif singulier)|Noua(ablatif singulier)|Nouum(nominatif pluriel)|Nouum(vocatif pluriel)|Nouum(accusatif pluriel)|nouum(nominatif pluriel)|nouum(vocatif pluriel)|nouum(accusatif pluriel)">noua</w> 
-        <w lemma="nubo(nominatif féminin singulier participe parfait passif)|nubo(vocatif féminin singulier participe parfait passif)|nubo(ablatif féminin singulier participe parfait passif)|nubo(nominatif neutre pluriel participe parfait passif)|nubo(vocatif neutre pluriel participe parfait passif)|nubo(accusatif neutre pluriel participe parfait passif)|nupta(nominatif singulier)|nupta(vocatif singulier)|nupta(ablatif singulier)|nupto(2ème singulier impératif présent actif)|nuptus(nominatif féminin singulier)|nuptus(vocatif féminin singulier)|nuptus(ablatif féminin singulier)|nuptus(nominatif neutre pluriel)|nuptus(vocatif neutre pluriel)|nuptus(accusatif neutre pluriel)">nupta</w> 
-        <w lemma="iubeo(3ème singulier indicatif imparfait passif)">iubebatur</w>,
-
-        <w lemma="mos(ablatif singulier)|more(positif)|morus(vocatif masculin singulier)|morus(vocatif singulier)|morus(vocatif singulier)">more</w> 
-        <w lemma="honestus(datif masculin singulier superlatif)|honestus(ablatif masculin singulier superlatif)|honestus(datif neutre singulier superlatif)|honestus(ablatif neutre singulier superlatif)">honestissimo</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="religiosus(datif masculin singulier superlatif)|religiosus(ablatif masculin singulier superlatif)|religiosus(datif neutre singulier superlatif)|religiosus(ablatif neutre singulier superlatif)">religiosissimo</w> 
-        <w lemma="matrona(génitif pluriel)|Matrona(génitif pluriel)|Matrona(génitif pluriel)">matronarum</w>?     
+        <w lemma="sed" pos="CONcoo" msd="MORPH=empty">Sed</w>
+        <w lemma="quis1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Neut">quid</w>
+        <w lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Neut">hoc</w>
+        <w lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1">dicam</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+        <w lemma="ibi" pos="ADV" msd="Deg=Pos">ibi</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="Priapus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Priapus</w>
+        <w lemma="nimius" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">nimius</w>
+        <w lemma="masculus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">masculus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="super2" pos="PRE" msd="MORPH=empty">super</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
+        <w lemma="immanis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Sup">inmanissimum</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="turpis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Sup">turpissimum</w>
+        <w ana="#male #dildo" lemma="fascinum" pos="NOMcom" msd="Case=Acc|Numb=Sing">fascinum</w>
+        <w lemma="sedeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">sedere</w>
+        <w lemma="nouus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">noua</w>
+        <w lemma="nubo" pos="NOMcom" msd="Case=Nom|Numb=Sing">nupta</w>
+        <w lemma="iubeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Pass|Person=3">iubebatur</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="mos" pos="NOMcom" msd="Case=Abl|Numb=Sing">more</w>
+        <w lemma="honestus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Sup">honestissimo</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="religiosus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Sup">religiosissimo</w>
+        <w lemma="matrona" pos="NOMcom" msd="Case=Gen|Numb=Plur">matronarum</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>
  </div>

@@ -1,14 +1,15 @@
 <div type="fragment" corresp="adams:85" ana="#fossa #female #cunnus #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:83.32">
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="tuus(accusatif masculin singulier)|tuus(nominatif neutre singulier)|tuus(vocatif neutre singulier)|tuus(accusatif neutre singulier)">tuum</w> 
-        <w lemma="ter(-)">ter</w> 
-        <w lemma="aut(-)">aut</w> 
-        <w lemma="quater(-)">quater</w> 
-        <w lemma="uoro(3ème singulier subjonctif présent actif)">uoret</w> 
-        <w lemma="profundum(nominatif pluriel)|profundum(vocatif pluriel)|profundum(accusatif pluriel)|profundus(nominatif féminin singulier)|profundus(vocatif féminin singulier)|profundus(ablatif féminin singulier)|profundus(nominatif neutre pluriel)|profundus(vocatif neutre pluriel)|profundus(accusatif neutre pluriel)">profunda</w> 
-        <w  ana="#fossa" lemma="fodio(nominatif féminin singulier participe parfait passif)|fodio(vocatif féminin singulier participe parfait passif)|fodio(ablatif féminin singulier participe parfait passif)|fodio(nominatif neutre pluriel participe parfait passif)|fodio(vocatif neutre pluriel participe parfait passif)|fodio(accusatif neutre pluriel participe parfait passif)|fossa(nominatif singulier)|fossa(vocatif singulier)|fossa(ablatif singulier)|Fossa(nominatif singulier)|Fossa(vocatif singulier)|Fossa(ablatif singulier)|fosso(2ème singulier impératif présent actif)|fossus(nominatif féminin singulier)|fossus(vocatif féminin singulier)|fossus(ablatif féminin singulier)|fossus(nominatif neutre pluriel)|fossus(vocatif neutre pluriel)|fossus(accusatif neutre pluriel)">fossa</w> 
-        <w lemma="lubricum(nominatif singulier)|lubricum(vocatif singulier)|lubricum(accusatif singulier)|lubricus(accusatif masculin singulier)|lubricus(nominatif neutre singulier)|lubricus(vocatif neutre singulier)|lubricus(accusatif neutre singulier)">lubricum</w> 
-        <w lemma="caput(accusatif singulier)|caput(nominatif singulier)|caput(vocatif singulier)">caput</w>.    
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="tuus" pos="PROpos" msd="Case=Acc|Numb=Sing|Gend=MascNeut">tuum</w>
+        <w lemma="ter" pos="ADJadv.mul" msd="MORPH=empty">ter</w>
+        <w lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+        <w lemma="quater" pos="ADJadv.mul" msd="MORPH=empty">quater</w>
+        <w lemma="uoro" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">uoret</w>
+        <w lemma="profundus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">profunda</w>
+        <w ana="#fossa" lemma="fossa" pos="NOMcom" msd="Case=Nom|Numb=Sing">fossa</w>
+        <w lemma="lubricus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">lubricum</w>
+        <w lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

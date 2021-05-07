@@ -1,19 +1,24 @@
 <div type="fragment" corresp="adams:97" ana="#parties clitoris #female #cunnus #son">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0474.phi056.perseus-lat1:9.22.2">
-        <w lemma="memini(1ère singulier indicatif parfait actif)|memini(infinitif présent passif)|Memini(nominatif pluriel)|Memini(vocatif pluriel)">memini</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="senatus(ablatif singulier)">senatu</w> 
-        <w lemma="disertus(accusatif masculin singulier)|disertus(nominatif neutre singulier)|disertus(vocatif neutre singulier)|disertus(accusatif neutre singulier)">disertum</w> 
-        <w lemma="consularis(accusatif singulier)|consularis(accusatif masculin singulier)|consularis(accusatif féminin singulier)">consularem</w> 
-        <w lemma="ito(2ème singulier impératif présent actif)|ita(-)">ita</w> 
-        <w lemma="eloquor(infinitif présent actif)|Eloquus(génitif masculin singulier)|Eloquus(nominatif masculin pluriel)|Eloquus(vocatif masculin pluriel)|Eloquus(génitif neutre singulier)|eloquium(génitif singulier)">eloqui</w>: '
-        <w lemma="hic(accusatif féminin singulier)">hanc</w> 
-        <w lemma="culpa(accusatif singulier)">culpam</w> 
-        <w lemma="magnus(accusatif masculin singulier comparatif)|magnus(accusatif féminin singulier comparatif)">maiorem</w> 
-        <w lemma="an(-)">an</w> 
-        <w ana="#parties clitoris #son #composite"  lemma="ille(accusatif féminin singulier)">illam</w> 
-        <w ana="#parties clitoris #son #composite"  lemma="dica(accusatif singulier)|dico(1ère singulier indicatif futur actif)|dico(1ère singulier subjonctif présent actif)|Dice(accusatif singulier)">dicam</w>?' 
-        <w lemma="possum(3ème singulier indicatif parfait actif)">potuit</w> 
-        <w lemma="obscene(comparatif)|obscenus(nominatif neutre singulier comparatif)|obscenus(vocatif neutre singulier comparatif)|obscenus(accusatif neutre singulier comparatif)">obscenius</w>?      
+        <w lemma="memini" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1">memini</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="senatus" pos="NOMcom" msd="Case=Abl|Numb=Sing">senatu</w>
+        <w lemma="disertus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">disertum</w>
+        <w lemma="consularis1" pos="NOMcom" msd="Case=Acc|Numb=Sing">consularem</w>
+        <w lemma="ita" pos="ADV" msd="Deg=Pos">ita</w>
+        <w lemma="eloquor" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">eloqui</w>
+        <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+        <w lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+        <w lemma="hic1" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">hanc</w>
+        <w lemma="culpa" pos="NOMcom" msd="Case=Acc|Numb=Sing">culpam</w>
+        <w lemma="magnus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp">maiorem</w>
+        <w lemma="an" pos="ADVint" msd="MORPH=empty">an</w>
+        <w ana="#partiesclitoris #son #composite" lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">illam</w>
+        <w ana="#partiesclitoris #son #composite" lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1">dicam</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
+        <w lemma="'" pos="PUNC" msd="MORPH=empty">'</w>
+        <w lemma="possum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">potuit</w>
+        <w lemma="obscenus" pos="ADV" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Comp">obscenius</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>
  </div>

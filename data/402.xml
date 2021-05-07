@@ -1,11 +1,11 @@
-<div type="fragment" corresp="adams:70"  ana="#male #testicle">
+<div type="fragment" corresp="adams:70" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0845.phi002.perseus-lat3:7.11.2">
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">Cum</w> 
-        <w  ana="#male #testicules" lemma="virilis(accusatif masculin singulier)|virilis(accusatif féminin singulier)">virilem</w> 
-        <w lemma="pars(accusatif singulier)">partem</w> 
-        <w lemma="unus(accusatif féminin singulier)">unam</w> 
-        <w lemma="ferrum(datif singulier)|ferrum(ablatif singulier)">ferro</w> 
-        <w lemma="resero(accusatif féminin singulier participe parfait passif)|reseratus(accusatif féminin singulier)">reseratam</w>  
-        <w lemma="detraho(2ème singulier indicatif futur antérieur actif)|detraho(2ème singulier subjonctif parfait actif)">detraxeris</w>    
+        <w lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+        <w ana="#male #testicules" lemma="uirilis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">virilem</w>
+        <w lemma="pars" pos="NOMcom" msd="Case=Acc|Numb=Sing">partem</w>
+        <w lemma="unus" pos="ADJcar" msd="Case=Acc|Numb=Sing|Gend=Fem">unam</w>
+        <w lemma="ferrum" pos="NOMcom" msd="Case=Abl|Numb=Sing">ferro</w>
+        <w lemma="resero1" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">reseratam</w>
+        <w lemma="detraho" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2">detraxeris</w>
     </quote>
  </div>

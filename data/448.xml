@@ -1,26 +1,31 @@
 <div type="fragment" corresp="adams:82" ana="#cunnus #metaphore #animal #female">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0684.phi002.thayer-lat1:2.4.10">
-        <w lemma="nes(accusatif singulier)|nam(-)">Nam</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="noster(génitif féminin singulier)|noster(datif féminin singulier)|noster(nominatif féminin pluriel)|noster(vocatif féminin pluriel)">nostrae</w> 
-        <w lemma="mulier(nominatif pluriel)|mulier(vocatif pluriel)|mulier(accusatif pluriel)|muliero(2ème singulier subjonctif présent actif)">mulieres</w>, 
-        <w lemma="magnus(vocatif masculin singulier superlatif)|maxime(positif)|Maximus(vocatif singulier)|maximus(vocatif masculin singulier)">maxime</w> 
-        <w lemma="nutrico(2ème singulier subjonctif présent actif)|nutrix(nominatif pluriel)|nutrix(vocatif pluriel)|nutrix(accusatif pluriel)">nutrices</w>, 
-        <w lemma="nascor(accusatif féminin singulier participe futur actif)|no(accusatif féminin singulier participe futur actif)|natura(accusatif singulier)">naturam</w> 
-        <w lemma="qui(ablatif féminin singulier)|quis(ablatif féminin singulier)|qua(-)">qua</w> 
-        <w lemma="femina(génitif singulier)|femina(datif singulier)|femina(nominatif pluriel)|femina(vocatif pluriel)">feminae</w> 
-        <w lemma="sum(3ème pluriel indicatif présent actif)">sunt</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="virgo(datif pluriel)|virgo(ablatif pluriel)">virginibus</w> 
-        <w lemma="appello(3ème pluriel indicatif présent actif)|appello(3ème pluriel subjonctif présent actif)">appellant</w> 
-        <w ana="#cunnus #metaphore"  lemma="porcus(accusatif singulier)">porcum</w>, 
-        <w lemma="et(-)">et</w> 
-        <w lemma="Graecus(génitif féminin singulier)|Graecus(datif féminin singulier)|Graecus(nominatif féminin pluriel)|Graecus(vocatif féminin pluriel)|Graeca(locatif)|Graeca(génitif singulier)|Graeca(datif singulier)|Graeca(nominatif pluriel)|Graeca(vocatif pluriel)">Graecae</w> 
-        <w lemma="">choeron</w>, 
-        <w lemma="significo(nominatif masculin pluriel participe présent actif)|significo(vocatif masculin pluriel participe présent actif)|significo(accusatif masculin pluriel participe présent actif)|significo(nominatif féminin pluriel participe présent actif)|significo(vocatif féminin pluriel participe présent actif)|significo(accusatif féminin pluriel participe présent actif)|significor(nominatif masculin pluriel participe présent actif)|significor(vocatif masculin pluriel participe présent actif)|significor(accusatif masculin pluriel participe présent actif)|significor(nominatif féminin pluriel participe présent actif)|significor(vocatif féminin pluriel participe présent actif)|significor(accusatif féminin pluriel participe présent actif)|significans(nominatif masculin pluriel)|significans(vocatif masculin pluriel)|significans(accusatif masculin pluriel)|significans(nominatif féminin pluriel)|significans(vocatif féminin pluriel)|significans(accusatif féminin pluriel)">significantes</w> 
-        <w lemma="esse(infinitif présent actif)|sum(infinitif présent actif)">esse</w> 
-        <w lemma="dignus(accusatif masculin singulier)|dignus(nominatif neutre singulier)|dignus(vocatif neutre singulier)|dignus(accusatif neutre singulier)">dignum</w> 
-        <w lemma="insigne(nominatif singulier)|insigne(vocatif singulier)|insigne(accusatif singulier)|insignis(nominatif neutre singulier)|insignis(vocatif neutre singulier)|insignis(accusatif neutre singulier)">insigne</w> 
-        <w lemma="nuptiae(génitif pluriel)">nuptiarum</w>.    
+        <w lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="noster" pos="PROpos" msd="Case=Nom|Numb=Plur|Gend=Fem">nostrae</w>
+        <w lemma="mulier" pos="NOMcom" msd="Case=Nom|Numb=Plur">mulieres</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="magis2" pos="ADV" msd="Deg=Sup">maxime</w>
+        <w lemma="nutrix" pos="NOMcom" msd="Case=Nom|Numb=Plur">nutrices</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="natura" pos="NOMcom" msd="Case=Acc|Numb=Sing">naturam</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing">qua</w>
+        <w lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Plur">feminae</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="uirgo" pos="NOMcom" msd="Case=Abl|Numb=Plur">virginibus</w>
+        <w lemma="appello1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">appellant</w>
+        <w ana="#cunnus #metaphore" lemma="porcus" pos="NOMcom" msd="Case=Acc|Numb=Sing">porcum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="Graecus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">Graecae</w>
+        <w lemma="choeron" pos="NOMcom" msd="Case=Acc|Numb=Sing">choeron</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="significo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">significantes</w>
+        <w lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+        <w lemma="dignus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">dignum</w>
+        <w lemma="insigne" pos="NOMcom" msd="Case=Acc|Numb=Sing">insigne</w>
+        <w lemma="nuptiae" pos="NOMcom" msd="Case=Gen|Numb=Plur">nuptiarum</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

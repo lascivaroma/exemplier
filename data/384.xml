@@ -1,9 +1,10 @@
-<div type="fragment" corresp="adams:69"  ana="#male #testicle">
+<div type="fragment" corresp="adams:69" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0975.phi001.perseus-lat2:3.11.3">
-        <w lemma="damnum(nominatif singulier)|damnum(vocatif singulier)|damnum(accusatif singulier)">Damnum</w> 
-        <w lemma="insecto(nominatif masculin singulier participe parfait passif)|insector(nominatif masculin singulier participe parfait actif)|insectatus(nominatif masculin singulier)">insectatus</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
-        <w lemma="amitto(génitif masculin singulier participe parfait passif)|amitto(nominatif masculin pluriel participe parfait passif)|amitto(vocatif masculin pluriel participe parfait passif)|amitto(génitif neutre singulier participe parfait passif)|Amissis(datif singulier)|amissum(génitif singulier)|amissus(génitif masculin singulier)|amissus(nominatif masculin pluriel)|amissus(vocatif masculin pluriel)|amissus(génitif neutre singulier)">amissi</w> 
-        <w  ana="#male #testicules" lemma="corpus(génitif singulier)">corporis</w>.     
+        <w lemma="damnum" pos="NOMcom" msd="Case=Acc|Numb=Sing">Damnum</w>
+        <w lemma="insector2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">insectatus</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="amitto" pos="VER" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">amissi</w>
+        <w ana="#male #testicules" lemma="corpus" pos="NOMcom" msd="Case=Gen|Numb=Sing">corporis</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

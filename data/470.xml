@@ -1,13 +1,14 @@
 <div type="fragment" corresp="adams:85" ana="#fossa #female #cunnus #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:46.8-46.9">
-        <w lemma="eruca(génitif pluriel)">erucarum</w> 
-        <w lemma="opos(nominatif singulier)|opus(-)|opus(accusatif singulier)|opus(nominatif singulier)|opus(vocatif singulier)|Opus(nominatif singulier)|Opus(vocatif singulier)">opus</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
-        <w lemma="decem(-)">decem</w> 
-        <w lemma="maniplus(datif pluriel)|maniplus(ablatif pluriel)">maniplis</w>, 
-        <w  ana="#fossa" lemma="fodio(accusatif féminin pluriel participe parfait passif)|fossa(accusatif pluriel)|Fossa(accusatif pluriel)|fosso(2ème singulier indicatif présent actif)|fossus(accusatif féminin pluriel)">fossas</w> 
-        <w lemma="inguen(génitif singulier)|inguina(datif pluriel)|inguina(ablatif pluriel)">inguinis</w> 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="tero(1ère singulier indicatif futur actif)|tero(1ère singulier subjonctif présent actif)">teram</w>    
+        <w lemma="eruca" pos="NOMcom" msd="Case=Gen|Numb=Plur">erucarum</w>
+        <w lemma="opus2" pos="NOMcom" msd="Case=Ind">opus</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="decem" pos="ADJcar" msd="Case=Ind">decem</w>
+        <w lemma="manipulus" pos="NOMcom" msd="Case=Abl|Numb=Plur">maniplis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w ana="#fossa" lemma="fossa" pos="NOMcom" msd="Case=Acc|Numb=Plur">fossas</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Gen|Numb=Sing">inguinis</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="tero" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1">teram</w>
     </quote>
  </div>

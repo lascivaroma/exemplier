@@ -1,12 +1,13 @@
 <div type="fragment" corresp="adams:90" ana="#topographic #female #cunnus #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa010.opp-lat2:38">
-        <w  ana="#topographic" lemma="finis(accusatif pluriel)|finis(nominatif pluriel)|finis(vocatif pluriel)">fines</w> 
-        <w lemma="suus(accusatif masculin pluriel)|sui(accusatif pluriel)">suos</w> 
-        <w lemma="ad(-)">ad</w> 
-        <w lemma="instar(-)">instar</w> 
-        <w lemma="ficulnea(génitif singulier)|ficulnea(datif singulier)|ficulnea(nominatif pluriel)|ficulnea(vocatif pluriel)|ficulneus(génitif féminin singulier)|ficulneus(datif féminin singulier)|ficulneus(nominatif féminin pluriel)|ficulneus(vocatif féminin pluriel)">ficulneae</w> * 
-        <w lemma="contagio(génitif singulier)">contagionis</w> 
-        <w lemma="prurigo(ablatif singulier)">prurigine</w> 
-        <w lemma="accingo(3ème singulier indicatif présent actif)">accingit</w>     
+        <w ana="#topographic" lemma="finis" pos="NOMcom" msd="Case=Acc|Numb=Plur">fines</w>
+        <w lemma="suus" pos="PROpos.ref" msd="Case=Acc|Numb=Plur|Gend=Masc">suos</w>
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+        <w lemma="instar" pos="NOMcom" msd="Case=Ind">instar</w>
+        <w lemma="ficulneus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">ficulneae</w>
+        <w lemma="*" pos="PUNC" msd="MORPH=empty">*</w>
+        <w lemma="contagio" pos="NOMcom" msd="Case=Gen|Numb=Sing">contagionis</w>
+        <w lemma="prurigo" pos="NOMcom" msd="Case=Abl|Numb=Sing">prurigine</w>
+        <w lemma="accingo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">accingit</w>
     </quote>
  </div>

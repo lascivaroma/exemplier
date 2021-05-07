@@ -1,8 +1,11 @@
 <div type="fragment" corresp="adams:84" ana="#field #anus #male #homoeros">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.16.2-12.16.3">
-        <w lemma="pedica(accusatif pluriel)|pedico(2ème singulier indicatif présent actif)">Pedicas</w>, 
-        <w lemma="Labienus(vocatif singulier)">Labiene</w>, 
-        <w lemma="tres(nominatif masculin pluriel)|tres(vocatif masculin pluriel)|tres(accusatif masculin pluriel)|tres(nominatif féminin pluriel)|tres(vocatif féminin pluriel)|tres(accusatif féminin pluriel)|Tres(nominatif singulier)|tres(nominatif masculin singulier)|tres(vocatif masculin singulier)|tres(nominatif féminin singulier)|tres(vocatif féminin singulier)">tres</w> 
-        <w ana="#field #anus"  lemma="agellus(accusatif pluriel)">agellos</w>.     
+        <w lemma="pedica" pos="NOMpro" msd="Case=Acc|Numb=Sing">Pedicas</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="Labienus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Labiene</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="tres" pos="ADJcar" msd="Case=Acc|Numb=Plur|Gend=MascFem">tres</w>
+        <w ana="#field #anus" lemma="agellus" pos="NOMcom" msd="Case=Acc|Numb=Plur">agellos</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

@@ -1,15 +1,17 @@
-<div type="fragment" corresp="adams:76"  ana="#male #pubic_hair">
+<div type="fragment" corresp="adams:76" ana="#male #pubic_hair">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.369-6.370">
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="Ia(accusatif singulier)|jam(-)">iam</w> 
-        <w lemma="calda(nominatif singulier)|calda(vocatif singulier)|calda(ablatif singulier)|calidus(nominatif féminin singulier)|calidus(vocatif féminin singulier)|calidus(ablatif féminin singulier)|calidus(nominatif neutre pluriel)|calidus(vocatif neutre pluriel)|calidus(accusatif neutre pluriel)|calido(2ème singulier impératif présent actif)|calidum(nominatif pluriel)|calidum(vocatif pluriel)|calidum(accusatif pluriel)">calida</w> 
-        <w lemma="maturo(2ème singulier impératif présent actif)|maturus(nominatif féminin singulier)|maturus(vocatif féminin singulier)|maturus(ablatif féminin singulier)|maturus(nominatif neutre pluriel)|maturus(vocatif neutre pluriel)|maturus(accusatif neutre pluriel)|Matura(nominatif singulier)|Matura(vocatif singulier)|Matura(ablatif singulier)">matura</w> 
-        <w lemma="juventa(nominatif singulier)|juventa(vocatif singulier)|juventa(ablatif singulier)|Juventa(nominatif singulier)|Juventa(vocatif singulier)|Juventa(ablatif singulier)|Juventus(nominatif féminin singulier)|Juventus(vocatif féminin singulier)|Juventus(ablatif féminin singulier)|Juventus(nominatif neutre pluriel)|Juventus(vocatif neutre pluriel)|Juventus(accusatif neutre pluriel)|iuvento(2ème singulier impératif présent actif)">iuventa</w> 
-        <w lemma="inguen(nominatif pluriel)|inguen(vocatif pluriel)|inguen(accusatif pluriel)|inguina(nominatif singulier)|inguina(vocatif singulier)|inguina(ablatif singulier)">inguina</w> 
-        <w lemma="trado(3ème pluriel indicatif présent passif)">traduntur</w> 
-        <w lemma="medica(datif pluriel)|medica(ablatif pluriel)|Medicus(datif masculin pluriel)|Medicus(ablatif masculin pluriel)|Medicus(datif féminin pluriel)|Medicus(ablatif féminin pluriel)|Medicus(datif neutre pluriel)|Medicus(ablatif neutre pluriel)|medicus(datif masculin pluriel)|medicus(ablatif masculin pluriel)|medicus(datif féminin pluriel)|medicus(ablatif féminin pluriel)|medicus(datif neutre pluriel)|medicus(ablatif neutre pluriel)|medicus(datif pluriel)|medicus(ablatif pluriel)|Medica(datif pluriel)|Medica(ablatif pluriel)|medica(datif pluriel)|medica(ablatif pluriel)|medix(génitif singulier)">medicis</w>, 
-        <w lemma="Ia(accusatif singulier)|jam(-)">iam</w> 
-        <w   ana="#male #pubic_hair" lemma="pecten(ablatif singulier)|pecto(infinitif présent passif)">pectine</w> 
-        <w lemma="Niger(datif singulier)|Niger(ablatif singulier)|niger(datif masculin singulier)|niger(ablatif masculin singulier)|niger(datif neutre singulier)|niger(ablatif neutre singulier)|nigro(1ère singulier indicatif présent actif)|nigrum(datif singulier)|nigrum(ablatif singulier)">nigro</w>;    
+        <w lemma="quod2" pos="PROrel" msd="MORPH=empty">quod</w>
+        <w lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+        <w lemma="calidus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Fem|Deg=Pos">calida</w>
+        <w lemma="maturus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">matura</w>
+        <w lemma="iuuenta" pos="NOMcom" msd="Case=Abl|Numb=Sing">iuventa</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Nom|Numb=Plur">inguina</w>
+        <w lemma="trado" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">traduntur</w>
+        <w lemma="medicus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">medicis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="iam" pos="ADV" msd="Deg=Pos">iam</w>
+        <w ana="#male #pubic_hair" lemma="pecten" pos="NOMcom" msd="Case=Abl|Numb=Sing">pectine</w>
+        <w lemma="niger" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">nigro</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     </quote>
  </div>

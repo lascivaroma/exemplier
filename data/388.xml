@@ -1,10 +1,11 @@
-<div type="fragment" corresp="adams:69"  ana="#male #testicle">
+<div type="fragment" corresp="adams:69" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.3.3">
-        <w lemma="qui(nominatif masculin singulier)|qui(nominatif masculin pluriel)|quis(nominatif masculin pluriel)|queo(2ème singulier impératif présent actif)|queo(1ère singulier indicatif parfait actif)|qui(-)">Qui</w> 
-        <w lemma="Primus(nominatif singulier)|primus(nominatif masculin singulier)">primus</w> 
-        <w lemma="puer(datif pluriel)|puer(ablatif pluriel)|puerus(datif masculin pluriel)|puerus(ablatif masculin pluriel)|puerus(datif féminin pluriel)|puerus(ablatif féminin pluriel)|puerus(datif neutre pluriel)|puerus(ablatif neutre pluriel)|puera(datif pluriel)|puera(ablatif pluriel)">pueris</w> 
-        <w lemma="genitale(nominatif pluriel)|genitale(vocatif pluriel)|genitale(accusatif pluriel)|genitalis(nominatif neutre pluriel)|genitalis(vocatif neutre pluriel)|genitalis(accusatif neutre pluriel)"  ana="#male #testicules">genitalia</w> 
-        <w  ana="#male #testicules" lemma="membrum(nominatif pluriel)|membrum(vocatif pluriel)|membrum(accusatif pluriel)|membro(2ème singulier impératif présent actif)">membra</w> 
-        <w lemma="recido(3ème singulier indicatif parfait actif)|recido(3ème singulier indicatif présent actif)|recido(3ème singulier indicatif parfait actif)|recido(3ème singulier indicatif présent actif)">recidit</w>,    
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">Qui</w>
+        <w lemma="primus" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Sup">primus</w>
+        <w lemma="puer" pos="NOMcom" msd="Case=Dat|Numb=Plur">pueris</w>
+        <w ana="#male #testicules" lemma="genitalis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut">genitalia</w>
+        <w ana="#male #testicules" lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
+        <w lemma="recido2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">recidit</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

@@ -1,12 +1,14 @@
 <div type="fragment" corresp="adams:95" ana=" #female #cunnus #euphemism #specialisation">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:66.3-66.4">
-        <w lemma="Nisus(génitif singulier)|Nisus(nominatif pluriel)|Nisus(vocatif pluriel)|nisus(génitif singulier)|nisus(nominatif pluriel)|nisus(vocatif pluriel)|nisus(génitif masculin singulier)|nisus(nominatif masculin pluriel)|nisus(vocatif masculin pluriel)|nisus(génitif neutre singulier)|nisi(-)">nisi</w> 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="timeo(2ème singulier indicatif présent actif)|Time(génitif singulier)">times</w> 
-        <w lemma="uideo(infinitif présent passif)|videor(infinitif présent actif)">uideri</w>, 
-        <w lemma="intro(2ème singulier impératif présent actif)|intra(-)">intra</w> 
-        <w ana="#euphemism #specialisation #composite"  lemma="viscus(nominatif pluriel)|viscus(vocatif pluriel)|viscus(accusatif pluriel)|viscera(nominatif pluriel)|viscera(vocatif pluriel)|viscera(accusatif pluriel)|viscera(accusatif singulier)|viscera(nominatif singulier)|viscera(vocatif singulier)">uiscera</w> 
-        <w lemma="habeo(infinitif présent actif)|habeo(2ème singulier indicatif présent passif)|habeo(2ème singulier impératif présent passif)">habere</w> 
-        <w lemma="concupisco(2ème singulier indicatif présent actif)">concupiscis</w>.    
+        <w lemma="nisi" pos="CONsub" msd="MORPH=empty">nisi</w>
+        <w lemma="qui1" pos="CONsub" msd="Case=Acc|Numb=Sing|Gend=Neut">quod</w>
+        <w lemma="timeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">times</w>
+        <w lemma="uideo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">uideri</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="intra2" pos="PRE" msd="MORPH=empty">intra</w>
+        <w ana="#euphemism #specialisation #composite" lemma="uiscus2" pos="NOMcom" msd="Case=Acc|Numb=Plur">uiscera</w>
+        <w lemma="habeo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">habere</w>
+        <w lemma="concupisco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">concupiscis</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

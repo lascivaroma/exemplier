@@ -1,17 +1,19 @@
 <div type="fragment" corresp="adams:90" ana="#topographic #female #cunnus #metaphore">
     <quote xml:lang="lat" source="AnthLati:382.2">
-        <w lemma="post(-)|po(-)">post</w> 
-        <w lemma="mille(nominatif singulier)|mille(vocatif singulier)|mille(accusatif singulier)|millus(vocatif singulier)">mille</w> 
-        <w lemma="complector(nominatif masculin singulier participe parfait actif)|complexus(nominatif singulier)|complexus(vocatif singulier)|complexus(génitif singulier)|complexus(nominatif pluriel)|complexus(vocatif pluriel)|complexus(accusatif pluriel)|complexus(nominatif masculin singulier)">complexus</w>, 
-        <w lemma="post(-)|po(-)">post</w> 
-        <w lemma="dulcis(nominatif neutre pluriel)|dulcis(vocatif neutre pluriel)|dulcis(accusatif neutre pluriel)|dulcia(nominatif pluriel)|dulcia(vocatif pluriel)|dulcia(accusatif pluriel)|dulcium(nominatif pluriel)|dulcium(vocatif pluriel)|dulcium(accusatif pluriel)">dulcia</w> 
-        <w lemma="savium(nominatif pluriel)|savium(vocatif pluriel)|savium(accusatif pluriel)|sauio(2ème singulier impératif présent actif)">sauia</w>
-
-        <w lemma="penis(accusatif singulier)">penem</w> / 
-        <w ana="#topographic #composite"  lemma="confinium(datif pluriel)|confinium(ablatif pluriel)|confinius(datif masculin pluriel)|confinius(ablatif masculin pluriel)|confinius(datif féminin pluriel)|confinius(ablatif féminin pluriel)|confinius(datif neutre pluriel)|confinius(ablatif neutre pluriel)">confiniis</w> 
-        <w ana="#topographic #composite"  lemma="later(génitif pluriel)|latus(génitif pluriel)">laterum</w> 
-        <w lemma="retorqueo(supin en -um)|retorqueo(accusatif masculin singulier participe parfait passif)|retorqueo(nominatif neutre singulier participe parfait passif)|retorqueo(vocatif neutre singulier participe parfait passif)|retorqueo(accusatif neutre singulier participe parfait passif)|retortus(accusatif masculin singulier)|retortus(nominatif neutre singulier)|retortus(vocatif neutre singulier)|retortus(accusatif neutre singulier)">retortum</w> 
-        <w lemma="suscipio(2ème singulier impératif présent actif)">suscipe</w>, 
-        <w lemma="posco(1ère singulier indicatif présent actif)">posco</w>    
+        <w lemma="post2" pos="PRE" msd="MORPH=empty">post</w>
+        <w lemma="mille" pos="ADJcar" msd="Case=Ind">mille</w>
+        <w lemma="complector" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Dep">complexus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="post2" pos="PRE" msd="MORPH=empty">post</w>
+        <w lemma="dulcis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">dulcia</w>
+        <w lemma="sauium" pos="NOMcom" msd="Case=Acc|Numb=Plur">sauia</w>
+        <w lemma="penis" pos="NOMcom" msd="Case=Acc|Numb=Sing">penem</w>
+        <w lemma="/" pos="PUNC" msd="MORPH=empty">/</w>
+        <w ana="#topographic #composite" lemma="confinium" pos="NOMcom" msd="Case=Abl|Numb=Plur">confiniis</w>
+        <w ana="#topographic #composite" lemma="latus1" pos="NOMcom" msd="Case=Gen|Numb=Plur">laterum</w>
+        <w lemma="retorqueo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">retortum</w>
+        <w lemma="suscipio" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">suscipe</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="posco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">posco</w>
     </quote>
  </div>

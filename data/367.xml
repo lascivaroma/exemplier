@@ -1,22 +1,22 @@
-<div type="fragment" corresp="adams:67"  ana="#male #testicle">
+<div type="fragment" corresp="adams:67" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:7.24">
-        <w lemma="polimen(nominatif pluriel)|polimen(vocatif pluriel)|polimen(accusatif pluriel)|polimina(nominatif pluriel)|polimina(vocatif pluriel)|polimina(accusatif pluriel)|polimina(accusatif singulier)|polimina(nominatif singulier)|polimina(vocatif singulier)">polimina</w> 
-        <w lemma="porrum(datif singulier)|porrum(ablatif singulier)|porrus(datif singulier)|porrus(ablatif singulier)|porro(-)">porro</w> 
-        <w lemma="sum(3ème pluriel indicatif présent actif)">sunt</w> 
-        <w lemma="is(nominatif féminin singulier)|is(ablatif féminin singulier)|is(nominatif neutre pluriel)|is(accusatif neutre pluriel)|Eus(nominatif féminin singulier)|Eus(vocatif féminin singulier)|Eus(ablatif féminin singulier)|Eus(nominatif neutre pluriel)|Eus(vocatif neutre pluriel)|Eus(accusatif neutre pluriel)|ea(-)">ea</w> 
-        <w lemma="qui(nominatif féminin singulier)|qui(nominatif féminin pluriel)|qui(nominatif neutre pluriel)|qui(accusatif neutre pluriel)|quis(nominatif féminin singulier)|quis(nominatif féminin pluriel)|quis(nominatif neutre pluriel)|quis(accusatif neutre pluriel)">quae</w> 
-        <w lemma="nos(nominatif masculin pluriel)|nos(accusatif masculin pluriel)|nos(nominatif féminin pluriel)|nos(accusatif féminin pluriel)">nos</w> 
-        <w lemma="proles(accusatif pluriel)|proles(nominatif pluriel)|proles(vocatif pluriel)|proles(nominatif singulier)|proles(vocatif singulier)">proles</w>
-            
-        <w lemma="verecunde(comparatif)|verecundus(nominatif neutre singulier comparatif)|verecundus(vocatif neutre singulier comparatif)|verecundus(accusatif neutre singulier comparatif)">uerecundius</w> 
-        <w lemma="dico(1ère pluriel indicatif présent actif)">dicimus</w>, 
-        <w lemma="a(-)|a(-)|a(-)">a</w> 
-        <w lemma="vulgaris(datif masculin pluriel)|vulgaris(ablatif masculin pluriel)|vulgaris(datif féminin pluriel)|vulgaris(ablatif féminin pluriel)|vulgaris(datif neutre pluriel)|vulgaris(ablatif neutre pluriel)">uolgaribus</w> 
-        <w lemma="autem(-)">autem</w> 
-        <w lemma="adsoleo(3ème pluriel indicatif présent actif)|assolo(3ème pluriel subjonctif présent actif)">adsolent</w> 
-        <w lemma="cognomen(ablatif singulier)|cognominis(nominatif neutre singulier)|cognominis(vocatif neutre singulier)|cognominis(accusatif neutre singulier)">cognomine</w> 
-        <w   ana="#male #testicules" lemma="testis(génitif pluriel)|testis(génitif pluriel)">testium</w> 
-            
-        <w lemma="nuncupo(infinitif présent passif)">nuncupari</w>.     
+        <w lemma="polimen" pos="NOMcom" msd="Case=Nom|Numb=Plur">polimina</w>
+        <w lemma="porro" pos="ADV" msd="Deg=Pos">porro</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+        <w lemma="is" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Neut">ea</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Acc|Numb=Plur|Gend=Neut">quae</w>
+        <w lemma="nos" pos="PROper" msd="Case=Nom|Numb=Plur">nos</w>
+        <w lemma="proles" pos="NOMcom" msd="Case=Nom|Numb=Sing">proles</w>
+        <w lemma="uerecunde" pos="ADV" msd="Deg=Comp">uerecundius</w>
+        <w lemma="dico2" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1">dicimus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+        <w lemma="uulgaris" pos="ADJqua" msd="Case=Abl|Numb=Plur">uolgaribus</w>
+        <w lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+        <w lemma="assoleo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">adsolent</w>
+        <w lemma="cognomen" pos="NOMcom" msd="Case=Abl|Numb=Sing">cognomine</w>
+        <w ana="#male #testicules" lemma="testis1" pos="NOMcom" msd="Case=Gen|Numb=Plur">testium</w>
+        <w lemma="nuncupo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">nuncupari</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

@@ -1,15 +1,17 @@
 <div type="fragment" corresp="adams:89" ana="#containers #female #cunnus #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:11.37">
-        <w lemma="femen(génitif singulier)|femina(datif pluriel)|femina(ablatif pluriel)">Feminis</w> 
-        <w lemma="idem(nominatif féminin singulier)|idem(ablatif féminin singulier)|idem(nominatif neutre pluriel)|idem(accusatif neutre pluriel)|eadem(-)">eadem</w>  
-        <w lemma="omne(nominatif pluriel)|omne(vocatif pluriel)|omne(accusatif pluriel)|omnis(nominatif neutre pluriel)|omnis(vocatif neutre pluriel)|omnis(accusatif neutre pluriel)|omnia(nominatif pluriel)|omnia(vocatif pluriel)|omnia(accusatif pluriel)|omnia(positif)">omnia</w> 
-        <w lemma="praeter(-)">praeterque</w>  
-        <w lemma="uesica(génitif singulier)|uesica(datif singulier)|uesica(nominatif pluriel)|uesica(vocatif pluriel)">vesicae</w>  
-        <w lemma="junctus(nominatif masculin singulier)|jungo(nominatif masculin singulier participe parfait passif)|junctus(nominatif singulier)|junctus(vocatif singulier)|junctus(génitif singulier)|junctus(nominatif pluriel)|junctus(vocatif pluriel)|junctus(accusatif pluriel)">iunctus</w>
-
-        <w  ana="#containers" lemma="utriculus(nominatif singulier)|utriculus(nominatif singulier)">utriculus</w>, 
-        <w lemma="unde(-)">unde</w> 
-        <w lemma="dico(nominatif masculin singulier participe parfait passif)|dictus(nominatif masculin singulier)|dictus(nominatif singulier)|dictus(vocatif singulier)|dictus(génitif singulier)|dictus(nominatif pluriel)|dictus(vocatif pluriel)|dictus(accusatif pluriel)">dictus</w> 
-        <w lemma="uterus(nominatif singulier)">uterus</w>.     
+        <w lemma="femina" pos="NOMcom" msd="Case=Dat|Numb=Plur">Feminis</w>
+        <w lemma="idem" pos="PROdem" msd="Case=Acc|Numb=Plur|Gend=Neut">eadem</w>
+        <w lemma="omnis" pos="PROind" msd="Case=Nom|Numb=Plur|Gend=Neut">omnia</w>
+        <w lemma="praeter" pos="PRE" msd="MORPH=empty">praeterque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{praeterque}</w>
+        <w lemma="uesica" pos="NOMcom" msd="Case=Dat|Numb=Sing">vesicae</w>
+        <w lemma="iungo" pos="VER" msd="Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">iunctus</w>
+        <w ana="#containers" lemma="utriculus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">utriculus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="unde1" pos="ADVrel" msd="MORPH=empty">unde</w>
+        <w lemma="dico2" pos="VER" msd="Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">dictus</w>
+        <w lemma="uterus" pos="ADJcar" msd="Case=Nom|Numb=Sing">uterus</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

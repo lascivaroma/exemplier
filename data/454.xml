@@ -1,21 +1,21 @@
 <div type="fragment" corresp="adams:84" ana="#field #female #cunnus #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0275.stoa010.opp-lat2:27">
-        <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiam</w> 
-        <w lemma="unio(nominatif féminin singulier participe parfait passif)|unio(vocatif féminin singulier participe parfait passif)|unio(ablatif féminin singulier participe parfait passif)|unio(nominatif neutre pluriel participe parfait passif)|unio(vocatif neutre pluriel participe parfait passif)|unio(accusatif neutre pluriel participe parfait passif)|unitus(nominatif féminin singulier)|unitus(vocatif féminin singulier)|unitus(ablatif féminin singulier)|unitus(nominatif neutre pluriel)|unitus(vocatif neutre pluriel)|unitus(accusatif neutre pluriel)">unita</w> 
-        <w lemma="pariter(positif)|parito(1ère singulier subjonctif présent passif)">pariter</w> 
-        <w lemma="effluo(3ème pluriel subjonctif présent actif)">effluant</w> 
-        <w lemma="pariter(positif)|parito(1ère singulier subjonctif présent passif)">pariterque</w> 
-        <w lemma="insinuo(nominatif féminin singulier participe parfait passif)|insinuo(vocatif féminin singulier participe parfait passif)|insinuo(ablatif féminin singulier participe parfait passif)|insinuo(nominatif neutre pluriel participe parfait passif)|insinuo(vocatif neutre pluriel participe parfait passif)|insinuo(accusatif neutre pluriel participe parfait passif)|insinuatus(nominatif féminin singulier)|insinuatus(vocatif féminin singulier)|insinuatus(ablatif féminin singulier)|insinuatus(nominatif neutre pluriel)|insinuatus(vocatif neutre pluriel)|insinuatus(accusatif neutre pluriel)">insinuata</w> 
-        <w lemma="sulco(1ère singulier indicatif présent actif)|sulcus(datif singulier)|sulcus(ablatif singulier)|sulcus(datif masculin singulier)|sulcus(ablatif masculin singulier)|sulcus(datif neutre singulier)|sulcus(ablatif neutre singulier)" ana="#field" >sulco</w> 
-        <w lemma="et(-)">et</w> 
-        <w ana="#field"  lemma="arvum(datif singulier)|arvum(ablatif singulier)|arvus(datif masculin singulier)|arvus(ablatif masculin singulier)|arvus(datif neutre singulier)|arvus(ablatif neutre singulier)">aruo</w> 
-            
-        <w lemma="suo(1ère singulier indicatif présent actif)|suum(datif singulier)|suum(ablatif singulier)|suus(datif masculin singulier)|suus(ablatif masculin singulier)|suus(datif neutre singulier)|suus(ablatif neutre singulier)">suo</w> 
-        <w lemma="pariter(positif)|parito(1ère singulier subjonctif présent passif)">pariter</w> 
-        <w lemma="homo(accusatif singulier)">hominem</w> 
-        <w lemma="ex(-)">ex</w> 
-        <w lemma="uterque(nominatif féminin singulier)|uterque(vocatif féminin singulier)|uterque(ablatif féminin singulier)|uterque(nominatif neutre pluriel)|uterque(vocatif neutre pluriel)|uterque(accusatif neutre pluriel)|utraque(-)|uter(nominatif féminin singulier)|uter(vocatif féminin singulier)|uter(ablatif féminin singulier)|uter(nominatif neutre pluriel)|uter(vocatif neutre pluriel)|uter(accusatif neutre pluriel)">utraque</w> 
-        <w lemma="substo(nominatif neutre pluriel participe présent actif)|substo(vocatif neutre pluriel participe présent actif)|substo(accusatif neutre pluriel participe présent actif)|substantia(nominatif singulier)|substantia(vocatif singulier)|substantia(ablatif singulier)">substantia</w> 
-        <w lemma="effrutico(3ème pluriel subjonctif présent actif)">effruticent</w>    
+        <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+        <w lemma="unitus" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut">unita</w>
+        <w lemma="pariter" pos="ADV" msd="Deg=Pos">pariter</w>
+        <w lemma="effluo" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">effluant</w>
+        <w lemma="pariter" pos="ADV" msd="Deg=Pos">pariterque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{pariterque}</w>
+        <w lemma="insinuo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">insinuata</w>
+        <w ana="#field" lemma="sulcus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sulco</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w ana="#field" lemma="aruum" pos="NOMcom" msd="Case=Abl|Numb=Sing">aruo</w>
+        <w lemma="suus" pos="PROpos.ref" msd="Case=Abl|Numb=Sing|Gend=MascNeut">suo</w>
+        <w lemma="pariter" pos="ADV" msd="Deg=Pos">pariter</w>
+        <w lemma="homo" pos="NOMcom" msd="Case=Acc|Numb=Sing">hominem</w>
+        <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+        <w lemma="uterque" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">utraque</w>
+        <w lemma="substantia" pos="VER" msd="Case=Abl|Numb=Sing">substantia</w>
+        <w lemma="effrutico" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3">effruticent</w>
     </quote>
  </div>

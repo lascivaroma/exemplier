@@ -1,11 +1,10 @@
 <div type="fragment" corresp="adams:89" ana="#doors #female #cunnus #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:115">
-        <w lemma="huc(-)">huc</w> 
-        <w lemma="iuuenis(génitif masculin singulier)|iuuenis(accusatif masculin pluriel)|iuuenis(génitif féminin singulier)|iuuenis(accusatif féminin pluriel)|iuuenis(génitif neutre singulier)|juvenis(génitif singulier)|iuuenis(nominatif masculin singulier)|iuuenis(vocatif masculin singulier)|iuuenis(nominatif féminin singulier)|iuuenis(vocatif féminin singulier)|juvenis(nominatif singulier)|juvenis(vocatif singulier)">iuvenis</w> 
-        <w lemma="nosco(nominatif féminin singulier participe parfait passif)|nosco(vocatif féminin singulier participe parfait passif)|nosco(ablatif féminin singulier participe parfait passif)|nosco(nominatif neutre pluriel participe parfait passif)|nosco(vocatif neutre pluriel participe parfait passif)|nosco(accusatif neutre pluriel participe parfait passif)|nota(nominatif singulier)|nota(vocatif singulier)|nota(ablatif singulier)|noto(2ème singulier impératif présent actif)|notus(nominatif féminin singulier)|notus(vocatif féminin singulier)|notus(ablatif féminin singulier)|notus(nominatif neutre pluriel)|notus(vocatif neutre pluriel)|notus(accusatif neutre pluriel)">nota</w> 
-        <w lemma="fero(3ème singulier indicatif présent passif)">fertur</w> 
-        <w lemma="regio(ablatif singulier)|regius(datif masculin singulier)|regius(ablatif masculin singulier)|regius(datif neutre singulier)|regius(ablatif neutre singulier)|Region(datif singulier)|Region(ablatif singulier)|Regium(datif singulier)|Regium(ablatif singulier)|regio(nominatif singulier)|regio(vocatif singulier)">regione</w> 
-        <w ana="#doors"  lemma="uia(génitif pluriel)">viarum</w>  
-                        
+        <w lemma="huc" pos="ADV" msd="Deg=Pos">huc</w>
+        <w lemma="iuuenis1" pos="NOMcom" msd="Case=Nom|Numb=Sing">iuvenis</w>
+        <w lemma="notus2" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">nota</w>
+        <w lemma="fero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">fertur</w>
+        <w lemma="regio" pos="NOMcom" msd="Case=Abl|Numb=Sing">regione</w>
+        <w ana="#doors" lemma="uia" pos="NOMcom" msd="Case=Gen|Numb=Plur">viarum</w>
     </quote>
  </div>

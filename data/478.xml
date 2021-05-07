@@ -1,16 +1,19 @@
 <div type="fragment" corresp="adams:87" ana="#household #female #cunnus #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:2.7">
-        <w lemma="qui(accusatif féminin singulier)|quis(accusatif féminin singulier)|quam(-)|quam(-)">Quam</w> 
-        <w lemma="pulchre(positif)">pulchre</w> 
-        <w lemma="quisque(accusatif féminin singulier)|qui(accusatif féminin singulier)|quis(accusatif féminin singulier)|quam(-)|quam(-)">quamque</w> 
-        <w lemma="festive(positif)|festivus(vocatif masculin singulier)|festum(génitif singulier)|Festus(génitif singulier)|Festus(nominatif pluriel)|Festus(vocatif pluriel)|festus(génitif masculin singulier)|festus(nominatif masculin pluriel)|festus(vocatif masculin pluriel)|festus(génitif neutre singulier)">festive</w>  
-        <w lemma="inquam(-)">inquam</w> 
-        <w lemma="foueo(datif masculin pluriel participe parfait passif)|foueo(ablatif masculin pluriel participe parfait passif)|foueo(datif féminin pluriel participe parfait passif)|foueo(ablatif féminin pluriel participe parfait passif)|foueo(datif neutre pluriel participe parfait passif)|foueo(ablatif neutre pluriel participe parfait passif)|fotus(datif masculin pluriel)|fotus(ablatif masculin pluriel)|fotus(datif féminin pluriel)|fotus(ablatif féminin pluriel)|fotus(datif neutre pluriel)|fotus(ablatif neutre pluriel)">Fotis</w> 
-        <w lemma="meo(2ème singulier impératif présent actif)|meum(nominatif pluriel)|meum(vocatif pluriel)|meum(accusatif pluriel)|meus(nominatif féminin singulier)|meus(vocatif féminin singulier)|meus(ablatif féminin singulier)|meus(nominatif neutre pluriel)|meus(vocatif neutre pluriel)|meus(accusatif neutre pluriel)|Meum(nominatif pluriel)|Meum(vocatif pluriel)|Meum(accusatif pluriel)|meum(nominatif pluriel)|meum(vocatif pluriel)|meum(accusatif pluriel)">mea</w>, 
-        <w  ana="#household" lemma="ollula(accusatif singulier)">ollulam</w> 
-        <w lemma="iste(accusatif féminin singulier)">istam</w> 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="nates(datif pluriel)|nates(ablatif pluriel)|natis(datif pluriel)|natis(ablatif pluriel)|natus(datif pluriel)|natus(ablatif pluriel)">natibus</w> 
-        <w lemma="intorqueo(2ème singulier indicatif présent actif)">intorques</w>!    
+        <w lemma="quam2" pos="ADVint" msd="MORPH=empty">Quam</w>
+        <w lemma="pulchre" pos="ADV" msd="Deg=Pos">pulchre</w>
+        <w lemma="quam" pos="ADVint" msd="Case=Acc">quamque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{quamque}</w>
+        <w lemma="festiue" pos="ADJqua" msd="Deg=Pos">festive</w>
+        <w lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1">inquam</w>
+        <w lemma="foueo" pos="NOMcom" msd="Case=Abl|Numb=Sing">Fotis</w>
+        <w lemma="meus" pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem">mea</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w ana="#household" lemma="ollula" pos="NOMcom" msd="Case=Acc|Numb=Sing">ollulam</w>
+        <w lemma="iste" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem">istam</w>
+        <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+        <w lemma="natus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">natibus</w>
+        <w lemma="intorqueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">intorques</w>
+        <w lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
     </quote>
  </div>

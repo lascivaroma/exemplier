@@ -1,11 +1,12 @@
-<div type="fragment" corresp="adams:62"  ana="#male #res">
+<div type="fragment" corresp="adams:62" ana="#male #res">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.43.11">
-        <w lemma="parce(positif)|parco(2ème singulier impératif présent actif)|parcus(vocatif masculin singulier)">Parce</w> 
-        <w lemma="tuus(datif masculin pluriel)|tuus(ablatif masculin pluriel)|tuus(datif féminin pluriel)|tuus(ablatif féminin pluriel)|tuus(datif neutre pluriel)|tuus(ablatif neutre pluriel)|tui(datif pluriel)|tui(ablatif pluriel)">tuis</w> 
-        <w lemma="igitur(-)">igitur</w> 
-        <w lemma="do(infinitif présent actif)|do(2ème singulier impératif présent passif)|do(infinitif présent actif)|do(2ème singulier indicatif présent passif)|do(2ème singulier impératif présent passif)">dare</w> 
-        <w lemma="masculus(nominatif féminin singulier)|masculus(vocatif féminin singulier)|masculus(ablatif féminin singulier)|masculus(nominatif neutre pluriel)|masculus(vocatif neutre pluriel)|masculus(accusatif neutre pluriel)|Mascula(nominatif singulier)|Mascula(vocatif singulier)|Mascula(ablatif singulier)">mascula</w> 
-        <w lemma="nomen(nominatif pluriel)|nomen(vocatif pluriel)|nomen(accusatif pluriel)|nomino(2ème singulier impératif présent actif)|nomina(nominatif pluriel)|nomina(vocatif pluriel)|nomina(accusatif pluriel)">nomina</w> 
-        <w lemma="res(datif pluriel)|res(ablatif pluriel)"  ana="#male #culus">rebus</w>,     
+        <w lemma="parco" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">Parce</w>
+        <w lemma="tuus" pos="PROpos" msd="Case=Dat|Numb=Plur|Gend=Com">tuis</w>
+        <w lemma="igitur" pos="CONcoo" msd="MORPH=empty">igitur</w>
+        <w lemma="do" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">dare</w>
+        <w lemma="masculus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">mascula</w>
+        <w lemma="nomen" pos="NOMcom" msd="Case=Acc|Numb=Plur">nomina</w>
+        <w ana="#male #culus" lemma="res" pos="NOMcom" msd="Case=Dat|Numb=Plur">rebus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

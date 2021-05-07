@@ -1,9 +1,10 @@
-<div type="fragment" corresp="adams:72"  ana="#male #glans">
+<div type="fragment" corresp="adams:72" ana="#male #glans">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:12.75.3">
-        <w lemma="pasco(accusatif féminin pluriel participe parfait passif)|pascor(accusatif féminin pluriel participe parfait actif)|pasta(accusatif pluriel)|pastus(accusatif féminin pluriel)">Pastas</w> 
-        <w  ana="#male #glans"  lemma="glans(ablatif singulier)">glande</w> 
-        <w lemma="no(2ème pluriel indicatif présent actif)|nascor(datif masculin pluriel participe parfait actif)|nascor(ablatif masculin pluriel participe parfait actif)|nascor(datif féminin pluriel participe parfait actif)|nascor(ablatif féminin pluriel participe parfait actif)|nascor(datif neutre pluriel participe parfait actif)|nascor(ablatif neutre pluriel participe parfait actif)|nata(datif pluriel)|nata(ablatif pluriel)|nates(accusatif pluriel)|natis(accusatif pluriel)|natis(génitif singulier)|natus(datif masculin pluriel)|natus(ablatif masculin pluriel)|natus(datif féminin pluriel)|natus(ablatif féminin pluriel)|natus(datif neutre pluriel)|natus(ablatif neutre pluriel)|natus(datif pluriel)|natus(ablatif pluriel)|no(datif masculin pluriel participe parfait passif)|no(ablatif masculin pluriel participe parfait passif)|no(datif féminin pluriel participe parfait passif)|no(ablatif féminin pluriel participe parfait passif)|no(datif neutre pluriel participe parfait passif)|no(ablatif neutre pluriel participe parfait passif)|natis(nominatif singulier)|natis(vocatif singulier)">natis</w> 
-        <w lemma="habeo(3ème singulier indicatif présent actif)">habet</w> 
-        <w lemma="Secundus(nominatif singulier)|secundus(nominatif masculin singulier)">Secundus</w>;     
+        <w lemma="pasco" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">Pastas</w>
+        <w ana="#male #glans" lemma="glans" pos="NOMcom" msd="Case=Abl|Numb=Sing">glande</w>
+        <w lemma="natus1" pos="NOMcom" msd="Case=Dat|Numb=Plur">natis</w>
+        <w lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">habet</w>
+        <w lemma="secundus1" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos">Secundus</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     </quote>
  </div>

@@ -1,15 +1,19 @@
-<div type="fragment" corresp="adams:73"  ana="#male #glans">
+<div type="fragment" corresp="adams:73" ana="#male #glans">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:7.25">
-        <w lemma="eo(1ère singulier indicatif présent actif)|is(ablatif masculin singulier)|is(ablatif neutre singulier)|Eus(datif singulier)|Eus(ablatif singulier)|Eus(datif masculin singulier)|Eus(ablatif masculin singulier)|Eus(datif neutre singulier)|Eus(ablatif neutre singulier)|eo(-)">Eo</w> 
-        <w lemma="factum(datif singulier)|factum(ablatif singulier)|fio(datif masculin singulier participe parfait passif)|fio(ablatif masculin singulier participe parfait passif)|fio(datif neutre singulier participe parfait passif)|fio(ablatif neutre singulier participe parfait passif)|facto(1ère singulier indicatif présent actif)|factus(datif masculin singulier)|factus(ablatif masculin singulier)|factus(datif neutre singulier)|factus(ablatif neutre singulier)">facto</w>, 
-        <w lemma="cutis(accusatif pluriel)|cutis(génitif singulier)|Cutis(accusatif pluriel)|Cutis(génitif singulier)|cutio(2ème singulier indicatif présent actif)|Cutiae(datif pluriel)|Cutiae(ablatif pluriel)|cutis(nominatif singulier)|cutis(vocatif singulier)|Cutis(nominatif singulier)|Cutis(vocatif singulier)">cutis</w> 
-        <w lemma="ad(-)">ad</w> 
-        <w lemma="vinculum(nominatif singulier)|vinculum(vocatif singulier)|vinculum(accusatif singulier)">vinculum</w> 
-        <w lemma="inclino(3ème singulier indicatif présent passif)">inclinatur</w>, 
-        <w lemma="nudo(3ème singulier indicatif présent passif)">nudaturque</w> 
-        <w lemma="Circa(nominatif singulier)|Circa(vocatif singulier)|Circa(ablatif singulier)|circo(2ème singulier impératif présent actif)|circa(-)">circa</w> 
-        <w lemma="pubes(accusatif singulier)|pubis(accusatif singulier)">pubem</w> 
-        <w lemma="uelut(-)">velut</w> 
-        <w   ana="#male #glans" lemma="circulus(nominatif singulier)">circulus</w>;    
+        <w lemma="eo3" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">Eo</w>
+        <w lemma="factum" pos="VER" msd="Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass">facto</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="cutis" pos="NOMcom" msd="Case=Nom|Numb=Sing">cutis</w>
+        <w lemma="ad2" pos="PRE" msd="MORPH=empty">ad</w>
+        <w lemma="uinculum" pos="NOMcom" msd="Case=Acc|Numb=Sing">vinculum</w>
+        <w lemma="inclino" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">inclinatur</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="nudo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">nudaturque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{nudaturque}</w>
+        <w lemma="circa2" pos="PRE" msd="MORPH=empty">circa</w>
+        <w lemma="pubes1" pos="NOMcom" msd="Case=Acc|Numb=Sing">pubem</w>
+        <w lemma="uelut1" pos="ADVrel" msd="MORPH=empty">velut</w>
+        <w ana="#male #glans" lemma="circulus" pos="NOMcom" msd="Case=Nom|Numb=Sing">circulus</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     </quote>
  </div>

@@ -1,16 +1,21 @@
 <div type="fragment" corresp="adams:92" ana="#excitation #female">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:11.16.7-11.16.8">
-        <w lemma="tu(nominatif masculin singulier)|tu(nominatif féminin singulier)">Tu</w> 
-        <w lemma="quisque(ablatif masculin singulier)|quisque(ablatif neutre singulier)|quoquo(2ème singulier impératif présent actif)|quoque(-)|qui(ablatif masculin singulier)|qui(ablatif neutre singulier)|quis(ablatif masculin singulier)|quis(ablatif neutre singulier)|quo(-)">quoque</w> 
-        <w lemma="nequitia(accusatif pluriel)">nequitias</w> 
-        <w lemma="noster(génitif masculin singulier)|noster(nominatif masculin pluriel)|noster(vocatif masculin pluriel)|noster(génitif neutre singulier)">nostri</w> 
-        <w lemma="ludo(nominatif masculin singulier participe parfait passif)|lusus(nominatif singulier)|lusus(vocatif singulier)|lusus(génitif singulier)|lusus(nominatif pluriel)|lusus(vocatif pluriel)|lusus(accusatif pluriel)|Lusus(nominatif singulier)|lusus(nominatif masculin singulier)">lususque</w> 
-        <w lemma="libellum(génitif singulier)|libellus(génitif singulier)|libellus(nominatif pluriel)|libellus(vocatif pluriel)">libelli</w>  
-        <w  ana="#excitation" lemma="udus(nominatif féminin singulier)|udus(vocatif féminin singulier)|udus(ablatif féminin singulier)|udus(nominatif neutre pluriel)|udus(vocatif neutre pluriel)|udus(accusatif neutre pluriel)|udo(2ème singulier impératif présent actif)">Uda</w>, 
-        <w lemma="puella(nominatif singulier)|puella(vocatif singulier)|puella(ablatif singulier)">puella</w>, 
-        <w lemma="lego(2ème singulier subjonctif présent actif)|lego(2ème singulier indicatif futur actif)|lex(nominatif pluriel)|lex(vocatif pluriel)|lex(accusatif pluriel)">leges</w>, 
-        <w lemma="sum(2ème singulier subjonctif présent actif)|sion(datif pluriel)|sion(ablatif pluriel)|sis(positif)">sis</w> 
-        <w lemma="Patauinus(nominatif féminin singulier)|Patauinus(vocatif féminin singulier)|Patauinus(ablatif féminin singulier)|Patauinus(nominatif neutre pluriel)|Patauinus(vocatif neutre pluriel)|Patauinus(accusatif neutre pluriel)">Patavina</w> 
-        <w lemma="liceo(3ème singulier indicatif présent actif)|licet(3ème singulier indicatif présent actif)|licet(-)">licet</w>.     
+        <w lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">Tu</w>
+        <w lemma="quoque" pos="ADV" msd="Deg=Pos">quoque</w>
+        <w lemma="nequitia" pos="NOMcom" msd="Case=Acc|Numb=Plur">nequitias</w>
+        <w lemma="noster" pos="PROpos" msd="Case=Gen|Numb=Plur|Gend=MascNeut">nostri</w>
+        <w lemma="lusus" pos="NOMcom" msd="Case=Gen|Numb=Sing">lususque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{lususque}</w>
+        <w lemma="libellus" pos="NOMcom" msd="Case=Gen|Numb=Sing">libelli</w>
+        <w ana="#excitation" lemma="udus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos|Person=2">Uda</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="puella" pos="NOMcom" msd="Case=Voc|Numb=Sing">puella</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="lego?" pos="VER" msd="Numb=Sing">leges</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">sis</w>
+        <w lemma="Patauina" pos="ADJqua" msd="Case=Voc|Numb=Sing|Deg=Pos">Patavina</w>
+        <w lemma="licet1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">licet</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

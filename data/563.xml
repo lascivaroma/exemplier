@@ -1,15 +1,16 @@
 <div type="fragment" corresp="adams:95" ana="#fente #female #cunnus #misc">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:3.96-3.97">
-        <w lemma="vacuum(nominatif pluriel)|vacuum(vocatif pluriel)|vacuum(accusatif pluriel)|uacuus(nominatif féminin singulier)|uacuus(vocatif féminin singulier)|uacuus(ablatif féminin singulier)|uacuus(nominatif neutre pluriel)|uacuus(vocatif neutre pluriel)|uacuus(accusatif neutre pluriel)|uacuo(2ème singulier impératif présent actif)">vacua</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="planum(nominatif pluriel)|planum(vocatif pluriel)|planum(accusatif pluriel)|planus(nominatif féminin singulier)|planus(vocatif féminin singulier)|planus(ablatif féminin singulier)|planus(nominatif neutre pluriel)|planus(vocatif neutre pluriel)|planus(accusatif neutre pluriel)|plana(nominatif singulier)|plana(vocatif singulier)|plana(ablatif singulier)|plano(2ème singulier impératif présent actif)">plana</w> 
-        <w lemma="omne(nominatif pluriel)|omne(vocatif pluriel)|omne(accusatif pluriel)|omnis(nominatif neutre pluriel)|omnis(vocatif neutre pluriel)|omnis(accusatif neutre pluriel)|omnia(nominatif pluriel)|omnia(vocatif pluriel)|omnia(accusatif pluriel)|omnia(positif)">omnia</w> 
-        <w lemma="dica(accusatif pluriel)|dico(2ème singulier subjonctif présent actif)|dico(2ème singulier indicatif présent actif)|Dice(accusatif pluriel)">dicas</w> 
-        <w lemma="infra(-)">infra</w> 
-        <w lemma="ventriculus(accusatif singulier)|ventriculum(nominatif singulier)|ventriculum(vocatif singulier)|ventriculum(accusatif singulier)">ventriculum</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="teneo(1ère singulier indicatif parfait actif)|tenue(ablatif singulier)|tenue(datif singulier)|tenuis(datif masculin singulier)|tenuis(ablatif masculin singulier)|tenuis(datif féminin singulier)|tenuis(ablatif féminin singulier)|tenuis(datif neutre singulier)|tenuis(ablatif neutre singulier)">tenui</w> 
-        <w lemma="disto(nominatif neutre pluriel participe présent actif)|disto(vocatif neutre pluriel participe présent actif)|disto(accusatif neutre pluriel participe présent actif)|distans(nominatif neutre pluriel)|distans(vocatif neutre pluriel)|distans(accusatif neutre pluriel)|distantia(nominatif singulier)|distantia(vocatif singulier)|distantia(ablatif singulier)">distantia</w> 
-        <w ana="#fente #misc"  lemma="rima(nominatif singulier)|rima(vocatif singulier)|rima(ablatif singulier)|rimo(2ème singulier impératif présent actif)">rima</w>.    
+        <w lemma="uacuus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">vacua</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="planus2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">plana</w>
+        <w lemma="omnis" pos="PROind" msd="Case=Acc|Numb=Plur|Gend=Neut">omnia</w>
+        <w lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">dicas</w>
+        <w lemma="infra2" pos="PRE" msd="MORPH=empty">infra</w>
+        <w lemma="uentriculus" pos="NOMcom" msd="Case=Acc|Numb=Sing">ventriculum</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="tenuis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">tenui</w>
+        <w lemma="disto" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act">distantia</w>
+        <w ana="#fente #misc" lemma="rima" pos="NOMcom" msd="Case=Abl|Numb=Sing">rima</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

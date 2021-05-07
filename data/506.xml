@@ -1,36 +1,39 @@
 <div type="fragment" corresp="adams:91" ana="#sinus #euphemism #female #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.30">
-        <w lemma="quidam(datif masculin pluriel)|quidam(ablatif masculin pluriel)|quidam(datif féminin pluriel)|quidam(ablatif féminin pluriel)|quidam(datif neutre pluriel)|quidam(ablatif neutre pluriel)">quibusdam</w> 
-        <w lemma="tamen(-)">tamen</w> 
-        <w lemma="post(-)|po(-)">post</w> 
-        <w lemma="conceptio(accusatif singulier)">conceptionem</w> 
-        <w lemma="fluo(1ère singulier indicatif présent passif)|fluor(nominatif singulier)|fluor(vocatif singulier)">fluor</w> 
-        <w lemma="">sepissime</w> 
-        <w lemma="appareo(3ème singulier indicatif parfait actif)">apparuit</w>, 
-        <w lemma="aut(-)">aut</w> 
-        <w lemma="ex(-)">ex</w> 
-        <w  ana="#sinus #euphemism #composite" lemma="muliebris(datif masculin singulier)|muliebris(ablatif masculin singulier)|muliebris(datif féminin singulier)|muliebris(ablatif féminin singulier)|muliebris(datif neutre singulier)|muliebris(ablatif neutre singulier)">muliebri</w> 
-        <w ana="#sinus #euphemism #composite"  lemma="sinus(ablatif singulier)">sinu</w> 
-        <w lemma="aut(-)">aut</w> 
-        <w lemma="ex(-)">ex</w> 
-        <w lemma="matrix(génitif singulier)">matricis</w> 
-        <w lemma="collum(datif singulier)|collum(ablatif singulier)|collus(datif singulier)|collus(ablatif singulier)">collo</w> 
-        <w lemma="siue(-)|sion(génitif singulier)|si(-)">sive</w> 
-        <w lemma="lateo(infinitif présent actif)|lateo(2ème singulier indicatif présent passif)|lateo(2ème singulier impératif présent passif)|later(ablatif singulier)|latus(ablatif singulier)|latere(positif)">latere</w>, 
-        <w lemma="siquidem(-)">siquidem</w> 
-        <w lemma="connaturatio(nominatif singulier)|connaturatio(vocatif singulier)">connaturatio</w> 
-        <w lemma="semen(génitif singulier)|seminium(datif pluriel)|seminium(ablatif pluriel)">seminis</w> 
-        <w lemma="">anecti</w> 
-        <w lemma="non(-)">non</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="totum(nominatif pluriel)|totum(vocatif pluriel)|totum(accusatif pluriel)|totus(nominatif féminin singulier)|totus(vocatif féminin singulier)|totus(ablatif féminin singulier)|totus(nominatif neutre pluriel)|totus(vocatif neutre pluriel)|totus(accusatif neutre pluriel)|totus(nominatif féminin singulier)|totus(vocatif féminin singulier)|totus(ablatif féminin singulier)|totus(nominatif neutre pluriel)|totus(vocatif neutre pluriel)|totus(accusatif neutre pluriel)">tota</w> 
-        <w lemma="matrix(ablatif singulier)">matrice</w> 
-        <w lemma="fio(2ème singulier impératif présent passif)">fieri</w> 
-        <w lemma="comprobo(3ème singulier indicatif présent passif)">comprobatur</w>, 
-        <w lemma="set(-)">set</w> 
-        <w lemma="solo(1ère singulier indicatif présent actif)|solum(datif singulier)|solum(ablatif singulier)|solus(ablatif masculin singulier)|solus(ablatif neutre singulier)|Solon(nominatif singulier)|Solon(vocatif singulier)">solo</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="fundo(1ère singulier indicatif présent actif)|fundo(1ère singulier indicatif présent actif)|fundus(datif singulier)|fundus(ablatif singulier)">fundo</w>.
-    
+        <w lemma="quidam" pos="PROind" msd="Case=Dat|Numb=Plur|Gend=Com">quibusdam</w>
+        <w lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+        <w lemma="post2" pos="PRE" msd="MORPH=empty">post</w>
+        <w lemma="conceptio" pos="NOMcom" msd="Case=Acc|Numb=Sing">conceptionem</w>
+        <w lemma="fluor" pos="NOMcom" msd="Case=Nom|Numb=Sing">fluor</w>
+        <w lemma="sepe" pos="ADV" msd="Deg=Sup">sepissime</w>
+        <w lemma="appareo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">apparuit</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+        <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+        <w ana="#sinus #euphemism #composite" lemma="muliebris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">muliebri</w>
+        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+        <w lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+        <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+        <w lemma="matricus" pos="NOMcom" msd="Case=Abl|Numb=Sing">matricis</w>
+        <w lemma="collum" pos="NOMcom" msd="Case=Abl|Numb=Sing">collo</w>
+        <w lemma="siue1" pos="CONcoo" msd="MORPH=empty">sive</w>
+        <w lemma="latus1" pos="NOMcom" msd="Case=Abl">latere</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="siquidem" pos="CONsub" msd="MORPH=empty">siquidem</w>
+        <w lemma="connaturatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">connaturatio</w>
+        <w lemma="semen1" pos="NOMcom" msd="Case=Gen|Numb=Sing">seminis</w>
+        <w lemma="anectus" pos="NOMcom" msd="Case=Gen|Numb=Sing|Gend=MascNeut">anecti</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">tota</w>
+        <w lemma="matrices" pos="NOMcom" msd="Case=Abl|Numb=Sing">matrice</w>
+        <w lemma="fio" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">fieri</w>
+        <w lemma="comprobo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">comprobatur</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="sed" pos="CONcoo" msd="MORPH=empty">set</w>
+        <w lemma="solus" pos="NOMcom" msd="Case=Abl|Numb=Sing">solo</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="fundus" pos="NOMcom" msd="Case=Abl|Numb=Sing">fundo</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

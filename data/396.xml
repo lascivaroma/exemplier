@@ -1,10 +1,11 @@
-<div type="fragment" corresp="adams:70"  ana="#male #testicle">
+<div type="fragment" corresp="adams:70" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:35.12">
-        <w lemma="uirilitas(accusatif singulier)"  ana="#male #testicules">virilitatem</w> 
-        <w lemma="amputo(infinitif présent actif)|amputo(2ème singulier indicatif présent passif)|amputo(2ème singulier impératif présent passif)">amputare</w>  
-        <w lemma="nec(-)">nec</w> 
-        <w lemma="alito(1ère singulier subjonctif présent passif)|aliter(-)">aliter</w> 
-        <w lemma="citer(nominatif féminin singulier)|citer(vocatif féminin singulier)|citer(ablatif féminin singulier)|citer(nominatif neutre pluriel)|citer(vocatif neutre pluriel)|citer(accusatif neutre pluriel)|citrum(nominatif pluriel)|citrum(vocatif pluriel)|citrum(accusatif pluriel)|citra(-)">citra</w> 
-        <w lemma="pernicies(accusatif singulier)">perniciem</w>,    
+        <w ana="#male #testicules" lemma="uirilitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">virilitatem</w>
+        <w lemma="amputo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">amputare</w>
+        <w lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+        <w lemma="aliter" pos="ADV" msd="Deg=Pos">aliter</w>
+        <w lemma="citra2" pos="PRE" msd="MORPH=empty">citra</w>
+        <w lemma="pernicies" pos="NOMcom" msd="Case=Acc|Numb=Sing">perniciem</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

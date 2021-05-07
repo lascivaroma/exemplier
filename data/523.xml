@@ -1,30 +1,31 @@
 <div type="fragment" corresp="adams:91" ana="#sinus #euphemism #female #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.113">
-        <w lemma="Apollonius(nominatif singulier)">Apollonius</w> 
-        <w lemma="Uerus(datif singulier)|Uerus(ablatif singulier)|uerus(datif masculin singulier)|uerus(ablatif masculin singulier)|uerus(datif neutre singulier)|uerus(ablatif neutre singulier)|uero(1ère singulier indicatif présent actif)|uerum(datif singulier)|uerum(ablatif singulier)|uerum(datif singulier)|uerum(ablatif singulier)|uero(-)|uero(nominatif singulier)|uero(vocatif singulier)">vero</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="Sostratus(nominatif singulier)">Sostratus</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="">Filoxenus</w> 
-        <w lemma="assero(3ème pluriel indicatif PQP actif)|adsevero(3ème pluriel indicatif présent actif)">asseverant</w> 
-        <w lemma="quidam(accusatif féminin singulier)">quamdam</w> 
-        <w lemma="caro(accusatif singulier)|carnis(accusatif singulier)">carnem</w> 
-        <w lemma="emergo(accusatif masculin singulier participe présent actif)|emergo(accusatif féminin singulier participe présent actif)">emergentem</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="osculo(1ère singulier indicatif présent actif)|osculum(datif singulier)|osculum(ablatif singulier)">osculo</w> 
-        <w lemma="matrix(génitif singulier)">matricis</w> 
-        <w  ana="#sinus #euphemism #composite" lemma="femininus(accusatif masculin singulier)|femininus(nominatif neutre singulier)|femininus(vocatif neutre singulier)|femininus(accusatif neutre singulier)">femininum</w> 
-        <w lemma="">sepius</w> 
-        <w lemma="impleo(infinitif présent actif)|impleo(2ème singulier indicatif présent passif)|impleo(2ème singulier impératif présent passif)">implere</w> 
-        <w ana="#sinus #euphemism #composite"  lemma="sinus(accusatif singulier)|sinum(nominatif singulier)|sinum(vocatif singulier)|sinum(accusatif singulier)|sinus(accusatif singulier)">sinum</w>, 
-        <w lemma="aliquando(-)">aliquando</w> 
-        <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiam</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="exterior(nominatif neutre pluriel comparatif)|exterior(vocatif neutre pluriel comparatif)|exterior(accusatif neutre pluriel comparatif)|exterus(nominatif neutre pluriel comparatif)|exterus(vocatif neutre pluriel comparatif)|exterus(accusatif neutre pluriel comparatif)">exteriora</w> 
-        <w lemma="progredior(infinitif présent actif)|progredio(2ème singulier impératif présent actif)">progredi</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="similitudo(accusatif singulier)">similitudinem</w> 
-        <w lemma="">caude</w>.
-    
+        <w lemma="Apollonius" pos="NOMpro" msd="Case=Nom|Numb=Sing">Apollonius</w>
+        <w lemma="uero4" pos="CONcoo" msd="MORPH=empty">vero</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="Sostratus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Sostratus</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="Filoxenus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Filoxenus</w>
+        <w lemma="assero?" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pqp|Voice=Act|Person=3">asseverant</w>
+        <w lemma="quidam" pos="PROind" msd="Numb=Sing|Gend=Fem">quamdam</w>
+        <w lemma="caro1" pos="NOMcom" msd="Case=Acc|Numb=Sing">carnem</w>
+        <w lemma="emergo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">emergentem</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="osculum" pos="NOMcom" msd="Case=Abl|Numb=Sing">osculo</w>
+        <w lemma="matricus" pos="NOMcom" msd="Case=Abl|Numb=Sing">matricis</w>
+        <w ana="#sinus #euphemism #composite" lemma="femininus" pos="NOMcom" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">femininum</w>
+        <w lemma="saepe" pos="ADV" msd="Deg=Comp">sepius</w>
+        <w lemma="impleo" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">implere</w>
+        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Sing">sinum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="aliquando" pos="ADV" msd="Deg=Pos">aliquando</w>
+        <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="exter" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Comp">exteriora</w>
+        <w lemma="progredior" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Dep">progredi</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="similitudo" pos="NOMcom" msd="Case=Acc|Numb=Sing">similitudinem</w>
+        <w lemma="caudeo" pos="NOMcom" msd="Numb=Sing|Person=2">caude</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

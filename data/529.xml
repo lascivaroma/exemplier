@@ -1,19 +1,21 @@
 <div type="fragment" corresp="adams:91" ana="#sinus #euphemism  #female #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0171.stoa009.opp-lat1:1.20.36">
-        <w lemma="Tutinus(nominatif singulier)">Tutinus</w>, 
-        <w lemma="in(-)">in</w> 
-        <w lemma="qui(génitif masculin singulier)|qui(génitif féminin singulier)|qui(génitif neutre singulier)|quis(génitif masculin singulier)|quis(génitif féminin singulier)|quis(génitif neutre singulier)">cuius</w> 
-        <w lemma="sinus(ablatif singulier)" ana="#sinus #euphemism ">sinu</w> 
-        <w lemma="pudeo(gérondif datif)|pudeo(gérondif ablatif)|pudeo(datif masculin singulier adjectif verbal)|pudeo(ablatif masculin singulier adjectif verbal)|pudeo(datif neutre singulier adjectif verbal)|pudeo(ablatif neutre singulier adjectif verbal)|pudendus(datif masculin singulier)|pudendus(ablatif masculin singulier)|pudendus(datif neutre singulier)|pudendus(ablatif neutre singulier)">pudendo</w> 
-        <w lemma="nubo(nominatif masculin pluriel participe présent actif)|nubo(vocatif masculin pluriel participe présent actif)|nubo(accusatif masculin pluriel participe présent actif)|nubo(nominatif féminin pluriel participe présent actif)|nubo(vocatif féminin pluriel participe présent actif)|nubo(accusatif féminin pluriel participe présent actif)">nubentes</w> 
-        <w lemma="praesideo(3ème pluriel indicatif présent actif)">praesident</w>, 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="ille(génitif féminin pluriel)">illarum</w> 
-            
-        <w lemma="pudicitia(accusatif singulier)">pudicitiam</w> 
-        <w lemma="prior(nominatif neutre singulier)|prior(vocatif neutre singulier)|prior(accusatif neutre singulier)|prior(nominatif masculin singulier)|prior(vocatif masculin singulier)|prior(nominatif féminin singulier)|prior(vocatif féminin singulier)|Prior(nominatif singulier)|Prior(vocatif singulier)">prior</w> 
-        <w lemma="deus(vocatif singulier)|deus(nominatif singulier)">deus</w> 
-        <w lemma="delibo(infinitif parfait actif)">delibasse</w> 
-        <w lemma="uideo(3ème singulier subjonctif présent passif)|videor(3ème singulier subjonctif présent actif)">uideatur</w>,    
+        <w lemma="tutinus" pos="ADJqua" msd="Case=Nom|Numb=Sing">Tutinus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Gen|Numb=Sing|Gend=Com">cuius</w>
+        <w ana="#sinus #euphemism" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+        <w lemma="pudendus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos">pudendo</w>
+        <w lemma="nubo" pos="VER" msd="Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act">nubentes</w>
+        <w lemma="praesideo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">praesident</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="ille" pos="PROdem" msd="Case=Gen|Numb=Plur|Gend=Fem">illarum</w>
+        <w lemma="pudicitia" pos="NOMcom" msd="Case=Acc|Numb=Sing">pudicitiam</w>
+        <w lemma="prior" pos="ADJord" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">prior</w>
+        <w lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Sing">deus</w>
+        <w lemma="delibo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">delibasse</w>
+        <w lemma="uideo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3">uideatur</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

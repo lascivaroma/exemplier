@@ -1,11 +1,11 @@
 <div type="fragment" corresp="adams:93" ana="#pars #euphemism">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:2.17">
-        <w lemma="etiam(-)|etiam(positif)|etiam(positif)">etiam</w> 
-        <w lemma="glabellus(accusatif masculin singulier)|glabellus(nominatif neutre singulier)|glabellus(vocatif neutre singulier)|glabellus(accusatif neutre singulier)">glabellum</w> 
-        <w ana="#pars #euphemism"  lemma="femen(nominatif pluriel)|femen(vocatif pluriel)|femen(accusatif pluriel)|femina(nominatif singulier)|femina(vocatif singulier)|femina(ablatif singulier)|femino(2ème singulier impératif présent actif)">femina</w> 
-        <w lemma="Roseus(nominatif féminin singulier)|Roseus(vocatif féminin singulier)|Roseus(ablatif féminin singulier)|Roseus(nominatif neutre pluriel)|Roseus(vocatif neutre pluriel)|Roseus(accusatif neutre pluriel)|roseus(nominatif féminin singulier)|roseus(vocatif féminin singulier)|roseus(ablatif féminin singulier)|roseus(nominatif neutre pluriel)|roseus(vocatif neutre pluriel)|roseus(accusatif neutre pluriel)|Rosea(nominatif singulier)|Rosea(vocatif singulier)|Rosea(ablatif singulier)|rosea(nominatif singulier)|rosea(vocatif singulier)|rosea(ablatif singulier)">rosea</w> 
-        <w lemma="palmula(nominatif singulier)|palmula(vocatif singulier)|palmula(ablatif singulier)">palmula</w> 
-        <w lemma="potis(nominatif neutre singulier comparatif)|potis(vocatif neutre singulier comparatif)|potis(accusatif neutre singulier comparatif)|potior(nominatif neutre singulier comparatif)|potior(vocatif neutre singulier comparatif)|potior(accusatif neutre singulier comparatif)|potus(nominatif neutre singulier comparatif)|potus(vocatif neutre singulier comparatif)|potus(accusatif neutre singulier comparatif)|potius(-)">potius</w> 
-        <w lemma="obumbro(nominatif masculin singulier participe présent actif)|obumbro(vocatif masculin singulier participe présent actif)|obumbro(nominatif féminin singulier participe présent actif)|obumbro(vocatif féminin singulier participe présent actif)|obumbro(nominatif neutre singulier participe présent actif)|obumbro(vocatif neutre singulier participe présent actif)|obumbro(accusatif neutre singulier participe présent actif)">obumbrans</w>    
+        <w lemma="etiam" pos="ADV" msd="Deg=Pos">etiam</w>
+        <w lemma="glabellum" pos="NOMcom" msd="Case=Acc|Numb=Sing">glabellum</w>
+        <w ana="#pars #euphemism" lemma="femina" pos="NOMcom" msd="Case=Nom|Numb=Sing">femina</w>
+        <w lemma="roseus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">rosea</w>
+        <w lemma="palmula" pos="NOMcom" msd="Case=Abl|Numb=Sing">palmula</w>
+        <w lemma="potius" pos="ADV" msd="Deg=Comp">potius</w>
+        <w lemma="obumbro" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">obumbrans</w>
     </quote>
  </div>

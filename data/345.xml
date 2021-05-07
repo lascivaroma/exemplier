@@ -1,10 +1,12 @@
-<div type="fragment" corresp="adams:63"  ana="#male #misc">
+<div type="fragment" corresp="adams:63" ana="#male #misc">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:78.1">
-        <w lemma="Priapus(vocatif singulier)|Priapos(vocatif singulier)">Priape</w>, 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="sum(2ème singulier subjonctif présent actif)|sion(datif pluriel)|sion(ablatif pluriel)|sis(positif)">sis</w> 
-        <w lemma="fascino(1ère singulier indicatif présent actif)|fascinum(datif singulier)|fascinum(ablatif singulier)|Fascinus(datif singulier)|Fascinus(ablatif singulier)|Fascinus(datif singulier)|Fascinus(ablatif singulier)"  ana="#male #penis">fascino</w> 
-        <w lemma="gravis(génitif masculin singulier)|gravis(accusatif masculin pluriel)|gravis(génitif féminin singulier)|gravis(accusatif féminin pluriel)|gravis(génitif neutre singulier)|gravis(nominatif masculin singulier)|gravis(vocatif masculin singulier)|gravis(nominatif féminin singulier)|gravis(vocatif féminin singulier)">grauis</w> 
-        <w lemma="tempto(1ère singulier indicatif présent actif)|tendo(datif masculin singulier participe parfait passif)|tendo(ablatif masculin singulier participe parfait passif)|tendo(datif neutre singulier participe parfait passif)|tendo(ablatif neutre singulier participe parfait passif)|teneo(datif masculin singulier participe parfait passif)|teneo(ablatif masculin singulier participe parfait passif)|teneo(datif neutre singulier participe parfait passif)|teneo(ablatif neutre singulier participe parfait passif)">tento</w>,    
+        <w lemma="Priapus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Priape</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="quod2" pos="CONsub" msd="Numb=Sing">quod</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">sis</w>
+        <w ana="#male #penis" lemma="fascinum" pos="NOMcom" msd="Case=Abl|Numb=Sing">fascino</w>
+        <w lemma="grauis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">grauis</w>
+        <w lemma="tendo" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">tento</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

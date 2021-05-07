@@ -1,21 +1,22 @@
 <div type="fragment" corresp="adams:91" ana="#sinus #euphemism #female #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.121">
-        <w lemma="tunc(-)">tunc</w> 
-        <w lemma="">relocatione</w> 
-        <w lemma="factum(nominatif pluriel)|factum(vocatif pluriel)|factum(accusatif pluriel)|fio(nominatif féminin singulier participe parfait passif)|fio(vocatif féminin singulier participe parfait passif)|fio(ablatif féminin singulier participe parfait passif)|fio(nominatif neutre pluriel participe parfait passif)|fio(vocatif neutre pluriel participe parfait passif)|fio(accusatif neutre pluriel participe parfait passif)|facto(2ème singulier impératif présent actif)|factus(nominatif féminin singulier)|factus(vocatif féminin singulier)|factus(ablatif féminin singulier)|factus(nominatif neutre pluriel)|factus(vocatif neutre pluriel)|factus(accusatif neutre pluriel)">facta</w> 
-        <w lemma="impleo(nominatif masculin singulier adjectif verbal)">implendus</w> 
-        <w ana="#sinus #euphemism #composite"  lemma="sinus(nominatif singulier)|sinus(vocatif singulier)|sinus(génitif singulier)|sinus(nominatif pluriel)|sinus(vocatif pluriel)|sinus(accusatif pluriel)|sinus(nominatif singulier)">sinus</w> 
-        <w ana="#sinus #euphemism #composite"  lemma="muliebris(génitif masculin singulier)|muliebris(accusatif masculin pluriel)|muliebris(génitif féminin singulier)|muliebris(accusatif féminin pluriel)|muliebris(génitif neutre singulier)|muliebris(nominatif masculin singulier)|muliebris(vocatif masculin singulier)|muliebris(nominatif féminin singulier)|muliebris(vocatif féminin singulier)">muliebris</w> 
-        <w lemma="spongia(nominatif singulier)|spongia(vocatif singulier)|spongia(ablatif singulier)|Spongia(nominatif singulier)|Spongia(vocatif singulier)|Spongia(ablatif singulier)|spongio(2ème singulier impératif présent actif)|spongius(nominatif féminin singulier)|spongius(vocatif féminin singulier)|spongius(ablatif féminin singulier)|spongius(nominatif neutre pluriel)|spongius(vocatif neutre pluriel)|spongius(accusatif neutre pluriel)">spongia</w> 
-        <w lemma="pusca(nominatif singulier)|pusca(vocatif singulier)|pusca(ablatif singulier)">pusca</w> 
-        <w lemma="frigida(nominatif singulier)|frigida(vocatif singulier)|frigida(ablatif singulier)|frigidum(nominatif pluriel)|frigidum(vocatif pluriel)|frigidum(accusatif pluriel)|frigidus(nominatif féminin singulier)|frigidus(vocatif féminin singulier)|frigidus(ablatif féminin singulier)|frigidus(nominatif neutre pluriel)|frigidus(vocatif neutre pluriel)|frigidus(accusatif neutre pluriel)|frigido(2ème singulier impératif présent actif)">frigida</w> 
-        <w lemma="infundo(nominatif féminin singulier participe parfait passif)|infundo(vocatif féminin singulier participe parfait passif)|infundo(ablatif féminin singulier participe parfait passif)|infundo(nominatif neutre pluriel participe parfait passif)|infundo(vocatif neutre pluriel participe parfait passif)|infundo(accusatif neutre pluriel participe parfait passif)|infusus(nominatif féminin singulier)|infusus(vocatif féminin singulier)|infusus(ablatif féminin singulier)|infusus(nominatif neutre pluriel)|infusus(vocatif neutre pluriel)|infusus(accusatif neutre pluriel)">infusa</w> 
-        <w lemma="uel(-)">vel</w> 
-        <w lemma="lana(nominatif singulier)|lana(vocatif singulier)|lana(ablatif singulier)|lano(2ème singulier impératif présent actif)">lana</w>, 
-        <w lemma="et(-)">et</w> 
-        <w lemma="conduco(datif masculin pluriel participe parfait passif)|conduco(ablatif masculin pluriel participe parfait passif)|conduco(datif féminin pluriel participe parfait passif)|conduco(ablatif féminin pluriel participe parfait passif)|conduco(datif neutre pluriel participe parfait passif)|conduco(ablatif neutre pluriel participe parfait passif)|conductum(datif pluriel)|conductum(ablatif pluriel)|conducti(datif pluriel)|conducti(ablatif pluriel)|conductus(datif masculin pluriel)|conductus(ablatif masculin pluriel)|conductus(datif féminin pluriel)|conductus(ablatif féminin pluriel)|conductus(datif neutre pluriel)|conductus(ablatif neutre pluriel)|conductus(datif pluriel)|conductus(ablatif pluriel)">conductis</w> 
-        <w lemma="femur(datif pluriel)|femur(ablatif pluriel)">femoribus</w> 
-        <w lemma="addo(nominatif féminin singulier adjectif verbal)|addo(vocatif féminin singulier adjectif verbal)|addo(ablatif féminin singulier adjectif verbal)|addo(nominatif neutre pluriel adjectif verbal)|addo(vocatif neutre pluriel adjectif verbal)|addo(accusatif neutre pluriel adjectif verbal)|addendus(nominatif féminin singulier)|addendus(vocatif féminin singulier)|addendus(ablatif féminin singulier)|addendus(nominatif neutre pluriel)|addendus(vocatif neutre pluriel)|addendus(accusatif neutre pluriel)">addenda</w> 
-        <w lemma="ligatio(nominatif singulier)|ligatio(vocatif singulier)">ligatio</w>    
+        <w lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
+        <w lemma="relocatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">relocatione</w>
+        <w lemma="facio" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">facta</w>
+        <w lemma="impleo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Adj|Voice=Pass">implendus</w>
+        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Nom|Numb=Sing">sinus</w>
+        <w ana="#sinus #euphemism #composite" lemma="muliebris" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos">muliebris</w>
+        <w lemma="spongia" pos="NOMcom" msd="Case=Nom|Numb=Sing">spongia</w>
+        <w lemma="puscus" pos="NOMcom" msd="Case=Nom|Numb=Sing|Deg=Pos">pusca</w>
+        <w lemma="frigidus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos">frigida</w>
+        <w lemma="infundo2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">infusa</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+        <w lemma="lana" pos="NOMcom" msd="Case=Abl|Numb=Sing">lana</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="conduco" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">conductis</w>
+        <w lemma="femur" pos="NOMcom" msd="Case=Abl|Numb=Plur">femoribus</w>
+        <w lemma="addo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">addenda</w>
+        <w lemma="ligatio" pos="NOMcom" msd="Case=Nom|Numb=Sing">ligatio</w>
     </quote>
  </div>

@@ -1,9 +1,10 @@
 <div type="fragment" corresp="adams:91" ana="#sinus #euphemism   #female #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1:144.2">
-        <w lemma="virgineus(accusatif masculin pluriel)">Virgineos</w> 
-        <w lemma="ardeo(nominatif masculin singulier participe présent actif)|ardeo(vocatif masculin singulier participe présent actif)|ardeo(nominatif féminin singulier participe présent actif)|ardeo(vocatif féminin singulier participe présent actif)|ardeo(nominatif neutre singulier participe présent actif)|ardeo(vocatif neutre singulier participe présent actif)|ardeo(accusatif neutre singulier participe présent actif)|ardens(nominatif masculin singulier)|ardens(vocatif masculin singulier)|ardens(nominatif féminin singulier)|ardens(vocatif féminin singulier)">ardens</w> 
-        <w lemma="pando(3ème pluriel indicatif parfait actif)|pando(infinitif présent actif)|pando(2ème singulier indicatif présent passif)|pando(2ème singulier indicatif futur passif)|pando(2ème singulier impératif présent passif)|pando(2ème singulier subjonctif présent passif)">pandere</w> 
-        <w lemma="fraus(ablatif singulier)">fraude</w> 
-        <w ana="#sinus #euphemism   #composite"  lemma="sinus(nominatif singulier)|sinus(vocatif singulier)|sinus(génitif singulier)|sinus(nominatif pluriel)|sinus(vocatif pluriel)|sinus(accusatif pluriel)|sinus(nominatif singulier)">sinus</w>.    
+        <w lemma="uirgineus" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos">Virgineos</w>
+        <w lemma="ardeo" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos|Mood=Par|Tense=Pres|Voice=Act">ardens</w>
+        <w lemma="pando2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">pandere</w>
+        <w lemma="fraus" pos="NOMcom" msd="Case=Abl|Numb=Sing">fraude</w>
+        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Plur">sinus</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

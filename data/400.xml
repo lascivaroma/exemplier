@@ -1,12 +1,12 @@
-<div type="fragment" corresp="adams:70"  ana="#male #testicle">
+<div type="fragment" corresp="adams:70" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.11">
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="merum(datif singulier)|merum(ablatif singulier)|merus(datif masculin singulier)|merus(ablatif masculin singulier)|merus(datif neutre singulier)|merus(ablatif neutre singulier)|Merus(datif singulier)|Merus(ablatif singulier)|Mero(nominatif singulier)|Mero(vocatif singulier)">mero</w> 
-        <w lemma="madido(3ème singulier subjonctif imparfait passif)">madidaretur</w> 
-        <w lemma="multo(1ère singulier indicatif présent actif)|multum(datif singulier)|multum(ablatif singulier)|multus(datif masculin singulier)|multus(ablatif masculin singulier)|multus(datif neutre singulier)|multus(ablatif neutre singulier)|multo(-)">multo</w> 
-        <w lemma="et(-)">et</w> 
-        <w  ana="#male #testicules" lemma="uirilia(datif pluriel)|uirilia(ablatif pluriel)|virilis(datif masculin pluriel)|virilis(ablatif masculin pluriel)|virilis(datif féminin pluriel)|virilis(ablatif féminin pluriel)|virilis(datif neutre pluriel)|virilis(ablatif neutre pluriel)">uirilibus</w> 
-        <w lemma="spolio(3ème singulier subjonctif imparfait passif)">spoliaretur</w> 
-        <w lemma="abscido(datif masculin pluriel participe parfait passif)|abscido(ablatif masculin pluriel participe parfait passif)|abscido(datif féminin pluriel participe parfait passif)|abscido(ablatif féminin pluriel participe parfait passif)|abscido(datif neutre pluriel participe parfait passif)|abscido(ablatif neutre pluriel participe parfait passif)|abscisus(datif masculin pluriel)|abscisus(ablatif masculin pluriel)|abscisus(datif féminin pluriel)|abscisus(ablatif féminin pluriel)|abscisus(datif neutre pluriel)|abscisus(ablatif neutre pluriel)">abscisis</w>    
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="merum" pos="NOMcom" msd="Case=Abl|Numb=Sing">mero</w>
+        <w lemma="madido" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">madidaretur</w>
+        <w lemma="multo2" pos="ADV" msd="Case=Abl|Deg=Pos">multo</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w ana="#male #testicules" lemma="uirilis" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">uirilibus</w>
+        <w lemma="spolio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3">spoliaretur</w>
+        <w lemma="abscido2" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass">abscisis</w>
     </quote>
  </div>

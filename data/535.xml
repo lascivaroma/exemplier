@@ -1,11 +1,12 @@
 <div type="fragment" corresp="adams:92" ana="#adjoining_parts #kidneys #euphemism #female">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:67.29-67.30">
-        <w lemma="qui(nominatif masculin singulier)|qui(nominatif masculin pluriel)|quis(nominatif masculin pluriel)|queo(2ème singulier impératif présent actif)|queo(1ère singulier indicatif parfait actif)|qui(-)">qui</w> 
-        <w lemma="ipse(nominatif masculin singulier)">ipse</w> 
-        <w lemma="se(génitif masculin singulier)|se(génitif masculin pluriel)|se(génitif féminin singulier)|se(génitif féminin pluriel)|se(génitif neutre singulier)|se(génitif neutre pluriel)|suo(1ère singulier indicatif parfait actif)|suo(infinitif présent passif)|sus(datif singulier)|suum(génitif singulier)|suus(génitif masculin singulier)|suus(nominatif masculin pluriel)|suus(vocatif masculin pluriel)|suus(génitif neutre singulier)|sui(nominatif pluriel)|sui(vocatif pluriel)">sui</w> 
-        <w lemma="gnatus(génitif singulier)|gnatus(nominatif pluriel)|gnatus(vocatif pluriel)|gnatus(génitif masculin singulier)|gnatus(nominatif masculin pluriel)|gnatus(vocatif masculin pluriel)|gnatus(génitif neutre singulier)">gnati</w> 
-        <w lemma="mingo(3ème singulier indicatif futur antérieur actif)|mingo(3ème singulier subjonctif parfait actif)">minxerit</w> 
-        <w lemma="in(-)">in</w> 
-        <w ana="#adjoining_parts #lap #euphemism"  lemma="gremium(nominatif singulier)|gremium(vocatif singulier)|gremium(accusatif singulier)">gremium</w>.    
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Masc">qui</w>
+        <w lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Masc">ipse</w>
+        <w lemma="suus" pos="PROpos.ref" msd="Case=Gen|Numb=Sing|Gend=MascNeut">sui</w>
+        <w lemma="natus1" pos="NOMcom" msd="Case=Gen|Numb=Sing">gnati</w>
+        <w lemma="mingo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3">minxerit</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w ana="#adjoining_parts #lap #euphemism" lemma="gremium" pos="NOMcom" msd="Case=Acc|Numb=Sing">gremium</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

@@ -1,8 +1,11 @@
-<div type="fragment" corresp="adams:65"  ana="#male #misc">
+<div type="fragment" corresp="adams:65" ana="#male #misc">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:53.5">
-        <w lemma="DI()|deus(nominatif pluriel)|deus(vocatif pluriel)|Dion(génitif singulier)|Dios(génitif singulier)|Dios(nominatif pluriel)|Dios(vocatif pluriel)|dius(génitif masculin singulier)|dius(nominatif masculin pluriel)|dius(vocatif masculin pluriel)|dius(génitif neutre singulier)|Dium(génitif singulier)|Dius(génitif singulier)|Dius(nominatif pluriel)|Dius(vocatif pluriel)">di</w> 
-        <w lemma="Magnus(génitif singulier)|Magnus(nominatif pluriel)|Magnus(vocatif pluriel)|magnus(génitif masculin singulier)|magnus(nominatif masculin pluriel)|magnus(vocatif masculin pluriel)|magnus(génitif neutre singulier)|Magni(nominatif pluriel)|Magni(vocatif pluriel)">magni</w>, 
-        <w lemma="salaputium(nominatif singulier)|salaputium(vocatif singulier)|salaputium(accusatif singulier)"  ana="#male #penis">salaputium</w> 
-        <w lemma="disertus(accusatif masculin singulier)|disertus(nominatif neutre singulier)|disertus(vocatif neutre singulier)|disertus(accusatif neutre singulier)">disertum</w>!”    
+        <w lemma="deus" pos="NOMcom" msd="Case=Voc|Numb=Plur">di</w>
+        <w lemma="magnus" pos="ADJqua" msd="Case=Gen|Numb=Plur|Gend=Masc|Deg=Pos">magni</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w ana="#male #penis" lemma="salaputium" pos="NOMcom" msd="Case=Nom|Numb=Plur">salaputium</w>
+        <w lemma="disertus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">disertum</w>
+        <w lemma="!" pos="PUNC" msd="MORPH=empty">!</w>
+        <w lemma="”" pos="PUNC" msd="MORPH=empty">”</w>
     </quote>
  </div>

@@ -1,12 +1,13 @@
-<div type="fragment" corresp="adams:70"  ana="#male #testicle">
+<div type="fragment" corresp="adams:70" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:63.6">
-        <w lemma="itaque(-)|ito(2ème singulier impératif présent actif)|ita(-)">itaque</w> 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="relinquo(nominatif féminin singulier participe parfait passif)|relinquo(vocatif féminin singulier participe parfait passif)|relinquo(ablatif féminin singulier participe parfait passif)|relinquo(nominatif neutre pluriel participe parfait passif)|relinquo(vocatif neutre pluriel participe parfait passif)|relinquo(accusatif neutre pluriel participe parfait passif)|relictus(nominatif féminin singulier)|relictus(vocatif féminin singulier)|relictus(ablatif féminin singulier)|relictus(nominatif neutre pluriel)|relictus(vocatif neutre pluriel)|relictus(accusatif neutre pluriel)">relicta</w> 
-        <w lemma="sentio(3ème singulier indicatif parfait actif)">sensit</w> 
-        <w lemma="se(datif masculin singulier)|se(datif masculin pluriel)|se(datif féminin singulier)|se(datif féminin pluriel)|se(datif neutre singulier)|se(datif neutre pluriel)|sibus(génitif masculin singulier)|sibus(nominatif masculin pluriel)|sibus(vocatif masculin pluriel)|sibus(génitif neutre singulier)|Sibi(-)">sibi</w> 
-        <w lemma="membrum(nominatif pluriel)|membrum(vocatif pluriel)|membrum(accusatif pluriel)|membro(2ème singulier impératif présent actif)">membra</w> 
-        <w lemma="Sinis(ablatif singulier)|sino(2ème singulier impératif présent actif)|sinus(vocatif singulier)|sine(-)|sion(génitif singulier)|si(-)">sine</w> 
-        <w  ana="#male #testicle"  lemma="uir(datif singulier)|uir(ablatif singulier)|uirus(datif singulier)|uirus(ablatif singulier)">viro</w>,    
+        <w lemma="itaque" pos="CONcoo" msd="MORPH=empty">itaque</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="relinquo" pos="VER" msd="Case=Acc|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">relicta</w>
+        <w lemma="sentio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">sensit</w>
+        <w lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+        <w lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
+        <w lemma="sine" pos="PRE" msd="MORPH=empty">sine</w>
+        <w ana="#male #testicle" lemma="uir" pos="NOMcom" msd="Case=Abl|Numb=Sing">viro</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

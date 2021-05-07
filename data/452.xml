@@ -1,16 +1,17 @@
 <div type="fragment" corresp="adams:83" ana="#field #female #cunnus #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0690.phi002.perseus-lat2:3.135-3.136">
-        <w lemma="nimium(datif singulier)|nimium(ablatif singulier)|nimius(datif masculin singulier)|nimius(ablatif masculin singulier)|nimius(datif neutre singulier)|nimius(ablatif neutre singulier)|nimio(-)">nimio</w> 
-        <w lemma="neo(2ème singulier impératif présent actif)|nes(vocatif singulier)|nes(ablatif singulier)|ne(-)|ne(-)|ne(positif)">ne</w> 
-        <w lemma="luxus(ablatif singulier)">luxu</w> 
-        <w lemma="obtusus(nominatif masculin singulier comparatif)|obtusus(vocatif masculin singulier comparatif)|obtusus(nominatif féminin singulier comparatif)|obtusus(vocatif féminin singulier comparatif)">obtunsior</w> 
-        <w lemma="usus(nominatif singulier)|usus(vocatif singulier)|usus(génitif singulier)|usus(nominatif pluriel)|usus(vocatif pluriel)|usus(accusatif pluriel)|utor(nominatif masculin singulier participe parfait actif)|usus(nominatif masculin singulier)">usus</w> 
-        <w lemma="sum(3ème singulier subjonctif présent actif)">sit</w> 
-        <w lemma="genitale(ablatif singulier)|genitale(datif singulier)|Genitalis(datif singulier)|genitalis(datif masculin singulier)|genitalis(ablatif masculin singulier)|genitalis(datif féminin singulier)|genitalis(ablatif féminin singulier)|genitalis(datif neutre singulier)|genitalis(ablatif neutre singulier)">genitali</w> 
-        <w ana="#field" lemma="arvum(datif singulier)|arvum(ablatif singulier)|arvus(datif masculin singulier)|arvus(ablatif masculin singulier)|arvus(datif neutre singulier)|arvus(ablatif neutre singulier)">arvo</w> 
-        <w lemma="et(-)">et</w> 
-        <w ana="#field"  lemma="sulcus(accusatif pluriel)|Sulci(accusatif pluriel)|sulcus(accusatif masculin pluriel)">sulcos</w> 
-        <w lemma="oblimo(3ème singulier subjonctif présent actif)">oblimet</w> 
-        <w lemma="iners(génitif masculin singulier)|iners(accusatif masculin pluriel)|iners(génitif féminin singulier)|iners(accusatif féminin pluriel)|iners(génitif neutre singulier)|inertia(datif pluriel)|inertia(ablatif pluriel)">inertis</w>,    
+        <w lemma="nimius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">nimio</w>
+        <w lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+        <w lemma="luxus1" pos="NOMcom" msd="Case=Abl|Numb=Sing">luxu</w>
+        <w lemma="obtusus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp">obtunsior</w>
+        <w lemma="usus" pos="NOMcom" msd="Case=Nom|Numb=Sing">usus</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+        <w lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">genitali</w>
+        <w ana="#field" lemma="aruum" pos="NOMcom" msd="Case=Abl|Numb=Sing">arvo</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w ana="#field" lemma="sulcus" pos="NOMcom" msd="Case=Acc|Numb=Plur">sulcos</w>
+        <w lemma="oblimo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">oblimet</w>
+        <w lemma="iners" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">inertis</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

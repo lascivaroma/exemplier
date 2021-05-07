@@ -1,13 +1,14 @@
 <div type="fragment" corresp="adams:92" ana="#adjoining_parts #euphemism #female">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0162.stoa004.opp-lat1:22.11.2">
-        <w lemma="virtus(nominatif singulier)|virtus(vocatif singulier)">uirtus</w> 
-        <w lemma="is(génitif masculin singulier)|is(génitif féminin singulier)|is(génitif neutre singulier)|Eus(nominatif neutre singulier comparatif)|Eus(vocatif neutre singulier comparatif)|Eus(accusatif neutre singulier comparatif)">eius</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="lumbus(datif pluriel)|lumbus(ablatif pluriel)">lumbis</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="potestas(nominatif singulier)|potestas(vocatif singulier)">potestas</w> 
-        <w lemma="is(génitif masculin singulier)|is(génitif féminin singulier)|is(génitif neutre singulier)|Eus(nominatif neutre singulier comparatif)|Eus(vocatif neutre singulier comparatif)|Eus(accusatif neutre singulier comparatif)">eius</w> 
-        <w lemma="in(-)">in</w> 
-        <w ana="#adjoining_parts #euphemism"  lemma="umbilicus(datif singulier)|umbilicus(ablatif singulier)">umbilico</w>.    
+        <w lemma="uirtus" pos="NOMcom" msd="Case=Nom|Numb=Sing">uirtus</w>
+        <w lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="lumbus" pos="NOMcom" msd="Case=Abl|Numb=Plur">lumbis</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="potestas" pos="NOMcom" msd="Case=Nom|Numb=Sing">potestas</w>
+        <w lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w ana="#adjoining_parts #euphemism" lemma="umbilicus" pos="NOMcom" msd="Case=Abl|Numb=Sing">umbilico</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

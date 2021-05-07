@@ -1,17 +1,17 @@
-<div type="fragment" corresp="adams:74"  ana="#male #foreskin">
+<div type="fragment" corresp="adams:74" ana="#male #foreskin">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa003.perseus-lat2:116-117">
-        <w lemma="et(-)">et</w> 
-        <w lemma="supo(1ère singulier subjonctif présent passif)|supo(1ère singulier subjonctif présent passif)|super(nominatif masculin singulier)|super(vocatif masculin singulier)|super(-)">super</w> 
-        <w lemma="incumbo(nominatif masculin singulier participe présent actif)|incumbo(vocatif masculin singulier participe présent actif)|incumbo(nominatif féminin singulier participe présent actif)|incumbo(vocatif féminin singulier participe présent actif)|incumbo(nominatif neutre singulier participe présent actif)|incumbo(vocatif neutre singulier participe présent actif)|incumbo(accusatif neutre singulier participe présent actif)">incumbens</w>   
-        <w lemma="nodus(datif pluriel)|nodus(ablatif pluriel)|nodia(datif pluriel)|nodia(ablatif pluriel)">nodis</w> 
-        <w lemma="et(-)">et</w> 
-        <w   ana="#male #foreskin" lemma="cortex(ablatif singulier)">cortice</w> 
-        <w lemma="crudus(datif masculin singulier)|crudus(ablatif masculin singulier)|crudus(datif neutre singulier)|crudus(ablatif neutre singulier)">crudo</w> 
-        <w lemma="intorqueo(3ème singulier indicatif présent actif)">intorquet</w> 
-        <w lemma="summa(datif pluriel)|summa(ablatif pluriel)|summum(datif pluriel)|summum(ablatif pluriel)|summus(datif masculin pluriel)|summus(ablatif masculin pluriel)|summus(datif féminin pluriel)|summus(ablatif féminin pluriel)|summus(datif neutre pluriel)|summus(ablatif neutre pluriel)|summus(datif pluriel)|summus(ablatif pluriel)">summis</w> 
-        <w lemma="adnitor(nominatif masculin singulier participe parfait actif)|adnixus(nominatif masculin singulier)|annitor(nominatif masculin singulier participe parfait actif)">adnixus</w> 
-        <w lemma="uis(datif pluriel)|uis(ablatif pluriel)|uires(datif pluriel)|uires(ablatif pluriel)">viribus</w> 
-        <w lemma="Hasta(accusatif singulier)|hasta(accusatif singulier)">hastam</w>. 
-                   
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="super2" pos="PRE" msd="MORPH=empty">super</w>
+        <w lemma="incumbo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Pres|Voice=Act">incumbens</w>
+        <w lemma="nodus" pos="NOMcom" msd="Case=Abl|Numb=Plur">nodis</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w ana="#male #foreskin" lemma="cortex" pos="NOMcom" msd="Case=Abl|Numb=Sing">cortice</w>
+        <w lemma="crudus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">crudo</w>
+        <w lemma="intorqueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">intorquet</w>
+        <w lemma="superus" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Sup">summis</w>
+        <w lemma="annitor2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc">adnixus</w>
+        <w lemma="uis" pos="NOMcom" msd="Case=Abl|Numb=Plur">viribus</w>
+        <w lemma="hasta" pos="NOMcom" msd="Case=Acc|Numb=Sing">hastam</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

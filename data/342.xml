@@ -1,12 +1,14 @@
-<div type="fragment" corresp="adams:63"  ana="#male #misc">
+<div type="fragment" corresp="adams:63" ana="#male #misc">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0893.phi003.perseus-lat2:8.17-8.18">
-        <w lemma="illitteratus(génitif masculin singulier)|illitteratus(nominatif masculin pluriel)|illitteratus(vocatif masculin pluriel)|illitteratus(génitif neutre singulier)">inlitterati</w> 
-        <w lemma="num(-)">num</w> 
-        <w lemma="parvus(nominatif neutre singulier comparatif)|parvus(vocatif neutre singulier comparatif)|parvus(accusatif neutre singulier comparatif)|minus(nominatif masculin singulier)|paruus(nominatif neutre singulier comparatif)|paruus(vocatif neutre singulier comparatif)|paruus(accusatif neutre singulier comparatif)|minus(-)">minus</w> 
-        <w lemma="nervus(génitif singulier)|nervus(nominatif pluriel)|nervus(vocatif pluriel)|Nervii(nominatif pluriel)|Nervii(vocatif pluriel)|Nervius(génitif masculin singulier)|Nervius(nominatif masculin pluriel)|Nervius(vocatif masculin pluriel)|Nervius(génitif neutre singulier)">nervi</w> 
-        <w lemma="rigeo(3ème pluriel indicatif présent actif)|rigo(3ème pluriel subjonctif présent actif)">rigent</w> 
-        <w lemma="parvus(nominatif neutre singulier comparatif)|parvus(vocatif neutre singulier comparatif)|parvus(accusatif neutre singulier comparatif)|minus(nominatif masculin singulier)|paruus(nominatif neutre singulier comparatif)|paruus(vocatif neutre singulier comparatif)|paruus(accusatif neutre singulier comparatif)|minus(-)">minusve</w> 
-        <w lemma="langueo(3ème singulier indicatif présent actif)">languet</w> 
-        <w lemma="fascinum(nominatif singulier)|fascinum(vocatif singulier)|fascinum(accusatif singulier)|Fascinus(accusatif singulier)|Fascinus(accusatif singulier)"  ana="#male #penis">fascinum</w>?    
+        <w lemma="illitteratus" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos">inlitterati</w>
+        <w lemma="num" pos="ADVint" msd="MORPH=empty">num</w>
+        <w lemma="parum2" pos="ADV" msd="Deg=Comp">minus</w>
+        <w lemma="neruus" pos="NOMcom" msd="Case=Nom|Numb=Plur">nervi</w>
+        <w lemma="rigeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">rigent</w>
+        <w lemma="parum" pos="ADV" msd="Deg=Comp">minusve</w>
+        <w lemma="ue" pos="CON" msd="MORPH=empty">{minusve}</w>
+        <w lemma="langueo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">languet</w>
+        <w ana="#male #penis" lemma="fascinum" pos="NOMcom" msd="Case=Nom|Numb=Sing">fascinum</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>
  </div>

@@ -1,16 +1,16 @@
 <div type="fragment" corresp="adams:84" ana="#field #female #cunnus #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0022.stoa051.opp-lat1:1.44">
-        <w lemma="siquidem(-)">siquidem</w> 
-        <w lemma="Ubii(nominatif pluriel)|Ubii(vocatif pluriel)|Ubius(génitif masculin singulier)|Ubius(nominatif masculin pluriel)|Ubius(vocatif masculin pluriel)|Ubius(génitif neutre singulier)|ubi(-)">ubi</w> 
-        <w lemma="semel(-)">semel</w> 
-        <w lemma="gravis(accusatif masculin singulier)|gravis(accusatif féminin singulier)|grauo(1ère singulier subjonctif présent actif)">grauem</w> 
-        <w lemma="alvus(accusatif singulier)">aluum</w> 
-        <w lemma="se(datif masculin singulier)|se(datif masculin pluriel)|se(datif féminin singulier)|se(datif féminin pluriel)|se(datif neutre singulier)|se(datif neutre pluriel)|sibus(génitif masculin singulier)|sibus(nominatif masculin pluriel)|sibus(vocatif masculin pluriel)|sibus(génitif neutre singulier)|Sibi(-)">sibi</w> 
-        <w lemma="sentio(3ème pluriel indicatif futur antérieur actif)|sentio(3ème pluriel subjonctif parfait actif)">senserint</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="genitale(ablatif singulier)|genitale(datif singulier)|Genitalis(datif singulier)|genitalis(datif masculin singulier)|genitalis(ablatif masculin singulier)|genitalis(datif féminin singulier)|genitalis(ablatif féminin singulier)|genitalis(datif neutre singulier)|genitalis(ablatif neutre singulier)">genitali</w> 
-        <w  ana="#field" lemma="arvum(datif singulier)|arvum(ablatif singulier)|arvus(datif masculin singulier)|arvus(ablatif masculin singulier)|arvus(datif neutre singulier)|arvus(ablatif neutre singulier)">aruo</w> 
-        <w lemma="semen(accusatif singulier)|semen(nominatif singulier)|semen(vocatif singulier)">semen</w> 
-        <w lemma="receptum(nominatif singulier)|receptum(vocatif singulier)|receptum(accusatif singulier)|receptus(accusatif masculin singulier)|receptus(nominatif neutre singulier)|receptus(vocatif neutre singulier)|receptus(accusatif neutre singulier)|Receptus(accusatif singulier)|receptus(accusatif singulier)|recipio(supin en -um)|recipio(accusatif masculin singulier participe parfait passif)|recipio(nominatif neutre singulier participe parfait passif)|recipio(vocatif neutre singulier participe parfait passif)|recipio(accusatif neutre singulier participe parfait passif)">receptum</w>    
+        <w lemma="siquidem" pos="CONsub" msd="MORPH=empty">siquidem</w>
+        <w lemma="ubi3" pos="CONsub" msd="MORPH=empty">ubi</w>
+        <w lemma="semel" pos="ADJadv.mul" msd="MORPH=empty">semel</w>
+        <w lemma="grauis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">grauem</w>
+        <w lemma="aluus" pos="NOMcom" msd="Case=Acc|Numb=Sing">aluum</w>
+        <w lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+        <w lemma="sentio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Perf|Voice=Act|Person=3">senserint</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="genitalis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">genitali</w>
+        <w ana="#field" lemma="aruum" pos="NOMcom" msd="Case=Abl|Numb=Sing">aruo</w>
+        <w lemma="semen1" pos="NOMcom" msd="Case=Acc|Numb=Sing">semen</w>
+        <w lemma="recipio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">receptum</w>
     </quote>
  </div>

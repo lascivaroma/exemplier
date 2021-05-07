@@ -1,28 +1,30 @@
 <div type="fragment" corresp="adams:99" ana="#labia #female #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0836.phi002.perseus-lat4:7.28">
-        <w lemma="tum(-)">tum</w> 
-        <w lemma="a(-)">ab</w> 
-        <w  ana="#labia " lemma="Ora(nominatif singulier)|Ora(vocatif singulier)|Ora(ablatif singulier)|ora(nominatif singulier)|ora(vocatif singulier)|ora(ablatif singulier)|oro(2ème singulier impératif présent actif)|os(nominatif pluriel)|os(vocatif pluriel)|os(accusatif pluriel)|orum(nominatif pluriel)|orum(vocatif pluriel)|orum(accusatif pluriel)">ora</w> 
-        <w lemma="uel(-)">vel</w> 
-        <w lemma="volsella(nominatif singulier)|volsella(vocatif singulier)|volsella(ablatif singulier)">volsella</w> 
-        <w lemma="uel(-)">vel</w> 
-        <w lemma="hamus(datif singulier)|hamus(ablatif singulier)|hamo(1ère singulier indicatif présent actif)">hamo</w> 
-        <w lemma="apprenso(2ème singulier impératif présent actif)">adprensa</w> 
-        <w lemma="tamquam(-)">tamquam</w> 
-        <w lemma="habenula(accusatif singulier)">habenulam</w> 
-        <w lemma="excido(3ème pluriel indicatif parfait actif)|excido(infinitif présent actif)|excido(2ème singulier indicatif présent passif)|excido(2ème singulier indicatif futur passif)|excido(2ème singulier impératif présent passif)|excido(3ème pluriel indicatif parfait actif)|excido(infinitif présent actif)|excido(2ème singulier indicatif présent passif)|excido(2ème singulier indicatif futur passif)|excido(2ème singulier impératif présent passif)|excindo(3ème pluriel indicatif parfait actif)">excidere</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="intus(-)">intus</w> 
-        <w lemma="implicitus(accusatif masculin singulier)|implicitus(nominatif neutre singulier)|implicitus(vocatif neutre singulier)|implicitus(accusatif neutre singulier)|implico(supin en -um)|implico(accusatif masculin singulier participe parfait passif)|implico(nominatif neutre singulier participe parfait passif)|implico(vocatif neutre singulier participe parfait passif)|implico(accusatif neutre singulier participe parfait passif)">implicitum</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="longitudo(accusatif singulier)">longitudinem</w> 
-        <w lemma="linamentum(nominatif singulier)|linamentum(vocatif singulier)|linamentum(accusatif singulier)">linamentum</w> (
-        <w lemma="lemniscus(accusatif singulier)">lemniscum</w> 
-        <w lemma="Graeci(nominatif pluriel)|Graeci(vocatif pluriel)|Graecus(génitif masculin singulier)|Graecus(nominatif masculin pluriel)|Graecus(vocatif masculin pluriel)|Graecus(génitif neutre singulier)|Graecum(génitif singulier)|Graecus(génitif singulier)|Graecus(nominatif pluriel)|Graecus(vocatif pluriel)">Graeci</w> 
-        <w lemma="uoco(3ème pluriel indicatif présent actif)">vocant</w>) 
-        <w lemma="in(-)">in</w> 
-        <w lemma="aceo(2ème singulier impératif futur actif)|aceo(3ème singulier impératif futur actif)|acetum(datif singulier)|acetum(ablatif singulier)|aceto(1ère singulier indicatif présent actif)|aceto(1ère singulier indicatif présent actif)">aceto</w> 
-        <w lemma="tingo(supin en -um)|tingo(accusatif masculin singulier participe parfait passif)|tingo(nominatif neutre singulier participe parfait passif)|tingo(vocatif neutre singulier participe parfait passif)|tingo(accusatif neutre singulier participe parfait passif)|tinctus(accusatif masculin singulier)|tinctus(nominatif neutre singulier)|tinctus(vocatif neutre singulier)|tinctus(accusatif neutre singulier)|tinctus(accusatif singulier)">tinctum</w> 
-        <w lemma="demitto(infinitif présent actif)|demitto(2ème singulier indicatif présent passif)|demitto(2ème singulier indicatif futur passif)|demitto(2ème singulier impératif présent passif)">demittere</w>    
+        <w lemma="tum" pos="ADV" msd="Deg=Pos">tum</w>
+        <w lemma="ab" pos="PRE" msd="MORPH=empty">ab</w>
+        <w ana="#labia" lemma="os1" pos="NOMcom" msd="Case=Abl|Numb=Sing">ora</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+        <w lemma="uolsella" pos="NOMcom" msd="Case=Abl|Numb=Plur">volsella</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+        <w lemma="hamus" pos="NOMcom" msd="Case=Abl|Numb=Sing">hamo</w>
+        <w lemma="apprehendo" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">adprensa</w>
+        <w lemma="tamquam1" pos="ADVrel" msd="MORPH=empty">tamquam</w>
+        <w lemma="habenula" pos="NOMcom" msd="Case=Acc|Numb=Sing">habenulam</w>
+        <w lemma="excido2" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">excidere</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="intus1" pos="ADV" msd="Deg=Pos">intus</w>
+        <w lemma="implico" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">implicitum</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="longitudo" pos="NOMcom" msd="Case=Acc|Numb=Sing">longitudinem</w>
+        <w lemma="linamentum" pos="NOMcom" msd="Case=Acc|Numb=Sing">linamentum</w>
+        <w lemma="(" pos="PUNC" msd="MORPH=empty">(</w>
+        <w lemma="lemniscus" pos="NOMcom" msd="Case=Acc|Numb=Sing">lemniscum</w>
+        <w lemma="Graeci" pos="NOMpro" msd="Case=Nom|Numb=Plur">Graeci</w>
+        <w lemma="uoco" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">vocant</w>
+        <w lemma=")" pos="PUNC" msd="MORPH=empty">)</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="acetum" pos="NOMcom" msd="Case=Abl|Numb=Sing">aceto</w>
+        <w lemma="tingo" pos="VER" msd="Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">tinctum</w>
+        <w lemma="demitto" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">demittere</w>
     </quote>
  </div>

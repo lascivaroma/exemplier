@@ -1,14 +1,15 @@
-<div type="fragment" corresp="adams:66"  ana="#male #testicle">
+<div type="fragment" corresp="adams:66" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:29.3-29.4">
-        <w lemma="sed(-)|sed(-)">sed</w> 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="tu(nominatif masculin singulier)|tu(nominatif féminin singulier)">tu</w> 
-        <w lemma="pono(datif masculin singulier participe parfait passif)|pono(ablatif masculin singulier participe parfait passif)|pono(datif neutre singulier participe parfait passif)|pono(ablatif neutre singulier participe parfait passif)|positus(datif masculin singulier)|positus(ablatif masculin singulier)|positus(datif neutre singulier)|positus(ablatif neutre singulier)">posito</w> 
-        <w lemma="deus(vocatif singulier)|deus(nominatif singulier)">deus</w> 
-        <w lemma="pudor(ablatif singulier)">pudore</w> 
-        <w lemma="ostendo(2ème singulier subjonctif présent actif)">ostendas</w> 
-        <w lemma="ego(datif masculin singulier)|ego(datif féminin singulier)">mihi</w> 
-        <w  ana="#male #testicules" lemma="coleus(accusatif pluriel)">coleos</w> 
-        <w lemma="pateo(nominatif masculin pluriel participe présent actif)|pateo(vocatif masculin pluriel participe présent actif)|pateo(accusatif masculin pluriel participe présent actif)|pateo(nominatif féminin pluriel participe présent actif)|pateo(vocatif féminin pluriel participe présent actif)|pateo(accusatif féminin pluriel participe présent actif)|patens(nominatif masculin pluriel)|patens(vocatif masculin pluriel)|patens(accusatif masculin pluriel)|patens(nominatif féminin pluriel)|patens(vocatif féminin pluriel)|patens(accusatif féminin pluriel)">patentes</w>,    
+        <w lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+        <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+        <w lemma="tu" pos="PROper" msd="Case=Nom|Numb=Sing">tu</w>
+        <w lemma="pono" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">posito</w>
+        <w lemma="deus" pos="NOMcom" msd="Case=Nom|Numb=Sing">deus</w>
+        <w lemma="pudor" pos="NOMcom" msd="Case=Abl|Numb=Sing">pudore</w>
+        <w lemma="ostendo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">ostendas</w>
+        <w lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+        <w ana="#male #testicules" lemma="coleus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coleos</w>
+        <w lemma="pateo" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">patentes</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

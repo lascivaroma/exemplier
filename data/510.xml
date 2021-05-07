@@ -1,25 +1,28 @@
 <div type="fragment" corresp="adams:91" ana="#sinus #euphemism #female #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.96">
-        <w lemma="sum(3ème singulier subjonctif présent actif)">sit</w> 
-        <w lemma="autem(-)">autem</w> 
-        <w lemma="foramen(accusatif singulier)|foramen(nominatif singulier)|foramen(vocatif singulier)">foramen</w> 
-        <w lemma="ipse(nominatif neutre singulier)|ipse(accusatif neutre singulier)|ipse(accusatif masculin singulier)">ipsum</w> 
-        <w lemma="non(-)">non</w> 
-        <w lemma="nimium(datif pluriel)|nimium(ablatif pluriel)|nimius(datif masculin pluriel)|nimius(ablatif masculin pluriel)|nimius(datif féminin pluriel)|nimius(ablatif féminin pluriel)|nimius(datif neutre pluriel)|nimius(ablatif neutre pluriel)|nimis(-)">nimis</w> 
-        <w lemma="amplus(accusatif masculin singulier)|amplus(nominatif neutre singulier)|amplus(vocatif neutre singulier)|amplus(accusatif neutre singulier)">amplum</w>, 
-        <w lemma="neo(2ème singulier impératif présent actif)|nes(vocatif singulier)|nes(ablatif singulier)|ne(-)|ne(-)|ne(positif)">ne</w> 
-        <w lemma="tenuis(nominatif masculin pluriel)|tenuis(vocatif masculin pluriel)|tenuis(accusatif masculin pluriel)|tenuis(nominatif féminin pluriel)|tenuis(vocatif féminin pluriel)|tenuis(accusatif féminin pluriel)|tenuo(2ème singulier subjonctif présent actif)">tenues</w> 
-        <w lemma="femina(accusatif pluriel)|femino(2ème singulier indicatif présent actif)">feminas</w> 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="os(datif pluriel)|os(ablatif pluriel)">ossibus</w> 
-        <w lemma="vertebrum(génitif pluriel)">vertebrorum</w> 
-        <w lemma="recipio(3ème singulier subjonctif présent actif)">recipiat</w>, 
-        <w lemma="nec(-)">nec</w> 
-        <w lemma="angustum(nominatif singulier)|angustum(vocatif singulier)|angustum(accusatif singulier)|angustus(accusatif masculin singulier)|angustus(nominatif neutre singulier)|angustus(vocatif neutre singulier)|angustus(accusatif neutre singulier)">angustum</w>, 
-        <w lemma="neo(2ème singulier impératif présent actif)|nes(vocatif singulier)|nes(ablatif singulier)|ne(-)|ne(-)|ne(positif)">ne</w> 
-        <w ana="#sinus #euphemism #composite"  lemma="femininus(accusatif masculin singulier)|femininus(nominatif neutre singulier)|femininus(vocatif neutre singulier)|femininus(accusatif neutre singulier)">femininum</w> 
-        <w ana="#sinus #euphemism #composite"  lemma="sinus(accusatif singulier)|sinum(nominatif singulier)|sinum(vocatif singulier)|sinum(accusatif singulier)|sinus(accusatif singulier)">sinum</w> 
-        <w lemma="comprimo(3ème singulier subjonctif présent actif)">comprimat</w>.
-    
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">sit</w>
+        <w lemma="autem" pos="CONcoo" msd="MORPH=empty">autem</w>
+        <w lemma="foramen" pos="NOMcom" msd="Case=Nom|Numb=Sing">foramen</w>
+        <w lemma="ipse" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">ipsum</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="nimis" pos="ADV" msd="Deg=Pos">nimis</w>
+        <w lemma="amplus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">amplum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+        <w lemma="tenuis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos">tenues</w>
+        <w lemma="femina" pos="NOMcom" msd="Case=Acc|Numb=Plur">feminas</w>
+        <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+        <w lemma="os2" pos="NOMcom" msd="Case=Abl|Numb=Plur">ossibus</w>
+        <w lemma="uertebri" pos="NOMcom" msd="Case=Gen|Numb=Plur">vertebrorum</w>
+        <w lemma="recipio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">recipiat</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+        <w lemma="angustus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">angustum</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ne4" pos="CONsub" msd="MORPH=empty">ne</w>
+        <w ana="#sinus #euphemism #composite" lemma="femininus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">femininum</w>
+        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Acc|Numb=Sing">sinum</w>
+        <w lemma="comprimo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">comprimat</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

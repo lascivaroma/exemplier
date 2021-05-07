@@ -1,11 +1,11 @@
-<div type="fragment" corresp="adams:72"  ana="#male #glans">
+<div type="fragment" corresp="adams:72" ana="#male #glans">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:82.3-82.4">
-        <w lemma="nec(-)">nec</w> 
-        <w lemma="uiriliter(positif)">uiriliter</w> 
-        <w lemma="iners(nominatif neutre singulier)|iners(vocatif neutre singulier)|iners(accusatif neutre singulier)|iners(nominatif masculin singulier)|iners(vocatif masculin singulier)|iners(nominatif féminin singulier)|iners(vocatif féminin singulier)">iners</w> 
-        <w lemma="senilis(nominatif neutre singulier)|senilis(vocatif neutre singulier)|senilis(accusatif neutre singulier)">senile</w> 
-        <w lemma="penis(accusatif pluriel)|penis(génitif singulier)|penus(datif pluriel)|penus(ablatif pluriel)|penum(datif pluriel)|penum(ablatif pluriel)|Penius(datif pluriel)|Penius(ablatif pluriel)|penis(nominatif singulier)|penis(vocatif singulier)">penis</w> 
-        <w lemma="ecfero(3ème singulier indicatif parfait actif)|effero(3ème singulier indicatif parfait actif)|extollo(3ème singulier indicatif parfait actif)">extulit</w> 
-        <w lemma="caput(accusatif singulier)|caput(nominatif singulier)|caput(vocatif singulier)"  ana="#male #glans" >caput</w>    
+        <w lemma="nec2" pos="CONcoo" msd="MORPH=empty">nec</w>
+        <w lemma="uiriliter" pos="ADV" msd="Deg=Pos">uiriliter</w>
+        <w lemma="iners" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">iners</w>
+        <w lemma="senilis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">senile</w>
+        <w lemma="penis" pos="NOMcom" msd="Case=Nom">penis</w>
+        <w lemma="effero2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">extulit</w>
+        <w ana="#male #glans" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
     </quote>
  </div>

@@ -1,18 +1,18 @@
 <div type="fragment" corresp="adams:93" ana="#pars #euphemism">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1351.phi005.lascivaroma-lat1:14.60">
-        <w lemma="ex(-)">ex</w> 
-        <w lemma="qui(datif masculin pluriel)|qui(ablatif masculin pluriel)|qui(datif féminin pluriel)|qui(ablatif féminin pluriel)|qui(datif neutre pluriel)|qui(ablatif neutre pluriel)|quis(datif masculin pluriel)|quis(ablatif masculin pluriel)|quis(datif féminin pluriel)|quis(ablatif féminin pluriel)|quis(datif neutre pluriel)|quis(ablatif neutre pluriel)">quibus</w> 
-        <w lemma="unus(nominatif féminin singulier)|unus(vocatif féminin singulier)|unus(ablatif féminin singulier)|unus(nominatif neutre pluriel)|unus(vocatif neutre pluriel)|unus(accusatif neutre pluriel)|uno(2ème singulier impératif présent actif)|una(-)">una</w> 
-        <w lemma="insto(datif masculin singulier participe présent actif)|insto(datif féminin singulier participe présent actif)|insto(datif neutre singulier participe présent actif)|instans(datif masculin singulier)|instans(ablatif masculin singulier)|instans(datif féminin singulier)|instans(ablatif féminin singulier)|instans(datif neutre singulier)|instans(ablatif neutre singulier)|Instantius(vocatif singulier)|Instantius(génitif singulier)|Instantius(nominatif pluriel)|Instantius(vocatif pluriel)">instanti</w> 
-        <w lemma="Tigellinus(datif singulier)|Tigellinus(ablatif singulier)">Tigellino</w> 
-        <w lemma="castus(nominatif neutre pluriel comparatif)|castus(vocatif neutre pluriel comparatif)|castus(accusatif neutre pluriel comparatif)">castiora</w> 
-        <w lemma="esse(infinitif présent actif)|sum(infinitif présent actif)">esse</w> 
-        <w ana="#pars #euphemism"  lemma="muliebria(nominatif pluriel)|muliebria(vocatif pluriel)|muliebria(accusatif pluriel)|muliebris(nominatif neutre pluriel)|muliebris(vocatif neutre pluriel)|muliebris(accusatif neutre pluriel)">muliebria</w> 
-        <w lemma="Octavia(locatif)|Octavia(génitif singulier)|Octavia(datif singulier)|Octavia(nominatif pluriel)|Octavia(vocatif pluriel)|Octavius(génitif féminin singulier)|Octavius(datif féminin singulier)|Octavius(nominatif féminin pluriel)|Octavius(vocatif féminin pluriel)">Octaviae</w> 
-        <w lemma="respondeo(3ème singulier indicatif parfait actif)">respondit</w> 
-
-        <w lemma="qui(accusatif féminin singulier)|quis(accusatif féminin singulier)|quam(-)|quam(-)">quam</w> 
-        <w lemma="os(accusatif singulier)|os(nominatif singulier)|os(vocatif singulier)|os(accusatif singulier)|os(nominatif singulier)|os(vocatif singulier)">os</w> 
-        <w lemma="is(génitif masculin singulier)|is(génitif féminin singulier)|is(génitif neutre singulier)|Eus(nominatif neutre singulier comparatif)|Eus(vocatif neutre singulier comparatif)|Eus(accusatif neutre singulier comparatif)">eius</w>.     
+        <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Plur|Gend=Com">quibus</w>
+        <w lemma="unus" pos="ADJcar" msd="Numb=Sing|Gend=Fem">una</w>
+        <w lemma="insto" pos="VER" msd="Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">instanti</w>
+        <w lemma="Tigellinus" pos="NOMpro" msd="Case=Dat|Numb=Sing">Tigellino</w>
+        <w lemma="castus2" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Comp">castiora</w>
+        <w lemma="sum1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act">esse</w>
+        <w ana="#pars #euphemism" lemma="muliebris" pos="NOMcom" msd="Case=Acc|Numb=Plur|Gend=Neut">muliebria</w>
+        <w lemma="Octauia" pos="NOMpro" msd="Case=Gen|Numb=Sing">Octaviae</w>
+        <w lemma="respondeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">respondit</w>
+        <w lemma="quam1" pos="ADVrel" msd="Numb=Sing">quam</w>
+        <w lemma="os1" pos="NOMcom" msd="Case=Acc|Numb=Sing">os</w>
+        <w lemma="is" pos="PROdem" msd="Case=Gen|Numb=Sing|Gend=Com">eius</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

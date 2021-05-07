@@ -1,9 +1,10 @@
-<div type="fragment" corresp="adams:67"  ana="#male #testicle">
+<div type="fragment" corresp="adams:67" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0975.phi001.perseus-lat2:3.11.5">
-        <w lemma="integritas(génitif singulier)">Integritatis</w> 
-        <w  ana="#male #testicules" lemma="testis(accusatif pluriel)|testis(nominatif pluriel)|testis(vocatif pluriel)|testo(2ème singulier subjonctif présent actif)|testis(accusatif pluriel)|testis(nominatif pluriel)|testis(vocatif pluriel)">testes</w> 
-        <w lemma="quia(-)">quia</w> 
-        <w lemma="desum(3ème pluriel indicatif présent actif)">desunt</w> 
-        <w lemma="ego(datif masculin singulier)|ego(datif féminin singulier)">mihi</w>.     
+        <w lemma="integritas" pos="NOMcom" msd="Case=Gen|Numb=Sing">Integritatis</w>
+        <w ana="#male #testicules" lemma="testis1" pos="NOMcom" msd="Case=Nom|Numb=Plur">testes</w>
+        <w lemma="quia" pos="CONsub" msd="MORPH=empty">quia</w>
+        <w lemma="desum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">desunt</w>
+        <w lemma="ego" pos="PROper" msd="Case=Dat|Numb=Sing">mihi</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

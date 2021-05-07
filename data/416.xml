@@ -1,14 +1,16 @@
-<div type="fragment" corresp="adams:72"  ana="#male #glans">
+<div type="fragment" corresp="adams:72" ana="#male #glans">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:82.36-82.37">
-        <w lemma="superbia(nominatif singulier)|superbia(vocatif singulier)|superbia(ablatif singulier)">Superbia</w> 
-        <w lemma="iste(nominatif féminin singulier)|iste(ablatif féminin singulier)|iste(nominatif neutre pluriel)|iste(accusatif neutre pluriel)">ista</w> 
-        <w lemma="prosum(3ème singulier indicatif futur actif)">proderit</w> 
-        <w lemma="nihil(nominatif neutre singulier)|nihil(accusatif neutre singulier)">nihil</w>, 
-        <w lemma="simul(-)">simul</w> 
-        <w lemma="uagus(accusatif masculin singulier)|uagus(nominatif neutre singulier)|uagus(vocatif neutre singulier)|uagus(accusatif neutre singulier)">uagum</w> 
-        <w lemma="sono(ablatif masculin singulier participe présent actif)|sono(ablatif féminin singulier participe présent actif)|sono(ablatif neutre singulier participe présent actif)|sonans(nominatif neutre singulier)|sonans(vocatif neutre singulier)|sonans(accusatif neutre singulier)">sonante</w> 
-        <w lemma="mergo(2ème singulier indicatif futur antérieur actif)|mergo(2ème singulier subjonctif parfait actif)|merso(2ème singulier subjonctif présent passif)">merseris</w> 
-        <w lemma="caput(accusatif singulier)|caput(nominatif singulier)|caput(vocatif singulier)"  ana="#male #glans" >caput</w> 
-        <w lemma="lutum(datif singulier)|lutum(ablatif singulier)|luto(1ère singulier indicatif présent actif)|luto(1ère singulier indicatif présent actif)|lutum(datif singulier)|lutum(ablatif singulier)|lutus(datif singulier)|lutus(ablatif singulier)">luto</w>.    
+        <w lemma="superbia" pos="NOMcom" msd="Case=Nom|Numb=Sing">Superbia</w>
+        <w lemma="iste" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">ista</w>
+        <w lemma="prosum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3">proderit</w>
+        <w lemma="nihil" pos="PROind" msd="Case=Ind">nihil</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="simul1" pos="ADV" msd="Deg=Pos">simul</w>
+        <w lemma="uagus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">uagum</w>
+        <w lemma="sono1" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">sonante</w>
+        <w lemma="mergo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=FutAnt|Voice=Act|Person=2">merseris</w>
+        <w ana="#male #glans" lemma="caput" pos="NOMcom" msd="Case=Acc|Numb=Sing">caput</w>
+        <w lemma="lutum1" pos="NOMcom" msd="Case=Abl|Numb=Sing">luto</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

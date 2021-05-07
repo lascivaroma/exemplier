@@ -1,29 +1,31 @@
 <div type="fragment" corresp="adams:91" ana="#sinus #euphemism #female #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:II.93">
-        <w lemma="tunc(-)">tunc</w> 
-        <w lemma="distendo(datif masculin pluriel participe parfait passif)|distendo(ablatif masculin pluriel participe parfait passif)|distendo(datif féminin pluriel participe parfait passif)|distendo(ablatif féminin pluriel participe parfait passif)|distendo(datif neutre pluriel participe parfait passif)|distendo(ablatif neutre pluriel participe parfait passif)|distentus(datif masculin pluriel)|distentus(ablatif masculin pluriel)|distentus(datif féminin pluriel)|distentus(ablatif féminin pluriel)|distentus(datif neutre pluriel)|distentus(ablatif neutre pluriel)|distineo(datif masculin pluriel participe parfait passif)|distineo(ablatif masculin pluriel participe parfait passif)|distineo(datif féminin pluriel participe parfait passif)|distineo(ablatif féminin pluriel participe parfait passif)|distineo(datif neutre pluriel participe parfait passif)|distineo(ablatif neutre pluriel participe parfait passif)|distentus(datif masculin pluriel)|distentus(ablatif masculin pluriel)|distentus(datif féminin pluriel)|distentus(ablatif féminin pluriel)|distentus(datif neutre pluriel)|distentus(ablatif neutre pluriel)">distentis</w> 
-        <w lemma="fibra(datif pluriel)|fibra(ablatif pluriel)|fiber(datif masculin pluriel)|fiber(ablatif masculin pluriel)|fiber(datif féminin pluriel)|fiber(ablatif féminin pluriel)|fiber(datif neutre pluriel)|fiber(ablatif neutre pluriel)|fiber(datif pluriel)|fiber(ablatif pluriel)">fibris</w> 
-        <w ana="#sinus #euphemism #composite"  lemma="sinus(nominatif singulier)|sinus(vocatif singulier)|sinus(génitif singulier)|sinus(nominatif pluriel)|sinus(vocatif pluriel)|sinus(accusatif pluriel)|sinus(nominatif singulier)">sinus</w> 
-        <w ana="#sinus #euphemism #composite"  lemma="femininus(génitif masculin singulier)|femininus(nominatif masculin pluriel)|femininus(vocatif masculin pluriel)|femininus(génitif neutre singulier)">feminini</w> 
-        <w lemma="ex(-)">ex</w> 
-        <w lemma="uterque(nominatif féminin singulier)|uterque(vocatif féminin singulier)|uterque(ablatif féminin singulier)|uterque(nominatif neutre pluriel)|uterque(vocatif neutre pluriel)|uterque(accusatif neutre pluriel)|utraque(-)|uter(nominatif féminin singulier)|uter(vocatif féminin singulier)|uter(ablatif féminin singulier)|uter(nominatif neutre pluriel)|uter(vocatif neutre pluriel)|uter(accusatif neutre pluriel)">utraque</w> 
-        <w lemma="minister(génitif masculin pluriel comparatif)|minister(génitif féminin pluriel comparatif)|minister(génitif neutre pluriel comparatif)|minister(génitif masculin pluriel)|minister(génitif neutre pluriel)|minister(génitif pluriel)">ministrorum</w> 
-        <w lemma="officio(1ère singulier indicatif présent actif)|officium(datif singulier)|officium(ablatif singulier)">officio</w>, 
-        <w lemma="manus(nominatif masculin singulier)|manus(nominatif singulier)|manus(vocatif singulier)|manus(génitif singulier)|manus(nominatif pluriel)|manus(vocatif pluriel)|manus(accusatif pluriel)|manos(nominatif singulier)">manus</w> 
-        <w lemma="sinister(nominatif féminin singulier)|sinister(vocatif féminin singulier)|sinister(ablatif féminin singulier)|sinister(nominatif neutre pluriel)|sinister(vocatif neutre pluriel)|sinister(accusatif neutre pluriel)|sinistra(nominatif singulier)|sinistra(vocatif singulier)|sinistra(ablatif singulier)|sinistrum(nominatif pluriel)|sinistrum(vocatif pluriel)|sinistrum(accusatif pluriel)">sinistra</w> 
-        <w lemma="">inhiciatur</w>: 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
-        <w lemma="enim(-)">enim</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="hic(ablatif masculin singulier)|hic(nominatif neutre singulier)|hic(accusatif neutre singulier)|hic(ablatif neutre singulier)|hoc(-)">hoc</w> 
-        <w lemma="usus(ablatif singulier)|utor(supin en -u)">usu</w> 
-        <w lemma="dextre(positif)">dextre</w> 
-        <w lemma="">preponenda</w> 
-        <w lemma="facilitas(génitif singulier)">facilitatis</w> 
-        <w lemma="atque(-)|at(-)">atque</w> 
-        <w lemma="munde(positif)|mundus(vocatif masculin singulier)|mundus(vocatif singulier)">munde</w> 
-        <w lemma="operatio(génitif singulier)">operationis</w> 
-        <w lemma="causa(nominatif singulier)|causa(vocatif singulier)|causa(ablatif singulier)|causa(-)">causa</w>.
-    
+        <w lemma="tunc" pos="ADV" msd="Deg=Pos">tunc</w>
+        <w lemma="distendo" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass">distentis</w>
+        <w lemma="fibra" pos="NOMcom" msd="Case=Abl|Numb=Plur">fibris</w>
+        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Nom|Numb=Sing">sinus</w>
+        <w ana="#sinus #euphemism #composite" lemma="femininus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">feminini</w>
+        <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+        <w lemma="uterque" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=Fem">utraque</w>
+        <w lemma="minister1" pos="NOMcom" msd="Case=Gen|Numb=Plur">ministrorum</w>
+        <w lemma="officium" pos="NOMcom" msd="Case=Abl|Numb=Sing">officio</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="manus1" pos="NOMcom" msd="Case=Nom|Numb=Sing">manus</w>
+        <w lemma="sinistra1" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=Fem">sinistra</w>
+        <w lemma="inhicio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3">inhiciatur</w>
+        <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="hic1" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=MascNeut">hoc</w>
+        <w lemma="usus" pos="NOMcom" msd="Case=Abl|Numb=Sing">usu</w>
+        <w lemma="dexter" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">dextre</w>
+        <w lemma="prepono" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass">preponenda</w>
+        <w lemma="facilitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">facilitatis</w>
+        <w lemma="atque1" pos="CONcoo" msd="MORPH=empty">atque</w>
+        <w lemma="munde" pos="ADV" msd="MORPH=empty">munde</w>
+        <w lemma="operatio" pos="NOMcom" msd="Case=Gen|Numb=Sing">operationis</w>
+        <w lemma="causa" pos="NOMcom" msd="Case=Abl|Numb=Sing">causa</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

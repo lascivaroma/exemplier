@@ -1,14 +1,14 @@
 <div type="fragment" corresp="adams:85" ana="#fossa #female #cunnus #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:4.7">
-        <w lemma="qui(nominatif féminin singulier)|qui(nominatif féminin pluriel)|qui(nominatif neutre pluriel)|qui(accusatif neutre pluriel)|quis(nominatif féminin singulier)|quis(nominatif féminin pluriel)|quis(nominatif neutre pluriel)|quis(accusatif neutre pluriel)">quae</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="cubiculum(datif pluriel)|cubiculum(ablatif pluriel)">cubiculis</w> 
-        <w lemma="praesto(1ère singulier indicatif présent actif)|praestus(datif masculin singulier)|praestus(ablatif masculin singulier)|praestus(datif neutre singulier)|praestus(ablatif neutre singulier)|praesto(-)">praesto</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
-        <w lemma="virginalis(accusatif masculin singulier)|virginalis(accusatif féminin singulier)">uirginalem</w> 
-        <w ana="#fossa"  lemma="scrobis(accusatif singulier)">scrobem</w> 
-        <w lemma="effodio(datif masculin pluriel participe présent actif)|effodio(ablatif masculin pluriel participe présent actif)|effodio(datif féminin pluriel participe présent actif)|effodio(ablatif féminin pluriel participe présent actif)|effodio(datif neutre pluriel participe présent actif)|effodio(ablatif neutre pluriel participe présent actif)">effodientibus</w> 
-            
-        <w lemma="marita(datif pluriel)|marita(ablatif pluriel)|maritus(datif masculin pluriel)|maritus(ablatif masculin pluriel)|maritus(datif féminin pluriel)|maritus(ablatif féminin pluriel)|maritus(datif neutre pluriel)|maritus(ablatif neutre pluriel)|maritus(datif pluriel)|maritus(ablatif pluriel)|mariti(datif pluriel)|mariti(ablatif pluriel)">maritis</w>?    
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem">quae</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="cubiculum" pos="NOMcom" msd="Case=Abl|Numb=Plur">cubiculis</w>
+        <w lemma="praesto2" pos="ADV" msd="Deg=Pos">praesto</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="uirginalis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos">uirginalem</w>
+        <w ana="#fossa" lemma="scrobis" pos="NOMcom" msd="Case=Acc|Numb=Sing">scrobem</w>
+        <w lemma="effodio" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">effodientibus</w>
+        <w lemma="maritus1" pos="NOMcom" msd="Case=Abl|Numb=Plur">maritis</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>
  </div>

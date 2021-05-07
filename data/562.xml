@@ -1,17 +1,19 @@
 <div type="fragment" corresp="adams:95" ana=" #female #cunnus #euphemism #specialisation">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1014.phi001.perseus-lat1:2.5.4">
-        <w lemma="flagellum(datif pluriel)|flagellum(ablatif pluriel)">flagellis</w> 
-        <w lemma="caedo(3ème pluriel indicatif présent passif)">caeduntur</w> 
-        <w lemma="artus(nominatif singulier)|artus(vocatif singulier)|artus(génitif singulier)|artus(nominatif pluriel)|artus(vocatif pluriel)|artus(accusatif pluriel)|artus(nominatif masculin singulier)">artus</w>,
-
-        <w lemma="verbera(datif pluriel)|verbera(ablatif pluriel)|verber(datif pluriel)|verber(ablatif pluriel)">uerberibus</w> 
-        <w lemma="corpus(accusatif singulier)|corpus(nominatif singulier)|corpus(vocatif singulier)">corpus</w> 
-        <w lemma="abrumpo(3ème singulier indicatif présent passif)">abrumpitur</w> 
-        <w lemma="exprimo(3ème pluriel indicatif présent passif)">exprimunturque</w> 
-        <w lemma="ipse(datif masculin pluriel)|ipse(ablatif masculin pluriel)|ipse(datif féminin pluriel)|ipse(ablatif féminin pluriel)|ipse(datif neutre pluriel)|ipse(ablatif neutre pluriel)">ipsis</w>
-
-        <w  ana="#euphemism #specialisation #composite" lemma="uitalia(datif pluriel)|uitalia(ablatif pluriel)|uitalis(datif masculin pluriel)|uitalis(ablatif masculin pluriel)|uitalis(datif féminin pluriel)|uitalis(ablatif féminin pluriel)|uitalis(datif neutre pluriel)|uitalis(ablatif neutre pluriel)|Uitalis(datif pluriel)|Uitalis(ablatif pluriel)">uitalibus</w> 
-        <w lemma="cruor(nominatif pluriel)|cruor(vocatif pluriel)|cruor(accusatif pluriel)">cruores</w>: 
-        <w lemma="taceo(3ème singulier indicatif présent actif)">tacet</w>.     
+        <w lemma="flagellum" pos="NOMcom" msd="Case=Abl|Numb=Plur">flagellis</w>
+        <w lemma="caedo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">caeduntur</w>
+        <w lemma="artus1" pos="NOMcom" msd="Case=Nom|Numb=Plur">artus</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="uerber" pos="NOMcom" msd="Case=Abl|Numb=Plur">uerberibus</w>
+        <w lemma="corpus" pos="NOMcom" msd="Case=Nom|Numb=Sing">corpus</w>
+        <w lemma="abrumpo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">abrumpitur</w>
+        <w lemma="exprimo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">exprimunturque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{exprimunturque}</w>
+        <w lemma="ipse" pos="PROdem" msd="Case=Abl|Numb=Plur|Gend=Com">ipsis</w>
+        <w ana="#euphemism #specialisation #composite" lemma="uitalia" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">uitalibus</w>
+        <w lemma="cruor" pos="NOMcom" msd="Case=Nom|Numb=Plur">cruores</w>
+        <w lemma=":" pos="PUNC" msd="MORPH=empty">:</w>
+        <w lemma="taceo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">tacet</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

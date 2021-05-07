@@ -1,10 +1,12 @@
 <div type="fragment" corresp="adams:84" ana="#field #female #cunnus #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0119.phi002.perseus-lat2:874">
-        <w  ana="#field" lemma="fundus(accusatif singulier)">fundum</w> 
-        <w lemma="alienum(nominatif singulier)|alienum(vocatif singulier)|alienum(accusatif singulier)|alienus(accusatif singulier)|Alienus(accusatif singulier)|alienus(accusatif masculin singulier)|alienus(nominatif neutre singulier)|alienus(vocatif neutre singulier)|alienus(accusatif neutre singulier)">alienum</w> 
-        <w lemma="aro(3ème singulier indicatif présent actif)">arat</w>, 
-        <w lemma="incolo(supin en -um)|incolo(accusatif masculin singulier participe parfait passif)|incolo(nominatif neutre singulier participe parfait passif)|incolo(vocatif neutre singulier participe parfait passif)|incolo(accusatif neutre singulier participe parfait passif)|incultus(accusatif masculin singulier)|incultus(nominatif neutre singulier)|incultus(vocatif neutre singulier)|incultus(accusatif neutre singulier)|incultus(accusatif singulier)">incultum</w> 
-        <w lemma="familiaris(accusatif singulier)|familiaris(accusatif masculin singulier)|familiaris(accusatif féminin singulier)">familiarem</w> 
-        <w lemma="desero(3ème singulier indicatif présent actif)|desero(3ème singulier indicatif présent actif)">deserit</w>.    
+        <w ana="#field" lemma="fundus" pos="NOMcom" msd="Case=Acc|Numb=Sing">fundum</w>
+        <w lemma="alienus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">alienum</w>
+        <w lemma="aro" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">arat</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="incultus2" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">incultum</w>
+        <w lemma="familiaris1" pos="NOMcom" msd="Case=Acc|Numb=Sing|Deg=Pos">familiarem</w>
+        <w lemma="desero2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">deserit</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

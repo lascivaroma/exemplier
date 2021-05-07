@@ -1,11 +1,13 @@
-<div type="fragment" corresp="adams:70"  ana="#male #testicle">
+<div type="fragment" corresp="adams:70" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0978.phi001.perseus-lat2:7.4">
-        <w lemma="mox(-)">mox</w> 
-        <w lemma="Barba(accusatif singulier)|barba(accusatif singulier)">barbam</w> 
-        <w lemma="et(-)">et</w> 
-        <w  ana="#male #testicules" lemma="uirilitas(accusatif singulier)">virilitatem</w> 
-        <w lemma="prouenio(infinitif parfait actif)">provenisse</w> 
-        <w lemma="uxor(accusatif singulier)">uxoremque</w> 
-        <w lemma="duco(infinitif parfait actif)">duxisse</w>;    
+        <w lemma="mox" pos="ADV" msd="Deg=Pos">mox</w>
+        <w lemma="barba" pos="NOMcom" msd="Case=Acc|Numb=Sing">barbam</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w ana="#male #testicules" lemma="uirilitas" pos="NOMcom" msd="Case=Acc|Numb=Sing">virilitatem</w>
+        <w lemma="prouenio" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">provenisse</w>
+        <w lemma="uxor" pos="NOMcom" msd="Case=Acc|Numb=Sing">uxoremque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{uxoremque}</w>
+        <w lemma="duco" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">duxisse</w>
+        <w lemma=";" pos="PUNC" msd="MORPH=empty">;</w>
     </quote>
  </div>

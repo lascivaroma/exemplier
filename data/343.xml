@@ -1,17 +1,18 @@
-<div type="fragment" corresp="adams:63"  ana="#male #misc">
+<div type="fragment" corresp="adams:63" ana="#male #misc">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0972.phi001.perseus-lat2:92.9">
-        <w lemma="habeo(3ème singulier indicatif imparfait actif)">Habebat</w>
-                        
-        <w lemma="enim(-)">enim</w> 
-        <w lemma="inguen(génitif pluriel)">inguinum</w> 
-        <w lemma="pondus(accusatif singulier)|pondus(nominatif singulier)|pondus(vocatif singulier)">pondus</w> 
-        <w lemma="tam(-)|tam(positif)">tam</w> 
-        <w lemma="grande(positif)|grandis(nominatif neutre singulier)|grandis(vocatif neutre singulier)|grandis(accusatif neutre singulier)">grande</w>, 
-        <w lemma="ut(-)">ut</w> 
-        <w lemma="ipse(nominatif neutre singulier)|ipse(accusatif neutre singulier)|ipse(accusatif masculin singulier)">ipsum</w> 
-        <w lemma="homo(accusatif singulier)">hominem</w> 
-        <w lemma="lacinia(accusatif singulier)|Lacinius(accusatif féminin singulier)|Lacinia(accusatif singulier)">laciniam</w> 
-        <w lemma="fascinum(génitif singulier)|Fascinus(génitif singulier)|Fascinus(nominatif pluriel)|Fascinus(vocatif pluriel)|Fascinus(génitif singulier)|Fascinus(nominatif pluriel)|Fascinus(vocatif pluriel)"  ana="#male #penis">fascini</w> 
-        <w lemma="credo(2ème singulier subjonctif imparfait actif)">crederes</w>.    
+        <w lemma="habeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3">Habebat</w>
+        <w lemma="enim2" pos="CONcoo" msd="MORPH=empty">enim</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Gen|Numb=Plur">inguinum</w>
+        <w lemma="pondus" pos="NOMcom" msd="Case=Acc|Numb=Sing">pondus</w>
+        <w lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+        <w lemma="grandis" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos">grande</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="ut4" pos="CONsub" msd="MORPH=empty">ut</w>
+        <w lemma="ipse" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=MascNeut">ipsum</w>
+        <w lemma="homo" pos="NOMcom" msd="Case=Acc|Numb=Sing">hominem</w>
+        <w lemma="lacinia" pos="NOMcom" msd="Case=Acc|Numb=Sing">laciniam</w>
+        <w ana="#male #penis" lemma="fascinum" pos="NOMcom" msd="Case=Gen|Numb=Sing">fascini</w>
+        <w lemma="credo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2">crederes</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

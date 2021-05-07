@@ -1,16 +1,18 @@
 <div type="fragment" corresp="adams:82" ana="#cunnus #metaphore #female #animal #male #loan-word #fellatio #acte #homoeros">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.371O-6.372O">
-        <w lemma="et(-)">et</w> 
-        <w lemma="uasa(nominatif pluriel)|uasa(vocatif pluriel)|uasa(accusatif pluriel)|uas(nominatif pluriel)|uas(vocatif pluriel)|uas(accusatif pluriel)|vasum(nominatif pluriel)|vasum(vocatif pluriel)|vasum(accusatif pluriel)">vasa</w> 
-        <w lemma="iubeo(3ème pluriel indicatif présent actif)">iubent</w> 
-        <w lemma="frango(nominatif féminin singulier adjectif verbal)|frango(vocatif féminin singulier adjectif verbal)|frango(ablatif féminin singulier adjectif verbal)|frango(nominatif neutre pluriel adjectif verbal)|frango(vocatif neutre pluriel adjectif verbal)|frango(accusatif neutre pluriel adjectif verbal)">frangenda</w> 
-        <w lemma="lauo(infinitif présent passif)">lavari</w>, 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="" ana="#cunnus #animal #metaphore" >colocyntha</w> 
-        <w lemma="bibo(3ème singulier indicatif parfait actif)|bibo(3ème singulier indicatif présent actif)">bibit</w> 
-        <w lemma="uel(-)">vel</w> 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="barbatus(nominatif féminin singulier)|barbatus(vocatif féminin singulier)|barbatus(ablatif féminin singulier)|barbatus(nominatif neutre pluriel)|barbatus(vocatif neutre pluriel)|barbatus(accusatif neutre pluriel)">barbata</w> 
-        <w lemma="chelidon(nominatif singulier)|chelidon(vocatif singulier)|Chelidon(nominatif singulier)|Chelidon(vocatif singulier)|Chelidon(nominatif singulier)|Chelidon(vocatif singulier)">chelidon</w>.    
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="uas2" pos="NOMcom" msd="Case=Acc|Numb=Plur">vasa</w>
+        <w lemma="iubeo" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">iubent</w>
+        <w lemma="frango" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Neut|Mood=Adj|Voice=Pass">frangenda</w>
+        <w lemma="lauo1" pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass">lavari</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="cum3" pos="CONsub" msd="MORPH=empty">cum</w>
+        <w ana="#cunnus #animal #metaphore" lemma="colocyntha" pos="NOMcom" msd="Case=Nom|Numb=Sing">colocyntha</w>
+        <w lemma="bibo2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">bibit</w>
+        <w lemma="uel1" pos="ADV" msd="MORPH=empty">vel</w>
+        <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+        <w lemma="barbatus2" pos="ADJqua" msd="Numb=Sing|Gend=Fem|Deg=Pos">barbata</w>
+        <w lemma="chelidon" pos="NOMcom" msd="Case=Nom|Numb=Sing">chelidon</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

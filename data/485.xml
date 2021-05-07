@@ -1,22 +1,26 @@
 <div type="fragment" corresp="adams:89" ana="#doors #female #cunnus #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0159.stoa004.thayer-lat1:11.1">
-        <w lemma="vulva(nominatif singulier)|vulva(vocatif singulier)|vulva(ablatif singulier)">Vulva</w> 
-        <w lemma="uoco(nominatif féminin singulier participe parfait passif)|uoco(vocatif féminin singulier participe parfait passif)|uoco(ablatif féminin singulier participe parfait passif)|uoco(nominatif neutre pluriel participe parfait passif)|uoco(vocatif neutre pluriel participe parfait passif)|uoco(accusatif neutre pluriel participe parfait passif)">vocata</w> 
-        <w lemma="quasi(-)">quasi</w> 
-        <w lemma="valva(nominatif singulier)|valva(vocatif singulier)|valva(ablatif singulier)">valva</w>, 
-        <w lemma="is(nominatif neutre singulier)|is(accusatif neutre singulier)">id</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w> 
-        <w  ana="#doors" lemma="ianua(nominatif singulier)|ianua(vocatif singulier)|ianua(ablatif singulier)">ianua</w> 
-        <w lemma="venter(génitif singulier)">ventris</w>, 
-        <w lemma="uel(-)">vel</w> 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="semen(accusatif singulier)|semen(nominatif singulier)|semen(vocatif singulier)">semen</w> 
-        <w lemma="recipio(3ème singulier subjonctif présent actif)">recipiat</w>, 
-        <w lemma="uel(-)">vel</w> 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="ex(-)">ex</w> 
-        <w lemma="is(nominatif féminin singulier)|is(ablatif féminin singulier)|is(nominatif neutre pluriel)|is(accusatif neutre pluriel)|Eus(nominatif féminin singulier)|Eus(vocatif féminin singulier)|Eus(ablatif féminin singulier)|Eus(nominatif neutre pluriel)|Eus(vocatif neutre pluriel)|Eus(accusatif neutre pluriel)|ea(-)">ea</w> 
-        <w lemma="foetus(nominatif masculin singulier)|foetus(nominatif singulier)|foetus(vocatif singulier)|foetus(génitif singulier)|foetus(nominatif pluriel)|foetus(vocatif pluriel)|foetus(accusatif pluriel)">foetus</w> 
-        <w lemma="procedo(3ème singulier subjonctif présent actif)">procedat</w>.    
+        <w lemma="uulua" pos="NOMcom" msd="Case=Nom|Numb=Sing">Vulva</w>
+        <w lemma="uoco" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">vocata</w>
+        <w lemma="quasi1" pos="ADVrel" msd="MORPH=empty">quasi</w>
+        <w lemma="ualua" pos="NOMcom" msd="Case=Abl|Numb=Sing">valva</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="is" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Neut">id</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w ana="#doors" lemma="ianua" pos="NOMcom" msd="Case=Nom|Numb=Sing">ianua</w>
+        <w lemma="uenter" pos="NOMcom" msd="Case=Gen|Numb=Sing">ventris</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Nom|Gend=Neut">quod</w>
+        <w lemma="semen1" pos="NOMcom" msd="Case=Acc|Numb=Sing">semen</w>
+        <w lemma="recipio" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">recipiat</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="uel2" pos="CONcoo" msd="MORPH=empty">vel</w>
+        <w lemma="qui2" pos="CONsub" msd="Case=Nom|Numb=Sing">quod</w>
+        <w lemma="ex" pos="PRE" msd="MORPH=empty">ex</w>
+        <w lemma="is" pos="PROdem" msd="Case=Abl|Numb=Sing|Gend=Fem">ea</w>
+        <w lemma="foetus" pos="NOMcom" msd="Case=Nom|Numb=Sing|Deg=Pos">foetus</w>
+        <w lemma="procedo1" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3">procedat</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

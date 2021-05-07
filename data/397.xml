@@ -1,8 +1,9 @@
-<div type="fragment" corresp="adams:70"  ana="#male #testicle">
+<div type="fragment" corresp="adams:70" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.5.5">
-        <w  ana="#male #testicules" lemma="uirilitas(génitif singulier)">Virilitatis</w> 
-        <w lemma="damno(2ème singulier impératif présent actif)|damnum(nominatif pluriel)|damnum(vocatif pluriel)|damnum(accusatif pluriel)">damna</w> 
-        <w lemma="maereo(3ème singulier indicatif présent actif)">maeret</w> 
-        <w lemma="erepo(génitif féminin singulier participe parfait passif)|erepo(datif féminin singulier participe parfait passif)|erepo(nominatif féminin pluriel participe parfait passif)|erepo(vocatif féminin pluriel participe parfait passif)|eripio(génitif féminin singulier participe parfait passif)|eripio(datif féminin singulier participe parfait passif)|eripio(nominatif féminin pluriel participe parfait passif)|eripio(vocatif féminin pluriel participe parfait passif)|ereptus(génitif féminin singulier)|ereptus(datif féminin singulier)|ereptus(nominatif féminin pluriel)|ereptus(vocatif féminin pluriel)">ereptae</w>,     
+        <w ana="#male #testicules" lemma="uirilitas" pos="NOMcom" msd="Case=Gen|Numb=Sing">Virilitatis</w>
+        <w lemma="damnum" pos="NOMcom" msd="Case=Acc|Numb=Plur">damna</w>
+        <w lemma="maereo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">maeret</w>
+        <w lemma="eripio" pos="VER" msd="Case=Gen|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass">ereptae</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

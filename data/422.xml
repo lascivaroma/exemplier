@@ -1,10 +1,12 @@
-<div type="fragment" corresp="adams:73"  ana="#male #foreskin">
+<div type="fragment" corresp="adams:73" ana="#male #foreskin">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.238">
-        <w lemma="">inpatiensque</w> 
-        <w lemma="mora(génitif singulier)|mora(datif singulier)|mora(nominatif pluriel)|mora(vocatif pluriel)|mora(génitif singulier)|mora(datif singulier)|mora(nominatif pluriel)|mora(vocatif pluriel)|morus(génitif féminin singulier)|morus(datif féminin singulier)|morus(nominatif féminin pluriel)|morus(vocatif féminin pluriel)">morae</w> 
-        <w lemma="sileo(3ème singulier indicatif présent actif)">silet</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="praeputium(nominatif pluriel)|praeputium(vocatif pluriel)|praeputium(accusatif pluriel)|praeputio(2ème singulier impératif présent actif)"  ana="#male #foreskin" >praeputia</w> 
-        <w lemma="duco(3ème singulier indicatif présent actif)">ducit</w>.    
+        <w lemma="impatiens" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Com|Deg=Pos">inpatiensque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{inpatiensque}</w>
+        <w lemma="mora" pos="NOMcom" msd="Case=Gen|Numb=Sing">morae</w>
+        <w lemma="sileo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">silet</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w ana="#male #foreskin" lemma="praeputium" pos="NOMcom" msd="Case=Acc|Numb=Plur">praeputia</w>
+        <w lemma="duco" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">ducit</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

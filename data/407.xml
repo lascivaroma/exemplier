@@ -1,14 +1,14 @@
-<div type="fragment" corresp="adams:70"  ana="#male #testicle">
+<div type="fragment" corresp="adams:70" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:5.39">
-        <w lemma="arbor(génitif singulier)|arbos(génitif singulier)|arborius(datif masculin pluriel)|arborius(ablatif masculin pluriel)|arborius(datif féminin pluriel)|arborius(ablatif féminin pluriel)|arborius(datif neutre pluriel)|arborius(ablatif neutre pluriel)">arboris</w>, 
-        <w lemma="sub(-)">sub</w> 
-        <w lemma="qui(ablatif féminin singulier)|quis(ablatif féminin singulier)|qua(-)">qua</w> 
-        <w lemma="se(datif masculin singulier)|se(datif masculin pluriel)|se(datif féminin singulier)|se(datif féminin pluriel)|se(datif neutre singulier)|se(datif neutre pluriel)|sibus(génitif masculin singulier)|sibus(nominatif masculin pluriel)|sibus(vocatif masculin pluriel)|sibus(génitif neutre singulier)|Sibi(-)">sibi</w> 
-        <w lemma="Atta(datif pluriel)|Atta(ablatif pluriel)|Attus(datif pluriel)|Attus(ablatif pluriel)|atta(datif pluriel)|atta(ablatif pluriel)|Attius(datif pluriel)|Attius(ablatif pluriel)|Attis(nominatif singulier)|Attis(vocatif singulier)|Attis(nominatif singulier)|Attis(vocatif singulier)">Attis</w> 
-        <w   ana="#male #testicle" lemma="uir(accusatif singulier)">uirum</w> 
-        <w lemma="demeto(datif masculin pluriel participe parfait passif)|demeto(ablatif masculin pluriel participe parfait passif)|demeto(datif féminin pluriel participe parfait passif)|demeto(ablatif féminin pluriel participe parfait passif)|demeto(datif neutre pluriel participe parfait passif)|demeto(ablatif neutre pluriel participe parfait passif)|demessus(datif masculin pluriel)|demessus(ablatif masculin pluriel)|demessus(datif féminin pluriel)|demessus(ablatif féminin pluriel)|demessus(datif neutre pluriel)|demessus(ablatif neutre pluriel)">demessis</w> 
-        <w lemma="genitale(datif pluriel)|genitale(ablatif pluriel)|Genitalis(datif pluriel)|Genitalis(ablatif pluriel)|genitalis(datif masculin pluriel)|genitalis(ablatif masculin pluriel)|genitalis(datif féminin pluriel)|genitalis(ablatif féminin pluriel)|genitalis(datif neutre pluriel)|genitalis(ablatif neutre pluriel)">genitalibus</w> 
-            
-        <w lemma="aufero(3ème singulier indicatif parfait actif)|abstulo(3ème singulier indicatif présent actif)">abstulit</w>     
+        <w lemma="arbor" pos="NOMcom" msd="Case=Gen|Numb=Sing">arboris</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="sub" pos="PRE" msd="MORPH=empty">sub</w>
+        <w lemma="qui1" pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Fem">qua</w>
+        <w lemma="sui1" pos="PROref" msd="Case=Dat|Numb=Sing">sibi</w>
+        <w lemma="Attis" pos="NOMpro" msd="Case=Nom|Numb=Sing">Attis</w>
+        <w ana="#male #testicle" lemma="uir" pos="NOMcom" msd="Case=Acc|Numb=Sing">uirum</w>
+        <w lemma="demeto2" pos="VER" msd="Case=Abl|Numb=Plur|Gend=Com">demessis</w>
+        <w lemma="genitalia" pos="NOMcom" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Pos">genitalibus</w>
+        <w lemma="aufero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">abstulit</w>
     </quote>
  </div>

@@ -1,15 +1,16 @@
-<div type="fragment" corresp="adams:68"  ana="#male #testicle">
+<div type="fragment" corresp="adams:68" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0969.phi001.perseus-lat1:1.103-1.104">
-        <w lemma="hic(nominatif féminin singulier)|hic(nominatif neutre pluriel)|hic(accusatif neutre pluriel)">haec</w> 
-        <w lemma="fio(3ème pluriel subjonctif imparfait actif)">fierent</w>, 
-        <w lemma="sion(génitif singulier)|si(-)">si</w> 
-        <w  ana="#male #testicules" lemma="testiculus(génitif singulier)|testiculus(nominatif pluriel)|testiculus(vocatif pluriel)">testiculi</w> 
-        <w lemma="uena(nominatif singulier)|uena(vocatif singulier)|uena(ablatif singulier)|venum(nominatif pluriel)|venum(vocatif pluriel)|venum(accusatif pluriel)|ueno(2ème singulier impératif présent actif)">uena</w> 
-        <w lemma="ullus(nominatif féminin singulier)|ullus(vocatif féminin singulier)|ullus(ablatif féminin singulier)|ullus(nominatif neutre pluriel)|ullus(vocatif neutre pluriel)|ullus(accusatif neutre pluriel)|Ulla(nominatif singulier)|Ulla(vocatif singulier)|Ulla(ablatif singulier)">ulla</w> 
-        <w lemma="paternus(génitif masculin singulier)|paternus(nominatif masculin pluriel)|paternus(vocatif masculin pluriel)|paternus(génitif neutre singulier)|Paternus(génitif singulier)|Paternus(nominatif pluriel)|Paternus(vocatif pluriel)">paterni</w> 
-
-        <w lemma="uiuo(3ème singulier subjonctif imparfait actif)">uiueret</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="nos(datif masculin pluriel)|nos(ablatif masculin pluriel)|nos(datif féminin pluriel)|nos(ablatif féminin pluriel)">nobis</w>?    
+        <w lemma="hic1" pos="PROdem" msd="Case=Nom|Numb=Plur|Gend=Neut">haec</w>
+        <w lemma="fio" pos="VER" msd="Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3">fierent</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="si2" pos="CONsub" msd="MORPH=empty">si</w>
+        <w ana="#male #testicules" lemma="testiculus" pos="NOMcom" msd="Case=Gen|Numb=Sing">testiculi</w>
+        <w lemma="uena" pos="NOMcom" msd="Case=Nom|Numb=Sing">uena</w>
+        <w lemma="ullus" pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Fem">ulla</w>
+        <w lemma="paternus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos">paterni</w>
+        <w lemma="uiuo" pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3">uiueret</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="nos" pos="PROper" msd="Case=Abl|Numb=Plur">nobis</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>
  </div>

@@ -1,16 +1,17 @@
 <div type="fragment" corresp="adams:95" ana=" #male #euphemism #penis #specialisation">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0472.phi001.perseus-lat2:60.2-60.3">
-        <w lemma="aut(-)">aut</w> 
-        <w lemma="Scylla(nominatif singulier)|Scylla(vocatif singulier)|Scylla(ablatif singulier)">Scylla</w> 
-        <w lemma="latro(nominatif masculin singulier participe présent actif)|latro(vocatif masculin singulier participe présent actif)|latro(nominatif féminin singulier participe présent actif)|latro(vocatif féminin singulier participe présent actif)|latro(nominatif neutre singulier participe présent actif)|latro(vocatif neutre singulier participe présent actif)|latro(accusatif neutre singulier participe présent actif)|latrans(nominatif singulier)|latrans(vocatif singulier)">latrans</w> 
-        <w ana="#euphemism #penis #specialisation #composite"  lemma="infimo(2ème singulier impératif présent actif)|infimum(nominatif pluriel)|infimum(vocatif pluriel)|infimum(accusatif pluriel)|infimus(nominatif féminin singulier)|infimus(vocatif féminin singulier)|infimus(ablatif féminin singulier)|infimus(nominatif neutre pluriel)|infimus(vocatif neutre pluriel)|infimus(accusatif neutre pluriel)">infima</w> 
-        <w lemma="inguen(génitif pluriel)">inguinum</w> 
-        <w  ana="#euphemism #penis #specialisation #composite" lemma="pario(vocatif masculin singulier participe parfait passif)|pars(ablatif singulier)|partus(vocatif masculin singulier)">parte</w> 
-        <w lemma="tam(-)|tam(positif)">tam</w> 
-        <w lemma="mens(ablatif singulier)">mente</w> 
-        <w lemma="duro(2ème singulier impératif présent actif)|durum(nominatif pluriel)|durum(vocatif pluriel)|durum(accusatif pluriel)|durus(nominatif féminin singulier)|durus(vocatif féminin singulier)|durus(ablatif féminin singulier)|durus(nominatif neutre pluriel)|durus(vocatif neutre pluriel)|durus(accusatif neutre pluriel)|Dura(nominatif pluriel)|Dura(vocatif pluriel)|Dura(accusatif pluriel)|dura(nominatif pluriel)|dura(vocatif pluriel)|dura(accusatif pluriel)">dura</w> 
-        <w lemma="procreo(3ème singulier indicatif parfait actif)">procreavit</w> 
-        <w lemma="ac(-)">ac</w> 
-        <w lemma="taeter(nominatif féminin singulier)|taeter(vocatif féminin singulier)|taeter(ablatif féminin singulier)|taeter(nominatif neutre pluriel)|taeter(vocatif neutre pluriel)|taeter(accusatif neutre pluriel)|taetro(2ème singulier impératif présent actif)|taetrum(nominatif pluriel)|taetrum(vocatif pluriel)|taetrum(accusatif pluriel)|taetrus(nominatif féminin singulier)|taetrus(vocatif féminin singulier)|taetrus(ablatif féminin singulier)|taetrus(nominatif neutre pluriel)|taetrus(vocatif neutre pluriel)|taetrus(accusatif neutre pluriel)">taetra</w>,    
+        <w lemma="aut" pos="CONcoo" msd="MORPH=empty">aut</w>
+        <w lemma="Scylla" pos="NOMpro" msd="Case=Nom|Numb=Sing">Scylla</w>
+        <w lemma="latro2" pos="VER" msd="Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">latrans</w>
+        <w ana="#euphemism #penis #specialisation #composite" lemma="inferus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Sup">infima</w>
+        <w lemma="inguen" pos="NOMcom" msd="Case=Gen|Numb=Plur">inguinum</w>
+        <w ana="#euphemism #penis #specialisation #composite" lemma="pars" pos="NOMcom" msd="Case=Abl|Numb=Sing">parte</w>
+        <w lemma="tam" pos="ADV" msd="Deg=Pos">tam</w>
+        <w lemma="mens" pos="NOMcom" msd="Case=Abl|Numb=Sing">mente</w>
+        <w lemma="durus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">dura</w>
+        <w lemma="procreo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">procreavit</w>
+        <w lemma="ac1" pos="CONcoo" msd="MORPH=empty">ac</w>
+        <w lemma="teter" pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos">taetra</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

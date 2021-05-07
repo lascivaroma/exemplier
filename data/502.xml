@@ -1,13 +1,13 @@
 <div type="fragment" corresp="adams:91" ana="#sinus #euphemism #female #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.13">
-        <w lemma="in(-)">In</w> 
-        <w lemma="medium(datif singulier)|medium(ablatif singulier)|medius(datif masculin singulier)|medius(ablatif masculin singulier)|medius(datif neutre singulier)|medius(ablatif neutre singulier)|medio(1ère singulier indicatif présent actif)|medion(datif singulier)|medion(ablatif singulier)|medius(datif singulier)|medius(ablatif singulier)">medio</w> 
-        <w ana="#sinus #euphemism #composite"  lemma="sinus(ablatif singulier)">sinu</w> 
-        <w ana="#sinus #euphemism #composite"  lemma="mulier(génitif singulier)">mulieris</w> 
-        <w lemma="os(accusatif singulier)|os(nominatif singulier)|os(vocatif singulier)|os(accusatif singulier)|os(nominatif singulier)|os(vocatif singulier)">os</w> 
-        <w lemma="matrix(génitif singulier)">matricis</w> 
-        <w lemma="sino(supin en -um)|sino(accusatif masculin singulier participe parfait passif)|sino(nominatif neutre singulier participe parfait passif)|sino(vocatif neutre singulier participe parfait passif)|sino(accusatif neutre singulier participe parfait passif)|situs(accusatif singulier)|situs(accusatif masculin singulier)|situs(nominatif neutre singulier)|situs(vocatif neutre singulier)|situs(accusatif neutre singulier)">situm</w> 
-        <w lemma="edo(3ème singulier indicatif présent actif)|sum(3ème singulier indicatif présent actif)|Megisto(ablatif singulier)|e(-)">est</w>.
-    
+        <w lemma="in" pos="PRE" msd="MORPH=empty">In</w>
+        <w lemma="medius" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">medio</w>
+        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+        <w ana="#sinus #euphemism #composite" lemma="mulier" pos="NOMcom" msd="Case=Gen|Numb=Sing">mulieris</w>
+        <w lemma="os1" pos="NOMcom" msd="Case=Nom|Numb=Sing">os</w>
+        <w lemma="matricus" pos="NOMcom" msd="Case=Dat|Numb=Sing">matricis</w>
+        <w lemma="situs2" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">situm</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">est</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

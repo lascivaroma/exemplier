@@ -1,12 +1,12 @@
-<div type="fragment" corresp="adams:70"  ana="#male #testicle">
+<div type="fragment" corresp="adams:70" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0159.stoa004.thayer-lat1:8.11">
-        <w lemma="nes(accusatif singulier)|nam(-)">Nam</w> 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="Saturnus(nominatif singulier)">Saturnus</w> 
-        <w lemma="dico(3ème singulier indicatif présent passif)">dicitur</w> 
-        <w lemma="pater(datif singulier)|patrius(génitif masculin singulier)|patrius(nominatif masculin pluriel)|patrius(vocatif masculin pluriel)|patrius(génitif neutre singulier)|patrium(génitif singulier)">patri</w> 
-        <w lemma="caelo(1ère singulier indicatif présent actif)|caelum(datif singulier)|caelum(ablatif singulier)|caelus(datif singulier)|caelus(ablatif singulier)">Caelo</w> 
-        <w  ana="#male #testicules" lemma="uirilia(nominatif pluriel)|uirilia(vocatif pluriel)|uirilia(accusatif pluriel)|virilis(nominatif neutre pluriel)|virilis(vocatif neutre pluriel)|virilis(accusatif neutre pluriel)">virilia</w> 
-        <w lemma="amputo(infinitif parfait actif)">amputasse</w>    
+        <w lemma="nam" pos="CONcoo" msd="MORPH=empty">Nam</w>
+        <w lemma="quod2" pos="CONsub" msd="Numb=Sing">quod</w>
+        <w lemma="Saturnus" pos="NOMpro" msd="Case=Nom|Numb=Sing">Saturnus</w>
+        <w lemma="dico2" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3">dicitur</w>
+        <w lemma="pater" pos="NOMcom" msd="Case=Dat|Numb=Sing">patri</w>
+        <w lemma="caelum1" pos="NOMcom" msd="Case=Dat|Numb=Sing">Caelo</w>
+        <w ana="#male #testicules" lemma="uirilis" pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos">virilia</w>
+        <w lemma="amputo" pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act">amputasse</w>
     </quote>
  </div>

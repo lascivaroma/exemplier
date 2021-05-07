@@ -1,13 +1,14 @@
 <div type="fragment" corresp="adams:97" ana="#parties clitoris #female #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi0975.phi001.perseus-lat2:4.15.12-4.15.13">
-        <w lemma="applico(3ème singulier indicatif parfait actif)">Applicuit</w> 
-        <w lemma="virginalis(nominatif neutre singulier)|virginalis(vocatif neutre singulier)|virginalis(accusatif neutre singulier)|virginal(ablatif singulier)|virginale(nominatif singulier)|virginale(vocatif singulier)|virginale(accusatif singulier)">virginale</w> 
-        <w lemma="gener(génitif singulier)|gener(nominatif pluriel)|gener(vocatif pluriel)|genus(datif singulier)">generi</w> 
-        <w lemma="masculus(datif masculin singulier)|masculus(ablatif masculin singulier)|masculus(datif neutre singulier)|masculus(ablatif neutre singulier)|masculus(datif singulier)|masculus(ablatif singulier)">masculo</w>  
-        <w lemma="et(-)">Et</w> 
-        <w  ana="#parties clitoris  #composite" lemma="masculinus(nominatif féminin singulier)|masculinus(vocatif féminin singulier)|masculinus(ablatif féminin singulier)|masculinus(nominatif neutre pluriel)|masculinus(vocatif neutre pluriel)|masculinus(accusatif neutre pluriel)">masculina</w> 
-        <w  ana="#parties clitoris  #composite" lemma="membrum(nominatif pluriel)|membrum(vocatif pluriel)|membrum(accusatif pluriel)|membro(2ème singulier impératif présent actif)">membra</w> 
-        <w lemma="applico(3ème singulier indicatif parfait actif)">applicuit</w> 
-        <w lemma="femen(génitif singulier)|femina(datif pluriel)|femina(ablatif pluriel)">feminis</w>.     
+        <w lemma="applico" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">Applicuit</w>
+        <w lemma="uirginalis" pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos">virginale</w>
+        <w lemma="genus1" pos="NOMcom" msd="Case=Dat|Numb=Sing">generi</w>
+        <w lemma="masculus" pos="ADJqua" msd="Case=Dat|Numb=Sing|Gend=MascNeut|Deg=Pos">masculo</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">Et</w>
+        <w ana="#partiesclitoris #composite" lemma="masculina" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Neut|Deg=Pos">masculina</w>
+        <w ana="#partiesclitoris #composite" lemma="membrum" pos="NOMcom" msd="Case=Acc|Numb=Plur">membra</w>
+        <w lemma="applico" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">applicuit</w>
+        <w lemma="femina" pos="NOMcom" msd="Case=Dat|Numb=Plur">feminis</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

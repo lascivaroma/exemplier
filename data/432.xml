@@ -1,10 +1,13 @@
-<div type="fragment" corresp="adams:74"  ana="#male #foreskin">
+<div type="fragment" corresp="adams:74" ana="#male #foreskin">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:79.7">
-        <w   ana="#male #foreskin" lemma="deglubo(3ème singulier indicatif présent actif)">deglubit</w>, 
-        <w lemma="fello(3ème singulier indicatif présent actif)">fellat</w>, 
-        <w lemma="molior(3ème singulier indicatif présent actif)|molio(3ème singulier indicatif présent passif)">molitur</w> 
-        <w lemma="per(-)">per</w> 
-        <w lemma="uterque(accusatif féminin singulier)|uter(accusatif féminin singulier)">utramque</w> 
-        <w lemma="caverna(accusatif singulier)">cavernam</w>,    
+        <w ana="#male #foreskin" lemma="deglubit" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">deglubit</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="fello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">fellat</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="molior" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">molitur</w>
+        <w lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+        <w lemma="uterque" pos="PROind" msd="Case=Acc|Numb=Sing|Gend=Fem">utramque</w>
+        <w lemma="cauerna" pos="NOMcom" msd="Case=Acc|Numb=Sing">cavernam</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

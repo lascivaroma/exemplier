@@ -1,9 +1,11 @@
-<div type="fragment" corresp="adams:66"  ana="#male #testicle">
+<div type="fragment" corresp="adams:66" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:9.27.1">
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">Cum</w> 
-        <w lemma="depilo(accusatif masculin pluriel participe parfait passif)|depilatus(accusatif masculin pluriel)|depilor(accusatif masculin pluriel participe parfait actif)">depilatos</w>, 
-        <w lemma="Chrestus(vocatif singulier)">Chreste</w>, 
-        <w lemma="coleus(accusatif pluriel)"  ana="#male #testicules">coleos</w> 
-        <w lemma="porto(2ème singulier subjonctif présent actif)">portes</w>     
+        <w lemma="cum3" pos="CONsub" msd="MORPH=empty">Cum</w>
+        <w lemma="depilo1" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass">depilatos</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="Chrestes" pos="NOMpro" msd="Case=Voc|Numb=Sing">Chreste</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w ana="#male #testicules" lemma="coleus" pos="NOMcom" msd="Case=Acc|Numb=Plur">coleos</w>
+        <w lemma="porto" pos="NOMcom" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2">portes</w>
     </quote>
  </div>

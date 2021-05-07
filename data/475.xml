@@ -1,11 +1,14 @@
 <div type="fragment" corresp="adams:85" ana="#fossa #female #cunnus #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1294.phi002.perseus-lat2:3.81.1">
-        <w lemma="quis(nominatif neutre singulier)|quis(vocatif neutre singulier)|quis(accusatif neutre singulier)|quid(-)|quid(positif)">Quid</w> 
-        <w lemma="Cos(accusatif singulier)|cum(-)|cum(-)">cum</w> 
-        <w lemma="femineus(datif masculin singulier)|femineus(ablatif masculin singulier)|femineus(datif neutre singulier)|femineus(ablatif neutre singulier)">femineo</w> 
-        <w lemma="tu(datif masculin singulier)|tu(datif féminin singulier)">tibi</w>, 
-        <w lemma="Baeticus(vocatif masculin singulier)">Baetice</w> 
-        <w lemma="Gallus(vocatif masculin singulier)|Gallus(vocatif singulier)|gallus(vocatif singulier)">Galle</w>, 
-        <w  ana="#fossa" lemma="barathrum(datif singulier)|barathrum(ablatif singulier)|barathrus(datif singulier)|barathrus(ablatif singulier)">barathro</w>?     
+        <w lemma="quis1" pos="PROint" msd="Case=Nom|Numb=Sing|Gend=Neut">Quid</w>
+        <w lemma="cum2" pos="PRE" msd="MORPH=empty">cum</w>
+        <w lemma="femineus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos">femineo</w>
+        <w lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="Baeticus" pos="NOMpro" msd="Case=Voc|Numb=Sing|Gend=Masc">Baetice</w>
+        <w lemma="Gallus" pos="NOMpro" msd="Case=Voc|Numb=Sing">Galle</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w ana="#fossa" lemma="barathrum" pos="NOMcom" msd="Case=Abl|Numb=Sing">barathro</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>
  </div>

@@ -1,22 +1,24 @@
 <div type="fragment" corresp="adams:91" ana="#sinus #euphemism #female #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1:I.10">
-        <w lemma="etenim(-)">etenim</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="anterior(datif masculin pluriel comparatif)|anterior(ablatif masculin pluriel comparatif)|anterior(datif féminin pluriel comparatif)|anterior(ablatif féminin pluriel comparatif)|anterior(datif neutre pluriel comparatif)|anterior(ablatif neutre pluriel comparatif)">anterioribus</w> 
-        <w lemma="">vesice</w> 
-        <w lemma="collum(nominatif pluriel)|collum(vocatif pluriel)|collum(accusatif pluriel)">colla</w> 
-        <w lemma="sino(nominatif féminin singulier participe parfait passif)|sino(vocatif féminin singulier participe parfait passif)|sino(ablatif féminin singulier participe parfait passif)|sino(nominatif neutre pluriel participe parfait passif)|sino(vocatif neutre pluriel participe parfait passif)|sino(accusatif neutre pluriel participe parfait passif)|situs(nominatif féminin singulier)|situs(vocatif féminin singulier)|situs(ablatif féminin singulier)|situs(nominatif neutre pluriel)|situs(vocatif neutre pluriel)|situs(accusatif neutre pluriel)">sita</w> 
-        <w lemma="nascor(3ème pluriel indicatif présent actif)|nasco(3ème pluriel indicatif présent passif)">nascuntur</w>, 
-        <w lemma="et(-)">et</w> 
-        <w lemma="sum(3ème pluriel indicatif présent actif)">sunt</w> 
-        <w lemma="totum(datif singulier)|totum(ablatif singulier)|totus(ablatif masculin singulier)|totus(ablatif neutre singulier)|totus(datif masculin singulier)|totus(ablatif masculin singulier)|totus(datif neutre singulier)|totus(ablatif neutre singulier)">toto</w> 
-        <w  ana="#sinus #euphemism #composite" lemma="sinus(ablatif singulier)">sinu</w> 
-        <w ana="#sinus #euphemism #composite"  lemma="muliebris(datif masculin singulier)|muliebris(ablatif masculin singulier)|muliebris(datif féminin singulier)|muliebris(ablatif féminin singulier)|muliebris(datif neutre singulier)|muliebris(ablatif neutre singulier)">muliebri</w> 
-        <w lemma="distendo(nominatif féminin singulier participe parfait passif)|distendo(vocatif féminin singulier participe parfait passif)|distendo(ablatif féminin singulier participe parfait passif)|distendo(nominatif neutre pluriel participe parfait passif)|distendo(vocatif neutre pluriel participe parfait passif)|distendo(accusatif neutre pluriel participe parfait passif)|distentus(nominatif féminin singulier)|distentus(vocatif féminin singulier)|distentus(ablatif féminin singulier)|distentus(nominatif neutre pluriel)|distentus(vocatif neutre pluriel)|distentus(accusatif neutre pluriel)|distineo(nominatif féminin singulier participe parfait passif)|distineo(vocatif féminin singulier participe parfait passif)|distineo(ablatif féminin singulier participe parfait passif)|distineo(nominatif neutre pluriel participe parfait passif)|distineo(vocatif neutre pluriel participe parfait passif)|distineo(accusatif neutre pluriel participe parfait passif)|distentus(nominatif féminin singulier)|distentus(vocatif féminin singulier)|distentus(ablatif féminin singulier)|distentus(nominatif neutre pluriel)|distentus(vocatif neutre pluriel)|distentus(accusatif neutre pluriel)">distenta</w>, 
-        <w lemma="collum(datif singulier)|collum(ablatif singulier)|collus(datif singulier)|collus(ablatif singulier)">collo</w> 
-        <w lemma="tamen(-)">tamen</w> 
-        <w lemma="matrix(génitif singulier)">matricis</w> 
-        <w lemma="secerno(nominatif féminin singulier participe parfait passif)|secerno(vocatif féminin singulier participe parfait passif)|secerno(ablatif féminin singulier participe parfait passif)|secerno(nominatif neutre pluriel participe parfait passif)|secerno(vocatif neutre pluriel participe parfait passif)|secerno(accusatif neutre pluriel participe parfait passif)|secretum(nominatif pluriel)|secretum(vocatif pluriel)|secretum(accusatif pluriel)|secretus(nominatif féminin singulier)|secretus(vocatif féminin singulier)|secretus(ablatif féminin singulier)|secretus(nominatif neutre pluriel)|secretus(vocatif neutre pluriel)|secretus(accusatif neutre pluriel)">secreta</w>.
-    
+        <w lemma="etenim" pos="CONcoo" msd="MORPH=empty">etenim</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="anterior" pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com|Deg=Comp">anterioribus</w>
+        <w lemma="uesix" pos="NOMcom" msd="Numb=Sing">vesice</w>
+        <w lemma="collum" pos="NOMcom" msd="Case=Nom|Numb=Plur">colla</w>
+        <w lemma="situs2" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos">sita</w>
+        <w lemma="nascor" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3">nascuntur</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="sum1" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3">sunt</w>
+        <w lemma="totus" pos="PROind" msd="Case=Abl|Numb=Sing|Gend=MascNeut">toto</w>
+        <w ana="#sinus #euphemism #composite" lemma="sinus" pos="NOMcom" msd="Case=Abl|Numb=Sing">sinu</w>
+        <w ana="#sinus #euphemism #composite" lemma="muliebris" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">muliebri</w>
+        <w lemma="distendo" pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass">distenta</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="collum" pos="NOMcom" msd="Case=Abl|Numb=Sing">collo</w>
+        <w lemma="tamen" pos="ADV" msd="Deg=Pos">tamen</w>
+        <w lemma="matricus" pos="NOMcom" msd="Case=Abl|Numb=Sing">matricis</w>
+        <w lemma="secretum" pos="ADJqua" msd="Case=Nom|Numb=Plur">secreta</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

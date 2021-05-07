@@ -1,25 +1,25 @@
-<div type="fragment" corresp="adams:70"  ana="#male #testicle">
+<div type="fragment" corresp="adams:70" ana="#male #testicle">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0034.stoa001.opp-lat1:1.41">
-        <w lemma="nonnus(vocatif singulier)|nonne(-)|non(-)">nonne</w> 
-        <w lemma="ille(accusatif masculin singulier)">illum</w> 
-        <w lemma="Attin(nominatif singulier)|Attin(vocatif singulier)">Attin</w> 
-        <w lemma="Phryx(accusatif masculin singulier)|Phryx(accusatif féminin singulier)|Phryx(accusatif singulier)">Phrygem</w>  
-        <w lemma="abscido(supin en -um)|abscido(accusatif masculin singulier participe parfait passif)|abscido(nominatif neutre singulier participe parfait passif)|abscido(vocatif neutre singulier participe parfait passif)|abscido(accusatif neutre singulier participe parfait passif)|abscisus(accusatif masculin singulier)|abscisus(nominatif neutre singulier)|abscisus(vocatif neutre singulier)|abscisus(accusatif neutre singulier)">abscisum</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="spoliatus(accusatif masculin singulier)|spoliatus(nominatif neutre singulier)|spoliatus(vocatif neutre singulier)|spoliatus(accusatif neutre singulier)|spolio(supin en -um)|spolio(accusatif masculin singulier participe parfait passif)|spolio(nominatif neutre singulier participe parfait passif)|spolio(vocatif neutre singulier participe parfait passif)|spolio(accusatif neutre singulier participe parfait passif)">spoliatum</w>             
-            
-        <w   ana="#male #testicle" lemma="uir(datif singulier)|uir(ablatif singulier)|uirus(datif singulier)|uirus(ablatif singulier)">uiro</w> 
-        <w lemma="magnus(génitif féminin singulier)|magnus(datif féminin singulier)|magnus(nominatif féminin pluriel)|magnus(vocatif féminin pluriel)">magnae</w> 
-        <w lemma="mater(génitif singulier)|Matrae(datif pluriel)|Matrae(ablatif pluriel)">matris</w> 
-        <w lemma="in(-)">in</w> 
-        <w lemma="adytum(datif pluriel)|adytum(ablatif pluriel)">adytis</w> 
-        <w lemma="deum(génitif pluriel)|deus(accusatif singulier)">deum</w> 
-        <w lemma="propitius(accusatif masculin singulier)|propitius(nominatif neutre singulier)|propitius(vocatif neutre singulier)|propitius(accusatif neutre singulier)">propitium</w>, 
-        <w lemma="deum(génitif pluriel)|deus(accusatif singulier)">deum</w> 
-        <w lemma="sancio(supin en -um)|sancio(accusatif masculin singulier participe parfait passif)|sancio(nominatif neutre singulier participe parfait passif)|sancio(vocatif neutre singulier participe parfait passif)|sancio(accusatif neutre singulier participe parfait passif)|sanctum(nominatif singulier)|sanctum(vocatif singulier)|sanctum(accusatif singulier)|Sanctus(accusatif singulier)|sanctus(accusatif masculin singulier)|sanctus(nominatif neutre singulier)|sanctus(vocatif neutre singulier)|sanctus(accusatif neutre singulier)|sanctus(accusatif singulier)">sanctum</w> 
-            
-        <w lemma="Galli(génitif pluriel)|Gallus(génitif masculin pluriel)|Gallus(génitif neutre pluriel)|Gallus(génitif pluriel)|gallus(génitif pluriel)">Gallorum</w> 
-        <w lemma="conclamatio(ablatif singulier)|conclamatio(nominatif singulier)|conclamatio(vocatif singulier)">conclamatione</w> 
-        <w lemma="testor(2ème pluriel indicatif présent actif)|testor(2ème pluriel impératif présent actif)|testor(2ème singulier impératif futur actif)|testor(3ème singulier impératif futur actif)|testor(2ème pluriel impératif futur actif)|testor(3ème pluriel impératif futur actif)|testo(2ème pluriel indicatif présent passif)|testo(2ème pluriel impératif présent passif)|testamen(datif singulier)">testamini</w>?     
+        <w lemma="nonne" pos="ADVint.neg" msd="MORPH=empty">nonne</w>
+        <w lemma="ille" pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Masc">illum</w>
+        <w lemma="Attis" pos="NOMpro" msd="Case=Acc|Numb=Sing">Attin</w>
+        <w lemma="Phryx" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem">Phrygem</w>
+        <w lemma="abscido2" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">abscisum</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="spolio" pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass">spoliatum</w>
+        <w ana="#male #testicle" lemma="uir" pos="NOMcom" msd="Case=Dat|Numb=Sing">uiro</w>
+        <w lemma="magnus" pos="ADJqua" msd="Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos">magnae</w>
+        <w lemma="mater" pos="NOMcom" msd="Case=Gen|Numb=Sing">matris</w>
+        <w lemma="in" pos="PRE" msd="MORPH=empty">in</w>
+        <w lemma="adytum" pos="NOMcom" msd="Case=Abl|Numb=Plur">adytis</w>
+        <w lemma="deus" pos="NOMcom" msd="Case=Acc|Numb=Sing">deum</w>
+        <w lemma="propitius" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">propitium</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="deus" pos="NOMcom" msd="Case=Acc|Numb=Sing">deum</w>
+        <w lemma="sanctus" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">sanctum</w>
+        <w lemma="Galli" pos="NOMpro" msd="Case=Gen|Numb=Plur">Gallorum</w>
+        <w lemma="conclamatio" pos="NOMcom" msd="Case=Abl|Numb=Sing">conclamatione</w>
+        <w lemma="testor" pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=2">testamini</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>
  </div>

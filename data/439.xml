@@ -1,16 +1,17 @@
-<div type="fragment" corresp="adams:76"  ana="#male #pubic_hair">
+<div type="fragment" corresp="adams:76" ana="#male #pubic_hair">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0045.stoa010.perseus-lat2:93.3-93.4">
-        <w lemma="sed(-)|sed(-)">sed</w> 
-        <w lemma="qui(nominatif neutre singulier)|qui(accusatif neutre singulier)|quod(-)|quod(positif)">quod</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="elixo(1ère singulier indicatif présent actif)|elixus(datif masculin singulier)|elixus(ablatif masculin singulier)|elixus(datif neutre singulier)|elixus(ablatif neutre singulier)">elixo</w> 
-        <w   ana="#male #pubic_hair" lemma="plantaris(nominatif neutre pluriel)|plantaris(vocatif neutre pluriel)|plantaris(accusatif neutre pluriel)|plantaria(nominatif pluriel)|plantaria(vocatif pluriel)|plantaria(accusatif pluriel)|plantarium(nominatif pluriel)|plantarium(vocatif pluriel)|plantarium(accusatif pluriel)">plantaria</w> 
-        <w lemma="podex(ablatif singulier)|podicus(vocatif masculin singulier)">podice</w> 
-        <w lemma="vello(2ème singulier indicatif présent actif)|vella(datif pluriel)|vella(ablatif pluriel)|vellus(datif pluriel)|vellus(ablatif pluriel)">vellis</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="tero(2ème singulier indicatif présent actif)|Terias(datif pluriel)|Terias(ablatif pluriel)">teris</w> 
-        <w lemma="incuso(2ème singulier indicatif présent actif)|incusus(accusatif féminin pluriel)|incudo(accusatif féminin pluriel participe parfait passif)">incusas</w> 
-        <w lemma="pumex(ablatif singulier)">pumice</w> 
-        <w lemma="Clazomenae(accusatif pluriel)">Clazomenas</w>,    
+        <w lemma="sed" pos="CONcoo" msd="MORPH=empty">sed</w>
+        <w lemma="quod2" pos="CONsub" msd="MORPH=empty">quod</w>
+        <w lemma="et2" pos="CONcoo" msd="Deg=Pos">et</w>
+        <w lemma="elixus" pos="VER" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos|Person=1">elixo</w>
+        <w ana="#male #pubic_hair" lemma="plantaris" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos">plantaria</w>
+        <w lemma="podex" pos="NOMcom" msd="Case=Abl|Numb=Sing">podice</w>
+        <w lemma="uello" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">vellis</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="tero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2">teris</w>
+        <w lemma="incuso" pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Ind|Tense=Pres|Voice=Act">incusas</w>
+        <w lemma="pumex" pos="NOMcom" msd="Case=Abl|Numb=Sing">pumice</w>
+        <w lemma="Clazomenae" pos="NOMpro" msd="Case=Acc|Numb=Plur">Clazomenas</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
     </quote>
  </div>

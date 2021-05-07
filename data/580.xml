@@ -1,17 +1,20 @@
 <div type="fragment" corresp="adams:98" ana="#parties clitoris #male #penis">
     <quote xml:lang="lat" source="urn:cts:latinLit:stoa0196.stoa001.latinlibrary-lat1:5.97-5.98">
-        <w lemma="qui(ablatif masculin singulier)|qui(ablatif neutre singulier)|quis(ablatif masculin singulier)|quis(ablatif neutre singulier)|quo(-)">quo</w> 
-        <w lemma="tu(datif masculin singulier)|tu(datif féminin singulier)">tibi</w> 
-        <w lemma="fervo(1ère singulier indicatif présent passif)|fervor(nominatif singulier)|fervor(vocatif singulier)">feruor</w> 
-        <w lemma="abeo(3ème singulier indicatif présent actif)|abeo(3ème singulier indicatif parfait actif)">abit</w> 
-        <w lemma="per(-)">per</w> 
-        <w lemma="qui(accusatif masculin singulier)|quis(accusatif masculin singulier)|quem(positif)">quem</w> 
-        <w lemma="">feritura</w> 
-        <w lemma="placeo(2ème singulier indicatif imparfait actif)|placet(2ème singulier indicatif imparfait actif)">placebas</w>,  
-        <w lemma="qui(ablatif masculin singulier)|qui(ablatif neutre singulier)|quis(ablatif masculin singulier)|quis(ablatif neutre singulier)|quo(-)">quo</w> 
-        <w lemma="tu(datif masculin singulier)|tu(datif féminin singulier)">tibi</w> 
-        <w ana="#parties clitoris #penis"  lemma="cristatus(accusatif masculin singulier)|cristatus(nominatif neutre singulier)|cristatus(vocatif neutre singulier)|cristatus(accusatif neutre singulier)">cristatum</w> 
-        <w lemma="vulnificus(accusatif masculin singulier)|vulnificus(nominatif neutre singulier)|vulnificus(vocatif neutre singulier)|vulnificus(accusatif neutre singulier)">uulnificumque</w> 
-        <w lemma="caput(accusatif singulier)|caput(nominatif singulier)|caput(vocatif singulier)">caput</w>?    
+        <w lemma="quo3" pos="ADVint" msd="Gend=MascNeut">quo</w>
+        <w lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+        <w lemma="feruor" pos="NOMcom" msd="Case=Nom|Numb=Sing">feruor</w>
+        <w lemma="abeo1" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3">abit</w>
+        <w lemma="per" pos="PRE" msd="MORPH=empty">per</w>
+        <w lemma="qui1" pos="PROint" msd="Case=Acc|Numb=Sing|Gend=Masc">quem</w>
+        <w lemma="ferio" pos="VER" msd="Case=Nom|Numb=Plur|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act">feritura</w>
+        <w lemma="placeo" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2">placebas</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="quo3" pos="ADVint" msd="MORPH=empty">quo</w>
+        <w lemma="tu" pos="PROper" msd="Case=Dat|Numb=Sing">tibi</w>
+        <w ana="#partiesclitoris #penis" lemma="cristo" pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos">cristatum</w>
+        <w lemma="uulnificus" pos="NOMcom" msd="Case=Nom|Numb=Sing|Gend=MascNeut|Deg=Pos">uulnificumque</w>
+        <w lemma="que" pos="CON" msd="MORPH=empty">{uulnificumque}</w>
+        <w lemma="caput" pos="NOMcom" msd="Case=Nom|Numb=Sing">caput</w>
+        <w lemma="?" pos="PUNC" msd="MORPH=empty">?</w>
     </quote>
  </div>

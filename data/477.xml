@@ -1,20 +1,22 @@
 <div type="fragment" corresp="adams:86" ana="#household #female #cunnus #metaphore">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1212.phi002.perseus-lat1:2.7">
-        <w lemma="tunc(-)">Tunc</w> 
-        <w lemma="ille(nominatif féminin singulier)|ille(ablatif féminin singulier)|ille(nominatif neutre pluriel)|ille(accusatif neutre pluriel)|illa(-)">illa</w> 
-        <w lemma="Lepida(nominatif singulier)|Lepida(vocatif singulier)|Lepida(ablatif singulier)|lepidus(nominatif féminin singulier)|lepidus(vocatif féminin singulier)|lepidus(ablatif féminin singulier)|lepidus(nominatif neutre pluriel)|lepidus(vocatif neutre pluriel)|lepidus(accusatif neutre pluriel)|lepida(nominatif singulier)|lepida(vocatif singulier)|lepida(ablatif singulier)">lepida</w> 
-        <w lemma="alioquin(-)">alioquin</w> 
-        <w lemma="et(-)">et</w> 
-        <w lemma="dicaculus(nominatif féminin singulier)|dicaculus(vocatif féminin singulier)|dicaculus(ablatif féminin singulier)|dicaculus(nominatif neutre pluriel)|dicaculus(vocatif neutre pluriel)|dicaculus(accusatif neutre pluriel)">dicacula</w> 
-        <w lemma="puella(nominatif singulier)|puella(vocatif singulier)|puella(ablatif singulier)">puella</w>  
-        <w lemma="discedo(2ème singulier impératif présent actif)">Discede</w>  
-        <w lemma="inquit(-)">inquit</w> 
-        <w lemma="misellus(vocatif masculin singulier)|misellus(vocatif singulier)">Miselle</w>, 
-        <w lemma="qui(accusatif féminin singulier)|quis(accusatif féminin singulier)|quam(-)|quam(-)">quam</w> 
-        <w lemma="procul(-)">procul</w> 
-        <w lemma="a(-)|a(-)|a(-)">a</w> 
-        <w lemma="meo(1ère singulier indicatif présent actif)|meum(datif singulier)|meum(ablatif singulier)|meus(datif masculin singulier)|meus(ablatif masculin singulier)|meus(datif neutre singulier)|meus(ablatif neutre singulier)|Meum(datif singulier)|Meum(ablatif singulier)|meum(datif singulier)|meum(ablatif singulier)">meo</w> 
-        <w ana="#household"  lemma="foculum(datif singulier)|foculum(ablatif singulier)|foculus(datif singulier)|foculus(ablatif singulier)|foculo(1ère singulier indicatif présent actif)">foculo</w> 
-        <w lemma="discedo(2ème singulier impératif présent actif)">discede</w>.     
+        <w lemma="tunc" pos="ADV" msd="Deg=Pos">Tunc</w>
+        <w lemma="ille" pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=Fem">illa</w>
+        <w lemma="lepidus" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos">lepida</w>
+        <w lemma="alioqui" pos="ADV" msd="Deg=Pos">alioquin</w>
+        <w lemma="et2" pos="CONcoo" msd="MORPH=empty">et</w>
+        <w lemma="dicaculus" pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos">dicacula</w>
+        <w lemma="puella" pos="NOMcom" msd="Case=Voc|Numb=Sing">puella</w>
+        <w lemma="discedo1" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">Discede</w>
+        <w lemma="inquio" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">inquit</w>
+        <w lemma="misellus" pos="NOMpro" msd="Case=Voc|Numb=Sing|Deg=Pos">Miselle</w>
+        <w lemma="," pos="PUNC" msd="MORPH=empty">,</w>
+        <w lemma="quam2" pos="ADVint" msd="Numb=Sing">quam</w>
+        <w lemma="procul" pos="ADV" msd="Deg=Pos">procul</w>
+        <w lemma="ab" pos="PRE" msd="MORPH=empty">a</w>
+        <w lemma="meus" pos="PROpos" msd="Case=Abl|Numb=Sing|Gend=MascNeut">meo</w>
+        <w ana="#household" lemma="foculus" pos="NOMcom" msd="Case=Abl|Numb=Sing">foculo</w>
+        <w lemma="discedo1" pos="VER" msd="Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2">discede</w>
+        <w lemma="." pos="PUNC" msd="MORPH=empty">.</w>
     </quote>
  </div>

@@ -1,13 +1,12 @@
 <div type="fragment" corresp="adams:92" ana="#adjoining_parts #bladder #euphemism #female #cunnus">
     <quote xml:lang="lat" source="urn:cts:latinLit:phi1276.phi001.perseus-lat2:6.63-6.64">
-        <w lemma="Leda(accusatif singulier)|Lede(accusatif singulier)|Ledas(accusatif singulier)|leda(accusatif singulier)">Ledam</w> 
-        <w lemma="mollio(2ème singulier impératif présent actif)|mollis(datif masculin singulier)|mollis(ablatif masculin singulier)|mollis(datif féminin singulier)|mollis(ablatif féminin singulier)|mollis(datif neutre singulier)|mollis(ablatif neutre singulier)|molle(ablatif singulier)|molle(datif singulier)">molli</w> 
-        <w lemma="salto(ablatif masculin singulier participe présent actif)|salto(ablatif féminin singulier participe présent actif)|salto(ablatif neutre singulier participe présent actif)">saltante</w> 
-        <w lemma="Bathyllus(datif singulier)|Bathyllus(ablatif singulier)">Bathyllo</w> 
-        <w lemma="Tuccia(nominatif singulier)|Tuccia(vocatif singulier)|Tuccia(ablatif singulier)">Tuccia</w> 
-        <w ana="#adjoining_parts #bladder
-#euphemism"  lemma="uesica(génitif singulier)|uesica(datif singulier)|uesica(nominatif pluriel)|uesica(vocatif pluriel)">vesicae</w> 
-        <w lemma="non(-)">non</w> 
-        <w lemma="impero(3ème singulier indicatif présent actif)">imperat</w>    
+        <w lemma="Leda" pos="NOMpro" msd="Case=Acc|Numb=Sing">Ledam</w>
+        <w lemma="mollis" pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos">molli</w>
+        <w lemma="salto" pos="VER" msd="Case=Abl|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act">saltante</w>
+        <w lemma="Bathyllus" pos="NOMpro" msd="Case=Abl|Numb=Sing">Bathyllo</w>
+        <w lemma="Tuccia" pos="NOMpro" msd="Case=Nom|Numb=Sing">Tuccia</w>
+        <w ana="#adjoining_parts #bladder #euphemism" lemma="uesica" pos="NOMcom" msd="Case=Dat|Numb=Sing">vesicae</w>
+        <w lemma="non" pos="ADVneg" msd="MORPH=empty">non</w>
+        <w lemma="impero" pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3">imperat</w>
     </quote>
  </div>
